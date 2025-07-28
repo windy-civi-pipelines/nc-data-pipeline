@@ -1,0 +1,104 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 312",
+  "title": "Madison County Courthouse Relocation/Funds.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPROPRIATIONS; BUDGETING; BUILDINGS; CAPITAL SPENDING; CONSTRUCTION; COUNTIES; LOCAL GOVERNMENT; PROPERTY; PUBLIC; MADISON COUNTY; PUBLIC BUILDINGS; PROPERTY-LOCAL GOVERNMENT"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pless",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pless\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Turner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Turner\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H312v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H312v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H312",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:17:13+00:00",
+  "_id": "15f3c648-6bdf-11f0-821e-1a84e89b82ea"
+}

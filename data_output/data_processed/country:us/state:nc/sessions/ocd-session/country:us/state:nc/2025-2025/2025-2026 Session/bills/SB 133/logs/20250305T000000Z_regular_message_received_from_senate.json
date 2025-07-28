@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Regular Message Received From Senate",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 133"
+}

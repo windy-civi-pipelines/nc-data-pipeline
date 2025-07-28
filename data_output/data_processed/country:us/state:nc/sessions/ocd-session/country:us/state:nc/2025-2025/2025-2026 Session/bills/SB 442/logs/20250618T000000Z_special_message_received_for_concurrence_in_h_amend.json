@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Special Message Received For Concurrence in H Amend",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 442"
+}

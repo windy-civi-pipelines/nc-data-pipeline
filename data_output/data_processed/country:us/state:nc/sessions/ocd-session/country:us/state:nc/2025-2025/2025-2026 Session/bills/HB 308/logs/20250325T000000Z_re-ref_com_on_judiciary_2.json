@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-ref Com On Judiciary 2",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 308"
+}

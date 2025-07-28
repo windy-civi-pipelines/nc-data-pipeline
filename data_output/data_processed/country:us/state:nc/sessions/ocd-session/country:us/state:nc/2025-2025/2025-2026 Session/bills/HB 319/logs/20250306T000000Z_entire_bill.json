@@ -1,0 +1,145 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 319",
+  "title": "Hispanic Grassroots/Funds.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPROPRIATIONS; BUDGETING; CORPORATIONS",
+    "NONPROFIT; FUNDING; GRANTS; MINORITIES; PUBLIC; NGOS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zenger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Zenger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ross",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Loftis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Loftis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Branson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Branson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNeely",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McNeely\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Penny",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Penny\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H319v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H319v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H319",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:17:11+00:00",
+  "_id": "14be782c-6bdf-11f0-821e-1a84e89b82ea"
+}

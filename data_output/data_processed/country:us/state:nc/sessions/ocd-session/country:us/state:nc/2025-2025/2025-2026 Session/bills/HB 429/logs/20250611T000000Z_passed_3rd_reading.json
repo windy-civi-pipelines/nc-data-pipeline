@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Passed 3rd Reading",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 429"
+}

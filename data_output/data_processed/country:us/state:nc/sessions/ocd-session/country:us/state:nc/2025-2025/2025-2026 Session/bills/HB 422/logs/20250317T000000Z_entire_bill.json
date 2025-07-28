@@ -1,0 +1,312 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 422",
+  "title": "Beyond The Choice Act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ARMED FORCES; COLLEGES & UNIVERSITIES; EDUCATION; HIGHER EDUCATION; PERSONNEL; PUBLIC; TUITION; VETERANS; SCHOLARSHIPS & FINANCIAL AID"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Higher Education, if favorable, Homeland Security and Military and Veterans Affairs, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Charles Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Charles Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Goodwin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Goodwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Loftis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Loftis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campbell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Campbell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ager",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ager\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Baker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Baker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Belk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Belk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"G. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Butler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Butler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cervania",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cervania\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cohn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Colvin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Colvin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dahle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dahle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dixon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greenfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greenfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harrison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Helfrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Helfrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"F. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Longest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Longest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Pierce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"G. Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Pierce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"R. Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Prather",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Prather\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Quick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Quick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Riddell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Riddell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ward",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willingham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Willingham\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H422v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H422v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H422",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:16:40+00:00",
+  "_id": "01cea9c6-6bdf-11f0-821e-1a84e89b82ea"
+}

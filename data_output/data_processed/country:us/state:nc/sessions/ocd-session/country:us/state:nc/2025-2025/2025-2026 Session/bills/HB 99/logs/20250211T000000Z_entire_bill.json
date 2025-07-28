@@ -1,0 +1,200 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 99",
+  "title": "Reflexologists Right to Work Act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ALTERNATIVE MEDICINE; BOARDS; HEALTH SERVICES; LICENSING & CERTIFICATION; MASSAGE THERAPY BOARD; OCCUPATIONS; PUBLIC"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Health, if favorable, Regulatory Reform, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Riddell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Riddell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Warren",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Warren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Belk",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Belk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brody\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Baker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Baker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dahle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dahle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Greenfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greenfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harrison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kidwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kidwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Majeed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Majeed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McNeely",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McNeely\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Moss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Price",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Price\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shepard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shepard\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H99v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H99v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H99",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:18:20+00:00",
+  "_id": "3dde8ed6-6bdf-11f0-821e-1a84e89b82ea"
+}

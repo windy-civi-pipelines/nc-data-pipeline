@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Special Message Sent To House",
+    "date": "2025-06-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 537"
+}

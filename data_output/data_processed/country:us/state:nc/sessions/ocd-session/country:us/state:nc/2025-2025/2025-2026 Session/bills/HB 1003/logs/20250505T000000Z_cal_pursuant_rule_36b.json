@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Cal Pursuant Rule 36(b)",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1003"
+}

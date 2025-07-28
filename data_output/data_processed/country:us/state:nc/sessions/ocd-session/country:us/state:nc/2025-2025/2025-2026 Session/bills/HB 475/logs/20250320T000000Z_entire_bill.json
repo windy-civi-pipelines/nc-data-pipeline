@@ -1,0 +1,184 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 475",
+  "title": "State Identification Cards for High School Students.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "COUNTIES; DMV; EDUCATION; ELEMENTARY EDUCATION; FEES; ID SYSTEMS; PILOT PROGRAMS; PUBLIC; PUBLIC INSTRUCTION DEPT.; SECONDARY EDUCATION; STUDENTS; TRANSPORTATION DEPT.; MECKLENBURG COUNTY; UNION COUNTY; RANDOLPH COUNTY; WATAUGA COUNTY"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Transportation, if favorable, State and Local Government, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pickett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pickett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Budd",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Biggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ager",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ager\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cervania",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cervania\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cotham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cotham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harrison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hawkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hawkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Penny",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Penny\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Prather",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Prather\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Price",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Price\"}",
+      "organization_id": null
+    },
+    {
+      "name": "von Haefen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"von Haefen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H475v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H475v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H475",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:16:26+00:00",
+  "_id": "f9759aaa-6bde-11f0-821e-1a84e89b82ea"
+}

@@ -1,0 +1,254 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 440",
+  "title": "2025 Governor's Budget.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMIN. HEARINGS OFFICE; ADMINISTRATION DEPT.; AGRICULTURE; AGRICULTURE DEPT.; APPROPRIATIONS; AQUARIUMS; ARMED FORCES; AUDITING & AUDITS; AUTHORITIES; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDINGS; CANCER; CAPITAL SPENDING; CEMETERIES; CHILD SUPPORT; CHILDREN WITH SPECIAL NEEDS; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMERCE DEPT.; COMMISSIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONSTRUCTION; CORPORATIONS",
+    "CORPORATE INCOME; TAXES",
+    "FOR-PROFIT; CORPORATIONS",
+    "HEALTH; INTERNET; JUDGES; JUDICIAL DEPT.; JUSTICE DEPT.; KINDERGARTEN; LABOR DEPT.; LAKES & RIVERS; LAW ENFORCEMENT; LITERACY; LOCAL GOVERNMENT; LOTTERY; LT. GOVERNOR; MAGISTRATES; MEDICAID; MENTAL HEALTH; MINORITIES; MINORS; MOTOR VEHICLES; MOTORCYCLES & MOPEDS; MUSEUMS; NURSES & NURSING; OCCUPATIONS; PARTNERSHIP FOR CHILDREN; PERSONNEL; PILOT PROGRAMS; POLLUTION; POVERTY; PREGNANCY; PRINCIPALS; INMATES; PROPERTY; PUBLIC DEFENDERS; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; PUBLIC OFFICIALS; RADIOLOGY; RETIREMENT; REVENUE DEPT.; ROADS & HIGHWAYS; SAFETY; SALARIES & BENEFITS; SBI; SCHOOL BUILDINGS & PROPERTY; STEM; SECONDARY EDUCATION; SECRETARY OF STATE; SMALL BUSINESS; SOCIAL SERVICES; SOLID WASTE; STATE AUDITOR; STATE BUILDINGS; STATE CONTROLLER; STATE EMPLOYEES; DEBT/STATE GOVERNMENT; STATE TREASURER; STORAGE SYSTEMS; STORAGE TANKS; STUDENTS; TAX CREDITS; TAXATION; TAXES",
+    "INDIVIDUAL INCOME; TEACHERS; TELECOMMUNICATIONS; TELEPHONES; TESTING; TEXTBOOKS; TOBACCO; TRANSPORTATION; TRANSPORTATION DEPT.; TRIBES & TRIBAL GOVERNMENT; TSERS; TUITION; UNC; UNC BOARD OF GOVERNORS; VETERANS; VETERANS AFFAIRS COMN.; VOCATIONAL EDUCATION; WASTE MANAGEMENT; WATER RESOURCES; WILDLIFE RESOURCES COMN.; WOMEN; ZOOS; LOTTERY FUND; HIGHWAY FUND; SUBSTANCE ABUSE; INDIGENT DEFENSE SERVICES OFFICE; ELECTRONIC GOVERNMENT; SCHOLARSHIPS & FINANCIAL AID; ZOO FUND; PUBLIC BUILDINGS; EARLY CHILDHOOD EDUCATION; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LMES-MCOS; PROPERTY-LOCAL GOVERNMENT; PROPERTY-STATE GOVERNMENT; REMEDIATION & CLEANUP; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; NEWBORNS & INFANTS; FAMILY ISSUES; MOBILE PHONES & DEVICES; HUMAN RESOURCES OFFICE; MILITARY AFFAIRS DEPT.; UNC SYSTEM OFFICE; SCHOOL GRADES; SCHOOL OF SCIENCE & MATH; SCHOOL STAFF; ADULT CORRECTION DEPT.",
+    "NONPROFIT; CORRECTIONAL INSTITUTIONS; COST-OF-LIVING; COUNCIL OF STATE; COUNTIES; COURT CLERKS; COURTS; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; CURRICULUM; DAY CARE; DEFINITIONS; DEQ; DHHS; DISABLED PERSONS; DISASTERS & EMERGENCIES; DISEASES & HEALTH DISORDERS; DIVORCE; EDUCATION; EDUCATION ADMINISTRATION; EDUCATION ASSISTANCE AUTHORITY; EDUCATIONAL TESTING; ELECTIONS; ELECTIONS",
+    "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMPLOYMENT; ENVIRONMENT; FEES; FERRIES; FISH & WILDLIFE; FUNDING; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; GOVERNOR; GRANTS; GUARDIANSHIP; HAZARDOUS SUBSTANCES; HEALTH DEPTS.; HEALTH SERVICES; HIGHER EDUCATION; HIGHWAY TRUST FUND; HISTORIC SITES & MONUMENTS; HOSPITALS; HOUSING; HOUSING FINANCE AGENCY; INDIGENTS; INDUSTRIAL COMN.; INFORMATION TECHNOLOGY; INFRASTRUCTURE; INSPECTIONS; INSURANCE; INSURANCE DEPT.; INSURANCE"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Re-ref Com On Appropriations/Base Budget",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jackson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hise",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Hise\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adcock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adcock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Applewhite",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Applewhite\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Batch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Batch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chaudhuri",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chaudhuri\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chitlik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chitlik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Everitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Everitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Garrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grafstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grafstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mayfield",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mayfield\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Meyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Meyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mohammed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mohammed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murdock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Murdock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salvador",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salvador\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Theodros",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Theodros\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Waddell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Waddell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S440v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S440v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/S440",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:11:33+00:00",
+  "_id": "4af65c44-6bde-11f0-821e-1a84e89b82ea"
+}

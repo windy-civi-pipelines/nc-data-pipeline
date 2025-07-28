@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 363",
+  "title": "DST Technical Corrections/Admin. Changes 2025.-AB",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ATTORNEYS; BOARDS; CHARTER SCHOOLS; CJRS; CORPORATIONS",
+    "NONPROFIT; COUNCIL OF STATE; DISABLED PERSONS; EDUCATION; ELEMENTARY EDUCATION; FEES; GENERAL ASSEMBLY; HEALTH SERVICES; INTERSTATE COOPERATION; JUDGES; LGERS; LOCAL GOVERNMENT; LRS; MAGISTRATES; MUNICIPALITIES; OCCUPATIONS; PUBLIC; PUBLIC OFFICIALS; RETIREMENT; SALARIES & BENEFITS; SECONDARY EDUCATION; SOCIAL SERVICES; STATE EMPLOYEES; STATE TREASURER; TEACHERS; TSERS; TSERS BOARD; LGERS BOARD; GOVERNMENT EMPLOYEES; LOCAL GOVERNMENT EMPLOYEES; ABLE PROGRAM BOARD"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Sequential Referral To Judiciary Added After Pensions and Retirement and Aging",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Re-ref to Pensions and Retirement and Aging.  If fav, re-ref to Rules and Operations of the Senate",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Alexander",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hanig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hanig\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S363v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S363v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/S363",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:11:57+00:00",
+  "_id": "59364ba2-6bde-11f0-821e-1a84e89b82ea"
+}

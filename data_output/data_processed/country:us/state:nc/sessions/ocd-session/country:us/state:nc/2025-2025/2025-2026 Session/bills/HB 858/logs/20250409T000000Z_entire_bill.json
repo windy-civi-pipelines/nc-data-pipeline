@@ -1,0 +1,128 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 858",
+  "title": "North Mecklenburg Public Safety/Funds.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPROPRIATIONS; BUDGETING; BUILDINGS; CAPITAL SPENDING; CONSTRUCTION; COUNTIES; EMERGENCY SERVICES; FIREFIGHTERS & FIREFIGHTING; INFRASTRUCTURE; LAW ENFORCEMENT; MUNICIPALITIES; PUBLIC; ROADS & HIGHWAYS; TELECOMMUNICATIONS; TRANSPORTATION; URBAN DEVELOPMENT; MECKLENBURG COUNTY; CORNELIUS; DAVIDSON; HUNTERSVILLE; IREDELL COUNTY; PUBLIC BUILDINGS; EMERGENCY EQUIPMENT; TRAFFIC CONTROL DEVICES; SIDEWALKS & PEDESTRIAN PATHS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Helfrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Helfrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Belk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Belk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Logan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Logan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lopez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lopez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H858v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H858v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H858",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:14:35+00:00",
+  "_id": "b7986572-6bde-11f0-821e-1a84e89b82ea"
+}

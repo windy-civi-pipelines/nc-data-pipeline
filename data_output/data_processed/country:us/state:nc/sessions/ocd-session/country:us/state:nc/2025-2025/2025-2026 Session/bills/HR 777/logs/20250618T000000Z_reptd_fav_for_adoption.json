@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reptd Fav For Adoption",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 777"
+}

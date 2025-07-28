@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conf Com Appointed",
+    "date": "2025-06-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 423"
+}

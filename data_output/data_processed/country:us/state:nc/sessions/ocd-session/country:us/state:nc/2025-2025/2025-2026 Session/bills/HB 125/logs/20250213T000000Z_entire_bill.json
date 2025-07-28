@@ -1,0 +1,482 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 125",
+  "title": "Continuing Budget Operations.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGRICULTURAL INSPECTION; AGRICULTURE; AGRICULTURE DEPT.; ANIMALS; AOC; APPOINTMENTS; APPROPRIATIONS; ARMED FORCES; ARTS; ATTORNEYS; AUDITING & AUDITS; BIOTECHNOLOGY; BOARDS; BUDGET & MANAGEMENT OFFICE; BUDGETING; BUILDING CODES; BUILDINGS; CAPITAL SPENDING; CIVIL PROCEDURE; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMISSIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONTROLLED SUBSTANCES; COST-OF-LIVING; COUNCIL OF STATE; COUNTIES; COURTS; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DEQ; DHHS; DISASTERS & EMERGENCIES; ECONOMIC DEVELOPMENT; EDUCATION; ELECTIONS; ELECTIONS",
+    "HEALTH; INSURANCE",
+    "PROPERTY; INTERNET; JUDGMENTS & SETTLEMENTS; JUDICIAL DEPT.; LAW ENFORCEMENT; LICENSING & CERTIFICATION; LIVESTOCK & POULTRY; LOTTERY; MANAGED CARE; MEDICAID; MENTAL HEALTH; MINORITIES; OCCUPATIONAL TESTING; OCCUPATIONS; OFFICE AUTOMATION; PERSONNEL; PHYSICIANS; PILOT PROGRAMS; POVERTY; PRESIDENT PRO TEMPORE; PRODUCE; PROFESSIONAL EDUCATION; PROPERTY; PUBLIC; PUBLIC DEFENDERS; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; PUBLIC OFFICIALS; RELIGION & RELIGIOUS INSTITUTIONS; REVENUE DEPT.; ROADS & HIGHWAYS; RURAL DEVELOPMENT; SAFETY; SALARIES & BENEFITS; SBI; SCHOOL BUILDINGS & PROPERTY; STEM; SCHOOL OF SCIENCE & MATH BOARD; SECONDARY EDUCATION; SESSION LAWS; SOCIAL SERVICES; SPEAKER; STATE AUDITOR; STATE BUILDINGS; STATE CONTROLLER; STATE EMPLOYEES; STATE SYMBOLS; STATE TREASURER; TAXATION; TESTING; TITLE CHANGE; TRANSPORTATION; TRANSPORTATION DEPT.; TUITION; UNC; UNC BOARD OF GOVERNORS; VETERANS; LOTTERY COMN.; WILSON COUNTY; HIGHWAY FUND; MILITARY AFFAIRS COMN.; LUMBER RIVER; INDIGENT DEFENSE SERVICES OFFICE; MANUFACTURED HOMES; ELECTRONIC GOVERNMENT; SCHOLARSHIPS & FINANCIAL AID; PUBLIC BUILDINGS; CIVIL ACTIONS; GOVERNMENT EMPLOYEES; HIGHWAY PATROL; LMES-MCOS; PROPERTY-LOCAL GOVERNMENT; PROPERTY-STATE GOVERNMENT; CASH CROPS; PUBLIC SAFETY DEPT.; ABANDONED PROPERTY; MILITARY AFFAIRS DEPT.; CONTINUING CARE FACILITIES; STATE FIRE MARSHAL; UNC SYSTEM OFFICE; SCHOOL OF SCIENCE & MATH; SCHOOL OF THE ARTS; SCHOOL OF THE ARTS BOARD; SEMIQUINCENTENNIAL COMM.",
+    "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMERGING TECHNOLOGIES; EMPLOYMENT; ENVIRONMENT; ENVIRONMENTAL HEALTH; ENVIRONMENTAL MANAGEMENT COMN.; ESCHEATS; FEES; FINANCIAL INSTITUTIONS; FINANCIAL SERVICES; FOODS & BEVERAGES; FUNDS & ACCOUNTS; GAMING; GENERAL ASSEMBLY; HEALTH SERVICES; HIGHER EDUCATION; HIGHWAY TRUST FUND; HISTORIC SITES & MONUMENTS; HOME INSPECTOR BOARD; HOUSING; INDIGENTS; INFORMATION TECHNOLOGY; INSPECTIONS; INSURANCE; INSURANCE"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Conf Com Appointed",
+      "date": "2025-06-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Conf Com Appointed",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Failed Concur In S Com Sub",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added to Calendar",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2025-06-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Special Message Received For Concurrence in S Com Sub",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Special Message Sent To House",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Engrossed",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Amend Tabled A7",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Amend Tabled A6",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Amend Tabled A5",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Amend Tabled A4",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Amend Adopted A3",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Amend Adopted A2",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Amend Adopted A1",
+      "date": "2025-06-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Com Substitute Adopted",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sequential Referral To Rules and Operations of the Senate Stricken",
+      "date": "2025-06-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Re-ref to Appropriations/Base Budget.  If fav, re-ref to Rules and Operations of the Senate",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Regular Message Received From House",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Regular Message Sent To Senate",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Placed On Cal For 03/18/2025",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Cal Pursuant Rule 36(b)",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Re-ref Com On Commerce and Economic Development",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2025-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Re-ref to the Com on State and Local Government, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lambeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lambeth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Par\u00e9",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Par\\u00e9\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Hall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"K. Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"White\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H125v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H125v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 2",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H125v2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 3",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H125v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A3: AMQ-31-V-1",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/6862/0/H125-AMQ-31-V-1",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A2: ANE-19-V-2",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/6842/0/H125-ANE-19-V-2",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A1: AMQ-32-V-2",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/6841/0/H125-AMQ-32-V-2",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H125",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:18:13+00:00",
+  "_id": "3958e532-6bdf-11f0-821e-1a84e89b82ea"
+}

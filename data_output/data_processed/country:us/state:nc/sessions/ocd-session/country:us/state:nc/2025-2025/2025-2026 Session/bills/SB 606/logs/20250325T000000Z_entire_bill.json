@@ -1,0 +1,152 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB 606",
+  "title": "Language Access and State Holidays Act.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ADMINISTRATION DEPT.; APPROPRIATIONS; BOARDS; BUDGETING; CALENDAR; DHHS; DMV; DRIVERS LICENSES; EDUCATION; EDUCATION BOARDS; ELEMENTARY EDUCATION; HEALTH SERVICES; HOLIDAYS & OBSERVANCE DAYS; ID SYSTEMS; KINDERGARTEN; LANGUAGES; LICENSES & PERMITS; LOCAL GOVERNMENT; MEDIA; MOTOR VEHICLES; PUBLIC; PUBLIC INSTRUCTION DEPT.; PUBLISHING; SECONDARY EDUCATION; TESTING; TRANSPORTATION DEPT.; MOTOR VEHICLES BOARD; MOTOR VEHICLE AUTHORITY"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref To Com On Rules and Operations of the Senate",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Batch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Batch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chaudhuri",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chaudhuri\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mohammed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mohammed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chitlik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chitlik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grafstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grafstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murdock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Murdock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Waddell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Waddell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S606v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S606v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/S606",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:10:47+00:00",
+  "_id": "2fb85176-6bde-11f0-821e-1a84e89b82ea"
+}

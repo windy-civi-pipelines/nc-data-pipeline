@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amend Adopted A1",
+    "date": "2025-06-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 472"
+}

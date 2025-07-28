@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ref to the Com on Appropriations, if favorable, Finance, if favorable, Pensions and Retirement",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 257"
+}

@@ -1,0 +1,281 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 710",
+  "title": "Mental Health Crisis Unit Pilot for Local School Administrative Units.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPROPRIATIONS; BOARDS; BUDGETING; EDUCATION; EDUCATION BOARDS; EDUCATION",
+    "STATE BOARD OF; ELEMENTARY EDUCATION; EMERGENCY MEDICAL SERVICES; EMERGENCY SERVICES; HEALTH SERVICES; KINDERGARTEN; LOCAL GOVERNMENT; MENTAL HEALTH; PILOT PROGRAMS; PUBLIC; PUBLIC INSTRUCTION DEPT.; SECONDARY EDUCATION; STUDENTS; CHAPTERED"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"T. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lambeth",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lambeth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cunningham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cunningham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cotham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cotham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ball",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brisson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brisson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Buansi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Buansi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cervania",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cervania\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crawford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Crawford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dahle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dahle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hawkins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hawkins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Helfrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Helfrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"F. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Longest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Longest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Majeed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Majeed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Moss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Moss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Pierce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"G. Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Pierce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"R. Pierce\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rubin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rubin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charles Smith\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H710v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H710v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H710",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:15:17+00:00",
+  "_id": "d04ea9a0-6bde-11f0-821e-1a84e89b82ea"
+}

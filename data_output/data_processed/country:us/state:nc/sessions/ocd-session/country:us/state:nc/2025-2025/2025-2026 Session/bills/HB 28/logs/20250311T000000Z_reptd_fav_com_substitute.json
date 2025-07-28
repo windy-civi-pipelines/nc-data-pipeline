@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reptd Fav Com Substitute",
+    "date": "2025-03-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 28"
+}

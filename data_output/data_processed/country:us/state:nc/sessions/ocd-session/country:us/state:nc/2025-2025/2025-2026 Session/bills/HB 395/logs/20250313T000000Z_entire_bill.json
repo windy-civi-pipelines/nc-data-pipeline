@@ -1,0 +1,97 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 395",
+  "title": "Jackson, Transylvania and Swain Counties/Funds.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPROPRIATIONS; BOARDS; BUDGETING; BUILDINGS; CAPITAL SPENDING; COMMUNITY COLLEGES; CORPORATIONS",
+    "NONPROFIT; COUNTIES; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; DENTISTS & DENTISTRY; DISASTERS & EMERGENCIES; EDUCATION; EDUCATION BOARDS; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; FIREFIGHTERS & FIREFIGHTING; FOODS & BEVERAGES; HEALTH SERVICES; INFRASTRUCTURE; KINDERGARTEN; LOCAL GOVERNMENT; MUNICIPALITIES; MUSEUMS; NUTRITION; OCCUPATIONS; PROPERTY; PUBLIC; SCHOOL BUILDINGS & PROPERTY; STEM; SECONDARY EDUCATION; SOCIAL SERVICES; TELECOMMUNICATIONS; UTILITIES; WATER & SEWER SYSTEMS; JACKSON COUNTY; SWAIN COUNTY; TRANSYLVANIA COUNTY; BREVARD; CASHIERS; SYLVA; PUBLIC BUILDINGS; BRYSON CITY; ROSMAN; EMERGENCY EQUIPMENT; PROPERTY-LOCAL GOVERNMENT; COMMUNITY COLLEGE BOARDS; FOOD & NUTRITION PROGRAMS; DILLSBORO"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ref to the Com on Appropriations, if favorable, Rules, Calendar, and Operations of the House",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Filed",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Clampitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Clampitt\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H395v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H395v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H395",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "scraped_at": "2025-07-28T18:16:48+00:00",
+  "_id": "06d17e58-6bdf-11f0-821e-1a84e89b82ea"
+}

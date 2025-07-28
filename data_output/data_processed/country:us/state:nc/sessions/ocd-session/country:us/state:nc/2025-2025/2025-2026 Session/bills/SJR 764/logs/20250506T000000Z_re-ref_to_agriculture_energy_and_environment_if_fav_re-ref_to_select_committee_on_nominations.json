@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-ref to Agriculture, Energy, and Environment.  If fav, re-ref to Select Committee on Nominations",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 764"
+}

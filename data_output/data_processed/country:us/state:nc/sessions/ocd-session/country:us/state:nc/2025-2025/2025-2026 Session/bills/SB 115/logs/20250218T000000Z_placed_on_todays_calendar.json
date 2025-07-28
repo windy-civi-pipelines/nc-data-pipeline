@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Placed on Today's Calendar",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 115"
+}

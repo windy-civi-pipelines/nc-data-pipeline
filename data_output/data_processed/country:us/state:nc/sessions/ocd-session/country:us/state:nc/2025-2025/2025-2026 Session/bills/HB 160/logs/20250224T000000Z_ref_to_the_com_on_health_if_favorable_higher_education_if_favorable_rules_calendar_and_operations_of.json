@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ref to the Com on Health, if favorable, Higher Education, if favorable, Rules, Calendar, and Operations of the House",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 160"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Amend Tabled A2",
+    "date": "2025-06-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 391"
+}

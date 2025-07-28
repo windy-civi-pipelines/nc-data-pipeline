@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conf Report Adopted",
+    "date": "2025-06-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 311"
+}
