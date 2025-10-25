@@ -1,0 +1,331 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 1015",
+  "title": "General Assembly Appointments.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AGRICULTURAL FINANCE AUTHORITY; AGRICULTURE; AGRICULTURE DEPT.; APPOINTMENTS; AUTHORITIES; BARBERS & COSMETOLOGISTS; BOARDS; BUILDINGS; CENTENNIAL AUTHORITY; CHARTER SCHOOLS; CJE & TRAINING STANDARDS COMN.; COLLEGES & UNIVERSITIES; COMMERCE; COMMISSIONS; COMMITTEES; COMMUNITY COLLEGES; COMMUNITY COLLEGES BOARD; CORPORATIONS",
+    "NONPROFIT; CULTURAL RESOURCES; NATURAL & CULTURAL RESOURCES DEPT.; ECONOMIC DEVELOPMENT; EDUCATION; EDUCATION",
+    "PROPERTY; TEACHERS; UNC; WILDLIFE RESOURCES COMN.; BARBER EXAMINERS BOARD; CHAPTERED; ECONOMIC INVESTMENT COMM.; BOXING COMN.; AFRICAN-AMERICAN HERITAGE COMN.; COMMUNITY COLLEGE BOARDS; CHARTER SCHOOLS REVIEW BOARD; HUMAN RESOURCES COMN.; PROFESSIONAL EDUCATOR COMN.; SCHOOL OF SCIENCE & MATH; PROPERTY TAX COMN.; NCINNOVATION BOARD; INVESTMENT AUTHORITY",
+    "STATE BOARD OF; EMERGING TECHNOLOGIES; EMPLOYMENT; ENVIRONMENT; FISH & WILDLIFE; GENERAL ASSEMBLY; HIGHER EDUCATION; HOUSING; HOUSING FINANCE AGENCY; INVESTMENTS; LAW ENFORCEMENT; LAW ENFORCEMENT OFFICERS; LICENSING & CERTIFICATION; MANUFACTURING; MINORITIES; MINORS; OCCUPATIONS; PARTNERSHIP FOR CHILDREN; PRESIDENT PRO TEMPORE; PROFESSIONAL EDUCATION; PROPERTY; PUBLIC; PUBLIC INSTRUCTION DEPT.; RATIFIED; REAL ESTATE; RESEARCH; STEM; SCHOOL OF SCIENCE & MATH BOARD; SECONDARY EDUCATION; SESSION LAWS; SPEAKER; SPORTS; STATE EMPLOYEES; STATE TREASURER; TAXATION; TAXES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Ch. SL 2025-86",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Ratified",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Ordered Enrolled",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Placed on Today's Calendar",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Special Message Received From House",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Special Message Sent To Senate",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Ordered Engrossed",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Amend Adopted A1",
+      "date": "2025-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 07/29/2025",
+      "date": "2025-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant Rule 36(b)",
+      "date": "2025-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2025-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "date": "2025-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Passed 1st Reading",
+      "date": "2025-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    },
+    {
+      "description": "Filed",
+      "date": "2025-07-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:07:01Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1015v0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 1",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1015v1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 2",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1015v2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ratified",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1015v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SL 2025-86",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1015v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A1: ALG-14-V-1",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/7324/0/H1015-ALG-14-V-1",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.ncleg.gov/BillLookUp/2025/H1015",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:nc/government",
+    "name": "North Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:nc"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:07:01Z"
+  }
+}

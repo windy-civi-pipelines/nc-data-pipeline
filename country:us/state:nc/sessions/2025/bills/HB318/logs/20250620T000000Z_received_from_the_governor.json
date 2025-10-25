@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Received from the Governor",
+    "date": "2025-06-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 318"
+}

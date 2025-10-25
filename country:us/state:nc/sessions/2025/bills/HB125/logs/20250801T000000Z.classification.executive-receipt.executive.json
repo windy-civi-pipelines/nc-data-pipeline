@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Pres. To Gov. 8/1/2025",
+    "date": "2025-08-01",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 125"
+}

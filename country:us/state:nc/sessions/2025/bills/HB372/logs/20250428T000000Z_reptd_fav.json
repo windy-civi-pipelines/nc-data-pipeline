@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reptd Fav",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 372"
+}

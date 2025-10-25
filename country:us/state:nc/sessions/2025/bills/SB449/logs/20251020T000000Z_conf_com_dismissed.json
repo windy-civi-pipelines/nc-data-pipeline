@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conf Com Dismissed",
+    "date": "2025-10-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 449"
+}

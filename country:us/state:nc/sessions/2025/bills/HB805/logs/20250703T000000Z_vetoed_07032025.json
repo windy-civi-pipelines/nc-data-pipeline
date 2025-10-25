@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed 07/03/2025",
+    "date": "2025-07-03",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 805"
+}

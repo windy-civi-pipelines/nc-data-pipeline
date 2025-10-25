@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Placed On Cal For 06/10/2025",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 309"
+}

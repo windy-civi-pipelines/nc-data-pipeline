@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed 08/06/2025",
+    "date": "2025-08-06",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 87"
+}

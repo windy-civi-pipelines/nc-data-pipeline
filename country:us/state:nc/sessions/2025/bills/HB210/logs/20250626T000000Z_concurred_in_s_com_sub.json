@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Concurred In S Com Sub",
+    "date": "2025-06-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 210"
+}

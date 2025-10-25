@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Became Law W/o Signature",
+    "date": "2025-10-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 926"
+}

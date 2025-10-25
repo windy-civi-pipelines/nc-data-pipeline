@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed 06/27/2025",
+    "date": "2025-06-27",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 402"
+}

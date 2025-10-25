@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Pres. To Gov. 6/26/2025",
+    "date": "2025-06-26",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 321"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Regular Message Received For Concurrence in H Com Sub",
+    "date": "2025-06-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 125"
+}

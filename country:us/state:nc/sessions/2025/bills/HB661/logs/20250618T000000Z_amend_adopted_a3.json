@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amend Adopted A3",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 661"
+}

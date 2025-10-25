@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Sequential Referral To Rules and Operations of the Senate Stricken",
+    "date": "2025-06-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1012"
+}

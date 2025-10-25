@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Re-ref to Health Care.  If fav, re-ref to Rules and Operations of the Senate",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 405"
+}

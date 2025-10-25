@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amend Failed A40",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 257"
+}

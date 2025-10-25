@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Ch. Res 2025-1",
+    "date": "2025-01-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 2"
+}
