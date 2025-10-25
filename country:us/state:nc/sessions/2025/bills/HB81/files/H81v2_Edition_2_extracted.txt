@@ -1,0 +1,517 @@
+Title: HOUSE BILL 81
+Official Title: HOUSE BILL 81
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 3/20/25
+Short Title: Restrict Use of Vehicle Telematics. (Public)
+Sponsors:
+Referred to:
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REQUIRING NOTICE AND CONSENT BEFORE AN INSURANCE INSTITUTION
+3 OR AGENT MAY USE VEHICLE TELEMATICS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 39 of Chapter 58 of the General Statutes is amended by adding
+6 a new section to read:
+7 "§ 58-39-33. Use of vehicle telematics.
+8 (a) Notice and Consent Required. – An insurance institution or agent shall not collect,
+9 receive, sell, share, or otherwise use vehicle telematics regarding an applicant or policyholder
+10 without first doing all of the following:
+11 (1) Notifying the applicant or policyholder how the vehicle telematics will be
+12 used.
+13 (2) Obtaining the consent of the applicant or policyholder in writing.
+14 (3) Notifying the applicant or policyholder that consent may be revoked at any
+15 time.
+16 (b) Revocation of Consent. – Any applicant or policyholder providing consent pursuant
+17 to this section may revoke consent at any time. An insurance institution or agent collecting,
+18 receiving, selling, sharing, or otherwise using vehicle telematics shall (i) provide an applicant or
+19 policyholder with reasonable means to communicate revocation of consent and (ii) effectuate the
+20 revocation of consent within 24 hours of its communication.
+21 (c) Penalty. – A violation of this section constitutes both an unfair trade practice under
+22 Article 63 of this Chapter and an unfair and deceptive trade practice under G.S. 75-1.1."
+23 SECTION 2. G.S. 58-39-15 reads as rewritten:
+24 "§ 58-39-15. Definitions.
+25 As used in this Article:
+26 (1) "Adverse underwriting decision" means:Adverse underwriting decision. –
+27 a. Any of the following actions with respect to insurance transactions
+28 involving insurance coverage that is individually underwritten:
+29 1. A declination of insurance coverage;coverage.
+30 2. A termination of insurance coverage;coverage.
+31 3. Failure of an agent to apply for insurance coverage with a
+32 specific insurance institution that an agent represents and that
+33 is requested by an applicant;applicant.
+34 4. In the case of a property or casualty insurance coverage:
+35 I. Placement by an insurance institution or agent of a risk
+36 with a residual market mechanism, an unauthorized
+*H81-v-2*
+General Assembly Of North Carolina Session 2025
+1 insurer, or an insurance institution that specializes in
+2 substandard risks; or
+3 II. The charging of a higher rate on the basis of
+4 information that differs from that which the applicant
+5 or policyholder furnished; orfurnished.
+6 5. In the case of a life, health, or disability insurance coverage, an
+7 offer to insure at higher than standard rates.
+8 b. Notwithstanding subdivision (1)a. of this section, none of the
+9 following actions shall not be considered adverse underwriting
+10 decisions, but the insurance institution or agent responsible for their
+11 occurrence shall nevertheless provide the applicant or policyholder
+12 with the specific reason or reasons for their occurrence:
+13 1. The termination of an individual policy form on a class or
+14 statewide basis;basis.
+15 2. A declination of insurance coverage solely because such
+16 coverage is not available on a class or statewide basis; orbasis.
+17 3. The rescission of a policy.
+18 (2) "Affiliate" or "affiliated" means a Affiliate or affiliated. – A person that
+19 directly, or indirectly through one or more intermediaries, controls, is
+20 controlled by, or is under common control with another person.
+21 (3) "Agent" has Agent. – Agent has the meaning as set forth in G.S. 58-33-10,
+22 and includes limited representatives, limited line credit insurance producers,
+23 limited lines producers, insurance producers, and surplus lines licensees.
+24 (4) "Applicant" means any Applicant. – Any person who seeks to contract for
+25 insurance coverage other than a person seeking group insurance that is not
+26 individually underwritten.
+27 (5) "Consumer report" means any Consumer report. – Any written, oral, or other
+28 communication of information bearing on a natural person's credit worthiness,
+29 credit standing, credit capacity, character, general reputation, personal
+30 characteristics, or mode of living that is used or expected to be used in
+31 connection with an insurance transaction.
+32 (6) "Consumer reporting agency" means any Consumer reporting agency. – Any
+33 person who:who does all of the following:
+34 a. Regularly engages, in whole or in part, in the practice of assembling
+35 or preparing consumer reports for a monetary fee;fee.
+36 b. Obtains information primarily from sources other than insurance
+37 institutions; andinstitutions.
+38 c. Furnishes consumer reports to other persons.
+39 (7) "Control," including the terms "controlled by" or "under common control
+40 with," means the Control, controlled by, or under common control with. – The
+41 possession, direct or indirect, of the power to direct or cause the direction of
+42 the management and policies of a person, whether through the ownership of
+43 voting securities, by contract other than a commercial contract for goods or
+44 nonmanagement services, or otherwise, unless the power is the result of an
+45 official position with or corporate office held by the person.
+46 (8) "Declination of insurance coverage" means a Declination of insurance
+47 coverage. – A denial, in whole or in part, by an insurance institution or agent
+48 of requested insurance coverage.
+49 (9) "Individual" means any Individual. – Any natural person who:who is any of
+50 the following:
+Page 2 House Bill 81-Second Edition
+General Assembly Of North Carolina Session 2025
+1 a. In the case of property or casualty insurance, is a past, present, or
+2 proposed named insured or certificate holder;holder.
+3 b. In the case of life, health, or disability insurance, is a past, present, or
+4 proposed principal insured or certificate holder;holder.
+5 c. Is a past, present or proposed policy owner;owner.
+6 d. Is a past or present applicant;applicant.
+7 e. Is a past or present claimant;claimant.
+8 f. Derived, derives, or is proposed to derive insurance coverage under an
+9 insurance policy or certificate subject to this Article; orArticle.
+10 g. Is the subject of personal information collected or maintained by an
+11 insurance institution, agent, or insurance-support organization in
+12 connection with mortgage guaranty insurance.
+13 (10) "Institutional source" means any Institutional source. – Any person or
+14 governmental entity that provides information about an individual to an agent,
+15 insurance institution, or insurance-support organization, other than:than any
+16 of the following:
+17 a. An agent;agent.
+18 b. The individual who is the subject of the information; orinformation.
+19 c. A natural person acting in a personal capacity rather than in a business
+20 or professional capacity.
+21 (11) "Insurance institution" means any Insurance institution. – Any corporation,
+22 association, partnership, reciprocal exchange, inter-insurer, Lloyd's insurer,
+23 fraternal benefit society, or other person engaged in the business of insurance,
+24 including health maintenance organizations and medical, surgical, hospital,
+25 dental, and optometric service plans, governed by Articles 65 through 67 of
+26 this Chapter. "Insurance institution" shall not include agents or
+27 insurance-support organizations.
+28 (12) "Insurance-support organization" means any Insurance-support organization.
+29 – Any person who regularly engages, in whole or in part, in the practice of
+30 assembling or collecting information about natural persons for the primary
+31 purpose of providing the information to an insurance institution or agent for
+32 insurance transactions, including: (i) the furnishing of consumer reports or
+33 investigative consumer reports to an insurance institution or agent for use in
+34 connection with an insurance transaction; or (ii) the collection of personal
+35 information from insurance institutions, agents, or other insurance-support
+36 organizations for the purpose of detecting or preventing fraud, material
+37 misrepresentation, or material nondisclosure in connection with insurance
+38 underwriting or insurance claim activity; provided, however, the following
+39 persons shall not be considered "insurance-support organizations" for
+40 purposes of this Article: agents, governmental institutions, insurance
+41 institutions, medical-care institutions, and medical professionals.
+42 (13) "Insurance transaction" means any Insurance transaction. – Any transaction
+43 involving insurance primarily for personal, family, or household needs rather
+44 than business or professional needs that entails:entails either of the following:
+45 a. The determination of an individual's eligibility for an insurance
+46 coverage, benefit, or payment; orpayment.
+47 b. The servicing of an insurance application, policy, contract, or
+48 certificate.
+49 (14) "Investigative consumer report" means a Investigative consumer report. – A
+50 consumer report or portion thereof in which information about a natural
+51 person's character, general reputation, personal characteristics, or mode of
+House Bill 81-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 living is obtained through personal interviews with the person's neighbors,
+2 friends, associates, acquaintances, or others who may have knowledge
+3 concerning such items of information.
+4 (15) "Life insurance" includes Life insurance. – Life insurance includes annuities.
+5 (16) "Medical-care institution" means any Medical-care institution. – Any facility
+6 or institution that is licensed to provide health care services to natural persons,
+7 including but not limited to, hospitals, skilled nursing facilities, home-health
+8 agencies, medical clinics, rehabilitation agencies, public health agencies, or
+9 health-maintenance organizations.
+10 (17) "Medical professional" means any Medical professional. – Any person
+11 licensed or certified to provide health care services to natural persons,
+12 including but not limited to, a physician, dentist, nurse, chiropractor,
+13 optometrist, physical or occupational therapist, licensed clinical social
+14 worker, clinical dietitian, clinical psychologist, pharmacist, or speech
+15 therapist.
+16 (18) "Medical-record information" means personal Medical-record information. –
+17 Personal information that:
+18 a. Relates to an individual's physical or mental condition, medical
+19 history, or medical treatment; and
+20 b. Is obtained from a medical professional or medical-care institution,
+21 from the individual, or from the individual's spouse, parent, or legal
+22 guardian.
+23 (19) "Personal information" means any Personal information. – Any individually
+24 identifiable information gathered in connection with an insurance transaction
+25 from which judgments can be made about an individual's character, habits,
+26 avocations, finances, occupation, general reputation, credit, health, or any
+27 other personal characteristics. "Personal information" includes an individual's
+28 name and address and medical-record information, but does not include
+29 privileged information.
+30 (20) "Policyholder" means any person who:Policyholder. – Any of the following:
+31 a. In the case of individual property or casualty insurance, a person who
+32 is a present named insured;insured.
+33 b. In the case of individual life or accident and health insurance, a person
+34 who is a present policy owner; orowner.
+35 c. In the case of group insurance that is individually underwritten, a
+36 person who is a present group certificate holder.
+37 (21) "Pretext interview" means an Pretext interview. – An interview whereby a
+38 person, in an attempt to obtain information about a natural person, performs
+39 one or more of the following acts:
+40 a. Pretends to be someone he is not;not.
+41 b. Pretends to represent a person he is not in fact
+42 representing;representing.
+43 c. Misrepresents the true purpose of the interview; orinterview.
+44 d. Refuses to identify himself upon request.
+45 (22) "Privileged information" means any Privileged information. – Any
+46 individually identifiable information that (i) relates to a claim for insurance
+47 benefits or a civil or criminal proceeding involving an individual, and (ii) is
+48 collected in connection with or in reasonable anticipation of a claim for
+49 insurance benefits or civil or criminal proceeding involving an individual:
+50 Provided, however, information otherwise meeting the requirements of this
+Page 4 House Bill 81-Second Edition
+General Assembly Of North Carolina Session 2025
+1 subsection shall nevertheless be considered personal information under this
+2 Article if it is disclosed in violation of G.S. 58-39-75.
+3 (23) "Residual market mechanism" means any Residual market mechanism. – Any
+4 reinsurance facility, joint underwriting association, assigned risk plan, or other
+5 similar plan established under the laws of this State.
+6 (24) "Termination of insurance coverage" or "termination of an insurance policy"
+7 means either Termination of insurance coverage or termination of an
+8 insurance policy. – Either a cancellation or nonrenewal of an insurance policy,
+9 in whole or in part, for any reason other than the failure to pay a premium as
+10 required by the policy.
+11 (25) "Unauthorized insurer" means an Unauthorized insurer. – An insurance
+12 institution that has not been granted a license by the Commissioner to transact
+13 the business of insurance in this State.
+14 (26) Vehicle telematics. – Data regarding an individual's driving habits obtained
+15 through the installation of a tracking device, application, or software into an
+16 individual's motor vehicle or mobile device that transmits the data via wireless
+17 networks."
+18 SECTION 3. G.S. 14-196.3 reads as rewritten:
+19 "§ 14-196.3. Cyberstalking.
+20 (a) The following definitions apply in this section:
+21 …
+22 (b) It is unlawful for a person to:
+23 …
+24 (5) Knowingly install, place, or use an electronic tracking device without consent,
+25 or cause an electronic tracking device to be installed, placed, or used without
+26 consent, to track the location of any person. The provisions of this subdivision
+27 do not apply to the installation, placement, or use of an electronic tracking
+28 device by any of the following:
+29 …
+30 l. An insurance institution or agent that collects, receives, sells, shares,
+31 or otherwise uses vehicle telematics, as defined in G.S. 58-39-15,
+32 regarding an applicant or policyholder through the installation of a
+33 tracking device, application, or software into an individual's motor
+34 vehicle or mobile device that transmits the data via wireless networks,
+35 provided the insurance institution or agent obtains written consent in
+36 accordance with G.S. 58-39-33.
+37 …."
+38 SECTION 4. This act becomes effective October 1, 2025, and applies to contracts
+39 issued, renewed, or amended on or after that date.
+House Bill 81-Second Edition Page 5
+[DELETED:  2 R (   A A O T S a " ( N r w ( N u ( O ( N t ( R t r p r ( P A S " A ( " a A i 1 A 2 A 3 F o a a t a f i c w a s i 4 I I P w a r m m a u]
+[DELETED:  S  H i s I T c o a h r o t b o i o 5 I o b N s ( o t s n o t f a s n b c a u d o w 1 T t o i p f o a c o s 2 A d o i c s b s c 3 T ( " o " m a A o a – A p t d o i t o o m i c i c ( " a l ( " i i ( " c c s c c c g r p c o m o l t i u o e t b u i c ( " p a R o b O i p f s o t i i c F ( " i t t " b o " c c w p t v n o ( " o i c m a D o i c o ( " t]
+[DELETED:  S  P a I p b I p c I d I e I f D i g I i i a o i o i c ( " s m a I s – A p o g i o a A b T c A o ( " a f i d t C " i s n i a o i ( " – a p i i c i o f t p o d o p f m m o m n i c w i u p s n b c " o f p o t A a g i i i ( " i t a T d o a i e f a i c b T s o a i a p c o c ( " c r o p t i w i a a n p]
+[DELETED:  S  H l f a a o o w m h k c ( " ( " o i a h ( " p m a M p – A p l o c t p h c s t n p i b n l t a p d n c o p o o t l c s w c d c p p o s t ( " P a R t a i p o m c m h b I f g ( " i f a f o g r c h o a o n a a a m i b d n i p ( " a I i b I w c I t c o g i t i i u a p ( " p o a P b P t r a p h i n i f r c M d R ( " i m a P i – A i b c i c w o i r a o a c f i P]
+[DELETED:  S  P s A ( " r s ( " m e T o i c o t o a i i r ( " i m a U i – A i i t ( V t i n S " ( T … ( I … ( K o c d d … l A o o u v t a d i G r t v p a … S i]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 81
+Committee Substitute Favorable 3/20/25
+Short Title: Restrict Use of Vehicle Telematics. (Public)
+Sponsors:
+Referred to:
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REQUIRING NOTICE AND CONSENT BEFORE AN INSURANCE INSTITUTION
+3 OR AGENT MAY USE VEHICLE TELEMATICS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 39 of Chapter 58 of the General Statutes is amended by adding
+6 a new section to read:
+7 "§ 58-39-33. Use of vehicle telematics.
+8 (a) Notice and Consent Required. – An insurance institution or agent shall not collect,
+9 receive, sell, share, or otherwise use vehicle telematics regarding an applicant or policyholder
+10 without first doing all of the following:
+11 (1) Notifying the applicant or policyholder how the vehicle telematics will be
+12 used.
+13 (2) Obtaining the consent of the applicant or policyholder in writing.
+14 (3) Notifying the applicant or policyholder that consent may be revoked at any
+15 time.
+16 (b) Revocation of Consent. – Any applicant or policyholder providing consent pursuant
+17 to this section may revoke consent at any time. An insurance institution or agent collecting,
+18 receiving, selling, sharing, or otherwise using vehicle telematics shall (i) provide an applicant or
+19 policyholder with reasonable means to communicate revocation of consent and (ii) effectuate the
+20 revocation of consent within 24 hours of its communication.
+21 (c) Penalty. – A violation of this section constitutes both an unfair trade practice under
+22 Article 63 of this Chapter and an unfair and deceptive trade practice under G.S. 75-1.1."
+23 SECTION 2. G.S. 58-39-15 reads as rewritten:
+24 "§ 58-39-15. Definitions.
+25 As used in this Article:
+26 (1) "Adverse underwriting decision" means:Adverse underwriting decision. –
+27 a. Any of the following actions with respect to insurance transactions
+28 involving insurance coverage that is individually underwritten:
+29 1. A declination of insurance coverage;coverage.
+30 2. A termination of insurance coverage;coverage.
+31 3. Failure of an agent to apply for insurance coverage with a
+32 specific insurance institution that an agent represents and that
+33 is requested by an applicant;applicant.
+34 4. In the case of a property or casualty insurance coverage:
+35 I. Placement by an insurance institution or agent of a risk
+36 with a residual market mechanism, an unauthorized
+*H81-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 insurer, or an insurance institution that specializes in
+2 substandard risks; or
+3 II. The charging of a higher rate on the basis of
+4 information that differs from that which the applicant
+5 or policyholder furnished; orfurnished.
+6 5. In the case of a life, health, or disability insurance coverage, an
+7 offer to insure at higher than standard rates.
+8 b. Notwithstanding subdivision (1)a. of this section, none of the
+9 following actions shall not be considered adverse underwriting
+10 decisions, but the insurance institution or agent responsible for their
+11 occurrence shall nevertheless provide the applicant or policyholder
+12 with the specific reason or reasons for their occurrence:
+13 1. The termination of an individual policy form on a class or
+14 statewide basis;basis.
+15 2. A declination of insurance coverage solely because such
+16 coverage is not available on a class or statewide basis; orbasis.
+17 3. The rescission of a policy.
+18 (2) "Affiliate" or "affiliated" means a Affiliate or affiliated. – A person that
+19 directly, or indirectly through one or more intermediaries, controls, is
+20 controlled by, or is under common control with another person.
+21 (3) "Agent" has Agent. – Agent has the meaning as set forth in G.S. 58-33-10,
+22 and includes limited representatives, limited line credit insurance producers,
+23 limited lines producers, insurance producers, and surplus lines licensees.
+24 (4) "Applicant" means any Applicant. – Any person who seeks to contract for
+25 insurance coverage other than a person seeking group insurance that is not
+26 individually underwritten.
+27 (5) "Consumer report" means any Consumer report. – Any written, oral, or other
+28 communication of information bearing on a natural person's credit worthiness,
+29 credit standing, credit capacity, character, general reputation, personal
+30 characteristics, or mode of living that is used or expected to be used in
+31 connection with an insurance transaction.
+32 (6) "Consumer reporting agency" means any Consumer reporting agency. – Any
+33 person who:who does all of the following:
+34 a. Regularly engages, in whole or in part, in the practice of assembling
+35 or preparing consumer reports for a monetary fee;fee.
+36 b. Obtains information primarily from sources other than insurance
+37 institutions; andinstitutions.
+38 c. Furnishes consumer reports to other persons.
+39 (7) "Control," including the terms "controlled by" or "under common control
+40 with," means the Control, controlled by, or under common control with. – The
+41 possession, direct or indirect, of the power to direct or cause the direction of
+42 the management and policies of a person, whether through the ownership of
+43 voting securities, by contract other than a commercial contract for goods or
+44 nonmanagement services, or otherwise, unless the power is the result of an
+45 official position with or corporate office held by the person.
+46 (8) "Declination of insurance coverage" means a Declination of insurance
+47 coverage. – A denial, in whole or in part, by an insurance institution or agent
+48 of requested insurance coverage.
+49 (9) "Individual" means any Individual. – Any natural person who:who is any of
+50 the following:
+Page 2 House Bill 81-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 a. In the case of property or casualty insurance, is a past, present, or
+2 proposed named insured or certificate holder;holder.
+3 b. In the case of life, health, or disability insurance, is a past, present, or
+4 proposed principal insured or certificate holder;holder.
+5 c. Is a past, present or proposed policy owner;owner.
+6 d. Is a past or present applicant;applicant.
+7 e. Is a past or present claimant;claimant.
+8 f. Derived, derives, or is proposed to derive insurance coverage under an
+9 insurance policy or certificate subject to this Article; orArticle.
+10 g. Is the subject of personal information collected or maintained by an
+11 insurance institution, agent, or insurance-support organization in
+12 connection with mortgage guaranty insurance.
+13 (10) "Institutional source" means any Institutional source. – Any person or
+14 governmental entity that provides information about an individual to an agent,
+15 insurance institution, or insurance-support organization, other than:than any
+16 of the following:
+17 a. An agent;agent.
+18 b. The individual who is the subject of the information; orinformation.
+19 c. A natural person acting in a personal capacity rather than in a business
+20 or professional capacity.
+21 (11) "Insurance institution" means any Insurance institution. – Any corporation,
+22 association, partnership, reciprocal exchange, inter-insurer, Lloyd's insurer,
+23 fraternal benefit society, or other person engaged in the business of insurance,
+24 including health maintenance organizations and medical, surgical, hospital,
+25 dental, and optometric service plans, governed by Articles 65 through 67 of
+26 this Chapter. "Insurance institution" shall not include agents or
+27 insurance-support organizations.
+28 (12) "Insurance-support organization" means any Insurance-support organization.
+29 – Any person who regularly engages, in whole or in part, in the practice of
+30 assembling or collecting information about natural persons for the primary
+31 purpose of providing the information to an insurance institution or agent for
+32 insurance transactions, including: (i) the furnishing of consumer reports or
+33 investigative consumer reports to an insurance institution or agent for use in
+34 connection with an insurance transaction; or (ii) the collection of personal
+35 information from insurance institutions, agents, or other insurance-support
+36 organizations for the purpose of detecting or preventing fraud, material
+37 misrepresentation, or material nondisclosure in connection with insurance
+38 underwriting or insurance claim activity; provided, however, the following
+39 persons shall not be considered "insurance-support organizations" for
+40 purposes of this Article: agents, governmental institutions, insurance
+41 institutions, medical-care institutions, and medical professionals.
+42 (13) "Insurance transaction" means any Insurance transaction. – Any transaction
+43 involving insurance primarily for personal, family, or household needs rather
+44 than business or professional needs that entails:entails either of the following:
+45 a. The determination of an individual's eligibility for an insurance
+46 coverage, benefit, or payment; orpayment.
+47 b. The servicing of an insurance application, policy, contract, or
+48 certificate.
+49 (14) "Investigative consumer report" means a Investigative consumer report. – A
+50 consumer report or portion thereof in which information about a natural
+51 person's character, general reputation, personal characteristics, or mode of
+House Bill 81-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 living is obtained through personal interviews with the person's neighbors,
+2 friends, associates, acquaintances, or others who may have knowledge
+3 concerning such items of information.
+4 (15) "Life insurance" includes Life insurance. – Life insurance includes annuities.
+5 (16) "Medical-care institution" means any Medical-care institution. – Any facility
+6 or institution that is licensed to provide health care services to natural persons,
+7 including but not limited to, hospitals, skilled nursing facilities, home-health
+8 agencies, medical clinics, rehabilitation agencies, public health agencies, or
+9 health-maintenance organizations.
+10 (17) "Medical professional" means any Medical professional. – Any person
+11 licensed or certified to provide health care services to natural persons,
+12 including but not limited to, a physician, dentist, nurse, chiropractor,
+13 optometrist, physical or occupational therapist, licensed clinical social
+14 worker, clinical dietitian, clinical psychologist, pharmacist, or speech
+15 therapist.
+16 (18) "Medical-record information" means personal Medical-record information. –
+17 Personal information that:
+18 a. Relates to an individual's physical or mental condition, medical
+19 history, or medical treatment; and
+20 b. Is obtained from a medical professional or medical-care institution,
+21 from the individual, or from the individual's spouse, parent, or legal
+22 guardian.
+23 (19) "Personal information" means any Personal information. – Any individually
+24 identifiable information gathered in connection with an insurance transaction
+25 from which judgments can be made about an individual's character, habits,
+26 avocations, finances, occupation, general reputation, credit, health, or any
+27 other personal characteristics. "Personal information" includes an individual's
+28 name and address and medical-record information, but does not include
+29 privileged information.
+30 (20) "Policyholder" means any person who:Policyholder. – Any of the following:
+31 a. In the case of individual property or casualty insurance, a person who
+32 is a present named insured;insured.
+33 b. In the case of individual life or accident and health insurance, a person
+34 who is a present policy owner; orowner.
+35 c. In the case of group insurance that is individually underwritten, a
+36 person who is a present group certificate holder.
+37 (21) "Pretext interview" means an Pretext interview. – An interview whereby a
+38 person, in an attempt to obtain information about a natural person, performs
+39 one or more of the following acts:
+40 a. Pretends to be someone he is not;not.
+41 b. Pretends to represent a person he is not in fact
+42 representing;representing.
+43 c. Misrepresents the true purpose of the interview; orinterview.
+44 d. Refuses to identify himself upon request.
+45 (22) "Privileged information" means any Privileged information. – Any
+46 individually identifiable information that (i) relates to a claim for insurance
+47 benefits or a civil or criminal proceeding involving an individual, and (ii) is
+48 collected in connection with or in reasonable anticipation of a claim for
+49 insurance benefits or civil or criminal proceeding involving an individual:
+50 Provided, however, information otherwise meeting the requirements of this
+Page 4 House Bill 81-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 subsection shall nevertheless be considered personal information under this
+2 Article if it is disclosed in violation of G.S. 58-39-75.
+3 (23) "Residual market mechanism" means any Residual market mechanism. – Any
+4 reinsurance facility, joint underwriting association, assigned risk plan, or other
+5 similar plan established under the laws of this State.
+6 (24) "Termination of insurance coverage" or "termination of an insurance policy"
+7 means either Termination of insurance coverage or termination of an
+8 insurance policy. – Either a cancellation or nonrenewal of an insurance policy,
+9 in whole or in part, for any reason other than the failure to pay a premium as
+10 required by the policy.
+11 (25) "Unauthorized insurer" means an Unauthorized insurer. – An insurance
+12 institution that has not been granted a license by the Commissioner to transact
+13 the business of insurance in this State.
+14 (26) Vehicle telematics. – Data regarding an individual's driving habits obtained
+15 through the installation of a tracking device, application, or software into an
+16 individual's motor vehicle or mobile device that transmits the data via wireless
+17 networks."
+18 SECTION 3. G.S. 14-196.3 reads as rewritten:
+19 "§ 14-196.3. Cyberstalking.
+20 (a) The following definitions apply in this section:
+21 …
+22 (b) It is unlawful for a person to:
+23 …
+24 (5) Knowingly install, place, or use an electronic tracking device without consent,
+25 or cause an electronic tracking device to be installed, placed, or used without
+26 consent, to track the location of any person. The provisions of this subdivision
+27 do not apply to the installation, placement, or use of an electronic tracking
+28 device by any of the following:
+29 …
+30 l. An insurance institution or agent that collects, receives, sells, shares,
+31 or otherwise uses vehicle telematics, as defined in G.S. 58-39-15,
+32 regarding an applicant or policyholder through the installation of a
+33 tracking device, application, or software into an individual's motor
+34 vehicle or mobile device that transmits the data via wireless networks,
+35 provided the insurance institution or agent obtains written consent in
+36 accordance with G.S. 58-39-33.
+37 …."
+38 SECTION 4. This act becomes effective October 1, 2025, and applies to contracts
+39 issued, renewed, or amended on or after that date.
+House Bill 81-Second Edition Page 5
+
+[DELETED:  2 R (   A A O T S a " ( N r w ( N u ( O ( N t ( R t r p r ( P A S " A ( " a A i 1 A 2 A 3 F o a a t a f i c w a s i 4 I I P w a r m m a u]
+[DELETED:  S  H i s I T c o a h r o t b o i o 5 I o b N s ( o t s n o t f a s n b c a u d o w 1 T t o i p f o a c o s 2 A d o i c s b s c 3 T ( " o " m a A o a – A p t d o i t o o m i c i c ( " a l ( " i i ( " c c s c c c g r p c o m o l t i u o e t b u i c ( " p a R o b O i p f s o t i i c F ( " i t t " b o " c c w p t v n o ( " o i c m a D o i c o ( " t]
+[DELETED:  S  P a I p b I p c I d I e I f D i g I i i a o i o i c ( " s m a I s – A p o g i o a A b T c A o ( " a f i d t C " i s n i a o i ( " – a p i i c i o f t p o d o p f m m o m n i c w i u p s n b c " o f p o t A a g i i i ( " i t a T d o a i e f a i c b T s o a i a p c o c ( " c r o p t i w i a a n p]
+[DELETED:  S  H l f a a o o w m h k c ( " ( " o i a h ( " p m a M p – A p l o c t p h c s t n p i b n l t a p d n c o p o o t l c s w c d c p p o s t ( " P a R t a i p o m c m h b I f g ( " i f a f o g r c h o a o n a a a m i b d n i p ( " a I i b I w c I t c o g i t i i u a p ( " p o a P b P t r a p h i n i f r c M d R ( " i m a P i – A i b c i c w o i r a o a c f i P]
+[DELETED:  S  P s A ( " r s ( " m e T o i c o t o a i i r ( " i m a U i – A i i t ( V t i n S " ( T … ( I … ( K o c d d … l A o o u v t a d i G r t v p a … S i]

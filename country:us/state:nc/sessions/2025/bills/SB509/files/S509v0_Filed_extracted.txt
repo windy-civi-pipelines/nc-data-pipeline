@@ -1,0 +1,1940 @@
+Title: SENATE BILL DRS15195-MGfa-82
+Official Title: SENATE BILL DRS15195-MGfa-82
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 509
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Health Information Exchange Act Revisions. (Public)
+Sponsors: Senators Hise, Burgin, and Adcock (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT REVISING THE STATEWIDE HEALTH INFORMATION EXCHANGE ACT;
+3 AND AUTHORIZING THE IMPOSITION OF NEW CIVIL PENALTIES FOR
+4 VIOLATIONS OF THE ACT AND A NEW STATE HEALTH DATA ASSESSMENT FEE.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 29B of Chapter 90 of the General Statutes reads as rewritten:
+7 "Article 29B.
+8 "Statewide Health Information Exchange Act.
+9 "§ 90-414.1. Title.
+10 This act Article shall be known and may be cited as the "Statewide Health Information
+11 Exchange Act."
+12 "§ 90-414.2. Purpose.
+13 This Article is intended to improve the quality of health care delivery within this State by
+14 facilitating and regulating the use of a voluntary, statewide health information exchange network
+15 for the secure electronic transmission of individually identifiable health information among
+16 health care providers, health plans, and health care clearinghouses clearinghouses, and the State
+17 in a manner that is consistent with the Health Insurance Portability and Accountability Act,
+18 Privacy Rule and Security Rule, 45 C.F.R. §§ 160, 164.
+19 "§ 90-414.3. Definitions.
+20 The following definitions apply in this Article:
+21 (1) Annual compliance report. – The annual report required by G.S. 90-414.13.
+22 (1a) Business associate. – As defined in 45 C.F.R. § 160.103.
+23 (2) Business associate contract. – The documentation required by 45 C.F.R. §
+24 164.502(e)(2) that meets the applicable requirements of 45 C.F.R. §
+25 164.504(e).
+26 (3) Covered entity. – Any entity described in 45 C.F.R. § 160.103 or any other
+27 facility or practitioner licensed by the State to provide health care services.
+28 (3a) Data transfer systems. – Electronic systems or platforms that (i) facilitate the
+29 submission of any combination of clinical, demographic, or claims data to the
+30 HIE Network and (ii) are maintained, controlled, directed, or licensed by, or
+31 on behalf of, a covered entity or hybrid entity subject to this Article. Data
+32 transfer systems may be comprised of health information technology or claims
+33 processing technology, or both, including hardware, software, integrated
+34 technologies and related licenses, or packaged solutions sold as services. Data
+35 transfer systems include, but are not limited to, electronic systems or platforms
+36 related to electronic health records, pharmacy benefits and claims, claims
+*DRS15195-MGfa-82*
+General Assembly Of North Carolina Session 2025
+1 processing, or care management. Data transfer systems do not include any
+2 information technology systems that are directly maintained, controlled, or
+3 licensed by the State Health Plan for Teachers and State Employees.
+4 (4) Department. – North Carolina Department of Health and Human Services.
+5 (5) Disclose or disclosure. – The release, transfer, provision of access to, or
+6 divulging in any other manner an individual's protected health information
+7 through the HIE Network.
+8 (6) Repealed by Session Laws 2017-57, s. 11A.5(f), effective July 1, 2017.
+9 (7) GDAC. – The North Carolina Government Data Analytics Center.
+10 (8) HIE Network. – The voluntary, statewide health information exchange
+11 network network, which is a health data utility overseen and administered by
+12 the Authority.
+13 (9) HIPAA. – Sections 261 through 264 of the federal Health Insurance
+14 Portability and Accountability Act of 1996, P.L. 104-191, as amended, and
+15 any federal regulations adopted to implement these sections, as amended.
+16 (10) Individual. – As defined in 45 C.F.R. § 160.103.
+17 (11) North Carolina Health Information Exchange Advisory Board or Advisory
+18 Board. – The Advisory Board established under G.S. 90-414.8.
+19 (12) North Carolina Health Information Exchange Authority or Authority. – The
+20 entity established pursuant to G.S. 90-414.7.
+21 (13) Opt out. – An individual's affirmative decision communicated to the Authority
+22 in writing to disallow his or her protected health information from being
+23 disclosed by the Authority to covered entities or other persons or entities
+24 through the HIE Network.
+25 (13a) Organization National Provider Identifier or Organization NPI. – The HIPAA
+26 Administrative Simplification Standard that utilizes a 10-position all-numeric
+27 identification number assigned by the federal National Provider System to
+28 uniquely identify a health care provider that is an entity other than an
+29 individual human being that furnishes health care.
+30 (14) Protected health information. – As defined in 45 C.F.R. § 160.103.
+31 (15) Public health purposes. – The public health activities and purposes described
+32 in 45 C.F.R. § 164.512(b).
+33 (16) Qualified organization. – An entity with which the Authority has contracted
+34 for the sole purpose of facilitating the exchange of data with or through the
+35 HIE Network.
+36 (17) Research purposes. – Research purposes referenced in and subject to the
+37 standards described in 45 C.F.R. § 164.512(i).
+38 (18) State CIO. – The State Chief Information Officer.
+39 (19) State-funded health care. – Means all of the following:
+40 a. The North Carolina Medicaid program.
+41 b. The State Health Plan for Teachers and State Employees.
+42 c. Health care facilities and health care programs administered or
+43 operated by the Department of Health and Human Services, the
+44 Department of Public Safety, or the Department of Adult Correction,
+45 and their employees, agents, or grantees.
+46 (20) State health care funds. – Monies paid to providers or entities for the provision
+47 of health care services to recipients of State-funded health care. The term
+48 includes both (i) direct payments from the State to providers and entities and
+49 (ii) payments that providers and entities receive from third parties, or the
+50 agents of third parties, that are retained by the State for the administration or
+Page 2 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 delivery, or both, of State-funded health care, including prepaid health plans
+2 as defined in G.S. 108D-1 and claims processors as defined in G.S. 135-48.1.
+3 "§ 90-414.4. Required participation in HIE Network for some providers.
+4 (a) Findings. – The General Assembly makes the following findings:
+5 (1) That controlling escalating health care costs of the Medicaid program and
+6 other State-funded health care services is of significant importance to the
+7 State, its taxpayers, its Medicaid recipients, and other recipients beneficiaries
+8 of State-funded health care services.care.
+9 (2) That the State and covered entities in North Carolina need timely access to
+10 certain demographic and clinical information pertaining to services rendered
+11 to Medicaid and other beneficiaries of State-funded health care program
+12 beneficiaries and paid for with Medicaid or other State-funded State health
+13 care funds in order to assess performance, improve health care outcomes,
+14 pinpoint medical expense trends, identify beneficiary health risks, and
+15 evaluate how the State is spending money on Medicaid and other State-funded
+16 health care services. The care. To that end, the Department of Information
+17 Technology, the Department of State Treasurer, State Health Plan Division,
+18 and the Department of Health and Human Services, Division of Health
+19 Benefits, have an affirmative duty to facilitate and support participation by
+20 covered entities in the statewide health information exchange network.
+21 (3) That making demographic and clinical information available to the State and
+22 covered entities in North Carolina by secure electronic means as set forth in
+23 subsection (b) of this section will improve care coordination within and across
+24 health systems, increase care quality for such beneficiaries, beneficiaries of
+25 State-funded health care, enable more effective population health
+26 management, reduce duplication of medical services, augment syndromic
+27 surveillance, allow more accurate measurement of care services and
+28 outcomes, increase strategic knowledge about the health of the population,
+29 and facilitate health care cost containment.
+30 (a1) Mandatory Connection to HIE Network. – Notwithstanding the voluntary nature of
+31 the HIE Network under G.S. 90-414.2, the following providers and entities shall be connected to
+32 the HIE Network and begin submitting data through the HIE Network pertaining to services
+33 rendered to Medicaid beneficiaries and to other of State-funded health care program beneficiaries
+34 and paid for with Medicaid or other State-funded State health care funds in accordance with the
+35 following time line:
+36 (1) The following providers of Medicaid services licensed to operate in the State
+37 that have an electronic health record system shall begin submitting, at a
+38 minimum, demographic and clinical data by June 1, 2018:
+39 a. Hospitals as defined in G.S. 131E-176(13).
+40 b. Physicians licensed to practice under Article 1 of Chapter 90 of the
+41 General Statutes, this Chapter, except for licensed physicians whose
+42 primary area of practice is psychiatry.
+43 c. Physician assistants as defined in 21 NCAC 32S.0201.
+44 d. Nurse practitioners as defined in 21 NCAC 36.0801.
+45 (2) Except as provided in subdivisions (3), (4), and (5) of this subsection, all other
+46 providers of Medicaid and State-funded health care services and their
+47 affiliated entities shall begin submitting demographic and clinical data by
+48 January 1, 2023.
+49 (3) The following entities shall submit encounter and claims data, as appropriate,
+50 in accordance with the following time line:
+DRS15195-MGfa-82 Page 3
+General Assembly Of North Carolina Session 2025
+1 a. Prepaid Health Plans, as defined in G.S. 108D-1, by the
+2 commencement date of a capitated contract with the Division of
+3 Health Benefits for the delivery of Medicaid services as specified in
+4 Article 4 of Chapter 108D of the General Statutes.
+5 b. Local management entities/managed care organizations, as defined in
+6 G.S. 122C-3, by June 1, 2020.
+7 If authorized by the Authority in accordance with this Article, the Department
+8 of Health and Human Services may submit the data required by this subsection
+9 on behalf of the entities specified in this subdivision.
+10 (4) The following entities shall begin submitting demographic and clinical data
+11 by January 1, 2023:
+12 a. Physicians who perform procedures at ambulatory surgical centers as
+13 defined in G.S. 131E-146.
+14 b. Dentists licensed under Article 2 of Chapter 90 of the General Statutes.
+15 c. Licensed physicians whose primary area of practice is psychiatry.
+16 d. The State Laboratory of Public Health operated by the Department of
+17 Health and Human Services.
+18 (5) The following entities shall begin submitting claims data by January 1, 2023:
+19 a. Pharmacies registered with the North Carolina Board of Pharmacy
+20 under Article 4A of Chapter 90 of the General Statutes.this Chapter.
+21 b. State health care facilities operated under the jurisdiction of the
+22 Secretary of the Department of Health and Human Services, including
+23 State psychiatric hospitals, developmental centers, alcohol and drug
+24 treatment centers, neuro-medical treatment centers, and residential
+25 programs for children such as the Wright School and the Whitaker
+26 Psychiatric Residential Treatment Facility.
+27 c. Dentists licensed under Article 2 of this Chapter.
+28 (a2) Extensions of Time for Establishing Connection to the HIE Network. – The
+29 Department of Information Technology, in consultation with the Department of Health and
+30 Human Services and the State Health Plan for Teachers and State Employees, may establish a
+31 process to grant limited extensions of the time for providers and entities to connect to the HIE
+32 Network and begin submitting data as required by this section upon the request of a provider or
+33 entity that demonstrates an ongoing good-faith effort to take necessary steps to establish such
+34 connection and begin data submission as required by this section. The process for granting an
+35 extension of time must include a presentation by the provider or entity to the Department of
+36 Information Technology, the Department of Health and Human Services, and the State Health
+37 Plan for Teachers and State Employees on the expected time line for connecting to the HIE
+38 Network and commencing data submission as required by this section. Neither the Department
+39 of Information Technology, the Department of Health and Human Services, nor the State Health
+40 Plan for Teachers and State Employees shall grant an extension of time (i) to any provider or
+41 entity that fails to provide this information to both Departments, and the State Health Plan for
+42 Teachers and State Employees, (ii) that would result in the provider or entity connecting to the
+43 HIE Network and commencing data submission as required by this section later than January 1,
+44 2023. The Department of Information Technology shall consult with the Department of Health
+45 and Human Services and the State Health Plan for Teachers and State Employees to review and
+46 decide upon a request for an extension of time under this section within 30 days after receiving
+47 a request for an extension.
+48 (a3) Exemptions from Connecting to the HIE Network. – The Secretary of Health and
+49 Human Services, or the Secretary's designee, shall have the authority to grant exemptions to
+50 classes of providers of Medicaid and other State-funded health care services for whom acquiring
+51 and implementing an electronic health record system and connecting to the HIE Network as
+Page 4 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 required by this section would constitute an undue hardship. The Secretary, or the Secretary's
+2 designee, shall promptly notify the Department of Information Technology of classes of
+3 providers granted hardship exemptions under this subsection. Neither the Secretary nor the
+4 Secretary's designee shall grant any hardship exemption that would result in any class of provider
+5 connecting to the HIE Network and submitting data later than December 31, 2022.
+6 (a4) Connected Status. – A provider or entity identified in subsection (a1) of this section
+7 is deemed connected to the HIE Network when the covered entity that provides, maintains,
+8 controls, directs, or licenses that provider's or entity's data transfer system has done all of the
+9 following:
+10 (1) Established an operable technical connection with the HIE Network approved
+11 by the Authority that supports the submission of required patient data
+12 generated by the provider or entity.
+13 (2) Provided its Organization NPI to the Authority.
+14 (3) Executed with the Authority a valid, written participation agreement pursuant
+15 to subdivision (b)(6) of G.S. 90-414.7.
+16 (4) Communicated to the Authority, in writing, the identity of all providers and
+17 entities on whose behalf it maintains a data transfer system.
+18 (5) Either has met or is making reasonable efforts to meet data quality standards
+19 established by the Authority that are published on its website.
+20 (b) Mandatory Submission of Demographic and Clinical Data. – Notwithstanding the
+21 voluntary nature of the HIE Network under G.S. 90-414.2 and, except as otherwise provided in
+22 subsection subsections (c) and (c1) of this section, as a condition of receiving State funds,
+23 including Medicaid funds, the following entities shall submit at least twice daily, through the
+24 HIE network, demographic and clinical information pertaining to services rendered to Medicaid
+25 and other beneficiaries of State-funded health care program beneficiaries and paid for with
+26 Medicaid or other State-funded State health care funds, solely for the purposes set forth in
+27 subsection (a) of this section:
+28 (1) Each hospital, as defined in G.S. 131E-176(13) that has an electronic health
+29 record system.
+30 (2) Each Medicaid provider, unless the provider is an ambulatory surgical center
+31 as defined in G.S. 131E-146; however, a physician who performs a procedure
+32 at the ambulatory surgical center must be connected to the HIE Network.
+33 (3) Each provider that receives State health care funds for the provision of health
+34 services, State-funded health care, unless the provider is an ambulatory
+35 surgical center as defined in G.S. 131E-146; however, a physician who
+36 performs a procedure at the ambulatory surgical center must be connected to
+37 the HIE Network.
+38 (4) Each prepaid health plan, as defined in G.S. 58-93-5, that is under a capitated
+39 contract with the Department for the delivery of Medicaid services, or a local
+40 management entity/managed care organization, as defined in
+41 G.S. 122C-3.G.S. 122C-3, that is under a capitated prepaid health plan
+42 contract with the Department.
+43 (b1) Balance Billing Prohibition. – An in-network provider or entity who that (i) renders
+44 health care services, including prescription drugs and durable medical equipment, under a
+45 contract with the State Health Plan for Teachers and State Employees and who (ii) is not
+46 connected to the HIE Network in accordance with this Article, is prohibited from billing the State
+47 Health Plan or a Plan member more than either party would be billed if the entity or provider was
+48 connected to the HIE Network. Balance billing because the provider or entity did not connect to
+49 the HIE Network is prohibited.
+50 (c) Exemption for Certain Records. – Providers with patient records that are subject to
+51 the disclosure restrictions of 42 C.F.R. § 2 are exempt from the requirements of subsection (b)
+DRS15195-MGfa-82 Page 5
+General Assembly Of North Carolina Session 2025
+1 of this section but only with respect to the patient records subject to these disclosure restrictions.
+2 Providers shall comply with the requirements of subsection (b) of this section with respect to all
+3 other patient records. A pharmacy shall only be Pharmacies registered with the North Carolina
+4 Board of Pharmacy under Article 4A of this Chapter and dentists licensed under Article 2 of this
+5 Chapter are only required to submit claims data pertaining to services rendered to Medicaid and
+6 other State-funded health care program beneficiaries of State-funded health care and paid for
+7 with Medicaid or other State-funded State health care funds.
+8 (c1) Exemption from Twice Daily Submission. – A pharmacy shall only be The following
+9 entities are required to submit claims data only once daily through the HIE Network Network:
+10 (1) Pharmacies registered with the North Carolina Board of Pharmacy under
+11 Article 4A of this Chapter, using pharmacy industry standardized formats.
+12 (2) Dentists licensed under Article 2 of this Chapter.
+13 (c2) 42 C.F.R. § 2 Records. – Notwithstanding subsection (b) of this section, patient
+14 records protected by 42 C.F.R. § 2 shall be disclosed through the HIE Network only if the
+15 Authority has provided written notice to the participating entity that data protected by 42 C.F.R.
+16 § 2 can be disclosed for a specific purpose.
+17 (d) Method of Data Submissions. – The Any provider or entity required to submit data
+18 submissions required under this section shall be make the submission by connection to the HIE
+19 Network periodic asynchronous secure structured file transfer or any other secure electronic
+20 means commonly used in the industry and consistent with document exchange and data
+21 submission standards established by the Office Assistant Secretary for Technology Policy/Office
+22 of the National Coordinator for Information Technology within the U.S. Department of Health
+23 and Human Services.
+24 (e) Voluntary Connection for Certain Providers. – Notwithstanding the mandatory
+25 connection and data submission requirements in of subsections (a1) and (b) of this section, the
+26 following providers of Medicaid services or other State-funded health care services are not
+27 required to connect to the HIE Network or submit data but may connect to the HIE Network and
+28 submit data voluntarily:
+29 (1) Community-based long-term services and supports providers, including
+30 personal care services, private duty nursing, home health, and hospice care
+31 providers.
+32 (2) Intellectual and developmental disability services and supports providers,
+33 such as day supports and supported living providers.
+34 (3) Community Alternatives Program waiver services (including CAP/DA,
+35 CAP/C, and Innovations) providers.
+36 (4) Eye and vision services providers.
+37 (5) Speech, language, and hearing services providers.
+38 (6) Occupational and physical therapy providers.
+39 (7) Durable medical equipment providers.
+40 (8) Nonemergency medical transportation service providers.
+41 (9) Ambulance (emergency medical transportation service) providers.
+42 (10) Local education agencies and agencies, school-based health
+43 providers.providers, and student health centers that primarily serve students
+44 matriculating at public or private institutions of higher education in this State.
+45 (11) Chiropractors licensed under Article 8 of this Chapter.
+46 (12) Dentists licensed under Article 2 of this Chapter.
+47 Connection to the HIE Network by any other covered entities that are not required by
+48 subsections (a1) and (b) of this section to connect to the HIE Network or submit data is voluntary.
+49 (e1) Mandatory and Voluntary Connection and Submissions by the Same Covered Entity.
+50 – A covered entity that provides, maintains, controls, directs, or licenses a data transfer system
+51 on behalf of providers and entities that are required to connect to, and submit data through, the
+Page 6 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 HIE Network under this Article, as well as on behalf of providers and entities that voluntarily
+2 connect to, and submit data through, the HIE Network may elect not to submit through the HIE
+3 Network clinical, demographic, or claims data generated by the providers and entities that
+4 voluntarily connect to, and submit data through, the HIE Network. However, the covered entity
+5 is required to submit through the HIE Network clinical, demographic, or claims data generated
+6 by providers and entities that are required to connect to, and submit data through, the HIE
+7 Network.
+8 (f) Confidentiality of Data. – All data submitted to or through the HIE Network
+9 containing protected health information, personally identifying information, or a combination of
+10 these, that are in the possession of the Department of Information Technology or any other
+11 agency of the State are confidential and shall not be defined as public records under G.S. 132-1.
+12 This subsection shall not be construed to prohibit the disclosure of any such data as otherwise
+13 permitted under federal law.
+14 (g) Time-Limited Exceptions for Connecting to, and Submitting Data Through, the HIE
+15 Network. – All of the following apply to any exception granted by the Authority for connecting
+16 to, and submitting data through, the HIE Network:
+17 (1) A covered entity that provides, maintains, controls, directs, or licenses a data
+18 transfer system on behalf of providers or entities identified in subsection (a1)
+19 of this section may seek to obtain from the Authority a time-limited exception
+20 for those providers or entities to connect to, and begin submitting required
+21 data through, the HIE Network.
+22 (2) The Authority shall administer the process by which a covered entity seeks a
+23 time-limited exception for providers or entities to connect to, and begin
+24 submitting required data through, the HIE Network. The Authority shall make
+25 the final determination about whether to grant or deny requests for a
+26 time-limited exception. Any exception authorized by the Authority may not
+27 exceed a one-year period. However, a covered entity may seek to renew an
+28 exception.
+29 (3) In order for a covered entity to obtain a time-limited exception for the
+30 providers and entities on whose behalf it provides, maintains, controls, directs,
+31 or licenses a data transfer system, the covered entity must demonstrate
+32 eligibility for the exception by meeting at least one of the following criteria:
+33 a. During the previous year, the covered entity and the providers and
+34 entities on whose behalf it maintained, controlled, directed, or licensed
+35 a data transfer system received in the aggregate less than one million
+36 dollars ($1,000,000) in State health care funds for providing health
+37 care services to beneficiaries of State-funded health care.
+38 b. The covered entity and the providers and entities on whose behalf it
+39 provides, maintains, controls, directs, or licenses a data transfer system
+40 operated in whole or in part in a geographic area with limited or
+41 emergent broadband availability. The Department of Information
+42 Technology, Division of Broadband, shall identify these geographic
+43 areas and the Authority shall publish a list of the identified geographic
+44 areas to its website. Alternatively, the Authority, after consultation
+45 with the Department of Information Technology, Division of
+46 Broadband, may, in its discretion, grant a time-limited exception after
+47 evaluating materials provided by a covered entity regarding its level
+48 of broadband connectivity.
+49 c. The covered entity will close, dissolve, or be acquired by another
+50 entity within the next 12 months.
+DRS15195-MGfa-82 Page 7
+General Assembly Of North Carolina Session 2025
+1 d. The provider or entity has not yet implemented or is in the process of
+2 implementing a data transfer system.
+3 (4) To request a time-limited exception under this subsection, the covered entity
+4 shall submit to the Authority an application and attestation form, which shall
+5 both be created by the Authority and made available on its website, containing
+6 at least all of the following information:
+7 a. Date of request and application period.
+8 b. Name, Organization NPI, and location.
+9 c. Names of providers and entities on whose behalf the covered entity is
+10 applying, as well as their respective Organization NPIs.
+11 d. Technical information regarding its data transfer system and vendor,
+12 if applicable.
+13 e. Provider network information for the State Health Plan for Teachers
+14 and State Employees and the North Carolina Medicaid program, as
+15 applicable.
+16 f. Identification of the bases criterion, or criteria, in subdivision (g)(3) of
+17 this section for which the covered entity seeks a time-limited
+18 exception.
+19 g. Supporting documents and materials determined by the Authority to
+20 be necessary to substantiate the covered entity's eligibility for the
+21 exception.
+22 h. An attestation executed by an authorized representative of the covered
+23 entity regarding the validity, truth, and completeness of the application
+24 and attestation form submitted by the covered entity to the Authority.
+25 "§ 90-414.5. State agency and legislative access to HIE Network data.
+26 (a) The Authority shall provide the Department and the State Health Plan for Teachers
+27 and State Employees secure, real-time access to data and information disclosed through the HIE
+28 Network, solely for the purposes set forth in G.S. 90-414.4(a) and in G.S. 90-414.2. The
+29 Authority shall limit access granted to the State Health Plan for Teachers and State Employees
+30 pursuant to this section to data and information disclosed through the HIE Network that pertains
+31 to services (i) rendered to teachers and State employees and (ii) paid for by the State Health Plan.
+32 (b) At the written request of the Director of the Fiscal Research, Legislative Drafting, or
+33 Legislative Analysis Division of the General Assembly for an aggregate analysis of the data and
+34 information disclosed through the HIE Network, the Authority shall provide the professional
+35 staff of these Divisions with the aggregated analysis responsive to the Director's request. Prior to
+36 providing the Director or General Assembly's staff with any aggregate data or information
+37 submitted through the HIE Network or with any analysis of this aggregate data or information,
+38 the Authority shall redact any personal identifying information in a manner consistent with the
+39 standards specified for de-identification of health information under the HIPAA Privacy Rule,
+40 45 C.F.R. § 164.514, as amended.
+41 "§ 90-414.6. State ownership of HIE Network data.
+42 Any data pertaining to services rendered to Medicaid and other beneficiaries of State-funded
+43 health care program beneficiaries that is submitted through and stored by the HIE Network
+44 pursuant to G.S. 90-414.4 or any other provision of this Article shall be and will remain the sole
+45 property of the State. Any data or product derived from the aggregated, de-identified data
+46 submitted to and stored by the HIE Network pursuant to G.S. 90-414.4 or any other provision of
+47 this Article, shall be and will remain the sole property of the State. The Authority shall not allow
+48 data it receives pursuant to G.S. 90-414.4 or any other provision of this Article to be used or
+49 disclosed by or to any person or entity for commercial purposes or for any other purpose other
+50 than those set forth in G.S. 90-414.4(a) or G.S. 90-414.2. To the extent the Authority receives
+51 requests for electronic health information as the term is defined in 45 C.F.R. § 171.102, or other
+Page 8 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 medical records from an individual, an individual's personal representative, or an individual or
+2 entity purporting to act on an individual's behalf, the Authority (i) shall not fulfill the request and
+3 (ii) shall make available to the requester and the public, via the Authority's website, educational
+4 materials about how to access such information from other sources. If the Authority participates
+5 in the Trusted Exchange Framework and Common Agreement, then it may provide individual
+6 access services through the Trusted Exchange Framework and Common Agreement. Patient
+7 identifiers created and utilized by the Authority to integrate identity data in the HIE Network,
+8 along with the minimum necessary required demographic information related to those patients,
+9 shall be released to the GDAC and the Department by the Authority for purposes of entity
+10 resolution and master data management. These identifiers shall not be considered public records
+11 pursuant to Chapter 132 of the General Statutes.
+12 "§ 90-414.7. North Carolina Health Information Exchange Authority.
+13 (a) Creation. – There is hereby established the North Carolina Health Information
+14 Exchange Authority to oversee and administer the HIE Network in accordance with this Article.
+15 The Authority shall be located within the Department of Information Technology and shall be
+16 under the supervision, direction, and control of the State CIO. The State CIO shall employ an
+17 Authority Director and may delegate to the Authority Director all powers and duties associated
+18 with the daily operation of the Authority, its staff, and the performance of the powers and duties
+19 set forth in subsection (b) of this section. In making this delegation, however, the State CIO
+20 maintains the responsibility for the performance of these powers and duties.
+21 (b) Powers and Duties. – The Authority has the following powers and duties:
+22 (1) Oversee and administer the HIE Network in a manner that ensures all of the
+23 following:
+24 a. Compliance with this Article.
+25 b. Compliance with HIPAA and any rules adopted under HIPAA,
+26 including the Privacy Rule and Security Rule.
+27 c. Compliance with the terms of any participation agreement, business
+28 associate agreement, or other agreement the Authority or qualified
+29 organization or other person or entity enters into with a covered entity
+30 participating in submission of data through or accessing the HIE
+31 Network.
+32 d. Notice to the patient by the healthcare provider or other person or
+33 entity about the HIE Network, including information and education
+34 about the right of individuals on a continuing basis to opt out or rescind
+35 a decision to opt out.
+36 e. Opportunity for all individuals whose data has been submitted to the
+37 HIE Network to exercise on a continuing basis the right to opt out or
+38 rescind a decision to opt out.
+39 f. Nondiscriminatory treatment by covered entities of individuals who
+40 exercise the right to opt out.
+41 g. Facilitation of HIE Network interoperability with electronic health
+42 record systems of all covered entities listed in G.S. 90-414.4(b).
+43 h. Minimization of the amount of data required to be submitted under
+44 G.S. 90-414.4(b) and any use or disclosure of such data to what is
+45 determined by the Authority to be required in order to advance the
+46 purposes set forth in G.S. 90-414.2 and G.S. 90-414.4(a).
+47 (2) In consultation with the Advisory Board, set guiding principles for the
+48 development, implementation, and operation of the HIE Network.
+49 (3) Employ staff necessary to carry out the provisions of this Article and
+50 determine the compensation, duties, and other terms and conditions of
+51 employment of hired staff.
+DRS15195-MGfa-82 Page 9
+General Assembly Of North Carolina Session 2025
+1 (4) Enter into contracts pertaining to the oversight and administration of the HIE
+2 Network, including contracts of a consulting or advisory nature.
+3 G.S. 143-64.20 does not apply to this subdivision.
+4 (5) Establish fees for participation in the HIE Network and report the established
+5 fees to the General Assembly, with an explanation of the fee determination
+6 process.
+7 (6) Following consultation with the Advisory Board, develop, approve, and enter
+8 into, directly or through qualified organizations acting under the authority of
+9 the Authority, written participation agreements with persons or entities that
+10 participate in or are granted access or user rights to the HIE Network. The
+11 participation agreements shall set forth terms and conditions governing
+12 participation in, access to, or use of the HIE Network not less than those set
+13 forth in agreements already governing covered entities' participation in the
+14 federal eHealth Exchange. The agreement shall also require compliance with
+15 policies developed by the Authority pursuant to this Article or pursuant to
+16 applicable laws of the state of residence for entities located outside of North
+17 Carolina.
+18 (7) Receive, access, add, and remove data submitted through and stored by the
+19 HIE Network in accordance with this Article.
+20 (8) Following consultation with the Advisory Board, enter into, directly or
+21 through qualified organizations acting under the authority of the Authority, a
+22 HIPAA compliant business associate agreement with each of the persons or
+23 entities participating in or granted access or user rights to the HIE
+24 Network.Network, except for federal agencies that access the HIE Network
+25 solely to review patient data for treatment purposes and exchanges made
+26 through eHealth Exchange or the Trusted Exchange Framework and Common
+27 Agreement so long as the Authority enters into the agreements that are
+28 required to participate in each of these respective national networks.
+29 (9) Following consultation with the Advisory Board, grant user rights to the HIE
+30 Network to business associates of covered entities participating in the HIE
+31 Network (i) at the request of the covered entities and (ii) at the discretion of
+32 and subject to contractual, policy, and other requirements of the Authority
+33 upon consideration of and consistent with the business associates' legitimate
+34 need for utilizing the HIE Network and privacy and security concerns.
+35 (10) Facilitate and promote use of the HIE Network by covered entities.entities and
+36 business associates acting on their behalf.
+37 (11) Actively monitor compliance with this Article by the Department, covered
+38 entities, and any other persons or entities participating in or granted access or
+39 user rights to the HIE Network or any data submitted through or stored by the
+40 HIE Network.
+41 (12) Collaborate with the State CIO to ensure that resources available through the
+42 GDAC are properly leveraged, assigned, or deployed to support the work of
+43 the Authority. The duty to collaborate under this subdivision includes
+44 collaboration on data hosting and development, implementation, operation,
+45 and maintenance of the HIE Network.
+46 (13) Initiate or direct expansion of existing public-private partnerships within the
+47 GDAC as necessary to meet the requirements, duties, and obligations of the
+48 Authority. Notwithstanding any other provision of law and subject to the
+49 availability of funds, the State CIO, at the request of the Authority, shall assist
+50 and facilitate expansion of existing contracts related to the HIE Network,
+Page 10 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 provided that such request is made in writing by the Authority to the State
+2 CIO with reference to specific requirements set forth in this Article.
+3 (14) In consultation with the Advisory Board, develop a strategic plan for
+4 achieving statewide participation in the HIE Network by all hospitals and
+5 health care providers licensed in this State.
+6 (15) In consultation with the Advisory Board, define the following with respect to
+7 operation of the HIE Network:
+8 a. Business policy.
+9 b. Protocols for data integrity, data sharing, data security, HIPAA
+10 compliance, and business intelligence as defined in G.S. 143B-1381.
+11 To the extent permitted by HIPAA, protocols for data sharing shall
+12 allow for the disclosure of data for academic research.
+13 c. Qualitative and quantitative performance measures.
+14 d. An operational budget and assumptions.
+15 (16) Annually report to the Joint Legislative Oversight Committee on Health and
+16 Human Services and the Joint Legislative Oversight Committee on
+17 Information Technology on the following:
+18 a. The operation of the HIE Network.
+19 b. Any efforts or progress in expanding participation in the HIE Network.
+20 c. Health care trends based on information disclosed through the HIE
+21 Network.
+22 (17) Ensure that the HIE Network interfaces with the federal level HIE, the eHealth
+23 Exchange.
+24 (18) Enforce the provisions of this Article.
+25 (19) Provide data related services, as allowed by G.S. 90-414.16.
+26 (20) Adopt rules as needed to implement the appeal process established by
+27 G.S. 90-414.15.
+28 "§ 90-414.8. North Carolina Health Information Exchange Advisory Board.
+29 (a) Creation and Membership. – There is hereby established the North Carolina Health
+30 Information Exchange Advisory Board within the Department of Information Technology. The
+31 Advisory Board shall consist of the following 12 13 members:
+32 (1) The following four members appointed by the President Pro Tempore of the
+33 Senate:
+34 a. A licensed physician in good standing and actively practicing in this
+35 State.
+36 b. A patient representative.
+37 c. An individual with technical expertise in health data analytics.
+38 d. A representative of a behavioral health provider.
+39 (2) The following four members appointed by the Speaker of the House of
+40 Representatives:
+41 a. A representative of a critical access hospital.
+42 b. A representative of a federally qualified health center.
+43 c. An individual with technical expertise in health information
+44 technology.
+45 d. A representative of a health system or integrated delivery network.
+46 (3) The following three ex officio, nonvoting members:
+47 a. The State Chief Information Officer or a designee.
+48 b. The Director of GDAC or a designee.
+49 c. The Secretary of Health and Human Services, or a designee.
+50 (4) The following ex officio, voting member:members:
+DRS15195-MGfa-82 Page 11
+General Assembly Of North Carolina Session 2025
+1 a. The Executive Administrator of the State Health Plan for Teachers and
+2 State Employees, or a designee.
+3 b. The Deputy Secretary for the State's Medicaid program, or a designee.
+4 (b) Chairperson. – A chairperson shall be elected from among the members. The
+5 chairperson shall organize and direct the work of the Advisory Board.
+6 (c) Administrative Support. – The Department of Information Technology shall provide
+7 necessary clerical and administrative support to the Advisory Board.
+8 (d) Meetings. – The Advisory Board shall meet at least quarterly and at the call of the
+9 chairperson. A majority of the Advisory Board constitutes a quorum for the transaction of
+10 business.
+11 (e) Terms. – In order to stagger terms, in making initial appointments, the President Pro
+12 Tempore of the Senate shall designate two of the members appointed under subdivision (1) of
+13 subsection (a) of this section to serve for a one-year period from the date of appointment and, the
+14 Speaker of the House of Representatives shall designate two members appointed under
+15 subdivision (2) of subsection (a) of this section to serve for a one-year period from the date of
+16 appointment. The remaining appointed voting members shall serve two-year periods. Future
+17 appointees who are voting members shall serve terms of two years, with staggered terms based
+18 on this subsection. Appointed voting members may serve up to two consecutive terms, not
+19 including the abbreviated two-year terms that establish staggered terms or terms of less than two
+20 years that result from the filling of a vacancy. Ex officio, nonvoting and voting members are not
+21 subject to these term limits. A vacancy other than by expiration of a term shall be filled by the
+22 appointing authority.
+23 (f) Expenses. – Members of the Advisory Board who are State officers or employees
+24 shall receive no compensation for serving on the Advisory Board but may be reimbursed for their
+25 expenses in accordance with G.S. 138-6. Members of the Advisory Board who are full-time
+26 salaried public officers or employees other than State officers or employees shall receive no
+27 compensation for serving on the Advisory Board but may be reimbursed for their expenses in
+28 accordance with G.S. 138-5(b). All other members of the Advisory Board may receive
+29 compensation and reimbursement for expenses in accordance with G.S. 138-5.
+30 (g) Duties. – The Advisory Board shall provide consultation to the Authority with respect
+31 to the advancement, administration, and operation of the HIE Network and on matters pertaining
+32 to health information technology and exchange, generally. In carrying out its responsibilities, the
+33 Advisory Board may form committees of the Advisory Board to examine particular issues related
+34 to the advancement, administration, or operation of the HIE Network.
+35 "§ 90-414.9. Participation by covered entities.
+36 (a) Each Except for federal agencies that access the HIE Network solely to review patient
+37 data for treatment purposes, all covered entity that participates entities that participate in the HIE
+38 Network shall enter into a HIPAA compliant business associate agreement described in
+39 G.S. 90-414.7(b)(8) and a written participation agreement described in G.S. 90-414.7(b)(6) with
+40 the Authority or qualified organization prior to submitting data through or in the HIE Network.
+41 Notwithstanding this subsection, the Authority may exchange data in the HIE Network through
+42 the national eHealth Exchange and the Trusted Exchange Framework and Common Agreement
+43 so long as the Authority enters into the agreements that are necessary to participate in each of
+44 these national networks.
+45 (b) Each covered entity that participates in the HIE Network may authorize its business
+46 associates on behalf of the covered entity to submit data through, or access data stored in, the
+47 HIE Network in accordance with this Article and at the discretion of the Authority, as provided
+48 in G.S. 90-414.7(b)(8).
+49 (c) Notwithstanding any federal or State law or regulation to the contrary, each covered
+50 entity that participates in the HIE Network may disclose an individual's protected health
+Page 12 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 information through the HIE Network to other covered entities for any purpose permitted by
+2 HIPAA.
+3 "§ 90-414.10. Continuing right to opt out; effect of opt out.
+4 (a) Each individual has the right on a continuing basis to opt out or rescind a decision to
+5 opt out.
+6 (b) The Authority or its designee shall enforce an individual's decision to opt out or
+7 rescind an opt out prospectively from the date the Authority or its designee receives written notice
+8 of the individual's decision to opt out or rescind an opt out in the manner prescribed by the
+9 Authority. An individual's decision to opt out or rescind an opt out does not affect any disclosures
+10 made by the Authority or covered entities through the HIE Network prior to receipt by the
+11 Authority or its designee of the individual's written notice to opt out or rescind an opt out.
+12 (c) A covered entity shall not deny treatment, coverage, or benefits to an individual
+13 because of the individual's decision to opt out. However, nothing in this Article is intended to
+14 restrict a health care provider from otherwise appropriately terminating a relationship with an
+15 individual in accordance with applicable law and professional ethical standards.
+16 (d) Except as otherwise permitted in G.S. 90-414.11(a)(3), or as required by law, the
+17 protected health information of an individual who has exercised the right to opt out may not be
+18 made accessible or disclosed to covered entities or any other person or entity through the HIE
+19 Network for any purpose.
+20 (e) Repealed by Session Laws 2017-57, s. 11A.5(e), effective July 1, 2017.
+21 "§ 90-414.11. Construction and applicability.
+22 (a) Nothing in this Article shall be construed to do any of the following:
+23 (1) Impair any rights conferred upon an individual under HIPAA, including all of
+24 the following rights related to an individual's protected health information:
+25 a. The right to receive a notice of privacy practices.
+26 b. The right to request restriction of use and disclosure.
+27 c. The right of access to inspect and obtain copies.
+28 d. The right to request amendment.
+29 e. The right to request confidential forms of communication.
+30 f. The right to receive an accounting of disclosures.
+31 (2) Authorize the disclosure of protected health information through the HIE
+32 Network to the extent that the disclosure is restricted by federal laws or
+33 regulations, including the federal drug and alcohol confidentiality regulations
+34 set forth in 42 C.F.R. Part 2.
+35 (3) Restrict the disclosure of protected health information through the HIE
+36 Network for public health purposes or research purposes, so long as disclosure
+37 is permitted by both HIPAA and State law.
+38 (4) Prohibit the Authority or any covered entity participating in the HIE Network
+39 from maintaining in the Authority's or qualified organization's computer
+40 system a copy of the protected health information of an individual who has
+41 exercised the right to opt out, as long as the Authority or the qualified
+42 organization does not access, use, or disclose the individual's protected health
+43 information for any purpose other than for necessary system maintenance or
+44 as required by federal or State law.
+45 (b) This Article applies only to disclosures of protected health information made through
+46 the HIE Network, including disclosures made within qualified organizations. It does not apply to
+47 the use or disclosure of protected health information in any context outside of the HIE Network,
+48 including the redisclosure of protected health information obtained through the HIE Network.
+49 "§ 90-414.12. Penalties and remedies; immunity for covered entities and business associates
+50 for good faith participation.
+DRS15195-MGfa-82 Page 13
+General Assembly Of North Carolina Session 2025
+1 (a) Except as provided in subsection (b) of this section, a covered entity that discloses
+2 protected health information in violation of this Article is subject to the following:
+3 (1) Any civil penalty or criminal penalty, or both, that may be imposed on the
+4 covered entity pursuant to the Health Information Technology for Economic
+5 and Clinical Health (HITECH) Act, P.L. 111-5, Div. A, Title XIII, section
+6 13001, as amended, and any regulations adopted under the HITECH
+7 Act.federal law or regulation.
+8 (2) Any civil remedy available under the HITECH Act or any regulations adopted
+9 under the HITECH Act that is available to the Attorney General or to an
+10 individual who has been harmed by a violation of this Article, including
+11 damages, penalties, attorneys' fees, and costs.federal law or regulation.
+12 (3) Disciplinary action by the respective licensing board or regulatory agency
+13 with jurisdiction over the covered entity.
+14 (4) Any penalty authorized under Article 2A of Chapter 75 of the General Statutes
+15 if the violation of this Article is also a violation of Article 2A of Chapter 75
+16 of the General Statutes.
+17 (5) Any other civil or administrative remedy available to a plaintiff by State or
+18 federal law or equity.
+19 (a1) In connection with the submission of the annual compliance report required by
+20 G.S. 90-414.13, it is unlawful for any person or entity to knowingly present or cause to be
+21 presented to the Authority a false record to avoid full payment of the State health data assessment
+22 under G.S. 90-414.4. The Authority may assess against any person or entity that violates this
+23 subsection a civil penalty of not less than five thousand dollars ($5,000) and not more than ten
+24 thousand dollars ($10,000), plus three times the amount of damages sustained by the Authority
+25 as a result of that person's or entity's actions. The clear proceeds of civil penalties provided for
+26 in this subsection shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+27 G.S. 115C-457.2.
+28 (a2) The Authority may assess a civil penalty not to exceed fifty dollars ($50.00) for each
+29 day after the required reporting period or deadline that the annual compliance report remains out
+30 of compliance with the requirements prescribed by G.S. 90-414.13.
+31 (b) To the extent permitted under or consistent with federal law, a covered entity or its
+32 business associate that in good faith submits data through, accesses, uses, discloses, or relies
+33 upon data submitted through the HIE Network shall not be subject to criminal prosecution or
+34 civil liability for damages caused by such submission, access, use, disclosure, or reliance.
+35 "§ 90-414.13. Annual compliance report.
+36 (a) Reporting Requirement. – Each covered entity that provides, maintains, controls,
+37 directs, or licenses the data transfer system of a provider or entity subject to G.S. 90-414.4(a1)
+38 that provides health care services to beneficiaries of State-funded health care shall submit an
+39 annual compliance report to the Authority on a form created by the Authority that meets the
+40 requirements of this section.
+41 (b) The Authority shall develop and make available to covered entities an annual
+42 compliance report form, which the Authority may update from time to time after consultation
+43 with the Advisory Board. The annual compliance report form shall include fields for at least all
+44 of the following information:
+45 (1) Name of the covered entity, its location, and the Organization NPI.
+46 (2) Names of providers and entities on whose behalf the covered entity is
+47 submitting the annual compliance report, as well as their respective
+48 Organization NPIs.
+49 (3) Acknowledgment of the provision of health care services to beneficiaries of
+50 State-funded health care.
+Page 14 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 (4) Status of technical connection to the HIE Network, as determined under
+2 G.S. 90-414.4(a4).
+3 (5) The status of data submission through the HIE Network that is in compliance
+4 with G.S. 90-414.4.
+5 (6) Representations regarding each of the following, as applicable:
+6 a. For a covered entity that has executed an agreement with the
+7 Authority, a representation regarding that entity's compliance with
+8 such agreement.
+9 b. For a covered entity that has received a time-limited exception from
+10 the Authority, a representation regarding its present intent to connect
+11 to, and begin submitting data through, the HIE Network.
+12 c. For a covered entity that is required to pay the State health data
+13 assessment fee authorized by G.S. 90-414.14, a representation
+14 regarding the amount of the fee owed to the State, an explanation of
+15 how the fee amount was calculated, and whether the fee was submitted
+16 contemporaneously with the annual compliance report as required by
+17 G.S. 90-414.14.
+18 d. For a covered entity that asserts it is exempt from paying the annual
+19 State health data assessment fee, representations regarding why it is
+20 eligible to claim the exemption allowed by G.S. 90-414.14(e).
+21 (7) Attestation to the completeness and validity of the annual compliance report
+22 form and all representations contained on the form.
+23 (c) Covered entities shall submit to the Authority all reports and related statements,
+24 documents, and payments required by this section by the first of May each year. Covered entities
+25 shall be deemed to have submitted timely annual compliance reports if complete reports are
+26 postmarked or digitally time-stamped on or before the day the reports are due to the Authority.
+27 If an annual compliance report or any related statements, documents, or payments are submitted
+28 in a manner that does not comply with this section, the Authority may assess a civil penalty not
+29 to exceed fifty dollars ($50.00) for each day after the first of May that the report remains out of
+30 compliance with the requirements of this section. The clear proceeds of civil penalties provided
+31 for in this subsection shall be remitted to the Civil Penalty and Forfeiture Fund in accordance
+32 with G.S. 115C-457.2.
+33 (d) A covered entity that provides, maintains, controls, directs, or licenses a data transfer
+34 system solely on behalf of a provider or entity that voluntarily connects to the HIE Network
+35 pursuant to G.S. 90-414.4(e) is not required to submit an annual compliance report.
+36 (e) State agencies are required to submit an abbreviated annual compliance report, on a
+37 form provided by the Authority, that shall be made available only to State agencies.
+38 (f) At the request of a covered entity, the Authority may waive any requirement in this
+39 section for good cause if the covered entity demonstrates to the satisfaction of the Authority that
+40 complying with a requirement in this section would cause an undue hardship.
+41 (g) The Department's Division of Health Benefits shall assist in administering the annual
+42 compliance report process as it pertains to the State's Medicaid providers, as determined
+43 necessary by the Authority. At a minimum, the Division of Health Benefits shall annually provide
+44 the Authority with a current list of enrolled Medicaid providers, assist with notifying those
+45 Medicaid providers about the annual compliance report requirement and reporting deadline
+46 established by this section, and provide available information requested by the Authority that is
+47 necessary for the Authority to audit or verify the completeness and accuracy of an enrolled
+48 Medicaid provider's annual compliance report and related materials submitted to the Authority
+49 by or on behalf of that provider.
+50 "§ 90-414.14. Annual State health data assessment fee.
+DRS15195-MGfa-82 Page 15
+General Assembly Of North Carolina Session 2025
+1 (a) Annual Fee Requirement. – Each covered entity that provides, maintains, controls,
+2 directs, or licenses a data transfer system on behalf of a provider or entity subject to the
+3 mandatory connection and data submission requirements of G.S. 90-414.4 shall pay an annual
+4 State health data assessment fee each year if the covered entity meets any of the following
+5 criteria:
+6 (1) Is not connected to the HIE Network, as determined pursuant to subsection
+7 (a4) of G.S. 90-414.4.
+8 (2) Is connected to the HIE Network, as determined pursuant to subsection (a4)
+9 of G.S. 90-414.4 but is not submitting required data through the HIE Network.
+10 (b) Amount of Annual Fee. – The General Assembly shall determine the State health data
+11 assessment fee schedules for annual compliance report periods.
+12 (c) Fee Due Date. – A covered entity shall pay any required State health data assessment
+13 fee contemporaneously with the submission of the annual compliance report required by
+14 G.S. 90-414.13.
+15 (d) HIE Network Data and Participation Fund; Use of Proceeds. – The HIE Network Data
+16 and Participation Fund (Fund) is established as a special fund in the Department of Information
+17 Technology under the management and control of the Authority. The Fund shall consist of the
+18 fees collected by the Authority pursuant to this section and all other funds received by the
+19 Authority pursuant to this Article, except for the clear proceeds of civil penalties collected
+20 pursuant to G.S. 90-414.12, 90-414.13, 90-414.16, and subsection (g) of this section. The Fund
+21 shall be placed in an interest-bearing account, and any interest or other income derived from the
+22 Fund shall be credited to the Fund. The Authority shall not use monies in this Fund for any
+23 purpose other than to pay for expenses incurred by the Authority in carrying out its powers and
+24 duties as set forth in this Article. Monies in the Fund shall only be available for expenditure upon
+25 an act of appropriation of the General Assembly. The Fund is subject to the provisions of the
+26 State Budget Act, except that no unexpended surplus of the Fund shall revert to the General Fund.
+27 (e) Fee Exemption. – A covered entity that provides, maintains, controls, directs, or
+28 licenses a data transfer system for providers or entities subject to the HIE Network connection
+29 and data submission requirements of this Article may claim an exemption from the State health
+30 data assessment fee during a reporting period by demonstrating to the satisfaction of the
+31 Authority that one or more of the following is true:
+32 (1) The covered entity has secured a time-limited exception from the Authority
+33 under G.S. 90-414.4(g) for the applicable State health data assessment fee
+34 reporting period.
+35 (2) The covered entity attests, in writing, that it and the providers and entities on
+36 whose behalf it provides, maintains, controls, directs, or licenses a data
+37 transfer system received less than five hundred thousand dollars ($500,000)
+38 in State health care funds for providing health care services to beneficiaries of
+39 State-funded health care.
+40 (3) The covered entity is acting in good faith to comply with the Statewide Health
+41 Information Exchange Act as evidenced by all of the following:
+42 a. Has entered into a participation agreement with the Authority.
+43 b. Maintains contact with the Authority.
+44 c. Timely responds to direct communications from the Authority
+45 regarding matters such as connection status, onboarding, training, and
+46 data submission.
+47 (4) The covered entity is in its first year of existence, as evidenced by filings with
+48 the Office of the Secretary of State.
+49 (5) The covered entity attests, in writing, that it is actively transitioning between
+50 data transfer systems.
+Page 16 DRS15195-MGfa-82
+General Assembly Of North Carolina Session 2025
+1 (f) Revocation of Exempt Status. – The Authority may revoke a covered entity's
+2 exemption from payment of the State health data assessment fee if the covered entity is
+3 unresponsive to communications from the Authority or if the covered entity fails to maintain
+4 contact with the Authority. The Authority may revoke an exemption from the payment of the
+5 State health data assessment fee for good cause after giving the covered entity 30 days' written
+6 notice and an opportunity to cure any unresponsiveness to, or failure to maintain contact with,
+7 the Authority.
+8 (g) Civil Penalty for Submitting a False Record to Avoid the Fee. – It is unlawful for any
+9 person or entity to knowingly present or cause to be presented to the Authority a false record to
+10 avoid full payment of the State health data assessment fee due under this section. The Authority
+11 shall assess against any person or entity that violates this section a civil penalty of not less than
+12 five thousand dollars ($5,000) and not more than ten thousand dollars ($10,000), plus three times
+13 the amount of damages sustained by the Authority as a result of that person's or entity's actions.
+14 The clear proceeds of civil penalties provided for in this subsection shall be remitted to the Civil
+15 Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2.
+16 "§ 90-414.15. Appeal of Authority's determinations.
+17 (a) Determinations and Appeals. – The Authority shall make the following
+18 determinations regarding providers' and entities' obligations: (i) grant or deny requests for
+19 time-limited exceptions under G.S. 90-414.4 and (ii) assess penalties under G.S. 90-414.14. The
+20 Authority shall send these determinations, in writing, to providers and entities via certified mail,
+21 return receipt requested, and via email, if known to the Authority. If a provider or entity disagrees
+22 with the Authority's determination, it shall deliver a petition for appeal to the Department of
+23 Information Technology's registered agent via certified mail, return receipt requested, within 30
+24 calendar days after receipt of the Authority's written determination. The petition for appeal shall
+25 include an explanation of the specific reasons the provider or entity disagrees with the Authority's
+26 determination and shall be supported by documentation and affidavits regarding the petitioner's
+27 compliance with this Article along with any other supporting documentation the petitioner deems
+28 relevant to the appeal. The Authority shall develop and make available on its website the form to
+29 be used by any provider or entity seeking to appeal the Authority's determination.
+30 (b) Untimely Appeals. – A petitioner's failure to submit a timely petition for appeal shall
+31 result in the dismissal of the appeal with prejudice. The Department of Information Technology
+32 shall notify the provider or entity of such dismissal in writing.
+33 (c) Review by the State CIO or the State CIO's Designee. – The State CIO or the State
+34 CIO's designee shall review all timely petitions for appeal under this section. The State CIO or
+35 the State CIO's designee may render a decision on the petition without meeting with the
+36 petitioner. If the State CIO or State CIO's designee renders a decision without meeting with the
+37 petitioner, then the State CIO or the State CIO's designee shall notify the petitioner of his or her
+38 decision, in writing, within 30 calendar days after the date the petition was received by the
+39 Department of Information Technology. If the State CIO or the State CIO's designee determines
+40 it is necessary to meet with the petitioner prior to rendering a decision, the State CIO or the State
+41 CIO's designee and petitioner shall schedule a meeting within 30 calendar days after the date the
+42 petition was received by the Department of Information Technology, or as soon as reasonably
+43 practical thereafter, or as agreed upon by the parties. Within 30 calendar days after the date of
+44 the meeting, the State CIO or the State CIO's designee shall submit a decision, in writing, to the
+45 petitioner by certified mail, return receipt requested, and via email, if known.
+46 (d) Administrative Review. – If the petitioner disagrees with the decision of the State
+47 CIO or the State CIO's designee, the petitioner may commence a contested case under Article 3A
+48 of Chapter 150B of the General Statutes. A petition for a contested case shall be filed within 30
+49 calendar days after the earlier of either the date the decision of the State CIO or the State CIO's
+50 designee is mailed to the petitioner or the date the decision of the State CIO or the State CIO's
+51 designee is emailed to the petitioner. Except as otherwise provided by this Article, no other
+DRS15195-MGfa-82 Page 17
+General Assembly Of North Carolina Session 2025
+1 disputes between the Authority and providers or entities, including disputes involving the terms
+2 or conditions of any agreement described in G.S. 90-414.7(b), or a party's performance under
+3 any such agreement, are subject to the contested case provisions of Chapter 150B of the General
+4 Statutes.
+5 "§ 90‑414.16. Data related services.
+6 (a) Data Related Services. – The Authority may provide data related services to a covered
+7 entity participating in the HIE Network or to a business associate of the participating covered
+8 entity that is using the service to perform a function for the participating covered entity. Only
+9 covered entities participating in the HIE Network may make a request to the Authority for data
+10 related services. Nothing in this section shall be construed to require the Authority to provide
+11 data related services to covered entities or their business associates. Data disclosed or used in the
+12 Authority's provision of these services to any person or entity shall not be used for commercial
+13 purposes.
+14 (b) Cost Recovery. – If the Authority voluntarily elects to provide a data related service
+15 to a covered entity, then it may charge a reasonable fee that may not exceed the actual cost
+16 incurred for the service. The cost recovery shall be based on generally accepted accounting
+17 principles and may include labor costs of the personnel providing the service, any information
+18 technology expense, and any other administrative expense."
+19 SECTION 2. The deadline for submitting the first report due under G.S. 90-414.13
+20 and the accompanying State health data assessment fee, if applicable, is May 1, 2028.
+21 SECTION 3. Pursuant to G.S. 90-414.14(b), the initial State health data assessment
+22 fee schedules for annual compliance report periods beginning in 2028, 2029, and 2030 are as
+23 follows:
+24 (1) For the annual compliance report period beginning in 2028:
+25 Amount of State Health Care Funds State Health Data Assessment Fee: Amount
+26 received in 2024 Due
+27 $1,000,000 + 1.6% of State health care funds received in 2027
+28 $750,001 – $1,000,000 $9,000
+29 $500,001 – $750,000 $6,000
+30 $250,001 – $500,000 $3,000
+31 Less than $250,000 (No fee)
+32 (2) For the annual compliance report period beginning in 2029:
+33 Amount of State Health Care Funds State Health Data Assessment Fee: Amount
+34 received in 2025 Due
+35 $1,000,000 + 1.6% of State health care funds received in 2028
+36 $750,001 – $1,000,000 $12,000
+37 $500,001 – $750,000 $8,000
+38 $250,001 – $500,000 $4,000
+39 Less than $250,000 (No fee)
+40 (3) For the annual compliance report period beginning in 2030:
+41 Amount of State Health Care Funds State Health Data Assessment Fee: Amount
+42 received in 2026 Due
+43 $1,000,000 + 1.6% of State health care funds received in 2029
+44 $750,001 – $1,000,000 $15,000
+45 $500,001 – $750,000 $9,000
+46 $250,001 – $500,000 $4,500
+47 Less than $250,000 (No fee)
+48 SECTION 4. This act becomes effective December 1, 2025.
+Page 18 DRS15195-MGfa-82
+[DELETED:  D H ( S  A R T S H I E A A T I O N C P F " t s e t o i i h i a A B B t m t a r o 4 C § C D t o b i h s i t e h r p b a c c]
+[DELETED:  S  D D D o d – T r t p o a t o R G H N – T v s h i e H – S 2 t 2 o t f H I I N N O w t d h o h p h i f b b t A t c e o p o O i a h c p t i a e o t a P P Q R p – R p r i a s t t S S T T H c f a h c p a o b t D o H a H S t S]
+[DELETED:  S  P F T S h c s i o i t t T M a o b o S h c p f p m e t i b h r a t D o H a H S D o H T h c e m e p h r d o m s a s a m a m o c s a M T h a e h r s s b s a a H P P N E o M a S h c s a t e s b s d a c d b T]
+[DELETED:  S  D P H P a d i G b t d o a c c w t D o L T P D L T T P B S h c f o u t j o t c n t c a r D E o T f E C t t H N – T o I T i c w t D o H a E]
+[DELETED:  S  P s p n t D o I T o c o g h e u t s N t S n t C d c t H w c e t m E t A t s t s o r p d P E C E M s ( a ( o t s a a c o r S f o b o S h c p b a p f w o S h c f s f t p s f i E E E S h c u t p i a a c a d i G h a p w E e c o a d i t i u a c p h p B c s i p d a d m e u a w t S H P f T a S E a w ( i n E 2]
+[DELETED:  S  D E P r w t N C B o P u D 4 C § 2 R – N s ( o t s p o M c u i t i a c w d e a d V C f C P – N t m p o M s o S h c s a n C l s a s p i I a d d s a s p C A P w s ( C E S O D N A L e a a a s h C D t t H N b a o c e t a n r b M]
+[DELETED:  S  P c d o c d g b t p a e t p a e t a r t c t a s d t t H C o D – A d s t o t t H N T A T e f p o e t c t a b f d a w t g o d r f a I o f a c e t o a t e f t l a d t s t c e m d D T i w o i p i a g a w l o b a T D o I t D o I T D o T c e w c d o b a b a]
+[DELETED:  S  D T T D N N Ti P I s f w t c e s a t S n t s t c e e f t A T s f t p s f i G a i G T A t D o G A s w a a d o i o t S A d o p d f t a d d]
+[DELETED:  S  P P C – T i h e t N C H I P O C C w H a a r a u H C a o a t A o i s o d t o a t H N O N F o H N i w e h M I c w t A B s g p f t E s n t c o t p o t A a t c d a o t a c o]
+[DELETED:  S  D E i c o a c o a n E F a s s f t a c g R F c w t A B e i d o p i o g a o u r t t H t r p d f t p a e m s l a t A e i t a t a F F A C A T d t c u t s i I N a o p o l a s t t f e o c r t t H N]
+[DELETED:  S  P I c w t A B d a s p f I B P f d i d s d s H Q A A S a t J L O C o T A H E E P A r a n t i t a p e b C T A A A A T f f m a b t S o t H o A A A i w t e i h i A T T T T T]
+[DELETED:  S  D T T C – A c s b e f a t m T A M A m o t A B c a q f t t o T o t H o R s d t m a u t s A v m m s u t t c t n E w G A o m o t A B m r D E s e i a H c b a a d i E N t p i t H N m d a i p h]
+[DELETED:  S  P E T A e E R N I T T T T T T A t d o p h i t t H t t e t t d i r b f l o R t d o p h i t t H P m i t A o q o c t r t o o a l a t A o t q T]
+[DELETED:  S  D E A a a a a r a u t H A w h b h b a v o t A i D A A I c w t s o t a c r r b a T T R R – E c e t p m c T A s d a m a t c e a a N N o p a e o w b t c e i t a c r a w a t r A]
+[DELETED:  S  P S o t c t t H N a d u T R F a c e t h e a a w t a r r t e c w F F a c e t i r t p t S h d f a b G a r F A C e s s t t A a r a r s A S A T r p a i p t t S M p a d w p a t a c r r a r d]
+[DELETED:  S  D A o l a d t s o b o a p o e s t t e I I A F c w t s o t a c r r b H c b t A p t t s a a o f r b t p t t A e f t c p o c p c F E – A c e t p m c d o a f d a r p b d t t s o t T T b i p m c d o l a d T H M T r t d c f t A T T]
+[DELETED:  S  P R o E S – T A m r a c e f p o t S h d a f i t c e i C D a A – T A s m t f r p a e o ( g o d r f U R S C d m r a d o t p w m w t A]
+[DELETED:  S  D D C F S D 1 $ $ $ ( F S D 1 $ $ $ ( F S D 1 $ $ $ (]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 509
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS15195-MGfa-82
+Short Title: Health Information Exchange Act Revisions. (Public)
+Sponsors: Senators Hise, Burgin, and Adcock (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT REVISING THE STATEWIDE HEALTH INFORMATION EXCHANGE ACT;
+3 AND AUTHORIZING THE IMPOSITION OF NEW CIVIL PENALTIES FOR
+4 VIOLATIONS OF THE ACT AND A NEW STATE HEALTH DATA ASSESSMENT FEE.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 29B of Chapter 90 of the General Statutes reads as rewritten:
+7 "Article 29B.
+8 "Statewide Health Information Exchange Act.
+9 "§ 90-414.1. Title.
+10 This act Article shall be known and may be cited as the "Statewide Health Information
+11 Exchange Act."
+12 "§ 90-414.2. Purpose.
+13 This Article is intended to improve the quality of health care delivery within this State by
+14 facilitating and regulating the use of a voluntary, statewide health information exchange network
+15 for the secure electronic transmission of individually identifiable health information among
+16 health care providers, health plans, and health care clearinghouses clearinghouses, and the State
+17 in a manner that is consistent with the Health Insurance Portability and Accountability Act,
+18 Privacy Rule and Security Rule, 45 C.F.R. §§ 160, 164.
+19 "§ 90-414.3. Definitions.
+20 The following definitions apply in this Article:
+21 (1) Annual compliance report. – The annual report required by G.S. 90-414.13.
+22 (1a) Business associate. – As defined in 45 C.F.R. § 160.103.
+23 (2) Business associate contract. – The documentation required by 45 C.F.R. §
+24 164.502(e)(2) that meets the applicable requirements of 45 C.F.R. §
+25 164.504(e).
+26 (3) Covered entity. – Any entity described in 45 C.F.R. § 160.103 or any other
+27 facility or practitioner licensed by the State to provide health care services.
+28 (3a) Data transfer systems. – Electronic systems or platforms that (i) facilitate the
+29 submission of any combination of clinical, demographic, or claims data to the
+30 HIE Network and (ii) are maintained, controlled, directed, or licensed by, or
+31 on behalf of, a covered entity or hybrid entity subject to this Article. Data
+32 transfer systems may be comprised of health information technology or claims
+33 processing technology, or both, including hardware, software, integrated
+34 technologies and related licenses, or packaged solutions sold as services. Data
+35 transfer systems include, but are not limited to, electronic systems or platforms
+36 related to electronic health records, pharmacy benefits and claims, claims
+*DRS15195-MGfa-82*
+
+General Assembly Of North Carolina Session 2025
+1 processing, or care management. Data transfer systems do not include any
+2 information technology systems that are directly maintained, controlled, or
+3 licensed by the State Health Plan for Teachers and State Employees.
+4 (4) Department. – North Carolina Department of Health and Human Services.
+5 (5) Disclose or disclosure. – The release, transfer, provision of access to, or
+6 divulging in any other manner an individual's protected health information
+7 through the HIE Network.
+8 (6) Repealed by Session Laws 2017-57, s. 11A.5(f), effective July 1, 2017.
+9 (7) GDAC. – The North Carolina Government Data Analytics Center.
+10 (8) HIE Network. – The voluntary, statewide health information exchange
+11 network network, which is a health data utility overseen and administered by
+12 the Authority.
+13 (9) HIPAA. – Sections 261 through 264 of the federal Health Insurance
+14 Portability and Accountability Act of 1996, P.L. 104-191, as amended, and
+15 any federal regulations adopted to implement these sections, as amended.
+16 (10) Individual. – As defined in 45 C.F.R. § 160.103.
+17 (11) North Carolina Health Information Exchange Advisory Board or Advisory
+18 Board. – The Advisory Board established under G.S. 90-414.8.
+19 (12) North Carolina Health Information Exchange Authority or Authority. – The
+20 entity established pursuant to G.S. 90-414.7.
+21 (13) Opt out. – An individual's affirmative decision communicated to the Authority
+22 in writing to disallow his or her protected health information from being
+23 disclosed by the Authority to covered entities or other persons or entities
+24 through the HIE Network.
+25 (13a) Organization National Provider Identifier or Organization NPI. – The HIPAA
+26 Administrative Simplification Standard that utilizes a 10-position all-numeric
+27 identification number assigned by the federal National Provider System to
+28 uniquely identify a health care provider that is an entity other than an
+29 individual human being that furnishes health care.
+30 (14) Protected health information. – As defined in 45 C.F.R. § 160.103.
+31 (15) Public health purposes. – The public health activities and purposes described
+32 in 45 C.F.R. § 164.512(b).
+33 (16) Qualified organization. – An entity with which the Authority has contracted
+34 for the sole purpose of facilitating the exchange of data with or through the
+35 HIE Network.
+36 (17) Research purposes. – Research purposes referenced in and subject to the
+37 standards described in 45 C.F.R. § 164.512(i).
+38 (18) State CIO. – The State Chief Information Officer.
+39 (19) State-funded health care. – Means all of the following:
+40 a. The North Carolina Medicaid program.
+41 b. The State Health Plan for Teachers and State Employees.
+42 c. Health care facilities and health care programs administered or
+43 operated by the Department of Health and Human Services, the
+44 Department of Public Safety, or the Department of Adult Correction,
+45 and their employees, agents, or grantees.
+46 (20) State health care funds. – Monies paid to providers or entities for the provision
+47 of health care services to recipients of State-funded health care. The term
+48 includes both (i) direct payments from the State to providers and entities and
+49 (ii) payments that providers and entities receive from third parties, or the
+50 agents of third parties, that are retained by the State for the administration or
+Page 2 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 delivery, or both, of State-funded health care, including prepaid health plans
+2 as defined in G.S. 108D-1 and claims processors as defined in G.S. 135-48.1.
+3 "§ 90-414.4. Required participation in HIE Network for some providers.
+4 (a) Findings. – The General Assembly makes the following findings:
+5 (1) That controlling escalating health care costs of the Medicaid program and
+6 other State-funded health care services is of significant importance to the
+7 State, its taxpayers, its Medicaid recipients, and other recipients beneficiaries
+8 of State-funded health care services.care.
+9 (2) That the State and covered entities in North Carolina need timely access to
+10 certain demographic and clinical information pertaining to services rendered
+11 to Medicaid and other beneficiaries of State-funded health care program
+12 beneficiaries and paid for with Medicaid or other State-funded State health
+13 care funds in order to assess performance, improve health care outcomes,
+14 pinpoint medical expense trends, identify beneficiary health risks, and
+15 evaluate how the State is spending money on Medicaid and other State-funded
+16 health care services. The care. To that end, the Department of Information
+17 Technology, the Department of State Treasurer, State Health Plan Division,
+18 and the Department of Health and Human Services, Division of Health
+19 Benefits, have an affirmative duty to facilitate and support participation by
+20 covered entities in the statewide health information exchange network.
+21 (3) That making demographic and clinical information available to the State and
+22 covered entities in North Carolina by secure electronic means as set forth in
+23 subsection (b) of this section will improve care coordination within and across
+24 health systems, increase care quality for such beneficiaries, beneficiaries of
+25 State-funded health care, enable more effective population health
+26 management, reduce duplication of medical services, augment syndromic
+27 surveillance, allow more accurate measurement of care services and
+28 outcomes, increase strategic knowledge about the health of the population,
+29 and facilitate health care cost containment.
+30 (a1) Mandatory Connection to HIE Network. – Notwithstanding the voluntary nature of
+31 the HIE Network under G.S. 90-414.2, the following providers and entities shall be connected to
+32 the HIE Network and begin submitting data through the HIE Network pertaining to services
+33 rendered to Medicaid beneficiaries and to other of State-funded health care program beneficiaries
+34 and paid for with Medicaid or other State-funded State health care funds in accordance with the
+35 following time line:
+36 (1) The following providers of Medicaid services licensed to operate in the State
+37 that have an electronic health record system shall begin submitting, at a
+38 minimum, demographic and clinical data by June 1, 2018:
+39 a. Hospitals as defined in G.S. 131E-176(13).
+40 b. Physicians licensed to practice under Article 1 of Chapter 90 of the
+41 General Statutes, this Chapter, except for licensed physicians whose
+42 primary area of practice is psychiatry.
+43 c. Physician assistants as defined in 21 NCAC 32S.0201.
+44 d. Nurse practitioners as defined in 21 NCAC 36.0801.
+45 (2) Except as provided in subdivisions (3), (4), and (5) of this subsection, all other
+46 providers of Medicaid and State-funded health care services and their
+47 affiliated entities shall begin submitting demographic and clinical data by
+48 January 1, 2023.
+49 (3) The following entities shall submit encounter and claims data, as appropriate,
+50 in accordance with the following time line:
+DRS15195-MGfa-82 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 a. Prepaid Health Plans, as defined in G.S. 108D-1, by the
+2 commencement date of a capitated contract with the Division of
+3 Health Benefits for the delivery of Medicaid services as specified in
+4 Article 4 of Chapter 108D of the General Statutes.
+5 b. Local management entities/managed care organizations, as defined in
+6 G.S. 122C-3, by June 1, 2020.
+7 If authorized by the Authority in accordance with this Article, the Department
+8 of Health and Human Services may submit the data required by this subsection
+9 on behalf of the entities specified in this subdivision.
+10 (4) The following entities shall begin submitting demographic and clinical data
+11 by January 1, 2023:
+12 a. Physicians who perform procedures at ambulatory surgical centers as
+13 defined in G.S. 131E-146.
+14 b. Dentists licensed under Article 2 of Chapter 90 of the General Statutes.
+15 c. Licensed physicians whose primary area of practice is psychiatry.
+16 d. The State Laboratory of Public Health operated by the Department of
+17 Health and Human Services.
+18 (5) The following entities shall begin submitting claims data by January 1, 2023:
+19 a. Pharmacies registered with the North Carolina Board of Pharmacy
+20 under Article 4A of Chapter 90 of the General Statutes.this Chapter.
+21 b. State health care facilities operated under the jurisdiction of the
+22 Secretary of the Department of Health and Human Services, including
+23 State psychiatric hospitals, developmental centers, alcohol and drug
+24 treatment centers, neuro-medical treatment centers, and residential
+25 programs for children such as the Wright School and the Whitaker
+26 Psychiatric Residential Treatment Facility.
+27 c. Dentists licensed under Article 2 of this Chapter.
+28 (a2) Extensions of Time for Establishing Connection to the HIE Network. – The
+29 Department of Information Technology, in consultation with the Department of Health and
+30 Human Services and the State Health Plan for Teachers and State Employees, may establish a
+31 process to grant limited extensions of the time for providers and entities to connect to the HIE
+32 Network and begin submitting data as required by this section upon the request of a provider or
+33 entity that demonstrates an ongoing good-faith effort to take necessary steps to establish such
+34 connection and begin data submission as required by this section. The process for granting an
+35 extension of time must include a presentation by the provider or entity to the Department of
+36 Information Technology, the Department of Health and Human Services, and the State Health
+37 Plan for Teachers and State Employees on the expected time line for connecting to the HIE
+38 Network and commencing data submission as required by this section. Neither the Department
+39 of Information Technology, the Department of Health and Human Services, nor the State Health
+40 Plan for Teachers and State Employees shall grant an extension of time (i) to any provider or
+41 entity that fails to provide this information to both Departments, and the State Health Plan for
+42 Teachers and State Employees, (ii) that would result in the provider or entity connecting to the
+43 HIE Network and commencing data submission as required by this section later than January 1,
+44 2023. The Department of Information Technology shall consult with the Department of Health
+45 and Human Services and the State Health Plan for Teachers and State Employees to review and
+46 decide upon a request for an extension of time under this section within 30 days after receiving
+47 a request for an extension.
+48 (a3) Exemptions from Connecting to the HIE Network. – The Secretary of Health and
+49 Human Services, or the Secretary's designee, shall have the authority to grant exemptions to
+50 classes of providers of Medicaid and other State-funded health care services for whom acquiring
+51 and implementing an electronic health record system and connecting to the HIE Network as
+Page 4 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 required by this section would constitute an undue hardship. The Secretary, or the Secretary's
+2 designee, shall promptly notify the Department of Information Technology of classes of
+3 providers granted hardship exemptions under this subsection. Neither the Secretary nor the
+4 Secretary's designee shall grant any hardship exemption that would result in any class of provider
+5 connecting to the HIE Network and submitting data later than December 31, 2022.
+6 (a4) Connected Status. – A provider or entity identified in subsection (a1) of this section
+7 is deemed connected to the HIE Network when the covered entity that provides, maintains,
+8 controls, directs, or licenses that provider's or entity's data transfer system has done all of the
+9 following:
+10 (1) Established an operable technical connection with the HIE Network approved
+11 by the Authority that supports the submission of required patient data
+12 generated by the provider or entity.
+13 (2) Provided its Organization NPI to the Authority.
+14 (3) Executed with the Authority a valid, written participation agreement pursuant
+15 to subdivision (b)(6) of G.S. 90-414.7.
+16 (4) Communicated to the Authority, in writing, the identity of all providers and
+17 entities on whose behalf it maintains a data transfer system.
+18 (5) Either has met or is making reasonable efforts to meet data quality standards
+19 established by the Authority that are published on its website.
+20 (b) Mandatory Submission of Demographic and Clinical Data. – Notwithstanding the
+21 voluntary nature of the HIE Network under G.S. 90-414.2 and, except as otherwise provided in
+22 subsection subsections (c) and (c1) of this section, as a condition of receiving State funds,
+23 including Medicaid funds, the following entities shall submit at least twice daily, through the
+24 HIE network, demographic and clinical information pertaining to services rendered to Medicaid
+25 and other beneficiaries of State-funded health care program beneficiaries and paid for with
+26 Medicaid or other State-funded State health care funds, solely for the purposes set forth in
+27 subsection (a) of this section:
+28 (1) Each hospital, as defined in G.S. 131E-176(13) that has an electronic health
+29 record system.
+30 (2) Each Medicaid provider, unless the provider is an ambulatory surgical center
+31 as defined in G.S. 131E-146; however, a physician who performs a procedure
+32 at the ambulatory surgical center must be connected to the HIE Network.
+33 (3) Each provider that receives State health care funds for the provision of health
+34 services, State-funded health care, unless the provider is an ambulatory
+35 surgical center as defined in G.S. 131E-146; however, a physician who
+36 performs a procedure at the ambulatory surgical center must be connected to
+37 the HIE Network.
+38 (4) Each prepaid health plan, as defined in G.S. 58-93-5, that is under a capitated
+39 contract with the Department for the delivery of Medicaid services, or a local
+40 management entity/managed care organization, as defined in
+41 G.S. 122C-3.G.S. 122C-3, that is under a capitated prepaid health plan
+42 contract with the Department.
+43 (b1) Balance Billing Prohibition. – An in-network provider or entity who that (i) renders
+44 health care services, including prescription drugs and durable medical equipment, under a
+45 contract with the State Health Plan for Teachers and State Employees and who (ii) is not
+46 connected to the HIE Network in accordance with this Article, is prohibited from billing the State
+47 Health Plan or a Plan member more than either party would be billed if the entity or provider was
+48 connected to the HIE Network. Balance billing because the provider or entity did not connect to
+49 the HIE Network is prohibited.
+50 (c) Exemption for Certain Records. – Providers with patient records that are subject to
+51 the disclosure restrictions of 42 C.F.R. § 2 are exempt from the requirements of subsection (b)
+DRS15195-MGfa-82 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 of this section but only with respect to the patient records subject to these disclosure restrictions.
+2 Providers shall comply with the requirements of subsection (b) of this section with respect to all
+3 other patient records. A pharmacy shall only be Pharmacies registered with the North Carolina
+4 Board of Pharmacy under Article 4A of this Chapter and dentists licensed under Article 2 of this
+5 Chapter are only required to submit claims data pertaining to services rendered to Medicaid and
+6 other State-funded health care program beneficiaries of State-funded health care and paid for
+7 with Medicaid or other State-funded State health care funds.
+8 (c1) Exemption from Twice Daily Submission. – A pharmacy shall only be The following
+9 entities are required to submit claims data only once daily through the HIE Network Network:
+10 (1) Pharmacies registered with the North Carolina Board of Pharmacy under
+11 Article 4A of this Chapter, using pharmacy industry standardized formats.
+12 (2) Dentists licensed under Article 2 of this Chapter.
+13 (c2) 42 C.F.R. § 2 Records. – Notwithstanding subsection (b) of this section, patient
+14 records protected by 42 C.F.R. § 2 shall be disclosed through the HIE Network only if the
+15 Authority has provided written notice to the participating entity that data protected by 42 C.F.R.
+16 § 2 can be disclosed for a specific purpose.
+17 (d) Method of Data Submissions. – The Any provider or entity required to submit data
+18 submissions required under this section shall be make the submission by connection to the HIE
+19 Network periodic asynchronous secure structured file transfer or any other secure electronic
+20 means commonly used in the industry and consistent with document exchange and data
+21 submission standards established by the Office Assistant Secretary for Technology Policy/Office
+22 of the National Coordinator for Information Technology within the U.S. Department of Health
+23 and Human Services.
+24 (e) Voluntary Connection for Certain Providers. – Notwithstanding the mandatory
+25 connection and data submission requirements in of subsections (a1) and (b) of this section, the
+26 following providers of Medicaid services or other State-funded health care services are not
+27 required to connect to the HIE Network or submit data but may connect to the HIE Network and
+28 submit data voluntarily:
+29 (1) Community-based long-term services and supports providers, including
+30 personal care services, private duty nursing, home health, and hospice care
+31 providers.
+32 (2) Intellectual and developmental disability services and supports providers,
+33 such as day supports and supported living providers.
+34 (3) Community Alternatives Program waiver services (including CAP/DA,
+35 CAP/C, and Innovations) providers.
+36 (4) Eye and vision services providers.
+37 (5) Speech, language, and hearing services providers.
+38 (6) Occupational and physical therapy providers.
+39 (7) Durable medical equipment providers.
+40 (8) Nonemergency medical transportation service providers.
+41 (9) Ambulance (emergency medical transportation service) providers.
+42 (10) Local education agencies and agencies, school-based health
+43 providers.providers, and student health centers that primarily serve students
+44 matriculating at public or private institutions of higher education in this State.
+45 (11) Chiropractors licensed under Article 8 of this Chapter.
+46 (12) Dentists licensed under Article 2 of this Chapter.
+47 Connection to the HIE Network by any other covered entities that are not required by
+48 subsections (a1) and (b) of this section to connect to the HIE Network or submit data is voluntary.
+49 (e1) Mandatory and Voluntary Connection and Submissions by the Same Covered Entity.
+50 – A covered entity that provides, maintains, controls, directs, or licenses a data transfer system
+51 on behalf of providers and entities that are required to connect to, and submit data through, the
+Page 6 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 HIE Network under this Article, as well as on behalf of providers and entities that voluntarily
+2 connect to, and submit data through, the HIE Network may elect not to submit through the HIE
+3 Network clinical, demographic, or claims data generated by the providers and entities that
+4 voluntarily connect to, and submit data through, the HIE Network. However, the covered entity
+5 is required to submit through the HIE Network clinical, demographic, or claims data generated
+6 by providers and entities that are required to connect to, and submit data through, the HIE
+7 Network.
+8 (f) Confidentiality of Data. – All data submitted to or through the HIE Network
+9 containing protected health information, personally identifying information, or a combination of
+10 these, that are in the possession of the Department of Information Technology or any other
+11 agency of the State are confidential and shall not be defined as public records under G.S. 132-1.
+12 This subsection shall not be construed to prohibit the disclosure of any such data as otherwise
+13 permitted under federal law.
+14 (g) Time-Limited Exceptions for Connecting to, and Submitting Data Through, the HIE
+15 Network. – All of the following apply to any exception granted by the Authority for connecting
+16 to, and submitting data through, the HIE Network:
+17 (1) A covered entity that provides, maintains, controls, directs, or licenses a data
+18 transfer system on behalf of providers or entities identified in subsection (a1)
+19 of this section may seek to obtain from the Authority a time-limited exception
+20 for those providers or entities to connect to, and begin submitting required
+21 data through, the HIE Network.
+22 (2) The Authority shall administer the process by which a covered entity seeks a
+23 time-limited exception for providers or entities to connect to, and begin
+24 submitting required data through, the HIE Network. The Authority shall make
+25 the final determination about whether to grant or deny requests for a
+26 time-limited exception. Any exception authorized by the Authority may not
+27 exceed a one-year period. However, a covered entity may seek to renew an
+28 exception.
+29 (3) In order for a covered entity to obtain a time-limited exception for the
+30 providers and entities on whose behalf it provides, maintains, controls, directs,
+31 or licenses a data transfer system, the covered entity must demonstrate
+32 eligibility for the exception by meeting at least one of the following criteria:
+33 a. During the previous year, the covered entity and the providers and
+34 entities on whose behalf it maintained, controlled, directed, or licensed
+35 a data transfer system received in the aggregate less than one million
+36 dollars ($1,000,000) in State health care funds for providing health
+37 care services to beneficiaries of State-funded health care.
+38 b. The covered entity and the providers and entities on whose behalf it
+39 provides, maintains, controls, directs, or licenses a data transfer system
+40 operated in whole or in part in a geographic area with limited or
+41 emergent broadband availability. The Department of Information
+42 Technology, Division of Broadband, shall identify these geographic
+43 areas and the Authority shall publish a list of the identified geographic
+44 areas to its website. Alternatively, the Authority, after consultation
+45 with the Department of Information Technology, Division of
+46 Broadband, may, in its discretion, grant a time-limited exception after
+47 evaluating materials provided by a covered entity regarding its level
+48 of broadband connectivity.
+49 c. The covered entity will close, dissolve, or be acquired by another
+50 entity within the next 12 months.
+DRS15195-MGfa-82 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 d. The provider or entity has not yet implemented or is in the process of
+2 implementing a data transfer system.
+3 (4) To request a time-limited exception under this subsection, the covered entity
+4 shall submit to the Authority an application and attestation form, which shall
+5 both be created by the Authority and made available on its website, containing
+6 at least all of the following information:
+7 a. Date of request and application period.
+8 b. Name, Organization NPI, and location.
+9 c. Names of providers and entities on whose behalf the covered entity is
+10 applying, as well as their respective Organization NPIs.
+11 d. Technical information regarding its data transfer system and vendor,
+12 if applicable.
+13 e. Provider network information for the State Health Plan for Teachers
+14 and State Employees and the North Carolina Medicaid program, as
+15 applicable.
+16 f. Identification of the bases criterion, or criteria, in subdivision (g)(3) of
+17 this section for which the covered entity seeks a time-limited
+18 exception.
+19 g. Supporting documents and materials determined by the Authority to
+20 be necessary to substantiate the covered entity's eligibility for the
+21 exception.
+22 h. An attestation executed by an authorized representative of the covered
+23 entity regarding the validity, truth, and completeness of the application
+24 and attestation form submitted by the covered entity to the Authority.
+25 "§ 90-414.5. State agency and legislative access to HIE Network data.
+26 (a) The Authority shall provide the Department and the State Health Plan for Teachers
+27 and State Employees secure, real-time access to data and information disclosed through the HIE
+28 Network, solely for the purposes set forth in G.S. 90-414.4(a) and in G.S. 90-414.2. The
+29 Authority shall limit access granted to the State Health Plan for Teachers and State Employees
+30 pursuant to this section to data and information disclosed through the HIE Network that pertains
+31 to services (i) rendered to teachers and State employees and (ii) paid for by the State Health Plan.
+32 (b) At the written request of the Director of the Fiscal Research, Legislative Drafting, or
+33 Legislative Analysis Division of the General Assembly for an aggregate analysis of the data and
+34 information disclosed through the HIE Network, the Authority shall provide the professional
+35 staff of these Divisions with the aggregated analysis responsive to the Director's request. Prior to
+36 providing the Director or General Assembly's staff with any aggregate data or information
+37 submitted through the HIE Network or with any analysis of this aggregate data or information,
+38 the Authority shall redact any personal identifying information in a manner consistent with the
+39 standards specified for de-identification of health information under the HIPAA Privacy Rule,
+40 45 C.F.R. § 164.514, as amended.
+41 "§ 90-414.6. State ownership of HIE Network data.
+42 Any data pertaining to services rendered to Medicaid and other beneficiaries of State-funded
+43 health care program beneficiaries that is submitted through and stored by the HIE Network
+44 pursuant to G.S. 90-414.4 or any other provision of this Article shall be and will remain the sole
+45 property of the State. Any data or product derived from the aggregated, de-identified data
+46 submitted to and stored by the HIE Network pursuant to G.S. 90-414.4 or any other provision of
+47 this Article, shall be and will remain the sole property of the State. The Authority shall not allow
+48 data it receives pursuant to G.S. 90-414.4 or any other provision of this Article to be used or
+49 disclosed by or to any person or entity for commercial purposes or for any other purpose other
+50 than those set forth in G.S. 90-414.4(a) or G.S. 90-414.2. To the extent the Authority receives
+51 requests for electronic health information as the term is defined in 45 C.F.R. § 171.102, or other
+Page 8 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 medical records from an individual, an individual's personal representative, or an individual or
+2 entity purporting to act on an individual's behalf, the Authority (i) shall not fulfill the request and
+3 (ii) shall make available to the requester and the public, via the Authority's website, educational
+4 materials about how to access such information from other sources. If the Authority participates
+5 in the Trusted Exchange Framework and Common Agreement, then it may provide individual
+6 access services through the Trusted Exchange Framework and Common Agreement. Patient
+7 identifiers created and utilized by the Authority to integrate identity data in the HIE Network,
+8 along with the minimum necessary required demographic information related to those patients,
+9 shall be released to the GDAC and the Department by the Authority for purposes of entity
+10 resolution and master data management. These identifiers shall not be considered public records
+11 pursuant to Chapter 132 of the General Statutes.
+12 "§ 90-414.7. North Carolina Health Information Exchange Authority.
+13 (a) Creation. – There is hereby established the North Carolina Health Information
+14 Exchange Authority to oversee and administer the HIE Network in accordance with this Article.
+15 The Authority shall be located within the Department of Information Technology and shall be
+16 under the supervision, direction, and control of the State CIO. The State CIO shall employ an
+17 Authority Director and may delegate to the Authority Director all powers and duties associated
+18 with the daily operation of the Authority, its staff, and the performance of the powers and duties
+19 set forth in subsection (b) of this section. In making this delegation, however, the State CIO
+20 maintains the responsibility for the performance of these powers and duties.
+21 (b) Powers and Duties. – The Authority has the following powers and duties:
+22 (1) Oversee and administer the HIE Network in a manner that ensures all of the
+23 following:
+24 a. Compliance with this Article.
+25 b. Compliance with HIPAA and any rules adopted under HIPAA,
+26 including the Privacy Rule and Security Rule.
+27 c. Compliance with the terms of any participation agreement, business
+28 associate agreement, or other agreement the Authority or qualified
+29 organization or other person or entity enters into with a covered entity
+30 participating in submission of data through or accessing the HIE
+31 Network.
+32 d. Notice to the patient by the healthcare provider or other person or
+33 entity about the HIE Network, including information and education
+34 about the right of individuals on a continuing basis to opt out or rescind
+35 a decision to opt out.
+36 e. Opportunity for all individuals whose data has been submitted to the
+37 HIE Network to exercise on a continuing basis the right to opt out or
+38 rescind a decision to opt out.
+39 f. Nondiscriminatory treatment by covered entities of individuals who
+40 exercise the right to opt out.
+41 g. Facilitation of HIE Network interoperability with electronic health
+42 record systems of all covered entities listed in G.S. 90-414.4(b).
+43 h. Minimization of the amount of data required to be submitted under
+44 G.S. 90-414.4(b) and any use or disclosure of such data to what is
+45 determined by the Authority to be required in order to advance the
+46 purposes set forth in G.S. 90-414.2 and G.S. 90-414.4(a).
+47 (2) In consultation with the Advisory Board, set guiding principles for the
+48 development, implementation, and operation of the HIE Network.
+49 (3) Employ staff necessary to carry out the provisions of this Article and
+50 determine the compensation, duties, and other terms and conditions of
+51 employment of hired staff.
+DRS15195-MGfa-82 Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (4) Enter into contracts pertaining to the oversight and administration of the HIE
+2 Network, including contracts of a consulting or advisory nature.
+3 G.S. 143-64.20 does not apply to this subdivision.
+4 (5) Establish fees for participation in the HIE Network and report the established
+5 fees to the General Assembly, with an explanation of the fee determination
+6 process.
+7 (6) Following consultation with the Advisory Board, develop, approve, and enter
+8 into, directly or through qualified organizations acting under the authority of
+9 the Authority, written participation agreements with persons or entities that
+10 participate in or are granted access or user rights to the HIE Network. The
+11 participation agreements shall set forth terms and conditions governing
+12 participation in, access to, or use of the HIE Network not less than those set
+13 forth in agreements already governing covered entities' participation in the
+14 federal eHealth Exchange. The agreement shall also require compliance with
+15 policies developed by the Authority pursuant to this Article or pursuant to
+16 applicable laws of the state of residence for entities located outside of North
+17 Carolina.
+18 (7) Receive, access, add, and remove data submitted through and stored by the
+19 HIE Network in accordance with this Article.
+20 (8) Following consultation with the Advisory Board, enter into, directly or
+21 through qualified organizations acting under the authority of the Authority, a
+22 HIPAA compliant business associate agreement with each of the persons or
+23 entities participating in or granted access or user rights to the HIE
+24 Network.Network, except for federal agencies that access the HIE Network
+25 solely to review patient data for treatment purposes and exchanges made
+26 through eHealth Exchange or the Trusted Exchange Framework and Common
+27 Agreement so long as the Authority enters into the agreements that are
+28 required to participate in each of these respective national networks.
+29 (9) Following consultation with the Advisory Board, grant user rights to the HIE
+30 Network to business associates of covered entities participating in the HIE
+31 Network (i) at the request of the covered entities and (ii) at the discretion of
+32 and subject to contractual, policy, and other requirements of the Authority
+33 upon consideration of and consistent with the business associates' legitimate
+34 need for utilizing the HIE Network and privacy and security concerns.
+35 (10) Facilitate and promote use of the HIE Network by covered entities.entities and
+36 business associates acting on their behalf.
+37 (11) Actively monitor compliance with this Article by the Department, covered
+38 entities, and any other persons or entities participating in or granted access or
+39 user rights to the HIE Network or any data submitted through or stored by the
+40 HIE Network.
+41 (12) Collaborate with the State CIO to ensure that resources available through the
+42 GDAC are properly leveraged, assigned, or deployed to support the work of
+43 the Authority. The duty to collaborate under this subdivision includes
+44 collaboration on data hosting and development, implementation, operation,
+45 and maintenance of the HIE Network.
+46 (13) Initiate or direct expansion of existing public-private partnerships within the
+47 GDAC as necessary to meet the requirements, duties, and obligations of the
+48 Authority. Notwithstanding any other provision of law and subject to the
+49 availability of funds, the State CIO, at the request of the Authority, shall assist
+50 and facilitate expansion of existing contracts related to the HIE Network,
+Page 10 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 provided that such request is made in writing by the Authority to the State
+2 CIO with reference to specific requirements set forth in this Article.
+3 (14) In consultation with the Advisory Board, develop a strategic plan for
+4 achieving statewide participation in the HIE Network by all hospitals and
+5 health care providers licensed in this State.
+6 (15) In consultation with the Advisory Board, define the following with respect to
+7 operation of the HIE Network:
+8 a. Business policy.
+9 b. Protocols for data integrity, data sharing, data security, HIPAA
+10 compliance, and business intelligence as defined in G.S. 143B-1381.
+11 To the extent permitted by HIPAA, protocols for data sharing shall
+12 allow for the disclosure of data for academic research.
+13 c. Qualitative and quantitative performance measures.
+14 d. An operational budget and assumptions.
+15 (16) Annually report to the Joint Legislative Oversight Committee on Health and
+16 Human Services and the Joint Legislative Oversight Committee on
+17 Information Technology on the following:
+18 a. The operation of the HIE Network.
+19 b. Any efforts or progress in expanding participation in the HIE Network.
+20 c. Health care trends based on information disclosed through the HIE
+21 Network.
+22 (17) Ensure that the HIE Network interfaces with the federal level HIE, the eHealth
+23 Exchange.
+24 (18) Enforce the provisions of this Article.
+25 (19) Provide data related services, as allowed by G.S. 90-414.16.
+26 (20) Adopt rules as needed to implement the appeal process established by
+27 G.S. 90-414.15.
+28 "§ 90-414.8. North Carolina Health Information Exchange Advisory Board.
+29 (a) Creation and Membership. – There is hereby established the North Carolina Health
+30 Information Exchange Advisory Board within the Department of Information Technology. The
+31 Advisory Board shall consist of the following 12 13 members:
+32 (1) The following four members appointed by the President Pro Tempore of the
+33 Senate:
+34 a. A licensed physician in good standing and actively practicing in this
+35 State.
+36 b. A patient representative.
+37 c. An individual with technical expertise in health data analytics.
+38 d. A representative of a behavioral health provider.
+39 (2) The following four members appointed by the Speaker of the House of
+40 Representatives:
+41 a. A representative of a critical access hospital.
+42 b. A representative of a federally qualified health center.
+43 c. An individual with technical expertise in health information
+44 technology.
+45 d. A representative of a health system or integrated delivery network.
+46 (3) The following three ex officio, nonvoting members:
+47 a. The State Chief Information Officer or a designee.
+48 b. The Director of GDAC or a designee.
+49 c. The Secretary of Health and Human Services, or a designee.
+50 (4) The following ex officio, voting member:members:
+DRS15195-MGfa-82 Page 11
+
+General Assembly Of North Carolina Session 2025
+1 a. The Executive Administrator of the State Health Plan for Teachers and
+2 State Employees, or a designee.
+3 b. The Deputy Secretary for the State's Medicaid program, or a designee.
+4 (b) Chairperson. – A chairperson shall be elected from among the members. The
+5 chairperson shall organize and direct the work of the Advisory Board.
+6 (c) Administrative Support. – The Department of Information Technology shall provide
+7 necessary clerical and administrative support to the Advisory Board.
+8 (d) Meetings. – The Advisory Board shall meet at least quarterly and at the call of the
+9 chairperson. A majority of the Advisory Board constitutes a quorum for the transaction of
+10 business.
+11 (e) Terms. – In order to stagger terms, in making initial appointments, the President Pro
+12 Tempore of the Senate shall designate two of the members appointed under subdivision (1) of
+13 subsection (a) of this section to serve for a one-year period from the date of appointment and, the
+14 Speaker of the House of Representatives shall designate two members appointed under
+15 subdivision (2) of subsection (a) of this section to serve for a one-year period from the date of
+16 appointment. The remaining appointed voting members shall serve two-year periods. Future
+17 appointees who are voting members shall serve terms of two years, with staggered terms based
+18 on this subsection. Appointed voting members may serve up to two consecutive terms, not
+19 including the abbreviated two-year terms that establish staggered terms or terms of less than two
+20 years that result from the filling of a vacancy. Ex officio, nonvoting and voting members are not
+21 subject to these term limits. A vacancy other than by expiration of a term shall be filled by the
+22 appointing authority.
+23 (f) Expenses. – Members of the Advisory Board who are State officers or employees
+24 shall receive no compensation for serving on the Advisory Board but may be reimbursed for their
+25 expenses in accordance with G.S. 138-6. Members of the Advisory Board who are full-time
+26 salaried public officers or employees other than State officers or employees shall receive no
+27 compensation for serving on the Advisory Board but may be reimbursed for their expenses in
+28 accordance with G.S. 138-5(b). All other members of the Advisory Board may receive
+29 compensation and reimbursement for expenses in accordance with G.S. 138-5.
+30 (g) Duties. – The Advisory Board shall provide consultation to the Authority with respect
+31 to the advancement, administration, and operation of the HIE Network and on matters pertaining
+32 to health information technology and exchange, generally. In carrying out its responsibilities, the
+33 Advisory Board may form committees of the Advisory Board to examine particular issues related
+34 to the advancement, administration, or operation of the HIE Network.
+35 "§ 90-414.9. Participation by covered entities.
+36 (a) Each Except for federal agencies that access the HIE Network solely to review patient
+37 data for treatment purposes, all covered entity that participates entities that participate in the HIE
+38 Network shall enter into a HIPAA compliant business associate agreement described in
+39 G.S. 90-414.7(b)(8) and a written participation agreement described in G.S. 90-414.7(b)(6) with
+40 the Authority or qualified organization prior to submitting data through or in the HIE Network.
+41 Notwithstanding this subsection, the Authority may exchange data in the HIE Network through
+42 the national eHealth Exchange and the Trusted Exchange Framework and Common Agreement
+43 so long as the Authority enters into the agreements that are necessary to participate in each of
+44 these national networks.
+45 (b) Each covered entity that participates in the HIE Network may authorize its business
+46 associates on behalf of the covered entity to submit data through, or access data stored in, the
+47 HIE Network in accordance with this Article and at the discretion of the Authority, as provided
+48 in G.S. 90-414.7(b)(8).
+49 (c) Notwithstanding any federal or State law or regulation to the contrary, each covered
+50 entity that participates in the HIE Network may disclose an individual's protected health
+Page 12 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 information through the HIE Network to other covered entities for any purpose permitted by
+2 HIPAA.
+3 "§ 90-414.10. Continuing right to opt out; effect of opt out.
+4 (a) Each individual has the right on a continuing basis to opt out or rescind a decision to
+5 opt out.
+6 (b) The Authority or its designee shall enforce an individual's decision to opt out or
+7 rescind an opt out prospectively from the date the Authority or its designee receives written notice
+8 of the individual's decision to opt out or rescind an opt out in the manner prescribed by the
+9 Authority. An individual's decision to opt out or rescind an opt out does not affect any disclosures
+10 made by the Authority or covered entities through the HIE Network prior to receipt by the
+11 Authority or its designee of the individual's written notice to opt out or rescind an opt out.
+12 (c) A covered entity shall not deny treatment, coverage, or benefits to an individual
+13 because of the individual's decision to opt out. However, nothing in this Article is intended to
+14 restrict a health care provider from otherwise appropriately terminating a relationship with an
+15 individual in accordance with applicable law and professional ethical standards.
+16 (d) Except as otherwise permitted in G.S. 90-414.11(a)(3), or as required by law, the
+17 protected health information of an individual who has exercised the right to opt out may not be
+18 made accessible or disclosed to covered entities or any other person or entity through the HIE
+19 Network for any purpose.
+20 (e) Repealed by Session Laws 2017-57, s. 11A.5(e), effective July 1, 2017.
+21 "§ 90-414.11. Construction and applicability.
+22 (a) Nothing in this Article shall be construed to do any of the following:
+23 (1) Impair any rights conferred upon an individual under HIPAA, including all of
+24 the following rights related to an individual's protected health information:
+25 a. The right to receive a notice of privacy practices.
+26 b. The right to request restriction of use and disclosure.
+27 c. The right of access to inspect and obtain copies.
+28 d. The right to request amendment.
+29 e. The right to request confidential forms of communication.
+30 f. The right to receive an accounting of disclosures.
+31 (2) Authorize the disclosure of protected health information through the HIE
+32 Network to the extent that the disclosure is restricted by federal laws or
+33 regulations, including the federal drug and alcohol confidentiality regulations
+34 set forth in 42 C.F.R. Part 2.
+35 (3) Restrict the disclosure of protected health information through the HIE
+36 Network for public health purposes or research purposes, so long as disclosure
+37 is permitted by both HIPAA and State law.
+38 (4) Prohibit the Authority or any covered entity participating in the HIE Network
+39 from maintaining in the Authority's or qualified organization's computer
+40 system a copy of the protected health information of an individual who has
+41 exercised the right to opt out, as long as the Authority or the qualified
+42 organization does not access, use, or disclose the individual's protected health
+43 information for any purpose other than for necessary system maintenance or
+44 as required by federal or State law.
+45 (b) This Article applies only to disclosures of protected health information made through
+46 the HIE Network, including disclosures made within qualified organizations. It does not apply to
+47 the use or disclosure of protected health information in any context outside of the HIE Network,
+48 including the redisclosure of protected health information obtained through the HIE Network.
+49 "§ 90-414.12. Penalties and remedies; immunity for covered entities and business associates
+50 for good faith participation.
+DRS15195-MGfa-82 Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (a) Except as provided in subsection (b) of this section, a covered entity that discloses
+2 protected health information in violation of this Article is subject to the following:
+3 (1) Any civil penalty or criminal penalty, or both, that may be imposed on the
+4 covered entity pursuant to the Health Information Technology for Economic
+5 and Clinical Health (HITECH) Act, P.L. 111-5, Div. A, Title XIII, section
+6 13001, as amended, and any regulations adopted under the HITECH
+7 Act.federal law or regulation.
+8 (2) Any civil remedy available under the HITECH Act or any regulations adopted
+9 under the HITECH Act that is available to the Attorney General or to an
+10 individual who has been harmed by a violation of this Article, including
+11 damages, penalties, attorneys' fees, and costs.federal law or regulation.
+12 (3) Disciplinary action by the respective licensing board or regulatory agency
+13 with jurisdiction over the covered entity.
+14 (4) Any penalty authorized under Article 2A of Chapter 75 of the General Statutes
+15 if the violation of this Article is also a violation of Article 2A of Chapter 75
+16 of the General Statutes.
+17 (5) Any other civil or administrative remedy available to a plaintiff by State or
+18 federal law or equity.
+19 (a1) In connection with the submission of the annual compliance report required by
+20 G.S. 90-414.13, it is unlawful for any person or entity to knowingly present or cause to be
+21 presented to the Authority a false record to avoid full payment of the State health data assessment
+22 under G.S. 90-414.4. The Authority may assess against any person or entity that violates this
+23 subsection a civil penalty of not less than five thousand dollars ($5,000) and not more than ten
+24 thousand dollars ($10,000), plus three times the amount of damages sustained by the Authority
+25 as a result of that person's or entity's actions. The clear proceeds of civil penalties provided for
+26 in this subsection shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+27 G.S. 115C-457.2.
+28 (a2) The Authority may assess a civil penalty not to exceed fifty dollars ($50.00) for each
+29 day after the required reporting period or deadline that the annual compliance report remains out
+30 of compliance with the requirements prescribed by G.S. 90-414.13.
+31 (b) To the extent permitted under or consistent with federal law, a covered entity or its
+32 business associate that in good faith submits data through, accesses, uses, discloses, or relies
+33 upon data submitted through the HIE Network shall not be subject to criminal prosecution or
+34 civil liability for damages caused by such submission, access, use, disclosure, or reliance.
+35 "§ 90-414.13. Annual compliance report.
+36 (a) Reporting Requirement. – Each covered entity that provides, maintains, controls,
+37 directs, or licenses the data transfer system of a provider or entity subject to G.S. 90-414.4(a1)
+38 that provides health care services to beneficiaries of State-funded health care shall submit an
+39 annual compliance report to the Authority on a form created by the Authority that meets the
+40 requirements of this section.
+41 (b) The Authority shall develop and make available to covered entities an annual
+42 compliance report form, which the Authority may update from time to time after consultation
+43 with the Advisory Board. The annual compliance report form shall include fields for at least all
+44 of the following information:
+45 (1) Name of the covered entity, its location, and the Organization NPI.
+46 (2) Names of providers and entities on whose behalf the covered entity is
+47 submitting the annual compliance report, as well as their respective
+48 Organization NPIs.
+49 (3) Acknowledgment of the provision of health care services to beneficiaries of
+50 State-funded health care.
+Page 14 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 (4) Status of technical connection to the HIE Network, as determined under
+2 G.S. 90-414.4(a4).
+3 (5) The status of data submission through the HIE Network that is in compliance
+4 with G.S. 90-414.4.
+5 (6) Representations regarding each of the following, as applicable:
+6 a. For a covered entity that has executed an agreement with the
+7 Authority, a representation regarding that entity's compliance with
+8 such agreement.
+9 b. For a covered entity that has received a time-limited exception from
+10 the Authority, a representation regarding its present intent to connect
+11 to, and begin submitting data through, the HIE Network.
+12 c. For a covered entity that is required to pay the State health data
+13 assessment fee authorized by G.S. 90-414.14, a representation
+14 regarding the amount of the fee owed to the State, an explanation of
+15 how the fee amount was calculated, and whether the fee was submitted
+16 contemporaneously with the annual compliance report as required by
+17 G.S. 90-414.14.
+18 d. For a covered entity that asserts it is exempt from paying the annual
+19 State health data assessment fee, representations regarding why it is
+20 eligible to claim the exemption allowed by G.S. 90-414.14(e).
+21 (7) Attestation to the completeness and validity of the annual compliance report
+22 form and all representations contained on the form.
+23 (c) Covered entities shall submit to the Authority all reports and related statements,
+24 documents, and payments required by this section by the first of May each year. Covered entities
+25 shall be deemed to have submitted timely annual compliance reports if complete reports are
+26 postmarked or digitally time-stamped on or before the day the reports are due to the Authority.
+27 If an annual compliance report or any related statements, documents, or payments are submitted
+28 in a manner that does not comply with this section, the Authority may assess a civil penalty not
+29 to exceed fifty dollars ($50.00) for each day after the first of May that the report remains out of
+30 compliance with the requirements of this section. The clear proceeds of civil penalties provided
+31 for in this subsection shall be remitted to the Civil Penalty and Forfeiture Fund in accordance
+32 with G.S. 115C-457.2.
+33 (d) A covered entity that provides, maintains, controls, directs, or licenses a data transfer
+34 system solely on behalf of a provider or entity that voluntarily connects to the HIE Network
+35 pursuant to G.S. 90-414.4(e) is not required to submit an annual compliance report.
+36 (e) State agencies are required to submit an abbreviated annual compliance report, on a
+37 form provided by the Authority, that shall be made available only to State agencies.
+38 (f) At the request of a covered entity, the Authority may waive any requirement in this
+39 section for good cause if the covered entity demonstrates to the satisfaction of the Authority that
+40 complying with a requirement in this section would cause an undue hardship.
+41 (g) The Department's Division of Health Benefits shall assist in administering the annual
+42 compliance report process as it pertains to the State's Medicaid providers, as determined
+43 necessary by the Authority. At a minimum, the Division of Health Benefits shall annually provide
+44 the Authority with a current list of enrolled Medicaid providers, assist with notifying those
+45 Medicaid providers about the annual compliance report requirement and reporting deadline
+46 established by this section, and provide available information requested by the Authority that is
+47 necessary for the Authority to audit or verify the completeness and accuracy of an enrolled
+48 Medicaid provider's annual compliance report and related materials submitted to the Authority
+49 by or on behalf of that provider.
+50 "§ 90-414.14. Annual State health data assessment fee.
+DRS15195-MGfa-82 Page 15
+
+General Assembly Of North Carolina Session 2025
+1 (a) Annual Fee Requirement. – Each covered entity that provides, maintains, controls,
+2 directs, or licenses a data transfer system on behalf of a provider or entity subject to the
+3 mandatory connection and data submission requirements of G.S. 90-414.4 shall pay an annual
+4 State health data assessment fee each year if the covered entity meets any of the following
+5 criteria:
+6 (1) Is not connected to the HIE Network, as determined pursuant to subsection
+7 (a4) of G.S. 90-414.4.
+8 (2) Is connected to the HIE Network, as determined pursuant to subsection (a4)
+9 of G.S. 90-414.4 but is not submitting required data through the HIE Network.
+10 (b) Amount of Annual Fee. – The General Assembly shall determine the State health data
+11 assessment fee schedules for annual compliance report periods.
+12 (c) Fee Due Date. – A covered entity shall pay any required State health data assessment
+13 fee contemporaneously with the submission of the annual compliance report required by
+14 G.S. 90-414.13.
+15 (d) HIE Network Data and Participation Fund; Use of Proceeds. – The HIE Network Data
+16 and Participation Fund (Fund) is established as a special fund in the Department of Information
+17 Technology under the management and control of the Authority. The Fund shall consist of the
+18 fees collected by the Authority pursuant to this section and all other funds received by the
+19 Authority pursuant to this Article, except for the clear proceeds of civil penalties collected
+20 pursuant to G.S. 90-414.12, 90-414.13, 90-414.16, and subsection (g) of this section. The Fund
+21 shall be placed in an interest-bearing account, and any interest or other income derived from the
+22 Fund shall be credited to the Fund. The Authority shall not use monies in this Fund for any
+23 purpose other than to pay for expenses incurred by the Authority in carrying out its powers and
+24 duties as set forth in this Article. Monies in the Fund shall only be available for expenditure upon
+25 an act of appropriation of the General Assembly. The Fund is subject to the provisions of the
+26 State Budget Act, except that no unexpended surplus of the Fund shall revert to the General Fund.
+27 (e) Fee Exemption. – A covered entity that provides, maintains, controls, directs, or
+28 licenses a data transfer system for providers or entities subject to the HIE Network connection
+29 and data submission requirements of this Article may claim an exemption from the State health
+30 data assessment fee during a reporting period by demonstrating to the satisfaction of the
+31 Authority that one or more of the following is true:
+32 (1) The covered entity has secured a time-limited exception from the Authority
+33 under G.S. 90-414.4(g) for the applicable State health data assessment fee
+34 reporting period.
+35 (2) The covered entity attests, in writing, that it and the providers and entities on
+36 whose behalf it provides, maintains, controls, directs, or licenses a data
+37 transfer system received less than five hundred thousand dollars ($500,000)
+38 in State health care funds for providing health care services to beneficiaries of
+39 State-funded health care.
+40 (3) The covered entity is acting in good faith to comply with the Statewide Health
+41 Information Exchange Act as evidenced by all of the following:
+42 a. Has entered into a participation agreement with the Authority.
+43 b. Maintains contact with the Authority.
+44 c. Timely responds to direct communications from the Authority
+45 regarding matters such as connection status, onboarding, training, and
+46 data submission.
+47 (4) The covered entity is in its first year of existence, as evidenced by filings with
+48 the Office of the Secretary of State.
+49 (5) The covered entity attests, in writing, that it is actively transitioning between
+50 data transfer systems.
+Page 16 DRS15195-MGfa-82
+
+General Assembly Of North Carolina Session 2025
+1 (f) Revocation of Exempt Status. – The Authority may revoke a covered entity's
+2 exemption from payment of the State health data assessment fee if the covered entity is
+3 unresponsive to communications from the Authority or if the covered entity fails to maintain
+4 contact with the Authority. The Authority may revoke an exemption from the payment of the
+5 State health data assessment fee for good cause after giving the covered entity 30 days' written
+6 notice and an opportunity to cure any unresponsiveness to, or failure to maintain contact with,
+7 the Authority.
+8 (g) Civil Penalty for Submitting a False Record to Avoid the Fee. – It is unlawful for any
+9 person or entity to knowingly present or cause to be presented to the Authority a false record to
+10 avoid full payment of the State health data assessment fee due under this section. The Authority
+11 shall assess against any person or entity that violates this section a civil penalty of not less than
+12 five thousand dollars ($5,000) and not more than ten thousand dollars ($10,000), plus three times
+13 the amount of damages sustained by the Authority as a result of that person's or entity's actions.
+14 The clear proceeds of civil penalties provided for in this subsection shall be remitted to the Civil
+15 Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2.
+16 "§ 90-414.15. Appeal of Authority's determinations.
+17 (a) Determinations and Appeals. – The Authority shall make the following
+18 determinations regarding providers' and entities' obligations: (i) grant or deny requests for
+19 time-limited exceptions under G.S. 90-414.4 and (ii) assess penalties under G.S. 90-414.14. The
+20 Authority shall send these determinations, in writing, to providers and entities via certified mail,
+21 return receipt requested, and via email, if known to the Authority. If a provider or entity disagrees
+22 with the Authority's determination, it shall deliver a petition for appeal to the Department of
+23 Information Technology's registered agent via certified mail, return receipt requested, within 30
+24 calendar days after receipt of the Authority's written determination. The petition for appeal shall
+25 include an explanation of the specific reasons the provider or entity disagrees with the Authority's
+26 determination and shall be supported by documentation and affidavits regarding the petitioner's
+27 compliance with this Article along with any other supporting documentation the petitioner deems
+28 relevant to the appeal. The Authority shall develop and make available on its website the form to
+29 be used by any provider or entity seeking to appeal the Authority's determination.
+30 (b) Untimely Appeals. – A petitioner's failure to submit a timely petition for appeal shall
+31 result in the dismissal of the appeal with prejudice. The Department of Information Technology
+32 shall notify the provider or entity of such dismissal in writing.
+33 (c) Review by the State CIO or the State CIO's Designee. – The State CIO or the State
+34 CIO's designee shall review all timely petitions for appeal under this section. The State CIO or
+35 the State CIO's designee may render a decision on the petition without meeting with the
+36 petitioner. If the State CIO or State CIO's designee renders a decision without meeting with the
+37 petitioner, then the State CIO or the State CIO's designee shall notify the petitioner of his or her
+38 decision, in writing, within 30 calendar days after the date the petition was received by the
+39 Department of Information Technology. If the State CIO or the State CIO's designee determines
+40 it is necessary to meet with the petitioner prior to rendering a decision, the State CIO or the State
+41 CIO's designee and petitioner shall schedule a meeting within 30 calendar days after the date the
+42 petition was received by the Department of Information Technology, or as soon as reasonably
+43 practical thereafter, or as agreed upon by the parties. Within 30 calendar days after the date of
+44 the meeting, the State CIO or the State CIO's designee shall submit a decision, in writing, to the
+45 petitioner by certified mail, return receipt requested, and via email, if known.
+46 (d) Administrative Review. – If the petitioner disagrees with the decision of the State
+47 CIO or the State CIO's designee, the petitioner may commence a contested case under Article 3A
+48 of Chapter 150B of the General Statutes. A petition for a contested case shall be filed within 30
+49 calendar days after the earlier of either the date the decision of the State CIO or the State CIO's
+50 designee is mailed to the petitioner or the date the decision of the State CIO or the State CIO's
+51 designee is emailed to the petitioner. Except as otherwise provided by this Article, no other
+DRS15195-MGfa-82 Page 17
+
+General Assembly Of North Carolina Session 2025
+1 disputes between the Authority and providers or entities, including disputes involving the terms
+2 or conditions of any agreement described in G.S. 90-414.7(b), or a party's performance under
+3 any such agreement, are subject to the contested case provisions of Chapter 150B of the General
+4 Statutes.
+5 "§ 90‑414.16. Data related services.
+6 (a) Data Related Services. – The Authority may provide data related services to a covered
+7 entity participating in the HIE Network or to a business associate of the participating covered
+8 entity that is using the service to perform a function for the participating covered entity. Only
+9 covered entities participating in the HIE Network may make a request to the Authority for data
+10 related services. Nothing in this section shall be construed to require the Authority to provide
+11 data related services to covered entities or their business associates. Data disclosed or used in the
+12 Authority's provision of these services to any person or entity shall not be used for commercial
+13 purposes.
+14 (b) Cost Recovery. – If the Authority voluntarily elects to provide a data related service
+15 to a covered entity, then it may charge a reasonable fee that may not exceed the actual cost
+16 incurred for the service. The cost recovery shall be based on generally accepted accounting
+17 principles and may include labor costs of the personnel providing the service, any information
+18 technology expense, and any other administrative expense."
+19 SECTION 2. The deadline for submitting the first report due under G.S. 90-414.13
+20 and the accompanying State health data assessment fee, if applicable, is May 1, 2028.
+21 SECTION 3. Pursuant to G.S. 90-414.14(b), the initial State health data assessment
+22 fee schedules for annual compliance report periods beginning in 2028, 2029, and 2030 are as
+23 follows:
+24 (1) For the annual compliance report period beginning in 2028:
+25 Amount of State Health Care Funds State Health Data Assessment Fee: Amount
+26 received in 2024 Due
+27 $1,000,000 + 1.6% of State health care funds received in 2027
+28 $750,001 – $1,000,000 $9,000
+29 $500,001 – $750,000 $6,000
+30 $250,001 – $500,000 $3,000
+31 Less than $250,000 (No fee)
+32 (2) For the annual compliance report period beginning in 2029:
+33 Amount of State Health Care Funds State Health Data Assessment Fee: Amount
+34 received in 2025 Due
+35 $1,000,000 + 1.6% of State health care funds received in 2028
+36 $750,001 – $1,000,000 $12,000
+37 $500,001 – $750,000 $8,000
+38 $250,001 – $500,000 $4,000
+39 Less than $250,000 (No fee)
+40 (3) For the annual compliance report period beginning in 2030:
+41 Amount of State Health Care Funds State Health Data Assessment Fee: Amount
+42 received in 2026 Due
+43 $1,000,000 + 1.6% of State health care funds received in 2029
+44 $750,001 – $1,000,000 $15,000
+45 $500,001 – $750,000 $9,000
+46 $250,001 – $500,000 $4,500
+47 Less than $250,000 (No fee)
+48 SECTION 4. This act becomes effective December 1, 2025.
+Page 18 DRS15195-MGfa-82
+
+[DELETED:  D H ( S  A R T S H I E A A T I O N C P F " t s e t o i i h i a A B B t m t a r o 4 C § C D t o b i h s i t e h r p b a c c]
+[DELETED:  S  D D D o d – T r t p o a t o R G H N – T v s h i e H – S 2 t 2 o t f H I I N N O w t d h o h p h i f b b t A t c e o p o O i a h c p t i a e o t a P P Q R p – R p r i a s t t S S T T H c f a h c p a o b t D o H a H S t S]
+[DELETED:  S  P F T S h c s i o i t t T M a o b o S h c p f p m e t i b h r a t D o H a H S D o H T h c e m e p h r d o m s a s a m a m o c s a M T h a e h r s s b s a a H P P N E o M a S h c s a t e s b s d a c d b T]
+[DELETED:  S  D P H P a d i G b t d o a c c w t D o L T P D L T T P B S h c f o u t j o t c n t c a r D E o T f E C t t H N – T o I T i c w t D o H a E]
+[DELETED:  S  P s p n t D o I T o c o g h e u t s N t S n t C d c t H w c e t m E t A t s t s o r p d P E C E M s ( a ( o t s a a c o r S f o b o S h c p b a p f w o S h c f s f t p s f i E E E S h c u t p i a a c a d i G h a p w E e c o a d i t i u a c p h p B c s i p d a d m e u a w t S H P f T a S E a w ( i n E 2]
+[DELETED:  S  D E P r w t N C B o P u D 4 C § 2 R – N s ( o t s p o M c u i t i a c w d e a d V C f C P – N t m p o M s o S h c s a n C l s a s p i I a d d s a s p C A P w s ( C E S O D N A L e a a a s h C D t t H N b a o c e t a n r b M]
+[DELETED:  S  P c d o c d g b t p a e t p a e t a r t c t a s d t t H C o D – A d s t o t t H N T A T e f p o e t c t a b f d a w t g o d r f a I o f a c e t o a t e f t l a d t s t c e m d D T i w o i p i a g a w l o b a T D o I t D o I T D o T c e w c d o b a b a]
+[DELETED:  S  D T T D N N Ti P I s f w t c e s a t S n t s t c e e f t A T s f t p s f i G a i G T A t D o G A s w a a d o i o t S A d o p d f t a d d]
+[DELETED:  S  P P C – T i h e t N C H I P O C C w H a a r a u H C a o a t A o i s o d t o a t H N O N F o H N i w e h M I c w t A B s g p f t E s n t c o t p o t A a t c d a o t a c o]
+[DELETED:  S  D E i c o a c o a n E F a s s f t a c g R F c w t A B e i d o p i o g a o u r t t H t r p d f t p a e m s l a t A e i t a t a F F A C A T d t c u t s i I N a o p o l a s t t f e o c r t t H N]
+[DELETED:  S  P I c w t A B d a s p f I B P f d i d s d s H Q A A S a t J L O C o T A H E E P A r a n t i t a p e b C T A A A A T f f m a b t S o t H o A A A i w t e i h i A T T T T T]
+[DELETED:  S  D T T C – A c s b e f a t m T A M A m o t A B c a q f t t o T o t H o R s d t m a u t s A v m m s u t t c t n E w G A o m o t A B m r D E s e i a H c b a a d i E N t p i t H N m d a i p h]
+[DELETED:  S  P E T A e E R N I T T T T T T A t d o p h i t t H t t e t t d i r b f l o R t d o p h i t t H P m i t A o q o c t r t o o a l a t A o t q T]
+[DELETED:  S  D E A a a a a r a u t H A w h b h b a v o t A i D A A I c w t s o t a c r r b a T T R R – E c e t p m c T A s d a m a t c e a a N N o p a e o w b t c e i t a c r a w a t r A]
+[DELETED:  S  P S o t c t t H N a d u T R F a c e t h e a a w t a r r t e c w F F a c e t i r t p t S h d f a b G a r F A C e s s t t A a r a r s A S A T r p a i p t t S M p a d w p a t a c r r a r d]
+[DELETED:  S  D A o l a d t s o b o a p o e s t t e I I A F c w t s o t a c r r b H c b t A p t t s a a o f r b t p t t A e f t c p o c p c F E – A c e t p m c d o a f d a r p b d t t s o t T T b i p m c d o l a d T H M T r t d c f t A T T]
+[DELETED:  S  P R o E S – T A m r a c e f p o t S h d a f i t c e i C D a A – T A s m t f r p a e o ( g o d r f U R S C d m r a d o t p w m w t A]
+[DELETED:  S  D D C F S D 1 $ $ $ ( F S D 1 $ $ $ ( F S D 1 $ $ $ (]

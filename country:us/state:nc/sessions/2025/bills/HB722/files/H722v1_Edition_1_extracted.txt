@@ -1,0 +1,842 @@
+Title: HOUSE BILL 722
+Official Title: HOUSE BILL 722
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Enact Criminal Justice Debt Reform. (Public)
+Sponsors: Representatives Alston, Buansi, Brockman, and Charles Smith (Primary
+Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 3, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROMOTE CRIMINAL JUSTICE DEBT REFORM.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. MODIFY ASSESSMENT REQUIREMENTS AND REPORTING
+6 SURROUNDING COURT COSTS AND FEES
+7 SECTION 1.(a) G.S. 7A-304 reads as rewritten:
+8 "§ 7A-304. Costs in criminal actions.
+9 (a) In every criminal case in the superior or district court, wherein the defendant is
+10 convicted, or enters a plea of guilty or nolo contendere, or when costs are assessed against the
+11 prosecuting witness, the court shall determine the defendant's ability to pay any costs assessed
+12 and shall then, weighing that determination, assess and collect the following costs shall be
+13 assessed and collected. costs. No costs may be assessed when a case is dismissed. Only upon
+14 entry of a written order, supported by findings of fact and conclusions of law, determining that
+15 there is just cause, the court may (i) waive costs assessed under this section or (ii) waive or reduce
+16 costs assessed under subdivision (7), (8), (8a), (11), (12), or (13) of this section. No court may
+17 waive or remit all or part of any court fines or costs without providing notice and opportunity to
+18 be heard by all government entities directly affected. The court shall provide notice to the
+19 government entities directly affected of (i) the date and time of the hearing and (ii) the right to
+20 be heard and make an objection to the remission or waiver of all or part of the order of court costs
+21 at least 15 days prior to hearing. Notice shall be made to the government entities affected by
+22 first-class mail to the address provided for receipt of court costs paid pursuant to the order. The
+23 costs referenced in this subsection are listed below:
+24 …
+25 (6) For support of the General Court of Justice, the sum of two one hundred
+26 dollars ($200.00) ($100.00) is payable by a defendant who fails to appear to
+27 answer the charge as scheduled, unless within 20 days after the scheduled
+28 appearance, the person either appears in court to answer the charge or disposes
+29 of the charge pursuant to G.S. 7A-146, and the sum of fifty dollars ($50.00) is
+30 payable by a defendant who fails to pay a fine, penalty, or costs within 40 days
+31 of the date specified in the court's judgment. The fee for failure to appear shall
+32 only be collected once in a criminal case. Upon a showing to the court that the
+33 defendant failed to appear because of an error or omission of a judicial official,
+*H722-v-1*
+General Assembly Of North Carolina Session 2025
+1 a prosecutor, or a law-enforcement officer, the court shall waive the fee for
+2 failure to appear. These fees shall be remitted to the State Treasurer.
+3 (7) For the services of the North Carolina State Crime Laboratory facilities, the
+4 district or superior court judge shall, upon conviction, order payment of the
+5 costs actually incurred for the services, not to exceed the sum of six hundred
+6 dollars ($600.00) ($600.00), to be remitted to the Department of Justice for
+7 support of the Laboratory. This cost shall be assessed only in cases in which,
+8 as part of the investigation leading to the defendant's conviction, the
+9 laboratories have performed DNA analysis of the crime, tests of bodily fluids
+10 of the defendant for the presence of alcohol or controlled substances, or
+11 analysis of any controlled substance possessed by the defendant or the
+12 defendant's agent.
+13 (8) For the services of any crime laboratory facility, the district or superior court
+14 judge shall, upon conviction, order payment of the costs actually incurred for
+15 the services, not to exceed the sum of six hundred dollars ($600.00) ($600.00),
+16 to be remitted to the general fund of the local governmental unit that operates
+17 the laboratory or paid for the laboratory services. The funds shall be used for
+18 law enforcement purposes. The cost shall be assessed only in cases in which,
+19 as part of the investigation leading to the defendant's conviction, the
+20 laboratory has performed DNA analysis of the crime, test of bodily fluids of
+21 the defendant for the presence of alcohol or controlled substances, or analysis
+22 of any controlled substance possessed by the defendant or the defendant's
+23 agent. The costs shall be assessed only if the court finds that the work
+24 performed at the laboratory is the equivalent of the same kind of work
+25 performed by the North Carolina State Crime Laboratory under subdivision
+26 (7) of this subsection.
+27 (8a) For the services of any private hospital performing toxicological testing under
+28 contract with a prosecutorial district, the district or superior court judge shall,
+29 upon conviction, order payment of the costs actually incurred for the services,
+30 not to exceed the sum of six hundred dollars ($600.00) ($600.00), to be
+31 remitted to the State Treasurer for the support of the General Court of Justice.
+32 The cost shall be assessed only in cases in which, as part of the investigation
+33 leading to the defendant's conviction, the laboratory has performed testing of
+34 bodily fluids of the defendant for the presence of alcohol or controlled
+35 substances. The costs shall be assessed only if the court finds that the work
+36 performed by the local hospital is the equivalent of the same kind of work
+37 performed by the North Carolina State Crime Laboratory under subdivision
+38 (7) of this subsection.
+39 …
+40 (9a) For the services of the North Carolina State Crime Laboratory facilities, the
+41 district or superior court judge shall, upon conviction, order payment of the
+42 costs actually incurred for the services, not to exceed the sum of six hundred
+43 dollars ($600.00) ($600.00), to be remitted to the Department of Justice to be
+44 used for laboratory purposes. This cost shall be assessed only in cases in
+45 which, as part of the investigation leading to the defendant's conviction, the
+46 laboratories have performed digital forensics, including the seizure, forensic
+47 imaging, and acquisition and analysis of digital media.
+48 (9b) For the services of any crime laboratory facility, the district or superior court
+49 judge shall, upon conviction, order payment of the costs actually incurred for
+50 the services, not to exceed the sum of six hundred dollars ($600.00) ($600.00),
+51 to be remitted to the general fund of the local law enforcement unit that
+Page 2 House Bill 722-First Edition
+General Assembly Of North Carolina Session 2025
+1 operates the laboratory or paid for the laboratory services. The funds shall be
+2 used for laboratory services. The cost shall be assessed only in (i) cases in
+3 which, as part of the investigation leading to the defendant's conviction, the
+4 laboratory has performed digital forensics, including the seizure, forensic
+5 imaging, and acquisition and analysis of digital media, and (ii) if the court
+6 finds that the work performed at the laboratory is the equivalent of the same
+7 kind of work performed by the North Carolina State Crime Laboratory under
+8 subdivision (9a) of this subsection.
+9 …
+10 (11) For the services of an expert witness employed by the North Carolina State
+11 Crime Laboratory who completes a chemical analysis pursuant to
+12 G.S. 20-139.1, a forensic analysis pursuant to G.S. 8-58.20, or a digital
+13 forensics analysis and provides testimony about that analysis in a defendant's
+14 trial, the district or superior court judge shall, upon conviction of the
+15 defendant, order payment of the costs actually incurred for the services, not to
+16 exceed the sum of six hundred dollars ($600.00) ($600.00), to be remitted to
+17 the Department of Justice for support of the State Crime Laboratory. This cost
+18 shall be assessed only in cases in which the expert witness provides testimony
+19 about the chemical or forensic analysis in the defendant's trial and shall be in
+20 addition to any cost assessed under subdivision (7) or (9a) of this subsection.
+21 (12) For the services of an expert witness employed by a crime laboratory who
+22 completes a chemical analysis pursuant to G.S. 20-139.1, a forensic analysis
+23 pursuant to G.S. 8-58.20, or a digital forensics analysis and provides
+24 testimony about that analysis in a defendant's trial, the district or superior court
+25 judge shall, upon conviction of the defendant, order payment of the costs
+26 actually incurred for the services, not to exceed the sum of six hundred dollars
+27 ($600.00) ($600.00), to be remitted to the general fund of the local
+28 governmental unit that operates the laboratory or paid for the laboratory
+29 services. The funds shall be used for laboratory services. This cost shall be
+30 assessed only in cases in which the expert witness provides testimony about
+31 the chemical or forensic analysis in the defendant's trial and shall be in
+32 addition to any cost assessed under subdivision (8) or (9b) of this subsection.
+33 (13) For the services of an expert witness employed by a private hospital
+34 performing toxicological testing under contract with a prosecutorial district
+35 who completes a chemical analysis pursuant to G.S. 20-139.1 and provides
+36 testimony about that analysis in a defendant's trial, the district or superior court
+37 judge shall, upon conviction of the defendant, order payment of the costs
+38 actually incurred for the services, not to exceed the sum of six hundred dollars
+39 ($600.00) ($600.00), to be remitted to the State Treasurer for the support of
+40 the General Court of Justice. This cost shall be assessed only in cases in which
+41 the expert witness provides testimony about the chemical analysis in the
+42 defendant's trial and shall be in addition to any cost assessed under subdivision
+43 (8a) of this subsection.
+44 …
+45 (f) The court may allow a defendant owing monetary obligations under this section to
+46 either make payment in full when costs are assessed or make payment on an installment plan
+47 arranged with the court. Defendants making use of an installment plan shall pay a onetime setup
+48 fee of twenty dollars ($20.00) to cover the additional costs to the court of receiving and disbursing
+49 installment payments. Fees collected under this subsection shall be remitted to the State Treasurer
+50 for support of the General Court of Justice.When making that determination, the court shall
+51 consider at a minimum the following factors:
+House Bill 722-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (1) The defendant's monthly income in relation to the relevant federal poverty
+2 guidelines for the defendant's household size.
+3 (2) Whether the defendant receives public assistance, including, but not limited
+4 to, food assistance, Medicaid, Social Security Insurance, and Temporary
+5 Assistance for Needy Families.
+6 (3) The defendant's living arrangements and ability to afford or otherwise procure
+7 housing.
+8 (4) Whether the defendant resides in a mental health or substance abuse treatment
+9 facility.
+10 (5) Any limits on the defendant's ability to secure employment, including, but not
+11 limited to, lack of access to transportation, limitations upon the defendant's
+12 driving privileges, availability of child care for dependents, and any other
+13 relevant factors.
+14 …."
+15 SECTION 1.(b) G.S. 7A-350 is repealed.
+16 SECTION 1.(c) This section is effective when it becomes law and applies to costs
+17 and fees assessed on or after that date.
+18
+19 PART II. CLARIFY LANGUAGE TO PRECLUDE IMPRISONMENT FOR
+20 NONPAYMENT OF FINES AND FEES WHEN ACTIVE SENTENCE IMPOSED
+21 SECTION 2.(a) G.S. 15A-1364(a) reads as rewritten:
+22 "(a) Response to Default. – When a defendant who has been required to pay a fine or costs
+23 or both defaults in payment or in any installment, the court, upon the motion of the prosecutor or
+24 upon its own motion, may require the defendant to appear and show cause why he should not be
+25 imprisoned or may rely upon a conditional show cause order entered under G.S. 15A-1362(c).
+26 When making that determination, the court shall consider at a minimum the following factors:
+27 (1) The defendant's monthly income in relation to the relevant federal poverty
+28 guidelines for the defendant's household size.
+29 (2) Whether the defendant receives public assistance, including, but not limited
+30 to, food assistance, Medicaid, Social Security Insurance, and Temporary
+31 Assistance for Needy Families.
+32 (3) The defendant's living arrangements and ability to afford or otherwise procure
+33 housing.
+34 (4) Whether the defendant resides in a mental health or substance abuse treatment
+35 facility.
+36 (5) Any limits on the defendant's ability to secure employment, including, but not
+37 limited to, lack of access to transportation, limitations upon the defendant's
+38 driving privileges, availability of child care for dependents, and any other
+39 relevant factors.
+40 If the defendant fails to appear, an order for his arrest may be issued. This subsection shall
+41 not apply to a defendant who has received an active sentence in the same case in which the
+42 defendant has defaulted on the payment of a fine or costs."
+43 SECTION 2.(b) G.S. 15A-1365 reads as rewritten:
+44 "§ 15A-1365. Judgment for fines docketed; lien and execution.
+45 When a defendant has defaulted in payment of a fine or costs, the judge may order that the
+46 judgment be docketed. Upon being docketed, the judgment becomes a lien on the real estate of
+47 the defendant in the same manner as do judgments in civil actions. Executions on docketed
+48 judgments may be stayed only when an appeal is taken and security is given as required in civil
+49 cases. If the judgment is affirmed on appeal to the appellate division, the clerk of the superior
+50 court, on receipt of the certificate from the appellate division, must issue execution on the
+51 judgment. The clerk may not issue an execution, however, if the fine or costs were imposed for
+Page 4 House Bill 722-First Edition
+General Assembly Of North Carolina Session 2025
+1 an offense other than trafficking in controlled substances or conspiring to traffic in controlled
+2 substances under G.S. 90-95(h) and (i), respectively, and the defendant elects to serve the
+3 suspended sentence, if any, or serve a term of 30 days, if no suspended sentence was imposed.is
+4 serving an active sentence."
+5
+6 PART III. MODIFY THE LAWS GOVERNING THE REVOCATION OF DRIVERS
+7 LICENSES FOR FAILURE TO PAY FINE, PENALTY, OR COSTS
+8 SECTION 3.(a) G.S. 20-24.1 is repealed.
+9 SECTION 3.(b) G.S. 20-24.2 is repealed.
+10 SECTION 3.(c) Article 2 of Chapter 20 of the General Statutes is amended by adding
+11 a new section to read:
+12 "§ 20-24.3. Prohibition on revocation issued solely for failure to appear or pay fine, penalty,
+13 or costs.
+14 Notwithstanding any other provision of law, the Division shall not revoke the drivers license
+15 of a person charged with an infraction, misdemeanor, or felony if the revocation is solely for one
+16 or both of the following reasons:
+17 (1) The person failed to appear, after being notified to do so, when the case was
+18 called for a trial or hearing.
+19 (2) The person failed to pay a fine, penalty, or court costs ordered by the court."
+20 SECTION 3.(d) G.S. 15A-1116(a) reads as rewritten:
+21 "(a) Use of Contempt or Fine Collection Procedures: Notification of DMV. – If the person
+22 does not comply with a sanction ordered by the court, the court may proceed in accordance with
+23 Chapter 5A of the General Statutes. If the person fails to pay a penalty or costs, the court may
+24 proceed in accordance with Article 84 of this Chapter. If the infraction is a motor vehicle
+25 infraction, the court must report a failure to pay the applicable penalty and costs to the Division
+26 of Motor Vehicles as specified in G.S. 20-24.2."
+27 SECTION 3.(e) G.S. 20-13.2(e) reads as rewritten:
+28 "(e) Before the Division restores a driver's license that has been suspended or revoked
+29 under any provision of this Article, other than G.S. 20-24.1, the person seeking to have his
+30 driver's license restored shall submit to the Division proof that he has notified his insurance agent
+31 or company of his seeking the restoration and that he is financially responsible. Proof of financial
+32 responsibility shall be in one of the following forms:
+33 …
+34 The preceding provisions of this subsection do not apply to applicants who do not own
+35 currently registered motor vehicles and who do not operate nonfleet private passenger motor
+36 vehicles that are owned by other persons and that are not insured under commercial motor vehicle
+37 liability insurance policies. In such cases, the applicant shall sign a written certificate to that
+38 effect. Such certificate shall be furnished by the Division and may be incorporated into the
+39 restoration application form. Any material misrepresentation made by such person on such
+40 certificate shall be grounds for suspension of that person's license for a period of 90 days.
+41 For the purposes of this subsection, the term "nonfleet private passenger motor vehicle" has
+42 the definition ascribed to it in Article 40 of General Statute Chapter 58.
+43 The Commissioner may require that certificates required by this subsection be on a form
+44 approved by the Commissioner. The financial responsibility required by this subsection shall be
+45 kept in effect for not less than three years after the date that the license is restored. Failure to
+46 maintain financial responsibility as required by this subsection shall be grounds for suspending
+47 the restored driver's license for a period of thirty (30) days. Nothing in this subsection precludes
+48 any person from showing proof of financial responsibility in any other manner authorized by
+49 Articles 9A and 13 of this Chapter."
+50 SECTION 3.(f) G.S. 20-19(k) reads as rewritten:
+House Bill 722-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 "(k) Before the Division restores a driver's license that has been suspended or revoked
+2 under G.S. 20-138.5(d), or under any provision of this Article, other than G.S. 20-24.1, the
+3 person seeking to have the person's driver's license restored shall submit to the Division proof
+4 that the person has notified the person's insurance agent or company that the person is seeking
+5 the restoration and that the person is financially responsible. Proof of financial responsibility
+6 shall be in one of the following forms:
+7 …
+8 Subdivisions (1) and (2) of this subsection do not apply to applicants who do not own
+9 currently registered motor vehicles and who do not operate nonfleet private passenger motor
+10 vehicles that are owned by other persons and that are not insured under commercial motor vehicle
+11 liability insurance policies. In such cases, the applicant shall sign a written certificate to that
+12 effect. Such certificate shall be furnished by the Division and may be incorporated into the
+13 restoration application form. Any material misrepresentation made by such person on such
+14 certificate shall be grounds for suspension of that person's license for a period of 90 days.
+15 For the purposes of this subsection, the term "nonfleet private passenger motor vehicle" has
+16 the definition ascribed to it in Article 40 of General Statute Chapter 58.
+17 The Commissioner may require that certificates required by this subsection be on a form
+18 approved by the Commissioner. The financial responsibility required by this subsection shall be
+19 kept in effect for not less than three years after the date that the license is restored. Failure to
+20 maintain financial responsibility as required by this subsection shall be grounds for suspending
+21 the restored driver's license for a period of 30 days. Nothing in this subsection precludes any
+22 person from showing proof of financial responsibility in any other manner authorized by Articles
+23 9A and 13 of this Chapter."
+24 SECTION 3.(g) G.S. 20-28.1(a) reads as rewritten:
+25 "(a) Upon receipt of notice of conviction of any person of a motor vehicle moving offense,
+26 such offense having been committed while such person's driving privilege was in a state of
+27 suspension or revocation, the Division shall revoke such person's driving privilege for an
+28 additional period of time as set forth in subsection (b) hereof. For purposes of this section a
+29 violation of G.S. 20-7(a), 20-24.1, or 20-28(a) G.S. 20-7(a) or G.S. 20-28(a) or (a2) shall not be
+30 considered a "motor vehicle moving offense" unless the offense occurred in a commercial motor
+31 vehicle or the person held a commercial drivers license at the time of the offense."
+32 SECTION 3.(h) G.S. 20-217(g2) reads as rewritten:
+33 "(g2) Pursuant to G.S. 20-54, failure of a person to pay any fine or costs imposed pursuant
+34 to this section shall result in the Division withholding the registration renewal of a motor vehicle
+35 registered in that person's name. The clerk of superior court in the county in which the case was
+36 disposed shall notify the Division of any person who fails to pay a fine or costs imposed pursuant
+37 to this section within 40 days of the date specified in the court's judgment, as required by
+38 G.S. 20-24.2(a)(2). judgment. The Division shall continue to withhold the registration renewal
+39 of a motor vehicle until the clerk of superior court notifies the Division that the person has
+40 satisfied whichever of the following conditions of G.S. 20-24.1(b) are applicable to the person's
+41 case.case:
+42 (1) Disposes of the charge in the trial division in which the person failed to appear
+43 when the case was last called for trial or hearing.
+44 (2) Demonstrates to the court that the person is not the person charged with the
+45 offense.
+46 (3) Pays the penalty, fine, or costs ordered by the court.
+47 (4) Demonstrates to the court that the person's failure to pay the penalty, fine, or
+48 costs was not willful and that the person is making a good-faith effort to pay
+49 or that the penalty, fine, or costs should be remitted.
+50 The provisions of this subsection shall be in addition to any other actions the Division may
+51 take to enforce the payment of any fine imposed pursuant to this section."
+Page 6 House Bill 722-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.(i) G.S. 50-13.12(e) reads as rewritten:
+2 "(e) An obligor or other person whose licensing privileges are reinstated under this section
+3 may provide a copy of the certification set forth in either subsection (c) or (d) to each licensing
+4 agency to which the obligor or other person applies for reinstatement of licensing privileges.
+5 Upon request of the obligor or other person, the clerk shall mail a copy of the certification to the
+6 appropriate licensing board. Upon receipt of a copy of the certification, and the payment of
+7 applicable restoration fees, the licensing board shall reinstate the license."
+8 SECTION 3.(j) G.S. 110-142.2(f) reads as rewritten:
+9 "(f) Upon receipt of certification under subsection (d) or (e) of this section, the Division
+10 of Motor Vehicles shall reinstate the license to operate a motor vehicle in accordance with G.S.
+11 20-24.1, upon payment of the restoration fee and shall remove any restriction of the individual's
+12 motor vehicle registration."
+13 SECTION 3.(k) Subsection (a) of this section becomes effective October 1, 2025,
+14 and shall not affect license revocations issued prior to that date. Subsection (b) of this section
+15 becomes effective October 1, 2025, and shall not affect reports sent prior to that date. Subsection
+16 (c) of this section becomes effective October 1, 2025, and applies to license revocations on or
+17 after that date. Subsection (d) of this section becomes effective October 1, 2025, and shall not
+18 apply to reporting prior to that date. Subsections (e) and (f) of this section become effective
+19 October 1, 2025, and shall not affect the restoration of drivers licenses suspended or revoked
+20 prior to that date. Subsection (g) of this section becomes effective October 1, 2025, and shall not
+21 affect the determination of whether a violation of G.S. 20-24.1 prior to that date constituted a
+22 motor vehicle moving offense. Subsection (h) of this section becomes effective October 1, 2025,
+23 and does not apply to registration renewals withheld for a failure to appear in court or a failure
+24 to pay fines or costs that occurred prior to that date. Subsections (i) and (j) of this section become
+25 effective October 1, 2025, and apply to license reinstatements on or after that date. The remainder
+26 of this section is effective when it becomes law.
+27
+28 PART IV. CLARIFY THAT A COMMUNITY SERVICE FEE MAY BE WAIVED
+29 SECTION 4. G.S. 143B-1483(c) reads as rewritten:
+30 "(c) A Except upon judicial waiver for good cause, a fee of two hundred fifty dollars
+31 ($250.00) shall be paid by all persons who participate in the program or receive services from
+32 the program staff. Only one fee may be assessed for each sentencing transaction, even if the
+33 person is assigned to the program on more than one occasion, or while on deferred prosecution,
+34 under a conditional discharge, or serving a sentence for the offense. A sentencing transaction
+35 shall include all offenses considered and adjudicated during the same term of court. Fees
+36 collected pursuant to this subsection shall be deposited in the General Fund. If the person is
+37 convicted in a court in this State, the fee shall be paid to the clerk of court in the county in which
+38 the person is convicted, regardless of whether the person is participating in the program as a
+39 condition of parole, of probation imposed by the court, or pursuant to the exercise of authority
+40 delegated to the probation officer pursuant to G.S. 15A-1343.2(e) or (f). If the person is
+41 participating in the program as a result of a conditional discharge or a deferred prosecution or
+42 similar program, the fee shall be paid to the clerk of court in the county in which the agreement
+43 is filed. Persons participating in the program for any other reason shall pay the fee to the clerk of
+44 court in the county in which the services are provided by the program staff. The fee shall be paid
+45 in full before the person may participate in the community service program, except that:
+46 …."
+47
+48 PART V. REPEAL COURT COSTS FOR SEAT BELT INFRACTIONS
+49 SECTION 5.(a) G.S. 20-135.2A(e) reads as rewritten:
+House Bill 722-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 "(e) Any driver or front seat passenger who fails to wear a seat belt as required by this
+2 section shall have committed an infraction and shall pay a penalty of twenty-five dollars and fifty
+3 cents ($25.50) plus the following court costs:($25.50).
+4 (1) The General Court of Justice fee provided for in G.S. 7A-304(a)(4).
+5 (2) The fee provided for in G.S. 7A-304(a)(2a).
+6 (3) One dollar and fifty cents ($1.50) to be remitted to the county wherein the
+7 infraction was issued, except in those cases in which the infraction was issued
+8 by a law enforcement officer employed by a municipality, the fee shall be paid
+9 to the municipality employing the officer.
+10 (4) One dollar and fifty cents ($1.50) for the supplemental pension benefits of
+11 sheriffs to be remitted to the Department of Justice and administered under
+12 the provisions of Article 12H of Chapter 143 of the General Statutes.
+13 Any rear seat occupant of a vehicle who fails to wear a seat belt as required by this section
+14 shall have committed an infraction and shall pay a penalty of ten dollars ($10.00) and no court
+15 costs. Conviction of an infraction under this section has no other consequence."
+16 SECTION 5.(b) This section becomes effective October 1, 2025, and applies to costs
+17 and fees assessed on or after that date.
+18
+19 PART VI. MANDATORY EXEMPTION FROM PROBATION SUPERVISION FEE
+20 WHEN PROBATION IS EXTENDED FOR THE SOLE PURPOSE OF COMPLYING
+21 WITH MONETARY OBLIGATIONS
+22 SECTION 6.(a) G.S. 15A-1343(c1) reads as rewritten:
+23 "(c1) Supervision Fee. – Any person placed on supervised probation pursuant to subsection
+24 (a) of this section shall pay a supervision fee of forty dollars ($40.00) per month, unless exempted
+25 by the court. The court may exempt a person from paying the fee only for good cause and upon
+26 motion of the person placed on supervised probation. The court shall exempt a person from
+27 paying the fee when probation is extended for the sole purpose of complying with monetary
+28 obligations. No person shall be required to pay more than one supervision fee per month. The
+29 court may require that the fee be paid in advance or in a lump sum or sums, and a probation
+30 officer may require payment by such methods if he is authorized by subsection (g) to determine
+31 the payment schedule. Supervision fees must be paid to the clerk of court for the county in which
+32 the judgment was entered, the deferred prosecution agreement was filed, or the conditional
+33 discharge was ordered. Fees collected under this subsection shall be transmitted to the State for
+34 deposit into the State's General Fund."
+35 SECTION 6.(b) This section is effective when it becomes law and applies to
+36 supervision fees incurred in the calendar month after that date and all subsequent supervision
+37 fees incurred in the same term of supervised probation.
+38
+39 PART VII. EFFECTIVE DATE
+40 SECTION 7. Except as otherwise provided, this act is effective when it becomes
+41 law.
+Page 8 House Bill 722-First Edition
+[DELETED:  1 E ( R R A A T  P I M A R A R S S " ( I e c c i t s o d c w t d i c p a s t w t d a a c t f c s b a e t c w b h b a g e d a T c s p n t t g b a f c … ( F d a a o p o o d]
+[DELETED:  S  H a f ( F d c d s a p o t i l t t d c t l o t d f t p o a o c s o a o a c s p b t d o t d ( F j t t t l a p o t i l t t d c t l t o a T c s b a o i t c f t t w p a t l i t e o t s k o w p ( ( F c u n t e t s o s h d ( ( t b r T l b f o t d f t p o a o c s p p ( … ( F d c d u i w l i ( F j t t b r t t g f o t l l e u t]
+[DELETED:  S  P o u w l h p d f i t s f i f k s … ( F C L w c a c a p t G a f a p t G o a d f t t d o s c j s u c o t d e t s a a ( F c p t G o a d f a a p t j c a ( ( t b r t t g f o t l g u t o t l o p f t l s a t c o f a i t d t a s b i a ( F t s o a e w e b a p h p w t j c a ( t t e w p t a t c a i t d ( … ( T e a f i f c]
+[DELETED:  S  H ( T g ( W t f a M S S I a T A ( T h ( W f ( A l d r … S S a  P I C L T P I F N S " R o u i W ( T g ( W t f a M S S I a T A ( T h ( W f ( A l d r I n d S " W j t j c c o r o t c f t a d m i e o t j]
+[DELETED:  S  P a s u G a ( r a t d e t s t s s  P I M T L G T R O D L S S S a " o N o o ( T c ( T S " U d C p i a w A 8 o t C I t i i a m v i o S " B u d o r … T w c v l e r a f A m m m b s p o s c F t T a k m t a A S]
+[DELETED:  S  H " B u G o u a p o t A o t G t p t t s … S ( a ( o t s d n a t a w d n o c v l e r a f A m m m b s p o s c F t T a k m t p 9 S " U s s o r t D s r s p d p f a a v c v S " P t r d t t s w 4 d o t d s i t c j a r b G o s c ( D w ( D o ( P ( D c o T t]
+[DELETED:  S  P S " A m a U a a a S " U o 2 m S a b ( a a O p a m a t e o  P S " A ( t p u s i a o c a a d t s t o c F c c t c d t t p o p t G o ( I t p i p s i c i …  P S]
+[DELETED:  S  H " A s c ( T ( T ( O i b t ( O s t A s c S a  P V M E F P S F W W S " S ( b m p o c o t t j w e t d p a w f o c d d S 6  T s i e w i b l a a t s f  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 722
+Short Title: Enact Criminal Justice Debt Reform. (Public)
+Sponsors: Representatives Alston, Buansi, Brockman, and Charles Smith (Primary
+Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 3, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROMOTE CRIMINAL JUSTICE DEBT REFORM.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. MODIFY ASSESSMENT REQUIREMENTS AND REPORTING
+6 SURROUNDING COURT COSTS AND FEES
+7 SECTION 1.(a) G.S. 7A-304 reads as rewritten:
+8 "§ 7A-304. Costs in criminal actions.
+9 (a) In every criminal case in the superior or district court, wherein the defendant is
+10 convicted, or enters a plea of guilty or nolo contendere, or when costs are assessed against the
+11 prosecuting witness, the court shall determine the defendant's ability to pay any costs assessed
+12 and shall then, weighing that determination, assess and collect the following costs shall be
+13 assessed and collected. costs. No costs may be assessed when a case is dismissed. Only upon
+14 entry of a written order, supported by findings of fact and conclusions of law, determining that
+15 there is just cause, the court may (i) waive costs assessed under this section or (ii) waive or reduce
+16 costs assessed under subdivision (7), (8), (8a), (11), (12), or (13) of this section. No court may
+17 waive or remit all or part of any court fines or costs without providing notice and opportunity to
+18 be heard by all government entities directly affected. The court shall provide notice to the
+19 government entities directly affected of (i) the date and time of the hearing and (ii) the right to
+20 be heard and make an objection to the remission or waiver of all or part of the order of court costs
+21 at least 15 days prior to hearing. Notice shall be made to the government entities affected by
+22 first-class mail to the address provided for receipt of court costs paid pursuant to the order. The
+23 costs referenced in this subsection are listed below:
+24 …
+25 (6) For support of the General Court of Justice, the sum of two one hundred
+26 dollars ($200.00) ($100.00) is payable by a defendant who fails to appear to
+27 answer the charge as scheduled, unless within 20 days after the scheduled
+28 appearance, the person either appears in court to answer the charge or disposes
+29 of the charge pursuant to G.S. 7A-146, and the sum of fifty dollars ($50.00) is
+30 payable by a defendant who fails to pay a fine, penalty, or costs within 40 days
+31 of the date specified in the court's judgment. The fee for failure to appear shall
+32 only be collected once in a criminal case. Upon a showing to the court that the
+33 defendant failed to appear because of an error or omission of a judicial official,
+*H722-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 a prosecutor, or a law-enforcement officer, the court shall waive the fee for
+2 failure to appear. These fees shall be remitted to the State Treasurer.
+3 (7) For the services of the North Carolina State Crime Laboratory facilities, the
+4 district or superior court judge shall, upon conviction, order payment of the
+5 costs actually incurred for the services, not to exceed the sum of six hundred
+6 dollars ($600.00) ($600.00), to be remitted to the Department of Justice for
+7 support of the Laboratory. This cost shall be assessed only in cases in which,
+8 as part of the investigation leading to the defendant's conviction, the
+9 laboratories have performed DNA analysis of the crime, tests of bodily fluids
+10 of the defendant for the presence of alcohol or controlled substances, or
+11 analysis of any controlled substance possessed by the defendant or the
+12 defendant's agent.
+13 (8) For the services of any crime laboratory facility, the district or superior court
+14 judge shall, upon conviction, order payment of the costs actually incurred for
+15 the services, not to exceed the sum of six hundred dollars ($600.00) ($600.00),
+16 to be remitted to the general fund of the local governmental unit that operates
+17 the laboratory or paid for the laboratory services. The funds shall be used for
+18 law enforcement purposes. The cost shall be assessed only in cases in which,
+19 as part of the investigation leading to the defendant's conviction, the
+20 laboratory has performed DNA analysis of the crime, test of bodily fluids of
+21 the defendant for the presence of alcohol or controlled substances, or analysis
+22 of any controlled substance possessed by the defendant or the defendant's
+23 agent. The costs shall be assessed only if the court finds that the work
+24 performed at the laboratory is the equivalent of the same kind of work
+25 performed by the North Carolina State Crime Laboratory under subdivision
+26 (7) of this subsection.
+27 (8a) For the services of any private hospital performing toxicological testing under
+28 contract with a prosecutorial district, the district or superior court judge shall,
+29 upon conviction, order payment of the costs actually incurred for the services,
+30 not to exceed the sum of six hundred dollars ($600.00) ($600.00), to be
+31 remitted to the State Treasurer for the support of the General Court of Justice.
+32 The cost shall be assessed only in cases in which, as part of the investigation
+33 leading to the defendant's conviction, the laboratory has performed testing of
+34 bodily fluids of the defendant for the presence of alcohol or controlled
+35 substances. The costs shall be assessed only if the court finds that the work
+36 performed by the local hospital is the equivalent of the same kind of work
+37 performed by the North Carolina State Crime Laboratory under subdivision
+38 (7) of this subsection.
+39 …
+40 (9a) For the services of the North Carolina State Crime Laboratory facilities, the
+41 district or superior court judge shall, upon conviction, order payment of the
+42 costs actually incurred for the services, not to exceed the sum of six hundred
+43 dollars ($600.00) ($600.00), to be remitted to the Department of Justice to be
+44 used for laboratory purposes. This cost shall be assessed only in cases in
+45 which, as part of the investigation leading to the defendant's conviction, the
+46 laboratories have performed digital forensics, including the seizure, forensic
+47 imaging, and acquisition and analysis of digital media.
+48 (9b) For the services of any crime laboratory facility, the district or superior court
+49 judge shall, upon conviction, order payment of the costs actually incurred for
+50 the services, not to exceed the sum of six hundred dollars ($600.00) ($600.00),
+51 to be remitted to the general fund of the local law enforcement unit that
+Page 2 House Bill 722-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 operates the laboratory or paid for the laboratory services. The funds shall be
+2 used for laboratory services. The cost shall be assessed only in (i) cases in
+3 which, as part of the investigation leading to the defendant's conviction, the
+4 laboratory has performed digital forensics, including the seizure, forensic
+5 imaging, and acquisition and analysis of digital media, and (ii) if the court
+6 finds that the work performed at the laboratory is the equivalent of the same
+7 kind of work performed by the North Carolina State Crime Laboratory under
+8 subdivision (9a) of this subsection.
+9 …
+10 (11) For the services of an expert witness employed by the North Carolina State
+11 Crime Laboratory who completes a chemical analysis pursuant to
+12 G.S. 20-139.1, a forensic analysis pursuant to G.S. 8-58.20, or a digital
+13 forensics analysis and provides testimony about that analysis in a defendant's
+14 trial, the district or superior court judge shall, upon conviction of the
+15 defendant, order payment of the costs actually incurred for the services, not to
+16 exceed the sum of six hundred dollars ($600.00) ($600.00), to be remitted to
+17 the Department of Justice for support of the State Crime Laboratory. This cost
+18 shall be assessed only in cases in which the expert witness provides testimony
+19 about the chemical or forensic analysis in the defendant's trial and shall be in
+20 addition to any cost assessed under subdivision (7) or (9a) of this subsection.
+21 (12) For the services of an expert witness employed by a crime laboratory who
+22 completes a chemical analysis pursuant to G.S. 20-139.1, a forensic analysis
+23 pursuant to G.S. 8-58.20, or a digital forensics analysis and provides
+24 testimony about that analysis in a defendant's trial, the district or superior court
+25 judge shall, upon conviction of the defendant, order payment of the costs
+26 actually incurred for the services, not to exceed the sum of six hundred dollars
+27 ($600.00) ($600.00), to be remitted to the general fund of the local
+28 governmental unit that operates the laboratory or paid for the laboratory
+29 services. The funds shall be used for laboratory services. This cost shall be
+30 assessed only in cases in which the expert witness provides testimony about
+31 the chemical or forensic analysis in the defendant's trial and shall be in
+32 addition to any cost assessed under subdivision (8) or (9b) of this subsection.
+33 (13) For the services of an expert witness employed by a private hospital
+34 performing toxicological testing under contract with a prosecutorial district
+35 who completes a chemical analysis pursuant to G.S. 20-139.1 and provides
+36 testimony about that analysis in a defendant's trial, the district or superior court
+37 judge shall, upon conviction of the defendant, order payment of the costs
+38 actually incurred for the services, not to exceed the sum of six hundred dollars
+39 ($600.00) ($600.00), to be remitted to the State Treasurer for the support of
+40 the General Court of Justice. This cost shall be assessed only in cases in which
+41 the expert witness provides testimony about the chemical analysis in the
+42 defendant's trial and shall be in addition to any cost assessed under subdivision
+43 (8a) of this subsection.
+44 …
+45 (f) The court may allow a defendant owing monetary obligations under this section to
+46 either make payment in full when costs are assessed or make payment on an installment plan
+47 arranged with the court. Defendants making use of an installment plan shall pay a onetime setup
+48 fee of twenty dollars ($20.00) to cover the additional costs to the court of receiving and disbursing
+49 installment payments. Fees collected under this subsection shall be remitted to the State Treasurer
+50 for support of the General Court of Justice.When making that determination, the court shall
+51 consider at a minimum the following factors:
+House Bill 722-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (1) The defendant's monthly income in relation to the relevant federal poverty
+2 guidelines for the defendant's household size.
+3 (2) Whether the defendant receives public assistance, including, but not limited
+4 to, food assistance, Medicaid, Social Security Insurance, and Temporary
+5 Assistance for Needy Families.
+6 (3) The defendant's living arrangements and ability to afford or otherwise procure
+7 housing.
+8 (4) Whether the defendant resides in a mental health or substance abuse treatment
+9 facility.
+10 (5) Any limits on the defendant's ability to secure employment, including, but not
+11 limited to, lack of access to transportation, limitations upon the defendant's
+12 driving privileges, availability of child care for dependents, and any other
+13 relevant factors.
+14 …."
+15 SECTION 1.(b) G.S. 7A-350 is repealed.
+16 SECTION 1.(c) This section is effective when it becomes law and applies to costs
+17 and fees assessed on or after that date.
+18
+19 PART II. CLARIFY LANGUAGE TO PRECLUDE IMPRISONMENT FOR
+20 NONPAYMENT OF FINES AND FEES WHEN ACTIVE SENTENCE IMPOSED
+21 SECTION 2.(a) G.S. 15A-1364(a) reads as rewritten:
+22 "(a) Response to Default. – When a defendant who has been required to pay a fine or costs
+23 or both defaults in payment or in any installment, the court, upon the motion of the prosecutor or
+24 upon its own motion, may require the defendant to appear and show cause why he should not be
+25 imprisoned or may rely upon a conditional show cause order entered under G.S. 15A-1362(c).
+26 When making that determination, the court shall consider at a minimum the following factors:
+27 (1) The defendant's monthly income in relation to the relevant federal poverty
+28 guidelines for the defendant's household size.
+29 (2) Whether the defendant receives public assistance, including, but not limited
+30 to, food assistance, Medicaid, Social Security Insurance, and Temporary
+31 Assistance for Needy Families.
+32 (3) The defendant's living arrangements and ability to afford or otherwise procure
+33 housing.
+34 (4) Whether the defendant resides in a mental health or substance abuse treatment
+35 facility.
+36 (5) Any limits on the defendant's ability to secure employment, including, but not
+37 limited to, lack of access to transportation, limitations upon the defendant's
+38 driving privileges, availability of child care for dependents, and any other
+39 relevant factors.
+40 If the defendant fails to appear, an order for his arrest may be issued. This subsection shall
+41 not apply to a defendant who has received an active sentence in the same case in which the
+42 defendant has defaulted on the payment of a fine or costs."
+43 SECTION 2.(b) G.S. 15A-1365 reads as rewritten:
+44 "§ 15A-1365. Judgment for fines docketed; lien and execution.
+45 When a defendant has defaulted in payment of a fine or costs, the judge may order that the
+46 judgment be docketed. Upon being docketed, the judgment becomes a lien on the real estate of
+47 the defendant in the same manner as do judgments in civil actions. Executions on docketed
+48 judgments may be stayed only when an appeal is taken and security is given as required in civil
+49 cases. If the judgment is affirmed on appeal to the appellate division, the clerk of the superior
+50 court, on receipt of the certificate from the appellate division, must issue execution on the
+51 judgment. The clerk may not issue an execution, however, if the fine or costs were imposed for
+Page 4 House Bill 722-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 an offense other than trafficking in controlled substances or conspiring to traffic in controlled
+2 substances under G.S. 90-95(h) and (i), respectively, and the defendant elects to serve the
+3 suspended sentence, if any, or serve a term of 30 days, if no suspended sentence was imposed.is
+4 serving an active sentence."
+5
+6 PART III. MODIFY THE LAWS GOVERNING THE REVOCATION OF DRIVERS
+7 LICENSES FOR FAILURE TO PAY FINE, PENALTY, OR COSTS
+8 SECTION 3.(a) G.S. 20-24.1 is repealed.
+9 SECTION 3.(b) G.S. 20-24.2 is repealed.
+10 SECTION 3.(c) Article 2 of Chapter 20 of the General Statutes is amended by adding
+11 a new section to read:
+12 "§ 20-24.3. Prohibition on revocation issued solely for failure to appear or pay fine, penalty,
+13 or costs.
+14 Notwithstanding any other provision of law, the Division shall not revoke the drivers license
+15 of a person charged with an infraction, misdemeanor, or felony if the revocation is solely for one
+16 or both of the following reasons:
+17 (1) The person failed to appear, after being notified to do so, when the case was
+18 called for a trial or hearing.
+19 (2) The person failed to pay a fine, penalty, or court costs ordered by the court."
+20 SECTION 3.(d) G.S. 15A-1116(a) reads as rewritten:
+21 "(a) Use of Contempt or Fine Collection Procedures: Notification of DMV. – If the person
+22 does not comply with a sanction ordered by the court, the court may proceed in accordance with
+23 Chapter 5A of the General Statutes. If the person fails to pay a penalty or costs, the court may
+24 proceed in accordance with Article 84 of this Chapter. If the infraction is a motor vehicle
+25 infraction, the court must report a failure to pay the applicable penalty and costs to the Division
+26 of Motor Vehicles as specified in G.S. 20-24.2."
+27 SECTION 3.(e) G.S. 20-13.2(e) reads as rewritten:
+28 "(e) Before the Division restores a driver's license that has been suspended or revoked
+29 under any provision of this Article, other than G.S. 20-24.1, the person seeking to have his
+30 driver's license restored shall submit to the Division proof that he has notified his insurance agent
+31 or company of his seeking the restoration and that he is financially responsible. Proof of financial
+32 responsibility shall be in one of the following forms:
+33 …
+34 The preceding provisions of this subsection do not apply to applicants who do not own
+35 currently registered motor vehicles and who do not operate nonfleet private passenger motor
+36 vehicles that are owned by other persons and that are not insured under commercial motor vehicle
+37 liability insurance policies. In such cases, the applicant shall sign a written certificate to that
+38 effect. Such certificate shall be furnished by the Division and may be incorporated into the
+39 restoration application form. Any material misrepresentation made by such person on such
+40 certificate shall be grounds for suspension of that person's license for a period of 90 days.
+41 For the purposes of this subsection, the term "nonfleet private passenger motor vehicle" has
+42 the definition ascribed to it in Article 40 of General Statute Chapter 58.
+43 The Commissioner may require that certificates required by this subsection be on a form
+44 approved by the Commissioner. The financial responsibility required by this subsection shall be
+45 kept in effect for not less than three years after the date that the license is restored. Failure to
+46 maintain financial responsibility as required by this subsection shall be grounds for suspending
+47 the restored driver's license for a period of thirty (30) days. Nothing in this subsection precludes
+48 any person from showing proof of financial responsibility in any other manner authorized by
+49 Articles 9A and 13 of this Chapter."
+50 SECTION 3.(f) G.S. 20-19(k) reads as rewritten:
+House Bill 722-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 "(k) Before the Division restores a driver's license that has been suspended or revoked
+2 under G.S. 20-138.5(d), or under any provision of this Article, other than G.S. 20-24.1, the
+3 person seeking to have the person's driver's license restored shall submit to the Division proof
+4 that the person has notified the person's insurance agent or company that the person is seeking
+5 the restoration and that the person is financially responsible. Proof of financial responsibility
+6 shall be in one of the following forms:
+7 …
+8 Subdivisions (1) and (2) of this subsection do not apply to applicants who do not own
+9 currently registered motor vehicles and who do not operate nonfleet private passenger motor
+10 vehicles that are owned by other persons and that are not insured under commercial motor vehicle
+11 liability insurance policies. In such cases, the applicant shall sign a written certificate to that
+12 effect. Such certificate shall be furnished by the Division and may be incorporated into the
+13 restoration application form. Any material misrepresentation made by such person on such
+14 certificate shall be grounds for suspension of that person's license for a period of 90 days.
+15 For the purposes of this subsection, the term "nonfleet private passenger motor vehicle" has
+16 the definition ascribed to it in Article 40 of General Statute Chapter 58.
+17 The Commissioner may require that certificates required by this subsection be on a form
+18 approved by the Commissioner. The financial responsibility required by this subsection shall be
+19 kept in effect for not less than three years after the date that the license is restored. Failure to
+20 maintain financial responsibility as required by this subsection shall be grounds for suspending
+21 the restored driver's license for a period of 30 days. Nothing in this subsection precludes any
+22 person from showing proof of financial responsibility in any other manner authorized by Articles
+23 9A and 13 of this Chapter."
+24 SECTION 3.(g) G.S. 20-28.1(a) reads as rewritten:
+25 "(a) Upon receipt of notice of conviction of any person of a motor vehicle moving offense,
+26 such offense having been committed while such person's driving privilege was in a state of
+27 suspension or revocation, the Division shall revoke such person's driving privilege for an
+28 additional period of time as set forth in subsection (b) hereof. For purposes of this section a
+29 violation of G.S. 20-7(a), 20-24.1, or 20-28(a) G.S. 20-7(a) or G.S. 20-28(a) or (a2) shall not be
+30 considered a "motor vehicle moving offense" unless the offense occurred in a commercial motor
+31 vehicle or the person held a commercial drivers license at the time of the offense."
+32 SECTION 3.(h) G.S. 20-217(g2) reads as rewritten:
+33 "(g2) Pursuant to G.S. 20-54, failure of a person to pay any fine or costs imposed pursuant
+34 to this section shall result in the Division withholding the registration renewal of a motor vehicle
+35 registered in that person's name. The clerk of superior court in the county in which the case was
+36 disposed shall notify the Division of any person who fails to pay a fine or costs imposed pursuant
+37 to this section within 40 days of the date specified in the court's judgment, as required by
+38 G.S. 20-24.2(a)(2). judgment. The Division shall continue to withhold the registration renewal
+39 of a motor vehicle until the clerk of superior court notifies the Division that the person has
+40 satisfied whichever of the following conditions of G.S. 20-24.1(b) are applicable to the person's
+41 case.case:
+42 (1) Disposes of the charge in the trial division in which the person failed to appear
+43 when the case was last called for trial or hearing.
+44 (2) Demonstrates to the court that the person is not the person charged with the
+45 offense.
+46 (3) Pays the penalty, fine, or costs ordered by the court.
+47 (4) Demonstrates to the court that the person's failure to pay the penalty, fine, or
+48 costs was not willful and that the person is making a good-faith effort to pay
+49 or that the penalty, fine, or costs should be remitted.
+50 The provisions of this subsection shall be in addition to any other actions the Division may
+51 take to enforce the payment of any fine imposed pursuant to this section."
+Page 6 House Bill 722-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.(i) G.S. 50-13.12(e) reads as rewritten:
+2 "(e) An obligor or other person whose licensing privileges are reinstated under this section
+3 may provide a copy of the certification set forth in either subsection (c) or (d) to each licensing
+4 agency to which the obligor or other person applies for reinstatement of licensing privileges.
+5 Upon request of the obligor or other person, the clerk shall mail a copy of the certification to the
+6 appropriate licensing board. Upon receipt of a copy of the certification, and the payment of
+7 applicable restoration fees, the licensing board shall reinstate the license."
+8 SECTION 3.(j) G.S. 110-142.2(f) reads as rewritten:
+9 "(f) Upon receipt of certification under subsection (d) or (e) of this section, the Division
+10 of Motor Vehicles shall reinstate the license to operate a motor vehicle in accordance with G.S.
+11 20-24.1, upon payment of the restoration fee and shall remove any restriction of the individual's
+12 motor vehicle registration."
+13 SECTION 3.(k) Subsection (a) of this section becomes effective October 1, 2025,
+14 and shall not affect license revocations issued prior to that date. Subsection (b) of this section
+15 becomes effective October 1, 2025, and shall not affect reports sent prior to that date. Subsection
+16 (c) of this section becomes effective October 1, 2025, and applies to license revocations on or
+17 after that date. Subsection (d) of this section becomes effective October 1, 2025, and shall not
+18 apply to reporting prior to that date. Subsections (e) and (f) of this section become effective
+19 October 1, 2025, and shall not affect the restoration of drivers licenses suspended or revoked
+20 prior to that date. Subsection (g) of this section becomes effective October 1, 2025, and shall not
+21 affect the determination of whether a violation of G.S. 20-24.1 prior to that date constituted a
+22 motor vehicle moving offense. Subsection (h) of this section becomes effective October 1, 2025,
+23 and does not apply to registration renewals withheld for a failure to appear in court or a failure
+24 to pay fines or costs that occurred prior to that date. Subsections (i) and (j) of this section become
+25 effective October 1, 2025, and apply to license reinstatements on or after that date. The remainder
+26 of this section is effective when it becomes law.
+27
+28 PART IV. CLARIFY THAT A COMMUNITY SERVICE FEE MAY BE WAIVED
+29 SECTION 4. G.S. 143B-1483(c) reads as rewritten:
+30 "(c) A Except upon judicial waiver for good cause, a fee of two hundred fifty dollars
+31 ($250.00) shall be paid by all persons who participate in the program or receive services from
+32 the program staff. Only one fee may be assessed for each sentencing transaction, even if the
+33 person is assigned to the program on more than one occasion, or while on deferred prosecution,
+34 under a conditional discharge, or serving a sentence for the offense. A sentencing transaction
+35 shall include all offenses considered and adjudicated during the same term of court. Fees
+36 collected pursuant to this subsection shall be deposited in the General Fund. If the person is
+37 convicted in a court in this State, the fee shall be paid to the clerk of court in the county in which
+38 the person is convicted, regardless of whether the person is participating in the program as a
+39 condition of parole, of probation imposed by the court, or pursuant to the exercise of authority
+40 delegated to the probation officer pursuant to G.S. 15A-1343.2(e) or (f). If the person is
+41 participating in the program as a result of a conditional discharge or a deferred prosecution or
+42 similar program, the fee shall be paid to the clerk of court in the county in which the agreement
+43 is filed. Persons participating in the program for any other reason shall pay the fee to the clerk of
+44 court in the county in which the services are provided by the program staff. The fee shall be paid
+45 in full before the person may participate in the community service program, except that:
+46 …."
+47
+48 PART V. REPEAL COURT COSTS FOR SEAT BELT INFRACTIONS
+49 SECTION 5.(a) G.S. 20-135.2A(e) reads as rewritten:
+House Bill 722-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 "(e) Any driver or front seat passenger who fails to wear a seat belt as required by this
+2 section shall have committed an infraction and shall pay a penalty of twenty-five dollars and fifty
+3 cents ($25.50) plus the following court costs:($25.50).
+4 (1) The General Court of Justice fee provided for in G.S. 7A-304(a)(4).
+5 (2) The fee provided for in G.S. 7A-304(a)(2a).
+6 (3) One dollar and fifty cents ($1.50) to be remitted to the county wherein the
+7 infraction was issued, except in those cases in which the infraction was issued
+8 by a law enforcement officer employed by a municipality, the fee shall be paid
+9 to the municipality employing the officer.
+10 (4) One dollar and fifty cents ($1.50) for the supplemental pension benefits of
+11 sheriffs to be remitted to the Department of Justice and administered under
+12 the provisions of Article 12H of Chapter 143 of the General Statutes.
+13 Any rear seat occupant of a vehicle who fails to wear a seat belt as required by this section
+14 shall have committed an infraction and shall pay a penalty of ten dollars ($10.00) and no court
+15 costs. Conviction of an infraction under this section has no other consequence."
+16 SECTION 5.(b) This section becomes effective October 1, 2025, and applies to costs
+17 and fees assessed on or after that date.
+18
+19 PART VI. MANDATORY EXEMPTION FROM PROBATION SUPERVISION FEE
+20 WHEN PROBATION IS EXTENDED FOR THE SOLE PURPOSE OF COMPLYING
+21 WITH MONETARY OBLIGATIONS
+22 SECTION 6.(a) G.S. 15A-1343(c1) reads as rewritten:
+23 "(c1) Supervision Fee. – Any person placed on supervised probation pursuant to subsection
+24 (a) of this section shall pay a supervision fee of forty dollars ($40.00) per month, unless exempted
+25 by the court. The court may exempt a person from paying the fee only for good cause and upon
+26 motion of the person placed on supervised probation. The court shall exempt a person from
+27 paying the fee when probation is extended for the sole purpose of complying with monetary
+28 obligations. No person shall be required to pay more than one supervision fee per month. The
+29 court may require that the fee be paid in advance or in a lump sum or sums, and a probation
+30 officer may require payment by such methods if he is authorized by subsection (g) to determine
+31 the payment schedule. Supervision fees must be paid to the clerk of court for the county in which
+32 the judgment was entered, the deferred prosecution agreement was filed, or the conditional
+33 discharge was ordered. Fees collected under this subsection shall be transmitted to the State for
+34 deposit into the State's General Fund."
+35 SECTION 6.(b) This section is effective when it becomes law and applies to
+36 supervision fees incurred in the calendar month after that date and all subsequent supervision
+37 fees incurred in the same term of supervised probation.
+38
+39 PART VII. EFFECTIVE DATE
+40 SECTION 7. Except as otherwise provided, this act is effective when it becomes
+41 law.
+Page 8 House Bill 722-First Edition
+
+[DELETED:  1 E ( R R A A T  P I M A R A R S S " ( I e c c i t s o d c w t d i c p a s t w t d a a c t f c s b a e t c w b h b a g e d a T c s p n t t g b a f c … ( F d a a o p o o d]
+[DELETED:  S  H a f ( F d c d s a p o t i l t t d c t l o t d f t p o a o c s o a o a c s p b t d o t d ( F j t t t l a p o t i l t t d c t l t o a T c s b a o i t c f t t w p a t l i t e o t s k o w p ( ( F c u n t e t s o s h d ( ( t b r T l b f o t d f t p o a o c s p p ( … ( F d c d u i w l i ( F j t t b r t t g f o t l l e u t]
+[DELETED:  S  P o u w l h p d f i t s f i f k s … ( F C L w c a c a p t G a f a p t G o a d f t t d o s c j s u c o t d e t s a a ( F c p t G o a d f a a p t j c a ( ( t b r t t g f o t l g u t o t l o p f t l s a t c o f a i t d t a s b i a ( F t s o a e w e b a p h p w t j c a ( t t e w p t a t c a i t d ( … ( T e a f i f c]
+[DELETED:  S  H ( T g ( W t f a M S S I a T A ( T h ( W f ( A l d r … S S a  P I C L T P I F N S " R o u i W ( T g ( W t f a M S S I a T A ( T h ( W f ( A l d r I n d S " W j t j c c o r o t c f t a d m i e o t j]
+[DELETED:  S  P a s u G a ( r a t d e t s t s s  P I M T L G T R O D L S S S a " o N o o ( T c ( T S " U d C p i a w A 8 o t C I t i i a m v i o S " B u d o r … T w c v l e r a f A m m m b s p o s c F t T a k m t a A S]
+[DELETED:  S  H " B u G o u a p o t A o t G t p t t s … S ( a ( o t s d n a t a w d n o c v l e r a f A m m m b s p o s c F t T a k m t p 9 S " U s s o r t D s r s p d p f a a v c v S " P t r d t t s w 4 d o t d s i t c j a r b G o s c ( D w ( D o ( P ( D c o T t]
+[DELETED:  S  P S " A m a U a a a S " U o 2 m S a b ( a a O p a m a t e o  P S " A ( t p u s i a o c a a d t s t o c F c c t c d t t p o p t G o ( I t p i p s i c i …  P S]
+[DELETED:  S  H " A s c ( T ( T ( O i b t ( O s t A s c S a  P V M E F P S F W W S " S ( b m p o c o t t j w e t d p a w f o c d d S 6  T s i e w i b l a a t s f  P S l]

@@ -1,0 +1,229 @@
+Title: HOUSE BILL 1002
+Official Title: HOUSE BILL 1002
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Rate Payer Protection Act. (Public)
+Sponsors: Representatives Harrison, Loftis, and Cervania (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT PROHIBITING PASSING ANY GRID OR ENERGY COSTS INCURRED SOLELY
+3 FOR SERVING DATA CENTERS TO RATE PAYERS AND CREATING A SPECIAL
+4 COMMISSION FOR DATA CENTER PLANNING.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. DATA CENTER COST RECOVERY
+8 SECTION 1. Article 7 of Chapter 62 of the General Statutes is amended by adding
+9 a new section to read:
+10 "§ 62-159.3. Prohibit cost recovery for data centers.
+11 (a) For the purposes of this section, the term "commercial data center" means a facility,
+12 campus of facilities, or array of interconnected facilities in this State that is used by an entity or
+13 other business enterprise to operate, manage, or maintain a computer, group of computers, or
+14 other organized assembly of hardware and software for the primary purpose of processing,
+15 storing, retrieving, or transmitting data and has a peak demand of 100 megawatts or greater.
+16 (b) Notwithstanding any other provision to the contrary, no costs incurred by a public
+17 utility, including, but not limited to, costs associated with increased fuel requirements, generation
+18 costs, and grid upgrade costs shall be included in any rates or charges approved or allowed to go
+19 into effect if the cost satisfies all of the following criteria:
+20 (1) Is related to the provision of electric services for commercial data centers.
+21 (2) May be reasonably attributed to, either in whole or in part, the electric demand
+22 of commercial data centers.
+23 (c) Public utilities may charge rates or charges designed to recover costs associated with
+24 subsection (b) of this section if the rates or charges are incurred solely from commercial data
+25 centers or are prorated based on electric demand."
+26
+27 PART II. CREATION OF SPECIAL COMMISSION
+28 SECTION 2.1. There is established a Special Commission for Data Center Planning
+29 (Commission). The Commission shall be composed of 14 members. All members shall serve for
+30 the duration of the Commission. Any vacancy shall be filled in the same manner in which the
+31 original appointment was made. The Commission may elect officers, other than the chairperson,
+32 as it deems necessary. The Commission shall be composed as follows:
+33 (1) The Governor shall appoint three members, two of whom shall be
+34 representatives from an investor-owned public utility, and one of whom shall
+35 be a member of an electric membership corporation.
+*H1002-v-1*
+General Assembly Of North Carolina Session 2025
+1 (2) The President Pro Tempore of the Senate shall appoint one member.
+2 (3) The Speaker of the House of Representatives shall appoint two members.
+3 (4) The minority leader of the House of Representatives shall appoint one
+4 member.
+5 (5) The minority leader of the Senate shall appoint one member.
+6 (6) Two members shall be from the North Carolina Utilities Commission or
+7 designees chosen by the chairperson of the North Carolina Utilities
+8 Commission.
+9 (7) The Secretary of Commerce, or his or her designee, shall appoint two
+10 members.
+11 (8) The Secretary of Health and Human Services, or his or her designee, shall
+12 appoint two members.
+13 SECTION 2.2. The Commission shall accomplish the following:
+14 (1) Review existing electric grid and energy supply and make recommendations
+15 for data center locations, based on such review and consideration of fiber,
+16 water, labor, and latency related to data centers.
+17 (2) Make recommendations to expand grid capacity in areas where energy for data
+18 applications is most needed.
+19 (3) Make recommendations on any energy generation, transmission, and
+20 distribution expansion necessary to serve the industry.
+21 (4) Consider creative approaches to manage usage, including variable load,
+22 on-site generation, efficiency, and backup generation.
+23 (5) Examine future trends related to the data center industry, including artificial
+24 intelligence and project impact on the electric grid.
+25 (6) Survey corporate employers to determine perceptions of adequacy of data
+26 center capacity in North Carolina.
+27 (7) Propose related legislation and budget recommendations.
+28 SECTION 2.3. The Commission may request and receive information from
+29 appropriate State agencies which the Commission deems useful in fulfilling its duties. Such
+30 agencies shall cooperate with the Commission with respect to such information and shall furnish
+31 all information requested by the Commission to the extent permitted by law. Additionally, the
+32 Commission shall have the following powers:
+33 (1) To authorize entering into contracts or agreements through the Commission's
+34 chairperson necessary or incidental to the performance of its duties.
+35 (2) To establish rules and procedures for conducting the business of the
+36 Commission.
+37 (3) To hold public hearings.
+38 (4) To request the attendance and testimony of such witnesses and the production
+39 of such documents as the Commission deems necessary to fulfill its duties.
+40 SECTION 2.4. The Commission may conduct meetings at such places and times as
+41 it deems necessary or convenient to enable it to fully and effectively exercise its powers, perform
+42 its duties, and accomplish the objectives and purposes of this act. The Commission shall hold
+43 meetings at the call of the chairperson. A quorum for transacting business shall be a majority of
+44 the members of the Commission.
+45 SECTION 2.5. The Commission shall submit a written report of its findings and
+46 recommendations to the Governor, the President Pro Tempore of the Senate, the Speaker of the
+47 House of Representatives, the minority leaders of the Senate and the House of Representatives,
+48 and the North Carolina Utilities Commission no later than three months after the date of the last
+49 meeting of the Commission.
+50 SECTION 2.6. This Part expires June 30, 2027, and the Commission will be
+51 abolished on this date.
+Page 2 House Bill 1002-First Edition
+General Assembly Of North Carolina Session 2025
+1
+2 PART III. EFFECTIVE DATE
+3 SECTION 3. Unless otherwise provided, this act is effective when it becomes law.
+House Bill 1002-First Edition Page 3
+[DELETED:  1 R ( R R A A F C T  P S a " ( F c o o o a o h a s f t p p o p s ( N u c i ( I ( M o ( P s c  P S ( t o a ( T G s a t m t o w s b r b]
+[DELETED:  S  H ( T ( T ( T m l o t H o R s a o m ( T ( T m s b f t N C U C o d c b t c o t N C U C ( T S o C o h o h d s a t m ( T a S ( R f w ( M a ( M r o a e g t a d ( C c a t m u i v l o ( E i ( S c ( P S 2  T C m r a r i f a a a C ( T c ( T e r a p f c t b o t C ( T ( T o S i i m t S r H a m S 2  T P e J 3 2 a t C w b a]
+[DELETED:  S  P  P S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 1002
+Short Title: Rate Payer Protection Act. (Public)
+Sponsors: Representatives Harrison, Loftis, and Cervania (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT PROHIBITING PASSING ANY GRID OR ENERGY COSTS INCURRED SOLELY
+3 FOR SERVING DATA CENTERS TO RATE PAYERS AND CREATING A SPECIAL
+4 COMMISSION FOR DATA CENTER PLANNING.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. DATA CENTER COST RECOVERY
+8 SECTION 1. Article 7 of Chapter 62 of the General Statutes is amended by adding
+9 a new section to read:
+10 "§ 62-159.3. Prohibit cost recovery for data centers.
+11 (a) For the purposes of this section, the term "commercial data center" means a facility,
+12 campus of facilities, or array of interconnected facilities in this State that is used by an entity or
+13 other business enterprise to operate, manage, or maintain a computer, group of computers, or
+14 other organized assembly of hardware and software for the primary purpose of processing,
+15 storing, retrieving, or transmitting data and has a peak demand of 100 megawatts or greater.
+16 (b) Notwithstanding any other provision to the contrary, no costs incurred by a public
+17 utility, including, but not limited to, costs associated with increased fuel requirements, generation
+18 costs, and grid upgrade costs shall be included in any rates or charges approved or allowed to go
+19 into effect if the cost satisfies all of the following criteria:
+20 (1) Is related to the provision of electric services for commercial data centers.
+21 (2) May be reasonably attributed to, either in whole or in part, the electric demand
+22 of commercial data centers.
+23 (c) Public utilities may charge rates or charges designed to recover costs associated with
+24 subsection (b) of this section if the rates or charges are incurred solely from commercial data
+25 centers or are prorated based on electric demand."
+26
+27 PART II. CREATION OF SPECIAL COMMISSION
+28 SECTION 2.1. There is established a Special Commission for Data Center Planning
+29 (Commission). The Commission shall be composed of 14 members. All members shall serve for
+30 the duration of the Commission. Any vacancy shall be filled in the same manner in which the
+31 original appointment was made. The Commission may elect officers, other than the chairperson,
+32 as it deems necessary. The Commission shall be composed as follows:
+33 (1) The Governor shall appoint three members, two of whom shall be
+34 representatives from an investor-owned public utility, and one of whom shall
+35 be a member of an electric membership corporation.
+*H1002-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (2) The President Pro Tempore of the Senate shall appoint one member.
+2 (3) The Speaker of the House of Representatives shall appoint two members.
+3 (4) The minority leader of the House of Representatives shall appoint one
+4 member.
+5 (5) The minority leader of the Senate shall appoint one member.
+6 (6) Two members shall be from the North Carolina Utilities Commission or
+7 designees chosen by the chairperson of the North Carolina Utilities
+8 Commission.
+9 (7) The Secretary of Commerce, or his or her designee, shall appoint two
+10 members.
+11 (8) The Secretary of Health and Human Services, or his or her designee, shall
+12 appoint two members.
+13 SECTION 2.2. The Commission shall accomplish the following:
+14 (1) Review existing electric grid and energy supply and make recommendations
+15 for data center locations, based on such review and consideration of fiber,
+16 water, labor, and latency related to data centers.
+17 (2) Make recommendations to expand grid capacity in areas where energy for data
+18 applications is most needed.
+19 (3) Make recommendations on any energy generation, transmission, and
+20 distribution expansion necessary to serve the industry.
+21 (4) Consider creative approaches to manage usage, including variable load,
+22 on-site generation, efficiency, and backup generation.
+23 (5) Examine future trends related to the data center industry, including artificial
+24 intelligence and project impact on the electric grid.
+25 (6) Survey corporate employers to determine perceptions of adequacy of data
+26 center capacity in North Carolina.
+27 (7) Propose related legislation and budget recommendations.
+28 SECTION 2.3. The Commission may request and receive information from
+29 appropriate State agencies which the Commission deems useful in fulfilling its duties. Such
+30 agencies shall cooperate with the Commission with respect to such information and shall furnish
+31 all information requested by the Commission to the extent permitted by law. Additionally, the
+32 Commission shall have the following powers:
+33 (1) To authorize entering into contracts or agreements through the Commission's
+34 chairperson necessary or incidental to the performance of its duties.
+35 (2) To establish rules and procedures for conducting the business of the
+36 Commission.
+37 (3) To hold public hearings.
+38 (4) To request the attendance and testimony of such witnesses and the production
+39 of such documents as the Commission deems necessary to fulfill its duties.
+40 SECTION 2.4. The Commission may conduct meetings at such places and times as
+41 it deems necessary or convenient to enable it to fully and effectively exercise its powers, perform
+42 its duties, and accomplish the objectives and purposes of this act. The Commission shall hold
+43 meetings at the call of the chairperson. A quorum for transacting business shall be a majority of
+44 the members of the Commission.
+45 SECTION 2.5. The Commission shall submit a written report of its findings and
+46 recommendations to the Governor, the President Pro Tempore of the Senate, the Speaker of the
+47 House of Representatives, the minority leaders of the Senate and the House of Representatives,
+48 and the North Carolina Utilities Commission no later than three months after the date of the last
+49 meeting of the Commission.
+50 SECTION 2.6. This Part expires June 30, 2027, and the Commission will be
+51 abolished on this date.
+Page 2 House Bill 1002-First Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 PART III. EFFECTIVE DATE
+3 SECTION 3. Unless otherwise provided, this act is effective when it becomes law.
+House Bill 1002-First Edition Page 3
+
+[DELETED:  1 R ( R R A A F C T  P S a " ( F c o o o a o h a s f t p p o p s ( N u c i ( I ( M o ( P s c  P S ( t o a ( T G s a t m t o w s b r b]
+[DELETED:  S  H ( T ( T ( T m l o t H o R s a o m ( T ( T m s b f t N C U C o d c b t c o t N C U C ( T S o C o h o h d s a t m ( T a S ( R f w ( M a ( M r o a e g t a d ( C c a t m u i v l o ( E i ( S c ( P S 2  T C m r a r i f a a a C ( T c ( T e r a p f c t b o t C ( T ( T o S i i m t S r H a m S 2  T P e J 3 2 a t C w b a]
+[DELETED:  S  P  P S]

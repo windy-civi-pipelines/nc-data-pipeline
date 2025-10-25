@@ -1,0 +1,103 @@
+Title: HOUSE BILL 81
+Official Title: HOUSE BILL 81
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Restrict Use of Vehicle Telematics. (Public)
+Sponsors: Representatives Loftis, Warren, Echevarria, and Almond (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Insurance, if favorable, Transportation, if favorable, Rules, Calendar, and
+Operations of the House
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REQUIRING NOTICE AND CONSENT BEFORE AN INSURANCE INSTITUTION
+3 OR AGENT MAY USE VEHICLE TELEMATICS DATA.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 39 of Chapter 58 of the General Statutes is amended by adding
+6 a new section to read:
+7 "§ 58-39-33. Use of telematics data.
+8 (a) Notice and Consent Required. – An insurance institution or agent shall not collect,
+9 receive, sell, share, or otherwise use data provided by vehicle telematics regarding an applicant
+10 or policyholder without first doing all of the following:
+11 (1) Notifying the applicant or policyholder how the vehicle telematics data will
+12 be used.
+13 (2) Obtaining the consent of the applicant or policyholder in writing.
+14 (3) Notifying the applicant or policyholder that consent may be revoked at any
+15 time.
+16 (b) Revocation of Consent. – Any individual providing consent pursuant to this section
+17 may revoke consent at any time. An insurance institution or agent collecting, receiving, selling,
+18 sharing, or otherwise using vehicle telematics data shall (i) provide an applicant or policyholder
+19 with reasonable means to communicate revocation of consent and (ii) effectuate the revocation
+20 of consent within 24 hours of its communication.
+21 (c) Penalty. – A violation of this section constitutes both an unfair trade practice under
+22 Article 63 of this Chapter and an unfair and deceptive trade practice under G.S. 75-1.1."
+23 SECTION 2. G.S. 58-39-15 reads as rewritten:
+24 "§ 58-39-15. Definitions.
+25 As used in this Article:
+26 …
+27 (26) "Vehicle telematics" means any tracking device, application, or software
+28 installed into a motor vehicle or mobile device that facilitates the transmission
+29 and storage of telemetry data regarding an individual's driving habits via
+30 wireless networks."
+31 SECTION 3. This act becomes effective October 1, 2025, and applies to contracts
+32 issued, renewed, or amended on or after that date.
+*H81-v-1*
+[DELETED:  1 R ( R I i f T i f R C a A A O T S a " ( N r o ( N b ( O ( N t ( R m s w o ( P A S " A … ( " t m a t d a o s i a s o t d r a i d h v w S i]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 81
+Short Title: Restrict Use of Vehicle Telematics. (Public)
+Sponsors: Representatives Loftis, Warren, Echevarria, and Almond (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Insurance, if favorable, Transportation, if favorable, Rules, Calendar, and
+Operations of the House
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REQUIRING NOTICE AND CONSENT BEFORE AN INSURANCE INSTITUTION
+3 OR AGENT MAY USE VEHICLE TELEMATICS DATA.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 39 of Chapter 58 of the General Statutes is amended by adding
+6 a new section to read:
+7 "§ 58-39-33. Use of telematics data.
+8 (a) Notice and Consent Required. – An insurance institution or agent shall not collect,
+9 receive, sell, share, or otherwise use data provided by vehicle telematics regarding an applicant
+10 or policyholder without first doing all of the following:
+11 (1) Notifying the applicant or policyholder how the vehicle telematics data will
+12 be used.
+13 (2) Obtaining the consent of the applicant or policyholder in writing.
+14 (3) Notifying the applicant or policyholder that consent may be revoked at any
+15 time.
+16 (b) Revocation of Consent. – Any individual providing consent pursuant to this section
+17 may revoke consent at any time. An insurance institution or agent collecting, receiving, selling,
+18 sharing, or otherwise using vehicle telematics data shall (i) provide an applicant or policyholder
+19 with reasonable means to communicate revocation of consent and (ii) effectuate the revocation
+20 of consent within 24 hours of its communication.
+21 (c) Penalty. – A violation of this section constitutes both an unfair trade practice under
+22 Article 63 of this Chapter and an unfair and deceptive trade practice under G.S. 75-1.1."
+23 SECTION 2. G.S. 58-39-15 reads as rewritten:
+24 "§ 58-39-15. Definitions.
+25 As used in this Article:
+26 …
+27 (26) "Vehicle telematics" means any tracking device, application, or software
+28 installed into a motor vehicle or mobile device that facilitates the transmission
+29 and storage of telemetry data regarding an individual's driving habits via
+30 wireless networks."
+31 SECTION 3. This act becomes effective October 1, 2025, and applies to contracts
+32 issued, renewed, or amended on or after that date.
+*H81-v-1*
+
+[DELETED:  1 R ( R I i f T i f R C a A A O T S a " ( N r o ( N b ( O ( N t ( R m s w o ( P A S " A … ( " t m a t d a o s i a s o t d r a i d h v w S i]

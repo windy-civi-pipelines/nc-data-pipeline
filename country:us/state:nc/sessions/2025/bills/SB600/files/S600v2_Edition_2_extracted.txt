@@ -1,0 +1,721 @@
+Title: SENATE BILL 600
+Official Title: SENATE BILL 600
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+Health Care Committee Substitute Adopted 4/16/25
+Short Title: Medicaid Agency Omnibus. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT MAKING TECHNICAL, CONFORMING, AND OTHER MODIFICATIONS TO
+3 LAWS PERTAINING TO THE DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+4 DIVISION OF HEALTH BENEFITS.
+5 The General Assembly of North Carolina enacts:
+6
+7 TEMPORARILY EXTEND OPTION TO DECREASE MEDICAID ENROLLMENT
+8 BURDEN ON COUNTY DEPARTMENTS OF SOCIAL SERVICES
+9 SECTION 1. Section 1.8(a) of S.L. 2023-7, as amended by Section 9(a) of S.L.
+10 2024-34, reads as rewritten:
+11 "SECTION 1.8.(a) Notwithstanding G.S. 108A-54(d) and in accordance with
+12 G.S. 143B-24(b), the Department of Health and Human Services (DHHS) is authorized, on a
+13 temporary basis to conclude by June 30, 2025, 2028, to utilize the federally facilitated
+14 marketplace (Marketplace), also known as the federal health benefit exchange, to make Medicaid
+15 eligibility determinations. In accordance with G.S. 108A-54(b), G.S. 108A-54(f), these
+16 eligibility determinations shall be in compliance with all eligibility categories, resource limits,
+17 and income thresholds set by the General Assembly."
+18
+19 CLARIFY ENROLLMENT IN MEDICAID MANAGED CARE AFTER RELEASE
+20 FROM INCARCERATION
+21 SECTION 2.(a) G.S. 108D-40 reads as rewritten:
+22 "§ 108D-40. Populations covered by PHPs.
+23 (a) Capitated PHP contracts shall cover all Medicaid program aid categories except for
+24 the following categories:
+25 …
+26 (9) Recipients who are inmates of prisons. Upon the recipient's release from
+27 prison, the exception under this subdivision shall continue to apply for a
+28 period that is the shorter of the following:until the first day of the month
+29 following the twelfth month after the recipient's release.
+30 a. The recipient's initial Medicaid eligibility certification period post
+31 release.
+32 b. Three hundred sixty-five days.
+33 (9a) Recipients residing in carceral settings other than prisons and whose Medicaid
+34 eligibility has been suspended. Upon the recipient's release from
+35 incarceration, the exception under this subdivision shall continue to apply for
+*S600-v-2*
+General Assembly Of North Carolina Session 2025
+1 a period that is the shorter of the following:until the first day of the month
+2 following the twelfth month after the recipient's release.
+3 a. The recipient's initial Medicaid eligibility certification period post
+4 release.
+5 b. Three hundred sixty-five days.
+6 …."
+7 SECTION 2.(b) This section is effective when it becomes law and applies to (i)
+8 inmates released on or after that date and (ii) inmates released on or after January 1, 2025, who
+9 are not enrolled with a PHP on the date this act becomes law.
+10
+11 CONFORM NORTH CAROLINA LAW TO FEDERAL REQUIREMENTS FOR
+12 MEDICAID CATEGORICAL RISK LEVELS FOR PROVIDER SCREENINGS
+13 SECTION 3.(a) G.S. 108C-3 reads as rewritten:
+14 "§ 108C-3. Medicaid provider screening.
+15 (a) Provider Screening. – The Department shall conduct provider screening of Medicaid
+16 providers in accordance with applicable State or federal law or regulation.
+17 (b) Enrollment Screening. – The Department must screen all initial provider applications
+18 for enrollment in Medicaid, including applications for a new practice location, and all
+19 revalidation requests based on Department the Department's assessment of risk and assignment
+20 of the provider to a categorical risk level of "limited," "moderate," or "high." limited, moderate,
+21 or high. If a provider could fit within more than one risk level described in this section, the highest
+22 level of screening is applicable.
+23 (c) Limited Categorical Risk Provider Types. – The All of the following provider types
+24 are hereby designated as "limited" limited categorical risk:
+25 …
+26 (4) Health programs operated by an Indian Health Program (as Program, as
+27 defined in section 4(12) of the Indian Health Care Improvement Act) Act, or
+28 an urban Indian organization (as organization, as defined in section 4(29) of
+29 the Indian Health Care Improvement Act) Act, that receives funding from the
+30 Indian Health Service pursuant to Title V of the Indian Health Care
+31 Improvement Act.
+32 …
+33 (10) Nursing facilities, including Intermediate Care Facilities for Individuals with
+34 Intellectual Disabilities.Disabilities, that are not skilled nursing facilities.
+35 (10a) Skilled nursing facilities that are limited categorical risk under subsection (k)
+36 of this section.
+37 …
+38 (12) Physician or nonphysician practitioners (including practitioners, including
+39 nurse practitioners, CRNAs, physician assistants, physician extenders,
+40 occupational therapists, speech/language pathologists, chiropractors, and
+41 audiologists), optometrists, audiologists; optometrists; dentists and
+42 orthodontists, orthodontists; and medical groups or clinics.
+43 …
+44 (d) Limited Categorical Risk Screenings. – When the Department designates a provider
+45 as a "limited" limited categorical level of risk, the Department shall conduct such the applicable
+46 screening functions as required by federal law.
+47 (e) Moderate Categorical Risk Provider Types. – The All of the following provider types
+48 are hereby designated as "moderate" moderate categorical risk:
+49 …
+50 (8) Pharmacy Services. services.
+51 …
+Page 2 Senate Bill 600-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (11) Revalidating agencies providing durable medical equipment, including, but
+2 not limited to, including orthotics and prosthetics.
+3 …
+4 (15) Skilled nursing facilities that are moderate categorical risk under subsection
+5 (k) of this section.
+6 (f) Moderate Categorical Risk Screenings. – When the Department designates a provider
+7 as a "moderate"' moderate categorical level of risk, the Department shall conduct such the
+8 applicable screening functions as required by federal law and regulation.
+9 (g) High Categorical Risk Provider Types. – The All of the following provider types are
+10 hereby designated as "high" high categorical risk:
+11 (1) Prospective (newly enrolling) Prospective, or newly enrolling, adult care
+12 homes delivering Medicaid-reimbursed services.
+13 …
+14 (4) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+15 providing durable medical equipment, including, but not limited to, orthotics
+16 and prosthetics.
+17 …
+18 (6) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+19 providing nonbehavioral health home- or community-based services pursuant
+20 to waivers authorized by the federal Centers for Medicare and Medicaid
+21 Services under 42 U.S.C. § 1396n(c).
+22 (7) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+23 providing personal care services or in-home care services.
+24 (8) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+25 providing private duty nursing, home health, or home infusion.
+26 (9) Providers against whom which the Department has imposed a payment
+27 suspension based upon a credible allegation of fraud in accordance with 42
+28 C.F.R. § 455.23 within the previous 12-month period. The Department shall
+29 return the provider to its original risk category not later than 12 months after
+30 the cessation of the payment suspension.
+31 …
+32 (11) Providers who that have incurred a Medicaid final overpayment, assessment,
+33 or fine to the Department in excess of twenty percent (20%) of the provider's
+34 payments received from Medicaid in the previous 12-month period. The
+35 Department shall return the provider to its original risk category not later than
+36 12 months after the completion of the provider's repayment of the final
+37 overpayment, assessment, or fine.
+38 …
+39 (13) Skilled nursing facilities that are high categorical risk under subsection (k) of
+40 this section.
+41 (h) High Categorical Risk Screenings. – When the Department designates a provider as
+42 a "high" high categorical level of risk, the Department shall conduct such the applicable screening
+43 functions as required by federal law and regulation.
+44 (i) Dually-Enrolled Providers. – For providers dually enrolled in the federal Medicare
+45 program and Medicaid, the Department may rely on the results of the provider screening
+46 performed by Medicare contractors.
+47 (j) Out-of-State Providers. – For out-of-state providers, the Department may rely on the
+48 results of the provider screening performed by the Medicaid agencies or Children's Health
+49 Insurance Program agencies of other states.
+50 (k) Skilled Nursing Facilities. – The categorical risk level for provider screening of
+51 skilled nursing facilities is the categorical risk level required by federal law or regulation. If
+Senate Bill 600-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 federal law or regulation does not require a particular categorical risk level, skilled nursing
+2 facilities are limited categorical risk."
+3 SECTION 3.(b) G.S. 108C-3, as amended by Section 3(a) of this act, reads as
+4 rewritten:
+5 "§ 108C-3. Medicaid provider screening.
+6 …
+7 (c) Limited Categorical Risk Provider Types. – All of the following provider types are
+8 designated as limited categorical risk:
+9 (1) Ambulatory surgical centers.
+10 (1a) Behavioral health and intellectual and developmental disability provider
+11 agencies that are nationally accredited by an entity approved by the
+12 Secretary.Secretary, unless they meet the description in subdivision (g)(15) of
+13 this section.
+14 …
+15 (16) Portable X-ray suppliers.
+16 …
+17 (e) Moderate Categorical Risk Provider Types. – All of the following provider types are
+18 designated as moderate categorical risk:
+19 …
+20 (5) Hospice organizations.Revalidating hospice organizations, unless they meet
+21 the description in subdivisions (g)(14) and (g)(15) of this section.
+22 …
+23 (10) Revalidating adult care homes delivering Medicaid-reimbursed
+24 services.services, unless they meet the description in subdivision (g)(15) of
+25 this section.
+26 (11) Revalidating agencies providing durable medical equipment, including
+27 orthotics and prosthetics. prosthetics, unless they meet the description in
+28 subdivision (g)(15) of this section.
+29 (12) Revalidating agencies providing nonbehavioral health home- or
+30 community-based services pursuant to waivers authorized by the federal
+31 Centers for Medicare and Medicaid Services under 42 U.S.C. § 1396n(c).42
+32 U.S.C. § 1396n(c), unless they meet the description in subdivision (g)(15) of
+33 this section.
+34 (13) Revalidating agencies providing private duty nursing, home health, personal
+35 care services or in-home care services, or home infusion.infusion, unless they
+36 meet the description in subdivision (g)(15) of this section.
+37 …
+38 (16) Portable X-ray suppliers.
+39 …
+40 (g) High Categorical Risk Provider Types. – All of the following provider types are
+41 designated as high categorical risk:
+42 …
+43 (14) Prospective, or newly enrolling, hospice organizations and revalidating
+44 hospice organizations undergoing a change in ownership.
+45 (15) The following revalidating providers (i) that are revalidating for the first time
+46 since newly enrolling and (ii) for which fingerprinting requirements, as a
+47 newly enrolling provider, were waived due to a national, state, or local
+48 emergency:
+49 a. Opioid treatment programs that have not been fully and continuously
+50 certified by the Substance Abuse and Mental Health Services
+51 Administration since October 23, 2018.
+Page 4 Senate Bill 600-Second Edition
+General Assembly Of North Carolina Session 2025
+1 b. Agencies providing durable medical equipment, including orthotics
+2 and prosthetics.
+3 c. Adult care homes delivering Medicaid-reimbursed services.
+4 d. Agencies providing private duty nursing, home health, personal care
+5 services, or in-home care services, or home infusion.
+6 e. Hospice organizations.
+7 …."
+8 SECTION 3.(c) Subsection (a) of this section is retroactively effective January 1,
+9 2023. The remainder of this section is retroactively effective January 1, 2024.
+10
+11 CLARIFY MEDICAID SUBROGATION RIGHTS IN MANAGED CARE
+12 ENVIRONMENT
+13 SECTION 4.(a) G.S. 108A-57 reads as rewritten:
+14 "§ 108A-57. Subrogation rights; withholding of information a misdemeanor.
+15 (a) As used in this section, the term "beneficiary" means (i) the beneficiary of medical
+16 assistance, including a minor beneficiary, (ii) the medical assistance beneficiary's parent, legal
+17 guardian, or personal representative, (iii) the medical assistance beneficiary's heirs, and (iv) the
+18 administrator or executor of the medical assistance beneficiary's estate.
+19 Notwithstanding any other provisions of the law, to the extent of payments under this Part,
+20 the State shall be subrogated to all rights of recovery, contractual or otherwise, of a beneficiary
+21 against any person. Any claim brought by a medical assistance beneficiary against a third party
+22 shall include a claim for all medical assistance payments for health care items or services
+23 furnished to the medical assistance beneficiary as a result of the injury or action, hereinafter
+24 referred to as the "Medicaid claim." Any claim brought by a medical assistance beneficiary
+25 against a third party that does not state the Medicaid claim shall be deemed to include the
+26 Medicaid claim. If the beneficiary has claims against more than one third party related to the
+27 same injury, then any amount received in payment of the Medicaid claim related to that injury
+28 shall reduce the total balance of the Medicaid claim applicable to subsequent recoveries related
+29 to that injury.
+30 The Department may designate one or more PHPs to receive all or a portion of payments due
+31 under this section to the Department for the Medicaid claim by sending a notice of designation
+32 to (i) the beneficiary who has the claim against the third party and (ii) any PHP designated in the
+33 notice. As used in this section, the term "designated PHP" refers to a PHP designated in the notice
+34 of designation under this subsection.
+35 (a1) If the amount of the Medicaid claim does not exceed one-third of the medical
+36 assistance beneficiary's gross recovery, it is presumed that the gross recovery includes
+37 compensation for the full amount of the Medicaid claim. If the amount of the Medicaid claim
+38 exceeds one-third of the medical assistance beneficiary's gross recovery, it is presumed that
+39 one-third of the gross recovery represents compensation for the Medicaid claim.
+40 (a2) A medical assistance beneficiary may dispute the presumptions established in
+41 subsection (a1) of this section by applying to the court in which the medical assistance
+42 beneficiary's claim against the third party is pending, or if there is none, then to a court of
+43 competent jurisdiction in this State, for a determination of the portion of the beneficiary's gross
+44 recovery that represents compensation for the Medicaid claim. An application under this
+45 subsection shall be filed with the court and served on the Department pursuant to the Rules of
+46 Civil Procedure no later than 30 days after the date that the settlement agreement is executed by
+47 all parties and, if required, approved by the court, or in cases in which judgment has been entered,
+48 no later than 30 days after the date of entry of judgment. If a PHP made payments on behalf of a
+49 Medicaid beneficiary that are included in the Medicaid claim, then the application shall also be
+50 served on that PHP within the same time frame in which service is required on the Department.
+Senate Bill 600-Second Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 The court shall hold an evidentiary hearing no sooner than 60 days after the date the action was
+2 filed. All of the following shall apply to the court's determination under this subsection:
+3 (1) The medical assistance beneficiary has the burden of proving by clear and
+4 convincing evidence that the portion of the beneficiary's gross recovery that
+5 represents compensation for the Medicaid claim is less than the portion
+6 presumed under subsection (a1) of this section.
+7 (2) The presumption arising under subsection (a1) of this section is not rebutted
+8 solely by the fact that the medical assistance beneficiary was not able to
+9 recover the full amount of all claims.
+10 (3) If the beneficiary meets its burden of rebutting the presumption arising under
+11 subsection (a1) of this section, then the court shall determine the portion of
+12 the recovery that represents compensation for the Medicaid claim and shall
+13 order the beneficiary to pay the amount so determined to the Department
+14 Department, or designated PHP, in accordance with subsection (a5) of this
+15 section. In making this determination, the court may consider any factors that
+16 it deems just and reasonable.
+17 (4) If the beneficiary fails to rebut the presumption arising under subsection (a1)
+18 of this section, then the court shall order the beneficiary to pay the amount
+19 presumed pursuant to subsection (a1) of this section to the Department
+20 Department, or designated PHP, in accordance with subsection (a5) of this
+21 section.
+22 (a3) Notwithstanding the presumption arising pursuant to subsection (a1) of this section,
+23 the medical assistance beneficiary and the Department may reach an agreement on the portion of
+24 the recovery that represents compensation for the Medicaid claim. If such an agreement is
+25 reached after an application has been filed pursuant to subsection (a2) of this section, a stipulation
+26 of dismissal of the application signed by both parties shall be filed with the court.
+27 (a4) Within 30 days of receipt of the proceeds of a settlement or judgment related to a
+28 claim described in subsection (a) of this section, the medical assistance beneficiary or any
+29 attorney retained by the beneficiary shall notify the Department Department, and any designated
+30 PHP, of the receipt of the proceeds.
+31 (a5) The medical assistance beneficiary or any attorney retained by the beneficiary shall,
+32 out of the proceeds obtained by or on behalf of the beneficiary by settlement with, judgment
+33 against, or otherwise from a third party by reason of injury or death, distribute to the Department
+34 Department, or designated PHP, the amount due pursuant to this section as follows:
+35 (1) If, upon the expiration of the time for filing an application pursuant subsection
+36 (a2) of this section, no application has been filed, then the amount presumed
+37 pursuant to subsection (a1) of this section, as prorated with the claims of all
+38 others having medical subrogation rights or medical liens against the amount
+39 received or recovered, shall be paid to the Department Department, or
+40 designated PHP, within 30 days of the beneficiary's receipt of the proceeds, in
+41 the absence of an agreement pursuant to subsection (a3) of this section.
+42 (2) If an application has been filed pursuant to subsection (a2) of this section and
+43 no agreement has been reached pursuant to subsection (a3) of this section,
+44 then the Department Department, or designated PHP, shall be paid as follows:
+45 a. If the beneficiary rebuts the presumption arising under subsection (a1)
+46 of this section, then the amount determined by the court pursuant to
+47 subsection (a2) of this section, as prorated with the claims of all others
+48 having medical subrogation rights or medical liens against the amount
+49 received or recovered, shall be paid to the Department Department, or
+50 designated PHP, within 30 days of the entry of the court's order.
+Page 6 Senate Bill 600-Second Edition
+General Assembly Of North Carolina Session 2025
+1 b. If the beneficiary fails to rebut the presumption arising under
+2 subsection (a1) of this section, then the amount presumed pursuant to
+3 subsection (a1) of this section, as prorated with the claims of all others
+4 having medical subrogation rights or medical liens against the amount
+5 received or recovered, shall be paid to the Department Department, or
+6 designated PHP, within 30 days of the entry of the court's order.
+7 (3) If an agreement has been reached pursuant to subsection (a3) of this section,
+8 then the agreed amount, as prorated with the claims of all others having
+9 medical subrogation rights or medical liens against the amount received or
+10 recovered, shall be paid to the Department Department, or designated PHP,
+11 within 30 days of the execution of the agreement by the medical assistance
+12 beneficiary and the Department.
+13 (a6) The United States and the State of North Carolina shall be entitled to shares in each
+14 net recovery by the Department under this section. Their shares shall be promptly paid under this
+15 section and their proportionate parts of such sum shall be determined in accordance with the
+16 matching formulas in use during the period for which assistance was paid to the recipient.
+17 (b) It is a Class 1 misdemeanor for any person seeking or having obtained assistance
+18 under this Part for himself or another to willfully fail to disclose to the county department of
+19 social services or its attorney and to the Department the identity of any person or organization
+20 against whom the recipient of assistance has a right of recovery, contractual or otherwise.
+21 (c) (For contingent repeal, see note) This section applies to the administration of and
+22 claims payments under the NC Health Choice Program established under Part 8 of this Article.
+23 (d) As required to ensure compliance with this section, the Department may apply to the
+24 court in which the medical assistance beneficiary's claim against the third party is pending, or if
+25 there is none, then to a court of competent jurisdiction in this State for enforcement of this
+26 section."
+27 SECTION 4.(b) This section is effective when it becomes law and applies to
+28 Medicaid claims brought by medical assistance beneficiaries against third parties on or after that
+29 date.
+30
+31 EFFECTIVE DATE
+32 SECTION 5. Except as otherwise provided, this act is effective when it becomes
+33 law.
+Senate Bill 600-Second Edition Page 7
+[DELETED:  2 M (   A A L D T  T E O T D M E B S 2 " 1  N G a i a w G t b t c b J 3 2 2 t u t f f m e d I a w G G t e a  C E I M M C A R F S " ( C t … ( R w a i o p U t r r f p t e u t s s c t a f a p f a T r i M e c p p r b T ( R e h b s U t r r f i]
+[DELETED:  S  S a f a T r i M e c p p r b T … S i a  C N C L T F R F M S " ( P p ( E f e i M i a f a n p l a a r o o l ( L a … ( H p o b a I H P ( P a d a t I H S p t T V o t I H C I … ( N I ( S o … ( P o n p ( p i n p C p a p e o t s p c a a o a o d a o … ( L a s ( M a … ( P …]
+[DELETED:  S  P ( R n … ( S ( ( M a a " m c l o r t D s c s t a ( H h ( P ( e P o n e a c h … ( P ( e P o n e a p a … ( P ( e P o n e a p t w a b t f C f M a M S ( P ( e P o n e a p ( P ( e P o n e a p ( P a w w t D h i a p s C r t … ( P o p r f M i t p 1 p T D 1 m a t c o t p r o t f o … ( S t ( H a f ( D p a M t D m r o t r o t p s p ( O r o t p s p b t M a o C H I ( S N F – T c r l f p s o s]
+[DELETED:  S  S f a l f S 3  G a a b S 3 a r a r " … ( L d ( A ( B h a i a d d p a t a n a b a e a b t S t … ( P … ( M d … ( H t … ( R a c h d M s t ( R a p d m e i o a p p u t m t d i s ( R a p n h h o c s p t w a b t f C U t ( R c m … ( P … ( H – d … ( P o n e h o a r h ( T s n e a ( f w f r a a n e p w w d t a n s o l e a O c b t S A a M H S A]
+[DELETED:  S  P b A a c A d A s e H … S 2  C M S R I M C E S " ( A a g a N t a s i a c f a m a p f h c i o s f r a t M s s t T u t n o ( I t a o t M c d n e o o t m a b g r i i p t t g r i c e o ( A m a b m d t p e i s ( o t s b a t t c i w t m a b c r t r c f t M c A a u t s C a n M s]
+[DELETED:  S  S T f ( T c r c f t M c i l t t p p ( T s b t f t t m a b w n a t r ( I s t o D D s i ( I o p p t s ( o t s t t D D s ( N t t r t r c f t M c I s a a i r o ( W c d i s ( o t s t m a b o a a P ( T o a D ( I ( p o r o r s b p t t D D o d t ( I n t a I o s h r d]
+[DELETED:  S  P b I t b f t r t p a u s s h r d ( I t t a a a p w t c o a o h m r w b ( T n s m ( I u s a ( ( c ( A c t s S 4  T s i e w i b l a a t M d  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 600
+Health Care Committee Substitute Adopted 4/16/25
+Short Title: Medicaid Agency Omnibus. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT MAKING TECHNICAL, CONFORMING, AND OTHER MODIFICATIONS TO
+3 LAWS PERTAINING TO THE DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+4 DIVISION OF HEALTH BENEFITS.
+5 The General Assembly of North Carolina enacts:
+6
+7 TEMPORARILY EXTEND OPTION TO DECREASE MEDICAID ENROLLMENT
+8 BURDEN ON COUNTY DEPARTMENTS OF SOCIAL SERVICES
+9 SECTION 1. Section 1.8(a) of S.L. 2023-7, as amended by Section 9(a) of S.L.
+10 2024-34, reads as rewritten:
+11 "SECTION 1.8.(a) Notwithstanding G.S. 108A-54(d) and in accordance with
+12 G.S. 143B-24(b), the Department of Health and Human Services (DHHS) is authorized, on a
+13 temporary basis to conclude by June 30, 2025, 2028, to utilize the federally facilitated
+14 marketplace (Marketplace), also known as the federal health benefit exchange, to make Medicaid
+15 eligibility determinations. In accordance with G.S. 108A-54(b), G.S. 108A-54(f), these
+16 eligibility determinations shall be in compliance with all eligibility categories, resource limits,
+17 and income thresholds set by the General Assembly."
+18
+19 CLARIFY ENROLLMENT IN MEDICAID MANAGED CARE AFTER RELEASE
+20 FROM INCARCERATION
+21 SECTION 2.(a) G.S. 108D-40 reads as rewritten:
+22 "§ 108D-40. Populations covered by PHPs.
+23 (a) Capitated PHP contracts shall cover all Medicaid program aid categories except for
+24 the following categories:
+25 …
+26 (9) Recipients who are inmates of prisons. Upon the recipient's release from
+27 prison, the exception under this subdivision shall continue to apply for a
+28 period that is the shorter of the following:until the first day of the month
+29 following the twelfth month after the recipient's release.
+30 a. The recipient's initial Medicaid eligibility certification period post
+31 release.
+32 b. Three hundred sixty-five days.
+33 (9a) Recipients residing in carceral settings other than prisons and whose Medicaid
+34 eligibility has been suspended. Upon the recipient's release from
+35 incarceration, the exception under this subdivision shall continue to apply for
+*S600-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 a period that is the shorter of the following:until the first day of the month
+2 following the twelfth month after the recipient's release.
+3 a. The recipient's initial Medicaid eligibility certification period post
+4 release.
+5 b. Three hundred sixty-five days.
+6 …."
+7 SECTION 2.(b) This section is effective when it becomes law and applies to (i)
+8 inmates released on or after that date and (ii) inmates released on or after January 1, 2025, who
+9 are not enrolled with a PHP on the date this act becomes law.
+10
+11 CONFORM NORTH CAROLINA LAW TO FEDERAL REQUIREMENTS FOR
+12 MEDICAID CATEGORICAL RISK LEVELS FOR PROVIDER SCREENINGS
+13 SECTION 3.(a) G.S. 108C-3 reads as rewritten:
+14 "§ 108C-3. Medicaid provider screening.
+15 (a) Provider Screening. – The Department shall conduct provider screening of Medicaid
+16 providers in accordance with applicable State or federal law or regulation.
+17 (b) Enrollment Screening. – The Department must screen all initial provider applications
+18 for enrollment in Medicaid, including applications for a new practice location, and all
+19 revalidation requests based on Department the Department's assessment of risk and assignment
+20 of the provider to a categorical risk level of "limited," "moderate," or "high." limited, moderate,
+21 or high. If a provider could fit within more than one risk level described in this section, the highest
+22 level of screening is applicable.
+23 (c) Limited Categorical Risk Provider Types. – The All of the following provider types
+24 are hereby designated as "limited" limited categorical risk:
+25 …
+26 (4) Health programs operated by an Indian Health Program (as Program, as
+27 defined in section 4(12) of the Indian Health Care Improvement Act) Act, or
+28 an urban Indian organization (as organization, as defined in section 4(29) of
+29 the Indian Health Care Improvement Act) Act, that receives funding from the
+30 Indian Health Service pursuant to Title V of the Indian Health Care
+31 Improvement Act.
+32 …
+33 (10) Nursing facilities, including Intermediate Care Facilities for Individuals with
+34 Intellectual Disabilities.Disabilities, that are not skilled nursing facilities.
+35 (10a) Skilled nursing facilities that are limited categorical risk under subsection (k)
+36 of this section.
+37 …
+38 (12) Physician or nonphysician practitioners (including practitioners, including
+39 nurse practitioners, CRNAs, physician assistants, physician extenders,
+40 occupational therapists, speech/language pathologists, chiropractors, and
+41 audiologists), optometrists, audiologists; optometrists; dentists and
+42 orthodontists, orthodontists; and medical groups or clinics.
+43 …
+44 (d) Limited Categorical Risk Screenings. – When the Department designates a provider
+45 as a "limited" limited categorical level of risk, the Department shall conduct such the applicable
+46 screening functions as required by federal law.
+47 (e) Moderate Categorical Risk Provider Types. – The All of the following provider types
+48 are hereby designated as "moderate" moderate categorical risk:
+49 …
+50 (8) Pharmacy Services. services.
+51 …
+Page 2 Senate Bill 600-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (11) Revalidating agencies providing durable medical equipment, including, but
+2 not limited to, including orthotics and prosthetics.
+3 …
+4 (15) Skilled nursing facilities that are moderate categorical risk under subsection
+5 (k) of this section.
+6 (f) Moderate Categorical Risk Screenings. – When the Department designates a provider
+7 as a "moderate"' moderate categorical level of risk, the Department shall conduct such the
+8 applicable screening functions as required by federal law and regulation.
+9 (g) High Categorical Risk Provider Types. – The All of the following provider types are
+10 hereby designated as "high" high categorical risk:
+11 (1) Prospective (newly enrolling) Prospective, or newly enrolling, adult care
+12 homes delivering Medicaid-reimbursed services.
+13 …
+14 (4) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+15 providing durable medical equipment, including, but not limited to, orthotics
+16 and prosthetics.
+17 …
+18 (6) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+19 providing nonbehavioral health home- or community-based services pursuant
+20 to waivers authorized by the federal Centers for Medicare and Medicaid
+21 Services under 42 U.S.C. § 1396n(c).
+22 (7) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+23 providing personal care services or in-home care services.
+24 (8) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+25 providing private duty nursing, home health, or home infusion.
+26 (9) Providers against whom which the Department has imposed a payment
+27 suspension based upon a credible allegation of fraud in accordance with 42
+28 C.F.R. § 455.23 within the previous 12-month period. The Department shall
+29 return the provider to its original risk category not later than 12 months after
+30 the cessation of the payment suspension.
+31 …
+32 (11) Providers who that have incurred a Medicaid final overpayment, assessment,
+33 or fine to the Department in excess of twenty percent (20%) of the provider's
+34 payments received from Medicaid in the previous 12-month period. The
+35 Department shall return the provider to its original risk category not later than
+36 12 months after the completion of the provider's repayment of the final
+37 overpayment, assessment, or fine.
+38 …
+39 (13) Skilled nursing facilities that are high categorical risk under subsection (k) of
+40 this section.
+41 (h) High Categorical Risk Screenings. – When the Department designates a provider as
+42 a "high" high categorical level of risk, the Department shall conduct such the applicable screening
+43 functions as required by federal law and regulation.
+44 (i) Dually-Enrolled Providers. – For providers dually enrolled in the federal Medicare
+45 program and Medicaid, the Department may rely on the results of the provider screening
+46 performed by Medicare contractors.
+47 (j) Out-of-State Providers. – For out-of-state providers, the Department may rely on the
+48 results of the provider screening performed by the Medicaid agencies or Children's Health
+49 Insurance Program agencies of other states.
+50 (k) Skilled Nursing Facilities. – The categorical risk level for provider screening of
+51 skilled nursing facilities is the categorical risk level required by federal law or regulation. If
+Senate Bill 600-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 federal law or regulation does not require a particular categorical risk level, skilled nursing
+2 facilities are limited categorical risk."
+3 SECTION 3.(b) G.S. 108C-3, as amended by Section 3(a) of this act, reads as
+4 rewritten:
+5 "§ 108C-3. Medicaid provider screening.
+6 …
+7 (c) Limited Categorical Risk Provider Types. – All of the following provider types are
+8 designated as limited categorical risk:
+9 (1) Ambulatory surgical centers.
+10 (1a) Behavioral health and intellectual and developmental disability provider
+11 agencies that are nationally accredited by an entity approved by the
+12 Secretary.Secretary, unless they meet the description in subdivision (g)(15) of
+13 this section.
+14 …
+15 (16) Portable X-ray suppliers.
+16 …
+17 (e) Moderate Categorical Risk Provider Types. – All of the following provider types are
+18 designated as moderate categorical risk:
+19 …
+20 (5) Hospice organizations.Revalidating hospice organizations, unless they meet
+21 the description in subdivisions (g)(14) and (g)(15) of this section.
+22 …
+23 (10) Revalidating adult care homes delivering Medicaid-reimbursed
+24 services.services, unless they meet the description in subdivision (g)(15) of
+25 this section.
+26 (11) Revalidating agencies providing durable medical equipment, including
+27 orthotics and prosthetics. prosthetics, unless they meet the description in
+28 subdivision (g)(15) of this section.
+29 (12) Revalidating agencies providing nonbehavioral health home- or
+30 community-based services pursuant to waivers authorized by the federal
+31 Centers for Medicare and Medicaid Services under 42 U.S.C. § 1396n(c).42
+32 U.S.C. § 1396n(c), unless they meet the description in subdivision (g)(15) of
+33 this section.
+34 (13) Revalidating agencies providing private duty nursing, home health, personal
+35 care services or in-home care services, or home infusion.infusion, unless they
+36 meet the description in subdivision (g)(15) of this section.
+37 …
+38 (16) Portable X-ray suppliers.
+39 …
+40 (g) High Categorical Risk Provider Types. – All of the following provider types are
+41 designated as high categorical risk:
+42 …
+43 (14) Prospective, or newly enrolling, hospice organizations and revalidating
+44 hospice organizations undergoing a change in ownership.
+45 (15) The following revalidating providers (i) that are revalidating for the first time
+46 since newly enrolling and (ii) for which fingerprinting requirements, as a
+47 newly enrolling provider, were waived due to a national, state, or local
+48 emergency:
+49 a. Opioid treatment programs that have not been fully and continuously
+50 certified by the Substance Abuse and Mental Health Services
+51 Administration since October 23, 2018.
+Page 4 Senate Bill 600-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 b. Agencies providing durable medical equipment, including orthotics
+2 and prosthetics.
+3 c. Adult care homes delivering Medicaid-reimbursed services.
+4 d. Agencies providing private duty nursing, home health, personal care
+5 services, or in-home care services, or home infusion.
+6 e. Hospice organizations.
+7 …."
+8 SECTION 3.(c) Subsection (a) of this section is retroactively effective January 1,
+9 2023. The remainder of this section is retroactively effective January 1, 2024.
+10
+11 CLARIFY MEDICAID SUBROGATION RIGHTS IN MANAGED CARE
+12 ENVIRONMENT
+13 SECTION 4.(a) G.S. 108A-57 reads as rewritten:
+14 "§ 108A-57. Subrogation rights; withholding of information a misdemeanor.
+15 (a) As used in this section, the term "beneficiary" means (i) the beneficiary of medical
+16 assistance, including a minor beneficiary, (ii) the medical assistance beneficiary's parent, legal
+17 guardian, or personal representative, (iii) the medical assistance beneficiary's heirs, and (iv) the
+18 administrator or executor of the medical assistance beneficiary's estate.
+19 Notwithstanding any other provisions of the law, to the extent of payments under this Part,
+20 the State shall be subrogated to all rights of recovery, contractual or otherwise, of a beneficiary
+21 against any person. Any claim brought by a medical assistance beneficiary against a third party
+22 shall include a claim for all medical assistance payments for health care items or services
+23 furnished to the medical assistance beneficiary as a result of the injury or action, hereinafter
+24 referred to as the "Medicaid claim." Any claim brought by a medical assistance beneficiary
+25 against a third party that does not state the Medicaid claim shall be deemed to include the
+26 Medicaid claim. If the beneficiary has claims against more than one third party related to the
+27 same injury, then any amount received in payment of the Medicaid claim related to that injury
+28 shall reduce the total balance of the Medicaid claim applicable to subsequent recoveries related
+29 to that injury.
+30 The Department may designate one or more PHPs to receive all or a portion of payments due
+31 under this section to the Department for the Medicaid claim by sending a notice of designation
+32 to (i) the beneficiary who has the claim against the third party and (ii) any PHP designated in the
+33 notice. As used in this section, the term "designated PHP" refers to a PHP designated in the notice
+34 of designation under this subsection.
+35 (a1) If the amount of the Medicaid claim does not exceed one-third of the medical
+36 assistance beneficiary's gross recovery, it is presumed that the gross recovery includes
+37 compensation for the full amount of the Medicaid claim. If the amount of the Medicaid claim
+38 exceeds one-third of the medical assistance beneficiary's gross recovery, it is presumed that
+39 one-third of the gross recovery represents compensation for the Medicaid claim.
+40 (a2) A medical assistance beneficiary may dispute the presumptions established in
+41 subsection (a1) of this section by applying to the court in which the medical assistance
+42 beneficiary's claim against the third party is pending, or if there is none, then to a court of
+43 competent jurisdiction in this State, for a determination of the portion of the beneficiary's gross
+44 recovery that represents compensation for the Medicaid claim. An application under this
+45 subsection shall be filed with the court and served on the Department pursuant to the Rules of
+46 Civil Procedure no later than 30 days after the date that the settlement agreement is executed by
+47 all parties and, if required, approved by the court, or in cases in which judgment has been entered,
+48 no later than 30 days after the date of entry of judgment. If a PHP made payments on behalf of a
+49 Medicaid beneficiary that are included in the Medicaid claim, then the application shall also be
+50 served on that PHP within the same time frame in which service is required on the Department.
+Senate Bill 600-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 The court shall hold an evidentiary hearing no sooner than 60 days after the date the action was
+2 filed. All of the following shall apply to the court's determination under this subsection:
+3 (1) The medical assistance beneficiary has the burden of proving by clear and
+4 convincing evidence that the portion of the beneficiary's gross recovery that
+5 represents compensation for the Medicaid claim is less than the portion
+6 presumed under subsection (a1) of this section.
+7 (2) The presumption arising under subsection (a1) of this section is not rebutted
+8 solely by the fact that the medical assistance beneficiary was not able to
+9 recover the full amount of all claims.
+10 (3) If the beneficiary meets its burden of rebutting the presumption arising under
+11 subsection (a1) of this section, then the court shall determine the portion of
+12 the recovery that represents compensation for the Medicaid claim and shall
+13 order the beneficiary to pay the amount so determined to the Department
+14 Department, or designated PHP, in accordance with subsection (a5) of this
+15 section. In making this determination, the court may consider any factors that
+16 it deems just and reasonable.
+17 (4) If the beneficiary fails to rebut the presumption arising under subsection (a1)
+18 of this section, then the court shall order the beneficiary to pay the amount
+19 presumed pursuant to subsection (a1) of this section to the Department
+20 Department, or designated PHP, in accordance with subsection (a5) of this
+21 section.
+22 (a3) Notwithstanding the presumption arising pursuant to subsection (a1) of this section,
+23 the medical assistance beneficiary and the Department may reach an agreement on the portion of
+24 the recovery that represents compensation for the Medicaid claim. If such an agreement is
+25 reached after an application has been filed pursuant to subsection (a2) of this section, a stipulation
+26 of dismissal of the application signed by both parties shall be filed with the court.
+27 (a4) Within 30 days of receipt of the proceeds of a settlement or judgment related to a
+28 claim described in subsection (a) of this section, the medical assistance beneficiary or any
+29 attorney retained by the beneficiary shall notify the Department Department, and any designated
+30 PHP, of the receipt of the proceeds.
+31 (a5) The medical assistance beneficiary or any attorney retained by the beneficiary shall,
+32 out of the proceeds obtained by or on behalf of the beneficiary by settlement with, judgment
+33 against, or otherwise from a third party by reason of injury or death, distribute to the Department
+34 Department, or designated PHP, the amount due pursuant to this section as follows:
+35 (1) If, upon the expiration of the time for filing an application pursuant subsection
+36 (a2) of this section, no application has been filed, then the amount presumed
+37 pursuant to subsection (a1) of this section, as prorated with the claims of all
+38 others having medical subrogation rights or medical liens against the amount
+39 received or recovered, shall be paid to the Department Department, or
+40 designated PHP, within 30 days of the beneficiary's receipt of the proceeds, in
+41 the absence of an agreement pursuant to subsection (a3) of this section.
+42 (2) If an application has been filed pursuant to subsection (a2) of this section and
+43 no agreement has been reached pursuant to subsection (a3) of this section,
+44 then the Department Department, or designated PHP, shall be paid as follows:
+45 a. If the beneficiary rebuts the presumption arising under subsection (a1)
+46 of this section, then the amount determined by the court pursuant to
+47 subsection (a2) of this section, as prorated with the claims of all others
+48 having medical subrogation rights or medical liens against the amount
+49 received or recovered, shall be paid to the Department Department, or
+50 designated PHP, within 30 days of the entry of the court's order.
+Page 6 Senate Bill 600-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 b. If the beneficiary fails to rebut the presumption arising under
+2 subsection (a1) of this section, then the amount presumed pursuant to
+3 subsection (a1) of this section, as prorated with the claims of all others
+4 having medical subrogation rights or medical liens against the amount
+5 received or recovered, shall be paid to the Department Department, or
+6 designated PHP, within 30 days of the entry of the court's order.
+7 (3) If an agreement has been reached pursuant to subsection (a3) of this section,
+8 then the agreed amount, as prorated with the claims of all others having
+9 medical subrogation rights or medical liens against the amount received or
+10 recovered, shall be paid to the Department Department, or designated PHP,
+11 within 30 days of the execution of the agreement by the medical assistance
+12 beneficiary and the Department.
+13 (a6) The United States and the State of North Carolina shall be entitled to shares in each
+14 net recovery by the Department under this section. Their shares shall be promptly paid under this
+15 section and their proportionate parts of such sum shall be determined in accordance with the
+16 matching formulas in use during the period for which assistance was paid to the recipient.
+17 (b) It is a Class 1 misdemeanor for any person seeking or having obtained assistance
+18 under this Part for himself or another to willfully fail to disclose to the county department of
+19 social services or its attorney and to the Department the identity of any person or organization
+20 against whom the recipient of assistance has a right of recovery, contractual or otherwise.
+21 (c) (For contingent repeal, see note) This section applies to the administration of and
+22 claims payments under the NC Health Choice Program established under Part 8 of this Article.
+23 (d) As required to ensure compliance with this section, the Department may apply to the
+24 court in which the medical assistance beneficiary's claim against the third party is pending, or if
+25 there is none, then to a court of competent jurisdiction in this State for enforcement of this
+26 section."
+27 SECTION 4.(b) This section is effective when it becomes law and applies to
+28 Medicaid claims brought by medical assistance beneficiaries against third parties on or after that
+29 date.
+30
+31 EFFECTIVE DATE
+32 SECTION 5. Except as otherwise provided, this act is effective when it becomes
+33 law.
+Senate Bill 600-Second Edition Page 7
+
+[DELETED:  2 M (   A A L D T  T E O T D M E B S 2 " 1  N G a i a w G t b t c b J 3 2 2 t u t f f m e d I a w G G t e a  C E I M M C A R F S " ( C t … ( R w a i o p U t r r f p t e u t s s c t a f a p f a T r i M e c p p r b T ( R e h b s U t r r f i]
+[DELETED:  S  S a f a T r i M e c p p r b T … S i a  C N C L T F R F M S " ( P p ( E f e i M i a f a n p l a a r o o l ( L a … ( H p o b a I H P ( P a d a t I H S p t T V o t I H C I … ( N I ( S o … ( P o n p ( p i n p C p a p e o t s p c a a o a o d a o … ( L a s ( M a … ( P …]
+[DELETED:  S  P ( R n … ( S ( ( M a a " m c l o r t D s c s t a ( H h ( P ( e P o n e a c h … ( P ( e P o n e a p a … ( P ( e P o n e a p t w a b t f C f M a M S ( P ( e P o n e a p ( P ( e P o n e a p ( P a w w t D h i a p s C r t … ( P o p r f M i t p 1 p T D 1 m a t c o t p r o t f o … ( S t ( H a f ( D p a M t D m r o t r o t p s p ( O r o t p s p b t M a o C H I ( S N F – T c r l f p s o s]
+[DELETED:  S  S f a l f S 3  G a a b S 3 a r a r " … ( L d ( A ( B h a i a d d p a t a n a b a e a b t S t … ( P … ( M d … ( H t … ( R a c h d M s t ( R a p d m e i o a p p u t m t d i s ( R a p n h h o c s p t w a b t f C U t ( R c m … ( P … ( H – d … ( P o n e h o a r h ( T s n e a ( f w f r a a n e p w w d t a n s o l e a O c b t S A a M H S A]
+[DELETED:  S  P b A a c A d A s e H … S 2  C M S R I M C E S " ( A a g a N t a s i a c f a m a p f h c i o s f r a t M s s t T u t n o ( I t a o t M c d n e o o t m a b g r i i p t t g r i c e o ( A m a b m d t p e i s ( o t s b a t t c i w t m a b c r t r c f t M c A a u t s C a n M s]
+[DELETED:  S  S T f ( T c r c f t M c i l t t p p ( T s b t f t t m a b w n a t r ( I s t o D D s i ( I o p p t s ( o t s t t D D s ( N t t r t r c f t M c I s a a i r o ( W c d i s ( o t s t m a b o a a P ( T o a D ( I ( p o r o r s b p t t D D o d t ( I n t a I o s h r d]
+[DELETED:  S  P b I t b f t r t p a u s s h r d ( I t t a a a p w t c o a o h m r w b ( T n s m ( I u s a ( ( c ( A c t s S 4  T s i e w i b l a a t M d  E S l]

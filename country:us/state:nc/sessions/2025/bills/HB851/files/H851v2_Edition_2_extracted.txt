@@ -1,0 +1,170 @@
+Title: HOUSE BILL 851
+Official Title: HOUSE BILL 851
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 5/6/25
+Short Title: Hospital Police Officer/Authority/Info Access. (Public)
+Sponsors:
+Referred to:
+April 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO TREAT HOSPITAL POLICE OFFICERS AS A DISTINCT CATEGORY OF
+3 COMPANY POLICE OFFICERS AND TO PROVIDE CERTAIN AUTHORITY AND
+4 INFORMATION ACCESS TO THESE OFFICERS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Chapter 74E of the General Statutes reads as rewritten:
+7 "Chapter 74E.
+8 "Company Police Act.
+9 …
+10 "§ 74E-6. Oaths, powers, and authority of company police officers.
+11 …
+12 (b) Categories. – The following three distinct classifications of company police officers
+13 are established:
+14 …
+15 (1a) Hospital Police Officers. – Those company police officers who are employed
+16 by a hospital as that term is defined under G.S. 131E-76(3).
+17 …
+18 (d1) Hospital Police. – Hospital police officers have the powers contained in subsection
+19 (c) of this section. The governing body of a hospital as defined by G.S. 131E-76(2) may enter
+20 into a mutual aid agreement with the governing board of a municipality or, with the consent of
+21 the county sheriff, a county to the same extent as a municipal police department pursuant to
+22 Chapter 160A of the General Statutes.
+23 …
+24 (f1) Hospital Police CJLEADS Access. – Unless contrary to any federal law, regulation,
+25 or requirement, a hospital police agency certified pursuant to this Chapter shall be granted access
+26 to the Criminal Justice Law Enforcement Automated Data System (CJLEADS) upon (i) request
+27 of the agency and (ii) compliance with the requirements established by the Government Data
+28 Analytics Center (GDAC) for access to that system, including the execution of a license and
+29 usage agreement.
+30 (f2) Hospital Police DCIN Access. – Pursuant to all laws, rules, and regulations not
+31 inconsistent with this subsection, hospital police agencies shall be granted access to and deemed
+32 participating agencies of the Division of Criminal Information Network (DCIN) created under
+33 G.S. 143B-905 in a manner equivalent, at a minimum, to campus police certified by the Attorney
+34 General pursuant to Chapter 74G of the General Statutes.
+35 …."
+36 SECTION 2. G.S. 115D-5(b) reads as rewritten:
+*H851-v-2*
+General Assembly Of North Carolina Session 2025
+1 "(b) In order to make instruction as accessible as possible to all citizens, the teaching of
+2 curricular courses and of noncurricular extension courses at convenient locations away from
+3 institution campuses as well as on campuses is authorized and shall be encouraged. A pro rata
+4 portion of the established regular tuition rate charged a full-time student shall be charged a
+5 part-time student taking any curriculum course. In lieu of any tuition charge, the State Board of
+6 Community Colleges shall establish a uniform registration fee, or a schedule of uniform
+7 registration fees, to be charged students enrolling in extension courses for which instruction is
+8 financed primarily from State funds. The State Board of Community Colleges may provide by
+9 general and uniform regulations for waiver of tuition and registration fees for the following:
+10 …
+11 (2) Courses requested by the following entities that support the organizations'
+12 training needs and are on a specialized course list approved by the State Board
+13 of Community Colleges:
+14 …
+15 f. Municipal, county, or State law enforcement agencies.
+16 f1. Campus police agencies of private institutions of higher education
+17 certified by the Attorney General pursuant to Chapter 74G of the
+18 General Statutes.
+19 f2. Hospital police agencies certified by the Attorney General pursuant to
+20 Chapter 74E of the General Statutes.
+21 …."
+22 SECTION 3. Notwithstanding any provision of law to the contrary, there shall be no
+23 impediment to the use of the Voice Interoperability Plan for Emergency Responders (VIPER)
+24 system by hospital police agencies certified by the Attorney General pursuant to Chapter 74E of
+25 the General Statutes, so long as those agencies choose to acquire the necessary equipment and
+26 utilize the VIPER system.
+27 SECTION 4. This act is effective when it becomes law.
+Page 2 House Bill 851-Second Edition
+[DELETED:  2 H (   A A C P O A T P C A A I T S " " … " … ( C a … ( H b … ( H ( i t C … ( H o t o A u ( H P D A – P t a l r a r n i p G G … S]
+[DELETED:  S  H " I c i p p C C s e a u r f o a s o u r f g … ( C t o … f M f C p a o p i o h e c b t A G p t C 7 o t G f H C … S i s t u S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 851
+Committee Substitute Favorable 5/6/25
+Short Title: Hospital Police Officer/Authority/Info Access. (Public)
+Sponsors:
+Referred to:
+April 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO TREAT HOSPITAL POLICE OFFICERS AS A DISTINCT CATEGORY OF
+3 COMPANY POLICE OFFICERS AND TO PROVIDE CERTAIN AUTHORITY AND
+4 INFORMATION ACCESS TO THESE OFFICERS.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Chapter 74E of the General Statutes reads as rewritten:
+7 "Chapter 74E.
+8 "Company Police Act.
+9 …
+10 "§ 74E-6. Oaths, powers, and authority of company police officers.
+11 …
+12 (b) Categories. – The following three distinct classifications of company police officers
+13 are established:
+14 …
+15 (1a) Hospital Police Officers. – Those company police officers who are employed
+16 by a hospital as that term is defined under G.S. 131E-76(3).
+17 …
+18 (d1) Hospital Police. – Hospital police officers have the powers contained in subsection
+19 (c) of this section. The governing body of a hospital as defined by G.S. 131E-76(2) may enter
+20 into a mutual aid agreement with the governing board of a municipality or, with the consent of
+21 the county sheriff, a county to the same extent as a municipal police department pursuant to
+22 Chapter 160A of the General Statutes.
+23 …
+24 (f1) Hospital Police CJLEADS Access. – Unless contrary to any federal law, regulation,
+25 or requirement, a hospital police agency certified pursuant to this Chapter shall be granted access
+26 to the Criminal Justice Law Enforcement Automated Data System (CJLEADS) upon (i) request
+27 of the agency and (ii) compliance with the requirements established by the Government Data
+28 Analytics Center (GDAC) for access to that system, including the execution of a license and
+29 usage agreement.
+30 (f2) Hospital Police DCIN Access. – Pursuant to all laws, rules, and regulations not
+31 inconsistent with this subsection, hospital police agencies shall be granted access to and deemed
+32 participating agencies of the Division of Criminal Information Network (DCIN) created under
+33 G.S. 143B-905 in a manner equivalent, at a minimum, to campus police certified by the Attorney
+34 General pursuant to Chapter 74G of the General Statutes.
+35 …."
+36 SECTION 2. G.S. 115D-5(b) reads as rewritten:
+*H851-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 "(b) In order to make instruction as accessible as possible to all citizens, the teaching of
+2 curricular courses and of noncurricular extension courses at convenient locations away from
+3 institution campuses as well as on campuses is authorized and shall be encouraged. A pro rata
+4 portion of the established regular tuition rate charged a full-time student shall be charged a
+5 part-time student taking any curriculum course. In lieu of any tuition charge, the State Board of
+6 Community Colleges shall establish a uniform registration fee, or a schedule of uniform
+7 registration fees, to be charged students enrolling in extension courses for which instruction is
+8 financed primarily from State funds. The State Board of Community Colleges may provide by
+9 general and uniform regulations for waiver of tuition and registration fees for the following:
+10 …
+11 (2) Courses requested by the following entities that support the organizations'
+12 training needs and are on a specialized course list approved by the State Board
+13 of Community Colleges:
+14 …
+15 f. Municipal, county, or State law enforcement agencies.
+16 f1. Campus police agencies of private institutions of higher education
+17 certified by the Attorney General pursuant to Chapter 74G of the
+18 General Statutes.
+19 f2. Hospital police agencies certified by the Attorney General pursuant to
+20 Chapter 74E of the General Statutes.
+21 …."
+22 SECTION 3. Notwithstanding any provision of law to the contrary, there shall be no
+23 impediment to the use of the Voice Interoperability Plan for Emergency Responders (VIPER)
+24 system by hospital police agencies certified by the Attorney General pursuant to Chapter 74E of
+25 the General Statutes, so long as those agencies choose to acquire the necessary equipment and
+26 utilize the VIPER system.
+27 SECTION 4. This act is effective when it becomes law.
+Page 2 House Bill 851-Second Edition
+
+[DELETED:  2 H (   A A C P O A T P C A A I T S " " … " … ( C a … ( H b … ( H ( i t C … ( H o t o A u ( H P D A – P t a l r a r n i p G G … S]
+[DELETED:  S  H " I c i p p C C s e a u r f o a s o u r f g … ( C t o … f M f C p a o p i o h e c b t A G p t C 7 o t G f H C … S i s t u S]

@@ -1,0 +1,1325 @@
+Title: HOUSE BILL 237
+Official Title: HOUSE BILL 237
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 3/18/25
+Short Title: Child Welfare. (Public)
+Sponsors:
+Referred to:
+February 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS AFFECTING JUVENILES AND
+3 ASSOCIATED SERVICES, COUNTY SOCIAL SERVICES BOARDS AND
+4 DEPARTMENTS, REGIONAL SOCIAL SERVICES BOARDS AND DEPARTMENTS,
+5 CONSOLIDATED HUMAN SERVICES BOARDS AND AGENCIES, AND THE NORTH
+6 CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. CHILD WELFARE LAW REFORMS
+10 SECTION 1.(a) G.S. 7B-100 reads as rewritten:
+11 "§ 7B-100. Purpose.
+12 This Subchapter shall be interpreted and construed so as to implement the following purposes
+13 and policies:
+14 …
+15 (5) To provide standards, consistent with the Adoption and Safe Families Act of
+16 1997, P.L. 105-89, for ensuring that the best interests of the juvenile are of
+17 paramount consideration by the court and that when it is not in the juvenile's
+18 best interest to be returned home, the juvenile will be placed in a safe,
+19 permanent home within a reasonable amount of time.one year from the date
+20 of the initial order removing custody."
+21 SECTION 1.(b) G.S. 7B-101 reads as rewritten:
+22 "§ 7B-101. Definitions.
+23 As used in this Subchapter, unless the context clearly requires otherwise, the following words
+24 have the listed meanings:
+25 (1) Abused juveniles. – Any juvenile less than 18 years of age (i) who is found to
+26 be a minor victim of human trafficking under G.S. 14-43.15 or unlawful sale,
+27 surrender, or purchase of a minor under G.S. 14-43.14 or (ii) whose parent,
+28 guardian, custodian, or caretaker:
+29 …
+30 d. Commits, permits, or encourages the commission of a violation of the
+31 following laws by, with, or upon the juvenile: first-degree forcible
+32 rape, as provided in G.S. 14-27.21; second-degree forcible rape as
+33 provided in G.S. 14-27.22; statutory rape of a child by an adult as
+34 provided in G.S. 14-27.23; first-degree statutory rape as provided in
+35 G.S. 14-27.24; first-degree forcible sex offense as provided in
+36 G.S. 14-27.26; second-degree forcible sex offense as provided in
+*H237-v-2*
+General Assembly Of North Carolina Session 2025
+1 G.S. 14-27.27; statutory sexual offense with a child by an adult as
+2 provided in G.S. 14-27.28; first-degree statutory sexual offense as
+3 provided in G.S. 14-27.29; sexual activity by a substitute parent or
+4 custodian as provided in G.S. 14-27.31; sexual activity with a student
+5 as provided in G.S. 14-27.32; unlawful sale, surrender, or purchase of
+6 a minor, as provided in G.S. 14-43.14; a sexually violent offense, as
+7 provided in G.S. 14-208.6(5); crime against nature, as provided in
+8 G.S. 14-177; incest, as provided in G.S. 14-178; preparation of
+9 obscene photographs, slides, or motion pictures of the juvenile, as
+10 provided in G.S. 14-190.5; employing or permitting the juvenile to
+11 assist in a violation of the obscenity laws as provided in G.S. 14-190.6;
+12 dissemination of obscene material to the juvenile as provided in
+13 G.S. 14-190.7 and G.S. 14-190.8; and displaying or disseminating
+14 material harmful to the juvenile as provided in G.S. 14-190.14 and
+15 G.S. 14-190.15; first and second degree sexual exploitation of the
+16 juvenile as provided in G.S. 14-190.16 and G.S. 14-190.17; promoting
+17 the prostitution of the juvenile as provided in G.S. 14-205.3(b); and
+18 taking indecent liberties with the juvenile, as provided in
+19 G.S. 14-202.1;G.S. 14-190.15.
+20 …
+21 (15) Neglected juvenile. – Any juvenile less than 18 years of age (i) who is found
+22 to be a minor victim of human trafficking under G.S. 14-43.15 or (ii) whose
+23 parent, guardian, custodian, or caretaker does any of the following:
+24 …
+25 h. Uses an illegal substance, abuses alcohol, or uses a controlled
+26 substance in violation of the law and is unable to care for and provide
+27 a safe and appropriate home for the juvenile.
+28 i. Uses an illegal substance, abuses alcohol, or uses a controlled
+29 substance in violation of the law while a child is in utero.
+30 In determining whether a juvenile is a neglected juvenile, it is relevant whether
+31 that juvenile lives in a home where another juvenile has died as a result of
+32 suspected abuse or neglect or lives in a home where another juvenile has been
+33 subjected to abuse or neglect by an adult who regularly lives in the home.
+34 …."
+35 SECTION 1.(c) G.S. 7B-503(a) reads as rewritten:
+36 "(a) When a request is made for nonsecure custody, the court shall first consider release
+37 of the juvenile to the juvenile's parent, relative, guardian, custodian, or other responsible adult.
+38 An order for nonsecure custody shall be made only when there is a reasonable factual basis to
+39 believe the matters alleged in the petition are true, and any of the following apply:
+40 …
+41 (7) The juvenile is an infant who was born exposed to alcohol, illegal substances,
+42 or controlled substances used in violation of the law. If the parent is enrolled
+43 in and meeting or exceeding the benchmarks of a substance abuse treatment
+44 program recommended by a medical provider or a local management
+45 entity/managed care organization (LME/MCO), then any use of alcohol,
+46 illegal substances, or controlled substances in violation of the law shall not be
+47 the sole ground for ordering nonsecure custody.
+48 A juvenile alleged to be abused, neglected, or dependent shall be placed in nonsecure custody
+49 only when there is a reasonable factual basis to believe that there are no other reasonable means
+50 available to protect the juvenile. The developmental and attachment needs of the juvenile must
+Page 2 House Bill 237-Second Edition
+General Assembly Of North Carolina Session 2025
+1 be considered in making nonsecure custody determinations. In no case shall a juvenile alleged to
+2 be abused, neglected, or dependent be placed in secure custody."
+3 SECTION 1.(d) G.S. 7B-505(b) reads as rewritten:
+4 "(b) The court shall order the department of social services to make diligent efforts to
+5 notify relatives and other persons with legal custody of a sibling of the juvenile that the juvenile
+6 is in nonsecure custody and of any hearings scheduled to occur pursuant to G.S. 7B-506, unless
+7 the court finds the notification would be contrary to the best interests of the juvenile. The
+8 department of social services shall use due diligence to identify and notify adult relatives
+9 relatives, next of kin, and other persons with legal custody of a sibling of the juvenile within 30
+10 days after the initial order removing custody. The department shall file with the court information
+11 regarding attempts made to identify and notify adult relatives of the juvenile and persons with
+12 legal custody of a sibling of the juvenile. In placing a juvenile in nonsecure custody under this
+13 section, the court shall first consider whether a relative of the juvenile is willing and able to
+14 provide proper care and supervision of the juvenile in a safe home. If the court finds that the
+15 relative is willing and able to provide proper care and supervision in a safe home, then the court
+16 shall order placement of the juvenile with the relative unless the court finds that placement with
+17 the relative would be contrary to the best interests of the juvenile. The developmental and
+18 attachment needs of the child shall be considered by the court when determining whether
+19 placement with the relative would be contrary to the best interest of the juvenile."
+20 SECTION 1.(e) G.S. 7B-901(c) reads as rewritten:
+21 "(c) If the disposition order places a juvenile in the custody of a county department of
+22 social services, the court shall direct that reasonable efforts for reunification as defined in
+23 G.S. 7B-101 shall not be required if the court makes written findings of fact pertaining to any of
+24 the following, unless the court concludes that there is compelling evidence warranting continued
+25 reunification efforts:
+26 (1) A court of competent jurisdiction determines or has determined that
+27 aggravated circumstances exist because the parent has committed or
+28 encouraged the commission of, or allowed the continuation of, any of the
+29 following upon the juvenile:
+30 …
+31 e. Chronic or toxic exposure to alcohol or controlled substances that
+32 causes impairment of or addiction in the juvenile.juvenile, including
+33 in utero exposure to alcohol, illegal substances, or controlled
+34 substances used in violation of the law. The court shall consider
+35 whether a parent is enrolled in and meeting or exceeding the
+36 benchmarks of a substance abuse treatment program recommended by
+37 a medical provider or a local management entity/managed care
+38 organization (LME/MCO).
+39 …."
+40 SECTION 1.(f) G.S. 7B-903 reads as rewritten:
+41 "§ 7B-903. Dispositional alternatives for abused, neglected, or dependent juvenile.
+42 …
+43 (a1) In placing a juvenile in out-of-home care under this section, the court shall first
+44 consider whether a relative of the juvenile is willing and able to provide proper care and
+45 supervision of the juvenile in a safe home. If the court finds that the relative is willing and able
+46 to provide proper care and supervision in a safe home, then the court shall order placement of the
+47 juvenile with the relative unless the court finds that the placement is contrary to the best interests
+48 of the juvenile. The developmental and attachment needs of the child shall be considered by the
+49 court when determining whether placement with the relative would be contrary to the best interest
+50 of the juvenile. In placing a juvenile in out-of-home care under this section, the court shall also
+51 consider whether it is in the juvenile's best interest to remain in the juvenile's community of
+House Bill 237-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 residence. Placement of a juvenile with a relative outside of this State must be in accordance with
+2 the Interstate Compact on the Placement of Children.
+3 …
+4 (a5) Once a juvenile who is not a member of a State-recognized tribe as set forth in
+5 G.S. 143B-407(a) has resided in the home of a foster parent for a continuous period of at least
+6 nine months, the foster parent is deemed to be nonrelative kin for purposes of this section.
+7 …."
+8 SECTION 1.(g) G.S. 7B-903.1(c) reads as rewritten:
+9 "(c) If a juvenile is removed from the home and placed in the custody or placement
+10 responsibility of a county department of social services, the director shall not allow unsupervised
+11 visitation with or return physical custody of the juvenile to the parent, guardian, custodian, or
+12 caretaker without a hearing at which the court finds that the juvenile will receive proper care and
+13 supervision in a safe home. Before a county department of social services may recommend
+14 unsupervised visits or return of physical custody of the juvenile juvenile, whichever occurs first,
+15 to the parent, guardian, custodian, or caretaker from whom the juvenile was removed, a county
+16 department of social services shall first observe that parent, guardian, custodian, or caretaker with
+17 the juvenile for at least two visits that support the recommendation. Each observation visit shall
+18 consist of an observation of not less than one hour with the juvenile, shall be conducted at least
+19 seven days apart, and shall occur within 30 days of the hearing at which the department of social
+20 services makes the recommendation. A department of social services shall provide
+21 documentation of any observation visits that it conducts to the court for its consideration as to
+22 whether unsupervised visits or physical custody custody, whichever occurs first, should be
+23 granted to the parent, guardian, custodian, or caretaker from whom the juvenile was removed."
+24 SECTION 1.(h) G.S. 7B-906.1 reads as rewritten:
+25 "§ 7B-906.1. Review and permanency planning hearings.
+26 (a) The court shall conduct a review or permanency planning hearing within 90 days from
+27 the date of the initial dispositional hearing held pursuant to G.S. 7B-901. Review or permanency
+28 planning hearings shall be held at least every six months thereafter. If custody has not been
+29 removed from a parent, guardian, caretaker, or custodian, the hearing shall be designated as a
+30 review hearing. If custody has been removed from a parent, guardian, or custodian, or the juvenile
+31 was residing with a caretaker at the time the petition was filed, the hearing shall be designated as
+32 a permanency planning hearing.
+33 …
+34 (d) At each hearing, the court shall consider the following criteria and make written
+35 findings regarding those that are relevant:
+36 …
+37 (1a) Reports on the juvenile's continuation in the home of the parent, guardian, or
+38 custodian; and the appropriateness of the juvenile's continuation in that home.
+39 If the juvenile is removed from the custody of a parent, guardian, or custodian
+40 at a review hearing, the court shall schedule a permanency planning hearing
+41 within 30 days of the review, unless the hearing was noticed and heard as a
+42 permanency planning hearing.review.
+43 …
+44 (3) Whether efforts to reunite the juvenile with either parent clearly would be
+45 unsuccessful or inconsistent with the juvenile's health or safety and need for a
+46 safe, permanent home within a reasonable period of time. one year from the
+47 date the initial order removing custody was entered, including whether a
+48 parent has engaged in any of the factors described under G.S. 7B-901(c). The
+49 court shall consider efforts to reunite regardless of whether the juvenile
+50 resided with the parent, guardian, or custodian at the time of removal.
+51 …
+Page 4 House Bill 237-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (i) The At any permanency planning hearing, the court may maintain the juvenile's
+2 placement under review or order a different placement, appoint a guardian of the person for the
+3 juvenile pursuant to G.S. 7B-600, or order any disposition authorized by G.S. 7B-903, including
+4 the authority to place the child in the custody of either parent or any relative found by the court
+5 to be suitable and found by the court to be in the best interests of the juvenile.
+6 …
+7 (l) If the court orders or continues the juvenile's placement in the custody or placement
+8 responsibility of a county department of social services, the provisions of G.S. 7B-903.1 shall
+9 apply to any order entered under this section.
+10 …
+11 (n) Notwithstanding other provisions of this Article, the court may waive the holding of
+12 permanency planning hearings required by this section, may require written reports to the court
+13 by the agency or person holding custody in lieu of permanency planning hearings, or order that
+14 permanency planning hearings be held less often than every six months if the court finds by clear,
+15 cogent, clear and convincing evidence each of the following:
+16 (1) The juvenile has resided in the placement for a period of at least one year or
+17 the juvenile has resided in the placement for at least six consecutive months
+18 the parties are in agreement and the court enters a consent order pursuant to
+19 G.S. 7B-801(b1).
+20 (2) The placement is stable, and continuation of the placement is in the juvenile's
+21 best interests.
+22 (3) Neither the juvenile's best interests nor the rights of any party require that
+23 permanency planning hearings be held every six months.
+24 (4) All parties are aware that the matter may be brought before the court for
+25 review at any time by the filing of a permanency planning or modification
+26 motion for review or on the court's own motion.
+27 (5) The court order has designated the relative or other suitable person as the
+28 juvenile's permanent custodian or guardian of the person.
+29 The court may not waive or refuse to conduct a hearing if a party files a motion seeking the
+30 hearing. However, if a guardian of the person has been appointed for the juvenile and the court
+31 has also made findings in accordance with subsection (n) of this section that guardianship is the
+32 permanent plan for the juvenile, the court shall proceed in accordance with apply the criteria of
+33 G.S. 7B-600(b).
+34 …."
+35 SECTION 1.(i) G.S. 7B-1103(a) reads as rewritten:
+36 "(a) A petition or motion to terminate the parental rights of either or both parents to his,
+37 her, or their minor juvenile may only be filed by one or more of the following:
+38 …
+39 (5) Any person with whom the juvenile has resided for a continuous period of 18
+40 15 months or more next preceding the filing of the petition or motion.
+41 …."
+42 SECTION 1.(j) G.S. 7B-1109(f) reads as rewritten:
+43 "(f) The burden in such proceedings shall be upon the petitioner or movant and all findings
+44 of fact shall be based on clear, cogent, clear and convincing evidence. The rules of evidence in
+45 civil cases shall apply. No husband-wife or physician-patient privilege shall be grounds for
+46 excluding any evidence regarding the existence or nonexistence of any circumstance authorizing
+47 the termination of parental rights."
+48 SECTION 1.(k) G.S. 7B-1111(a) reads as rewritten:
+49 "(a) The court may terminate the parental rights upon a finding of one or more of the
+50 following:
+51 …
+House Bill 237-Second Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (2) The parent has willfully left the juvenile in foster care or placement outside
+2 the home for more than 12 nine months without showing to the satisfaction of
+3 the court that reasonable progress under the circumstances has been made in
+4 correcting those conditions which led to the removal of the juvenile. No
+5 parental rights, however, shall be terminated for the sole reason that the
+6 parents are unable to care for the juvenile on account of their poverty.
+7 …."
+8 SECTION 1.(l) This section becomes effective October 1, 2025, and applies to
+9 petitions or motions to terminate parental rights filed on or after that date.
+10
+11 PART II. REGIONAL ABUSE AND MEDICAL SPECIALIST PROGRAM
+12 SECTION 2.(a) The Regional Abuse and Medical Specialist (RAMS) program
+13 staffed within the North Carolina Child Medical Evaluation Program (NC CMEP) through one
+14 or more contracts or memorandums of understanding between the Department of Health and
+15 Human Services and the Pediatric Department of the UNC School of Medicine is immediately
+16 stayed pending compliance with the following:
+17 (1) Establishment of rules for the program in compliance with Chapter 150A of
+18 the General Statutes.
+19 (2) Amendment of and federal approval of any State plan, which is required to
+20 comply with federal laws and regulations and maintain federal funding.
+21 (3) Federal approval of rules for the RAMS program, which is required to comply
+22 with federal laws and regulations and maintain federal funding.
+23 If necessary, any contracts or memorandums of understanding between the
+24 Department of Health and Human Services and the UNC School of Medicine regarding the
+25 RAMS program shall be modified to comply with the provisions of this section.
+26 SECTION 2.(b) The Social Services Commission shall adopt temporary and
+27 permanent rules to implement the RAMS program which shall include:
+28 (1) Limiting the RAMS team's focus to screened in cases meeting one or more of
+29 the following criteria:
+30 a. The child is less than 4 years of age and presents with unexplained or
+31 poorly explained injuries. Injuries would not be considered poorly
+32 explained or unexplained in cases where the discipline or action by the
+33 caretaker explains the child's injury and the reporting medical provider
+34 states that the mechanism of the injury is plausible for having caused
+35 the injury.
+36 b. The child is less than 4 years of age and there is a concern for a
+37 sexually transmitted infection.
+38 c. The child is less than 4 years of age and another child who lives in the
+39 home died as a result of suspected abuse or neglect.
+40 d. There is concern for medical child abuse (Munchausen by Proxy) to a
+41 child of any age.
+42 e. The child, regardless of age, has a medically complex issue and one or
+43 more of the following is present:
+44 1. The child requires subspecialty care by two or more specialists.
+45 2. A second report of medical neglect is received within six
+46 months regardless of the prior case outcome.
+47 3. The child requires devices to sustain their function such as a
+48 tracheostomy or g-tube.
+49 f. The child is a substance-affected infant.
+50 (2) Requiring the RAMS team to be contacted if the following criteria are met:
+Page 6 House Bill 237-Second Edition
+General Assembly Of North Carolina Session 2025
+1 a. The report of abuse or neglect is screened in for a family or
+2 investigative assessment by the local county child welfare agency.
+3 b. One or more of the criteria of subdivision (1) of this subsection are
+4 present.
+5 (3) Requiring the RAMS team to cease involvement upon a determination that the
+6 child does not meet the criteria of subdivision (2) of this subsection or upon
+7 the final case decision resulting from the family or investigative assessment,
+8 whichever shall occur first.
+9 (4) Requiring the county director of social services to decide issues where a
+10 disagreement between the local social services worker and the RAMS team
+11 arises, including:
+12 a. Whether the child meets the criteria of subdivision (2) of this
+13 subsection.
+14 b. The course of action to be taken during the family or investigative
+15 assessment.
+16 c. The ultimate decision arising from the family or investigative
+17 assessment.
+18 The county director of social services shall make this determination based on
+19 information contained in the case file provided by the RAMS team, provided
+20 by the county social worker, and, if applicable, provided by the Regional Child
+21 Welfare Consultant. The county director shall make the determination as soon
+22 as possible after notification of the disagreement but no later than 24 hours
+23 after the disagreement arises.
+24 (5) Requiring the social worker assigned to the case to notify the county director
+25 as soon as possible after a disagreement arises between the social worker and
+26 the RAMS team member but no later than four hours after the disagreement
+27 arises.
+28 (6) Requiring the social worker to notify the family to be notified as soon as
+29 possible of any decision impacting the family when the RAMS program is
+30 involved in the family's case but no later than 24 hours after the decision is
+31 made.
+32 (7) Limiting the RAMS program's role to supporting, guiding, and mentoring
+33 county supervisors during the family or investigative assessment phase only.
+34 The county supervisor may include the social worker in meetings with the
+35 RAMS personnel. The recommendations and suggestions made by the RAMS
+36 team are contributions to the county's family or investigative assessment and
+37 are not a complete guide of the assessment. The county must follow the policy
+38 outlined in the Child Protective Services Family and Investigative
+39 Assessments section of the NC Child Welfare policy manual. The county
+40 director is ultimately responsible for the safety and well-being of children in
+41 their county and is tasked with determining whether protective services should
+42 be put in place or a petition filed after making a prompt and thorough
+43 assessment to determine the extent of abuse or neglect against the child and
+44 the risk of future harm to the child.
+45 (8) Establishing the frequency in which the RAMS team member and the county
+46 social worker supervisor must meet during the family or investigative
+47 assessment period.
+48 (9) Establishing the documentation or information which must be provided to the
+49 RAMS team during the family or investigative assessment period.
+50 (10) Allowing the parent, guardian, or caretaker of the child who is subject to the
+51 report of alleged abuse or neglect or their attorney to access all documentation
+House Bill 237-Second Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 provided to or generated by the RAMS team during and after the RAMS
+2 team's involvement in the matter.
+3 SECTION 2.(c) No later than 30 days after the rulemaking process is complete, the
+4 Secretary of the North Carolina Department of Health and Human Services or the Secretary's
+5 designee shall submit to the United States Secretary of Health and Human Services or the U.S.
+6 Secretary's designee for approval of the following:
+7 (1) A draft of the proposed new rules outlined in subsection (b) of this section.
+8 (2) Any proposed changes to the State plan necessitated by the proposed rules to
+9 ensure there is no reduction or elimination of federal funding from any source.
+10 SECTION 2.(d) The Social Services Commission shall initiate temporary and
+11 permanent rulemaking within 30 days of this act becoming effective.
+12 SECTION 2.(e) If the United States Secretary of Health and Human Services or the
+13 U.S. Secretary's designee determines that any proposed rule, statute, or plan amendment
+14 submitted under subsection (c) of this section would negatively impact federal funding provided
+15 to North Carolina, then the proposed rules, statutes, and plan amendments submitted shall not
+16 become effective. The North Carolina Secretary of Health and Human Services or the Secretary's
+17 designee shall notify the Social Services Commission and Rules Review Commission of the
+18 United States Department of Health and Human Services' determination regarding the proposed
+19 rules, statutes, and plan amendments submitted under subsection (c) of this section within five
+20 days of receipt.
+21 SECTION 2.(f) The Division shall report to the Joint Legislative Oversight
+22 Committee on Health and Human Services, the chairs of the House Appropriations Committee
+23 on Health and Human Services, the chairs of the Senate Appropriations Committee on Health
+24 and Human Services, and the Joint Legislative Administrative Procedures Oversight Committee
+25 by September 1, 2025, and each year thereafter, on the hiring, training, and oversight of the
+26 RAMS program and, if applicable, the progress being made regarding the rulemaking process as
+27 provided for in this section. A copy of all reports and plans submitted to the federal government
+28 which includes information regarding the RAMS program shall be simultaneously provided to
+29 the Joint Legislative Oversight Committee on Health and Human Services, the chairs of the
+30 House Appropriations Committee on Health and Human Services, the chairs of the Senate
+31 Appropriations Committee on Health and Human Services, and the Joint Legislative
+32 Administrative Procedures Oversight Committee.
+33 SECTION 2.(g) This section is effective when it becomes law. If approval by the
+34 United States Secretary of Health and Human Services is not required for any State plan
+35 amendments or for the proposed rules, the proposed rules shall become effective as provided for
+36 in G.S. 150B-21.3. If approval by the United States Secretary of Health and Human Services is
+37 required for the proposed rules created pursuant to subsection (a) of this section, or if any
+38 amendments to the State plan are necessary because of the proposed rules, the proposed rules
+39 shall be effective on the first day of the month that follows the date that the Secretary of the North
+40 Carolina Department of Health and Human Services receives notification of approval by the
+41 United States Secretary of Health and Human Services and as provided for in G.S. 150B-21.3.
+42 The Secretary of the North Carolina Department of Health and Human Services shall report to
+43 the Revisor of Statutes the applicable effective date once known.
+44
+45 PART III. PRIVATE CAUSE OF ACTION
+46 SECTION 3.(a) Part 1 of Article 3 of Chapter 143B of the General Statutes is
+47 amended by adding a new section to read:
+48 "§ 143B-138.1A. Private cause of action.
+49 If the Secretary of the Department or the Secretary's designee takes any action or causes any
+50 action to be taken against an individual through a program created, administered, supervised, or
+51 funded by the Department that is operating without going through the required rulemaking
+Page 8 House Bill 237-Second Edition
+General Assembly Of North Carolina Session 2025
+1 process and the individual experiences a loss or harm, including court costs, attorneys' fees, and
+2 other litigation costs, that individual shall have a private cause of action against the Department.
+3 The individual must prevail on any claim to be eligible for an award of court costs, attorneys'
+4 fees, and other litigation costs."
+5 SECTION 3.(b) This section becomes effective October 1, 2025, and is applicable
+6 to actions taken by the Department on or after that date.
+7
+8 PART IV. EDUCATION AND TRAINING REQUIREMENTS FOR COUNTY SOCIAL
+9 SERVICES BOARD MEMBERS, REGIONAL SOCIAL SERVICES BOARD
+10 MEMBERS, CONSOLIDATED HUMAN SERVICES BOARD MEMBERS, AND
+11 COUNTY COMMISSIONERS
+12 SECTION 4.(a) G.S. 108A-9 reads as rewritten:
+13 "§ 108A-9. Duties and responsibilities.
+14 The county board of social services shall have the following duties and responsibilities:
+15 (1) To select the county director of social services according to the merit system
+16 rules of the North Carolina Human Resources Commission;Commission.
+17 (2) To advise county and municipal authorities in developing policies and plans
+18 to improve the social conditions of the community;community.
+19 (3) To consult with the director of social services about problems relating to his
+20 office, and to assist him in planning budgets for the county department of
+21 social services;services.
+22 (4) To transmit or present the budgets of the county department of social services
+23 for public assistance, social services, and administration to the board of county
+24 commissioners;commissioners.
+25 (4a) To attend education and training sessions provided for new board members
+26 during the first year they serve on the board.
+27 (5) To have such other duties and responsibilities as the General Assembly, the
+28 Department of Health and Human Services or the Social Services Commission
+29 or the board of county commissioners may assign to it."
+30 SECTION 4.(b) G.S. 108A-15.8 reads as rewritten:
+31 "§ 108A-15.8. Regional board of social services.
+32 …
+33 (m) All regional boards of social services members shall attend education and training
+34 sessions provided for new board members during the first year they serve on the board."
+35 SECTION 4.(c) The Department of Health and Human Services, Division of Social
+36 Services, shall collaborate with key stakeholders, including the North Carolina Association of
+37 County Boards of Social Services, the Association of North Carolina County Social Services
+38 Directors, the North Carolina Association of County Commissioners, and the University of North
+39 Carolina School of Government, to create formal education and training sessions for new county
+40 board of social services members in accordance with G.S. 108A-9(4a), as enacted in subsection
+41 (a) of this section, and G.S. 108A-15.8(m), as enacted in subsection (b) of this section. The
+42 education and training sessions shall include a segment on the potential liabilities of the county
+43 or regional board of social services. The education and training sessions shall be available
+44 statewide by March 1, 2026.
+45 SECTION 4.(d) G.S. 153A-77(d) reads as rewritten:
+46 "§ 153A-77. Authority of boards of commissioners over commissions, boards, agencies, etc.
+47 …
+48 (d) The consolidated human services board shall have authority to:
+49 (1) Set fees for departmental services based upon recommendations of the human
+50 services director. Fees set under this subdivision are subject to the same
+51 restrictions on amount and scope that would apply if the fees were set by a
+House Bill 237-Second Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 county board of health, a county board of social services, or a mental health,
+2 developmental disabilities, and substance abuse area authority.
+3 (2) Assure compliance with laws related to State and federal programs.
+4 (3) Recommend creation of local human services programs.
+5 (4) Adopt local health regulations and participate in enforcement appeals of local
+6 regulations.
+7 (5) Perform regulatory health functions required by State law.
+8 (6) Act as coordinator or agent of the State to the extent required by State or
+9 federal law.
+10 (7) Plan and recommend a consolidated human services budget.
+11 (8) Conduct audits and reviews of human services programs, including quality
+12 assurance activities, as required by State and federal law or as may otherwise
+13 be necessary periodically.
+14 (9) Advise local officials through the county manager.
+15 (10) Perform public relations and advocacy functions.
+16 (11) Protect the public health to the extent required by law.
+17 (12) Perform comprehensive mental health services planning if the county is
+18 exercising the powers and duties of an area mental health, developmental
+19 disabilities, and substance abuse services board under the consolidated human
+20 services board.
+21 (13) Develop dispute resolution procedures for human services contractors and
+22 clients and public advocates, subject to applicable State and federal dispute
+23 resolution procedures for human services programs, when applicable.
+24 Except as otherwise provided, the consolidated human services board shall have the powers
+25 and duties conferred by law upon a board of health, a social services board, and an area mental
+26 health, developmental disabilities, and substance abuse services board.
+27 All consolidated human services board members shall attend education and training sessions
+28 provided for new board members during the first year they serve on the board.
+29 Local employees who serve as staff of a consolidated county human services agency are
+30 subject to county personnel policies and ordinances only and are not subject to the provisions of
+31 the North Carolina Human Resources Act, unless the county board of commissioners elects to
+32 subject the local employees to the provisions of that Act. All consolidated county human services
+33 agencies shall comply with all applicable federal laws, rules, and regulations requiring the
+34 establishment of merit personnel systems."
+35 SECTION 4.(e) The Divisions of Social Services, Public Health, and Mental Health,
+36 Developmental Disabilities, and Substance Use Services of the Department of Health and Human
+37 Services shall collaborate with key stakeholders, including the North Carolina Association of
+38 County Boards of Social Services, the Association of North Carolina County Social Services
+39 Directors, the North Carolina Association of County Commissioners, the Association of North
+40 Carolina Boards of Health, the Commission for Mental Health, Developmental Disabilities, and
+41 Substance Abuse Services, and the University of North Carolina School of Government, to create
+42 formal education and training sessions for new consolidated human services board members in
+43 accordance with G.S. 153A-77(d), as amended in subsection (d) of this section. The education
+44 and training sessions shall include a segment on the potential liabilities of the consolidated human
+45 services board. The education and training sessions shall be available statewide by March 1,
+46 2026.
+47 SECTION 4.(f) Subsections (a), (b), and (d) of this section become effective March
+48 1, 2026, and by March 1, 2027, all current county board of social services members must have
+49 participated in the education and training sessions provided in G.S. 108A-9(4a), as enacted by
+50 this act, all current regional board of social services members must have participated in the
+51 education and training sessions provided in G.S. 108A-15.8(m), as enacted by this act, and all
+Page 10 House Bill 237-Second Edition
+General Assembly Of North Carolina Session 2025
+1 current consolidated human services board members must have participated in the education and
+2 training sessions provided in G.S. 153A-77(d), as amended by this act. The remainder of this
+3 section is effective when it becomes law.
+4
+5 PART V. CHILD SUPPORT TRIBUNAL STUDY BY THE ADMINISTRATIVE OFFICE
+6 OF THE COURTS
+7 SECTION 5. The Administrative Office of the Courts shall conduct a feasibility and
+8 cost study of a proposed child support tribunal, with dedicated court officers to hear child support
+9 matters, using quasi-judicial procedures. The study shall include, at a minimum, strategies to
+10 address funding, staffing, and a plan for how the proposed changes will be implemented. The
+11 Administrative Office of the Courts shall submit a report of its findings and recommendations to
+12 the Joint Legislative Oversight Committee on Health and Human Services by May 1, 2026.
+13
+14 PART VI. CONFLICTS OF INTEREST WITHIN COUNTY DEPARTMENTS OF
+15 SOCIAL SERVICES
+16 SECTION 6.(a) Part 2B of Article 1 of Chapter 108A of the General Statutes is
+17 amended by adding a new section to read:
+18 "§ 108A-15.16. Conflicts of interest.
+19 When conflicts of interest arise in the provision of social services provided by county
+20 departments of social services, regional departments of social services, or consolidated human
+21 services agencies, the office in which the conflict arose shall work expeditiously to resolve the
+22 conflict consistent with applicable law and any policies and procedures established by the
+23 Department of Health and Human Services. Policies and procedures shall address financial and
+24 practice responsibilities associated with conflicts of interest. Upon identifying a conflict of
+25 interest, the office in which the conflict arose shall notify the appropriate authority within the
+26 Department of Health and Human Services of the conflict. The Department of Health and Human
+27 Services shall have authority to make final decisions regarding conflicts of interest assignments
+28 when disputes arise, with the regional office having initial authority when a dispute arises
+29 between county departments of social services and consolidated human services agencies, unless
+30 no regional office is available, then the central office, and the central office having initial
+31 authority when disputes arise between regions. For purposes of this section, a "conflict of
+32 interest" occurs when at least one of the following occurs:
+33 (1) A county department of social services, regional department of social services,
+34 or consolidated human services agency is not able to manage the adverse
+35 interests of two individuals to whom the office owes a duty to serve.
+36 (2) A preexisting relationship between an individual and a county that results in
+37 a county department of social services', regional department of social
+38 services', or consolidated human services agency's inability to objectively
+39 fulfill its statutory responsibilities.
+40 (3) The provision of social services and duty owed by a county department of
+41 social services, regional department of social services, or consolidated human
+42 services agency conflicts with services and the duty owed by another county
+43 department of social services, regional department of social services, or
+44 consolidated human services agency."
+45 SECTION 6.(b) The Social Services Commission shall adopt rules regarding
+46 conflicts of interest management, including establishing reasonable and specific time lines for
+47 resolving conflicts of interest, and shall begin the rulemaking process within 30 days of this
+48 section becoming law.
+49 SECTION 6.(c) The Social Services Commission shall report to the Joint Legislative
+50 Oversight Committee on Health and Human Services upon adopting rules pursuant to
+House Bill 237-Second Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 G.S. 108A-15.16, as enacted in subsection (b) of this section, within 30 days of the adoption of
+2 the rules.
+3
+4 PART VII. INTERIM STUDY COMMITTEE TO REVIEW CHILD WELFARE
+5 PROGRAMS, POLICIES, AND PROCEDURES AND REVIEW NORTH CAROLINA
+6 DEPARTMENT OF HEALTH AND HUMAN SERVICES' COMPLIANCE WITH
+7 RULEMAKING REQUIREMENTS
+8 SECTION 7.(a) The Joint Legislative Oversight Committee (Committee) on Health
+9 and Human Services shall do all of the following:
+10 (1) Study, evaluate, and make recommendations on the following:
+11 a. Creating a Foster Ombudsman program, including review of House
+12 Bill 665 from the 2023-2024 biennium and House Bill 165 from the
+13 current biennium, review of Foster Ombudsman programs and their
+14 effectiveness in other states, including Maryland and Texas, and the
+15 cost of implementing a Foster Ombudsman program in North
+16 Carolina.
+17 b. Working with churches and nonprofit/private organizations to provide
+18 services and close gaps in services and needs of foster children, foster
+19 families, kinship care providers, and to aid in keeping families
+20 together, including Least of These, Safe Families for Children, and
+21 Adoption-Share.
+22 c. Requiring the North Carolina Department of Health and Human
+23 Services (DHHS) to review all outstanding policies and guidance that
+24 did not go through the proper rulemaking process and requiring DHHS
+25 to do so.
+26 d. Requiring foster parent and kinship care providers' participation in
+27 court proceedings.
+28 (2) Work with DHHS and county department of social services boards to create
+29 more uniform standards regarding child welfare matters and make
+30 recommendations based on this work.
+31 (3) Follow up with DHHS for updated information on the work being done by the
+32 Child Welfare and Family Well-Being Transformation Team since its May
+33 2022 interim report and make recommendations based on the information
+34 provided.
+35 (4) Follow up with DHHS regarding status of regional offices required under
+36 Ryan's Law (S.L. 2017-41) including services provided, and
+37 recommendations for statewide, uniform standards in handling child welfare
+38 matters and areas for improving the delivery of child welfare services and
+39 make recommendations based on the information provided.
+40 (5) Work with the Chief Justice of the Supreme Court and his team regarding
+41 improvements to child welfare/foster/adoption cases, obtain any updates by
+42 Chief Justice Newby's Task Force of Adverse Childhood Experience (ACE)
+43 Informed Courts since the release of its final report in December 2023, and
+44 make recommendations based on the information provided.
+45 (6) Follow up with DHHS on the status of the development and implementation
+46 of innovative Medicaid services to fill gaps in care for foster children with
+47 behavioral health needs and a statewide trauma-informed standardized
+48 assessment for foster cases, the status of the working group required to be
+49 established under Section 9E.21 of S.L. 2023-134, and make
+50 recommendations based on the information provided.
+Page 12 House Bill 237-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (7) Any other issues which the committee deems appropriate for the improvement
+2 of the child welfare system.
+3 SECTION 7.(b) The Committee shall report its findings and any legislative
+4 recommendations to the 2026 Regular Session of the 2025 General Assembly prior to its
+5 convening.
+6
+7 PART VIII. EFFECTIVE DATE
+8 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+9 law.
+House Bill 237-Second Edition Page 13
+[DELETED:  2 C (   A A A S C S S B A D C C T  P S " T a … ( T 1 p b i t b r h t j w b p i a s p o S " A h ( A b s g … d C f r a p i G s f r a p p G f f s o a p i G s f s o a p i]
+[DELETED:  S  H G p i G f s s o a p c a a p i G c a n a p i G i a p i G p o o p s o p o j a p a d o o m t t j a p i G a G a d o d m G f a s d s e o t j t t i l w t j a p i G … ( N t p … h U a i s a a o u a c s a i U a i s a a o u a c s I t s s … S " W o A b … ( T o i p r b a m p o a l m e c o ( t a u o a i t A o a]
+[DELETED:  S  P b b S " T n i t c f t n w b c t t b i o t j T d o s s s u d d t i a n a r r d r l s p r s t r w b c t t b i o t j T d a a n o t c s b c b t c w d w p S " I s s t c s d t r e f r a d i G t r ( A c o c j d o h d t a c e b t p h c o e f … e C o t e t a o c s t c i u e t a i s o c s u i v o t l T c s c w a p i e i a m o e t b a m p o a l m e c o … S " … ( I p a j i o c u t s t c s f c w a r o t j i w a a t p p c a s t j o c o c]
+[DELETED:  S  H r t … ( O a j w i n a m S t a s f i G n … S " I a j i r f t h a p i t c o r v c s u t d t c s s m t r A d o s s s p d w u v o p c c w o f s b g S " ( T t p r r w a … ( A c a f … ( R c I a w p … ( W u s d t i o r c w e i w a p c s c e t r r o w t j r …]
+[DELETED:  S  P ( T A a p p h t c m m t j p j t t … ( I r a … ( N p b p c ( T t t G ( T b ( N p ( A r m ( T j T h h p G … S " A h … ( A 1 … S " T o c c s a N h o p s b g f e t S " T f …]
+[DELETED:  S  H ( T t t c t c w l t t r o t j N p r h s b t f t s r t t p … S p  P S 2  T R A a M S ( p s o H s ( E t ( A c ( F w I n a c o m o u b t D R S 2  T S S C s a t a p ( L t a T p e i I w n b c p e c s t b T c i l t 4 y o a a t i a c a s c T h d T c e T m 1 T 2 A s r o m n i r w s m 3 T t f T ( R]
+[DELETED:  S  P a T r o a o n i s i f a f o i b O p ( R c t w ( R t c d o s s t d i w a d a a W t c m t c o s ( o t s b T a c T u d a f t f o i a T i b W a a ( R a t a ( R p i m ( L g c T R t a o i t C P S F a I A d t b p i p o a p f a m a p a t a t ( E s w s m m d t f o i a ( E R ( A r]
+[DELETED:  S  H p a t S S d S ( A ( A e S 2  T S S C s i t a p S U S d d t a p r s o p a s t b d U r d S 2  T D s r t t J L O C o a b R p w t H A C o H a H S t c o t S A C o H a H S a t J L A S U S S o H a H S i n r f a S p a i r f t p r c p t s ( o t s o i a a s C U T t  P S a " I a f b t D t i o w g t t r r]
+[DELETED:  S  P p o T f S t  P S B M R S S B M C H S B M A C S " T ( T r ( T t ( T o s ( T f c ( T d ( T D o S " … ( A s S S C D C b ( e o r b o s s T e a t s s b a s S " … ( T ( S s d F s u t s a s t t s r]
+[DELETED:  S  H c d ( A ( R ( A r ( P ( A f ( P ( C a b ( A ( P ( P ( P c m h s p i t c i e a d s ( D c r E a h A p L s t s a s c w a a f l r a r r t e S D S C D C S f a a s 2 S 1 p t e]
+[DELETED:  S  P c t s  P O S c m a A t  P V C O I W C D O S S a " W d s c c w a l a a p a p e b t D p r a w c o i U i a c o i D S w d a w t r o h i a w a d a b n r o i a t t c o a t c o h i a w d a b r F p o t s a " o i ( A o i ( A a c d o s s r d o s s o c h s a i t o f ( T s s d o s s r d o s s o c S 6  T S S C s a r r c r s S O C o H a H S u a r p t]
+[DELETED:  S  H G t  P V I S C T R C W P D O H A H S C W R S a ( S a C B c e c o i a F O p i N C b W s f k c p a t a i k f t A c R t N C D o H a H S d t d R a c ( W m u s r c w m a m r ( F C 2 p ( F R L ( 2 i s p a r m m ( W i C I m ( F o b h n a a s t s a e u S 9 o S 2 a m r]
+[DELETED:  S  P ( A o S 7  T C s r i f a a l r t t 2 R S o t 2 G A p t i c  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 237
+Committee Substitute Favorable 3/18/25
+Short Title: Child Welfare. (Public)
+Sponsors:
+Referred to:
+February 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS AFFECTING JUVENILES AND
+3 ASSOCIATED SERVICES, COUNTY SOCIAL SERVICES BOARDS AND
+4 DEPARTMENTS, REGIONAL SOCIAL SERVICES BOARDS AND DEPARTMENTS,
+5 CONSOLIDATED HUMAN SERVICES BOARDS AND AGENCIES, AND THE NORTH
+6 CAROLINA DEPARTMENT OF HEALTH AND HUMAN SERVICES.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. CHILD WELFARE LAW REFORMS
+10 SECTION 1.(a) G.S. 7B-100 reads as rewritten:
+11 "§ 7B-100. Purpose.
+12 This Subchapter shall be interpreted and construed so as to implement the following purposes
+13 and policies:
+14 …
+15 (5) To provide standards, consistent with the Adoption and Safe Families Act of
+16 1997, P.L. 105-89, for ensuring that the best interests of the juvenile are of
+17 paramount consideration by the court and that when it is not in the juvenile's
+18 best interest to be returned home, the juvenile will be placed in a safe,
+19 permanent home within a reasonable amount of time.one year from the date
+20 of the initial order removing custody."
+21 SECTION 1.(b) G.S. 7B-101 reads as rewritten:
+22 "§ 7B-101. Definitions.
+23 As used in this Subchapter, unless the context clearly requires otherwise, the following words
+24 have the listed meanings:
+25 (1) Abused juveniles. – Any juvenile less than 18 years of age (i) who is found to
+26 be a minor victim of human trafficking under G.S. 14-43.15 or unlawful sale,
+27 surrender, or purchase of a minor under G.S. 14-43.14 or (ii) whose parent,
+28 guardian, custodian, or caretaker:
+29 …
+30 d. Commits, permits, or encourages the commission of a violation of the
+31 following laws by, with, or upon the juvenile: first-degree forcible
+32 rape, as provided in G.S. 14-27.21; second-degree forcible rape as
+33 provided in G.S. 14-27.22; statutory rape of a child by an adult as
+34 provided in G.S. 14-27.23; first-degree statutory rape as provided in
+35 G.S. 14-27.24; first-degree forcible sex offense as provided in
+36 G.S. 14-27.26; second-degree forcible sex offense as provided in
+*H237-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 G.S. 14-27.27; statutory sexual offense with a child by an adult as
+2 provided in G.S. 14-27.28; first-degree statutory sexual offense as
+3 provided in G.S. 14-27.29; sexual activity by a substitute parent or
+4 custodian as provided in G.S. 14-27.31; sexual activity with a student
+5 as provided in G.S. 14-27.32; unlawful sale, surrender, or purchase of
+6 a minor, as provided in G.S. 14-43.14; a sexually violent offense, as
+7 provided in G.S. 14-208.6(5); crime against nature, as provided in
+8 G.S. 14-177; incest, as provided in G.S. 14-178; preparation of
+9 obscene photographs, slides, or motion pictures of the juvenile, as
+10 provided in G.S. 14-190.5; employing or permitting the juvenile to
+11 assist in a violation of the obscenity laws as provided in G.S. 14-190.6;
+12 dissemination of obscene material to the juvenile as provided in
+13 G.S. 14-190.7 and G.S. 14-190.8; and displaying or disseminating
+14 material harmful to the juvenile as provided in G.S. 14-190.14 and
+15 G.S. 14-190.15; first and second degree sexual exploitation of the
+16 juvenile as provided in G.S. 14-190.16 and G.S. 14-190.17; promoting
+17 the prostitution of the juvenile as provided in G.S. 14-205.3(b); and
+18 taking indecent liberties with the juvenile, as provided in
+19 G.S. 14-202.1;G.S. 14-190.15.
+20 …
+21 (15) Neglected juvenile. – Any juvenile less than 18 years of age (i) who is found
+22 to be a minor victim of human trafficking under G.S. 14-43.15 or (ii) whose
+23 parent, guardian, custodian, or caretaker does any of the following:
+24 …
+25 h. Uses an illegal substance, abuses alcohol, or uses a controlled
+26 substance in violation of the law and is unable to care for and provide
+27 a safe and appropriate home for the juvenile.
+28 i. Uses an illegal substance, abuses alcohol, or uses a controlled
+29 substance in violation of the law while a child is in utero.
+30 In determining whether a juvenile is a neglected juvenile, it is relevant whether
+31 that juvenile lives in a home where another juvenile has died as a result of
+32 suspected abuse or neglect or lives in a home where another juvenile has been
+33 subjected to abuse or neglect by an adult who regularly lives in the home.
+34 …."
+35 SECTION 1.(c) G.S. 7B-503(a) reads as rewritten:
+36 "(a) When a request is made for nonsecure custody, the court shall first consider release
+37 of the juvenile to the juvenile's parent, relative, guardian, custodian, or other responsible adult.
+38 An order for nonsecure custody shall be made only when there is a reasonable factual basis to
+39 believe the matters alleged in the petition are true, and any of the following apply:
+40 …
+41 (7) The juvenile is an infant who was born exposed to alcohol, illegal substances,
+42 or controlled substances used in violation of the law. If the parent is enrolled
+43 in and meeting or exceeding the benchmarks of a substance abuse treatment
+44 program recommended by a medical provider or a local management
+45 entity/managed care organization (LME/MCO), then any use of alcohol,
+46 illegal substances, or controlled substances in violation of the law shall not be
+47 the sole ground for ordering nonsecure custody.
+48 A juvenile alleged to be abused, neglected, or dependent shall be placed in nonsecure custody
+49 only when there is a reasonable factual basis to believe that there are no other reasonable means
+50 available to protect the juvenile. The developmental and attachment needs of the juvenile must
+Page 2 House Bill 237-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 be considered in making nonsecure custody determinations. In no case shall a juvenile alleged to
+2 be abused, neglected, or dependent be placed in secure custody."
+3 SECTION 1.(d) G.S. 7B-505(b) reads as rewritten:
+4 "(b) The court shall order the department of social services to make diligent efforts to
+5 notify relatives and other persons with legal custody of a sibling of the juvenile that the juvenile
+6 is in nonsecure custody and of any hearings scheduled to occur pursuant to G.S. 7B-506, unless
+7 the court finds the notification would be contrary to the best interests of the juvenile. The
+8 department of social services shall use due diligence to identify and notify adult relatives
+9 relatives, next of kin, and other persons with legal custody of a sibling of the juvenile within 30
+10 days after the initial order removing custody. The department shall file with the court information
+11 regarding attempts made to identify and notify adult relatives of the juvenile and persons with
+12 legal custody of a sibling of the juvenile. In placing a juvenile in nonsecure custody under this
+13 section, the court shall first consider whether a relative of the juvenile is willing and able to
+14 provide proper care and supervision of the juvenile in a safe home. If the court finds that the
+15 relative is willing and able to provide proper care and supervision in a safe home, then the court
+16 shall order placement of the juvenile with the relative unless the court finds that placement with
+17 the relative would be contrary to the best interests of the juvenile. The developmental and
+18 attachment needs of the child shall be considered by the court when determining whether
+19 placement with the relative would be contrary to the best interest of the juvenile."
+20 SECTION 1.(e) G.S. 7B-901(c) reads as rewritten:
+21 "(c) If the disposition order places a juvenile in the custody of a county department of
+22 social services, the court shall direct that reasonable efforts for reunification as defined in
+23 G.S. 7B-101 shall not be required if the court makes written findings of fact pertaining to any of
+24 the following, unless the court concludes that there is compelling evidence warranting continued
+25 reunification efforts:
+26 (1) A court of competent jurisdiction determines or has determined that
+27 aggravated circumstances exist because the parent has committed or
+28 encouraged the commission of, or allowed the continuation of, any of the
+29 following upon the juvenile:
+30 …
+31 e. Chronic or toxic exposure to alcohol or controlled substances that
+32 causes impairment of or addiction in the juvenile.juvenile, including
+33 in utero exposure to alcohol, illegal substances, or controlled
+34 substances used in violation of the law. The court shall consider
+35 whether a parent is enrolled in and meeting or exceeding the
+36 benchmarks of a substance abuse treatment program recommended by
+37 a medical provider or a local management entity/managed care
+38 organization (LME/MCO).
+39 …."
+40 SECTION 1.(f) G.S. 7B-903 reads as rewritten:
+41 "§ 7B-903. Dispositional alternatives for abused, neglected, or dependent juvenile.
+42 …
+43 (a1) In placing a juvenile in out-of-home care under this section, the court shall first
+44 consider whether a relative of the juvenile is willing and able to provide proper care and
+45 supervision of the juvenile in a safe home. If the court finds that the relative is willing and able
+46 to provide proper care and supervision in a safe home, then the court shall order placement of the
+47 juvenile with the relative unless the court finds that the placement is contrary to the best interests
+48 of the juvenile. The developmental and attachment needs of the child shall be considered by the
+49 court when determining whether placement with the relative would be contrary to the best interest
+50 of the juvenile. In placing a juvenile in out-of-home care under this section, the court shall also
+51 consider whether it is in the juvenile's best interest to remain in the juvenile's community of
+House Bill 237-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 residence. Placement of a juvenile with a relative outside of this State must be in accordance with
+2 the Interstate Compact on the Placement of Children.
+3 …
+4 (a5) Once a juvenile who is not a member of a State-recognized tribe as set forth in
+5 G.S. 143B-407(a) has resided in the home of a foster parent for a continuous period of at least
+6 nine months, the foster parent is deemed to be nonrelative kin for purposes of this section.
+7 …."
+8 SECTION 1.(g) G.S. 7B-903.1(c) reads as rewritten:
+9 "(c) If a juvenile is removed from the home and placed in the custody or placement
+10 responsibility of a county department of social services, the director shall not allow unsupervised
+11 visitation with or return physical custody of the juvenile to the parent, guardian, custodian, or
+12 caretaker without a hearing at which the court finds that the juvenile will receive proper care and
+13 supervision in a safe home. Before a county department of social services may recommend
+14 unsupervised visits or return of physical custody of the juvenile juvenile, whichever occurs first,
+15 to the parent, guardian, custodian, or caretaker from whom the juvenile was removed, a county
+16 department of social services shall first observe that parent, guardian, custodian, or caretaker with
+17 the juvenile for at least two visits that support the recommendation. Each observation visit shall
+18 consist of an observation of not less than one hour with the juvenile, shall be conducted at least
+19 seven days apart, and shall occur within 30 days of the hearing at which the department of social
+20 services makes the recommendation. A department of social services shall provide
+21 documentation of any observation visits that it conducts to the court for its consideration as to
+22 whether unsupervised visits or physical custody custody, whichever occurs first, should be
+23 granted to the parent, guardian, custodian, or caretaker from whom the juvenile was removed."
+24 SECTION 1.(h) G.S. 7B-906.1 reads as rewritten:
+25 "§ 7B-906.1. Review and permanency planning hearings.
+26 (a) The court shall conduct a review or permanency planning hearing within 90 days from
+27 the date of the initial dispositional hearing held pursuant to G.S. 7B-901. Review or permanency
+28 planning hearings shall be held at least every six months thereafter. If custody has not been
+29 removed from a parent, guardian, caretaker, or custodian, the hearing shall be designated as a
+30 review hearing. If custody has been removed from a parent, guardian, or custodian, or the juvenile
+31 was residing with a caretaker at the time the petition was filed, the hearing shall be designated as
+32 a permanency planning hearing.
+33 …
+34 (d) At each hearing, the court shall consider the following criteria and make written
+35 findings regarding those that are relevant:
+36 …
+37 (1a) Reports on the juvenile's continuation in the home of the parent, guardian, or
+38 custodian; and the appropriateness of the juvenile's continuation in that home.
+39 If the juvenile is removed from the custody of a parent, guardian, or custodian
+40 at a review hearing, the court shall schedule a permanency planning hearing
+41 within 30 days of the review, unless the hearing was noticed and heard as a
+42 permanency planning hearing.review.
+43 …
+44 (3) Whether efforts to reunite the juvenile with either parent clearly would be
+45 unsuccessful or inconsistent with the juvenile's health or safety and need for a
+46 safe, permanent home within a reasonable period of time. one year from the
+47 date the initial order removing custody was entered, including whether a
+48 parent has engaged in any of the factors described under G.S. 7B-901(c). The
+49 court shall consider efforts to reunite regardless of whether the juvenile
+50 resided with the parent, guardian, or custodian at the time of removal.
+51 …
+Page 4 House Bill 237-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (i) The At any permanency planning hearing, the court may maintain the juvenile's
+2 placement under review or order a different placement, appoint a guardian of the person for the
+3 juvenile pursuant to G.S. 7B-600, or order any disposition authorized by G.S. 7B-903, including
+4 the authority to place the child in the custody of either parent or any relative found by the court
+5 to be suitable and found by the court to be in the best interests of the juvenile.
+6 …
+7 (l) If the court orders or continues the juvenile's placement in the custody or placement
+8 responsibility of a county department of social services, the provisions of G.S. 7B-903.1 shall
+9 apply to any order entered under this section.
+10 …
+11 (n) Notwithstanding other provisions of this Article, the court may waive the holding of
+12 permanency planning hearings required by this section, may require written reports to the court
+13 by the agency or person holding custody in lieu of permanency planning hearings, or order that
+14 permanency planning hearings be held less often than every six months if the court finds by clear,
+15 cogent, clear and convincing evidence each of the following:
+16 (1) The juvenile has resided in the placement for a period of at least one year or
+17 the juvenile has resided in the placement for at least six consecutive months
+18 the parties are in agreement and the court enters a consent order pursuant to
+19 G.S. 7B-801(b1).
+20 (2) The placement is stable, and continuation of the placement is in the juvenile's
+21 best interests.
+22 (3) Neither the juvenile's best interests nor the rights of any party require that
+23 permanency planning hearings be held every six months.
+24 (4) All parties are aware that the matter may be brought before the court for
+25 review at any time by the filing of a permanency planning or modification
+26 motion for review or on the court's own motion.
+27 (5) The court order has designated the relative or other suitable person as the
+28 juvenile's permanent custodian or guardian of the person.
+29 The court may not waive or refuse to conduct a hearing if a party files a motion seeking the
+30 hearing. However, if a guardian of the person has been appointed for the juvenile and the court
+31 has also made findings in accordance with subsection (n) of this section that guardianship is the
+32 permanent plan for the juvenile, the court shall proceed in accordance with apply the criteria of
+33 G.S. 7B-600(b).
+34 …."
+35 SECTION 1.(i) G.S. 7B-1103(a) reads as rewritten:
+36 "(a) A petition or motion to terminate the parental rights of either or both parents to his,
+37 her, or their minor juvenile may only be filed by one or more of the following:
+38 …
+39 (5) Any person with whom the juvenile has resided for a continuous period of 18
+40 15 months or more next preceding the filing of the petition or motion.
+41 …."
+42 SECTION 1.(j) G.S. 7B-1109(f) reads as rewritten:
+43 "(f) The burden in such proceedings shall be upon the petitioner or movant and all findings
+44 of fact shall be based on clear, cogent, clear and convincing evidence. The rules of evidence in
+45 civil cases shall apply. No husband-wife or physician-patient privilege shall be grounds for
+46 excluding any evidence regarding the existence or nonexistence of any circumstance authorizing
+47 the termination of parental rights."
+48 SECTION 1.(k) G.S. 7B-1111(a) reads as rewritten:
+49 "(a) The court may terminate the parental rights upon a finding of one or more of the
+50 following:
+51 …
+House Bill 237-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (2) The parent has willfully left the juvenile in foster care or placement outside
+2 the home for more than 12 nine months without showing to the satisfaction of
+3 the court that reasonable progress under the circumstances has been made in
+4 correcting those conditions which led to the removal of the juvenile. No
+5 parental rights, however, shall be terminated for the sole reason that the
+6 parents are unable to care for the juvenile on account of their poverty.
+7 …."
+8 SECTION 1.(l) This section becomes effective October 1, 2025, and applies to
+9 petitions or motions to terminate parental rights filed on or after that date.
+10
+11 PART II. REGIONAL ABUSE AND MEDICAL SPECIALIST PROGRAM
+12 SECTION 2.(a) The Regional Abuse and Medical Specialist (RAMS) program
+13 staffed within the North Carolina Child Medical Evaluation Program (NC CMEP) through one
+14 or more contracts or memorandums of understanding between the Department of Health and
+15 Human Services and the Pediatric Department of the UNC School of Medicine is immediately
+16 stayed pending compliance with the following:
+17 (1) Establishment of rules for the program in compliance with Chapter 150A of
+18 the General Statutes.
+19 (2) Amendment of and federal approval of any State plan, which is required to
+20 comply with federal laws and regulations and maintain federal funding.
+21 (3) Federal approval of rules for the RAMS program, which is required to comply
+22 with federal laws and regulations and maintain federal funding.
+23 If necessary, any contracts or memorandums of understanding between the
+24 Department of Health and Human Services and the UNC School of Medicine regarding the
+25 RAMS program shall be modified to comply with the provisions of this section.
+26 SECTION 2.(b) The Social Services Commission shall adopt temporary and
+27 permanent rules to implement the RAMS program which shall include:
+28 (1) Limiting the RAMS team's focus to screened in cases meeting one or more of
+29 the following criteria:
+30 a. The child is less than 4 years of age and presents with unexplained or
+31 poorly explained injuries. Injuries would not be considered poorly
+32 explained or unexplained in cases where the discipline or action by the
+33 caretaker explains the child's injury and the reporting medical provider
+34 states that the mechanism of the injury is plausible for having caused
+35 the injury.
+36 b. The child is less than 4 years of age and there is a concern for a
+37 sexually transmitted infection.
+38 c. The child is less than 4 years of age and another child who lives in the
+39 home died as a result of suspected abuse or neglect.
+40 d. There is concern for medical child abuse (Munchausen by Proxy) to a
+41 child of any age.
+42 e. The child, regardless of age, has a medically complex issue and one or
+43 more of the following is present:
+44 1. The child requires subspecialty care by two or more specialists.
+45 2. A second report of medical neglect is received within six
+46 months regardless of the prior case outcome.
+47 3. The child requires devices to sustain their function such as a
+48 tracheostomy or g-tube.
+49 f. The child is a substance-affected infant.
+50 (2) Requiring the RAMS team to be contacted if the following criteria are met:
+Page 6 House Bill 237-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 a. The report of abuse or neglect is screened in for a family or
+2 investigative assessment by the local county child welfare agency.
+3 b. One or more of the criteria of subdivision (1) of this subsection are
+4 present.
+5 (3) Requiring the RAMS team to cease involvement upon a determination that the
+6 child does not meet the criteria of subdivision (2) of this subsection or upon
+7 the final case decision resulting from the family or investigative assessment,
+8 whichever shall occur first.
+9 (4) Requiring the county director of social services to decide issues where a
+10 disagreement between the local social services worker and the RAMS team
+11 arises, including:
+12 a. Whether the child meets the criteria of subdivision (2) of this
+13 subsection.
+14 b. The course of action to be taken during the family or investigative
+15 assessment.
+16 c. The ultimate decision arising from the family or investigative
+17 assessment.
+18 The county director of social services shall make this determination based on
+19 information contained in the case file provided by the RAMS team, provided
+20 by the county social worker, and, if applicable, provided by the Regional Child
+21 Welfare Consultant. The county director shall make the determination as soon
+22 as possible after notification of the disagreement but no later than 24 hours
+23 after the disagreement arises.
+24 (5) Requiring the social worker assigned to the case to notify the county director
+25 as soon as possible after a disagreement arises between the social worker and
+26 the RAMS team member but no later than four hours after the disagreement
+27 arises.
+28 (6) Requiring the social worker to notify the family to be notified as soon as
+29 possible of any decision impacting the family when the RAMS program is
+30 involved in the family's case but no later than 24 hours after the decision is
+31 made.
+32 (7) Limiting the RAMS program's role to supporting, guiding, and mentoring
+33 county supervisors during the family or investigative assessment phase only.
+34 The county supervisor may include the social worker in meetings with the
+35 RAMS personnel. The recommendations and suggestions made by the RAMS
+36 team are contributions to the county's family or investigative assessment and
+37 are not a complete guide of the assessment. The county must follow the policy
+38 outlined in the Child Protective Services Family and Investigative
+39 Assessments section of the NC Child Welfare policy manual. The county
+40 director is ultimately responsible for the safety and well-being of children in
+41 their county and is tasked with determining whether protective services should
+42 be put in place or a petition filed after making a prompt and thorough
+43 assessment to determine the extent of abuse or neglect against the child and
+44 the risk of future harm to the child.
+45 (8) Establishing the frequency in which the RAMS team member and the county
+46 social worker supervisor must meet during the family or investigative
+47 assessment period.
+48 (9) Establishing the documentation or information which must be provided to the
+49 RAMS team during the family or investigative assessment period.
+50 (10) Allowing the parent, guardian, or caretaker of the child who is subject to the
+51 report of alleged abuse or neglect or their attorney to access all documentation
+House Bill 237-Second Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 provided to or generated by the RAMS team during and after the RAMS
+2 team's involvement in the matter.
+3 SECTION 2.(c) No later than 30 days after the rulemaking process is complete, the
+4 Secretary of the North Carolina Department of Health and Human Services or the Secretary's
+5 designee shall submit to the United States Secretary of Health and Human Services or the U.S.
+6 Secretary's designee for approval of the following:
+7 (1) A draft of the proposed new rules outlined in subsection (b) of this section.
+8 (2) Any proposed changes to the State plan necessitated by the proposed rules to
+9 ensure there is no reduction or elimination of federal funding from any source.
+10 SECTION 2.(d) The Social Services Commission shall initiate temporary and
+11 permanent rulemaking within 30 days of this act becoming effective.
+12 SECTION 2.(e) If the United States Secretary of Health and Human Services or the
+13 U.S. Secretary's designee determines that any proposed rule, statute, or plan amendment
+14 submitted under subsection (c) of this section would negatively impact federal funding provided
+15 to North Carolina, then the proposed rules, statutes, and plan amendments submitted shall not
+16 become effective. The North Carolina Secretary of Health and Human Services or the Secretary's
+17 designee shall notify the Social Services Commission and Rules Review Commission of the
+18 United States Department of Health and Human Services' determination regarding the proposed
+19 rules, statutes, and plan amendments submitted under subsection (c) of this section within five
+20 days of receipt.
+21 SECTION 2.(f) The Division shall report to the Joint Legislative Oversight
+22 Committee on Health and Human Services, the chairs of the House Appropriations Committee
+23 on Health and Human Services, the chairs of the Senate Appropriations Committee on Health
+24 and Human Services, and the Joint Legislative Administrative Procedures Oversight Committee
+25 by September 1, 2025, and each year thereafter, on the hiring, training, and oversight of the
+26 RAMS program and, if applicable, the progress being made regarding the rulemaking process as
+27 provided for in this section. A copy of all reports and plans submitted to the federal government
+28 which includes information regarding the RAMS program shall be simultaneously provided to
+29 the Joint Legislative Oversight Committee on Health and Human Services, the chairs of the
+30 House Appropriations Committee on Health and Human Services, the chairs of the Senate
+31 Appropriations Committee on Health and Human Services, and the Joint Legislative
+32 Administrative Procedures Oversight Committee.
+33 SECTION 2.(g) This section is effective when it becomes law. If approval by the
+34 United States Secretary of Health and Human Services is not required for any State plan
+35 amendments or for the proposed rules, the proposed rules shall become effective as provided for
+36 in G.S. 150B-21.3. If approval by the United States Secretary of Health and Human Services is
+37 required for the proposed rules created pursuant to subsection (a) of this section, or if any
+38 amendments to the State plan are necessary because of the proposed rules, the proposed rules
+39 shall be effective on the first day of the month that follows the date that the Secretary of the North
+40 Carolina Department of Health and Human Services receives notification of approval by the
+41 United States Secretary of Health and Human Services and as provided for in G.S. 150B-21.3.
+42 The Secretary of the North Carolina Department of Health and Human Services shall report to
+43 the Revisor of Statutes the applicable effective date once known.
+44
+45 PART III. PRIVATE CAUSE OF ACTION
+46 SECTION 3.(a) Part 1 of Article 3 of Chapter 143B of the General Statutes is
+47 amended by adding a new section to read:
+48 "§ 143B-138.1A. Private cause of action.
+49 If the Secretary of the Department or the Secretary's designee takes any action or causes any
+50 action to be taken against an individual through a program created, administered, supervised, or
+51 funded by the Department that is operating without going through the required rulemaking
+Page 8 House Bill 237-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 process and the individual experiences a loss or harm, including court costs, attorneys' fees, and
+2 other litigation costs, that individual shall have a private cause of action against the Department.
+3 The individual must prevail on any claim to be eligible for an award of court costs, attorneys'
+4 fees, and other litigation costs."
+5 SECTION 3.(b) This section becomes effective October 1, 2025, and is applicable
+6 to actions taken by the Department on or after that date.
+7
+8 PART IV. EDUCATION AND TRAINING REQUIREMENTS FOR COUNTY SOCIAL
+9 SERVICES BOARD MEMBERS, REGIONAL SOCIAL SERVICES BOARD
+10 MEMBERS, CONSOLIDATED HUMAN SERVICES BOARD MEMBERS, AND
+11 COUNTY COMMISSIONERS
+12 SECTION 4.(a) G.S. 108A-9 reads as rewritten:
+13 "§ 108A-9. Duties and responsibilities.
+14 The county board of social services shall have the following duties and responsibilities:
+15 (1) To select the county director of social services according to the merit system
+16 rules of the North Carolina Human Resources Commission;Commission.
+17 (2) To advise county and municipal authorities in developing policies and plans
+18 to improve the social conditions of the community;community.
+19 (3) To consult with the director of social services about problems relating to his
+20 office, and to assist him in planning budgets for the county department of
+21 social services;services.
+22 (4) To transmit or present the budgets of the county department of social services
+23 for public assistance, social services, and administration to the board of county
+24 commissioners;commissioners.
+25 (4a) To attend education and training sessions provided for new board members
+26 during the first year they serve on the board.
+27 (5) To have such other duties and responsibilities as the General Assembly, the
+28 Department of Health and Human Services or the Social Services Commission
+29 or the board of county commissioners may assign to it."
+30 SECTION 4.(b) G.S. 108A-15.8 reads as rewritten:
+31 "§ 108A-15.8. Regional board of social services.
+32 …
+33 (m) All regional boards of social services members shall attend education and training
+34 sessions provided for new board members during the first year they serve on the board."
+35 SECTION 4.(c) The Department of Health and Human Services, Division of Social
+36 Services, shall collaborate with key stakeholders, including the North Carolina Association of
+37 County Boards of Social Services, the Association of North Carolina County Social Services
+38 Directors, the North Carolina Association of County Commissioners, and the University of North
+39 Carolina School of Government, to create formal education and training sessions for new county
+40 board of social services members in accordance with G.S. 108A-9(4a), as enacted in subsection
+41 (a) of this section, and G.S. 108A-15.8(m), as enacted in subsection (b) of this section. The
+42 education and training sessions shall include a segment on the potential liabilities of the county
+43 or regional board of social services. The education and training sessions shall be available
+44 statewide by March 1, 2026.
+45 SECTION 4.(d) G.S. 153A-77(d) reads as rewritten:
+46 "§ 153A-77. Authority of boards of commissioners over commissions, boards, agencies, etc.
+47 …
+48 (d) The consolidated human services board shall have authority to:
+49 (1) Set fees for departmental services based upon recommendations of the human
+50 services director. Fees set under this subdivision are subject to the same
+51 restrictions on amount and scope that would apply if the fees were set by a
+House Bill 237-Second Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 county board of health, a county board of social services, or a mental health,
+2 developmental disabilities, and substance abuse area authority.
+3 (2) Assure compliance with laws related to State and federal programs.
+4 (3) Recommend creation of local human services programs.
+5 (4) Adopt local health regulations and participate in enforcement appeals of local
+6 regulations.
+7 (5) Perform regulatory health functions required by State law.
+8 (6) Act as coordinator or agent of the State to the extent required by State or
+9 federal law.
+10 (7) Plan and recommend a consolidated human services budget.
+11 (8) Conduct audits and reviews of human services programs, including quality
+12 assurance activities, as required by State and federal law or as may otherwise
+13 be necessary periodically.
+14 (9) Advise local officials through the county manager.
+15 (10) Perform public relations and advocacy functions.
+16 (11) Protect the public health to the extent required by law.
+17 (12) Perform comprehensive mental health services planning if the county is
+18 exercising the powers and duties of an area mental health, developmental
+19 disabilities, and substance abuse services board under the consolidated human
+20 services board.
+21 (13) Develop dispute resolution procedures for human services contractors and
+22 clients and public advocates, subject to applicable State and federal dispute
+23 resolution procedures for human services programs, when applicable.
+24 Except as otherwise provided, the consolidated human services board shall have the powers
+25 and duties conferred by law upon a board of health, a social services board, and an area mental
+26 health, developmental disabilities, and substance abuse services board.
+27 All consolidated human services board members shall attend education and training sessions
+28 provided for new board members during the first year they serve on the board.
+29 Local employees who serve as staff of a consolidated county human services agency are
+30 subject to county personnel policies and ordinances only and are not subject to the provisions of
+31 the North Carolina Human Resources Act, unless the county board of commissioners elects to
+32 subject the local employees to the provisions of that Act. All consolidated county human services
+33 agencies shall comply with all applicable federal laws, rules, and regulations requiring the
+34 establishment of merit personnel systems."
+35 SECTION 4.(e) The Divisions of Social Services, Public Health, and Mental Health,
+36 Developmental Disabilities, and Substance Use Services of the Department of Health and Human
+37 Services shall collaborate with key stakeholders, including the North Carolina Association of
+38 County Boards of Social Services, the Association of North Carolina County Social Services
+39 Directors, the North Carolina Association of County Commissioners, the Association of North
+40 Carolina Boards of Health, the Commission for Mental Health, Developmental Disabilities, and
+41 Substance Abuse Services, and the University of North Carolina School of Government, to create
+42 formal education and training sessions for new consolidated human services board members in
+43 accordance with G.S. 153A-77(d), as amended in subsection (d) of this section. The education
+44 and training sessions shall include a segment on the potential liabilities of the consolidated human
+45 services board. The education and training sessions shall be available statewide by March 1,
+46 2026.
+47 SECTION 4.(f) Subsections (a), (b), and (d) of this section become effective March
+48 1, 2026, and by March 1, 2027, all current county board of social services members must have
+49 participated in the education and training sessions provided in G.S. 108A-9(4a), as enacted by
+50 this act, all current regional board of social services members must have participated in the
+51 education and training sessions provided in G.S. 108A-15.8(m), as enacted by this act, and all
+Page 10 House Bill 237-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 current consolidated human services board members must have participated in the education and
+2 training sessions provided in G.S. 153A-77(d), as amended by this act. The remainder of this
+3 section is effective when it becomes law.
+4
+5 PART V. CHILD SUPPORT TRIBUNAL STUDY BY THE ADMINISTRATIVE OFFICE
+6 OF THE COURTS
+7 SECTION 5. The Administrative Office of the Courts shall conduct a feasibility and
+8 cost study of a proposed child support tribunal, with dedicated court officers to hear child support
+9 matters, using quasi-judicial procedures. The study shall include, at a minimum, strategies to
+10 address funding, staffing, and a plan for how the proposed changes will be implemented. The
+11 Administrative Office of the Courts shall submit a report of its findings and recommendations to
+12 the Joint Legislative Oversight Committee on Health and Human Services by May 1, 2026.
+13
+14 PART VI. CONFLICTS OF INTEREST WITHIN COUNTY DEPARTMENTS OF
+15 SOCIAL SERVICES
+16 SECTION 6.(a) Part 2B of Article 1 of Chapter 108A of the General Statutes is
+17 amended by adding a new section to read:
+18 "§ 108A-15.16. Conflicts of interest.
+19 When conflicts of interest arise in the provision of social services provided by county
+20 departments of social services, regional departments of social services, or consolidated human
+21 services agencies, the office in which the conflict arose shall work expeditiously to resolve the
+22 conflict consistent with applicable law and any policies and procedures established by the
+23 Department of Health and Human Services. Policies and procedures shall address financial and
+24 practice responsibilities associated with conflicts of interest. Upon identifying a conflict of
+25 interest, the office in which the conflict arose shall notify the appropriate authority within the
+26 Department of Health and Human Services of the conflict. The Department of Health and Human
+27 Services shall have authority to make final decisions regarding conflicts of interest assignments
+28 when disputes arise, with the regional office having initial authority when a dispute arises
+29 between county departments of social services and consolidated human services agencies, unless
+30 no regional office is available, then the central office, and the central office having initial
+31 authority when disputes arise between regions. For purposes of this section, a "conflict of
+32 interest" occurs when at least one of the following occurs:
+33 (1) A county department of social services, regional department of social services,
+34 or consolidated human services agency is not able to manage the adverse
+35 interests of two individuals to whom the office owes a duty to serve.
+36 (2) A preexisting relationship between an individual and a county that results in
+37 a county department of social services', regional department of social
+38 services', or consolidated human services agency's inability to objectively
+39 fulfill its statutory responsibilities.
+40 (3) The provision of social services and duty owed by a county department of
+41 social services, regional department of social services, or consolidated human
+42 services agency conflicts with services and the duty owed by another county
+43 department of social services, regional department of social services, or
+44 consolidated human services agency."
+45 SECTION 6.(b) The Social Services Commission shall adopt rules regarding
+46 conflicts of interest management, including establishing reasonable and specific time lines for
+47 resolving conflicts of interest, and shall begin the rulemaking process within 30 days of this
+48 section becoming law.
+49 SECTION 6.(c) The Social Services Commission shall report to the Joint Legislative
+50 Oversight Committee on Health and Human Services upon adopting rules pursuant to
+House Bill 237-Second Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 G.S. 108A-15.16, as enacted in subsection (b) of this section, within 30 days of the adoption of
+2 the rules.
+3
+4 PART VII. INTERIM STUDY COMMITTEE TO REVIEW CHILD WELFARE
+5 PROGRAMS, POLICIES, AND PROCEDURES AND REVIEW NORTH CAROLINA
+6 DEPARTMENT OF HEALTH AND HUMAN SERVICES' COMPLIANCE WITH
+7 RULEMAKING REQUIREMENTS
+8 SECTION 7.(a) The Joint Legislative Oversight Committee (Committee) on Health
+9 and Human Services shall do all of the following:
+10 (1) Study, evaluate, and make recommendations on the following:
+11 a. Creating a Foster Ombudsman program, including review of House
+12 Bill 665 from the 2023-2024 biennium and House Bill 165 from the
+13 current biennium, review of Foster Ombudsman programs and their
+14 effectiveness in other states, including Maryland and Texas, and the
+15 cost of implementing a Foster Ombudsman program in North
+16 Carolina.
+17 b. Working with churches and nonprofit/private organizations to provide
+18 services and close gaps in services and needs of foster children, foster
+19 families, kinship care providers, and to aid in keeping families
+20 together, including Least of These, Safe Families for Children, and
+21 Adoption-Share.
+22 c. Requiring the North Carolina Department of Health and Human
+23 Services (DHHS) to review all outstanding policies and guidance that
+24 did not go through the proper rulemaking process and requiring DHHS
+25 to do so.
+26 d. Requiring foster parent and kinship care providers' participation in
+27 court proceedings.
+28 (2) Work with DHHS and county department of social services boards to create
+29 more uniform standards regarding child welfare matters and make
+30 recommendations based on this work.
+31 (3) Follow up with DHHS for updated information on the work being done by the
+32 Child Welfare and Family Well-Being Transformation Team since its May
+33 2022 interim report and make recommendations based on the information
+34 provided.
+35 (4) Follow up with DHHS regarding status of regional offices required under
+36 Ryan's Law (S.L. 2017-41) including services provided, and
+37 recommendations for statewide, uniform standards in handling child welfare
+38 matters and areas for improving the delivery of child welfare services and
+39 make recommendations based on the information provided.
+40 (5) Work with the Chief Justice of the Supreme Court and his team regarding
+41 improvements to child welfare/foster/adoption cases, obtain any updates by
+42 Chief Justice Newby's Task Force of Adverse Childhood Experience (ACE)
+43 Informed Courts since the release of its final report in December 2023, and
+44 make recommendations based on the information provided.
+45 (6) Follow up with DHHS on the status of the development and implementation
+46 of innovative Medicaid services to fill gaps in care for foster children with
+47 behavioral health needs and a statewide trauma-informed standardized
+48 assessment for foster cases, the status of the working group required to be
+49 established under Section 9E.21 of S.L. 2023-134, and make
+50 recommendations based on the information provided.
+Page 12 House Bill 237-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7) Any other issues which the committee deems appropriate for the improvement
+2 of the child welfare system.
+3 SECTION 7.(b) The Committee shall report its findings and any legislative
+4 recommendations to the 2026 Regular Session of the 2025 General Assembly prior to its
+5 convening.
+6
+7 PART VIII. EFFECTIVE DATE
+8 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+9 law.
+House Bill 237-Second Edition Page 13
+
+[DELETED:  2 C (   A A A S C S S B A D C C T  P S " T a … ( T 1 p b i t b r h t j w b p i a s p o S " A h ( A b s g … d C f r a p i G s f r a p p G f f s o a p i G s f s o a p i]
+[DELETED:  S  H G p i G f s s o a p c a a p i G c a n a p i G i a p i G p o o p s o p o j a p a d o o m t t j a p i G a G a d o d m G f a s d s e o t j t t i l w t j a p i G … ( N t p … h U a i s a a o u a c s a i U a i s a a o u a c s I t s s … S " W o A b … ( T o i p r b a m p o a l m e c o ( t a u o a i t A o a]
+[DELETED:  S  P b b S " T n i t c f t n w b c t t b i o t j T d o s s s u d d t i a n a r r d r l s p r s t r w b c t t b i o t j T d a a n o t c s b c b t c w d w p S " I s s t c s d t r e f r a d i G t r ( A c o c j d o h d t a c e b t p h c o e f … e C o t e t a o c s t c i u e t a i s o c s u i v o t l T c s c w a p i e i a m o e t b a m p o a l m e c o … S " … ( I p a j i o c u t s t c s f c w a r o t j i w a a t p p c a s t j o c o c]
+[DELETED:  S  H r t … ( O a j w i n a m S t a s f i G n … S " I a j i r f t h a p i t c o r v c s u t d t c s s m t r A d o s s s p d w u v o p c c w o f s b g S " ( T t p r r w a … ( A c a f … ( R c I a w p … ( W u s d t i o r c w e i w a p c s c e t r r o w t j r …]
+[DELETED:  S  P ( T A a p p h t c m m t j p j t t … ( I r a … ( N p b p c ( T t t G ( T b ( N p ( A r m ( T j T h h p G … S " A h … ( A 1 … S " T o c c s a N h o p s b g f e t S " T f …]
+[DELETED:  S  H ( T t t c t c w l t t r o t j N p r h s b t f t s r t t p … S p  P S 2  T R A a M S ( p s o H s ( E t ( A c ( F w I n a c o m o u b t D R S 2  T S S C s a t a p ( L t a T p e i I w n b c p e c s t b T c i l t 4 y o a a t i a c a s c T h d T c e T m 1 T 2 A s r o m n i r w s m 3 T t f T ( R]
+[DELETED:  S  P a T r o a o n i s i f a f o i b O p ( R c t w ( R t c d o s s t d i w a d a a W t c m t c o s ( o t s b T a c T u d a f t f o i a T i b W a a ( R a t a ( R p i m ( L g c T R t a o i t C P S F a I A d t b p i p o a p f a m a p a t a t ( E s w s m m d t f o i a ( E R ( A r]
+[DELETED:  S  H p a t S S d S ( A ( A e S 2  T S S C s i t a p S U S d d t a p r s o p a s t b d U r d S 2  T D s r t t J L O C o a b R p w t H A C o H a H S t c o t S A C o H a H S a t J L A S U S S o H a H S i n r f a S p a i r f t p r c p t s ( o t s o i a a s C U T t  P S a " I a f b t D t i o w g t t r r]
+[DELETED:  S  P p o T f S t  P S B M R S S B M C H S B M A C S " T ( T r ( T t ( T o s ( T f c ( T d ( T D o S " … ( A s S S C D C b ( e o r b o s s T e a t s s b a s S " … ( T ( S s d F s u t s a s t t s r]
+[DELETED:  S  H c d ( A ( R ( A r ( P ( A f ( P ( C a b ( A ( P ( P ( P c m h s p i t c i e a d s ( D c r E a h A p L s t s a s c w a a f l r a r r t e S D S C D C S f a a s 2 S 1 p t e]
+[DELETED:  S  P c t s  P O S c m a A t  P V C O I W C D O S S a " W d s c c w a l a a p a p e b t D p r a w c o i U i a c o i D S w d a w t r o h i a w a d a b n r o i a t t c o a t c o h i a w d a b r F p o t s a " o i ( A o i ( A a c d o s s r d o s s o c h s a i t o f ( T s s d o s s r d o s s o c S 6  T S S C s a r r c r s S O C o H a H S u a r p t]
+[DELETED:  S  H G t  P V I S C T R C W P D O H A H S C W R S a ( S a C B c e c o i a F O p i N C b W s f k c p a t a i k f t A c R t N C D o H a H S d t d R a c ( W m u s r c w m a m r ( F C 2 p ( F R L ( 2 i s p a r m m ( W i C I m ( F o b h n a a s t s a e u S 9 o S 2 a m r]
+[DELETED:  S  P ( A o S 7  T C s r i f a a l r t t 2 R S o t 2 G A p t i c  P S l]

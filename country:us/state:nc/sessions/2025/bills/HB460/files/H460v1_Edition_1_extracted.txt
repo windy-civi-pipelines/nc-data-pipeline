@@ -1,0 +1,261 @@
+Title: HOUSE BILL 460
+Official Title: HOUSE BILL 460
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Medical Equipment Right to Repair Act. (Public)
+Sponsors: Representatives Belk, Carney, Cunningham, and Buansi (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+March 20, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE ORIGINAL EQUIPMENT MANUFACTURERS OF MEDICAL
+3 IMAGING EQUIPMENT AND MEDICAL RADIATION THERAPY EQUIPMENT TO
+4 PROVIDE EQUIPMENT OWNERS AND REPAIR PROVIDERS ACCESS TO THE
+5 SUPPORT DOCUMENTS, TOOLS, AND PARTS NECESSARY TO PERFORM
+6 DIAGNOSTIC, MAINTENANCE, AND REPAIR SERVICES ON THE EQUIPMENT.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+9 to read:
+10 "Article 52.
+11 "Medical Equipment Right to Repair Act.
+12 "§ 66-503. Citation and definitions.
+13 (a) This Article may be cited as the "Medical Equipment Right to Repair Act."
+14 (b) As used in this Article, the following definitions apply unless context otherwise
+15 requires:
+16 (1) Authorized repair provider. – An individual or entity that has contracted with
+17 an original equipment manufacturer to offer or perform diagnostic,
+18 maintenance, or repair services of the manufacturer's medical imaging or
+19 radiation therapy equipment whether operating under (i) a license to use the
+20 manufacturer's trade name, service mark, or other proprietary identifier or (ii)
+21 an alternative arrangement under which a provider offers to or provides
+22 services on behalf of the manufacturer. For purposes of this Article, an
+23 original equipment manufacturer that offers or performs diagnostic,
+24 maintenance, or repair services of its own medical imaging or radiation
+25 therapy equipment is also an authorized repair provider.
+26 (2) Independent repair provider. – An individual or business that offers or
+27 performs diagnostic, maintenance, or repair services of medical imaging or
+28 radiation therapy equipment without contracting with the original equipment
+29 manufacturer.
+30 (3) Medical imaging equipment. – Any device used to view the human body to
+31 diagnose, monitor, or treat medical conditions, including products for
+32 ultrasound imaging, magnetic resonance imaging, medical X ray,
+33 radiography, computed tomography, fluoroscopy, and mammography.
+34 (4) Medical radiation therapy equipment. – Any device that produces high
+35 energy-charged particles to provide radiation therapy and related support
+*H460-v-1*
+General Assembly Of North Carolina Session 2025
+1 devices, including signal analysis and display equipment; patient and
+2 equipment supports; treatment planning software; and component parts and
+3 accessories.
+4 (5) Original equipment manufacturer (OEM). – An individual or entity that is
+5 engaged in the business of manufacturing and selling, leasing, or otherwise
+6 supplying medical imaging and radiation therapy equipment to others.
+7 (6) Owner. – An individual or entity that owns or leases medical imaging or
+8 radiation therapy equipment.
+9 (7) Part. – Any part made available by the original equipment manufacturer,
+10 whether new or used, that is necessary for the maintenance or repair of medical
+11 imaging or radiation therapy equipment.
+12 (8) Support documentation. – Any manual, diagram, reporting output, service
+13 code description, schematic diagram, security codes, passwords, or other
+14 guidance or information necessary to perform diagnostic, maintenance, or
+15 repair services on medical imaging and radiation therapy equipment.
+16 (9) Tool. – Any software, hardware, or other apparatus necessary to perform
+17 diagnostic, maintenance, or repair services on medical imaging and radiation
+18 therapy equipment, including items needed to program or pair new parts,
+19 calibrate functionality, conduct software updates, or perform any other
+20 function required to bring the product back to fully functional condition.
+21 "§ 66-503.1. Duties of original equipment manufacturer.
+22 Any OEM that manufactures medical imaging equipment or medical radiation therapy
+23 equipment that is used in this State is required to do the following:
+24 (1) Make available to any hospital or independent repair provider any support
+25 documentation, parts, or tools necessary to perform diagnostic, maintenance,
+26 or repair services of the manufacturer's medical imaging or radiation therapy
+27 equipment subject to the following terms:
+28 a. Anytime the OEM updates the support documentation for its
+29 equipment, the OEM shall automatically send notice of the updated
+30 information to all known equipment owners and independent repair
+31 providers.
+32 b. An OEM shall provide access to support documentation at no charge
+33 to an owner or independent repair provider, however, if the owner or
+34 independent repair provider requests a printed copy of a support
+35 document, the OEM may charge the owner or independent repair
+36 provider the actual costs of printing and shipping the print copy.
+37 c. An OEM shall provide access to tools without requiring authorization,
+38 registration, or other such impediment to access or use necessary tools,
+39 including impairing the ability to use the tools in an efficient and
+40 cost-effective manner. The OEM shall make tools available at no cost
+41 to an owner or independent repair provider, however, the OEM may
+42 charge an owner or independent repair provider the actual costs of
+43 preparing and shipping a tool.
+44 d. An OEM shall provide access to any support documentation or tools
+45 needed to access or reset any electronic security lock or any other
+46 security-related function.
+47 e. Both OEM and authorized repair providers shall provide access to
+48 parts at the same costs and under the same terms as the most favorable
+49 agreement between the OEM and any authorized repair provider.
+Page 2 House Bill 460-First Edition
+General Assembly Of North Carolina Session 2025
+1 (2) An OEM shall be in compliance with this section if the OEM delegates the
+2 requirements of this section to an authorized repair provider and the
+3 authorized repair provider satisfies the requirements on behalf of the OEM.
+4 (3) If an OEM offers training courses or training materials on how to properly
+5 operate, inspect, diagnose, maintain, or repair its equipment to authorized
+6 repair providers, the OEM must offer the same courses or materials to owners
+7 and independent repair providers.
+8 "§ 66-503.2. Limitations and enforcement.
+9 (a) Any violation of this Article is an unfair or deceptive trade practice for purposes of
+10 Chapter 75 of the General Statutes, and the violating party is subject to suit thereunder by injured
+11 parties and the Attorney General.
+12 (b) Nothing in this Article shall be construed to require an OEM to divulge any trade
+13 secret, as defined in G.S. 66-152, to an owner or independent repair provider.
+14 (c) Any provision of an agreement between an OEM and an authorized repair provider
+15 that purports to waive, avoid, restrict, or limit an OEM's obligation to comply with this Article is
+16 void and unenforceable.
+17 (d) No OEM or authorized repair provider shall be liable for any damage caused to
+18 medical imaging or radiation therapy equipment or injury caused to an owner or independent
+19 repair provider which occurs during repair, diagnosis, or maintenance of the equipment."
+20 SECTION 2. This act becomes effective July 1, 2025, and applies to equipment in
+21 use on or after that date.
+House Bill 460-First Edition Page 3
+[DELETED:  1 M ( R R A A A T R O E M O M I P E O A R P A T T S D T A P N T P D T S t " " " ( T ( A u i t A t f d a u c o r ( A a o e m t o o p d m o r s o t m m i o r m a a a u w a p o t o p s o b o t m F p o t A a o e m t o o p d m o r s o i o m i o r t ( I r p – A i o b t o o p r m ( M d m o t m c i p f u i m r i m X r r ( M r t e – A d t p h e p t p r t a r s]
+[DELETED:  S  H d i s a a d e p a e a ( O e s ( O A o r ( P – A p m a b t o e m w i ( S c d s d s c p o o g o n t p d m o r ( T – A s h o o a n t p d t e i i n t p o n p c f c s u o p a o f " A O t m m i e o m r t e ( M d o e a A t O u t s d f i e i p b A t i r p r a p c o a s d t O m c t o o i r p c A r i i t a t u t t i a e a c t c p d A n s e B p a]
+[DELETED:  S  P ( A r o t s t a a r p a t a ( I o i d m o i e t a r a " ( A C p ( N s ( A t v ( N O o p b l f a d c t m r S u]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 460
+Short Title: Medical Equipment Right to Repair Act. (Public)
+Sponsors: Representatives Belk, Carney, Cunningham, and Buansi (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+March 20, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE ORIGINAL EQUIPMENT MANUFACTURERS OF MEDICAL
+3 IMAGING EQUIPMENT AND MEDICAL RADIATION THERAPY EQUIPMENT TO
+4 PROVIDE EQUIPMENT OWNERS AND REPAIR PROVIDERS ACCESS TO THE
+5 SUPPORT DOCUMENTS, TOOLS, AND PARTS NECESSARY TO PERFORM
+6 DIAGNOSTIC, MAINTENANCE, AND REPAIR SERVICES ON THE EQUIPMENT.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+9 to read:
+10 "Article 52.
+11 "Medical Equipment Right to Repair Act.
+12 "§ 66-503. Citation and definitions.
+13 (a) This Article may be cited as the "Medical Equipment Right to Repair Act."
+14 (b) As used in this Article, the following definitions apply unless context otherwise
+15 requires:
+16 (1) Authorized repair provider. – An individual or entity that has contracted with
+17 an original equipment manufacturer to offer or perform diagnostic,
+18 maintenance, or repair services of the manufacturer's medical imaging or
+19 radiation therapy equipment whether operating under (i) a license to use the
+20 manufacturer's trade name, service mark, or other proprietary identifier or (ii)
+21 an alternative arrangement under which a provider offers to or provides
+22 services on behalf of the manufacturer. For purposes of this Article, an
+23 original equipment manufacturer that offers or performs diagnostic,
+24 maintenance, or repair services of its own medical imaging or radiation
+25 therapy equipment is also an authorized repair provider.
+26 (2) Independent repair provider. – An individual or business that offers or
+27 performs diagnostic, maintenance, or repair services of medical imaging or
+28 radiation therapy equipment without contracting with the original equipment
+29 manufacturer.
+30 (3) Medical imaging equipment. – Any device used to view the human body to
+31 diagnose, monitor, or treat medical conditions, including products for
+32 ultrasound imaging, magnetic resonance imaging, medical X ray,
+33 radiography, computed tomography, fluoroscopy, and mammography.
+34 (4) Medical radiation therapy equipment. – Any device that produces high
+35 energy-charged particles to provide radiation therapy and related support
+*H460-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 devices, including signal analysis and display equipment; patient and
+2 equipment supports; treatment planning software; and component parts and
+3 accessories.
+4 (5) Original equipment manufacturer (OEM). – An individual or entity that is
+5 engaged in the business of manufacturing and selling, leasing, or otherwise
+6 supplying medical imaging and radiation therapy equipment to others.
+7 (6) Owner. – An individual or entity that owns or leases medical imaging or
+8 radiation therapy equipment.
+9 (7) Part. – Any part made available by the original equipment manufacturer,
+10 whether new or used, that is necessary for the maintenance or repair of medical
+11 imaging or radiation therapy equipment.
+12 (8) Support documentation. – Any manual, diagram, reporting output, service
+13 code description, schematic diagram, security codes, passwords, or other
+14 guidance or information necessary to perform diagnostic, maintenance, or
+15 repair services on medical imaging and radiation therapy equipment.
+16 (9) Tool. – Any software, hardware, or other apparatus necessary to perform
+17 diagnostic, maintenance, or repair services on medical imaging and radiation
+18 therapy equipment, including items needed to program or pair new parts,
+19 calibrate functionality, conduct software updates, or perform any other
+20 function required to bring the product back to fully functional condition.
+21 "§ 66-503.1. Duties of original equipment manufacturer.
+22 Any OEM that manufactures medical imaging equipment or medical radiation therapy
+23 equipment that is used in this State is required to do the following:
+24 (1) Make available to any hospital or independent repair provider any support
+25 documentation, parts, or tools necessary to perform diagnostic, maintenance,
+26 or repair services of the manufacturer's medical imaging or radiation therapy
+27 equipment subject to the following terms:
+28 a. Anytime the OEM updates the support documentation for its
+29 equipment, the OEM shall automatically send notice of the updated
+30 information to all known equipment owners and independent repair
+31 providers.
+32 b. An OEM shall provide access to support documentation at no charge
+33 to an owner or independent repair provider, however, if the owner or
+34 independent repair provider requests a printed copy of a support
+35 document, the OEM may charge the owner or independent repair
+36 provider the actual costs of printing and shipping the print copy.
+37 c. An OEM shall provide access to tools without requiring authorization,
+38 registration, or other such impediment to access or use necessary tools,
+39 including impairing the ability to use the tools in an efficient and
+40 cost-effective manner. The OEM shall make tools available at no cost
+41 to an owner or independent repair provider, however, the OEM may
+42 charge an owner or independent repair provider the actual costs of
+43 preparing and shipping a tool.
+44 d. An OEM shall provide access to any support documentation or tools
+45 needed to access or reset any electronic security lock or any other
+46 security-related function.
+47 e. Both OEM and authorized repair providers shall provide access to
+48 parts at the same costs and under the same terms as the most favorable
+49 agreement between the OEM and any authorized repair provider.
+Page 2 House Bill 460-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) An OEM shall be in compliance with this section if the OEM delegates the
+2 requirements of this section to an authorized repair provider and the
+3 authorized repair provider satisfies the requirements on behalf of the OEM.
+4 (3) If an OEM offers training courses or training materials on how to properly
+5 operate, inspect, diagnose, maintain, or repair its equipment to authorized
+6 repair providers, the OEM must offer the same courses or materials to owners
+7 and independent repair providers.
+8 "§ 66-503.2. Limitations and enforcement.
+9 (a) Any violation of this Article is an unfair or deceptive trade practice for purposes of
+10 Chapter 75 of the General Statutes, and the violating party is subject to suit thereunder by injured
+11 parties and the Attorney General.
+12 (b) Nothing in this Article shall be construed to require an OEM to divulge any trade
+13 secret, as defined in G.S. 66-152, to an owner or independent repair provider.
+14 (c) Any provision of an agreement between an OEM and an authorized repair provider
+15 that purports to waive, avoid, restrict, or limit an OEM's obligation to comply with this Article is
+16 void and unenforceable.
+17 (d) No OEM or authorized repair provider shall be liable for any damage caused to
+18 medical imaging or radiation therapy equipment or injury caused to an owner or independent
+19 repair provider which occurs during repair, diagnosis, or maintenance of the equipment."
+20 SECTION 2. This act becomes effective July 1, 2025, and applies to equipment in
+21 use on or after that date.
+House Bill 460-First Edition Page 3
+
+[DELETED:  1 M ( R R A A A T R O E M O M I P E O A R P A T T S D T A P N T P D T S t " " " ( T ( A u i t A t f d a u c o r ( A a o e m t o o p d m o r s o t m m i o r m a a a u w a p o t o p s o b o t m F p o t A a o e m t o o p d m o r s o i o m i o r t ( I r p – A i o b t o o p r m ( M d m o t m c i p f u i m r i m X r r ( M r t e – A d t p h e p t p r t a r s]
+[DELETED:  S  H d i s a a d e p a e a ( O e s ( O A o r ( P – A p m a b t o e m w i ( S c d s d s c p o o g o n t p d m o r ( T – A s h o o a n t p d t e i i n t p o n p c f c s u o p a o f " A O t m m i e o m r t e ( M d o e a A t O u t s d f i e i p b A t i r p r a p c o a s d t O m c t o o i r p c A r i i t a t u t t i a e a c t c p d A n s e B p a]
+[DELETED:  S  P ( A r o t s t a a r p a t a ( I o i d m o i e t a r a " ( A C p ( N s ( A t v ( N O o p b l f a d c t m r S u]

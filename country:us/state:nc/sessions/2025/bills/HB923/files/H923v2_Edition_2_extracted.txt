@@ -1,0 +1,281 @@
+Title: HOUSE BILL 923
+Official Title: HOUSE BILL 923
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 4/29/25
+Short Title: Protect Personal Info/Judicial Personnel. (Public)
+Sponsors:
+Referred to:
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE REMOVAL OF PERSONAL IDENTIFYING INFORMATION
+3 FROM WEBSITES MAINTAINED BY THE STATE, COUNTIES, AND CITIES WHEN
+4 REQUESTED BY CERTAIN PROSECUTORS, PUBLIC DEFENDERS, AND JUDICIAL
+5 PERSONNEL.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Chapter 132 of the General Statutes is amended by adding a new
+8 section to read:
+9 "§ 132-20. Removal of personal identifying information from public websites; judicial
+10 personnel.
+11 (a) Any judicial official may request, in writing, that all personal identifying information
+12 be removed from any website, online computer database, or geographical information system
+13 maintained by any public agency and available to the general public, provided the request
+14 includes all of the following:
+15 (1) The name of the judicial official.
+16 (2) Information indicating the judicial official is eligible to make the request.
+17 (3) The specific personal identifying information to be removed.
+18 (b) Each public agency shall develop and make available a process by which any judicial
+19 official may request removal of that individual's personal identifying information from any
+20 website, online computer database, or geographical information system maintained by the public
+21 agency and available to the general public. The request to remove personal identifying
+22 information may also include a request to remove the personal identifying information of the
+23 individual's spouse.
+24 (c) The public agency must remove the personal identifying information if requested in
+25 accordance with this section. The personal identifying information removed in accordance with
+26 this section shall not be made available online again unless the public agency receives a written
+27 revocation from the judicial official who made the original request. Personal identifying
+28 information removed in accordance with this section continues to be a public record if it would
+29 otherwise be subject to disclosure under this Chapter.
+30 (d) Neither the request to remove the personal identifying information nor the revocation
+31 of the request is a public record as defined by G.S. 132-1, and the public agency shall keep the
+32 request and any revocation confidential.
+33 (e) A public agency and its officers, officials, employees, and agents, both past and
+34 present, in their official and individual capacity, shall be immune and held harmless from liability
+35 in any action brought by or on behalf of any person injured or harmed by the action or inaction,
+36 in good faith, of the public agency or its officers, officials, employees, and agents in
+*H923-v-2*
+General Assembly Of North Carolina Session 2025
+1 implementing the provisions of this section. However, if the actions of an officer, official,
+2 employee, or agent which result in harm were not within the course and scope of the duties of
+3 the officer, official, employee, or agent, the officer, official, employee, or agent may be subject
+4 to liability as an individual to the extent permitted by the laws of this State.
+5 (f) For purposes of this section, the following definitions shall apply:
+6 (1) Judicial official. – Any of the following individuals, while serving in that
+7 capacity:
+8 a. A magistrate.
+9 b. A justice or judge of the general court of justice.
+10 c. A district attorney or assistant district attorney.
+11 d. An assistant attorney general employed by the North Carolina
+12 Department of Justice.
+13 e. A United States Attorney, Assistant United States Attorney, or Special
+14 Assistant United States Attorney.
+15 f. A public defender or assistant public defender.
+16 g. A federal judge.
+17 h. A clerk of the superior court.
+18 i. A resource prosecutor employed by the Conference of District
+19 Attorneys.
+20 (2) Personal identifying information. – Excluding the name of the individual, any
+21 of the following:
+22 a. A physical residential address.
+23 b. A personal phone number.
+24 c. Any identifying information as defined in G.S. 14-113.20(b).
+25 d. A birth certificate.
+26 e. A marriage certificate."
+27 SECTION 2. G.S. 132-6.1(a1) reads as rewritten:
+28 "(a1) Notwithstanding G.S. 132-6.2(a), a public agency may satisfy the requirement under
+29 G.S. 132-6 to provide access to public records in computer databases by making public records
+30 in computer databases individually available online in a format that allows a person to view the
+31 public record and print or save the public record to obtain a copy. A public agency that provides
+32 access to public records under this subsection is not required to provide access to the public
+33 records in the computer database in any other way; provided, however, that a a public agency
+34 that provides access to public records under this subsection shall comply with G.S. 132-20 to
+35 remove any personal identifying information from an online computer database upon the request
+36 of a judicial official. A public agency that provides access to public records in computer databases
+37 under this subsection shall also allow inspection of any of such public records that the public
+38 agency also maintains in a nondigital medium."
+39 SECTION 3. G.S. 132-10 reads as rewritten:
+40 "§ 132-10. Qualified exception for geographical information systems.
+41 (a) Geographical information systems databases and data files developed and operated
+42 by counties and cities are public records within the meaning of this Chapter. The county or city
+43 shall provide public access to such systems by public access terminals or other output devices.
+44 Upon request, the county or city shall furnish copies, in documentary or electronic form, to
+45 anyone requesting them at reasonable cost. As a condition of furnishing an electronic copy,
+46 whether on magnetic tape, magnetic disk, compact disk, or photo-optical device, a county or city
+47 may require that the person obtaining the copy agree in writing that the copy will not be resold
+48 or otherwise used for trade or commercial purposes.
+49 (b) A county or city shall comply with G.S. 132-20 to remove any personal identifying
+50 information from a geographical information system database upon the request of a judicial
+51 official.
+Page 2 House Bill 923-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (c) For purposes of this section, publication or broadcast by the news media, real estate
+2 trade associations, or Multiple Listing Services operated by real estate trade associations shall
+3 not constitute a resale or use of the data for trade or commercial purposes and use of information
+4 without resale by a licensed professional in the course of practicing the professional's profession
+5 shall not constitute use for a commercial purpose. For purposes of this section, resale at cost by
+6 a real estate trade association or Multiple Listing Services operated by a real estate trade
+7 association shall not constitute a resale or use of the data for trade or commercial purposes."
+8 SECTION 4. G.S. 153A-98(c4) reads as rewritten:
+9 "(c4) Even if considered part of an employee's personnel file, the following information
+10 regarding any sworn law enforcement officer shall not be disclosed to an employee or any other
+11 person, unless disclosed in accordance with G.S. 132-1.4, or in accordance with G.S. 132-1.10,
+12 or for the personal safety of that sworn law enforcement officer or any other person residing in
+13 the same residence:
+14 (1) Information that might identify concerning the residence of a sworn law
+15 enforcement officer.
+16 (2) Emergency contact information.
+17 (3) Any identifying information as defined in G.S. 14-113.20."
+18 SECTION 5. G.S. 160A-168(c4) reads as rewritten:
+19 "(c4) Even if considered part of an employee's personnel file, the following information
+20 regarding any sworn law enforcement officer shall not be disclosed to an employee or any other
+21 person, unless disclosed in accordance with G.S. 132-1.4, or in accordance with G.S. 132-1.10,
+22 or for the personal safety of that sworn law enforcement officer or any other person residing in
+23 the same residence:
+24 (1) Information that might identify concerning the residence of a sworn law
+25 enforcement officer.
+26 (2) Emergency contact information.
+27 (3) Any identifying information as defined in G.S. 14-113.20."
+28 SECTION 6. This act is effective January 1, 2027.
+House Bill 923-Second Edition Page 3
+[DELETED:  2 P (   A A A T R R O P I I F R P T S s " R i p ( A b m b a p a a a t t g p p t r i ( T ( I ( T ( E o m r r o t i p i i f a w a a a t t g p T r t r p i i i ( T a t r f t j o w m t o r P i i o ( N o r ( A p a a i o o e a a b p a p i i g f o t p a o i o o e a a i]
+[DELETED:  S  H i t p o t s H i t a o a o o e t t ( F ( J c a A b A c A d A a a g e b t N C D e A A f A g A h A i A r p e b t C o D A ( P o a A b A c A d A e A S " N G i p a r t r o u a S " ( G b s U a w m o ( A i o]
+[DELETED:  S  P ( F t n w s a r e t a o M L S o b a r e t a S " E r p o t ( I t m i c t r o a s l e ( E ( A S " E r p o t ( I t m i c t r o a s l e ( E ( A S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 923
+Committee Substitute Favorable 4/29/25
+Short Title: Protect Personal Info/Judicial Personnel. (Public)
+Sponsors:
+Referred to:
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE REMOVAL OF PERSONAL IDENTIFYING INFORMATION
+3 FROM WEBSITES MAINTAINED BY THE STATE, COUNTIES, AND CITIES WHEN
+4 REQUESTED BY CERTAIN PROSECUTORS, PUBLIC DEFENDERS, AND JUDICIAL
+5 PERSONNEL.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Chapter 132 of the General Statutes is amended by adding a new
+8 section to read:
+9 "§ 132-20. Removal of personal identifying information from public websites; judicial
+10 personnel.
+11 (a) Any judicial official may request, in writing, that all personal identifying information
+12 be removed from any website, online computer database, or geographical information system
+13 maintained by any public agency and available to the general public, provided the request
+14 includes all of the following:
+15 (1) The name of the judicial official.
+16 (2) Information indicating the judicial official is eligible to make the request.
+17 (3) The specific personal identifying information to be removed.
+18 (b) Each public agency shall develop and make available a process by which any judicial
+19 official may request removal of that individual's personal identifying information from any
+20 website, online computer database, or geographical information system maintained by the public
+21 agency and available to the general public. The request to remove personal identifying
+22 information may also include a request to remove the personal identifying information of the
+23 individual's spouse.
+24 (c) The public agency must remove the personal identifying information if requested in
+25 accordance with this section. The personal identifying information removed in accordance with
+26 this section shall not be made available online again unless the public agency receives a written
+27 revocation from the judicial official who made the original request. Personal identifying
+28 information removed in accordance with this section continues to be a public record if it would
+29 otherwise be subject to disclosure under this Chapter.
+30 (d) Neither the request to remove the personal identifying information nor the revocation
+31 of the request is a public record as defined by G.S. 132-1, and the public agency shall keep the
+32 request and any revocation confidential.
+33 (e) A public agency and its officers, officials, employees, and agents, both past and
+34 present, in their official and individual capacity, shall be immune and held harmless from liability
+35 in any action brought by or on behalf of any person injured or harmed by the action or inaction,
+36 in good faith, of the public agency or its officers, officials, employees, and agents in
+*H923-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 implementing the provisions of this section. However, if the actions of an officer, official,
+2 employee, or agent which result in harm were not within the course and scope of the duties of
+3 the officer, official, employee, or agent, the officer, official, employee, or agent may be subject
+4 to liability as an individual to the extent permitted by the laws of this State.
+5 (f) For purposes of this section, the following definitions shall apply:
+6 (1) Judicial official. – Any of the following individuals, while serving in that
+7 capacity:
+8 a. A magistrate.
+9 b. A justice or judge of the general court of justice.
+10 c. A district attorney or assistant district attorney.
+11 d. An assistant attorney general employed by the North Carolina
+12 Department of Justice.
+13 e. A United States Attorney, Assistant United States Attorney, or Special
+14 Assistant United States Attorney.
+15 f. A public defender or assistant public defender.
+16 g. A federal judge.
+17 h. A clerk of the superior court.
+18 i. A resource prosecutor employed by the Conference of District
+19 Attorneys.
+20 (2) Personal identifying information. – Excluding the name of the individual, any
+21 of the following:
+22 a. A physical residential address.
+23 b. A personal phone number.
+24 c. Any identifying information as defined in G.S. 14-113.20(b).
+25 d. A birth certificate.
+26 e. A marriage certificate."
+27 SECTION 2. G.S. 132-6.1(a1) reads as rewritten:
+28 "(a1) Notwithstanding G.S. 132-6.2(a), a public agency may satisfy the requirement under
+29 G.S. 132-6 to provide access to public records in computer databases by making public records
+30 in computer databases individually available online in a format that allows a person to view the
+31 public record and print or save the public record to obtain a copy. A public agency that provides
+32 access to public records under this subsection is not required to provide access to the public
+33 records in the computer database in any other way; provided, however, that a a public agency
+34 that provides access to public records under this subsection shall comply with G.S. 132-20 to
+35 remove any personal identifying information from an online computer database upon the request
+36 of a judicial official. A public agency that provides access to public records in computer databases
+37 under this subsection shall also allow inspection of any of such public records that the public
+38 agency also maintains in a nondigital medium."
+39 SECTION 3. G.S. 132-10 reads as rewritten:
+40 "§ 132-10. Qualified exception for geographical information systems.
+41 (a) Geographical information systems databases and data files developed and operated
+42 by counties and cities are public records within the meaning of this Chapter. The county or city
+43 shall provide public access to such systems by public access terminals or other output devices.
+44 Upon request, the county or city shall furnish copies, in documentary or electronic form, to
+45 anyone requesting them at reasonable cost. As a condition of furnishing an electronic copy,
+46 whether on magnetic tape, magnetic disk, compact disk, or photo-optical device, a county or city
+47 may require that the person obtaining the copy agree in writing that the copy will not be resold
+48 or otherwise used for trade or commercial purposes.
+49 (b) A county or city shall comply with G.S. 132-20 to remove any personal identifying
+50 information from a geographical information system database upon the request of a judicial
+51 official.
+Page 2 House Bill 923-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c) For purposes of this section, publication or broadcast by the news media, real estate
+2 trade associations, or Multiple Listing Services operated by real estate trade associations shall
+3 not constitute a resale or use of the data for trade or commercial purposes and use of information
+4 without resale by a licensed professional in the course of practicing the professional's profession
+5 shall not constitute use for a commercial purpose. For purposes of this section, resale at cost by
+6 a real estate trade association or Multiple Listing Services operated by a real estate trade
+7 association shall not constitute a resale or use of the data for trade or commercial purposes."
+8 SECTION 4. G.S. 153A-98(c4) reads as rewritten:
+9 "(c4) Even if considered part of an employee's personnel file, the following information
+10 regarding any sworn law enforcement officer shall not be disclosed to an employee or any other
+11 person, unless disclosed in accordance with G.S. 132-1.4, or in accordance with G.S. 132-1.10,
+12 or for the personal safety of that sworn law enforcement officer or any other person residing in
+13 the same residence:
+14 (1) Information that might identify concerning the residence of a sworn law
+15 enforcement officer.
+16 (2) Emergency contact information.
+17 (3) Any identifying information as defined in G.S. 14-113.20."
+18 SECTION 5. G.S. 160A-168(c4) reads as rewritten:
+19 "(c4) Even if considered part of an employee's personnel file, the following information
+20 regarding any sworn law enforcement officer shall not be disclosed to an employee or any other
+21 person, unless disclosed in accordance with G.S. 132-1.4, or in accordance with G.S. 132-1.10,
+22 or for the personal safety of that sworn law enforcement officer or any other person residing in
+23 the same residence:
+24 (1) Information that might identify concerning the residence of a sworn law
+25 enforcement officer.
+26 (2) Emergency contact information.
+27 (3) Any identifying information as defined in G.S. 14-113.20."
+28 SECTION 6. This act is effective January 1, 2027.
+House Bill 923-Second Edition Page 3
+
+[DELETED:  2 P (   A A A T R R O P I I F R P T S s " R i p ( A b m b a p a a a t t g p p t r i ( T ( I ( T ( E o m r r o t i p i i f a w a a a t t g p T r t r p i i i ( T a t r f t j o w m t o r P i i o ( N o r ( A p a a i o o e a a b p a p i i g f o t p a o i o o e a a i]
+[DELETED:  S  H i t p o t s H i t a o a o o e t t ( F ( J c a A b A c A d A a a g e b t N C D e A A f A g A h A i A r p e b t C o D A ( P o a A b A c A d A e A S " N G i p a r t r o u a S " ( G b s U a w m o ( A i o]
+[DELETED:  S  P ( F t n w s a r e t a o M L S o b a r e t a S " E r p o t ( I t m i c t r o a s l e ( E ( A S " E r p o t ( I t m i c t r o a s l e ( E ( A S]

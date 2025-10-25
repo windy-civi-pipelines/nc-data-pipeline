@@ -1,0 +1,198 @@
+Title: HOUSE BILL DRH30027-MU-12
+Official Title: HOUSE BILL DRH30027-MU-12
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+H.B. 38
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Feb 3, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Second Amendment Financial Privacy Act. (Public)
+Sponsors: Representative Pyrtle.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE SECOND AMENDMENT FINANCIAL PRIVACY ACT.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+5 to read:
+6 "Article 52.
+7 "Second Amendment Financial Privacy Act.
+8 "§ 66-511. Legislative findings.
+9 The General Assembly finds all of the following:
+10 (1) The right of individuals to keep and bear arms is guaranteed under both the
+11 Second Amendment to the United States Constitution and Section 30 of
+12 Article I of the North Carolina Constitution.
+13 (2) In September 2022, the International Organization for Standardization, based
+14 in Switzerland, approved a new merchant category code for firearms
+15 merchants.
+16 (3) The new merchant category code would allow payment card networks and
+17 others involved in payment card processing to identify and separately track
+18 lawful payment card purchases at firearms merchants in North Carolina. This
+19 surveillance would cause a significant chilling effect on individuals in North
+20 Carolina wishing to exercise their federal and State constitutional rights to
+21 keep and bear arms.
+22 (4) In order to protect consumers in this State and promote lawful commerce in
+23 this State, the Second Amendment Financial Privacy Act prohibits payment
+24 card networks from using a firearms code or maintaining a firearms registry.
+25 "§ 66-512. Definitions.
+26 The following definitions apply in this Article:
+27 (1) Firearms code. – Any code or other indicator that identifies to a payment card
+28 network any of the following:
+29 a. Whether a person is a firearms merchant.
+30 b. Whether a payment involves the purchase of a firearm or firearm
+31 ammunition.
+32 (2) Firearms merchant. – A person engaged in the lawful business of selling or
+33 trading firearms or firearm ammunition.
+34 (3) Payment card network. – An entity involved in facilitating or processing an
+35 electronic transfer of funds between a merchant and a customer using a
+36 payment card. This term does not include the following:
+*DRH30027-MU-12*
+General Assembly Of North Carolina Session 2025
+1 a. A bank holding federally insured deposits from individuals.
+2 b. A credit union holding federally insured deposits from individuals.
+3 "§ 66-513. Prohibitions.
+4 (a) No payment card network shall use a firearms code in connection with a payment
+5 card transaction involving a firearms merchant located in this State.
+6 (b) No payment card network shall knowingly maintain a record of individuals residing
+7 in this State who own firearms.
+8 (c) No payment card network shall discriminate against a firearms merchant based solely
+9 on the assignment or nonassignment of a firearms code, including by refusing to serve on similar
+10 terms or declining a lawful payment card transaction.
+11 "§ 66-514. Enforcement; civil penalty.
+12 (a) The Attorney General may investigate an alleged violation of this Article. After notice
+13 and an opportunity for hearing, if the Attorney General determines that a payment card network
+14 violated this Article, the Attorney General may assess a civil penalty of not more than ten
+15 thousand dollars ($10,000) for each violation. The clear proceeds of any penalty assessed
+16 pursuant to this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance
+17 with G.S. 115C-457.2.
+18 (b) The powers vested in the Attorney General by this Article are in addition to and do
+19 not limit the ability of the Attorney General to take other enforcement action.
+20 "§ 66-515. Civil liability for violation.
+21 (a) Cause of Action. – A civil action may be brought against a payment card network for
+22 violation of this Article by any of the following:
+23 (1) A firearms merchant located in this State whose payment card transactions are
+24 designated with a firearms code.
+25 (2) A person that makes a payment card transaction with a firearms merchant
+26 located in this State and whose payment card record includes a firearms code
+27 for that transaction.
+28 (3) An individual for whom a payment card network maintains a record of firearm
+29 ownership.
+30 (b) Relief and Damages. – A person authorized to institute a civil action by subsection
+31 (a) of this section may seek and the court may award any or all of the following types of relief:
+32 (1) An injunction to enjoin continued violation of this Article.
+33 (2) Statutory damages in the amount of ten thousand dollars ($10,000) for each
+34 instance of violation of this Article connected to the person filing the civil
+35 action.
+36 (3) Costs and attorneys' fees.
+37 (c) Statute of Limitations. – No action shall be maintained under subsection (a) of this
+38 section unless it is commenced no later than three years after the discovery of the violation of
+39 this Article."
+40 SECTION 2. This act becomes effective October 1, 2025.
+Page 2 DRH30027-MU-12
+[DELETED:  D S ( R  A A T S t " " " T ( T S A t t U S C a S 3 o A ( I i S a a n m c c f f m ( T o l s C k ( I t c " T ( F n a W b W a p i t p o a f o f a ( F t ( P e t o f b a m a a c u a p]
+[DELETED:  S  D a A b A " ( N c ( N i ( N o t " ( T a v t A t A G m a a c p o n m t t t d ( f e v T c p o a p a p w ( T n " ( C v ( A d ( A l f ( A o ( R ( ( A ( S i a ( C ( S s t S]
+
+
+================================================================================
+
+Raw Text:
+H.B. 38
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Feb 3, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH30027-MU-12
+Short Title: Second Amendment Financial Privacy Act. (Public)
+Sponsors: Representative Pyrtle.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE SECOND AMENDMENT FINANCIAL PRIVACY ACT.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+5 to read:
+6 "Article 52.
+7 "Second Amendment Financial Privacy Act.
+8 "§ 66-511. Legislative findings.
+9 The General Assembly finds all of the following:
+10 (1) The right of individuals to keep and bear arms is guaranteed under both the
+11 Second Amendment to the United States Constitution and Section 30 of
+12 Article I of the North Carolina Constitution.
+13 (2) In September 2022, the International Organization for Standardization, based
+14 in Switzerland, approved a new merchant category code for firearms
+15 merchants.
+16 (3) The new merchant category code would allow payment card networks and
+17 others involved in payment card processing to identify and separately track
+18 lawful payment card purchases at firearms merchants in North Carolina. This
+19 surveillance would cause a significant chilling effect on individuals in North
+20 Carolina wishing to exercise their federal and State constitutional rights to
+21 keep and bear arms.
+22 (4) In order to protect consumers in this State and promote lawful commerce in
+23 this State, the Second Amendment Financial Privacy Act prohibits payment
+24 card networks from using a firearms code or maintaining a firearms registry.
+25 "§ 66-512. Definitions.
+26 The following definitions apply in this Article:
+27 (1) Firearms code. – Any code or other indicator that identifies to a payment card
+28 network any of the following:
+29 a. Whether a person is a firearms merchant.
+30 b. Whether a payment involves the purchase of a firearm or firearm
+31 ammunition.
+32 (2) Firearms merchant. – A person engaged in the lawful business of selling or
+33 trading firearms or firearm ammunition.
+34 (3) Payment card network. – An entity involved in facilitating or processing an
+35 electronic transfer of funds between a merchant and a customer using a
+36 payment card. This term does not include the following:
+*DRH30027-MU-12*
+
+General Assembly Of North Carolina Session 2025
+1 a. A bank holding federally insured deposits from individuals.
+2 b. A credit union holding federally insured deposits from individuals.
+3 "§ 66-513. Prohibitions.
+4 (a) No payment card network shall use a firearms code in connection with a payment
+5 card transaction involving a firearms merchant located in this State.
+6 (b) No payment card network shall knowingly maintain a record of individuals residing
+7 in this State who own firearms.
+8 (c) No payment card network shall discriminate against a firearms merchant based solely
+9 on the assignment or nonassignment of a firearms code, including by refusing to serve on similar
+10 terms or declining a lawful payment card transaction.
+11 "§ 66-514. Enforcement; civil penalty.
+12 (a) The Attorney General may investigate an alleged violation of this Article. After notice
+13 and an opportunity for hearing, if the Attorney General determines that a payment card network
+14 violated this Article, the Attorney General may assess a civil penalty of not more than ten
+15 thousand dollars ($10,000) for each violation. The clear proceeds of any penalty assessed
+16 pursuant to this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance
+17 with G.S. 115C-457.2.
+18 (b) The powers vested in the Attorney General by this Article are in addition to and do
+19 not limit the ability of the Attorney General to take other enforcement action.
+20 "§ 66-515. Civil liability for violation.
+21 (a) Cause of Action. – A civil action may be brought against a payment card network for
+22 violation of this Article by any of the following:
+23 (1) A firearms merchant located in this State whose payment card transactions are
+24 designated with a firearms code.
+25 (2) A person that makes a payment card transaction with a firearms merchant
+26 located in this State and whose payment card record includes a firearms code
+27 for that transaction.
+28 (3) An individual for whom a payment card network maintains a record of firearm
+29 ownership.
+30 (b) Relief and Damages. – A person authorized to institute a civil action by subsection
+31 (a) of this section may seek and the court may award any or all of the following types of relief:
+32 (1) An injunction to enjoin continued violation of this Article.
+33 (2) Statutory damages in the amount of ten thousand dollars ($10,000) for each
+34 instance of violation of this Article connected to the person filing the civil
+35 action.
+36 (3) Costs and attorneys' fees.
+37 (c) Statute of Limitations. – No action shall be maintained under subsection (a) of this
+38 section unless it is commenced no later than three years after the discovery of the violation of
+39 this Article."
+40 SECTION 2. This act becomes effective October 1, 2025.
+Page 2 DRH30027-MU-12
+
+[DELETED:  D S ( R  A A T S t " " " T ( T S A t t U S C a S 3 o A ( I i S a a n m c c f f m ( T o l s C k ( I t c " T ( F n a W b W a p i t p o a f o f a ( F t ( P e t o f b a m a a c u a p]
+[DELETED:  S  D a A b A " ( N c ( N i ( N o t " ( T a v t A t A G m a a c p o n m t t t d ( f e v T c p o a p a p w ( T n " ( C v ( A d ( A l f ( A o ( R ( ( A ( S i a ( C ( S s t S]

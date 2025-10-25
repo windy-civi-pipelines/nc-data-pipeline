@@ -1,0 +1,1884 @@
+Title: HOUSE BILL 388
+Official Title: HOUSE BILL 388
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+Committee Substitute Favorable 3/25/25
+Senate Judiciary Committee Substitute Adopted 6/17/25
+Fourth Edition Engrossed 6/23/25
+Short Title: Amend Business Corporations Act. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE NORTH CAROLINA BUSINESS CORPORATIONS ACT, AS
+3 RECOMMENDED BY THE NORTH CAROLINA BAR ASSOCIATION, TO
+4 AUTHORIZE THE PROBATE OF A CERTIFIED COPY OF AN ATTESTED WRITTEN
+5 WILL THAT HAS BEEN STORED BY AN ATTORNEY AS AN ELECTRONIC
+6 RECORD, TO MODIFY THE EMERGENCY VIDEO SUNSETS, TO MAKE UPDATES
+7 TO THE ELECTIVE SHARE STATUTES, TO UPDATE STATUTES RELATING TO
+8 TRUST ADMINISTRATION, AND TO MAKE REVISIONS TO THE YEAR'S
+9 ALLOWANCE STATUTES.
+10 The General Assembly of North Carolina enacts:
+11
+12 PART I. PROVIDE FOR OFFICER EXCULPATION
+13 SECTION 1. G.S. 55-2-02 reads as rewritten:
+14 "§ 55-2-02. Articles of incorporation.
+15 …
+16 (b) The articles of incorporation may set forth any provision that under this Chapter is
+17 required or permitted to be set forth in the bylaws, and may also set forth any or all of the
+18 following:
+19 (1) The names and addresses of the individuals who are to serve as the initial
+20 directors.
+21 (2) Provisions not inconsistent with law regarding (i) the purpose or purposes for
+22 which the corporation is organized; (ii) managing the business and regulating
+23 the affairs of the corporation; (iii) defining, limiting, and regulating the powers
+24 of the corporation, its board of directors, and shareholders; (iv) a par value for
+25 authorized shares or classes of shares; (v) the imposition of personal liability
+26 on shareholders for the debts of the corporation to a specified extent and upon
+27 specified conditions; and (vi) any limitation on the duration of the corporation.
+28 (3) A provision limiting or eliminating the personal liability of any director
+29 arising out of an action whether by or in the right of the corporation or
+30 otherwise for monetary damages for breach of any duty as a director. director
+31 or limiting or eliminating the personal liability of any officer arising out of an
+32 action for monetary damages for breach of any duty as an officer. No such
+33 provision shall be effective with respect to (i) acts or omissions that the
+34 director or officer at the time of such the breach knew or believed were clearly
+*H388-v-4*
+General Assembly Of North Carolina Session 2025
+1 in conflict with the best interests of the corporation, (ii) in the case of a
+2 director, any liability under G.S. 55-8-33, (iii) any transaction from which the
+3 director or officer derived an improper personal benefit, or (iv) acts or
+4 omissions occurring prior to the date the provisions provision became
+5 effective. effective, or (v) in the case of an officer, any claim by or in the right
+6 of the corporation. As used herein, in this subdivision, the term "improper
+7 personal benefit" does not include a director's reasonable compensation or
+8 other reasonable incidental benefit for or on account of his the director's
+9 service as a director, officer, employee, independent contractor, attorney, or
+10 consultant of the corporation. A provision permitted by this Chapter in the
+11 articles of incorporation, bylaws, or a contract or resolution indemnifying or
+12 agreeing to indemnify a director against personal liability shall be is fully
+13 effective whether or not there is a provision in the articles of incorporation
+14 limiting or eliminating personal liability.
+15 (4) A provision limiting or eliminating any duty of a director, an officer, or any
+16 other person, to offer the corporation the right to have or participate in one or
+17 more specific classes or categories of business opportunities, prior to the
+18 pursuit or taking of the opportunity by the director, officer, or other person.
+19 (c) The articles of incorporation need not set forth any of the corporate powers
+20 enumerated in this Chapter.
+21 (d) Articles of incorporation filed to effect the conversion of another business entity
+22 pursuant to Article 11A of this Chapter shall also include the statements required by
+23 G.S. 55-11A-03(a).
+24 (e) For purposes of subdivision (b)(3) of this section, unless the articles of incorporation
+25 otherwise provide, "officer" means an individual appointed in accordance with G.S. 55-8-40 as
+26 (i) president, chief executive officer, chief operating officer, chief financial officer, chief legal
+27 officer, secretary, controller, treasurer, or chief accounting officer of the corporation and (ii) any
+28 officer of the corporation designated by resolution of the board of directors as an officer for
+29 purposes of subdivision (b)(3) of this section. The board of directors may from time to time by
+30 resolution determine that one or more of the officers designated by resolution of the board in
+31 accordance with this subsection is no longer an officer for purposes of subdivision (b)(3) of this
+32 section, but no such resolution is effective as to an officer, or any act or omission of the officer,
+33 prior to the adoption of that resolution."
+34
+35 PART II. CLARIFY PROVISIONS FOR EMERGENCY BYLAWS AND EMERGENCY
+36 POWERS
+37 SECTION 2.(a) G.S. 55-2-07 reads as rewritten:
+38 "§ 55-2-07. Emergency bylaws.
+39 (a) Unless the articles of incorporation provide otherwise, the board of directors of a
+40 corporation may adopt bylaws to be bylaws may contain provisions that become effective only
+41 in an emergency defined in subsection (d). during an emergency if the provisions are adopted in
+42 advance of an emergency. The emergency bylaws, which are subject to amendment or repeal by
+43 the shareholders, may make bylaws may contain all provisions necessary for managing the
+44 corporation during the an emergency, including:including all of the following:
+45 (1) Procedures for calling a meeting of the board of directors; directors.
+46 (2) Quorum requirements for the meeting; andmeeting.
+47 (3) Designation of additional or substitute directors.
+48 (b) All provisions of the regular bylaws consistent with the emergency bylaws remain
+49 effective during the emergency. The emergency bylaws are not effective after the emergency
+50 ends.
+Page 2 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (c) Corporate action taken in good faith in accordance with the emergency bylaws binds
+2 the corporation and the fact that the action was taken by special procedures may shall not be used
+3 to impose liability on a corporate director, officer, employee, or agent.
+4 (d) An emergency exists for purposes of this section if a quorum of the corporation's
+5 directors cannot readily be assembled because of some catastrophic event."
+6 SECTION 2.(b) G.S. 55-3-03 reads as rewritten:
+7 "§ 55-3-03. Emergency powers.
+8 (a) In anticipation of or during an emergency defined in subsection (d), the board of
+9 directors of a corporation may:
+10 (1) Modify lines of succession to accommodate the incapacity of any director,
+11 officer, employee, or agent; and
+12 (2) Relocate the principal office, designate alternative principal offices or
+13 regional offices, or authorize the officers to do so.
+14 (b) During an emergency defined in subsection (d), emergency, unless emergency bylaws
+15 provide otherwise:otherwise, both of the following apply:
+16 (1) Notice of a meeting of the board of directors need be given only to those
+17 directors whom it is practicable to reach and may be given in any practicable
+18 manner, including by publication and radio; and radio.
+19 (2) One or more officers of the corporation present at a meeting of the board of
+20 directors may be deemed to be directors for the meeting, in order of rank and
+21 within the same rank in order of seniority, as to the extent necessary to achieve
+22 a quorum.
+23 (b1) During an emergency, unless emergency bylaws provide otherwise, the board of
+24 directors may postpone a meeting of shareholders for which notice has been given or authorize
+25 shareholders to participate in a meeting by any means of remote communication that conforms
+26 with G.S. 55-7-09(b). The corporation shall give notice to shareholders, by such means and with
+27 such shorter advance notice as are reasonable in the circumstances, of any postponement,
+28 including any new date, time, or place, and shall describe any means of remote communication
+29 to be used.
+30 (c) Corporate action taken in good faith under this section during an emergency under
+31 this section to further the ordinary business affairs of the corporation binds the corporation and
+32 the fact that said the action is taken by special procedures may shall not be used to impose liability
+33 on a corporate director, officer, employee, or agent.agent of the corporation.
+34 (d) An emergency exists for purposes of subsection (b) of this section if a quorum of the
+35 corporation's directors cannot readily be assembled because of some catastrophic event. An
+36 emergency exists for purposes of subsection (b1) of this section if, because of some catastrophic
+37 event, it is impracticable to convene a meeting of shareholders in accordance with this Chapter
+38 or the bylaws or as specified in a notice previously given for the meeting."
+39
+40 PART III. CLARIFY PROVISIONS FOR SELECTION OF EXCLUSIVE FORUM
+41 SECTION 3.(a) Article 2 of Chapter 55 of the General Statutes is amended by adding
+42 a new section to read:
+43 "§ 55-2-08. Forum selection provisions.
+44 (a) The articles of incorporation or the bylaws may require that any or all internal
+45 corporate claims shall be brought exclusively in any specified court or courts of this State and, if
+46 so specified, in any additional courts in this State or in any other jurisdictions with which the
+47 corporation has a reasonable relationship.
+48 (b) A provision of the articles of incorporation or bylaws adopted under subsection (a) of
+49 this section does not have the effect of conferring jurisdiction on any court or over any person or
+50 claim and does not apply if none of the courts specified by the provision has the requisite personal
+51 and subject matter jurisdiction. If the court or courts of this State specified in a provision adopted
+House Bill 388-Fourth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 under subsection (a) of this section do not have the requisite personal and subject matter
+2 jurisdiction and another court of this State does have the requisite jurisdiction, then the internal
+3 corporate claim may be brought in the other court of this State, notwithstanding that the other
+4 court of this State is not specified in the provision. Additionally, the internal corporate claim may
+5 be brought in any other court specified in the provision that has the requisite jurisdiction.
+6 (c) No provision of the articles of incorporation or the bylaws may prohibit bringing an
+7 internal corporate claim in the courts of this State or require the claims to be determined by
+8 arbitration.
+9 (d) For the purposes of this section, "internal corporate claim" means any of the
+10 following:
+11 (1) A claim that is based on a violation of a duty under the laws of this State by a
+12 current or former director, officer, or shareholder in such capacity.
+13 (2) A derivative proceeding brought on behalf of the corporation.
+14 (3) An action asserting a claim arising pursuant to any provision of this Chapter
+15 or the articles of incorporation or bylaws.
+16 (4) An action asserting a claim governed by the internal affairs doctrine that is not
+17 otherwise included in subdivisions (1) through (3) of this subsection."
+18 SECTION 3.(b) G.S. 55-7-50 is repealed.
+19
+20 PART IV. PROHIBITION AGAINST THE ISSUANCE OF SCRIP IN BEARER FORM
+21 SECTION 4.(a) G.S. 55-6-04 reads as rewritten:
+22 "§ 55-6-04. Fractional shares.
+23 (a) A corporation may:may issue fractions of a share or, in lieu of doing so, may do any
+24 of the following:
+25 (1) Issue fractions of a share or pay in money Pay in cash the value of fractions
+26 of a share;share.
+27 (2) Arrange for disposition of fractional shares by the shareholders;Dispose of the
+28 fractional shares and pay the proceeds to the holders of those shares.
+29 (3) Issue scrip in registered or bearer certificated or uncertificated form entitling
+30 the holder to receive a full share upon surrendering enough scrip to equal a
+31 full share.
+32 (b) Each certificate representing scrip must shall be conspicuously labeled "scrip" and
+33 must shall contain the information required by G.S. 55-6-25(b). A corporation shall not issue
+34 scrip certificates in bearer form. Within a reasonable time after the issuance or transfer of scrip
+35 without certificates, the corporation shall deliver to the scripholder a written statement of the
+36 information required on certificates by G.S. 55-6-25(b) and the terms of the scrip.
+37 (c) The holder of a fractional share is entitled to exercise the rights of a shareholder,
+38 including the right rights to vote, to receive dividends, and to participate in the assets of the
+39 corporation receive distributions upon liquidation. The holder of scrip is not entitled to any of
+40 these rights unless the scrip provides for them.
+41 (d) The board of directors may authorize the issuance of scrip subject to any condition
+42 considered desirable, including:including the following:
+43 (1) That the The scrip will become void if not exchanged for full shares before a
+44 specified date; anddate.
+45 (2) That the The shares for which the scrip is exchangeable may be sold and the
+46 proceeds paid to the scripholders."
+47 SECTION 4.(b) G.S. 55-6-25 reads as rewritten:
+48 "§ 55-6-25. Form and content of certificates.
+49 (a) Shares may may, but need not not, be represented by certificates. Share certificates
+50 shall not be issued in bearer form. Unless this act Chapter or another statute expressly provides
+Page 4 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 otherwise, the rights and obligations of shareholders are identical regardless of whether or not
+2 their shares are represented by certificates.
+3 (b) At a minimum each share certificate must shall state all of the following on its face:
+4 (1) The name of the issuing corporation and that it is organized under the law of
+5 North Carolina;Carolina.
+6 (2) The name of the person to whom issued; andissued.
+7 (3) The number and class of shares and the designation of the series, if any, the
+8 certificate represents.
+9 (c) If the issuing corporation is authorized to issue different classes of shares or different
+10 series within a class, the designations, relative rights, preferences, and limitations applicable to
+11 each class and the variations in rights, preferences, and limitations determined for each series
+12 (and the authority of the board of directors to determine variations for future series) must shall
+13 be summarized on the front or back of each certificate. Alternatively, each certificate may state
+14 conspicuously on its front or back that the corporation will furnish the shareholder this
+15 information on request in writing and without charge.
+16 (d) Each share certificate (1) must (i) shall be signed (either manually or in facsimile) by
+17 two officers designated in the bylaws or by the board of directors and (2) (ii) may bear the
+18 corporate seal or its facsimile.
+19 (e) If the person who signed in any capacity (either manually or in facsimile) a share
+20 certificate no longer holds office when the certificate is issued, the certificate is nevertheless
+21 valid."
+22
+23 PART V. CLARIFY AND REVISE DERIVATIVE PROCEEDING PROCEDURES
+24 SECTION 5.(a) G.S. 55-7-40.1 reads as rewritten:
+25 "§ 55-7-40.1. Definitions.
+26 In this Part:
+27 (1) "Derivative proceeding" means a civil suit in the right of a domestic
+28 corporation or, to the extent provided in G.S. 55-7-47, in the right of a foreign
+29 corporation.corporation, to recover for an injury to the corporation.
+30 (2) "Shareholder" has the same meaning as in G.S. 55-1-40 and includes a
+31 beneficial owner whose shares are held in a voting trust or held by a nominee
+32 on the beneficial owner's behalf."
+33 SECTION 5.(b) G.S. 55-7-42 reads as rewritten:
+34 "§ 55-7-42. Demand.
+35 No shareholder may commence a derivative proceeding until:until both of the following have
+36 occurred:
+37 (1) A written demand has been made upon delivered to the corporation to take
+38 suitable action; andaction. The written demand shall describe in reasonable
+39 detail the reasons for the demand and the action being requested and state that
+40 the shareholder may commence a derivative proceeding if the action is not
+41 taken. If the shareholder is a beneficial shareholder or an unrestricted voting
+42 trust beneficial owner, the written demand shall be accompanied by evidence
+43 of the beneficial ownership.
+44 (2) 90 days have expired from the date the demand was made unless, prior to the
+45 expiration of the 90 days, the shareholder was notified that the corporation
+46 rejected the demand, or unless irreparable injury to the corporation would
+47 result by waiting for the expiration of the 90-day period."
+48 SECTION 5.(c) G.S. 55-7-44 reads as rewritten:
+49 "§ 55-7-44. Dismissal.
+50 (a) The court shall dismiss a derivative proceeding on motion of the corporation if a
+51 determination is made, whether before or after the commencement of the derivative proceeding,
+House Bill 388-Fourth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 by one of the groups specified in subsection (b) or (f) of this section determines of this section in
+2 good faith faith, after conducting a reasonable inquiry upon which its conclusions are based
+3 based, that the maintenance of the derivative proceeding is not in the best interest of the
+4 corporation.
+5 (b) Unless a panel is appointed pursuant to subsection (f) of this section, the The inquiry
+6 and determination in subsection (a) of this section shall be made by:by any of the following:
+7 (1) A majority vote of independent directors present at a meeting of the board of
+8 directors if the independent directors constitute a quorum; orquorum.
+9 (2) A majority vote of a committee consisting of two or more independent
+10 directors appointed by majority vote of independent directors present at a
+11 meeting of the board of directors, whether or not the independent directors
+12 constituted a quorum.
+13 (3) Upon motion by the corporation, by a panel of one or more individuals
+14 appointed by the court.
+15 (c) For purposes of this section, none of the following factors by itself shall cause a
+16 director to be considered not independent:
+17 (1) The nomination or election of the director by persons who are defendants any
+18 person who is a defendant in the derivative proceeding or against whom action
+19 is demanded;demanded.
+20 (2) The naming of the director as a defendant in the derivative proceeding or as a
+21 person against whom action is demanded; ordemanded.
+22 (3) The approval by the director of the act being challenged in the derivative
+23 proceeding or demand if the act resulted in no personal benefit to the director.
+24 (d) If a derivative proceeding is commenced after a determination has been made
+25 rejecting a demand by a shareholder, the complaint made by one of the groups specified in
+26 subsection (b) of this section that maintaining the derivative proceeding is not in the best interest
+27 of the corporation, in order to contest the determination, the plaintiff shall allege with
+28 particularity facts establishing that the requirements of subsection (a) of this section have not
+29 been met. Defendants may make a motion to dismiss a complaint under subsection (a) of this
+30 section for failure to comply with this subsection. Prior to the court's ruling on such a the motion
+31 to dismiss, the plaintiff shall be is entitled to discovery only with respect to the issues presented
+32 by the motion and only if and to the extent that the plaintiff has alleged such the facts with
+33 particularity. The preliminary discovery shall be limited solely to matters germane and necessary
+34 to support the facts alleged with particularity relating solely to the requirements of subsection (a)
+35 of this section.
+36 (e) If a majority of the board of directors does not consist of independent directors at the
+37 time the determination is made, The burden of proving whether the requirements of subsection
+38 (a) of this section have been met is determined as follows:
+39 (1) If the determination was made by one of the groups specified in subdivision
+40 (b)(1) or (b)(2) of this section, then the plaintiff has the burden of proving that
+41 the requirements of subsection (a) of this section have not been met unless the
+42 plaintiff has alleged with particularity facts establishing that a majority of the
+43 board of directors at the time the determination was made did not consist of
+44 independent directors, in which case the corporation shall have has the burden
+45 of proving that the requirements of subsection (a) of this section have been
+46 met.
+47 (2) If a majority of the board of directors consists of independent directors at the
+48 time the determination is made, If the determination was made by a panel
+49 appointed pursuant to subdivision (b)(3) of this section, then the plaintiff shall
+50 have has the burden of proving that the requirements of subsection (a) of this
+51 section have not been met.
+Page 6 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (f) The court may appoint a panel of one or more independent persons upon motion of
+2 the corporation to make a determination whether the maintenance of the derivative proceeding is
+3 in the best interest of the corporation. The plaintiff shall have the burden of proving that the
+4 requirements of subsection (a) of this section have not been met.The court on its own motion or
+5 on the motion of any party may order that any motion to dismiss under subsection (a) of this
+6 section be made within a specified reasonable time."
+7 SECTION 5.(d) G.S. 55-7-46 reads as rewritten:
+8 "§ 55-7-46. Payment of expenses.
+9 On termination of the derivative proceeding, the court may:may do any of the following:
+10 (1) Order the corporation to pay the plaintiff's reasonable expenses, including
+11 attorneys' fees, incurred in the derivative proceeding if it finds that the
+12 derivative proceeding has resulted in a substantial benefit to the
+13 corporation;corporation.
+14 (2) Order the plaintiff to pay the corporation's or any defendant's reasonable
+15 expenses, including attorneys' fees, incurred in responding to the demand or
+16 defending the derivative proceeding if it finds that the demand was made or
+17 the derivative proceeding was commenced or maintained without reasonable
+18 cause or for an improper purpose; orpurpose.
+19 …."
+20
+21 PART VI. MAKE CLARIFYING AND TECHNICAL CHANGES REGARDING THE
+22 AUTHORITY OF BOARD COMMITTEES
+23 SECTION 6. G.S. 55-8-25 reads as rewritten:
+24 "§ 55-8-25. Committees.
+25 …
+26 (e) A committee shall not, however, do any of the following:
+27 (1) Authorize or approve distributions, except according to a formula or method,
+28 or within limits, prescribed by the board of directors.
+29 (2) Approve or propose to shareholders action that this act Chapter requires be
+30 approved by shareholders.
+31 (3) Fill vacancies on the board of directors or on any of its committees.
+32 (4) Amend articles of incorporation pursuant to G.S. 55-10-02.
+33 (5) Adopt, amend, or repeal bylaws.
+34 (6) Approve a plan of merger not requiring shareholder approval.
+35 …."
+36
+37 PART VII. CLARIFY PROVISIONS FOR MERGERS BETWEEN PARENT ENTITIES
+38 AND SUBSIDIARY CORPORATIONS
+39 SECTION 7.(a) G.S. 55-11-04(f) is repealed.
+40 SECTION 7.(b) G.S. 55-11-12 reads as rewritten:
+41 "§ 55-11-12. Merger between parent unincorporated entity and subsidiary corporation or
+42 corporations.
+43 (a) Subject to the other provisions of this section and Article 9 of this Chapter, a parent
+44 unincorporated entity owning shares of a domestic subsidiary corporation that carry at least
+45 ninety percent (90%) of the voting power of each class and series of the outstanding shares of the
+46 subsidiary corporation and that have the power to vote in the election of directors at the time of
+47 a merger under this section may merge the subsidiary corporation or corporations into itself, or
+48 merge itself and one or more subsidiary corporations into another subsidiary corporation, without
+49 approval of the board of directors or shareholders of the subsidiary corporation or corporations,
+50 unless the articles of incorporation for of the subsidiary corporation or corporations require
+House Bill 388-Fourth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 approval of the shareholders of the subsidiary corporation or corporations, if both all of the
+2 following requirements are met:
+3 (1) The merger is permitted by the laws of the state or country governing the
+4 organization and internal affairs of each merging business entity.
+5 (2) Each merging business entity complies with the requirements of this section
+6 and, to the extent applicable, the laws referred to in subdivision (1) of this
+7 subsection.
+8 (3) The parent unincorporated entity approves, in the manner required by laws of
+9 the state or country governing the organization and internal affairs of the
+10 parent unincorporated entity, a written plan of merger containing all of the
+11 provisions required by G.S. 55-11-10(c).
+12 …
+13 (d) The surviving business entity shall deliver articles of merger to the Secretary of State
+14 for filing. The articles of merger shall set forth all of the following:
+15 (1) For each merging business entity, its name, type of business entity, and the
+16 state or country whose laws govern its organization and internal affairs.
+17 (2) The terms and conditions of the merger.
+18 (3) The manner and basis of converting the interests in each merging business
+19 entity into interests, obligations, or securities of the surviving business entity,
+20 or into cash or other property in whole or in part, or of cancelling the interests.
+21 (4) The name of the merging business entity that shall survive the merger and, if
+22 the surviving business entity is not authorized to transact business or conduct
+23 affairs in this State, a designation of its mailing address and a commitment to
+24 file with the Secretary of State a statement of any subsequent change in its
+25 mailing address.
+26 (5) If the surviving business entity is a domestic corporation, any amendment to
+27 its articles of incorporation as provided in a plan of merger or board
+28 resolution.merger.
+29 (6) A statement that the plan of merger has been approved by each merging
+30 business entity in the manner required by law.
+31 (e) The provisions of the articles of merger may be made dependent on facts objectively
+32 ascertainable outside the articles of merger if the articles of merger set forth the manner in which
+33 the facts will operate upon the affected provisions. The facts may include any of the following:
+34 (1) Statistical or market indices, market prices of any security or group of
+35 securities, interest rates, currency exchange rates, or similar economic or
+36 financial data.
+37 (2) A determination or action by the corporation or by any other person, group,
+38 or body.
+39 (3) The terms of, or actions taken under, an agreement to which the corporation
+40 is a party, or any other agreement or document.G.S. 55-11-10(c1) and (c2)
+41 apply to any merger described in this section.
+42 (f) A merger takes effect when the articles of merger become effective."
+43
+44 PART VIII. ELECTRONIC STORAGE OF ATTESTED WRITTEN WILLS BY AN
+45 ATTORNEY
+46 SECTION 8.1. Chapter 31 of the General Statutes is amended by adding a new
+47 Article to read:
+48 "Article 11.
+49 "Electronic Storage of Attested Written Wills by an Attorney.
+50 "§ 31-71. Definitions.
+51 In this Article, the following definitions apply:
+Page 8 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (1) Electronic. – Relating to technology having electrical, digital, magnetic,
+2 wireless, optical, electromagnetic, or similar capabilities.
+3 (2) Record. – Information that is inscribed on a tangible medium or that is stored
+4 in an electronic or other medium and is retrievable in perceivable form.
+5 "§ 31-72. Storage of attested written will by a licensed attorney as an electronic record.
+6 (a) At any time during the life of the testator, an attorney licensed to practice law in North
+7 Carolina may, at the testator's direction, create an electronic record of the testator's attested
+8 written will. The electronic record shall include a certification, signed by that attorney, in the
+9 form of an affidavit sworn to or affirmed before an officer authorized to administer oaths, that
+10 the electronic record of the attested written will is a complete, true, and accurate copy of the
+11 attested written will, that the testator expressly authorized the attorney to create an electronic
+12 record of the attested written will, and that the testator has been advised that the creation of an
+13 electronic record of the testator's attested written will eliminates the ability of the testator to
+14 revoke the attested written will by physical act.
+15 (b) If the attested written will is lost or destroyed after being stored as an electronic record
+16 pursuant to this section, the loss or destruction shall not be deemed a revocation of the attested
+17 written will, nor shall it be deemed a presumption of revocation of the attested written will.
+18 "§ 31-73. Certification of paper copy of attested written will stored as an electronic record.
+19 (a) An attorney licensed in this State may create a certified paper copy of an attested
+20 written will that has been stored as an electronic record in accordance with the requirements of
+21 G.S. 31-72 by certifying that the paper copy is a complete, true, and accurate copy of that
+22 electronic record. The certification shall be in the form of an affidavit sworn to or affirmed before
+23 an officer authorized to administer oaths. The certified paper copy may be created at any time
+24 after the attested written will has been stored as an electronic record in accordance with the
+25 requirements of G.S. 31-72.
+26 (b) A certified paper copy of an attested written will stored as an electronic record in
+27 accordance with the requirements of this section may be probated under G.S. 28A-2A-8(a1)."
+28 SECTION 8.2. G.S. 28A-2A-8 reads as rewritten:
+29 "§ 28A-2A-8. Manner of probate of attested written will.will or certified paper copy of
+30 attested written will stored as an electronic record.
+31 (a) An attested written will, executed as provided by G.S. 31-3.3, may be probated in the
+32 following manner:any of the following ways:
+33 (1) Upon the testimony of at least two of the attesting witnesses; orwitnesses.
+34 (2) If the testimony of only one attesting witness is available, then with all of the
+35 following:
+36 a. Upon the The testimony of such witness, andthe witness.
+37 b. Upon proof Proof of the handwriting of at least one of the attesting
+38 witnesses who is dead or whose testimony is otherwise unavailable,
+39 andunavailable.
+40 c. Upon proof Proof of the handwriting of the testator, unless he the
+41 testator signed by his mark, andthe testator's mark.
+42 d. Upon proof Proof of such other circumstances as will that satisfy the
+43 clerk of the superior court as to the genuineness and due execution of
+44 the will; orwill.
+45 (3) If the testimony of none of the attesting witnesses is available, then with both
+46 of the following:
+47 a. Upon proof Proof of the handwriting of at least two of the attesting
+48 witnesses whose testimony is unavailable, andunavailable.
+49 b. Upon compliance Compliance with paragraphs sub-subdivisions c.
+50 and d. of subsection (a)(2) of this section; orsubdivision (a)(2) of this
+51 section.
+House Bill 388-Fourth Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (4) Upon a showing that the will has been made self-proved in accordance with
+2 the provisions of G.S. 31-11.6.
+3 (a1) A certified paper copy, created in accordance with the requirements of G.S. 31-73, of
+4 an attested written will executed as provided by G.S. 31-3.3 may be probated in any of the
+5 following ways:
+6 (1) Upon the testimony of at least two of the attesting witnesses.
+7 (2) If the testimony of only one attesting witness is available, then with both of
+8 the following:
+9 a. The testimony of the witness.
+10 b. Proof of other circumstances that satisfy the clerk of the superior court
+11 as to the genuineness and due execution of the will.
+12 (3) If the testimony of none of the attesting witnesses is available, then upon
+13 compliance with sub-subdivision b. of subdivision (2) of this subsection.
+14 (4) Upon a showing that the attested will has been made self-proved in accordance
+15 with G.S. 31-11.6.
+16 (b) Due execution of a will may be established, where if the evidence required by
+17 subsection (a) subsections (a) and (a1) of this section is unavoidably lacking or inadequate, by
+18 testimony of other competent witnesses as to the requisite facts.
+19 (c) The testimony of a witness is unavailable within the meaning of this section when the
+20 witness is dead, out of the State, not to be found within the State, incompetent, physically unable
+21 to testify testify, or refuses to testify."
+22 SECTION 8.3. G.S. 28A-2B-1 reads as rewritten:
+23 "§ 28A-2B-1. Establishment before death that a will or codicil is valid.
+24 (a) Any petitioner who is a resident of North Carolina and who has executed a will or
+25 codicil may file a petition seeking a judicial declaration that the will or codicil is valid.
+26 (b) The petition shall be filed with the clerk of superior court and the matter shall proceed
+27 as a contested estate proceeding governed by Article 2 of Chapter 28A of the General Statutes.
+28 At the hearing before the clerk of superior court, the petitioner shall produce the original will or
+29 codicil or a certified paper copy of an attested written will created in accordance with the
+30 requirements of G.S. 31-73 and any other evidence necessary to establish that the will or codicil
+31 would be admitted to probate if the petitioner were deceased.
+32 If an interested party contests the validity of the will or codicil, that person shall file a written
+33 challenge to the will or codicil before the hearing or make an objection to the validity of the will
+34 or codicil at the hearing. Upon the filing of a challenge or the raising of an issue contesting the
+35 validity of the will or codicil, the clerk shall transfer the cause to the superior court. The matter
+36 shall be heard as if it were a caveat proceeding, and the court shall make a determination as to
+37 the validity of the will or codicil and enter judgment accordingly.
+38 If no interested party contests the validity of the will or codicil and if the clerk of superior
+39 court determines that the will or codicil would be admitted to probate if the petitioner were
+40 deceased, the clerk of superior court shall enter an order adjudging the will or codicil to be valid.
+41 (c) Failure to use the procedure authorized by this Article shall does not have any
+42 evidentiary or procedural effect on any future probate proceedings.
+43 (d) For purposes of this Article only, a "petitioner" is a person who requests a judicial
+44 declaration that confirms the validity of that person's will or codicil."
+45 SECTION 8.4. G.S. 28A-2B-3 reads as rewritten:
+46 "§ 28A-2B-3. Contents of petition for will validity.
+47 (a) Petition. – A petition requesting an order declaring that a petitioner's will or codicil is
+48 valid shall be verified and shall contain the following information:
+49 …
+50 (5) A statement identifying the petitioner, petitioner and all persons believed by
+51 the petitioner to have an interest in the proceeding, including, for any
+Page 10 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 interested parties who are minors, information regarding the minor's
+2 appropriate representative.
+3 (b) The petitioner shall file a copy of the will or codicil with the petition and petition. At
+4 the hearing provided in G.S. 28A-2B-1(b), the petitioner shall tender the original will or codicil
+5 at the hearing as provided in G.S. 28A-2B-1(b). or a certified paper copy of an attested written
+6 will created in accordance with the requirements of G.S. 31-73. If an order is entered declaring
+7 the will or codicil to be valid, the court shall affix a certificate of validity to the will or codicil."
+8 SECTION 8.5. G.S. 31-3.1 reads as rewritten:
+9 "§ 31-3.1. Will invalid unless statutory requirements complied with.
+10 No will is valid unless it complies with the requirements prescribed therefor by this Article.of
+11 this Chapter."
+12 SECTION 8.6. G.S. 31-3.2 reads as rewritten:
+13 "§ 31-3.2. Kinds of wills.
+14 (a) Personal property and real property may be devised by any of the following:
+15 (1) An attested written will which that complies with the requirements of G.S.
+16 31-3.3, orG.S. 31-3.3.
+17 (2) A holographic will which that complies with the requirements of G.S. 31-3.4.
+18 (3) A certified paper copy of an attested written will created in accordance with
+19 the requirements of G.S. 31-73.
+20 (b) Personal property may also be devised by a nuncupative will which that complies
+21 with the requirements of G.S. 31-3.5."
+22 SECTION 8.7. G.S. 31-5.1 reads as rewritten:
+23 "§ 31-5.1. Revocation of written will.
+24 A written will, or any part thereof, may be revoked only
+25 (1) By a subsequent written will or codicil or other revocatory writing executed
+26 in the manner provided herein for the execution of written wills, or
+27 (2) By being burnt, torn, canceled, obliterated, or destroyed, with the intent and
+28 for the purpose of revoking it, by the testator himself or by another person in
+29 the testator's presence and by the testator's direction.direction, except as
+30 otherwise provided in Article 11 of this Chapter."
+31
+32 PART IX. MODIFICATION OF EMERGENCY VIDEO SUNSETS
+33 SECTION 9.(a) G.S. 10B-25(n) reads as rewritten:
+34 "(n) This section shall expire at 12:01 A.M. on July 1, 2025; provided, upon the earlier of
+35 (i) 12:01 A.M. July 1, 2026, or (ii) the date the Secretary issues the first license in accordance
+36 with G.S. 10B-134.19. If the Secretary issues the first license in accordance with
+37 G.S. 10B-134.19 prior to 12:01 A.M. July 1, 2026, the Secretary shall file that date with the
+38 Codifier of Rules to be published in the North Carolina Register as the expiration date of this
+39 section. Provided, however, all notarial acts made in accordance with this section and while this
+40 section is in effect shall remain effective and shall not need to be reaffirmed."
+41 SECTION 9.(b) G.S. 10B-200(b) reads as rewritten:
+42 "(b) This Article expires June 30, 2025.upon the earlier of (i) 12:01 A.M. July 1, 2026, or
+43 (ii) the date the Secretary issues the first license in accordance with G.S. 10B-134.19. If the
+44 Secretary issues the first license in accordance with G.S. 10B-134.19 prior to 12:01 A.M. July 1,
+45 2026, the Secretary shall file that date with the Codifier of Rules to be published in the North
+46 Carolina Register as the expiration date of this section."
+47
+48 PART X. UPDATES TO ELECTIVE SHARE STATUTES
+49 SECTION 10.1. G.S. 30-3.3A reads as rewritten:
+50 "§ 30-3.3A. Valuation of property.
+51 …
+House Bill 388-Fourth Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 (e) Partial or Contingent Interest Property. – The valuation of partial and contingent
+2 property interests, outright or in trust, which are limited to commence or terminate upon the death
+3 of one or more persons, upon the expiration of a period of time, or upon the occurrence of one or
+4 more contingencies, shall be determined by computations based upon the mortality and annuity
+5 tables set forth in G.S. 8-46 and G.S. 8-47, and by using a presumed rate of return of six percent
+6 (6%) of the value of the underlying property in which those interests are limited, unless upon
+7 good cause shown by one of the parties, the clerk determines that the use of such tables or rate
+8 of return is not appropriate, then the value of such interests shall be determined under subsection
+9 (f) of this section. However, in valuing partial and contingent interests passing to the surviving
+10 spouse, the following special rules apply:
+11 (1) The value of the beneficial interest of a spouse shall be the entire fair market
+12 value of any property held in trust if the decedent was the settlor of the trust,
+13 if the trust is held for the exclusive benefit of the surviving spouse during the
+14 surviving spouse's lifetime, and if the terms of the trust substantially meet the
+15 following requirements:requirements in form and content:
+16 a. During At all times during the lifetime of the surviving spouse, the
+17 trust is controlled by (i) one or more nonadverse trustees.trustees,
+18 including successor trustees, (ii) the surviving spouse as trustee, or (iii)
+19 one or more nonadverse trustees and the surviving spouse as
+20 co-trustees, including successor trustees.
+21 b. The trustee shall distribute to or for the benefit of the surviving spouse
+22 either (i) the entire net income of the trust at least annually or (ii) the
+23 income of the trust in such amounts and at such times as the trustee, in
+24 its discretion, determines necessary for the health, maintenance, and
+25 support of the surviving spouse.
+26 c. The trustee shall distribute to or for the benefit of the surviving spouse
+27 out of the principal of the trust such amounts and at such times as the
+28 trustee, in its discretion, determines necessary for the health,
+29 maintenance, and support of the surviving spouse.
+30 d. In exercising discretion, the trustee
+31 (1a) Notwithstanding any requirements in subdivision (1) of this subsection to the
+32 contrary, the terms of the trust may be authorized authorize or required require
+33 the trustee, in exercising discretion, to take into consideration all other income
+34 assets income, assets, and other means of support available to the surviving
+35 spouse.
+36 (1b) A trust fails to meet the requirements of sub-subdivisions b. and c. of
+37 subdivision (1) of this subsection if the terms of the trust do not state the
+38 requirement that the trustee shall distribute the income and principal as
+39 provided in those sub-subdivisions using the terms "shall," "is required to," or
+40 other equivalent term or terms directing the trustee to distribute the income
+41 and principal. Nothing in this subdivision shall affect the ability of the trustee
+42 to exercise the discretion provided in sub-subdivisions b. and c. of subdivision
+43 (1) of this subsection with respect to the timing and amount of distributions
+44 necessary for the health, maintenance, and support of the surviving spouse.
+45 (2) To the extent that the partial or contingent interest is dependent upon the
+46 occurrence of any contingency that is not subject to the control of the
+47 surviving spouse and that is not subject to valuation by reference to the
+48 mortality and annuity tables set forth in G.S. 8-46 and G.S. 8-47, the
+49 contingency will be conclusively presumed to result in the lowest possible
+50 value passing to the surviving spouse. However, a life estate or income interest
+Page 12 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 that will terminate upon the surviving spouse's death or remarriage will be
+2 valued without regard to the possibility of termination upon remarriage.
+3 …."
+4 SECTION 10.2. G.S. 30-3.4 reads as rewritten:
+5 "§ 30-3.4. Procedure for determining the elective share.
+6 (a) Exercisable Only During Lifetime. – The right of the surviving spouse to file a claim
+7 for an elective share must be exercised during the lifetime of the surviving spouse, by the
+8 surviving spouse, by the surviving spouse's agent if the surviving spouse's power of attorney
+9 expressly authorizes the agent to do so or to generally engage in estate, trusts, and other beneficial
+10 interests, or, with approval of court, by the guardian of the surviving spouse's estate or general
+11 guardian. If a surviving spouse dies before the claim for an elective share has been settled, the
+12 surviving spouse's personal representative shall succeed to the surviving spouse's rights to an
+13 elective share.
+14 (b) Time Limitations. – A claim for an elective share must be made within six months
+15 after the issuance of letters testamentary or letters of administration in connection with the will
+16 or intestate proceeding with respect to which the surviving spouse claims the elective share by
+17 (i) filing a verified petition with the clerk of superior court of the county in which the primary
+18 administration of the decedent's estate lies,and (ii) mailing or delivering a copy of that petition
+19 to the personal representative of the decedent's estate. lies. A surviving spouse's incapacity shall
+20 not toll the six-month period of limitations.
+21 …
+22 (e1) Procedure. – An elective share proceeding shall be an estate proceeding and shall be
+23 conducted in accordance with the procedures of Article 2 of Chapter 28A of the General Statutes.
+24 The verified petition shall be filed by the clerk upon payment of the costs assessed in
+25 G.S. 7A-307. An elective share proceeding shall be an estate proceeding and shall be conducted
+26 in accordance with the procedures of Article 2 of Chapter 28A of the General Statutes, except as
+27 modified or supplemented by the following:
+28 (1) Upon the filing of the verified petition, the petition shall be served upon the
+29 personal representative in accordance with G.S. 1A-1, Rule 4 of the Rules of
+30 Civil Procedure, without issuance of a summons. The petition shall also be
+31 served on all responsible persons as those persons become known to the
+32 petitioner in accordance with G.S. 1A-1, Rule 4 of the Rules of Civil
+33 Procedure, without issuance of a summons. The failure to serve the petition
+34 for elective share on the personal representative or any other person within the
+35 six-month period described in subsection (b) of this section shall not render
+36 the claim for elective share as being untimely filed.
+37 (2) After service under subdivision (1) of this subsection, the petitioner, the
+38 personal representative, or any other party may cause notice of a hearing
+39 before the clerk to be served upon all parties in accordance with G.S. 1A-1,
+40 Rule 5 of the Rules of Civil Procedure. At the hearing, the clerk may set
+41 deadlines as to the gathering and sharing of information concerning total net
+42 assets and may determine any other relevant procedural matters.
+43 (3) Within 30 days following the entry of an order resulting from the hearing
+44 described in subdivision (2) of this subsection, any party who was present at
+45 the hearing may file a responsive pleading to the petition; provided, however,
+46 that failure to respond to any averment or claim in the petition shall not be
+47 deemed an admission of that averment or claim. An extension of time to file
+48 a responsive pleading to the petition may be granted as provided by G.S. 1A-1,
+49 Rule 6 of the Rules of Civil Procedure.
+50 …."
+House Bill 388-Fourth Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 SECTION 10.3. This Part becomes effective January 1, 2026, and applies to claims
+2 for elective share filed on or after that date.
+3
+4 PART XI. TRUST ADMINISTRATION/CONTEST UPDATES
+5 SECTION 11.1. G.S. 36C-6-604 reads as rewritten:
+6 "§ 36C-6-604. Limitation on action contesting validity of revocable trust; distribution of
+7 trust property.
+8 (a) A person may commence a judicial proceeding to contest the validity of a trust that
+9 was revocable at the settlor's death within the earlier of:of the following:
+10 (1) Three years after the settlor's death; ordeath.
+11 (2) 120 days after the trustee sent the person a copy of the trust instrument and
+12 written notice pursuant to G.S. 1A-1, Rule 4 of the Rules of Civil Procedure,
+13 informing the person of the trust's existence, of the trustee's name and address,
+14 and of the time allowed for commencing a proceeding.
+15 (b) Upon the death of the settlor of a trust that was revocable at the settlor's death, the
+16 trustee may proceed to administer the trust and distribute the trust property in accordance with
+17 the terms of the trust. The trustee is trust and shall not be subject to liability for doing so unless:so,
+18 except that the trustee shall not distribute trust property to any beneficiary in contravention of the
+19 rights of any person who may be affected by the outcome of a pending or possible judicial
+20 proceeding if, at the time the distribution is made, any of the following apply:
+21 (1) The trustee knows of a pending judicial proceeding contesting the validity of
+22 all or part of the terms of the trust; trust or contesting the identity of the
+23 beneficiaries eligible to receive distributions therefrom.
+24 (2) A potential contestant has notified the trustee in writing of a possible judicial
+25 proceeding to contest the trust, validity of all or part of the terms of the trust
+26 or to contest the identity of the beneficiaries eligible to receive distribution
+27 therefrom, and a judicial proceeding is commenced within 60 days after the
+28 contestant sent the notification.
+29 (b1) Any distribution in contravention of the provisions of subsection (b) of this section
+30 shall constitute a breach of trust by the trustee. Upon motion of a party and after notice to
+31 interested parties, a court, on good cause shown, may make an exception to the provisions of
+32 subsection (b) of this section and authorize the trustee to distribute trust assets to a beneficiary,
+33 subject to any conditions the court, in the court's discretion, may impose, including the posting
+34 of a bond by the beneficiary.
+35 (c) A beneficiary of a trust that is determined to have been invalid invalid, or whose
+36 interest in a trust has been determined to be invalid, is liable to return any distribution received.
+37 If the beneficiary refuses to return the distribution after being ordered by the court, the beneficiary
+38 shall be liable for all costs incurred for recovery of the distribution, including attorneys' fees."
+39 SECTION 11.2. This Part becomes effective January 1, 2026, and applies to settlors
+40 dying on or after that date.
+41
+42 PART XII. REVISIONS TO YEAR'S ALLOWANCE STATUTES
+43 SECTION 12.1. G.S. 30-15 reads as rewritten:
+44 "§ 30-15. When spouse entitled to allowance.
+45 (a) Every surviving spouse of a decedent, whether or not the surviving spouse has
+46 petitioned for an elective share, shall be entitled to receive an allowance having the value of sixty
+47 thousand dollars ($60,000) for the surviving spouse's support for one year after the death of the
+48 deceased spouse unless the spouse is barred from seeking an allowance under G.S. 31A-1 or
+49 another applicable law. The spouse's allowance shall be in addition to the spouse's share of the
+50 decedent's estate if the decedent died intestate but shall be charged against the spouse's share of
+51 the decedent's estate if the decedent died testate.
+Page 14 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (b) The right of a surviving spouse to file a claim for an allowance must be exercised
+2 during the lifetime of the surviving spouse by (i) the surviving spouse, (ii) the surviving spouse's
+3 agent under a durable power of attorney, or (iii), with approval of the court, by the guardian of
+4 the surviving spouse's estate or general guardian. A claim for an allowance must be made by
+5 filing a verified petition with the clerk of court of the county in which venue would be proper
+6 under G.S. 28A-3-1. There is no time limitation on bringing a claim for an allowance except that,
+7 if a personal representative has been appointed for the decedent's estate, the claim must be made
+8 within six months after the issuance of letters testamentary or letters of administration. In
+9 addition, if a personal representative has been appointed for the decedent's estate, a copy of the
+10 verified petition must be personally delivered or sent by first-class mail by the petitioner to the
+11 personal representative.
+12 (c) If the surviving spouse dies after the petition is filed but before the claim for an
+13 allowance has been fully satisfied, any deficiency judgment existing at the time of the surviving
+14 spouse's death shall not expire.
+15 (d) The spouse's allowance shall be exempt from any lien by judgment or execution
+16 against the property of the decedent or any other claim made against or owed by the decedent's
+17 estate. The spouse's allowance takes priority over any child's allowance under
+18 G.S. 30-17.G.S. 30-17, except as set forth in subsection (e) of this section.
+19 (e) If a surviving spouse entitled to an allowance fails to file a petition for an allowance
+20 within six months after the date of death of the decedent and an eligible person files a petition
+21 for a child's allowance in accordance with G.S. 30-17 before the spouse files a petition for an
+22 allowance, then the spouse's priority to receive the allowance prior to the child named in the
+23 petition is waived and the clerk may proceed to assign the full child's allowance to the eligible
+24 child named in the petition. If a petition for the spousal allowance is filed jointly with a petition
+25 for a child's allowance, then the spouse retains the right to receive the allowance prior to the child
+26 named in the petition. The waiver described in this subsection shall not affect the spouse's right
+27 to an allowance, only the spouse's priority to receive an allowance over any child's allowance
+28 under G.S. 30-17.
+29 (f) A proceeding for a spouse's allowance shall be an estate proceeding governed by the
+30 provisions of Article 2 of Chapter 28 of the General Statutes."
+31 SECTION 12.2. G.S. 30-17 reads as rewritten:
+32 "§ 30-17. When children entitled to an allowance.
+33 (a) Every child of a decedent who is under the age of 21 years at the time of the decedent's
+34 death, including an adopted child or a child in utero, and every child who is under the age of 21
+35 years at the time of the decedent's death with whom the decedent stood in loco parentis at the
+36 time of death, shall be entitled to receive an allowance having a value of ten thousand dollars
+37 ($10,000) for the child's support for one year after the death of the decedent. The allowance shall
+38 be in addition to the child's share of the decedent's estate regardless of whether the decedent died
+39 testate or intestate.
+40 (b) The right of a child to file a claim for an allowance must be exercised during the
+41 lifetime of the child by the person with priority to file on behalf of the child as provided in
+42 subsection (c) of this section. A claim for an allowance must be made by filing a verified petition
+43 with the clerk of court of the county in which venue would be proper under G.S. 28A-3-1. There
+44 is no time limitation on bringing a claim for an allowance except that, if a personal representative
+45 has been appointed for the decedent's estate, the claim must be made within six months after the
+46 issuance of letters testamentary or letters of administration. In addition, if a personal
+47 representative has been appointed for the decedent's estate, a copy of the verified petition must
+48 be personally delivered or sent by first-class mail by the petitioner to the personal representative.
+49 (c) The person entitled to file a petition on behalf of the child for a child's allowance shall
+50 be in the following order of priority:
+House Bill 388-Fourth Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 (1) The child, if the child is at least 18 years old or an emancipated minor at the
+2 time of the filing of the petition.
+3 (1)(2) The general guardian or guardian of the estate of the child, if any.
+4 (2)(3) The surviving parent of the child if the child resides with the surviving parent.
+5 (3)(4) The person with whom the child resides.
+6 If the clerk of court determines that no person entitled to file a petition pursuant to this
+7 subsection is a fit or suitable individual, the clerk, upon the clerk's own motion, may appoint
+8 another individual if the clerk determines that individual better represents the best interests of the
+9 child as the representative.
+10 (d) The child's allowance shall be exempt from any lien by judgment or execution against
+11 the property of the decedent or any other claim made against or owed by the decedent's estate
+12 except that the spouse's allowance under G.S. 30-15 shall take priority over any child's allowance.
+13 A child's allowance shall only be awarded after the full spouse's allowance under G.S. 30-15 has
+14 been awarded.
+15 (e) A proceeding for a child's allowance shall be an estate proceeding governed by the
+16 provisions of Article 2 of Chapter 28 of the General Statutes."
+17 SECTION 12.3. G.S. 30-20 reads as rewritten:
+18 "§ 30-20. Procedure for assignment; order of clerk.
+19 (a) The clerk of court shall first ascertain if the surviving spouse is entitled to an
+20 allowance according to the provisions of this Article, and, if so, enter an order setting forth the
+21 personal property of the estate to be awarded to the surviving spouse. Once the spouse's
+22 allowance has been awarded, the clerk of court shall next ascertain if any children of the decedent
+23 are entitled to an allowance according to the provisions of this Article, and, if so, enter an order
+24 setting forth the personal property of the estate to be awarded for the child's allowance. If a
+25 personal representative has been appointed for the decedent's estate, the clerk of court shall
+26 provide a copy of any order awarding an allowance to the personal representative of the
+27 decedent's estate.
+28 (b) If the personal property of the estate is insufficient to satisfy the allowances awarded,
+29 the clerk of the superior court shall enter judgment against the decedent's estate for the amount
+30 of the deficiency. If a personal representative has been appointed for the decedent's estate, the
+31 deficiency shall be satisfied by the personal representative when a sufficiency of such assets shall
+32 come into the possession of the personal representative.
+33 (c) The clerk of court may, on the clerk's own motion, determine that a hearing is
+34 necessary to determine whether a year's allowance should be awarded pursuant to the provisions
+35 of this Article and, if so, what personal property should be awarded. If the clerk of court makes
+36 such a determination, the clerk shall direct the petitioner to commence a contested estate
+37 proceeding pursuant to G.S. 30-23 in order to determine the year's allowance."
+38 SECTION 12.4. G.S. 30-23.1 reads as rewritten:
+39 "§ 30-23.1. Contested proceeding regarding allowance.
+40 (a) If no contested estate proceeding under G.S. 30-20(c) was commenced by the
+41 petitioner or by order of the clerk joining respondents to the proceeding to determine an award
+42 of an allowance under this Article, any person with standing, including the personal
+43 representative of the decedent's estate, may bring a proceeding to challenge the award of a spousal
+44 allowance or a child's allowance, including, but not limited to, a proceeding to challenge the
+45 validity of an award of a year's allowance, a proceeding to challenge the amount of a year's
+46 allowance awarded, and a proceeding to challenge the assets awarded as part of a year's
+47 allowance. If a contested estate proceeding was commenced under G.S. 30-20(c), by the
+48 petitioner or by order of the clerk joining the respondents to the proceeding to determine an award
+49 of an allowance under this Article, then any person with standing, including the personal
+50 representative of the decedent's estate, who was not a party to the contested estate proceeding
+51 may bring a proceeding in accordance with this section.
+Page 16 House Bill 388-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (b) Any proceeding to challenge the award of the allowance brought pursuant to this
+2 section shall be conducted as an estate proceeding in accordance with the provisions of Article 2
+3 of Chapter 28A of the General Statutes and must be brought within one year of the date the order
+4 awarding the year's allowance was entered."
+5 SECTION 12.5. G.S. 28A-25-6 reads as rewritten:
+6 "§ 28A-25-6. Payment to clerk of money owed decedent.
+7 (a) As an alternative to the small estate settlement procedures of this Article, any person
+8 indebted to a decedent may satisfy such indebtedness by paying the amount of the debt to the
+9 clerk of the superior court of the county of the domicile of the decedent if all of the following
+10 conditions are met:
+11 (1) No administrator has been appointed.
+12 (2) Except as otherwise provided in G.S. 90-210.64(d), the amount owed by such
+13 person does not exceed five thousand dollars ($5,000).
+14 (3) Except as otherwise provided in G.S. 90-210.64(d), the sum tendered to the
+15 clerk would not make the aggregate sum which has come into the clerk's hands
+16 belonging to the decedent exceed five thousand dollars ($5,000).
+17 (b) Such payments may not be made to the clerk if the total amount paid or tendered with
+18 respect to any one decedent would exceed five thousand dollars ($5,000), even though
+19 disbursements have been made so that the aggregate amount in the clerk's hands at any one time
+20 would not exceed five thousand dollars ($5,000).
+21 (c) If the sum tendered pursuant to this section would make the aggregate sum coming
+22 into the clerk's hands with respect to any one decedent exceed five thousand dollars ($5,000) the
+23 clerk shall appoint an administrator, or the sum may be administered under the preceding sections
+24 of this Article.
+25 (d) If it appears to the clerk after making a preliminary survey that disbursements
+26 pursuant to this section would not exhaust funds received pursuant to this section, the clerk may,
+27 in the clerk's discretion, appoint an administrator, or the funds may be administered under the
+28 preceding sections of this Article.
+29 (e) The receipt from the clerk of the superior court of a payment purporting to be made
+30 pursuant to this section is a full release to the debtor for the payment so made.
+31 (f) If no administrator has been appointed, the clerk of superior court shall, upon motion
+32 of the clerk or upon the application of an interested party, disburse the money received under this
+33 section for the following purposes and in the following order:
+34 (1) To pay the surviving spouse's year's allowance and children's year's allowance
+35 assigned in accordance with law.law, except that if (i) it has been greater than
+36 six months since the date of death of the decedent and (ii) there has been no
+37 petition filed and assignment of a spouse's or child's year's allowance, the clerk
+38 may disburse the money received under this section in accordance with the
+39 other provisions of this subsection.
+40 (2), (3) Repealed by Session Laws 1981, c. 383, s. 3.
+41 (4) All other claims shall be disbursed according to the order set out in
+42 G.S. 28A-19-6.
+43 Notwithstanding the foregoing provisions of this subsection, the clerk shall pay, out of funds
+44 provided the deceased pursuant to G.S. 111-18 and Part 3 of Article 2 of Chapter 108A of the
+45 General Statutes of North Carolina, Statutes, any lawful claims for care provided by an adult care
+46 home to the deceased, incurred not more than 90 days prior to the deceased's death. After the
+47 death of a spouse who died intestate the decedent and after the disbursements have been made in
+48 accordance with this subsection, the balance in the clerk's hands belonging to the estate of the
+49 decedent shall be paid to the surviving spouse, and if there is no surviving spouse, the clerk shall
+50 pay it to the heirs or beneficiaries in proportion to their respective interests.
+51 (g) The clerk shall not be required to publish notice to creditors.
+House Bill 388-Fourth Edition Page 17
+General Assembly Of North Carolina Session 2025
+1 (h) Whenever an administrator is appointed after a clerk of superior court has received
+2 any money pursuant to this section, the clerk shall pay to the administrator all funds which have
+3 not been disbursed. The clerk shall receive no commissions for payments made to the
+4 administrator, and the administrator shall receive no commissions for receiving such payments."
+5 SECTION 12.6. Section 12.5 of this act is effective when it becomes law. The
+6 remainder of this Part becomes effective January 1, 2026, and applies to petitions filed on or after
+7 that date.
+8
+9 PART XIII. EFFECTIVE DATE AND AUTHORIZATION TO PRINT COMMENTS
+10 SECTION 13.(a) The Revisor of Statutes shall cause to be printed, as annotations to
+11 Chapter 55 of the published General Statutes, all relevant portions of the Official Comments to
+12 the Model Business Corporation Act and all explanatory comments of the drafters of this act as
+13 the Revisor may deem appropriate.
+14 SECTION 13.(b) Parts I, II, III, IV, V, and VII of this act become effective October
+15 1, 2025. Part VIII of this act becomes effective January 1, 2026, and applies to attested written
+16 wills stored as electronic records on or after that date, regardless of the date of execution of the
+17 attested written will. Except as otherwise provided, the remainder of this act is effective when it
+18 becomes law.
+Page 18 House Bill 388-Fourth Edition
+[DELETED:  4 A (   A A R B T N C B A T A W T H B S B A A A A E R T R T T A A T M R T T Y A T  P S " … ( T r f ( T d ( P w t o a o s ( A p l o e t p l o a d a o o a a w b o i t r o t c o o o a p s b e w r t ( a o o t t d]
+[DELETED:  S  H i c w t b i o t c ( i t c o a d d o o d a i p b o ( a o o o p t t d t p p b e o p o r i b f o o a o h t d s c a a e l ( A o m s c o c o b o p t t p ( T a o i n n s f a o t c p e ( A c p t A 1 o t C s a i t s r b G ( F o ( o o p r a s p  P P S " ( U c i a t s m m b m c a p n f m t c ( P ( Q ( D ( A e e]
+[DELETED:  S  P ( C t t ( A d S " ( I d ( M o ( R t p o d a p o o r ( D p ( N d m ( O d w a ( D a e u e b p o t b d s w s s a n a a r i t c o a p i t ( C t t o ( A c d c r b a b o c e A e e o  P S a " ( T a o i o t b m r t a o a i c s c ( A t c a]
+[DELETED:  S  H u s ( o t s d n h t r p a s m j c c b ( N i a ( F t p o t s " c c m a o t f ( A c ( A ( A o ( A o S  P S " ( A o ( I o ( A f ( I t f ( E m s w i ( T i c t ( T c ( T s ( T p S " ( S s]
+[DELETED:  S  P o t ( A ( T N ( T ( T c ( I s e ( b c o i f o b t t c w f t s t i ( E t c ( I c v  P S " I ( " p m a c s i t r o a d c c ( " h t s m a i G a i a b o S " N o ( A s d t t t o ( 9 e r r S " ( T d]
+[DELETED:  S  H b g b t t m o t d p i n i t b i o t c ( U a ( A d ( A m v o a c c o t o m i d m m c ( U m b t c b a p o o o m i a ( F d ( T p i ( T p ( T p ( I a d p i c a a d h b m r m s o t c i o t c t d t p s a w p b s t b p t o ( I t ( ( I ( t p b i o m ( I t a h s]
+[DELETED:  S  P ( T t i r o s S " O ( O a f i i t d p i i f t t d p h r i a s b t t c ( O t p t p t c o a d r e d t c …  P A S " … ( A ( A o ( A a ( F ( A ( A ( A …  P A S S " c ( S u n s a m a u f c]
+[DELETED:  S  H a f ( T o ( E a s ( T t s o g t o i a o p p … ( T f ( F s ( T ( T e o ( T t a f m ( I i a o i a p i a p o m o b r ( A s t t p o m h b a b e m b ( T a t ( S o m i m p o a s o g o s i r c e r o s e o f ( A o ( T i a ( A  P V E S O A W W B A A S A " " " I]
+[DELETED:  S  P ( E – R t t h e d m w ( R i " ( A C a w f t a r e r ( I p w " ( A w G b c t t p c i a c t a a c o t e a a r ( A a S " a ( A f ( U ( I f a U b U w a c U h t d U c t ( I o a U w b U c C w p s c a s]
+[DELETED:  S  H ( U t ( A a f ( U ( I t a T b P a ( I c ( U w ( D e o a w m b e w i t e r b s t ( T w t S " ( A c ( T a A c o a c p c o a a w w c i a w t r w I c o v s t I c d ( F t u t p a b t A s d n h a e ( F d S " ( P v … ( A t p t h a i i t p i f a]
+[DELETED:  S  P i p w a m i r t m a ( T t a w t S " N t S " ( P ( A 3 ( A ( A t ( P w S " A ( B i ( B f t t p a b t t d e a o  P S " T ( w G I t S i t f l i a w G C s s S " T ( S 2 C  P S " …]
+[DELETED:  S  H ( P I – p o m t ( g o ( s ( T v i s f a D t i c b ( o o m n t i o o m n t a t s s a c b T e i i s c T o t i i d d n f t h m d I ( N c t a s ( A t f t m t r o s b a c o s r t t t s d t i a p a p o a t ( n ( T o o a c t i n s t t c o t s s a t i n s t v b r t t m a a t s f i G a G t c v]
+[DELETED:  S  P t v … S " ( E f a e s m b e d t l o t s s b t s e i g s e ( T a o ( a t n … ( P c T v p s b f b t c u p o t c a i G i m ( U p C s o a r p a t p b k t t p i a w G R 4 o t R o C P f s t ( A s u s ( o t s t p t p r o o m c n o h b R h d a ( W d t t d a R …]
+[DELETED:  S  H S f  P S " t ( A w ( T ( 1 w i a ( U t t e r p ( T a b ( A p o t c ( A s U i s s o ( A i I s S d  P S " ( E s s o a d w o n t s s h p t d a d t]
+[DELETED:  S  P ( T d a t f u i w s m a t i o l t o l o a I a v p ( I a s ( T a e T s a t p o a c a u G ( I w f a p c f n t u ( A p S " ( E d y t ( b t ( T l s w i h i o l t o l o a I a i a p r b ( T b]
+[DELETED:  S  H ( T t ( T ( T ( T I s a c ( T t e A b ( A p S " ( T c o c s f a i t s s i e t a a p p o t e t b a t t s s O t s a a s p p a c o a o a a a t t p r o t d ( I t o d c ( T c o c m o t c o m d t a h i n o s a d t c s d t p t c a c e p S " ( I n c e p u G w c b t p o a a u t A a p w s i t p r a v a a a a p t c t a a a p o a y a I a c e p w c u G b t p o a a u t A t a p w s i t p r m]
+[DELETED:  S  P ( A s o a S " ( A i c c ( N ( E p ( E c b ( S r t a o d w e f t d ( e t d w ( I i c o ( I i a t t c a m a p s t d p i p ( T p ( I o s ( T a s p m o ( ( A o c s b d a t t o s o i G N p G h d a d p ( T]
+[DELETED:  S  H ( W a n b d T c s r n c f p m t t a S r t  P S C t t S 1 w a b]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+HOUSE BILL 388
+Committee Substitute Favorable 3/25/25
+Senate Judiciary Committee Substitute Adopted 6/17/25
+Fourth Edition Engrossed 6/23/25
+Short Title: Amend Business Corporations Act. (Public)
+Sponsors:
+Referred to:
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AMEND THE NORTH CAROLINA BUSINESS CORPORATIONS ACT, AS
+3 RECOMMENDED BY THE NORTH CAROLINA BAR ASSOCIATION, TO
+4 AUTHORIZE THE PROBATE OF A CERTIFIED COPY OF AN ATTESTED WRITTEN
+5 WILL THAT HAS BEEN STORED BY AN ATTORNEY AS AN ELECTRONIC
+6 RECORD, TO MODIFY THE EMERGENCY VIDEO SUNSETS, TO MAKE UPDATES
+7 TO THE ELECTIVE SHARE STATUTES, TO UPDATE STATUTES RELATING TO
+8 TRUST ADMINISTRATION, AND TO MAKE REVISIONS TO THE YEAR'S
+9 ALLOWANCE STATUTES.
+10 The General Assembly of North Carolina enacts:
+11
+12 PART I. PROVIDE FOR OFFICER EXCULPATION
+13 SECTION 1. G.S. 55-2-02 reads as rewritten:
+14 "§ 55-2-02. Articles of incorporation.
+15 …
+16 (b) The articles of incorporation may set forth any provision that under this Chapter is
+17 required or permitted to be set forth in the bylaws, and may also set forth any or all of the
+18 following:
+19 (1) The names and addresses of the individuals who are to serve as the initial
+20 directors.
+21 (2) Provisions not inconsistent with law regarding (i) the purpose or purposes for
+22 which the corporation is organized; (ii) managing the business and regulating
+23 the affairs of the corporation; (iii) defining, limiting, and regulating the powers
+24 of the corporation, its board of directors, and shareholders; (iv) a par value for
+25 authorized shares or classes of shares; (v) the imposition of personal liability
+26 on shareholders for the debts of the corporation to a specified extent and upon
+27 specified conditions; and (vi) any limitation on the duration of the corporation.
+28 (3) A provision limiting or eliminating the personal liability of any director
+29 arising out of an action whether by or in the right of the corporation or
+30 otherwise for monetary damages for breach of any duty as a director. director
+31 or limiting or eliminating the personal liability of any officer arising out of an
+32 action for monetary damages for breach of any duty as an officer. No such
+33 provision shall be effective with respect to (i) acts or omissions that the
+34 director or officer at the time of such the breach knew or believed were clearly
+*H388-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 in conflict with the best interests of the corporation, (ii) in the case of a
+2 director, any liability under G.S. 55-8-33, (iii) any transaction from which the
+3 director or officer derived an improper personal benefit, or (iv) acts or
+4 omissions occurring prior to the date the provisions provision became
+5 effective. effective, or (v) in the case of an officer, any claim by or in the right
+6 of the corporation. As used herein, in this subdivision, the term "improper
+7 personal benefit" does not include a director's reasonable compensation or
+8 other reasonable incidental benefit for or on account of his the director's
+9 service as a director, officer, employee, independent contractor, attorney, or
+10 consultant of the corporation. A provision permitted by this Chapter in the
+11 articles of incorporation, bylaws, or a contract or resolution indemnifying or
+12 agreeing to indemnify a director against personal liability shall be is fully
+13 effective whether or not there is a provision in the articles of incorporation
+14 limiting or eliminating personal liability.
+15 (4) A provision limiting or eliminating any duty of a director, an officer, or any
+16 other person, to offer the corporation the right to have or participate in one or
+17 more specific classes or categories of business opportunities, prior to the
+18 pursuit or taking of the opportunity by the director, officer, or other person.
+19 (c) The articles of incorporation need not set forth any of the corporate powers
+20 enumerated in this Chapter.
+21 (d) Articles of incorporation filed to effect the conversion of another business entity
+22 pursuant to Article 11A of this Chapter shall also include the statements required by
+23 G.S. 55-11A-03(a).
+24 (e) For purposes of subdivision (b)(3) of this section, unless the articles of incorporation
+25 otherwise provide, "officer" means an individual appointed in accordance with G.S. 55-8-40 as
+26 (i) president, chief executive officer, chief operating officer, chief financial officer, chief legal
+27 officer, secretary, controller, treasurer, or chief accounting officer of the corporation and (ii) any
+28 officer of the corporation designated by resolution of the board of directors as an officer for
+29 purposes of subdivision (b)(3) of this section. The board of directors may from time to time by
+30 resolution determine that one or more of the officers designated by resolution of the board in
+31 accordance with this subsection is no longer an officer for purposes of subdivision (b)(3) of this
+32 section, but no such resolution is effective as to an officer, or any act or omission of the officer,
+33 prior to the adoption of that resolution."
+34
+35 PART II. CLARIFY PROVISIONS FOR EMERGENCY BYLAWS AND EMERGENCY
+36 POWERS
+37 SECTION 2.(a) G.S. 55-2-07 reads as rewritten:
+38 "§ 55-2-07. Emergency bylaws.
+39 (a) Unless the articles of incorporation provide otherwise, the board of directors of a
+40 corporation may adopt bylaws to be bylaws may contain provisions that become effective only
+41 in an emergency defined in subsection (d). during an emergency if the provisions are adopted in
+42 advance of an emergency. The emergency bylaws, which are subject to amendment or repeal by
+43 the shareholders, may make bylaws may contain all provisions necessary for managing the
+44 corporation during the an emergency, including:including all of the following:
+45 (1) Procedures for calling a meeting of the board of directors; directors.
+46 (2) Quorum requirements for the meeting; andmeeting.
+47 (3) Designation of additional or substitute directors.
+48 (b) All provisions of the regular bylaws consistent with the emergency bylaws remain
+49 effective during the emergency. The emergency bylaws are not effective after the emergency
+50 ends.
+Page 2 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c) Corporate action taken in good faith in accordance with the emergency bylaws binds
+2 the corporation and the fact that the action was taken by special procedures may shall not be used
+3 to impose liability on a corporate director, officer, employee, or agent.
+4 (d) An emergency exists for purposes of this section if a quorum of the corporation's
+5 directors cannot readily be assembled because of some catastrophic event."
+6 SECTION 2.(b) G.S. 55-3-03 reads as rewritten:
+7 "§ 55-3-03. Emergency powers.
+8 (a) In anticipation of or during an emergency defined in subsection (d), the board of
+9 directors of a corporation may:
+10 (1) Modify lines of succession to accommodate the incapacity of any director,
+11 officer, employee, or agent; and
+12 (2) Relocate the principal office, designate alternative principal offices or
+13 regional offices, or authorize the officers to do so.
+14 (b) During an emergency defined in subsection (d), emergency, unless emergency bylaws
+15 provide otherwise:otherwise, both of the following apply:
+16 (1) Notice of a meeting of the board of directors need be given only to those
+17 directors whom it is practicable to reach and may be given in any practicable
+18 manner, including by publication and radio; and radio.
+19 (2) One or more officers of the corporation present at a meeting of the board of
+20 directors may be deemed to be directors for the meeting, in order of rank and
+21 within the same rank in order of seniority, as to the extent necessary to achieve
+22 a quorum.
+23 (b1) During an emergency, unless emergency bylaws provide otherwise, the board of
+24 directors may postpone a meeting of shareholders for which notice has been given or authorize
+25 shareholders to participate in a meeting by any means of remote communication that conforms
+26 with G.S. 55-7-09(b). The corporation shall give notice to shareholders, by such means and with
+27 such shorter advance notice as are reasonable in the circumstances, of any postponement,
+28 including any new date, time, or place, and shall describe any means of remote communication
+29 to be used.
+30 (c) Corporate action taken in good faith under this section during an emergency under
+31 this section to further the ordinary business affairs of the corporation binds the corporation and
+32 the fact that said the action is taken by special procedures may shall not be used to impose liability
+33 on a corporate director, officer, employee, or agent.agent of the corporation.
+34 (d) An emergency exists for purposes of subsection (b) of this section if a quorum of the
+35 corporation's directors cannot readily be assembled because of some catastrophic event. An
+36 emergency exists for purposes of subsection (b1) of this section if, because of some catastrophic
+37 event, it is impracticable to convene a meeting of shareholders in accordance with this Chapter
+38 or the bylaws or as specified in a notice previously given for the meeting."
+39
+40 PART III. CLARIFY PROVISIONS FOR SELECTION OF EXCLUSIVE FORUM
+41 SECTION 3.(a) Article 2 of Chapter 55 of the General Statutes is amended by adding
+42 a new section to read:
+43 "§ 55-2-08. Forum selection provisions.
+44 (a) The articles of incorporation or the bylaws may require that any or all internal
+45 corporate claims shall be brought exclusively in any specified court or courts of this State and, if
+46 so specified, in any additional courts in this State or in any other jurisdictions with which the
+47 corporation has a reasonable relationship.
+48 (b) A provision of the articles of incorporation or bylaws adopted under subsection (a) of
+49 this section does not have the effect of conferring jurisdiction on any court or over any person or
+50 claim and does not apply if none of the courts specified by the provision has the requisite personal
+51 and subject matter jurisdiction. If the court or courts of this State specified in a provision adopted
+House Bill 388-Fourth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 under subsection (a) of this section do not have the requisite personal and subject matter
+2 jurisdiction and another court of this State does have the requisite jurisdiction, then the internal
+3 corporate claim may be brought in the other court of this State, notwithstanding that the other
+4 court of this State is not specified in the provision. Additionally, the internal corporate claim may
+5 be brought in any other court specified in the provision that has the requisite jurisdiction.
+6 (c) No provision of the articles of incorporation or the bylaws may prohibit bringing an
+7 internal corporate claim in the courts of this State or require the claims to be determined by
+8 arbitration.
+9 (d) For the purposes of this section, "internal corporate claim" means any of the
+10 following:
+11 (1) A claim that is based on a violation of a duty under the laws of this State by a
+12 current or former director, officer, or shareholder in such capacity.
+13 (2) A derivative proceeding brought on behalf of the corporation.
+14 (3) An action asserting a claim arising pursuant to any provision of this Chapter
+15 or the articles of incorporation or bylaws.
+16 (4) An action asserting a claim governed by the internal affairs doctrine that is not
+17 otherwise included in subdivisions (1) through (3) of this subsection."
+18 SECTION 3.(b) G.S. 55-7-50 is repealed.
+19
+20 PART IV. PROHIBITION AGAINST THE ISSUANCE OF SCRIP IN BEARER FORM
+21 SECTION 4.(a) G.S. 55-6-04 reads as rewritten:
+22 "§ 55-6-04. Fractional shares.
+23 (a) A corporation may:may issue fractions of a share or, in lieu of doing so, may do any
+24 of the following:
+25 (1) Issue fractions of a share or pay in money Pay in cash the value of fractions
+26 of a share;share.
+27 (2) Arrange for disposition of fractional shares by the shareholders;Dispose of the
+28 fractional shares and pay the proceeds to the holders of those shares.
+29 (3) Issue scrip in registered or bearer certificated or uncertificated form entitling
+30 the holder to receive a full share upon surrendering enough scrip to equal a
+31 full share.
+32 (b) Each certificate representing scrip must shall be conspicuously labeled "scrip" and
+33 must shall contain the information required by G.S. 55-6-25(b). A corporation shall not issue
+34 scrip certificates in bearer form. Within a reasonable time after the issuance or transfer of scrip
+35 without certificates, the corporation shall deliver to the scripholder a written statement of the
+36 information required on certificates by G.S. 55-6-25(b) and the terms of the scrip.
+37 (c) The holder of a fractional share is entitled to exercise the rights of a shareholder,
+38 including the right rights to vote, to receive dividends, and to participate in the assets of the
+39 corporation receive distributions upon liquidation. The holder of scrip is not entitled to any of
+40 these rights unless the scrip provides for them.
+41 (d) The board of directors may authorize the issuance of scrip subject to any condition
+42 considered desirable, including:including the following:
+43 (1) That the The scrip will become void if not exchanged for full shares before a
+44 specified date; anddate.
+45 (2) That the The shares for which the scrip is exchangeable may be sold and the
+46 proceeds paid to the scripholders."
+47 SECTION 4.(b) G.S. 55-6-25 reads as rewritten:
+48 "§ 55-6-25. Form and content of certificates.
+49 (a) Shares may may, but need not not, be represented by certificates. Share certificates
+50 shall not be issued in bearer form. Unless this act Chapter or another statute expressly provides
+Page 4 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 otherwise, the rights and obligations of shareholders are identical regardless of whether or not
+2 their shares are represented by certificates.
+3 (b) At a minimum each share certificate must shall state all of the following on its face:
+4 (1) The name of the issuing corporation and that it is organized under the law of
+5 North Carolina;Carolina.
+6 (2) The name of the person to whom issued; andissued.
+7 (3) The number and class of shares and the designation of the series, if any, the
+8 certificate represents.
+9 (c) If the issuing corporation is authorized to issue different classes of shares or different
+10 series within a class, the designations, relative rights, preferences, and limitations applicable to
+11 each class and the variations in rights, preferences, and limitations determined for each series
+12 (and the authority of the board of directors to determine variations for future series) must shall
+13 be summarized on the front or back of each certificate. Alternatively, each certificate may state
+14 conspicuously on its front or back that the corporation will furnish the shareholder this
+15 information on request in writing and without charge.
+16 (d) Each share certificate (1) must (i) shall be signed (either manually or in facsimile) by
+17 two officers designated in the bylaws or by the board of directors and (2) (ii) may bear the
+18 corporate seal or its facsimile.
+19 (e) If the person who signed in any capacity (either manually or in facsimile) a share
+20 certificate no longer holds office when the certificate is issued, the certificate is nevertheless
+21 valid."
+22
+23 PART V. CLARIFY AND REVISE DERIVATIVE PROCEEDING PROCEDURES
+24 SECTION 5.(a) G.S. 55-7-40.1 reads as rewritten:
+25 "§ 55-7-40.1. Definitions.
+26 In this Part:
+27 (1) "Derivative proceeding" means a civil suit in the right of a domestic
+28 corporation or, to the extent provided in G.S. 55-7-47, in the right of a foreign
+29 corporation.corporation, to recover for an injury to the corporation.
+30 (2) "Shareholder" has the same meaning as in G.S. 55-1-40 and includes a
+31 beneficial owner whose shares are held in a voting trust or held by a nominee
+32 on the beneficial owner's behalf."
+33 SECTION 5.(b) G.S. 55-7-42 reads as rewritten:
+34 "§ 55-7-42. Demand.
+35 No shareholder may commence a derivative proceeding until:until both of the following have
+36 occurred:
+37 (1) A written demand has been made upon delivered to the corporation to take
+38 suitable action; andaction. The written demand shall describe in reasonable
+39 detail the reasons for the demand and the action being requested and state that
+40 the shareholder may commence a derivative proceeding if the action is not
+41 taken. If the shareholder is a beneficial shareholder or an unrestricted voting
+42 trust beneficial owner, the written demand shall be accompanied by evidence
+43 of the beneficial ownership.
+44 (2) 90 days have expired from the date the demand was made unless, prior to the
+45 expiration of the 90 days, the shareholder was notified that the corporation
+46 rejected the demand, or unless irreparable injury to the corporation would
+47 result by waiting for the expiration of the 90-day period."
+48 SECTION 5.(c) G.S. 55-7-44 reads as rewritten:
+49 "§ 55-7-44. Dismissal.
+50 (a) The court shall dismiss a derivative proceeding on motion of the corporation if a
+51 determination is made, whether before or after the commencement of the derivative proceeding,
+House Bill 388-Fourth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 by one of the groups specified in subsection (b) or (f) of this section determines of this section in
+2 good faith faith, after conducting a reasonable inquiry upon which its conclusions are based
+3 based, that the maintenance of the derivative proceeding is not in the best interest of the
+4 corporation.
+5 (b) Unless a panel is appointed pursuant to subsection (f) of this section, the The inquiry
+6 and determination in subsection (a) of this section shall be made by:by any of the following:
+7 (1) A majority vote of independent directors present at a meeting of the board of
+8 directors if the independent directors constitute a quorum; orquorum.
+9 (2) A majority vote of a committee consisting of two or more independent
+10 directors appointed by majority vote of independent directors present at a
+11 meeting of the board of directors, whether or not the independent directors
+12 constituted a quorum.
+13 (3) Upon motion by the corporation, by a panel of one or more individuals
+14 appointed by the court.
+15 (c) For purposes of this section, none of the following factors by itself shall cause a
+16 director to be considered not independent:
+17 (1) The nomination or election of the director by persons who are defendants any
+18 person who is a defendant in the derivative proceeding or against whom action
+19 is demanded;demanded.
+20 (2) The naming of the director as a defendant in the derivative proceeding or as a
+21 person against whom action is demanded; ordemanded.
+22 (3) The approval by the director of the act being challenged in the derivative
+23 proceeding or demand if the act resulted in no personal benefit to the director.
+24 (d) If a derivative proceeding is commenced after a determination has been made
+25 rejecting a demand by a shareholder, the complaint made by one of the groups specified in
+26 subsection (b) of this section that maintaining the derivative proceeding is not in the best interest
+27 of the corporation, in order to contest the determination, the plaintiff shall allege with
+28 particularity facts establishing that the requirements of subsection (a) of this section have not
+29 been met. Defendants may make a motion to dismiss a complaint under subsection (a) of this
+30 section for failure to comply with this subsection. Prior to the court's ruling on such a the motion
+31 to dismiss, the plaintiff shall be is entitled to discovery only with respect to the issues presented
+32 by the motion and only if and to the extent that the plaintiff has alleged such the facts with
+33 particularity. The preliminary discovery shall be limited solely to matters germane and necessary
+34 to support the facts alleged with particularity relating solely to the requirements of subsection (a)
+35 of this section.
+36 (e) If a majority of the board of directors does not consist of independent directors at the
+37 time the determination is made, The burden of proving whether the requirements of subsection
+38 (a) of this section have been met is determined as follows:
+39 (1) If the determination was made by one of the groups specified in subdivision
+40 (b)(1) or (b)(2) of this section, then the plaintiff has the burden of proving that
+41 the requirements of subsection (a) of this section have not been met unless the
+42 plaintiff has alleged with particularity facts establishing that a majority of the
+43 board of directors at the time the determination was made did not consist of
+44 independent directors, in which case the corporation shall have has the burden
+45 of proving that the requirements of subsection (a) of this section have been
+46 met.
+47 (2) If a majority of the board of directors consists of independent directors at the
+48 time the determination is made, If the determination was made by a panel
+49 appointed pursuant to subdivision (b)(3) of this section, then the plaintiff shall
+50 have has the burden of proving that the requirements of subsection (a) of this
+51 section have not been met.
+Page 6 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (f) The court may appoint a panel of one or more independent persons upon motion of
+2 the corporation to make a determination whether the maintenance of the derivative proceeding is
+3 in the best interest of the corporation. The plaintiff shall have the burden of proving that the
+4 requirements of subsection (a) of this section have not been met.The court on its own motion or
+5 on the motion of any party may order that any motion to dismiss under subsection (a) of this
+6 section be made within a specified reasonable time."
+7 SECTION 5.(d) G.S. 55-7-46 reads as rewritten:
+8 "§ 55-7-46. Payment of expenses.
+9 On termination of the derivative proceeding, the court may:may do any of the following:
+10 (1) Order the corporation to pay the plaintiff's reasonable expenses, including
+11 attorneys' fees, incurred in the derivative proceeding if it finds that the
+12 derivative proceeding has resulted in a substantial benefit to the
+13 corporation;corporation.
+14 (2) Order the plaintiff to pay the corporation's or any defendant's reasonable
+15 expenses, including attorneys' fees, incurred in responding to the demand or
+16 defending the derivative proceeding if it finds that the demand was made or
+17 the derivative proceeding was commenced or maintained without reasonable
+18 cause or for an improper purpose; orpurpose.
+19 …."
+20
+21 PART VI. MAKE CLARIFYING AND TECHNICAL CHANGES REGARDING THE
+22 AUTHORITY OF BOARD COMMITTEES
+23 SECTION 6. G.S. 55-8-25 reads as rewritten:
+24 "§ 55-8-25. Committees.
+25 …
+26 (e) A committee shall not, however, do any of the following:
+27 (1) Authorize or approve distributions, except according to a formula or method,
+28 or within limits, prescribed by the board of directors.
+29 (2) Approve or propose to shareholders action that this act Chapter requires be
+30 approved by shareholders.
+31 (3) Fill vacancies on the board of directors or on any of its committees.
+32 (4) Amend articles of incorporation pursuant to G.S. 55-10-02.
+33 (5) Adopt, amend, or repeal bylaws.
+34 (6) Approve a plan of merger not requiring shareholder approval.
+35 …."
+36
+37 PART VII. CLARIFY PROVISIONS FOR MERGERS BETWEEN PARENT ENTITIES
+38 AND SUBSIDIARY CORPORATIONS
+39 SECTION 7.(a) G.S. 55-11-04(f) is repealed.
+40 SECTION 7.(b) G.S. 55-11-12 reads as rewritten:
+41 "§ 55-11-12. Merger between parent unincorporated entity and subsidiary corporation or
+42 corporations.
+43 (a) Subject to the other provisions of this section and Article 9 of this Chapter, a parent
+44 unincorporated entity owning shares of a domestic subsidiary corporation that carry at least
+45 ninety percent (90%) of the voting power of each class and series of the outstanding shares of the
+46 subsidiary corporation and that have the power to vote in the election of directors at the time of
+47 a merger under this section may merge the subsidiary corporation or corporations into itself, or
+48 merge itself and one or more subsidiary corporations into another subsidiary corporation, without
+49 approval of the board of directors or shareholders of the subsidiary corporation or corporations,
+50 unless the articles of incorporation for of the subsidiary corporation or corporations require
+House Bill 388-Fourth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 approval of the shareholders of the subsidiary corporation or corporations, if both all of the
+2 following requirements are met:
+3 (1) The merger is permitted by the laws of the state or country governing the
+4 organization and internal affairs of each merging business entity.
+5 (2) Each merging business entity complies with the requirements of this section
+6 and, to the extent applicable, the laws referred to in subdivision (1) of this
+7 subsection.
+8 (3) The parent unincorporated entity approves, in the manner required by laws of
+9 the state or country governing the organization and internal affairs of the
+10 parent unincorporated entity, a written plan of merger containing all of the
+11 provisions required by G.S. 55-11-10(c).
+12 …
+13 (d) The surviving business entity shall deliver articles of merger to the Secretary of State
+14 for filing. The articles of merger shall set forth all of the following:
+15 (1) For each merging business entity, its name, type of business entity, and the
+16 state or country whose laws govern its organization and internal affairs.
+17 (2) The terms and conditions of the merger.
+18 (3) The manner and basis of converting the interests in each merging business
+19 entity into interests, obligations, or securities of the surviving business entity,
+20 or into cash or other property in whole or in part, or of cancelling the interests.
+21 (4) The name of the merging business entity that shall survive the merger and, if
+22 the surviving business entity is not authorized to transact business or conduct
+23 affairs in this State, a designation of its mailing address and a commitment to
+24 file with the Secretary of State a statement of any subsequent change in its
+25 mailing address.
+26 (5) If the surviving business entity is a domestic corporation, any amendment to
+27 its articles of incorporation as provided in a plan of merger or board
+28 resolution.merger.
+29 (6) A statement that the plan of merger has been approved by each merging
+30 business entity in the manner required by law.
+31 (e) The provisions of the articles of merger may be made dependent on facts objectively
+32 ascertainable outside the articles of merger if the articles of merger set forth the manner in which
+33 the facts will operate upon the affected provisions. The facts may include any of the following:
+34 (1) Statistical or market indices, market prices of any security or group of
+35 securities, interest rates, currency exchange rates, or similar economic or
+36 financial data.
+37 (2) A determination or action by the corporation or by any other person, group,
+38 or body.
+39 (3) The terms of, or actions taken under, an agreement to which the corporation
+40 is a party, or any other agreement or document.G.S. 55-11-10(c1) and (c2)
+41 apply to any merger described in this section.
+42 (f) A merger takes effect when the articles of merger become effective."
+43
+44 PART VIII. ELECTRONIC STORAGE OF ATTESTED WRITTEN WILLS BY AN
+45 ATTORNEY
+46 SECTION 8.1. Chapter 31 of the General Statutes is amended by adding a new
+47 Article to read:
+48 "Article 11.
+49 "Electronic Storage of Attested Written Wills by an Attorney.
+50 "§ 31-71. Definitions.
+51 In this Article, the following definitions apply:
+Page 8 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) Electronic. – Relating to technology having electrical, digital, magnetic,
+2 wireless, optical, electromagnetic, or similar capabilities.
+3 (2) Record. – Information that is inscribed on a tangible medium or that is stored
+4 in an electronic or other medium and is retrievable in perceivable form.
+5 "§ 31-72. Storage of attested written will by a licensed attorney as an electronic record.
+6 (a) At any time during the life of the testator, an attorney licensed to practice law in North
+7 Carolina may, at the testator's direction, create an electronic record of the testator's attested
+8 written will. The electronic record shall include a certification, signed by that attorney, in the
+9 form of an affidavit sworn to or affirmed before an officer authorized to administer oaths, that
+10 the electronic record of the attested written will is a complete, true, and accurate copy of the
+11 attested written will, that the testator expressly authorized the attorney to create an electronic
+12 record of the attested written will, and that the testator has been advised that the creation of an
+13 electronic record of the testator's attested written will eliminates the ability of the testator to
+14 revoke the attested written will by physical act.
+15 (b) If the attested written will is lost or destroyed after being stored as an electronic record
+16 pursuant to this section, the loss or destruction shall not be deemed a revocation of the attested
+17 written will, nor shall it be deemed a presumption of revocation of the attested written will.
+18 "§ 31-73. Certification of paper copy of attested written will stored as an electronic record.
+19 (a) An attorney licensed in this State may create a certified paper copy of an attested
+20 written will that has been stored as an electronic record in accordance with the requirements of
+21 G.S. 31-72 by certifying that the paper copy is a complete, true, and accurate copy of that
+22 electronic record. The certification shall be in the form of an affidavit sworn to or affirmed before
+23 an officer authorized to administer oaths. The certified paper copy may be created at any time
+24 after the attested written will has been stored as an electronic record in accordance with the
+25 requirements of G.S. 31-72.
+26 (b) A certified paper copy of an attested written will stored as an electronic record in
+27 accordance with the requirements of this section may be probated under G.S. 28A-2A-8(a1)."
+28 SECTION 8.2. G.S. 28A-2A-8 reads as rewritten:
+29 "§ 28A-2A-8. Manner of probate of attested written will.will or certified paper copy of
+30 attested written will stored as an electronic record.
+31 (a) An attested written will, executed as provided by G.S. 31-3.3, may be probated in the
+32 following manner:any of the following ways:
+33 (1) Upon the testimony of at least two of the attesting witnesses; orwitnesses.
+34 (2) If the testimony of only one attesting witness is available, then with all of the
+35 following:
+36 a. Upon the The testimony of such witness, andthe witness.
+37 b. Upon proof Proof of the handwriting of at least one of the attesting
+38 witnesses who is dead or whose testimony is otherwise unavailable,
+39 andunavailable.
+40 c. Upon proof Proof of the handwriting of the testator, unless he the
+41 testator signed by his mark, andthe testator's mark.
+42 d. Upon proof Proof of such other circumstances as will that satisfy the
+43 clerk of the superior court as to the genuineness and due execution of
+44 the will; orwill.
+45 (3) If the testimony of none of the attesting witnesses is available, then with both
+46 of the following:
+47 a. Upon proof Proof of the handwriting of at least two of the attesting
+48 witnesses whose testimony is unavailable, andunavailable.
+49 b. Upon compliance Compliance with paragraphs sub-subdivisions c.
+50 and d. of subsection (a)(2) of this section; orsubdivision (a)(2) of this
+51 section.
+House Bill 388-Fourth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (4) Upon a showing that the will has been made self-proved in accordance with
+2 the provisions of G.S. 31-11.6.
+3 (a1) A certified paper copy, created in accordance with the requirements of G.S. 31-73, of
+4 an attested written will executed as provided by G.S. 31-3.3 may be probated in any of the
+5 following ways:
+6 (1) Upon the testimony of at least two of the attesting witnesses.
+7 (2) If the testimony of only one attesting witness is available, then with both of
+8 the following:
+9 a. The testimony of the witness.
+10 b. Proof of other circumstances that satisfy the clerk of the superior court
+11 as to the genuineness and due execution of the will.
+12 (3) If the testimony of none of the attesting witnesses is available, then upon
+13 compliance with sub-subdivision b. of subdivision (2) of this subsection.
+14 (4) Upon a showing that the attested will has been made self-proved in accordance
+15 with G.S. 31-11.6.
+16 (b) Due execution of a will may be established, where if the evidence required by
+17 subsection (a) subsections (a) and (a1) of this section is unavoidably lacking or inadequate, by
+18 testimony of other competent witnesses as to the requisite facts.
+19 (c) The testimony of a witness is unavailable within the meaning of this section when the
+20 witness is dead, out of the State, not to be found within the State, incompetent, physically unable
+21 to testify testify, or refuses to testify."
+22 SECTION 8.3. G.S. 28A-2B-1 reads as rewritten:
+23 "§ 28A-2B-1. Establishment before death that a will or codicil is valid.
+24 (a) Any petitioner who is a resident of North Carolina and who has executed a will or
+25 codicil may file a petition seeking a judicial declaration that the will or codicil is valid.
+26 (b) The petition shall be filed with the clerk of superior court and the matter shall proceed
+27 as a contested estate proceeding governed by Article 2 of Chapter 28A of the General Statutes.
+28 At the hearing before the clerk of superior court, the petitioner shall produce the original will or
+29 codicil or a certified paper copy of an attested written will created in accordance with the
+30 requirements of G.S. 31-73 and any other evidence necessary to establish that the will or codicil
+31 would be admitted to probate if the petitioner were deceased.
+32 If an interested party contests the validity of the will or codicil, that person shall file a written
+33 challenge to the will or codicil before the hearing or make an objection to the validity of the will
+34 or codicil at the hearing. Upon the filing of a challenge or the raising of an issue contesting the
+35 validity of the will or codicil, the clerk shall transfer the cause to the superior court. The matter
+36 shall be heard as if it were a caveat proceeding, and the court shall make a determination as to
+37 the validity of the will or codicil and enter judgment accordingly.
+38 If no interested party contests the validity of the will or codicil and if the clerk of superior
+39 court determines that the will or codicil would be admitted to probate if the petitioner were
+40 deceased, the clerk of superior court shall enter an order adjudging the will or codicil to be valid.
+41 (c) Failure to use the procedure authorized by this Article shall does not have any
+42 evidentiary or procedural effect on any future probate proceedings.
+43 (d) For purposes of this Article only, a "petitioner" is a person who requests a judicial
+44 declaration that confirms the validity of that person's will or codicil."
+45 SECTION 8.4. G.S. 28A-2B-3 reads as rewritten:
+46 "§ 28A-2B-3. Contents of petition for will validity.
+47 (a) Petition. – A petition requesting an order declaring that a petitioner's will or codicil is
+48 valid shall be verified and shall contain the following information:
+49 …
+50 (5) A statement identifying the petitioner, petitioner and all persons believed by
+51 the petitioner to have an interest in the proceeding, including, for any
+Page 10 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 interested parties who are minors, information regarding the minor's
+2 appropriate representative.
+3 (b) The petitioner shall file a copy of the will or codicil with the petition and petition. At
+4 the hearing provided in G.S. 28A-2B-1(b), the petitioner shall tender the original will or codicil
+5 at the hearing as provided in G.S. 28A-2B-1(b). or a certified paper copy of an attested written
+6 will created in accordance with the requirements of G.S. 31-73. If an order is entered declaring
+7 the will or codicil to be valid, the court shall affix a certificate of validity to the will or codicil."
+8 SECTION 8.5. G.S. 31-3.1 reads as rewritten:
+9 "§ 31-3.1. Will invalid unless statutory requirements complied with.
+10 No will is valid unless it complies with the requirements prescribed therefor by this Article.of
+11 this Chapter."
+12 SECTION 8.6. G.S. 31-3.2 reads as rewritten:
+13 "§ 31-3.2. Kinds of wills.
+14 (a) Personal property and real property may be devised by any of the following:
+15 (1) An attested written will which that complies with the requirements of G.S.
+16 31-3.3, orG.S. 31-3.3.
+17 (2) A holographic will which that complies with the requirements of G.S. 31-3.4.
+18 (3) A certified paper copy of an attested written will created in accordance with
+19 the requirements of G.S. 31-73.
+20 (b) Personal property may also be devised by a nuncupative will which that complies
+21 with the requirements of G.S. 31-3.5."
+22 SECTION 8.7. G.S. 31-5.1 reads as rewritten:
+23 "§ 31-5.1. Revocation of written will.
+24 A written will, or any part thereof, may be revoked only
+25 (1) By a subsequent written will or codicil or other revocatory writing executed
+26 in the manner provided herein for the execution of written wills, or
+27 (2) By being burnt, torn, canceled, obliterated, or destroyed, with the intent and
+28 for the purpose of revoking it, by the testator himself or by another person in
+29 the testator's presence and by the testator's direction.direction, except as
+30 otherwise provided in Article 11 of this Chapter."
+31
+32 PART IX. MODIFICATION OF EMERGENCY VIDEO SUNSETS
+33 SECTION 9.(a) G.S. 10B-25(n) reads as rewritten:
+34 "(n) This section shall expire at 12:01 A.M. on July 1, 2025; provided, upon the earlier of
+35 (i) 12:01 A.M. July 1, 2026, or (ii) the date the Secretary issues the first license in accordance
+36 with G.S. 10B-134.19. If the Secretary issues the first license in accordance with
+37 G.S. 10B-134.19 prior to 12:01 A.M. July 1, 2026, the Secretary shall file that date with the
+38 Codifier of Rules to be published in the North Carolina Register as the expiration date of this
+39 section. Provided, however, all notarial acts made in accordance with this section and while this
+40 section is in effect shall remain effective and shall not need to be reaffirmed."
+41 SECTION 9.(b) G.S. 10B-200(b) reads as rewritten:
+42 "(b) This Article expires June 30, 2025.upon the earlier of (i) 12:01 A.M. July 1, 2026, or
+43 (ii) the date the Secretary issues the first license in accordance with G.S. 10B-134.19. If the
+44 Secretary issues the first license in accordance with G.S. 10B-134.19 prior to 12:01 A.M. July 1,
+45 2026, the Secretary shall file that date with the Codifier of Rules to be published in the North
+46 Carolina Register as the expiration date of this section."
+47
+48 PART X. UPDATES TO ELECTIVE SHARE STATUTES
+49 SECTION 10.1. G.S. 30-3.3A reads as rewritten:
+50 "§ 30-3.3A. Valuation of property.
+51 …
+House Bill 388-Fourth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 (e) Partial or Contingent Interest Property. – The valuation of partial and contingent
+2 property interests, outright or in trust, which are limited to commence or terminate upon the death
+3 of one or more persons, upon the expiration of a period of time, or upon the occurrence of one or
+4 more contingencies, shall be determined by computations based upon the mortality and annuity
+5 tables set forth in G.S. 8-46 and G.S. 8-47, and by using a presumed rate of return of six percent
+6 (6%) of the value of the underlying property in which those interests are limited, unless upon
+7 good cause shown by one of the parties, the clerk determines that the use of such tables or rate
+8 of return is not appropriate, then the value of such interests shall be determined under subsection
+9 (f) of this section. However, in valuing partial and contingent interests passing to the surviving
+10 spouse, the following special rules apply:
+11 (1) The value of the beneficial interest of a spouse shall be the entire fair market
+12 value of any property held in trust if the decedent was the settlor of the trust,
+13 if the trust is held for the exclusive benefit of the surviving spouse during the
+14 surviving spouse's lifetime, and if the terms of the trust substantially meet the
+15 following requirements:requirements in form and content:
+16 a. During At all times during the lifetime of the surviving spouse, the
+17 trust is controlled by (i) one or more nonadverse trustees.trustees,
+18 including successor trustees, (ii) the surviving spouse as trustee, or (iii)
+19 one or more nonadverse trustees and the surviving spouse as
+20 co-trustees, including successor trustees.
+21 b. The trustee shall distribute to or for the benefit of the surviving spouse
+22 either (i) the entire net income of the trust at least annually or (ii) the
+23 income of the trust in such amounts and at such times as the trustee, in
+24 its discretion, determines necessary for the health, maintenance, and
+25 support of the surviving spouse.
+26 c. The trustee shall distribute to or for the benefit of the surviving spouse
+27 out of the principal of the trust such amounts and at such times as the
+28 trustee, in its discretion, determines necessary for the health,
+29 maintenance, and support of the surviving spouse.
+30 d. In exercising discretion, the trustee
+31 (1a) Notwithstanding any requirements in subdivision (1) of this subsection to the
+32 contrary, the terms of the trust may be authorized authorize or required require
+33 the trustee, in exercising discretion, to take into consideration all other income
+34 assets income, assets, and other means of support available to the surviving
+35 spouse.
+36 (1b) A trust fails to meet the requirements of sub-subdivisions b. and c. of
+37 subdivision (1) of this subsection if the terms of the trust do not state the
+38 requirement that the trustee shall distribute the income and principal as
+39 provided in those sub-subdivisions using the terms "shall," "is required to," or
+40 other equivalent term or terms directing the trustee to distribute the income
+41 and principal. Nothing in this subdivision shall affect the ability of the trustee
+42 to exercise the discretion provided in sub-subdivisions b. and c. of subdivision
+43 (1) of this subsection with respect to the timing and amount of distributions
+44 necessary for the health, maintenance, and support of the surviving spouse.
+45 (2) To the extent that the partial or contingent interest is dependent upon the
+46 occurrence of any contingency that is not subject to the control of the
+47 surviving spouse and that is not subject to valuation by reference to the
+48 mortality and annuity tables set forth in G.S. 8-46 and G.S. 8-47, the
+49 contingency will be conclusively presumed to result in the lowest possible
+50 value passing to the surviving spouse. However, a life estate or income interest
+Page 12 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 that will terminate upon the surviving spouse's death or remarriage will be
+2 valued without regard to the possibility of termination upon remarriage.
+3 …."
+4 SECTION 10.2. G.S. 30-3.4 reads as rewritten:
+5 "§ 30-3.4. Procedure for determining the elective share.
+6 (a) Exercisable Only During Lifetime. – The right of the surviving spouse to file a claim
+7 for an elective share must be exercised during the lifetime of the surviving spouse, by the
+8 surviving spouse, by the surviving spouse's agent if the surviving spouse's power of attorney
+9 expressly authorizes the agent to do so or to generally engage in estate, trusts, and other beneficial
+10 interests, or, with approval of court, by the guardian of the surviving spouse's estate or general
+11 guardian. If a surviving spouse dies before the claim for an elective share has been settled, the
+12 surviving spouse's personal representative shall succeed to the surviving spouse's rights to an
+13 elective share.
+14 (b) Time Limitations. – A claim for an elective share must be made within six months
+15 after the issuance of letters testamentary or letters of administration in connection with the will
+16 or intestate proceeding with respect to which the surviving spouse claims the elective share by
+17 (i) filing a verified petition with the clerk of superior court of the county in which the primary
+18 administration of the decedent's estate lies,and (ii) mailing or delivering a copy of that petition
+19 to the personal representative of the decedent's estate. lies. A surviving spouse's incapacity shall
+20 not toll the six-month period of limitations.
+21 …
+22 (e1) Procedure. – An elective share proceeding shall be an estate proceeding and shall be
+23 conducted in accordance with the procedures of Article 2 of Chapter 28A of the General Statutes.
+24 The verified petition shall be filed by the clerk upon payment of the costs assessed in
+25 G.S. 7A-307. An elective share proceeding shall be an estate proceeding and shall be conducted
+26 in accordance with the procedures of Article 2 of Chapter 28A of the General Statutes, except as
+27 modified or supplemented by the following:
+28 (1) Upon the filing of the verified petition, the petition shall be served upon the
+29 personal representative in accordance with G.S. 1A-1, Rule 4 of the Rules of
+30 Civil Procedure, without issuance of a summons. The petition shall also be
+31 served on all responsible persons as those persons become known to the
+32 petitioner in accordance with G.S. 1A-1, Rule 4 of the Rules of Civil
+33 Procedure, without issuance of a summons. The failure to serve the petition
+34 for elective share on the personal representative or any other person within the
+35 six-month period described in subsection (b) of this section shall not render
+36 the claim for elective share as being untimely filed.
+37 (2) After service under subdivision (1) of this subsection, the petitioner, the
+38 personal representative, or any other party may cause notice of a hearing
+39 before the clerk to be served upon all parties in accordance with G.S. 1A-1,
+40 Rule 5 of the Rules of Civil Procedure. At the hearing, the clerk may set
+41 deadlines as to the gathering and sharing of information concerning total net
+42 assets and may determine any other relevant procedural matters.
+43 (3) Within 30 days following the entry of an order resulting from the hearing
+44 described in subdivision (2) of this subsection, any party who was present at
+45 the hearing may file a responsive pleading to the petition; provided, however,
+46 that failure to respond to any averment or claim in the petition shall not be
+47 deemed an admission of that averment or claim. An extension of time to file
+48 a responsive pleading to the petition may be granted as provided by G.S. 1A-1,
+49 Rule 6 of the Rules of Civil Procedure.
+50 …."
+House Bill 388-Fourth Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 10.3. This Part becomes effective January 1, 2026, and applies to claims
+2 for elective share filed on or after that date.
+3
+4 PART XI. TRUST ADMINISTRATION/CONTEST UPDATES
+5 SECTION 11.1. G.S. 36C-6-604 reads as rewritten:
+6 "§ 36C-6-604. Limitation on action contesting validity of revocable trust; distribution of
+7 trust property.
+8 (a) A person may commence a judicial proceeding to contest the validity of a trust that
+9 was revocable at the settlor's death within the earlier of:of the following:
+10 (1) Three years after the settlor's death; ordeath.
+11 (2) 120 days after the trustee sent the person a copy of the trust instrument and
+12 written notice pursuant to G.S. 1A-1, Rule 4 of the Rules of Civil Procedure,
+13 informing the person of the trust's existence, of the trustee's name and address,
+14 and of the time allowed for commencing a proceeding.
+15 (b) Upon the death of the settlor of a trust that was revocable at the settlor's death, the
+16 trustee may proceed to administer the trust and distribute the trust property in accordance with
+17 the terms of the trust. The trustee is trust and shall not be subject to liability for doing so unless:so,
+18 except that the trustee shall not distribute trust property to any beneficiary in contravention of the
+19 rights of any person who may be affected by the outcome of a pending or possible judicial
+20 proceeding if, at the time the distribution is made, any of the following apply:
+21 (1) The trustee knows of a pending judicial proceeding contesting the validity of
+22 all or part of the terms of the trust; trust or contesting the identity of the
+23 beneficiaries eligible to receive distributions therefrom.
+24 (2) A potential contestant has notified the trustee in writing of a possible judicial
+25 proceeding to contest the trust, validity of all or part of the terms of the trust
+26 or to contest the identity of the beneficiaries eligible to receive distribution
+27 therefrom, and a judicial proceeding is commenced within 60 days after the
+28 contestant sent the notification.
+29 (b1) Any distribution in contravention of the provisions of subsection (b) of this section
+30 shall constitute a breach of trust by the trustee. Upon motion of a party and after notice to
+31 interested parties, a court, on good cause shown, may make an exception to the provisions of
+32 subsection (b) of this section and authorize the trustee to distribute trust assets to a beneficiary,
+33 subject to any conditions the court, in the court's discretion, may impose, including the posting
+34 of a bond by the beneficiary.
+35 (c) A beneficiary of a trust that is determined to have been invalid invalid, or whose
+36 interest in a trust has been determined to be invalid, is liable to return any distribution received.
+37 If the beneficiary refuses to return the distribution after being ordered by the court, the beneficiary
+38 shall be liable for all costs incurred for recovery of the distribution, including attorneys' fees."
+39 SECTION 11.2. This Part becomes effective January 1, 2026, and applies to settlors
+40 dying on or after that date.
+41
+42 PART XII. REVISIONS TO YEAR'S ALLOWANCE STATUTES
+43 SECTION 12.1. G.S. 30-15 reads as rewritten:
+44 "§ 30-15. When spouse entitled to allowance.
+45 (a) Every surviving spouse of a decedent, whether or not the surviving spouse has
+46 petitioned for an elective share, shall be entitled to receive an allowance having the value of sixty
+47 thousand dollars ($60,000) for the surviving spouse's support for one year after the death of the
+48 deceased spouse unless the spouse is barred from seeking an allowance under G.S. 31A-1 or
+49 another applicable law. The spouse's allowance shall be in addition to the spouse's share of the
+50 decedent's estate if the decedent died intestate but shall be charged against the spouse's share of
+51 the decedent's estate if the decedent died testate.
+Page 14 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) The right of a surviving spouse to file a claim for an allowance must be exercised
+2 during the lifetime of the surviving spouse by (i) the surviving spouse, (ii) the surviving spouse's
+3 agent under a durable power of attorney, or (iii), with approval of the court, by the guardian of
+4 the surviving spouse's estate or general guardian. A claim for an allowance must be made by
+5 filing a verified petition with the clerk of court of the county in which venue would be proper
+6 under G.S. 28A-3-1. There is no time limitation on bringing a claim for an allowance except that,
+7 if a personal representative has been appointed for the decedent's estate, the claim must be made
+8 within six months after the issuance of letters testamentary or letters of administration. In
+9 addition, if a personal representative has been appointed for the decedent's estate, a copy of the
+10 verified petition must be personally delivered or sent by first-class mail by the petitioner to the
+11 personal representative.
+12 (c) If the surviving spouse dies after the petition is filed but before the claim for an
+13 allowance has been fully satisfied, any deficiency judgment existing at the time of the surviving
+14 spouse's death shall not expire.
+15 (d) The spouse's allowance shall be exempt from any lien by judgment or execution
+16 against the property of the decedent or any other claim made against or owed by the decedent's
+17 estate. The spouse's allowance takes priority over any child's allowance under
+18 G.S. 30-17.G.S. 30-17, except as set forth in subsection (e) of this section.
+19 (e) If a surviving spouse entitled to an allowance fails to file a petition for an allowance
+20 within six months after the date of death of the decedent and an eligible person files a petition
+21 for a child's allowance in accordance with G.S. 30-17 before the spouse files a petition for an
+22 allowance, then the spouse's priority to receive the allowance prior to the child named in the
+23 petition is waived and the clerk may proceed to assign the full child's allowance to the eligible
+24 child named in the petition. If a petition for the spousal allowance is filed jointly with a petition
+25 for a child's allowance, then the spouse retains the right to receive the allowance prior to the child
+26 named in the petition. The waiver described in this subsection shall not affect the spouse's right
+27 to an allowance, only the spouse's priority to receive an allowance over any child's allowance
+28 under G.S. 30-17.
+29 (f) A proceeding for a spouse's allowance shall be an estate proceeding governed by the
+30 provisions of Article 2 of Chapter 28 of the General Statutes."
+31 SECTION 12.2. G.S. 30-17 reads as rewritten:
+32 "§ 30-17. When children entitled to an allowance.
+33 (a) Every child of a decedent who is under the age of 21 years at the time of the decedent's
+34 death, including an adopted child or a child in utero, and every child who is under the age of 21
+35 years at the time of the decedent's death with whom the decedent stood in loco parentis at the
+36 time of death, shall be entitled to receive an allowance having a value of ten thousand dollars
+37 ($10,000) for the child's support for one year after the death of the decedent. The allowance shall
+38 be in addition to the child's share of the decedent's estate regardless of whether the decedent died
+39 testate or intestate.
+40 (b) The right of a child to file a claim for an allowance must be exercised during the
+41 lifetime of the child by the person with priority to file on behalf of the child as provided in
+42 subsection (c) of this section. A claim for an allowance must be made by filing a verified petition
+43 with the clerk of court of the county in which venue would be proper under G.S. 28A-3-1. There
+44 is no time limitation on bringing a claim for an allowance except that, if a personal representative
+45 has been appointed for the decedent's estate, the claim must be made within six months after the
+46 issuance of letters testamentary or letters of administration. In addition, if a personal
+47 representative has been appointed for the decedent's estate, a copy of the verified petition must
+48 be personally delivered or sent by first-class mail by the petitioner to the personal representative.
+49 (c) The person entitled to file a petition on behalf of the child for a child's allowance shall
+50 be in the following order of priority:
+House Bill 388-Fourth Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 (1) The child, if the child is at least 18 years old or an emancipated minor at the
+2 time of the filing of the petition.
+3 (1)(2) The general guardian or guardian of the estate of the child, if any.
+4 (2)(3) The surviving parent of the child if the child resides with the surviving parent.
+5 (3)(4) The person with whom the child resides.
+6 If the clerk of court determines that no person entitled to file a petition pursuant to this
+7 subsection is a fit or suitable individual, the clerk, upon the clerk's own motion, may appoint
+8 another individual if the clerk determines that individual better represents the best interests of the
+9 child as the representative.
+10 (d) The child's allowance shall be exempt from any lien by judgment or execution against
+11 the property of the decedent or any other claim made against or owed by the decedent's estate
+12 except that the spouse's allowance under G.S. 30-15 shall take priority over any child's allowance.
+13 A child's allowance shall only be awarded after the full spouse's allowance under G.S. 30-15 has
+14 been awarded.
+15 (e) A proceeding for a child's allowance shall be an estate proceeding governed by the
+16 provisions of Article 2 of Chapter 28 of the General Statutes."
+17 SECTION 12.3. G.S. 30-20 reads as rewritten:
+18 "§ 30-20. Procedure for assignment; order of clerk.
+19 (a) The clerk of court shall first ascertain if the surviving spouse is entitled to an
+20 allowance according to the provisions of this Article, and, if so, enter an order setting forth the
+21 personal property of the estate to be awarded to the surviving spouse. Once the spouse's
+22 allowance has been awarded, the clerk of court shall next ascertain if any children of the decedent
+23 are entitled to an allowance according to the provisions of this Article, and, if so, enter an order
+24 setting forth the personal property of the estate to be awarded for the child's allowance. If a
+25 personal representative has been appointed for the decedent's estate, the clerk of court shall
+26 provide a copy of any order awarding an allowance to the personal representative of the
+27 decedent's estate.
+28 (b) If the personal property of the estate is insufficient to satisfy the allowances awarded,
+29 the clerk of the superior court shall enter judgment against the decedent's estate for the amount
+30 of the deficiency. If a personal representative has been appointed for the decedent's estate, the
+31 deficiency shall be satisfied by the personal representative when a sufficiency of such assets shall
+32 come into the possession of the personal representative.
+33 (c) The clerk of court may, on the clerk's own motion, determine that a hearing is
+34 necessary to determine whether a year's allowance should be awarded pursuant to the provisions
+35 of this Article and, if so, what personal property should be awarded. If the clerk of court makes
+36 such a determination, the clerk shall direct the petitioner to commence a contested estate
+37 proceeding pursuant to G.S. 30-23 in order to determine the year's allowance."
+38 SECTION 12.4. G.S. 30-23.1 reads as rewritten:
+39 "§ 30-23.1. Contested proceeding regarding allowance.
+40 (a) If no contested estate proceeding under G.S. 30-20(c) was commenced by the
+41 petitioner or by order of the clerk joining respondents to the proceeding to determine an award
+42 of an allowance under this Article, any person with standing, including the personal
+43 representative of the decedent's estate, may bring a proceeding to challenge the award of a spousal
+44 allowance or a child's allowance, including, but not limited to, a proceeding to challenge the
+45 validity of an award of a year's allowance, a proceeding to challenge the amount of a year's
+46 allowance awarded, and a proceeding to challenge the assets awarded as part of a year's
+47 allowance. If a contested estate proceeding was commenced under G.S. 30-20(c), by the
+48 petitioner or by order of the clerk joining the respondents to the proceeding to determine an award
+49 of an allowance under this Article, then any person with standing, including the personal
+50 representative of the decedent's estate, who was not a party to the contested estate proceeding
+51 may bring a proceeding in accordance with this section.
+Page 16 House Bill 388-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) Any proceeding to challenge the award of the allowance brought pursuant to this
+2 section shall be conducted as an estate proceeding in accordance with the provisions of Article 2
+3 of Chapter 28A of the General Statutes and must be brought within one year of the date the order
+4 awarding the year's allowance was entered."
+5 SECTION 12.5. G.S. 28A-25-6 reads as rewritten:
+6 "§ 28A-25-6. Payment to clerk of money owed decedent.
+7 (a) As an alternative to the small estate settlement procedures of this Article, any person
+8 indebted to a decedent may satisfy such indebtedness by paying the amount of the debt to the
+9 clerk of the superior court of the county of the domicile of the decedent if all of the following
+10 conditions are met:
+11 (1) No administrator has been appointed.
+12 (2) Except as otherwise provided in G.S. 90-210.64(d), the amount owed by such
+13 person does not exceed five thousand dollars ($5,000).
+14 (3) Except as otherwise provided in G.S. 90-210.64(d), the sum tendered to the
+15 clerk would not make the aggregate sum which has come into the clerk's hands
+16 belonging to the decedent exceed five thousand dollars ($5,000).
+17 (b) Such payments may not be made to the clerk if the total amount paid or tendered with
+18 respect to any one decedent would exceed five thousand dollars ($5,000), even though
+19 disbursements have been made so that the aggregate amount in the clerk's hands at any one time
+20 would not exceed five thousand dollars ($5,000).
+21 (c) If the sum tendered pursuant to this section would make the aggregate sum coming
+22 into the clerk's hands with respect to any one decedent exceed five thousand dollars ($5,000) the
+23 clerk shall appoint an administrator, or the sum may be administered under the preceding sections
+24 of this Article.
+25 (d) If it appears to the clerk after making a preliminary survey that disbursements
+26 pursuant to this section would not exhaust funds received pursuant to this section, the clerk may,
+27 in the clerk's discretion, appoint an administrator, or the funds may be administered under the
+28 preceding sections of this Article.
+29 (e) The receipt from the clerk of the superior court of a payment purporting to be made
+30 pursuant to this section is a full release to the debtor for the payment so made.
+31 (f) If no administrator has been appointed, the clerk of superior court shall, upon motion
+32 of the clerk or upon the application of an interested party, disburse the money received under this
+33 section for the following purposes and in the following order:
+34 (1) To pay the surviving spouse's year's allowance and children's year's allowance
+35 assigned in accordance with law.law, except that if (i) it has been greater than
+36 six months since the date of death of the decedent and (ii) there has been no
+37 petition filed and assignment of a spouse's or child's year's allowance, the clerk
+38 may disburse the money received under this section in accordance with the
+39 other provisions of this subsection.
+40 (2), (3) Repealed by Session Laws 1981, c. 383, s. 3.
+41 (4) All other claims shall be disbursed according to the order set out in
+42 G.S. 28A-19-6.
+43 Notwithstanding the foregoing provisions of this subsection, the clerk shall pay, out of funds
+44 provided the deceased pursuant to G.S. 111-18 and Part 3 of Article 2 of Chapter 108A of the
+45 General Statutes of North Carolina, Statutes, any lawful claims for care provided by an adult care
+46 home to the deceased, incurred not more than 90 days prior to the deceased's death. After the
+47 death of a spouse who died intestate the decedent and after the disbursements have been made in
+48 accordance with this subsection, the balance in the clerk's hands belonging to the estate of the
+49 decedent shall be paid to the surviving spouse, and if there is no surviving spouse, the clerk shall
+50 pay it to the heirs or beneficiaries in proportion to their respective interests.
+51 (g) The clerk shall not be required to publish notice to creditors.
+House Bill 388-Fourth Edition Page 17
+
+General Assembly Of North Carolina Session 2025
+1 (h) Whenever an administrator is appointed after a clerk of superior court has received
+2 any money pursuant to this section, the clerk shall pay to the administrator all funds which have
+3 not been disbursed. The clerk shall receive no commissions for payments made to the
+4 administrator, and the administrator shall receive no commissions for receiving such payments."
+5 SECTION 12.6. Section 12.5 of this act is effective when it becomes law. The
+6 remainder of this Part becomes effective January 1, 2026, and applies to petitions filed on or after
+7 that date.
+8
+9 PART XIII. EFFECTIVE DATE AND AUTHORIZATION TO PRINT COMMENTS
+10 SECTION 13.(a) The Revisor of Statutes shall cause to be printed, as annotations to
+11 Chapter 55 of the published General Statutes, all relevant portions of the Official Comments to
+12 the Model Business Corporation Act and all explanatory comments of the drafters of this act as
+13 the Revisor may deem appropriate.
+14 SECTION 13.(b) Parts I, II, III, IV, V, and VII of this act become effective October
+15 1, 2025. Part VIII of this act becomes effective January 1, 2026, and applies to attested written
+16 wills stored as electronic records on or after that date, regardless of the date of execution of the
+17 attested written will. Except as otherwise provided, the remainder of this act is effective when it
+18 becomes law.
+Page 18 House Bill 388-Fourth Edition
+
+[DELETED:  4 A (   A A R B T N C B A T A W T H B S B A A A A E R T R T T A A T M R T T Y A T  P S " … ( T r f ( T d ( P w t o a o s ( A p l o e t p l o a d a o o a a w b o i t r o t c o o o a p s b e w r t ( a o o t t d]
+[DELETED:  S  H i c w t b i o t c ( i t c o a d d o o d a i p b o ( a o o o p t t d t p p b e o p o r i b f o o a o h t d s c a a e l ( A o m s c o c o b o p t t p ( T a o i n n s f a o t c p e ( A c p t A 1 o t C s a i t s r b G ( F o ( o o p r a s p  P P S " ( U c i a t s m m b m c a p n f m t c ( P ( Q ( D ( A e e]
+[DELETED:  S  P ( C t t ( A d S " ( I d ( M o ( R t p o d a p o o r ( D p ( N d m ( O d w a ( D a e u e b p o t b d s w s s a n a a r i t c o a p i t ( C t t o ( A c d c r b a b o c e A e e o  P S a " ( T a o i o t b m r t a o a i c s c ( A t c a]
+[DELETED:  S  H u s ( o t s d n h t r p a s m j c c b ( N i a ( F t p o t s " c c m a o t f ( A c ( A ( A o ( A o S  P S " ( A o ( I o ( A f ( I t f ( E m s w i ( T i c t ( T c ( T s ( T p S " ( S s]
+[DELETED:  S  P o t ( A ( T N ( T ( T c ( I s e ( b c o i f o b t t c w f t s t i ( E t c ( I c v  P S " I ( " p m a c s i t r o a d c c ( " h t s m a i G a i a b o S " N o ( A s d t t t o ( 9 e r r S " ( T d]
+[DELETED:  S  H b g b t t m o t d p i n i t b i o t c ( U a ( A d ( A m v o a c c o t o m i d m m c ( U m b t c b a p o o o m i a ( F d ( T p i ( T p ( T p ( I a d p i c a a d h b m r m s o t c i o t c t d t p s a w p b s t b p t o ( I t ( ( I ( t p b i o m ( I t a h s]
+[DELETED:  S  P ( T t i r o s S " O ( O a f i i t d p i i f t t d p h r i a s b t t c ( O t p t p t c o a d r e d t c …  P A S " … ( A ( A o ( A a ( F ( A ( A ( A …  P A S S " c ( S u n s a m a u f c]
+[DELETED:  S  H a f ( T o ( E a s ( T t s o g t o i a o p p … ( T f ( F s ( T ( T e o ( T t a f m ( I i a o i a p i a p o m o b r ( A s t t p o m h b a b e m b ( T a t ( S o m i m p o a s o g o s i r c e r o s e o f ( A o ( T i a ( A  P V E S O A W W B A A S A " " " I]
+[DELETED:  S  P ( E – R t t h e d m w ( R i " ( A C a w f t a r e r ( I p w " ( A w G b c t t p c i a c t a a c o t e a a r ( A a S " a ( A f ( U ( I f a U b U w a c U h t d U c t ( I o a U w b U c C w p s c a s]
+[DELETED:  S  H ( U t ( A a f ( U ( I t a T b P a ( I c ( U w ( D e o a w m b e w i t e r b s t ( T w t S " ( A c ( T a A c o a c p c o a a w w c i a w t r w I c o v s t I c d ( F t u t p a b t A s d n h a e ( F d S " ( P v … ( A t p t h a i i t p i f a]
+[DELETED:  S  P i p w a m i r t m a ( T t a w t S " N t S " ( P ( A 3 ( A ( A t ( P w S " A ( B i ( B f t t p a b t t d e a o  P S " T ( w G I t S i t f l i a w G C s s S " T ( S 2 C  P S " …]
+[DELETED:  S  H ( P I – p o m t ( g o ( s ( T v i s f a D t i c b ( o o m n t i o o m n t a t s s a c b T e i i s c T o t i i d d n f t h m d I ( N c t a s ( A t f t m t r o s b a c o s r t t t s d t i a p a p o a t ( n ( T o o a c t i n s t t c o t s s a t i n s t v b r t t m a a t s f i G a G t c v]
+[DELETED:  S  P t v … S " ( E f a e s m b e d t l o t s s b t s e i g s e ( T a o ( a t n … ( P c T v p s b f b t c u p o t c a i G i m ( U p C s o a r p a t p b k t t p i a w G R 4 o t R o C P f s t ( A s u s ( o t s t p t p r o o m c n o h b R h d a ( W d t t d a R …]
+[DELETED:  S  H S f  P S " t ( A w ( T ( 1 w i a ( U t t e r p ( T a b ( A p o t c ( A s U i s s o ( A i I s S d  P S " ( E s s o a d w o n t s s h p t d a d t]
+[DELETED:  S  P ( T d a t f u i w s m a t i o l t o l o a I a v p ( I a s ( T a e T s a t p o a c a u G ( I w f a p c f n t u ( A p S " ( E d y t ( b t ( T l s w i h i o l t o l o a I a i a p r b ( T b]
+[DELETED:  S  H ( T t ( T ( T ( T I s a c ( T t e A b ( A p S " ( T c o c s f a i t s s i e t a a p p o t e t b a t t s s O t s a a s p p a c o a o a a a t t p r o t d ( I t o d c ( T c o c m o t c o m d t a h i n o s a d t c s d t p t c a c e p S " ( I n c e p u G w c b t p o a a u t A a p w s i t p r a v a a a a p t c t a a a p o a y a I a c e p w c u G b t p o a a u t A t a p w s i t p r m]
+[DELETED:  S  P ( A s o a S " ( A i c c ( N ( E p ( E c b ( S r t a o d w e f t d ( e t d w ( I i c o ( I i a t t c a m a p s t d p i p ( T p ( I o s ( T a s p m o ( ( A o c s b d a t t o s o i G N p G h d a d p ( T]
+[DELETED:  S  H ( W a n b d T c s r n c f p m t t a S r t  P S C t t S 1 w a b]
