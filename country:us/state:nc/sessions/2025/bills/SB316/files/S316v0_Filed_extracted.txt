@@ -1,0 +1,1282 @@
+Title: SENATE BILL DRS15139-MG-66B
+Official Title: SENATE BILL DRS15139-MG-66B
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 17, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 316
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Lower Healthcare Costs. (Public)
+Sponsors: Senators Burgin, Galey, and Sawrey (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT LOWERING HEALTHCARE COSTS AND INCREASING PRICE
+3 TRANSPARENCY.
+4 Whereas, rising healthcare costs place a significant financial burden on individuals,
+5 families, employers, and taxpayers, greatly contribute to inflation, and make it increasingly
+6 difficult for residents to access essential healthcare services; and
+7 Whereas, North Carolina has intolerably high healthcare costs, with recent studies
+8 ranking the State 50th out of 50 in the United States; and
+9 Whereas, skyrocketing healthcare costs have resulted in over 40 percent of Americans
+10 reporting some type of healthcare debt, according to one study; and
+11 Whereas, many patients face unexpected medical bills due to a lack of disclosure
+12 about out-of-network providers and a general lack of transparency in healthcare pricing, resulting
+13 in financial strain and hardship; and
+14 Whereas, employers are burdened with the increasing costs of providing health
+15 insurance for employees, leading to higher premiums, deductibles, and out-of-pocket expenses;
+16 and
+17 Whereas, patients and employers are often unable to compare the costs of medical
+18 services due to a lack of clear and accessible pricing information, hindering their ability to make
+19 informed decisions; and
+20 Whereas, the absence of price transparency in the healthcare system leads to market
+21 inefficiencies, less awareness of price difference, less competition, and higher prices, with
+22 consumers often unable to identify the most cost-effective providers; and
+23 Whereas, transparency in healthcare pricing allows consumers to shop for affordable
+24 healthcare services and encourages competition among healthcare providers to offer more
+25 competitive pricing; and
+26 Whereas, providing consumers with clear, understandable, and accessible
+27 information about the costs of healthcare services will foster a more competitive and
+28 patient-centered healthcare market; and
+29 Whereas, requiring healthcare providers and insurers to disclose their prices in
+30 advance, including all providers and services a patient may need, both in-network and
+31 out-of-network, will enable consumers to make more informed choices about their care, leading
+32 to better healthcare outcomes at lower costs; and
+33 Whereas, price transparency will incentivize hospitals and healthcare providers to
+34 improve the quality of care while reducing prices, to the benefit of patients and employers; and
+35 Whereas, clear pricing and competition among healthcare providers will encourage
+36 innovation in healthcare delivery and improve overall efficiency within the system; and
+*DRS15139-MG-66B*
+General Assembly Of North Carolina Session 2025
+1 Whereas, empowering patients and employers with pricing information will help
+2 create a healthcare system that prioritizes affordability, access, and choice; and
+3 Whereas, President Trump recently signed an Executive Order to make healthcare
+4 prices transparent, "empower[ing] patients with clear, accurate, and actionable healthcare pricing
+5 information," also "ensur[ing] hospitals and insurers disclose actual prices, not estimates, and
+6 take action to make prices comparable across hospitals and insurers, including prescription drug
+7 prices; Now, therefore,
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. GREATER TRANSPARENCY IN HOSPITAL AND AMBULATORY
+11 SURGICAL FACILITY HEALTHCARE COSTS
+12 SECTION 1.1. Article 11B of Chapter 131E of the General Statutes reads as
+13 rewritten:
+14 "Article 11B.
+15 "Transparency in Health Care Costs.
+16 "Part 1. Health Care Cost Reduction and Transparency Act of 2013.
+17 "§ 131E-214.11. Title.
+18 This article Part shall be known as the Health Care Cost Reduction and Transparency Act of
+19 2013.
+20 …
+21 "§ 131E-214.13. Disclosure of prices for most frequently reported DRGs, CPTs, and
+22 HCPCSs.
+23 (a) Definitions. – The following definitions apply in this Article:Part:
+24 (1) Ambulatory surgical facility. – A facility licensed under Part 4 of Article 6 of
+25 this Chapter.
+26 (2) Commission. – The North Carolina Medical Care Commission.
+27 (2a) CPT. – Current Procedural Terminology.
+28 (2b) DRG. – Diagnostic Related Group.
+29 (2c) HCPCS. – The Healthcare Common Procedure Coding System.
+30 (3) Health insurer. – An entity that writes a health benefit plan and is one of the
+31 following:
+32 a. An insurance company under Article 3 of Chapter 58 of the General
+33 Statutes.
+34 b. A service corporation under Article 65 of Chapter 58 of the General
+35 Statutes.
+36 c. A health maintenance organization under Article 67 of Chapter 58 of
+37 the General Statutes.
+38 d. A third-party administrator of one or more group health plans, as
+39 defined in section 607(1) of the Employee Retirement Income Security
+40 Act of 1974 (29 U.S.C. § 1167(1)).
+41 (4) Hospital. – A medical care facility licensed under Article 5 of this Chapter or
+42 under Article 2 of Chapter 122C of the General Statutes.
+43 (5) Public or private third party. – Includes the State, the federal government,
+44 employers, health insurers, third-party administrators, and managed care
+45 organizations.
+46 (b) Beginning with the reporting period ending September 30, 2015, and annually
+47 thereafter, Quarterly Report on Most Frequently Reported DRGs for Inpatients. – On a quarterly
+48 basis, each hospital shall provide to the Department of Health and Human Services, Department,
+49 utilizing electronic health records software, the following information about the 100 most
+50 frequently reported admissions by DRG for inpatients as established by the Department:
+Page 2 DRS15139-MG-66B
+General Assembly Of North Carolina Session 2025
+1 (1) The amount that will be charged to a patient for each DRG if all charges are
+2 paid in full without a public or private third party paying for any portion of
+3 the charges. In calculating this amount, each hospital shall include charges for
+4 each billable item and service associated with the DRG regardless of whether
+5 the health service is performed by a physician or nonphysician practitioner
+6 employed by the hospital.
+7 (2) The average negotiated settlement on the amount that will be charged to a
+8 patient required to be provided in subdivision (1) of this subsection.
+9 (3) The amount of Medicaid reimbursement for each DRG, including claims and
+10 pro rata supplemental payments.
+11 (4) The amount of Medicare reimbursement for each DRG.
+12 (5) For each of the five largest health insurers providing payment to the hospital
+13 on behalf of insureds and teachers and State employees, the range and the
+14 average of the amount of payment made for each DRG. Prior to providing this
+15 information to the Department, each hospital shall redact the names of the
+16 health insurers and any other information that would otherwise identify the
+17 health insurers.
+18 A hospital shall not be required to report the information required by this subsection for any
+19 of the 100 most frequently reported admissions where the reporting of that information
+20 reasonably could lead to the identification of the person or persons admitted to the hospital in
+21 violation of the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) or
+22 other federal law.
+23 (c) The Commission shall adopt rules on or before March 1, 2016, to ensure that
+24 subsection (b) of this section is properly implemented and that hospitals report this information
+25 to the Department in a uniform manner. The rules shall include all of the following:
+26 (1) The method by which the Department shall determine the 100 most frequently
+27 reported DRGs for inpatients for which hospitals must provide the data set out
+28 in subsection (b) of this section.
+29 (2) Specific categories by which hospitals shall be grouped for the purpose of
+30 disclosing this information to the public on the Department's Internet Web
+31 site.
+32 (d) Beginning with the reporting period ending September 30, 2015, and annually
+33 thereafter, Quarterly Report on Total Costs for the Most Common Surgical and Imaging
+34 Procedures. – On a quarterly basis, each hospital and ambulatory surgical facility shall provide
+35 to the Department, utilizing electronic health records software, information on the total costs for
+36 the 20 most common surgical procedures and the 20 most common imaging procedures, by
+37 volume, performed in hospital outpatient settings or in ambulatory surgical facilities, along with
+38 the related CPT and HCPCS codes. In providing information on total costs, each hospital and
+39 ambulatory surgical facility shall include the costs for each billable item and service associated
+40 with the procedure regardless of whether the health service is performed by a physician or
+41 nonphysician practitioner employed by the hospital or ambulatory surgical facility. Hospitals and
+42 ambulatory surgical facilities shall report this information in the same manner as required by
+43 subdivisions (b)(1) through (5) of this section, provided that hospitals and ambulatory surgical
+44 facilities shall not be required to report the information required by this subsection where the
+45 reporting of that information reasonably could lead to the identification of the person or persons
+46 admitted to the hospital in violation of the federal Health Insurance Portability and
+47 Accountability Act of 1996 (HIPAA) or other federal law.
+48 (e) The Commission shall adopt rules on or before March 1, 2016, to ensure that
+49 subsection (d) of this section is properly implemented and that hospitals and ambulatory surgical
+50 facilities report this information to the Department in a uniform manner. The rules shall include
+51 the method by which the Department shall determine the 20 most common surgical procedures
+DRS15139-MG-66B Page 3
+General Assembly Of North Carolina Session 2025
+1 and the 20 most common imaging procedures for which the hospitals and ambulatory surgical
+2 facilities must provide the data set out in subsection (d) of this section.
+3 (e1) The Commission shall adopt rules to establish and define no fewer than 10 quality
+4 measures for licensed hospitals and licensed ambulatory surgical facilities.
+5 (f) Upon request of a patient for a particular DRG, imaging procedure, or surgery
+6 procedure reported in this section, a hospital or ambulatory surgical facility shall provide the
+7 information required by subsection (b) or subsection (d) of this section to the patient in writing,
+8 either electronically or by mail, within three business days after receiving the request.
+9 (f1) Commission Rules. – The Commission shall adopt rules to accomplish all of the
+10 following:
+11 (1) To ensure that subsection (b) of this section is properly implemented and that
+12 hospitals report this information to the Department in a uniform manner. The
+13 rules shall include the method by which the Department shall determine the
+14 100 most frequently reported DRGs for inpatients for which hospitals must
+15 provide the data set out in subsection (b) of this section and the specific
+16 categories by which hospitals shall be grouped for the purpose of disclosing
+17 this information to the public on the Department's internet website.
+18 (2) To ensure that subsection (d) of this section is properly implemented and that
+19 hospitals and ambulatory surgical facilities report this information to the
+20 Department in a uniform manner. The rules shall include the method by which
+21 the Department shall determine the 20 most common surgical procedures and
+22 the 20 most common imaging procedures for which the hospitals and
+23 ambulatory surgical facilities must provide the data set out in subsection (d)
+24 of this section.
+25 (3) To establish and define no fewer than 10 quality measures for licensed
+26 hospitals and licensed ambulatory surgical facilities.
+27 (g) G.S. 150B-21.3 does not apply to rules adopted under subsections (c) and (e)
+28 subdivision (f1)(1) or subdivision (f1)(2) of this section. A rule adopted under subsections (c)
+29 and (e) subdivision (f1)(1) or subdivision (f1)(2) of this section becomes effective on the last day
+30 of the month following the month in which the rule is approved by the Rules Review
+31 Commission.
+32 …
+33 "§ 131E-214.18. Penalty for noncompliance.
+34 The Department may impose a civil penalty on any hospital or ambulatory surgical facility
+35 that fails to comply with the requirements of this Part. For each day of violation, the amount of
+36 the civil penalty shall not be (i) less than one hundredth of one percent (.01%) of the annual salary
+37 of the chief executive officer of the noncompliant hospital or ambulatory surgical facility or (ii)
+38 greater than two thousand dollars ($2,000). This civil penalty shall be in addition to any fine or
+39 civil penalty that the Centers for Medicare and Medicaid Services or other federal agency may
+40 choose to impose on the facility. The Department shall remit the clear proceeds of civil penalties
+41 assessed pursuant to this section to the Civil Penalty and Forfeiture Fund in accordance with
+42 G.S. 115C-457.2."
+43 SECTION 1.2. This Part becomes effective on the later of January 1, 2026, or the
+44 date the rules adopted by the North Carolina Medical Care Commission under
+45 G.S. 131E-214.13(f1)(2) take effect, and G.S. 131E-214.18, as enacted by this Part, applies to
+46 acts occurring on or after that date.
+47
+48 PART II. GREATER TRANSPARENCY IN HEALTHCARE PROVIDER BILLING
+49 PRACTICES
+50 SECTION 2.1. Article 11B of Chapter 131E of the General Statutes, as amended by
+51 Part 1 of this act, is amended by adding a new Part to read:
+Page 4 DRS15139-MG-66B
+General Assembly Of North Carolina Session 2025
+1 "Part 2. Transparency in Healthcare Provider Billing Practices.
+2 "§ 131E-214.25. Definitions.
+3 The following definitions apply in this Part:
+4 (1) Health benefit plan. – As defined in G.S. 58-3-167, or under the laws of
+5 another state or the federal government.
+6 (2) Health service facility. – A facility that is licensed under this Chapter or
+7 Chapter 122C of the General Statutes, or under the licensing laws of another
+8 state, for the provision of the same services in the ordinary course of business
+9 or practice as would require the facility to be licensed under this Chapter or
+10 Chapter 122C of the General Statutes were the facility located in this State.
+11 (3) Healthcare provider. – Any person who is licensed, registered, or certified
+12 under Chapter 90 or Chapter 90B of the General Statutes, or under the laws of
+13 another state, to provide healthcare services in the ordinary care of business
+14 or practice, or as a profession, or in an approved education or training
+15 program, except that this term shall not include a pharmacy.
+16 (4) Insurer. – As defined in G.S. 58-3-167.
+17 "§ 131E-214.30. Fair notice requirements; heath service facilities.
+18 (a) Services Provided at a Participating Health Service Facility. – At the time a health
+19 service facility participating in an insurer's healthcare provider network (i) treats an insured
+20 individual for anything other than screening and stabilization in accordance with G.S. 58-3-190,
+21 (ii) admits an insured individual to receive emergency services, (iii) schedules a procedure for
+22 nonemergency services for an insured individual, or (iv) seeks prior authorization from an insurer
+23 for the provision of nonemergency services to an insured individual, the health service facility
+24 shall provide the insured individual with a written disclosure containing all of the following
+25 information:
+26 (1) Services may be provided at the health service facility for which the insured
+27 individual may receive a separate bill.
+28 (2) Certain healthcare providers may be called upon to render care to the insured
+29 individual during the course of treatment and those healthcare providers may
+30 not have contracts with the insured's insurer and are considered to be
+31 nonparticipating healthcare providers in the insurer's healthcare provider
+32 network. Any nonparticipating healthcare providers shall be identified in the
+33 written disclosure using the individual's healthcare provider's name and
+34 practice name as used on the applicable health service facility's or healthcare
+35 provider's credentials or name badge.
+36 (3) Text, using a bold or other distinguishable font, that states that certain
+37 consumer protections available to the insured individual when services are
+38 rendered by a health service facility or healthcare provider participating in the
+39 insurer's healthcare provider network may not be applicable when services are
+40 rendered by a nonparticipating healthcare provider.
+41 (b) Emergency Services Provided at Nonparticipating Health Service Facilities. – At the
+42 time a health service facility begins the provision of emergency services to an insured individual,
+43 if the facility does not have a contract with the applicable insurer, then the health service facility
+44 shall provide the insured individual with a written disclosure containing all of the following:
+45 (1) A statement that the health service facility does not have a provider network
+46 contract with the applicable insurer and is considered to be a nonparticipating
+47 provider.
+48 (2) Text, using a bold or other distinguishable font, that states that certain
+49 consumer protections available to the insured individual when services are
+50 rendered by a health service facility or healthcare provider participating in the
+DRS15139-MG-66B Page 5
+General Assembly Of North Carolina Session 2025
+1 insurer's healthcare provider network may not be applicable when services are
+2 rendered by a nonparticipating health service facility.
+3 "§ 131E-214.31. Fair notice requirements; healthcare providers.
+4 At the time a healthcare provider participating in an insurer's healthcare provider network (i)
+5 treats an insured individual for anything other than screening and stabilization in accordance with
+6 G.S. 58-3-190, (ii) schedules an appointment or procedure for nonemergency services for an
+7 insured individual, or (iii) seeks prior authorization from an insurer for the provision of
+8 nonemergency services to an insured individual, the healthcare provider shall provide the insured
+9 individual with a written disclosure containing all of the following information:
+10 (1) A statement that the healthcare provider is not the insurer's healthcare provider
+11 network applicable to the individual.
+12 (2) Text, using a bold or other distinguishable font, that states that certain
+13 consumer protections available to the insured individual when services are
+14 rendered by a healthcare provider participating in the insurer's healthcare
+15 provider network may not be applicable when services are rendered by a
+16 nonparticipating healthcare provider.
+17 "§ 131E-214.35. Penalties.
+18 A health service facility's or a healthcare provider's repeated failure to comply with this
+19 Article shall indicate a general business practice that is deemed an unfair and deceptive trade
+20 practice and is actionable under Chapter 75 of the General Statutes. Nothing in this Article
+21 forecloses other remedies available under law or equity."
+22 SECTION 2.2.(a) G.S. 58-3-200(a)(1) and G.S. 58-3-200(a)(2) are repealed.
+23 SECTION 2.2.(b) G.S. 58-3-200(a), as amended by subsection (a) of this section,
+24 reads as rewritten:
+25 "(a) Definitions. – As used The following definitions apply in this section:
+26 …
+27 (3) Clinical laboratory. – An entity in which services are performed to provide
+28 information or materials for use in the diagnosis, prevention, or treatment of
+29 disease or assessment of a medical or physical condition.
+30 (4) Health service facility. – A hospital; long-term care hospital; psychiatric
+31 facility; rehabilitation facility; nursing home facility; adult care home; kidney
+32 disease treatment center, including freestanding hemodialysis units;
+33 intermediate care facility; home health agency office; chemical dependency
+34 treatment facility; diagnostic center; hospice office; hospice inpatient facility;
+35 hospice residential care facility; ambulatory surgical facility; urgent care
+36 facility; freestanding emergency facility; and clinical laboratory.
+37 (5) Healthcare provider. – Any health service facility or any person who is
+38 licensed, registered, or certified under Chapter 90 or Chapter 90B of the
+39 General Statutes, or under the laws of another state, to provide healthcare
+40 services in the ordinary care of business or practice, or as a profession, or in
+41 an approved education or training program, except that this term shall not
+42 include a pharmacy."
+43 SECTION 2.2.(c) G.S. 58-3-200(d) reads as rewritten:
+44 "(d) Services Outside Provider Networks. – No insurer shall penalize an insured or subject
+45 an insured to the out-of-network benefit levels offered under the insured's approved health benefit
+46 plan, including an insured receiving an extended or standing referral under G.S. 58-3-223, unless
+47 contracting health care healthcare providers able to meet health needs of the insured are
+48 reasonably available to the insured without unreasonable delay. Upon notice or request from the
+49 insured, the insurer shall determine whether a healthcare provider able to meet the needs of the
+50 insured is available to the insured without unreasonable delay by reference to the insured's
+51 location and the specific medical needs of the insured."
+Page 6 DRS15139-MG-66B
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.3. This Part becomes effective October 1, 2026, and applies to
+2 healthcare services provided on or after that date and to contracts issued, renewed, or amended
+3 on or after that date.
+4
+5 PART III. GREATER FAIRNESS IN BILLING AND COLLECTIONS PRACTICES
+6 FOR HOSPITALS AND AMBULATORY SURGICAL FACILITIES
+7 SECTION 3.1.(a) Chapter 131E of the General Statutes is amended by adding a new
+8 Article 11C to be entitled "Fair Billing and Collections Practices for Hospitals and Ambulatory
+9 Surgical Facilities."
+10 SECTION 3.1.(b) G.S. 131E-91 is recodified as G.S. 131E-214.50 under Article
+11 11C of Chapter 131E of the General Statutes, as created by subsection (a) of this section.
+12 SECTION 3.1.(c) G.S. 131E-214.50(d) reads as rewritten:
+13 "(d) Hospitals and ambulatory surgical facilities shall abide by the following reasonable
+14 collections practices:
+15 …
+16 (1a) A hospital or ambulatory surgical facility shall not refer a patient's unpaid bill
+17 to a collections agency, entity, or other assignee unless it has first presented
+18 an itemized list of charges to the patient detailing, in language comprehensible
+19 to an ordinary layperson, the specific nature of the charges or expenses
+20 incurred by the patient.
+21 …."
+22 SECTION 3.2. Article 11C of Chapter 131E of the General Statutes, as created by
+23 Section 3.1(a) of this act, is amended by adding a new section to read:
+24 "§ 131E-214.52. Patient's right to a good-faith estimate.
+25 (a) Definitions. – The following definitions apply in this section:
+26 (1) CMS. – The federal Centers for Medicare and Medicaid Services.
+27 (2) Facility. – A hospital or ambulatory surgical facility licensed under this
+28 Chapter.
+29 (3) Items and services. – All items and services, including individual items and
+30 services and service packages, that could be provided by a facility to a patient
+31 in connection with an inpatient admission or an outpatient visit for which the
+32 facility has established a standard charge. Examples include, but are not
+33 limited to, all of the following:
+34 a. Supplies and procedures.
+35 b. Room and board.
+36 c. Fees for use of the facility or other items.
+37 d. Professional charges for services of physicians and nonphysician
+38 practitioners who are employed by the facility.
+39 e. Professional charges for services of physicians and nonphysician
+40 practitioners who are not employed by the facility.
+41 f. Any other items or services for which a facility has established a
+42 standard charge.
+43 (4) Service package. – An aggregation of individual items and services into a
+44 single service with a single charge.
+45 (5) Shoppable service. – A non-urgent service that can be scheduled by a patient
+46 in advance. The term includes all CMS-specified shoppable services plus as
+47 many additional facility-selected shoppable services as are necessary for a
+48 combined total of at least 300 shoppable services.
+49 (b) Good-Faith Estimate. – Upon request of any patient for a good-faith estimate for a
+50 shoppable service, the facility shall provide to the patient, in writing, at least three business days
+51 prior to the date the patient schedules the shoppable service, an itemized list of expected charges,
+DRS15139-MG-66B Page 7
+General Assembly Of North Carolina Session 2025
+1 in language comprehensible to an ordinary layperson, that the patient will be obligated to pay for
+2 all items and services related to the shoppable service. The good-faith estimate shall include the
+3 Diagnostic Related Group (DRG), Current Procedural Terminology (CPT), or Healthcare
+4 Common Procedure Coding System (HCPCS) code for each expected charge.
+5 (c) In any case in which a patient has requested a good-faith estimate from a facility for
+6 a shoppable service, the patient's final bill for that shoppable service shall not exceed more than
+7 five percent (5%) of the good-faith estimate provided to the patient pursuant to this section.
+8 (d) The Department shall adopt rules to implement this section."
+9 SECTION 3.3. This Part becomes effective on the later of January 1, 2026, or the
+10 date the rules adopted by the Department under G.S. 131E-214.52 take effect and applies to acts
+11 occurring on or after that date.
+12
+13 PART IV. GREATER PROTECTION FOR HEALTHCARE CONSUMERS FROM
+14 FACILITY FEES
+15 SECTION 4.1.(a) Article 11C of Chapter 131E of the General Statutes, as created
+16 by Section 3.1(a) of this act, is amended by adding a new section to read:
+17 "§ 131E-214.54. Facility fees.
+18 (a) Definitions. – The following definitions apply in this section:
+19 (1) Campus. – Any of the following:
+20 a. The main building of a hospital.
+21 b. The physical area immediately adjacent to a hospital's main building.
+22 c. Other structures not contiguous to the main building of a hospital that
+23 are within 250 yards of the main building.
+24 d. Any other area that has been determined to be part of a hospital's
+25 campus by the Centers for Medicare and Medicaid Services.
+26 (2) Facility fee. – Any fee charged or billed by a health care provider for
+27 outpatient services provided in a hospital-based facility that is (i) intended to
+28 compensate the health care provider for the operational expenses of the health
+29 care provider, (ii) separate and distinct from a professional fee, and (iii)
+30 charged regardless of the modality through which the health care services
+31 were provided.
+32 (3) Health care provider. – As defined in G.S. 90-410.
+33 (4) Health systems. – A parent corporation of one or more hospitals and any entity
+34 affiliated with that parent corporation through ownership, governance,
+35 membership, or other means, or a hospital and any entity affiliated with that
+36 hospital through ownership, governance, membership, or other means.
+37 (5) Hospital. – As defined in G.S. 131E-76.
+38 (6) Hospital-based facility. – A facility that is owned or operated, in whole or in
+39 part, by a hospital and at which hospital or professional medical services are
+40 provided.
+41 (7) Professional fee. – Any fee charged or billed by a provider for hospital or
+42 professional medical services provided in a hospital-based facility.
+43 (8) Remote location of a hospital. – A hospital-based facility that is created,
+44 acquired, or purchased by a hospital or health system for the purpose of
+45 furnishing inpatient services under the name, ownership, and financial and
+46 administrative control of the hospital.
+47 (b) Limits on Facility Fees. – The following limitations are applicable to facility fees:
+48 (1) No health care provider shall charge, bill, or collect a facility fee unless the
+49 services are provided on a hospital's main campus, at a remote location of a
+50 hospital, or at a facility that includes an emergency department.
+Page 8 DRS15139-MG-66B
+General Assembly Of North Carolina Session 2025
+1 (2) Regardless of where the services are provided, no health care provider shall
+2 charge, bill, or collect a facility fee for outpatient evaluation and management
+3 services, or any other outpatient, diagnostic, or imaging services identified by
+4 the Department.
+5 (c) Identification of Services. – The Department shall annually identify services subject
+6 to the limitations on facility fees provided in subdivision (2) of subsection (b) of this section that
+7 may reliably be provided safely and effectively in non-hospital settings.
+8 (d) Reporting Requirements. – Each hospital and health system shall submit a report to
+9 the Department annually on July 1. The report shall be published on the Department's website
+10 and shall contain the following:
+11 (1) The name and full address of each facility owned or operated by the hospital
+12 or health system that provides services for which a facility fee is charged or
+13 billed.
+14 (2) The number of patient visits at each such hospital-based facility for which a
+15 facility fee was charged or billed.
+16 (3) The number, total amount, and range of allowable facility fees paid at each
+17 facility by Medicare, Medicaid, and private insurance.
+18 (4) For each hospital-based facility and for the hospital or health system as a
+19 whole, the total amount billed, and the total revenue received from facility
+20 fees.
+21 (5) The top 10 procedures or services, identified by Current Procedural
+22 Terminology (CPT) category I codes, provided by the hospital or health
+23 system that generated the greatest amount of facility fee gross revenue; the
+24 number of each of these 10 procedures or services provided; the gross and net
+25 revenue totals for each such procedure or service; and the total net amount of
+26 revenue received by the hospital or health system derived from facility fees
+27 for each procedure or service.
+28 (6) Any other information the Department may require.
+29 (e) Enforcement. – This section shall be enforced as follows:
+30 (1) Any violation of this section constitutes an unfair or deceptive trade practice
+31 in violation of G.S. 75-1.1 and is subject to all of the enforcement and penalty
+32 provisions of an unfair or deceptive trade practice under Article 1 of Chapter
+33 75 of the General Statutes.
+34 (2) In addition to the remedies described in subdivision (1) of this subsection, any
+35 health care provider who violates any provision of this section shall be subject
+36 to an administrative penalty of not more than one thousand dollars ($1,000)
+37 per occurrence."
+38 SECTION 4.1.(b) No later than January 1, 2026, the Department of Health and
+39 Human Services shall adopt rules necessary to implement G.S. 131E-214.54, as enacted by
+40 subsection (a) of this section.
+41 SECTION 4.2. G.S. 131E-214.54, as enacted by Section 4.1(a) of this Part, becomes
+42 effective January 1, 2026, or on the date the rules adopted by the Department of Health and
+43 Human Services pursuant to Section 4.1(b) of this Part become effective, whichever is later.
+44
+45 PART V. STATE AUDITOR REVIEW OF HEALTH SERVICE FACILITY PRICES
+46 SECTION 5.1. G.S. 147-64.6(c) reads as rewritten:
+47 "(c) Responsibilities. – The Auditor is responsible for the following acts and activities:
+48 …
+49 (24) The Auditor shall periodically examine health service facilities, as defined in
+50 G.S. 131E-176, that are recipients of State funds for the following
+51 information:
+DRS15139-MG-66B Page 9
+General Assembly Of North Carolina Session 2025
+1 a. The prices that the health service facility charges patients whose
+2 insurance is out-of-network or who are uninsured.
+3 b. To what extent the health service facility is transparent about the prices
+4 described in sub-subdivision a. of this subdivision."
+5
+6 PART VI. ENHANCEMENTS TO EMPLOYEE SAFETY BY ALLOWING FOR THE
+7 REMOVAL OF CERTAIN EMPLOYEE DETAILS FROM HEALTH INSURANCE
+8 APPEALS AND GRIEVANCE REVIEWS
+9 SECTION 6.1.(a) G.S. 58-50-61(k) reads as rewritten:
+10 "(k) Nonexpedited Appeals. – Within three business days after receiving a request for a
+11 standard, nonexpedited appeal, the insurer or its URO shall provide the covered person with the
+12 name, address, and telephone number of the coordinator and information on how and where to
+13 submit written material. material for the appeal, including contact information for the insurer.
+14 For standard, nonexpedited appeals, the insurer or its URO shall give written notification of the
+15 decision, in clear terms, to the covered person and the covered person's provider within 30 days
+16 after the insurer receives the request for an appeal. If the decision is not in favor of the covered
+17 person, the written decision shall contain:contain all of the following information:
+18 (1) The professional qualifications and licensure of the person or persons
+19 reviewing the appeal.
+20 (2) A statement of the reviewers' understanding of the reason for the covered
+21 person's basis of the appeal.
+22 (3) The reviewers' insurer's or URO's decision in clear terms and the medical
+23 rationale in sufficient detail for the covered person to respond further to the
+24 insurer's position.
+25 …."
+26 SECTION 6.1.(b) G.S. 58-50-62(e) reads as rewritten:
+27 "(e) First-Level Grievance Review. – A covered person or a covered person's provider
+28 acting on the covered person's behalf may submit a grievance. All of the following shall apply to
+29 a first-level grievance review:
+30 (1) The insurer does not have is not required to allow a covered person to attend
+31 the first-level grievance review. A covered person may submit written
+32 material. Except as provided in subdivision (3) of this subsection, within three
+33 business days after receiving a grievance, the insurer shall provide the covered
+34 person with the name, address, and telephone number of the coordinator and
+35 information on where and how to submit written material.material for the
+36 first-level grievance review, including contact information for the insurer.
+37 (2) An insurer shall issue a written decision, in clear terms, to the covered person
+38 and, if applicable, to the covered person's provider, within 30 days after
+39 receiving a grievance. The person or persons reviewing the grievance shall not
+40 be the same person or persons who initially handled the matter that is the
+41 subject of the grievance and, if the issue is a clinical one, at least one of whom
+42 shall be a medical doctor with appropriate expertise to evaluate the matter.
+43 Except as provided in subdivision (3) of this subsection, if the decision is not
+44 in favor of the covered person, the written decision issued in a first-level
+45 grievance review shall contain:contain all of the following information:
+46 a. The professional qualifications and licensure of the person or persons
+47 reviewing the grievance.
+48 b. A statement of the reviewers' understanding basis of the grievance.
+49 c. The reviewers' insurer's decision in clear terms and the contractual
+50 basis or medical rationale in sufficient detail for the covered person to
+51 respond further to the insurer's position.
+Page 10 DRS15139-MG-66B
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 6.1.(c) G.S. 58-50-62(f) reads as rewritten:
+3 "(f) Second-Level Grievance Review. – An insurer shall establish a second-level
+4 grievance review process for covered persons who are dissatisfied with the first-level grievance
+5 review decision or a utilization review appeal decision. A covered person or the covered person's
+6 provider acting on the covered person's behalf may submit a second-level grievance. All of the
+7 following shall apply to a second-level grievance review:
+8 (1) An insurer shall, within 10 business days after receiving a request for a
+9 second-level grievance review, make known to provide the covered
+10 person:person all of the following information:
+11 a. The name, address, and telephone number of a person designated to
+12 coordinate the grievance review for the insurer.Information on how
+13 and where to submit written material for the second-level grievance
+14 review, including contact information for the insurer.
+15 …."
+16 SECTION 6.2. This Part is effective when it becomes law.
+17
+18 PART VII. CLARIFY PARTNERSHIPS REGARDING THE PRACTICE OF
+19 DENTISTRY
+20 SECTION 7.1. G.S. 90-29(c) reads as rewritten:
+21 "(c) The following acts, practices, or operations, however, shall not constitute the unlawful
+22 practice of dentistry:
+23 …
+24 (15) The mechanism by which a "management company," as that term is defined
+25 in G.S. 90-40.2(a)(4), and a licensee establish the fee in a "management
+26 arrangement," as that term is defined in G.S. 90-40.2(a)(3). A management
+27 fee established under this exception is a private business contract and shall not
+28 be construed to be evidence of a partnership under Chapter 59 of the General
+29 Statutes."
+30
+31 PART VIII. ELIMINATION OF CERTIFICATE OF NEED REVIEW FOR INPATIENT
+32 REHABILITATION SERVICES, REHABILITATION FACILITIES, AND
+33 REHABILITATION BEDS
+34 SECTION 8.1. G.S. 131E-176 reads as rewritten:
+35 "§ 131E-176. Definitions.
+36 The following definitions apply in this Article:
+37 …
+38 (9a) Health service. – An organized, interrelated activity that is medical,
+39 diagnostic, therapeutic, rehabilitative, or a combination thereof of these and
+40 that is integral to the prevention of disease or the clinical management of an
+41 individual who is sick or injured or who has a disability. "Health service" does
+42 not include administrative and other activities that are not integral to clinical
+43 management.
+44 (9b) Health service facility. – A hospital; long-term care hospital; rehabilitation
+45 facility; nursing home facility; adult care home; kidney disease treatment
+46 center, including freestanding hemodialysis units; intermediate care facility
+47 for individuals with intellectual disabilities; home health agency office;
+48 diagnostic center; hospice office, hospice inpatient facility, hospice residential
+49 care facility; and ambulatory surgical facility.
+50 (9c) Health service facility bed. – A bed licensed for use in a health service facility
+51 in the categories of (i) acute care beds; (iii) rehabilitation beds; (iv) (ii) nursing
+DRS15139-MG-66B Page 11
+General Assembly Of North Carolina Session 2025
+1 home beds; (v) (iii) intermediate care beds for individuals with intellectual
+2 disabilities; (vii) (iv) hospice inpatient facility beds; (viii) (v) hospice
+3 residential care facility beds; (ix) (vi) adult care home beds; and (x) (vii)
+4 long-term care hospital beds.
+5 …
+6 (13) Hospital. – A public or private institution which that is primarily engaged in
+7 providing to inpatients, by or under supervision of physicians, diagnostic
+8 services and therapeutic services for medical diagnosis, treatment, and care of
+9 injured, disabled, or sick persons, or rehabilitation services for the
+10 rehabilitation of injured, disabled, or sick persons. The term includes all
+11 facilities licensed pursuant to G.S. 131E-77, except rehabilitation facilities
+12 and long-term care hospitals.
+13 …
+14 (17a) Nursing care. – Any of the following:
+15 a. Skilled nursing care and related services for residents who require
+16 medical or nursing care.
+17 b. Rehabilitation services services, other than those provided at an
+18 inpatient rehabilitation facility, for the rehabilitation of individuals
+19 who are injured or sick or who have disabilities.
+20 c. Health-related care and services provided on a regular basis to
+21 individuals who because of their mental or physical condition require
+22 care and services above the level of room and board, which can be
+23 made available to them only through institutional facilities.
+24 These are services which are not primarily for the care and treatment of
+25 mental diseases.
+26 …
+27 (22) Rehabilitation facility. – A public or private inpatient facility which is
+28 operated for the primary purpose of assisting in the rehabilitation of
+29 individuals with disabilities through an integrated program of medical and
+30 other services which are provided under competent, professional
+31 supervision.A facility that has been classified and designated as an inpatient
+32 rehabilitation facility by the Centers for Medicare and Medicaid Services
+33 pursuant to Part 412 of Subchapter B of Chapter IV of Title 42 of the Code of
+34 Federal Regulations.
+35 …."
+36
+37 PART IX. EFFECTIVE DATE
+38 SECTION 9.1. Except as otherwise provided, this act is effective when it becomes
+39 law.
+Page 12 DRS15139-MG-66B
+[DELETED:  D L ( S  A A A L H C A I P T W f e a t g c t i a m i i d W r W r W a i W e a b w t i c o p h i a W s i W i l a o p d l c a h p w c W h s a e c a h p t o m c W p c w c u a a i a t c o h s w f a m c a p W r h p a i t d t p i a i a p a s a p m n b i a o t W i W i]
+[DELETED:  S  D W e p a e w p i w h c W p i t p T  P I G T I H A A S S 1  A 1 o C 1 o t G S r a r " " " " T 2 … " 1  D o p f m f r D C a H ( D ( A t ( C ( C ( D ( H ( H f a A S b A S c A t d A t a o o o m g h p a d A ( H u ( P e h i t a a m c o ( B w t r p e S 3 2 a a t b u e h r s t f i a t 1 m f]
+[DELETED:  S  P ( T p t e t e ( T p ( T p ( T ( F o a i h h A o t 1 m f r a w t r o t i r v o ( T C s a r o o b M 1 2 t e t s t ( T r i ( S d s ( B w t r p e S 3 2 a a t Q R o T C f t M C S a I P t t v t a w t p r o t h s i p b a p o n a s f r a t t h i v o t f H I P a A ( T C s a r o o b M 1 2 t e t s f t]
+[DELETED:  S  D a f ( T m ( U r o a p f a p D i p o s p i e ( C f ( T h r 1 p t d s o i s ( o s a t s c t ( T h a a s f r t i t t D t t 2 m c i p f w t h a a o ( T e a d n f t 1 q m f l h ( G d n a t r a u s ( a ( s a o t m f t m i w t r i a b t R R C … " T t t o g c c a G S d t r a b t N C M C C u G a  P I G T I H P B P S P]
+[DELETED:  S  P " " T ( H b p – A d i G o u t l o a ( H s f – A f t i l u t C o C s o C ( H u a o p o a a p o i a a e o t p ( I " ( S s i ( n f s i ( S i ( C i n h c w t i i a a c t b n h p i t i h p n w d u t i h p n a p p ( T u a b o o d f t s t c c r i r ( E t i s ( A c p ( T u a b o o d f t s t c c r]
+[DELETED:  S  D i r " A t G i i o ( s p a f a i f t p o n i ( A n ( T u a b o o d f t s t c c r b a h p p i t i h p n b a w s a r b a n " A A p f S S r " D … ( C i d ( H s f – A h l c h p f d t c i f h u i t h r c f a s f u c f ( H p – A h s f o a p w i l r o c u C 9 o C 9 o t G s a i S " S a p c h c h p a t m h n o t i a r i i i a t t i w u d b r t t i l]
+[DELETED:  S  P S 2  T P b e O 1 2 a a t h o  P I G F I B A C P F S A S S 1 S " H c … ( A t a t a o l t s n o t c o e i … S S " ( D ( C ( F – A h o a s f l u t C ( I s i f h e a s c E i b a n l a S b R c F d P c f s o p a n p e P c f s o p a n p f A o i o s f w a f h e a s ( S s ( S i m c ( G s p]
+[DELETED:  S  D i a D R G ( C P T ( o H C ( I a f ( T S d o  P I G P F H C F F S b " ( D ( C a T b T c O a d A a p c ( F f – A f c o b b a h c p f o c c p ( s a d f a p f a ( c w ( H ( H a w t p c t o g m h ( H ( H p p ( P p ( R l o a h – A h f t i c a o p b a h o h s f t p o f a ( L ( N s h]
+[DELETED:  S  P ( R c s t ( I t m ( R t a ( T o b ( T f ( T f ( F w f ( T t 1 p o s i b C P T ( c I c p b t h o h s n r r f ( A ( E ( A i p 7 ( I h t p S H S s a r n t i G a e b s S e H  P S " R … ( T G t a r o S f f t f i]
+[DELETED:  S  D a T p t t h s f c p w i b T d  P R O C E D F H I A S " N s n s F d a p ( T p q a l o t p o p r ( A p ( T r i … S " F a a ( T t f g r A c p m s w m b p i f ( A a i a t t c p p w 3 d a r b s s E i p g a T r b A c T b r]
+[DELETED:  S  P … S " S G R – A i s e a s g r p f ( A i s w 1 b d a r a r f a s g r m k t p t c p a T c a r … S  P V C P R T P O D S " T p … ( T i G a a l e t f i a " a f b S  P R S R F A R S " T … ( H s – A o i a t i m d t i n m ( H f n h f a c h k d t c f i w i d h h a o d c ( H i]
+[DELETED:  S  D h d ( ( h i f b ( ( h r ( ( ( l … ( H p t i b o u s o p d s i d o s p o r s f t r o i d o s p T t i a f G a … ( N a S n c a r s f w r m b R s s o t t p a a i r f f t r o i w c H c a s p o a r b t i c m T m … ( R f – A p o p i f w i o f t p p o a i t r o i o s w a p u c p s r f b t C f M a M S p F …  P S l]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 17, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 316
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS15139-MG-66B
+Short Title: Lower Healthcare Costs. (Public)
+Sponsors: Senators Burgin, Galey, and Sawrey (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT LOWERING HEALTHCARE COSTS AND INCREASING PRICE
+3 TRANSPARENCY.
+4 Whereas, rising healthcare costs place a significant financial burden on individuals,
+5 families, employers, and taxpayers, greatly contribute to inflation, and make it increasingly
+6 difficult for residents to access essential healthcare services; and
+7 Whereas, North Carolina has intolerably high healthcare costs, with recent studies
+8 ranking the State 50th out of 50 in the United States; and
+9 Whereas, skyrocketing healthcare costs have resulted in over 40 percent of Americans
+10 reporting some type of healthcare debt, according to one study; and
+11 Whereas, many patients face unexpected medical bills due to a lack of disclosure
+12 about out-of-network providers and a general lack of transparency in healthcare pricing, resulting
+13 in financial strain and hardship; and
+14 Whereas, employers are burdened with the increasing costs of providing health
+15 insurance for employees, leading to higher premiums, deductibles, and out-of-pocket expenses;
+16 and
+17 Whereas, patients and employers are often unable to compare the costs of medical
+18 services due to a lack of clear and accessible pricing information, hindering their ability to make
+19 informed decisions; and
+20 Whereas, the absence of price transparency in the healthcare system leads to market
+21 inefficiencies, less awareness of price difference, less competition, and higher prices, with
+22 consumers often unable to identify the most cost-effective providers; and
+23 Whereas, transparency in healthcare pricing allows consumers to shop for affordable
+24 healthcare services and encourages competition among healthcare providers to offer more
+25 competitive pricing; and
+26 Whereas, providing consumers with clear, understandable, and accessible
+27 information about the costs of healthcare services will foster a more competitive and
+28 patient-centered healthcare market; and
+29 Whereas, requiring healthcare providers and insurers to disclose their prices in
+30 advance, including all providers and services a patient may need, both in-network and
+31 out-of-network, will enable consumers to make more informed choices about their care, leading
+32 to better healthcare outcomes at lower costs; and
+33 Whereas, price transparency will incentivize hospitals and healthcare providers to
+34 improve the quality of care while reducing prices, to the benefit of patients and employers; and
+35 Whereas, clear pricing and competition among healthcare providers will encourage
+36 innovation in healthcare delivery and improve overall efficiency within the system; and
+*DRS15139-MG-66B*
+
+General Assembly Of North Carolina Session 2025
+1 Whereas, empowering patients and employers with pricing information will help
+2 create a healthcare system that prioritizes affordability, access, and choice; and
+3 Whereas, President Trump recently signed an Executive Order to make healthcare
+4 prices transparent, "empower[ing] patients with clear, accurate, and actionable healthcare pricing
+5 information," also "ensur[ing] hospitals and insurers disclose actual prices, not estimates, and
+6 take action to make prices comparable across hospitals and insurers, including prescription drug
+7 prices; Now, therefore,
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. GREATER TRANSPARENCY IN HOSPITAL AND AMBULATORY
+11 SURGICAL FACILITY HEALTHCARE COSTS
+12 SECTION 1.1. Article 11B of Chapter 131E of the General Statutes reads as
+13 rewritten:
+14 "Article 11B.
+15 "Transparency in Health Care Costs.
+16 "Part 1. Health Care Cost Reduction and Transparency Act of 2013.
+17 "§ 131E-214.11. Title.
+18 This article Part shall be known as the Health Care Cost Reduction and Transparency Act of
+19 2013.
+20 …
+21 "§ 131E-214.13. Disclosure of prices for most frequently reported DRGs, CPTs, and
+22 HCPCSs.
+23 (a) Definitions. – The following definitions apply in this Article:Part:
+24 (1) Ambulatory surgical facility. – A facility licensed under Part 4 of Article 6 of
+25 this Chapter.
+26 (2) Commission. – The North Carolina Medical Care Commission.
+27 (2a) CPT. – Current Procedural Terminology.
+28 (2b) DRG. – Diagnostic Related Group.
+29 (2c) HCPCS. – The Healthcare Common Procedure Coding System.
+30 (3) Health insurer. – An entity that writes a health benefit plan and is one of the
+31 following:
+32 a. An insurance company under Article 3 of Chapter 58 of the General
+33 Statutes.
+34 b. A service corporation under Article 65 of Chapter 58 of the General
+35 Statutes.
+36 c. A health maintenance organization under Article 67 of Chapter 58 of
+37 the General Statutes.
+38 d. A third-party administrator of one or more group health plans, as
+39 defined in section 607(1) of the Employee Retirement Income Security
+40 Act of 1974 (29 U.S.C. § 1167(1)).
+41 (4) Hospital. – A medical care facility licensed under Article 5 of this Chapter or
+42 under Article 2 of Chapter 122C of the General Statutes.
+43 (5) Public or private third party. – Includes the State, the federal government,
+44 employers, health insurers, third-party administrators, and managed care
+45 organizations.
+46 (b) Beginning with the reporting period ending September 30, 2015, and annually
+47 thereafter, Quarterly Report on Most Frequently Reported DRGs for Inpatients. – On a quarterly
+48 basis, each hospital shall provide to the Department of Health and Human Services, Department,
+49 utilizing electronic health records software, the following information about the 100 most
+50 frequently reported admissions by DRG for inpatients as established by the Department:
+Page 2 DRS15139-MG-66B
+
+General Assembly Of North Carolina Session 2025
+1 (1) The amount that will be charged to a patient for each DRG if all charges are
+2 paid in full without a public or private third party paying for any portion of
+3 the charges. In calculating this amount, each hospital shall include charges for
+4 each billable item and service associated with the DRG regardless of whether
+5 the health service is performed by a physician or nonphysician practitioner
+6 employed by the hospital.
+7 (2) The average negotiated settlement on the amount that will be charged to a
+8 patient required to be provided in subdivision (1) of this subsection.
+9 (3) The amount of Medicaid reimbursement for each DRG, including claims and
+10 pro rata supplemental payments.
+11 (4) The amount of Medicare reimbursement for each DRG.
+12 (5) For each of the five largest health insurers providing payment to the hospital
+13 on behalf of insureds and teachers and State employees, the range and the
+14 average of the amount of payment made for each DRG. Prior to providing this
+15 information to the Department, each hospital shall redact the names of the
+16 health insurers and any other information that would otherwise identify the
+17 health insurers.
+18 A hospital shall not be required to report the information required by this subsection for any
+19 of the 100 most frequently reported admissions where the reporting of that information
+20 reasonably could lead to the identification of the person or persons admitted to the hospital in
+21 violation of the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) or
+22 other federal law.
+23 (c) The Commission shall adopt rules on or before March 1, 2016, to ensure that
+24 subsection (b) of this section is properly implemented and that hospitals report this information
+25 to the Department in a uniform manner. The rules shall include all of the following:
+26 (1) The method by which the Department shall determine the 100 most frequently
+27 reported DRGs for inpatients for which hospitals must provide the data set out
+28 in subsection (b) of this section.
+29 (2) Specific categories by which hospitals shall be grouped for the purpose of
+30 disclosing this information to the public on the Department's Internet Web
+31 site.
+32 (d) Beginning with the reporting period ending September 30, 2015, and annually
+33 thereafter, Quarterly Report on Total Costs for the Most Common Surgical and Imaging
+34 Procedures. – On a quarterly basis, each hospital and ambulatory surgical facility shall provide
+35 to the Department, utilizing electronic health records software, information on the total costs for
+36 the 20 most common surgical procedures and the 20 most common imaging procedures, by
+37 volume, performed in hospital outpatient settings or in ambulatory surgical facilities, along with
+38 the related CPT and HCPCS codes. In providing information on total costs, each hospital and
+39 ambulatory surgical facility shall include the costs for each billable item and service associated
+40 with the procedure regardless of whether the health service is performed by a physician or
+41 nonphysician practitioner employed by the hospital or ambulatory surgical facility. Hospitals and
+42 ambulatory surgical facilities shall report this information in the same manner as required by
+43 subdivisions (b)(1) through (5) of this section, provided that hospitals and ambulatory surgical
+44 facilities shall not be required to report the information required by this subsection where the
+45 reporting of that information reasonably could lead to the identification of the person or persons
+46 admitted to the hospital in violation of the federal Health Insurance Portability and
+47 Accountability Act of 1996 (HIPAA) or other federal law.
+48 (e) The Commission shall adopt rules on or before March 1, 2016, to ensure that
+49 subsection (d) of this section is properly implemented and that hospitals and ambulatory surgical
+50 facilities report this information to the Department in a uniform manner. The rules shall include
+51 the method by which the Department shall determine the 20 most common surgical procedures
+DRS15139-MG-66B Page 3
+
+General Assembly Of North Carolina Session 2025
+1 and the 20 most common imaging procedures for which the hospitals and ambulatory surgical
+2 facilities must provide the data set out in subsection (d) of this section.
+3 (e1) The Commission shall adopt rules to establish and define no fewer than 10 quality
+4 measures for licensed hospitals and licensed ambulatory surgical facilities.
+5 (f) Upon request of a patient for a particular DRG, imaging procedure, or surgery
+6 procedure reported in this section, a hospital or ambulatory surgical facility shall provide the
+7 information required by subsection (b) or subsection (d) of this section to the patient in writing,
+8 either electronically or by mail, within three business days after receiving the request.
+9 (f1) Commission Rules. – The Commission shall adopt rules to accomplish all of the
+10 following:
+11 (1) To ensure that subsection (b) of this section is properly implemented and that
+12 hospitals report this information to the Department in a uniform manner. The
+13 rules shall include the method by which the Department shall determine the
+14 100 most frequently reported DRGs for inpatients for which hospitals must
+15 provide the data set out in subsection (b) of this section and the specific
+16 categories by which hospitals shall be grouped for the purpose of disclosing
+17 this information to the public on the Department's internet website.
+18 (2) To ensure that subsection (d) of this section is properly implemented and that
+19 hospitals and ambulatory surgical facilities report this information to the
+20 Department in a uniform manner. The rules shall include the method by which
+21 the Department shall determine the 20 most common surgical procedures and
+22 the 20 most common imaging procedures for which the hospitals and
+23 ambulatory surgical facilities must provide the data set out in subsection (d)
+24 of this section.
+25 (3) To establish and define no fewer than 10 quality measures for licensed
+26 hospitals and licensed ambulatory surgical facilities.
+27 (g) G.S. 150B-21.3 does not apply to rules adopted under subsections (c) and (e)
+28 subdivision (f1)(1) or subdivision (f1)(2) of this section. A rule adopted under subsections (c)
+29 and (e) subdivision (f1)(1) or subdivision (f1)(2) of this section becomes effective on the last day
+30 of the month following the month in which the rule is approved by the Rules Review
+31 Commission.
+32 …
+33 "§ 131E-214.18. Penalty for noncompliance.
+34 The Department may impose a civil penalty on any hospital or ambulatory surgical facility
+35 that fails to comply with the requirements of this Part. For each day of violation, the amount of
+36 the civil penalty shall not be (i) less than one hundredth of one percent (.01%) of the annual salary
+37 of the chief executive officer of the noncompliant hospital or ambulatory surgical facility or (ii)
+38 greater than two thousand dollars ($2,000). This civil penalty shall be in addition to any fine or
+39 civil penalty that the Centers for Medicare and Medicaid Services or other federal agency may
+40 choose to impose on the facility. The Department shall remit the clear proceeds of civil penalties
+41 assessed pursuant to this section to the Civil Penalty and Forfeiture Fund in accordance with
+42 G.S. 115C-457.2."
+43 SECTION 1.2. This Part becomes effective on the later of January 1, 2026, or the
+44 date the rules adopted by the North Carolina Medical Care Commission under
+45 G.S. 131E-214.13(f1)(2) take effect, and G.S. 131E-214.18, as enacted by this Part, applies to
+46 acts occurring on or after that date.
+47
+48 PART II. GREATER TRANSPARENCY IN HEALTHCARE PROVIDER BILLING
+49 PRACTICES
+50 SECTION 2.1. Article 11B of Chapter 131E of the General Statutes, as amended by
+51 Part 1 of this act, is amended by adding a new Part to read:
+Page 4 DRS15139-MG-66B
+
+General Assembly Of North Carolina Session 2025
+1 "Part 2. Transparency in Healthcare Provider Billing Practices.
+2 "§ 131E-214.25. Definitions.
+3 The following definitions apply in this Part:
+4 (1) Health benefit plan. – As defined in G.S. 58-3-167, or under the laws of
+5 another state or the federal government.
+6 (2) Health service facility. – A facility that is licensed under this Chapter or
+7 Chapter 122C of the General Statutes, or under the licensing laws of another
+8 state, for the provision of the same services in the ordinary course of business
+9 or practice as would require the facility to be licensed under this Chapter or
+10 Chapter 122C of the General Statutes were the facility located in this State.
+11 (3) Healthcare provider. – Any person who is licensed, registered, or certified
+12 under Chapter 90 or Chapter 90B of the General Statutes, or under the laws of
+13 another state, to provide healthcare services in the ordinary care of business
+14 or practice, or as a profession, or in an approved education or training
+15 program, except that this term shall not include a pharmacy.
+16 (4) Insurer. – As defined in G.S. 58-3-167.
+17 "§ 131E-214.30. Fair notice requirements; heath service facilities.
+18 (a) Services Provided at a Participating Health Service Facility. – At the time a health
+19 service facility participating in an insurer's healthcare provider network (i) treats an insured
+20 individual for anything other than screening and stabilization in accordance with G.S. 58-3-190,
+21 (ii) admits an insured individual to receive emergency services, (iii) schedules a procedure for
+22 nonemergency services for an insured individual, or (iv) seeks prior authorization from an insurer
+23 for the provision of nonemergency services to an insured individual, the health service facility
+24 shall provide the insured individual with a written disclosure containing all of the following
+25 information:
+26 (1) Services may be provided at the health service facility for which the insured
+27 individual may receive a separate bill.
+28 (2) Certain healthcare providers may be called upon to render care to the insured
+29 individual during the course of treatment and those healthcare providers may
+30 not have contracts with the insured's insurer and are considered to be
+31 nonparticipating healthcare providers in the insurer's healthcare provider
+32 network. Any nonparticipating healthcare providers shall be identified in the
+33 written disclosure using the individual's healthcare provider's name and
+34 practice name as used on the applicable health service facility's or healthcare
+35 provider's credentials or name badge.
+36 (3) Text, using a bold or other distinguishable font, that states that certain
+37 consumer protections available to the insured individual when services are
+38 rendered by a health service facility or healthcare provider participating in the
+39 insurer's healthcare provider network may not be applicable when services are
+40 rendered by a nonparticipating healthcare provider.
+41 (b) Emergency Services Provided at Nonparticipating Health Service Facilities. – At the
+42 time a health service facility begins the provision of emergency services to an insured individual,
+43 if the facility does not have a contract with the applicable insurer, then the health service facility
+44 shall provide the insured individual with a written disclosure containing all of the following:
+45 (1) A statement that the health service facility does not have a provider network
+46 contract with the applicable insurer and is considered to be a nonparticipating
+47 provider.
+48 (2) Text, using a bold or other distinguishable font, that states that certain
+49 consumer protections available to the insured individual when services are
+50 rendered by a health service facility or healthcare provider participating in the
+DRS15139-MG-66B Page 5
+
+General Assembly Of North Carolina Session 2025
+1 insurer's healthcare provider network may not be applicable when services are
+2 rendered by a nonparticipating health service facility.
+3 "§ 131E-214.31. Fair notice requirements; healthcare providers.
+4 At the time a healthcare provider participating in an insurer's healthcare provider network (i)
+5 treats an insured individual for anything other than screening and stabilization in accordance with
+6 G.S. 58-3-190, (ii) schedules an appointment or procedure for nonemergency services for an
+7 insured individual, or (iii) seeks prior authorization from an insurer for the provision of
+8 nonemergency services to an insured individual, the healthcare provider shall provide the insured
+9 individual with a written disclosure containing all of the following information:
+10 (1) A statement that the healthcare provider is not the insurer's healthcare provider
+11 network applicable to the individual.
+12 (2) Text, using a bold or other distinguishable font, that states that certain
+13 consumer protections available to the insured individual when services are
+14 rendered by a healthcare provider participating in the insurer's healthcare
+15 provider network may not be applicable when services are rendered by a
+16 nonparticipating healthcare provider.
+17 "§ 131E-214.35. Penalties.
+18 A health service facility's or a healthcare provider's repeated failure to comply with this
+19 Article shall indicate a general business practice that is deemed an unfair and deceptive trade
+20 practice and is actionable under Chapter 75 of the General Statutes. Nothing in this Article
+21 forecloses other remedies available under law or equity."
+22 SECTION 2.2.(a) G.S. 58-3-200(a)(1) and G.S. 58-3-200(a)(2) are repealed.
+23 SECTION 2.2.(b) G.S. 58-3-200(a), as amended by subsection (a) of this section,
+24 reads as rewritten:
+25 "(a) Definitions. – As used The following definitions apply in this section:
+26 …
+27 (3) Clinical laboratory. – An entity in which services are performed to provide
+28 information or materials for use in the diagnosis, prevention, or treatment of
+29 disease or assessment of a medical or physical condition.
+30 (4) Health service facility. – A hospital; long-term care hospital; psychiatric
+31 facility; rehabilitation facility; nursing home facility; adult care home; kidney
+32 disease treatment center, including freestanding hemodialysis units;
+33 intermediate care facility; home health agency office; chemical dependency
+34 treatment facility; diagnostic center; hospice office; hospice inpatient facility;
+35 hospice residential care facility; ambulatory surgical facility; urgent care
+36 facility; freestanding emergency facility; and clinical laboratory.
+37 (5) Healthcare provider. – Any health service facility or any person who is
+38 licensed, registered, or certified under Chapter 90 or Chapter 90B of the
+39 General Statutes, or under the laws of another state, to provide healthcare
+40 services in the ordinary care of business or practice, or as a profession, or in
+41 an approved education or training program, except that this term shall not
+42 include a pharmacy."
+43 SECTION 2.2.(c) G.S. 58-3-200(d) reads as rewritten:
+44 "(d) Services Outside Provider Networks. – No insurer shall penalize an insured or subject
+45 an insured to the out-of-network benefit levels offered under the insured's approved health benefit
+46 plan, including an insured receiving an extended or standing referral under G.S. 58-3-223, unless
+47 contracting health care healthcare providers able to meet health needs of the insured are
+48 reasonably available to the insured without unreasonable delay. Upon notice or request from the
+49 insured, the insurer shall determine whether a healthcare provider able to meet the needs of the
+50 insured is available to the insured without unreasonable delay by reference to the insured's
+51 location and the specific medical needs of the insured."
+Page 6 DRS15139-MG-66B
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.3. This Part becomes effective October 1, 2026, and applies to
+2 healthcare services provided on or after that date and to contracts issued, renewed, or amended
+3 on or after that date.
+4
+5 PART III. GREATER FAIRNESS IN BILLING AND COLLECTIONS PRACTICES
+6 FOR HOSPITALS AND AMBULATORY SURGICAL FACILITIES
+7 SECTION 3.1.(a) Chapter 131E of the General Statutes is amended by adding a new
+8 Article 11C to be entitled "Fair Billing and Collections Practices for Hospitals and Ambulatory
+9 Surgical Facilities."
+10 SECTION 3.1.(b) G.S. 131E-91 is recodified as G.S. 131E-214.50 under Article
+11 11C of Chapter 131E of the General Statutes, as created by subsection (a) of this section.
+12 SECTION 3.1.(c) G.S. 131E-214.50(d) reads as rewritten:
+13 "(d) Hospitals and ambulatory surgical facilities shall abide by the following reasonable
+14 collections practices:
+15 …
+16 (1a) A hospital or ambulatory surgical facility shall not refer a patient's unpaid bill
+17 to a collections agency, entity, or other assignee unless it has first presented
+18 an itemized list of charges to the patient detailing, in language comprehensible
+19 to an ordinary layperson, the specific nature of the charges or expenses
+20 incurred by the patient.
+21 …."
+22 SECTION 3.2. Article 11C of Chapter 131E of the General Statutes, as created by
+23 Section 3.1(a) of this act, is amended by adding a new section to read:
+24 "§ 131E-214.52. Patient's right to a good-faith estimate.
+25 (a) Definitions. – The following definitions apply in this section:
+26 (1) CMS. – The federal Centers for Medicare and Medicaid Services.
+27 (2) Facility. – A hospital or ambulatory surgical facility licensed under this
+28 Chapter.
+29 (3) Items and services. – All items and services, including individual items and
+30 services and service packages, that could be provided by a facility to a patient
+31 in connection with an inpatient admission or an outpatient visit for which the
+32 facility has established a standard charge. Examples include, but are not
+33 limited to, all of the following:
+34 a. Supplies and procedures.
+35 b. Room and board.
+36 c. Fees for use of the facility or other items.
+37 d. Professional charges for services of physicians and nonphysician
+38 practitioners who are employed by the facility.
+39 e. Professional charges for services of physicians and nonphysician
+40 practitioners who are not employed by the facility.
+41 f. Any other items or services for which a facility has established a
+42 standard charge.
+43 (4) Service package. – An aggregation of individual items and services into a
+44 single service with a single charge.
+45 (5) Shoppable service. – A non-urgent service that can be scheduled by a patient
+46 in advance. The term includes all CMS-specified shoppable services plus as
+47 many additional facility-selected shoppable services as are necessary for a
+48 combined total of at least 300 shoppable services.
+49 (b) Good-Faith Estimate. – Upon request of any patient for a good-faith estimate for a
+50 shoppable service, the facility shall provide to the patient, in writing, at least three business days
+51 prior to the date the patient schedules the shoppable service, an itemized list of expected charges,
+DRS15139-MG-66B Page 7
+
+General Assembly Of North Carolina Session 2025
+1 in language comprehensible to an ordinary layperson, that the patient will be obligated to pay for
+2 all items and services related to the shoppable service. The good-faith estimate shall include the
+3 Diagnostic Related Group (DRG), Current Procedural Terminology (CPT), or Healthcare
+4 Common Procedure Coding System (HCPCS) code for each expected charge.
+5 (c) In any case in which a patient has requested a good-faith estimate from a facility for
+6 a shoppable service, the patient's final bill for that shoppable service shall not exceed more than
+7 five percent (5%) of the good-faith estimate provided to the patient pursuant to this section.
+8 (d) The Department shall adopt rules to implement this section."
+9 SECTION 3.3. This Part becomes effective on the later of January 1, 2026, or the
+10 date the rules adopted by the Department under G.S. 131E-214.52 take effect and applies to acts
+11 occurring on or after that date.
+12
+13 PART IV. GREATER PROTECTION FOR HEALTHCARE CONSUMERS FROM
+14 FACILITY FEES
+15 SECTION 4.1.(a) Article 11C of Chapter 131E of the General Statutes, as created
+16 by Section 3.1(a) of this act, is amended by adding a new section to read:
+17 "§ 131E-214.54. Facility fees.
+18 (a) Definitions. – The following definitions apply in this section:
+19 (1) Campus. – Any of the following:
+20 a. The main building of a hospital.
+21 b. The physical area immediately adjacent to a hospital's main building.
+22 c. Other structures not contiguous to the main building of a hospital that
+23 are within 250 yards of the main building.
+24 d. Any other area that has been determined to be part of a hospital's
+25 campus by the Centers for Medicare and Medicaid Services.
+26 (2) Facility fee. – Any fee charged or billed by a health care provider for
+27 outpatient services provided in a hospital-based facility that is (i) intended to
+28 compensate the health care provider for the operational expenses of the health
+29 care provider, (ii) separate and distinct from a professional fee, and (iii)
+30 charged regardless of the modality through which the health care services
+31 were provided.
+32 (3) Health care provider. – As defined in G.S. 90-410.
+33 (4) Health systems. – A parent corporation of one or more hospitals and any entity
+34 affiliated with that parent corporation through ownership, governance,
+35 membership, or other means, or a hospital and any entity affiliated with that
+36 hospital through ownership, governance, membership, or other means.
+37 (5) Hospital. – As defined in G.S. 131E-76.
+38 (6) Hospital-based facility. – A facility that is owned or operated, in whole or in
+39 part, by a hospital and at which hospital or professional medical services are
+40 provided.
+41 (7) Professional fee. – Any fee charged or billed by a provider for hospital or
+42 professional medical services provided in a hospital-based facility.
+43 (8) Remote location of a hospital. – A hospital-based facility that is created,
+44 acquired, or purchased by a hospital or health system for the purpose of
+45 furnishing inpatient services under the name, ownership, and financial and
+46 administrative control of the hospital.
+47 (b) Limits on Facility Fees. – The following limitations are applicable to facility fees:
+48 (1) No health care provider shall charge, bill, or collect a facility fee unless the
+49 services are provided on a hospital's main campus, at a remote location of a
+50 hospital, or at a facility that includes an emergency department.
+Page 8 DRS15139-MG-66B
+
+General Assembly Of North Carolina Session 2025
+1 (2) Regardless of where the services are provided, no health care provider shall
+2 charge, bill, or collect a facility fee for outpatient evaluation and management
+3 services, or any other outpatient, diagnostic, or imaging services identified by
+4 the Department.
+5 (c) Identification of Services. – The Department shall annually identify services subject
+6 to the limitations on facility fees provided in subdivision (2) of subsection (b) of this section that
+7 may reliably be provided safely and effectively in non-hospital settings.
+8 (d) Reporting Requirements. – Each hospital and health system shall submit a report to
+9 the Department annually on July 1. The report shall be published on the Department's website
+10 and shall contain the following:
+11 (1) The name and full address of each facility owned or operated by the hospital
+12 or health system that provides services for which a facility fee is charged or
+13 billed.
+14 (2) The number of patient visits at each such hospital-based facility for which a
+15 facility fee was charged or billed.
+16 (3) The number, total amount, and range of allowable facility fees paid at each
+17 facility by Medicare, Medicaid, and private insurance.
+18 (4) For each hospital-based facility and for the hospital or health system as a
+19 whole, the total amount billed, and the total revenue received from facility
+20 fees.
+21 (5) The top 10 procedures or services, identified by Current Procedural
+22 Terminology (CPT) category I codes, provided by the hospital or health
+23 system that generated the greatest amount of facility fee gross revenue; the
+24 number of each of these 10 procedures or services provided; the gross and net
+25 revenue totals for each such procedure or service; and the total net amount of
+26 revenue received by the hospital or health system derived from facility fees
+27 for each procedure or service.
+28 (6) Any other information the Department may require.
+29 (e) Enforcement. – This section shall be enforced as follows:
+30 (1) Any violation of this section constitutes an unfair or deceptive trade practice
+31 in violation of G.S. 75-1.1 and is subject to all of the enforcement and penalty
+32 provisions of an unfair or deceptive trade practice under Article 1 of Chapter
+33 75 of the General Statutes.
+34 (2) In addition to the remedies described in subdivision (1) of this subsection, any
+35 health care provider who violates any provision of this section shall be subject
+36 to an administrative penalty of not more than one thousand dollars ($1,000)
+37 per occurrence."
+38 SECTION 4.1.(b) No later than January 1, 2026, the Department of Health and
+39 Human Services shall adopt rules necessary to implement G.S. 131E-214.54, as enacted by
+40 subsection (a) of this section.
+41 SECTION 4.2. G.S. 131E-214.54, as enacted by Section 4.1(a) of this Part, becomes
+42 effective January 1, 2026, or on the date the rules adopted by the Department of Health and
+43 Human Services pursuant to Section 4.1(b) of this Part become effective, whichever is later.
+44
+45 PART V. STATE AUDITOR REVIEW OF HEALTH SERVICE FACILITY PRICES
+46 SECTION 5.1. G.S. 147-64.6(c) reads as rewritten:
+47 "(c) Responsibilities. – The Auditor is responsible for the following acts and activities:
+48 …
+49 (24) The Auditor shall periodically examine health service facilities, as defined in
+50 G.S. 131E-176, that are recipients of State funds for the following
+51 information:
+DRS15139-MG-66B Page 9
+
+General Assembly Of North Carolina Session 2025
+1 a. The prices that the health service facility charges patients whose
+2 insurance is out-of-network or who are uninsured.
+3 b. To what extent the health service facility is transparent about the prices
+4 described in sub-subdivision a. of this subdivision."
+5
+6 PART VI. ENHANCEMENTS TO EMPLOYEE SAFETY BY ALLOWING FOR THE
+7 REMOVAL OF CERTAIN EMPLOYEE DETAILS FROM HEALTH INSURANCE
+8 APPEALS AND GRIEVANCE REVIEWS
+9 SECTION 6.1.(a) G.S. 58-50-61(k) reads as rewritten:
+10 "(k) Nonexpedited Appeals. – Within three business days after receiving a request for a
+11 standard, nonexpedited appeal, the insurer or its URO shall provide the covered person with the
+12 name, address, and telephone number of the coordinator and information on how and where to
+13 submit written material. material for the appeal, including contact information for the insurer.
+14 For standard, nonexpedited appeals, the insurer or its URO shall give written notification of the
+15 decision, in clear terms, to the covered person and the covered person's provider within 30 days
+16 after the insurer receives the request for an appeal. If the decision is not in favor of the covered
+17 person, the written decision shall contain:contain all of the following information:
+18 (1) The professional qualifications and licensure of the person or persons
+19 reviewing the appeal.
+20 (2) A statement of the reviewers' understanding of the reason for the covered
+21 person's basis of the appeal.
+22 (3) The reviewers' insurer's or URO's decision in clear terms and the medical
+23 rationale in sufficient detail for the covered person to respond further to the
+24 insurer's position.
+25 …."
+26 SECTION 6.1.(b) G.S. 58-50-62(e) reads as rewritten:
+27 "(e) First-Level Grievance Review. – A covered person or a covered person's provider
+28 acting on the covered person's behalf may submit a grievance. All of the following shall apply to
+29 a first-level grievance review:
+30 (1) The insurer does not have is not required to allow a covered person to attend
+31 the first-level grievance review. A covered person may submit written
+32 material. Except as provided in subdivision (3) of this subsection, within three
+33 business days after receiving a grievance, the insurer shall provide the covered
+34 person with the name, address, and telephone number of the coordinator and
+35 information on where and how to submit written material.material for the
+36 first-level grievance review, including contact information for the insurer.
+37 (2) An insurer shall issue a written decision, in clear terms, to the covered person
+38 and, if applicable, to the covered person's provider, within 30 days after
+39 receiving a grievance. The person or persons reviewing the grievance shall not
+40 be the same person or persons who initially handled the matter that is the
+41 subject of the grievance and, if the issue is a clinical one, at least one of whom
+42 shall be a medical doctor with appropriate expertise to evaluate the matter.
+43 Except as provided in subdivision (3) of this subsection, if the decision is not
+44 in favor of the covered person, the written decision issued in a first-level
+45 grievance review shall contain:contain all of the following information:
+46 a. The professional qualifications and licensure of the person or persons
+47 reviewing the grievance.
+48 b. A statement of the reviewers' understanding basis of the grievance.
+49 c. The reviewers' insurer's decision in clear terms and the contractual
+50 basis or medical rationale in sufficient detail for the covered person to
+51 respond further to the insurer's position.
+Page 10 DRS15139-MG-66B
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 6.1.(c) G.S. 58-50-62(f) reads as rewritten:
+3 "(f) Second-Level Grievance Review. – An insurer shall establish a second-level
+4 grievance review process for covered persons who are dissatisfied with the first-level grievance
+5 review decision or a utilization review appeal decision. A covered person or the covered person's
+6 provider acting on the covered person's behalf may submit a second-level grievance. All of the
+7 following shall apply to a second-level grievance review:
+8 (1) An insurer shall, within 10 business days after receiving a request for a
+9 second-level grievance review, make known to provide the covered
+10 person:person all of the following information:
+11 a. The name, address, and telephone number of a person designated to
+12 coordinate the grievance review for the insurer.Information on how
+13 and where to submit written material for the second-level grievance
+14 review, including contact information for the insurer.
+15 …."
+16 SECTION 6.2. This Part is effective when it becomes law.
+17
+18 PART VII. CLARIFY PARTNERSHIPS REGARDING THE PRACTICE OF
+19 DENTISTRY
+20 SECTION 7.1. G.S. 90-29(c) reads as rewritten:
+21 "(c) The following acts, practices, or operations, however, shall not constitute the unlawful
+22 practice of dentistry:
+23 …
+24 (15) The mechanism by which a "management company," as that term is defined
+25 in G.S. 90-40.2(a)(4), and a licensee establish the fee in a "management
+26 arrangement," as that term is defined in G.S. 90-40.2(a)(3). A management
+27 fee established under this exception is a private business contract and shall not
+28 be construed to be evidence of a partnership under Chapter 59 of the General
+29 Statutes."
+30
+31 PART VIII. ELIMINATION OF CERTIFICATE OF NEED REVIEW FOR INPATIENT
+32 REHABILITATION SERVICES, REHABILITATION FACILITIES, AND
+33 REHABILITATION BEDS
+34 SECTION 8.1. G.S. 131E-176 reads as rewritten:
+35 "§ 131E-176. Definitions.
+36 The following definitions apply in this Article:
+37 …
+38 (9a) Health service. – An organized, interrelated activity that is medical,
+39 diagnostic, therapeutic, rehabilitative, or a combination thereof of these and
+40 that is integral to the prevention of disease or the clinical management of an
+41 individual who is sick or injured or who has a disability. "Health service" does
+42 not include administrative and other activities that are not integral to clinical
+43 management.
+44 (9b) Health service facility. – A hospital; long-term care hospital; rehabilitation
+45 facility; nursing home facility; adult care home; kidney disease treatment
+46 center, including freestanding hemodialysis units; intermediate care facility
+47 for individuals with intellectual disabilities; home health agency office;
+48 diagnostic center; hospice office, hospice inpatient facility, hospice residential
+49 care facility; and ambulatory surgical facility.
+50 (9c) Health service facility bed. – A bed licensed for use in a health service facility
+51 in the categories of (i) acute care beds; (iii) rehabilitation beds; (iv) (ii) nursing
+DRS15139-MG-66B Page 11
+
+General Assembly Of North Carolina Session 2025
+1 home beds; (v) (iii) intermediate care beds for individuals with intellectual
+2 disabilities; (vii) (iv) hospice inpatient facility beds; (viii) (v) hospice
+3 residential care facility beds; (ix) (vi) adult care home beds; and (x) (vii)
+4 long-term care hospital beds.
+5 …
+6 (13) Hospital. – A public or private institution which that is primarily engaged in
+7 providing to inpatients, by or under supervision of physicians, diagnostic
+8 services and therapeutic services for medical diagnosis, treatment, and care of
+9 injured, disabled, or sick persons, or rehabilitation services for the
+10 rehabilitation of injured, disabled, or sick persons. The term includes all
+11 facilities licensed pursuant to G.S. 131E-77, except rehabilitation facilities
+12 and long-term care hospitals.
+13 …
+14 (17a) Nursing care. – Any of the following:
+15 a. Skilled nursing care and related services for residents who require
+16 medical or nursing care.
+17 b. Rehabilitation services services, other than those provided at an
+18 inpatient rehabilitation facility, for the rehabilitation of individuals
+19 who are injured or sick or who have disabilities.
+20 c. Health-related care and services provided on a regular basis to
+21 individuals who because of their mental or physical condition require
+22 care and services above the level of room and board, which can be
+23 made available to them only through institutional facilities.
+24 These are services which are not primarily for the care and treatment of
+25 mental diseases.
+26 …
+27 (22) Rehabilitation facility. – A public or private inpatient facility which is
+28 operated for the primary purpose of assisting in the rehabilitation of
+29 individuals with disabilities through an integrated program of medical and
+30 other services which are provided under competent, professional
+31 supervision.A facility that has been classified and designated as an inpatient
+32 rehabilitation facility by the Centers for Medicare and Medicaid Services
+33 pursuant to Part 412 of Subchapter B of Chapter IV of Title 42 of the Code of
+34 Federal Regulations.
+35 …."
+36
+37 PART IX. EFFECTIVE DATE
+38 SECTION 9.1. Except as otherwise provided, this act is effective when it becomes
+39 law.
+Page 12 DRS15139-MG-66B
+
+[DELETED:  D L ( S  A A A L H C A I P T W f e a t g c t i a m i i d W r W r W a i W e a b w t i c o p h i a W s i W i l a o p d l c a h p w c W h s a e c a h p t o m c W p c w c u a a i a t c o h s w f a m c a p W r h p a i t d t p i a i a p a s a p m n b i a o t W i W i]
+[DELETED:  S  D W e p a e w p i w h c W p i t p T  P I G T I H A A S S 1  A 1 o C 1 o t G S r a r " " " " T 2 … " 1  D o p f m f r D C a H ( D ( A t ( C ( C ( D ( H ( H f a A S b A S c A t d A t a o o o m g h p a d A ( H u ( P e h i t a a m c o ( B w t r p e S 3 2 a a t b u e h r s t f i a t 1 m f]
+[DELETED:  S  P ( T p t e t e ( T p ( T p ( T ( F o a i h h A o t 1 m f r a w t r o t i r v o ( T C s a r o o b M 1 2 t e t s t ( T r i ( S d s ( B w t r p e S 3 2 a a t Q R o T C f t M C S a I P t t v t a w t p r o t h s i p b a p o n a s f r a t t h i v o t f H I P a A ( T C s a r o o b M 1 2 t e t s f t]
+[DELETED:  S  D a f ( T m ( U r o a p f a p D i p o s p i e ( C f ( T h r 1 p t d s o i s ( o s a t s c t ( T h a a s f r t i t t D t t 2 m c i p f w t h a a o ( T e a d n f t 1 q m f l h ( G d n a t r a u s ( a ( s a o t m f t m i w t r i a b t R R C … " T t t o g c c a G S d t r a b t N C M C C u G a  P I G T I H P B P S P]
+[DELETED:  S  P " " T ( H b p – A d i G o u t l o a ( H s f – A f t i l u t C o C s o C ( H u a o p o a a p o i a a e o t p ( I " ( S s i ( n f s i ( S i ( C i n h c w t i i a a c t b n h p i t i h p n w d u t i h p n a p p ( T u a b o o d f t s t c c r i r ( E t i s ( A c p ( T u a b o o d f t s t c c r]
+[DELETED:  S  D i r " A t G i i o ( s p a f a i f t p o n i ( A n ( T u a b o o d f t s t c c r b a h p p i t i h p n b a w s a r b a n " A A p f S S r " D … ( C i d ( H s f – A h l c h p f d t c i f h u i t h r c f a s f u c f ( H p – A h s f o a p w i l r o c u C 9 o C 9 o t G s a i S " S a p c h c h p a t m h n o t i a r i i i a t t i w u d b r t t i l]
+[DELETED:  S  P S 2  T P b e O 1 2 a a t h o  P I G F I B A C P F S A S S 1 S " H c … ( A t a t a o l t s n o t c o e i … S S " ( D ( C ( F – A h o a s f l u t C ( I s i f h e a s c E i b a n l a S b R c F d P c f s o p a n p e P c f s o p a n p f A o i o s f w a f h e a s ( S s ( S i m c ( G s p]
+[DELETED:  S  D i a D R G ( C P T ( o H C ( I a f ( T S d o  P I G P F H C F F S b " ( D ( C a T b T c O a d A a p c ( F f – A f c o b b a h c p f o c c p ( s a d f a p f a ( c w ( H ( H a w t p c t o g m h ( H ( H p p ( P p ( R l o a h – A h f t i c a o p b a h o h s f t p o f a ( L ( N s h]
+[DELETED:  S  P ( R c s t ( I t m ( R t a ( T o b ( T f ( T f ( F w f ( T t 1 p o s i b C P T ( c I c p b t h o h s n r r f ( A ( E ( A i p 7 ( I h t p S H S s a r n t i G a e b s S e H  P S " R … ( T G t a r o S f f t f i]
+[DELETED:  S  D a T p t t h s f c p w i b T d  P R O C E D F H I A S " N s n s F d a p ( T p q a l o t p o p r ( A p ( T r i … S " F a a ( T t f g r A c p m s w m b p i f ( A a i a t t c p p w 3 d a r b s s E i p g a T r b A c T b r]
+[DELETED:  S  P … S " S G R – A i s e a s g r p f ( A i s w 1 b d a r a r f a s g r m k t p t c p a T c a r … S  P V C P R T P O D S " T p … ( T i G a a l e t f i a " a f b S  P R S R F A R S " T … ( H s – A o i a t i m d t i n m ( H f n h f a c h k d t c f i w i d h h a o d c ( H i]
+[DELETED:  S  D h d ( ( h i f b ( ( h r ( ( ( l … ( H p t i b o u s o p d s i d o s p o r s f t r o i d o s p T t i a f G a … ( N a S n c a r s f w r m b R s s o t t p a a i r f f t r o i w c H c a s p o a r b t i c m T m … ( R f – A p o p i f w i o f t p p o a i t r o i o s w a p u c p s r f b t C f M a M S p F …  P S l]

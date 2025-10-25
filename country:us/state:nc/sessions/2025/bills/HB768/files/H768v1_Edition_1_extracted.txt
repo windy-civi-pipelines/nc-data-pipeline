@@ -1,0 +1,156 @@
+Title: HOUSE BILL 768
+Official Title: HOUSE BILL 768
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Clarify Radio Coverage Exemptions/Bldg Code. (Public)
+Sponsors: Representatives Brody, Cotham, Zenger, and Winslow (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Housing and Development, if favorable, Emergency Management and Disaster
+Recovery, if favorable, Rules, Calendar, and Operations of the House
+April 7, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO DIRECT THE NORTH CAROLINA BUILDING CODE COUNCIL TO ADOPT
+3 RULES TO AMEND THE STATE BUILDING CODE AND STATE FIRE PREVENTION
+4 CODE TO CLARIFY EXEMPTIONS FROM IN-BUILDING EMERGENCY
+5 RESPONDER RADIO COVERAGE REQUIREMENTS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1.(a) Definitions. – For purposes of this section, the following are
+8 defined:
+9 (1) Code. – The North Carolina State Building Code collection, including the
+10 North Carolina Fire Prevention Code, and amendments thereto, as adopted by
+11 the Council.
+12 (2) Council. – The North Carolina Building Code Council.
+13 (3) Emergency responder radio coverage requirements. – The requirements for
+14 in-building emergency responder communications enhancement systems
+15 specified under Section 510 of the North Carolina Fire Prevention Code.
+16 SECTION 1.(b) Exemptions Established. – Notwithstanding the emergency
+17 responder radio coverage requirements of the Code, the following buildings and structures,
+18 whether existing, newly constructed or altered after the effective date of this act, are exempt from
+19 those requirements:
+20 (1) Apartment buildings not exceeding 75 feet in height, constructed using wood
+21 framing, provided the building has fewer than 150 dwelling units, and all
+22 dwelling units discharge directly to the exterior or to an interior corridor
+23 providing required egress that leads directly to an exterior exit.
+24 (2) Apartment buildings and transient public lodging establishments, including
+25 hotels and motels, not exceeding two stories above grade plane and that
+26 provide direct exterior egress from each dwelling unit or guest room.
+27 (3) Buildings defined as one-family dwellings, two-family dwellings, and
+28 townhouses regulated by the North Carolina Residential Code.
+29 (4) Buildings with a total gross floor area of less than 12,000 square feet and
+30 containing no story below grade plane or basement areas.
+31 SECTION 1.(c) Treatment of Existing Systems in Exempted Buildings. –
+32 Notwithstanding Section 901.6 of the North Carolina Fire Prevention Code or any other provision
+33 of the State Building Code that might require the removal of nonrequired or abandoned systems,
+34 an emergency responder radio coverage system installed prior to the effective date of this act in
+*H768-v-1*
+General Assembly Of North Carolina Session 2025
+1 a building or structure that meets the exemption criteria established in subsection (b) of this
+2 section shall not be required to be removed. Such systems may be deactivated.
+3 SECTION 1.(d) Rulemaking Required. – The Council shall adopt rules to amend
+4 the Code, specifically Section 510 of the North Carolina Fire Prevention Code and any related
+5 sections addressing emergency responder radio coverage, to incorporate the exemptions listed in
+6 subsection (b) of this section and the provisions regarding existing systems in subsection (c) of
+7 this section. Notwithstanding G.S. 150B-19(4), the rules adopted by the Council pursuant to this
+8 section shall be substantively identical to the provisions of subsections (b) and (c) of this section.
+9 Rules adopted pursuant to this section are not subject to Part 3 of Article 2A of Chapter 150B of
+10 the General Statutes. Rules adopted pursuant to this section shall become effective as provided
+11 in G.S. 150B-21.3(b1), as though 10 or more written objections had been received as provided
+12 in G.S. 150B-21.3(b2).
+13 SECTION 1.(e) Interim Application of Exemptions. – Until the effective date of the
+14 permanent rules that the Council is required to adopt pursuant to subsection (d) of this section,
+15 the Council and local governments enforcing the Code shall not enforce the emergency responder
+16 radio coverage requirements against buildings and structures that meet the exemption criteria
+17 established in subsection (b) of this section, and shall apply the provisions regarding existing
+18 systems established in subsection (c) of this section.
+19 SECTION 1.(f) Sunset. – This section expires when permanent rules adopted as
+20 required by subsection (d) of this section become effective.
+21 SECTION 2. Effective Date. – This act is effective when it becomes law.
+Page 2 House Bill 768-First Edition
+[DELETED:  1 C ( R H A A R C T C E F I E R T S 1  D – F p o t s t f a d ( C N t ( C ( E i e r c e s s S 1  E E – N t e r r c r o t C t f b a s w t ( A f d u d d t t e o t a i c p ( A h a m n e t s a g p a t p ( B d a o d t d a t ( B c S 1  T o E S i E B – N o a]
+[DELETED:  S  H a s S t s s t s R t i i S p t r e s S r S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 768
+Short Title: Clarify Radio Coverage Exemptions/Bldg Code. (Public)
+Sponsors: Representatives Brody, Cotham, Zenger, and Winslow (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Housing and Development, if favorable, Emergency Management and Disaster
+Recovery, if favorable, Rules, Calendar, and Operations of the House
+April 7, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO DIRECT THE NORTH CAROLINA BUILDING CODE COUNCIL TO ADOPT
+3 RULES TO AMEND THE STATE BUILDING CODE AND STATE FIRE PREVENTION
+4 CODE TO CLARIFY EXEMPTIONS FROM IN-BUILDING EMERGENCY
+5 RESPONDER RADIO COVERAGE REQUIREMENTS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1.(a) Definitions. – For purposes of this section, the following are
+8 defined:
+9 (1) Code. – The North Carolina State Building Code collection, including the
+10 North Carolina Fire Prevention Code, and amendments thereto, as adopted by
+11 the Council.
+12 (2) Council. – The North Carolina Building Code Council.
+13 (3) Emergency responder radio coverage requirements. – The requirements for
+14 in-building emergency responder communications enhancement systems
+15 specified under Section 510 of the North Carolina Fire Prevention Code.
+16 SECTION 1.(b) Exemptions Established. – Notwithstanding the emergency
+17 responder radio coverage requirements of the Code, the following buildings and structures,
+18 whether existing, newly constructed or altered after the effective date of this act, are exempt from
+19 those requirements:
+20 (1) Apartment buildings not exceeding 75 feet in height, constructed using wood
+21 framing, provided the building has fewer than 150 dwelling units, and all
+22 dwelling units discharge directly to the exterior or to an interior corridor
+23 providing required egress that leads directly to an exterior exit.
+24 (2) Apartment buildings and transient public lodging establishments, including
+25 hotels and motels, not exceeding two stories above grade plane and that
+26 provide direct exterior egress from each dwelling unit or guest room.
+27 (3) Buildings defined as one-family dwellings, two-family dwellings, and
+28 townhouses regulated by the North Carolina Residential Code.
+29 (4) Buildings with a total gross floor area of less than 12,000 square feet and
+30 containing no story below grade plane or basement areas.
+31 SECTION 1.(c) Treatment of Existing Systems in Exempted Buildings. –
+32 Notwithstanding Section 901.6 of the North Carolina Fire Prevention Code or any other provision
+33 of the State Building Code that might require the removal of nonrequired or abandoned systems,
+34 an emergency responder radio coverage system installed prior to the effective date of this act in
+*H768-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 a building or structure that meets the exemption criteria established in subsection (b) of this
+2 section shall not be required to be removed. Such systems may be deactivated.
+3 SECTION 1.(d) Rulemaking Required. – The Council shall adopt rules to amend
+4 the Code, specifically Section 510 of the North Carolina Fire Prevention Code and any related
+5 sections addressing emergency responder radio coverage, to incorporate the exemptions listed in
+6 subsection (b) of this section and the provisions regarding existing systems in subsection (c) of
+7 this section. Notwithstanding G.S. 150B-19(4), the rules adopted by the Council pursuant to this
+8 section shall be substantively identical to the provisions of subsections (b) and (c) of this section.
+9 Rules adopted pursuant to this section are not subject to Part 3 of Article 2A of Chapter 150B of
+10 the General Statutes. Rules adopted pursuant to this section shall become effective as provided
+11 in G.S. 150B-21.3(b1), as though 10 or more written objections had been received as provided
+12 in G.S. 150B-21.3(b2).
+13 SECTION 1.(e) Interim Application of Exemptions. – Until the effective date of the
+14 permanent rules that the Council is required to adopt pursuant to subsection (d) of this section,
+15 the Council and local governments enforcing the Code shall not enforce the emergency responder
+16 radio coverage requirements against buildings and structures that meet the exemption criteria
+17 established in subsection (b) of this section, and shall apply the provisions regarding existing
+18 systems established in subsection (c) of this section.
+19 SECTION 1.(f) Sunset. – This section expires when permanent rules adopted as
+20 required by subsection (d) of this section become effective.
+21 SECTION 2. Effective Date. – This act is effective when it becomes law.
+Page 2 House Bill 768-First Edition
+
+[DELETED:  1 C ( R H A A R C T C E F I E R T S 1  D – F p o t s t f a d ( C N t ( C ( E i e r c e s s S 1  E E – N t e r r c r o t C t f b a s w t ( A f d u d d t t e o t a i c p ( A h a m n e t s a g p a t p ( B d a o d t d a t ( B c S 1  T o E S i E B – N o a]
+[DELETED:  S  H a s S t s s t s R t i i S p t r e s S r S]

@@ -1,0 +1,410 @@
+Title: HOUSE BILL 838
+Official Title: HOUSE BILL 838
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: DIT Agency Broadband Bill. (Public)
+Sponsors: Representatives Johnson, Pickett, and K. Hall (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES RELATED TO BROADBAND LAWS WITH
+3 THE DEPARTMENT OF INFORMATION TECHNOLOGY.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. SATELLITE BROADBAND GRANTS
+7 SECTION 1.1. G.S. 143B-1373.2 is repealed.
+8 SECTION 1.2. G.S. 143B-1374 is repealed.
+9 SECTION 1.3.(a) The Department of Information Technology shall use funds
+10 appropriated for the Growing Rural Economies with Access to Technology program for fixed
+11 wireless and satellite broadband grants, established in G.S. 143B-1373.2, to award grants to
+12 eligible entities to purchase installation materials for satellite internet service and for the
+13 provision of satellite internet service for a period of up to one year. Installation materials and
+14 internet service must be for the grantee's own use and not for distribution to other parties. The
+15 Department shall prioritize grant applicants that operate in one of the 39 counties designated as
+16 a disaster area due to Hurricane Helene. The Department may also give priority to grantees that
+17 offer emergency services, disaster relief, educational services, or economic development.
+18 SECTION 1.3.(b) For the purposes of this section, an eligible entity is one of the
+19 following:
+20 (1) A State agency.
+21 (2) A local government entity.
+22 (3) An internet service provider.
+23 (4) A nonprofit organization.
+24
+25 PART II. REPURPOSE BROADBAND FUNDING FOR DISASTER RELIEF FUNDING
+26 SECTION 2.1.(a) The Department of Information Technology may provide
+27 emergency funding to communications service providers, as that term is defined in Section
+28 38.10(j) of S.L. 2021-180, to rebuild, repair, replace, and harden broadband infrastructure
+29 damaged by Hurricane Helene, including reimbursement of costs already incurred for rebuilding,
+30 repairing, replacing, and hardening broadband infrastructure, provided that all of the following
+31 apply:
+32 (1) An applicant for funding under this section shall only be permitted to recover
+33 costs that are not subject to reimbursement from another source of external
+34 funding, including insurance.
+*H838-v-1*
+General Assembly Of North Carolina Session 2025
+1 (2) The Department may cap reimbursement at a portion of the costs incurred
+2 based upon evaluation of considerations such as the number of applications
+3 anticipated compared to funds available.
+4 (3) Priority shall be given to restoration of broadband service.
+5 SECTION 2.1.(b) The Department may use up to fifty million dollars ($50,000,000)
+6 of the funds available from the Broadband Make Ready Accelerator appropriation in S.L.
+7 2021-180. Funds shall be used in compliance with applicable federal guidelines associated with
+8 the use of federal funds. The Department may use its emergency procurement authority provided
+9 in 09 NCAC 06B .1302 to procure any goods or services in accordance with this section and shall
+10 document the request for funding, the emergency situation or need, the area to be served, and the
+11 community's need for the procurement.
+12
+13 PART III. CHANGES TO THE BROADBAND POLE REPLACEMENT PROGRAM
+14 SECTION 3.1. Section 38.10 of S.L. 2021-180 reads as rewritten:
+15 "BROADBAND ACCELERATION
+16 …
+17 "SECTION 38.10.(b) The Broadband Pole Replacement Program (hereinafter "Program")
+18 is hereby established for the purpose of speeding and facilitating the deployment of broadband
+19 service to individuals, businesses, agricultural operations, and community access points in
+20 unserved areas by reimbursing a portion of eligible pole replacement costs incurred by
+21 communications service providers. A communications service provider who pays or incurs the
+22 costs of removing and replacing an existing pole pole, or placing facilities underground to better
+23 protect the critical infrastructure from natural disasters, in connection with a qualified project
+24 may apply to the Department for reimbursement in an amount equal to fifty percent (50%) of
+25 eligible pole replacement costs paid or incurred by the applicant or ten thousand dollars
+26 ($10,000), whichever is less, for each pole replaced.replaced or, in the case of placing facilities
+27 underground, fifty percent (50%) of such costs.
+28 …
+29 "SECTION 38.10.(g) A pole owner shall promptly review a request for access, perform
+30 surveys, provide estimates and final invoices, and complete, or require the completion by other
+31 attaching entities of, any make-ready work necessary for purposes of offering broadband service
+32 in an unserved area. A pole owner shall provide a good-faith estimate for any make-ready costs
+33 to the communications service provider within 60 days after receipt of a complete application for
+34 access. If requested by the communications service provider, the pole owner shall provide
+35 accompanying documentation indicating the basis of all estimated fees or other charges,
+36 including, but not limited to, administrative costs, that form the basis of its estimate. A good-faith
+37 estimate shall remain valid for 14 days. To accept a good-faith estimate, a communications
+38 service provider must provide the pole owner with written acceptance and payment of the
+39 good-faith estimate. Make-ready work shall be conditioned upon payment of the good-faith
+40 estimate and shall be completed within a reasonable time frame mutually agreed to by the
+41 communications service provider and the pole owner. A pole owner may treat multiple requests
+42 from a single communications service provider as one application for access when the requests
+43 are filed within 90 days of one another. A pole owner may deviate from the time limits specified
+44 in this subsection during performance of make-ready work for good and sufficient cause that
+45 renders it infeasible to complete make-ready work within the time limits specified in this
+46 subsection. Any deviation from the time limits specified in this subsection shall extend for a
+47 period no longer than necessary. A communications service provider shall promptly be notified,
+48 in writing, of the reason for a deviation and the new completion date estimate. A communications
+49 service provider shall provide notice, in writing, to the pole owner no later than 14 days after
+50 attaching equipment to a pole in an unserved area. This subsection shall not apply to poles owned
+51 by a utility.
+Page 2 House Bill 838-First Edition
+General Assembly Of North Carolina Session 2025
+1 "SECTION 38.10.(h) A party subject to a dispute arising under subsection (g) of this section
+2 may invoke the dispute procedures authorized in G.S. 62-350 in the same manner as a party
+3 seeking resolution of a dispute under G.S. 62-350(c), and the Utilities Commission shall issue a
+4 final order resolving the dispute within 120 days of the date the proceedings were initiated;
+5 provided, however, the Commission may extend the time for issuance of a final order for good
+6 cause and with the agreement of all parties. In such a dispute, the Commission shall apply the
+7 provisions of this section notwithstanding any contrary provisions of any existing agreement.
+8 This subsection shall not apply to poles owned by a utility.
+9 "SECTION 38.10.(i) No later than 60 days after the date funds are appropriated to the
+10 Program special fund, and on a quarterly basis thereafter, the Department shall maintain and
+11 publish on its website all of the following:
+12 (1) The number of applications for reimbursement received, processed, and
+13 rejected, including the reasons applications were rejected.
+14 (2) The amount of each reimbursement, the total number of reimbursements, and
+15 the status of any pending reimbursements.
+16 (3) The estimated remaining balance in the Program special fund.
+17 "SECTION 38.10.(j) The following definitions apply in this section:
+18 …
+19 (4) Eligible pole replacement cost. – The actual and reasonable costs paid or
+20 incurred by a party after June 1, 2021, to (i) remove and replace a pole,
+21 including the amount of any expenditures to remove and dispose of the
+22 existing pole, purchase and install a replacement pole, and transfer any
+23 existing facilities to the new pole. pole or (ii) place facilities, including lines,
+24 conduit, and related equipment, underground to better protect the critical
+25 infrastructure from natural disaster. The term includes costs paid or incurred
+26 by the party responsible for the costs of a pole replacement to reimburse the
+27 party that performs the pole replacement. The term does not include costs that
+28 the party incurs initially that have been reimbursed to the party by another
+29 party ultimately responsible for the costs.
+30 (5) Pole. – Any pole used, wholly or partly, for any wire communications or
+31 electric distribution, irrespective of who owns or operates the pole.pole,
+32 including poles owned by a utility.
+33 (6) Pole owner. – A city or cooperatively organized entity that owns utility poles.
+34 (7) Qualified project. – A project undertaken by a communications service
+35 provider that is not affiliated with a pole owner seeking to provide or, due to
+36 natural disaster or other force majeure event, restore, temporarily or
+37 permanently, qualifying internet access service on a retail basis to one or more
+38 households, businesses, agricultural operations, or community access points
+39 in an unserved or underserved area. The project may be affiliated with a
+40 cooperatively organized entity that owns utility poles but shall not be affiliated
+41 with a city that owns utility poles. A pole owner whose affiliate seeks
+42 reimbursement for a qualified project shall not pass through the costs for
+43 which reimbursement is sought to unaffiliated communications service
+44 providers and shall schedule and perform all work in a nondiscriminatory
+45 fashion.
+46 …
+47 (9) Unserved area. – An area in which, according to the most recent map of fixed
+48 broadband internet access service made available by the Federal
+49 Communications Commission, fixed, terrestrial broadband service at speeds
+50 of at least 25 megabits per second download and at least 3 megabits per second
+51 upload is unavailable at the time the communications service provider
+House Bill 838-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 requests access. An unserved area also includes an area that was previously
+2 served but has become unserved due to damage or destruction by a natural
+3 disaster. A pole or underground installation shall be presumed to be located in
+4 an unserved area if the pole is located in an area that is the subject of a federal
+5 or State grant to deploy broadband service, the conditions of which limit the
+6 availability of a grant to unserved areas.areas or, in the case of a damaged or
+7 destroyed facility, was in such an area when the facility was originally
+8 constructed.
+9 (10) Utility. – As defined by 47 U.S.C. § 224.
+10 …."
+11 SECTION 3.2. This Part is effective when it becomes law. Funds encumbered for
+12 expenses incurred under this Part as of June 1, 2021, prior to the effective date of this Part shall
+13 remain eligible for reimbursement.
+14
+15 PART IV. FUNDING FLEXIBILITY
+16 SECTION 4.1. Section 38.15 of S.L. 2021-180, as enacted by Section 16.1(a) of
+17 S.L. 2022-6, reads as rewritten:
+18 "SECTION 38.15. Except as otherwise provided, provided and after the intent of the original
+19 appropriation has been satisfied to the extent practicable, the Department of Information
+20 Technology shall have flexibility to transfer funding between the programs outlined in Section
+21 38.4, Section 38.5, and Section 38.6 38.6, and Sections 38.10(b) through (k) of this act, so long
+22 as the total allocations for the programs remain the same.act."
+23
+24 PART V. LIFELINE SERVICE PROVIDERS
+25 SECTION 5.1. Article 3 of Chapter 62 of the General Statutes is amended by adding
+26 a new section to read:
+27 "§ 62-30.1. Designating telecommunications carriers; rules.
+28 (a) Notwithstanding G.S. 62-3(23)j. or G.S. 62-30, the Utilities Commission may, solely
+29 upon petition of any provider or reseller of mobile radio communications service, designate the
+30 petitioning provider or reseller of mobile radio communications service as an eligible
+31 telecommunications carrier pursuant to 47 C.F.R. § 54.201 for purposes of providing Lifeline
+32 service. The Commission may adopt rules to effectuate the purposes of this section.
+33 (b) Nothing in this section shall confer upon the Utilities Commission any regulatory
+34 jurisdiction over providers or resellers of mobile radio communications service that have been
+35 previously designated as eligible telecommunications carriers for purposes of providing Lifeline
+36 service prior to the enactment of this section."
+37
+38 PART VI. EFFECTIVE DATE
+39 SECTION 6.1. Except as otherwise provided, this act is effective when it becomes
+40 law.
+Page 4 House Bill 838-First Edition
+[DELETED:  1 D ( R A A A T T  P S S S 1  T D o I T s u f a w e e t p i m f s i s a f t p i D a o S f ( A ( A ( A ( A  P S 2  T D o I T m p e f t c s p a t t i d i S 3 o S 2 t r r r a h b i d r a ( A c f]
+[DELETED:  S  H ( T b a ( P S o t f a f t B M R A a i S 2 t i d c  P S " … " i s t i b a o a c a p i u a b r a p o e p r c i b c c p m e p r c p o i b t a o t t d ( u … " s a i t a I r b t c s p t p o s p a d i t b o a e f o o c i e s p m p t p o w w a a p o t g c g e a s b c w a r t f m a t b t c f a i r i i t c m w w t t l s i t s p i s a b]
+[DELETED:  S  P " m s f p c p T " P p ( T n o a f r r p a r ( T t ( T " … ( E – c o i b a p a 1 2 t ( r a r a p i t a o a e t r a d o t e p p a i a r p a t a e c a r e u t b p t c i b p t p ( P e d i o w o o o t p i ( P ( Q p – A p u b a c s p n d o o f m e r t o p h i a u o u a T p m b a w a c w a c t o u p A p o w a s r f a q p s n t t c f w r i s t u c s p f … ( U b i a s m a b t F C o u i u a t t t c s p]
+[DELETED:  S  H r s d a o a d f w i s a a w t f w o c ( U … S e r  P S S " a h b s t t e p t D o I T 3 a  P S a " ( N u p p o r o m r c s a a e t s ( N j p s  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 838
+Short Title: DIT Agency Broadband Bill. (Public)
+Sponsors: Representatives Johnson, Pickett, and K. Hall (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES RELATED TO BROADBAND LAWS WITH
+3 THE DEPARTMENT OF INFORMATION TECHNOLOGY.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. SATELLITE BROADBAND GRANTS
+7 SECTION 1.1. G.S. 143B-1373.2 is repealed.
+8 SECTION 1.2. G.S. 143B-1374 is repealed.
+9 SECTION 1.3.(a) The Department of Information Technology shall use funds
+10 appropriated for the Growing Rural Economies with Access to Technology program for fixed
+11 wireless and satellite broadband grants, established in G.S. 143B-1373.2, to award grants to
+12 eligible entities to purchase installation materials for satellite internet service and for the
+13 provision of satellite internet service for a period of up to one year. Installation materials and
+14 internet service must be for the grantee's own use and not for distribution to other parties. The
+15 Department shall prioritize grant applicants that operate in one of the 39 counties designated as
+16 a disaster area due to Hurricane Helene. The Department may also give priority to grantees that
+17 offer emergency services, disaster relief, educational services, or economic development.
+18 SECTION 1.3.(b) For the purposes of this section, an eligible entity is one of the
+19 following:
+20 (1) A State agency.
+21 (2) A local government entity.
+22 (3) An internet service provider.
+23 (4) A nonprofit organization.
+24
+25 PART II. REPURPOSE BROADBAND FUNDING FOR DISASTER RELIEF FUNDING
+26 SECTION 2.1.(a) The Department of Information Technology may provide
+27 emergency funding to communications service providers, as that term is defined in Section
+28 38.10(j) of S.L. 2021-180, to rebuild, repair, replace, and harden broadband infrastructure
+29 damaged by Hurricane Helene, including reimbursement of costs already incurred for rebuilding,
+30 repairing, replacing, and hardening broadband infrastructure, provided that all of the following
+31 apply:
+32 (1) An applicant for funding under this section shall only be permitted to recover
+33 costs that are not subject to reimbursement from another source of external
+34 funding, including insurance.
+*H838-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (2) The Department may cap reimbursement at a portion of the costs incurred
+2 based upon evaluation of considerations such as the number of applications
+3 anticipated compared to funds available.
+4 (3) Priority shall be given to restoration of broadband service.
+5 SECTION 2.1.(b) The Department may use up to fifty million dollars ($50,000,000)
+6 of the funds available from the Broadband Make Ready Accelerator appropriation in S.L.
+7 2021-180. Funds shall be used in compliance with applicable federal guidelines associated with
+8 the use of federal funds. The Department may use its emergency procurement authority provided
+9 in 09 NCAC 06B .1302 to procure any goods or services in accordance with this section and shall
+10 document the request for funding, the emergency situation or need, the area to be served, and the
+11 community's need for the procurement.
+12
+13 PART III. CHANGES TO THE BROADBAND POLE REPLACEMENT PROGRAM
+14 SECTION 3.1. Section 38.10 of S.L. 2021-180 reads as rewritten:
+15 "BROADBAND ACCELERATION
+16 …
+17 "SECTION 38.10.(b) The Broadband Pole Replacement Program (hereinafter "Program")
+18 is hereby established for the purpose of speeding and facilitating the deployment of broadband
+19 service to individuals, businesses, agricultural operations, and community access points in
+20 unserved areas by reimbursing a portion of eligible pole replacement costs incurred by
+21 communications service providers. A communications service provider who pays or incurs the
+22 costs of removing and replacing an existing pole pole, or placing facilities underground to better
+23 protect the critical infrastructure from natural disasters, in connection with a qualified project
+24 may apply to the Department for reimbursement in an amount equal to fifty percent (50%) of
+25 eligible pole replacement costs paid or incurred by the applicant or ten thousand dollars
+26 ($10,000), whichever is less, for each pole replaced.replaced or, in the case of placing facilities
+27 underground, fifty percent (50%) of such costs.
+28 …
+29 "SECTION 38.10.(g) A pole owner shall promptly review a request for access, perform
+30 surveys, provide estimates and final invoices, and complete, or require the completion by other
+31 attaching entities of, any make-ready work necessary for purposes of offering broadband service
+32 in an unserved area. A pole owner shall provide a good-faith estimate for any make-ready costs
+33 to the communications service provider within 60 days after receipt of a complete application for
+34 access. If requested by the communications service provider, the pole owner shall provide
+35 accompanying documentation indicating the basis of all estimated fees or other charges,
+36 including, but not limited to, administrative costs, that form the basis of its estimate. A good-faith
+37 estimate shall remain valid for 14 days. To accept a good-faith estimate, a communications
+38 service provider must provide the pole owner with written acceptance and payment of the
+39 good-faith estimate. Make-ready work shall be conditioned upon payment of the good-faith
+40 estimate and shall be completed within a reasonable time frame mutually agreed to by the
+41 communications service provider and the pole owner. A pole owner may treat multiple requests
+42 from a single communications service provider as one application for access when the requests
+43 are filed within 90 days of one another. A pole owner may deviate from the time limits specified
+44 in this subsection during performance of make-ready work for good and sufficient cause that
+45 renders it infeasible to complete make-ready work within the time limits specified in this
+46 subsection. Any deviation from the time limits specified in this subsection shall extend for a
+47 period no longer than necessary. A communications service provider shall promptly be notified,
+48 in writing, of the reason for a deviation and the new completion date estimate. A communications
+49 service provider shall provide notice, in writing, to the pole owner no later than 14 days after
+50 attaching equipment to a pole in an unserved area. This subsection shall not apply to poles owned
+51 by a utility.
+Page 2 House Bill 838-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 "SECTION 38.10.(h) A party subject to a dispute arising under subsection (g) of this section
+2 may invoke the dispute procedures authorized in G.S. 62-350 in the same manner as a party
+3 seeking resolution of a dispute under G.S. 62-350(c), and the Utilities Commission shall issue a
+4 final order resolving the dispute within 120 days of the date the proceedings were initiated;
+5 provided, however, the Commission may extend the time for issuance of a final order for good
+6 cause and with the agreement of all parties. In such a dispute, the Commission shall apply the
+7 provisions of this section notwithstanding any contrary provisions of any existing agreement.
+8 This subsection shall not apply to poles owned by a utility.
+9 "SECTION 38.10.(i) No later than 60 days after the date funds are appropriated to the
+10 Program special fund, and on a quarterly basis thereafter, the Department shall maintain and
+11 publish on its website all of the following:
+12 (1) The number of applications for reimbursement received, processed, and
+13 rejected, including the reasons applications were rejected.
+14 (2) The amount of each reimbursement, the total number of reimbursements, and
+15 the status of any pending reimbursements.
+16 (3) The estimated remaining balance in the Program special fund.
+17 "SECTION 38.10.(j) The following definitions apply in this section:
+18 …
+19 (4) Eligible pole replacement cost. – The actual and reasonable costs paid or
+20 incurred by a party after June 1, 2021, to (i) remove and replace a pole,
+21 including the amount of any expenditures to remove and dispose of the
+22 existing pole, purchase and install a replacement pole, and transfer any
+23 existing facilities to the new pole. pole or (ii) place facilities, including lines,
+24 conduit, and related equipment, underground to better protect the critical
+25 infrastructure from natural disaster. The term includes costs paid or incurred
+26 by the party responsible for the costs of a pole replacement to reimburse the
+27 party that performs the pole replacement. The term does not include costs that
+28 the party incurs initially that have been reimbursed to the party by another
+29 party ultimately responsible for the costs.
+30 (5) Pole. – Any pole used, wholly or partly, for any wire communications or
+31 electric distribution, irrespective of who owns or operates the pole.pole,
+32 including poles owned by a utility.
+33 (6) Pole owner. – A city or cooperatively organized entity that owns utility poles.
+34 (7) Qualified project. – A project undertaken by a communications service
+35 provider that is not affiliated with a pole owner seeking to provide or, due to
+36 natural disaster or other force majeure event, restore, temporarily or
+37 permanently, qualifying internet access service on a retail basis to one or more
+38 households, businesses, agricultural operations, or community access points
+39 in an unserved or underserved area. The project may be affiliated with a
+40 cooperatively organized entity that owns utility poles but shall not be affiliated
+41 with a city that owns utility poles. A pole owner whose affiliate seeks
+42 reimbursement for a qualified project shall not pass through the costs for
+43 which reimbursement is sought to unaffiliated communications service
+44 providers and shall schedule and perform all work in a nondiscriminatory
+45 fashion.
+46 …
+47 (9) Unserved area. – An area in which, according to the most recent map of fixed
+48 broadband internet access service made available by the Federal
+49 Communications Commission, fixed, terrestrial broadband service at speeds
+50 of at least 25 megabits per second download and at least 3 megabits per second
+51 upload is unavailable at the time the communications service provider
+House Bill 838-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 requests access. An unserved area also includes an area that was previously
+2 served but has become unserved due to damage or destruction by a natural
+3 disaster. A pole or underground installation shall be presumed to be located in
+4 an unserved area if the pole is located in an area that is the subject of a federal
+5 or State grant to deploy broadband service, the conditions of which limit the
+6 availability of a grant to unserved areas.areas or, in the case of a damaged or
+7 destroyed facility, was in such an area when the facility was originally
+8 constructed.
+9 (10) Utility. – As defined by 47 U.S.C. § 224.
+10 …."
+11 SECTION 3.2. This Part is effective when it becomes law. Funds encumbered for
+12 expenses incurred under this Part as of June 1, 2021, prior to the effective date of this Part shall
+13 remain eligible for reimbursement.
+14
+15 PART IV. FUNDING FLEXIBILITY
+16 SECTION 4.1. Section 38.15 of S.L. 2021-180, as enacted by Section 16.1(a) of
+17 S.L. 2022-6, reads as rewritten:
+18 "SECTION 38.15. Except as otherwise provided, provided and after the intent of the original
+19 appropriation has been satisfied to the extent practicable, the Department of Information
+20 Technology shall have flexibility to transfer funding between the programs outlined in Section
+21 38.4, Section 38.5, and Section 38.6 38.6, and Sections 38.10(b) through (k) of this act, so long
+22 as the total allocations for the programs remain the same.act."
+23
+24 PART V. LIFELINE SERVICE PROVIDERS
+25 SECTION 5.1. Article 3 of Chapter 62 of the General Statutes is amended by adding
+26 a new section to read:
+27 "§ 62-30.1. Designating telecommunications carriers; rules.
+28 (a) Notwithstanding G.S. 62-3(23)j. or G.S. 62-30, the Utilities Commission may, solely
+29 upon petition of any provider or reseller of mobile radio communications service, designate the
+30 petitioning provider or reseller of mobile radio communications service as an eligible
+31 telecommunications carrier pursuant to 47 C.F.R. § 54.201 for purposes of providing Lifeline
+32 service. The Commission may adopt rules to effectuate the purposes of this section.
+33 (b) Nothing in this section shall confer upon the Utilities Commission any regulatory
+34 jurisdiction over providers or resellers of mobile radio communications service that have been
+35 previously designated as eligible telecommunications carriers for purposes of providing Lifeline
+36 service prior to the enactment of this section."
+37
+38 PART VI. EFFECTIVE DATE
+39 SECTION 6.1. Except as otherwise provided, this act is effective when it becomes
+40 law.
+Page 4 House Bill 838-First Edition
+
+[DELETED:  1 D ( R A A A T T  P S S S 1  T D o I T s u f a w e e t p i m f s i s a f t p i D a o S f ( A ( A ( A ( A  P S 2  T D o I T m p e f t c s p a t t i d i S 3 o S 2 t r r r a h b i d r a ( A c f]
+[DELETED:  S  H ( T b a ( P S o t f a f t B M R A a i S 2 t i d c  P S " … " i s t i b a o a c a p i u a b r a p o e p r c i b c c p m e p r c p o i b t a o t t d ( u … " s a i t a I r b t c s p t p o s p a d i t b o a e f o o c i e s p m p t p o w w a a p o t g c g e a s b c w a r t f m a t b t c f a i r i i t c m w w t t l s i t s p i s a b]
+[DELETED:  S  P " m s f p c p T " P p ( T n o a f r r p a r ( T t ( T " … ( E – c o i b a p a 1 2 t ( r a r a p i t a o a e t r a d o t e p p a i a r p a t a e c a r e u t b p t c i b p t p ( P e d i o w o o o t p i ( P ( Q p – A p u b a c s p n d o o f m e r t o p h i a u o u a T p m b a w a c w a c t o u p A p o w a s r f a q p s n t t c f w r i s t u c s p f … ( U b i a s m a b t F C o u i u a t t t c s p]
+[DELETED:  S  H r s d a o a d f w i s a a w t f w o c ( U … S e r  P S S " a h b s t t e p t D o I T 3 a  P S a " ( N u p p o r o m r c s a a e t s ( N j p s  P S l]

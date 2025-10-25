@@ -1,0 +1,350 @@
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 819
+Short Title: DIT Agency Bill. (Public)
+Sponsors: Representatives Johnson, Blackwell, Hawkins, and Winslow (Primary
+Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Appropriations, if favorable, Rules, Calendar, and Operations of the House
+April 9, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE GENERAL STATUTES RELATED TO
+3 THE DEPARTMENT OF INFORMATION TECHNOLOGY, COMMUNICATIONS
+4 SERVICES, AND TELECOMMUNICATIONS.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. NC LONGITUDINAL DATA SYSTEM
+8 SECTION 1.1. Chapter 116E of the General Statutes reads as rewritten:
+9 "Chapter 116E.
+10 "Education North Carolina Longitudinal Data System.
+11 "§ 116E-1. Definitions.
+12 (1) "Center" means the Center. – The Governmental Data Analytics Center as
+13 established in Part 8 of Article 15 of Chapter 143B of the General Statutes.
+14 (1a) CJIS. – The federal Criminal Justice Information Systems in 28 C.F.R. Part
+15 20.
+16 (2) "De-identified data" means a De-identified data. – A data set in which parent
+17 and student identity information, including the unique student identifier and
+18 student social security number, has been removed.
+19 (3) "FERPA" means the FERPA. – The federal Family Educational Rights and
+20 Privacy Act, 20 U.S.C. § 1232g.
+21 (3a) HIPAA. – The federal Health Insurance Portability and Accountability Act of
+22 1996.
+23 (3b) IDEA. – The federal Individuals with Disabilities Education Act, 20 U.S.C.
+24 §§ 1400, et seq.
+25 (3c) Public school. – As defined in G.S. 115C-5(7a).
+26 (4) "Student data" means data Student data. – Data relating to student
+27 performance. Student data includes State and national assessments, course
+28 enrollment and completion, grade point average, remediation, retention,
+29 degree, diploma or credential attainment, enrollment, discipline records, and
+30 demographic data. Student data does not include juvenile delinquency records,
+31 criminal records, and medical and health records.
+32 (5) "System" means the System. – The North Carolina Longitudinal Data
+33 System.System, including components referred to as the North Carolina
+34 Longitudinal Data Service.
+*H819-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (6) "Unique Student Identifier" or "UID" means the Unique Student Identifier or
+2 UID. – The identifier assigned to each student by one of the following:
+3 a. A local school administrative unit public school based on the identifier
+4 system developed by the Department of Public Instruction.
+5 b. An institution of higher education, nonpublic school, or other State
+6 agency operating or overseeing an educational program, if the student
+7 has not been assigned an identifier by a local school administrative
+8 unit.public school.
+9 (7) "Workforce data" means data Workforce data. – Data relating to employment
+10 status, wage information, geographic location of employment, and employer
+11 information.
+12 "§ 116E-2. Purpose of the North Carolina Longitudinal Data System.
+13 (a) The North Carolina Longitudinal Data System is a statewide data system that contains
+14 individual-level student data and workforce data from all levels of education and the State's
+15 workforce. The purpose of the System is to do the following:
+16 (1) Facilitate and enable the exchange of student data among agencies and
+17 institutions within the State.
+18 (2) Generate timely and accurate information about student performance that can
+19 be used to improve the State's education system and guide decision makers at
+20 all levels.
+21 (3) Facilitate and enable the linkage of student data and workforce data.
+22 (b) The linkage of student data and workforce data for the purposes of the System shall
+23 be limited to no longer than five years from the later of the date of the student's completion of
+24 secondary education or the date of the student's latest attendance at an institution of higher
+25 education in the State.
+26 …
+27 "§ 116E-4. Powers and duties of the Center.
+28 (a) The Center shall have the following powers and duties with respect to the System:
+29 …
+30 (4) Before the use of any individual data in the System, the Center shall do the
+31 following:
+32 a. Create and publish an inventory of the individual student data
+33 proposed to be accessible in the System and required to be reported by
+34 State and federal education mandates.System.
+35 b. Develop and implement policies to comply with FERPA FERPA,
+36 IDEA, HIPAA, CJIS, the Internal Revenue Code, and any other
+37 privacy measures, measures relevant to data available to the System,
+38 as required by law or the Center.
+39 c. Develop a detailed data security and safeguarding plan that includes
+40 the following:
+41 1. Authorized access and authentication for authorized access.
+42 2. Privacy compliance standards.
+43 3. Privacy and security audits.
+44 4. Breach notification and procedures.
+45 5. Data retention and disposition policies.
+46 (5) Oversee routine and ongoing compliance with FERPA FERPA, IDEA,
+47 HIPAA, CJIS, the Internal Revenue Code, and other relevant privacy laws and
+48 policies.
+49 (6) Ensure that any contracts that govern databases that are outsourced to private
+50 vendors include express provisions that safeguard privacy and security and
+51 include penalties for noncompliance.
+Page 2 House Bill 819-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7) Designate a standard and compliance time line for electronic transcripts that
+2 includes the use of UID to ensure the uniform and efficient transfer of student
+3 data between local school administrative units and institutions of higher
+4 education.
+5 (8) Review research requirements and set policies for the approval of data
+6 requests from State and local agencies, the General Assembly, and the public.
+7 (9) Establish an advisory committee on data quality to advise the Center on issues
+8 related to data auditing and tracking to ensure data validity.
+9 (b) The Center shall adopt rules according to Chapter 150B of the General Statutes as
+10 provided in G.S. 116E-6 to implement the provisions of this Article.
+11 (c) The Center shall report annually to the Joint Legislative Education Oversight
+12 Committee, the Joint Legislative Commission on Governmental Operations, and the Joint
+13 Legislative Oversight Committee on Information Technology beginning July 1, 2019. The report
+14 shall include the following:
+15 (1) An update on the implementation of the System's activities.
+16 (2) Any proposed or planned expansion of System data.
+17 (3) Any other recommendations made by the Center, including the most effective
+18 and efficient configuration for the System.
+19 "§ 116E-5. North Carolina Longitudinal Data System.
+20 (a) There is created the North Carolina Longitudinal Data System. The System shall be
+21 located administratively within the Department of Public Instruction but shall exercise its powers
+22 and duties independently of the Department of Public Instruction and the State Board of
+23 Education.Information Technology.
+24 (b) The System shall allow users to do the following:
+25 (1) Effectively organize, manage, disaggregate, and analyze individual student
+26 and workforce data.
+27 (2) Examine student progress and outcomes over time, including preparation for
+28 postsecondary education and the workforce.
+29 (c) The System shall be considered an authorized representative of the Department of
+30 Public Instruction, The University of North Carolina, and the North Carolina System of
+31 Community Colleges under applicable federal and State statutes for purposes of accessing and
+32 compiling student record data for research purposes.
+33 (d) The System shall perform the following functions and duties:
+34 (1) Serve as a data broker for the System, including data maintained by the
+35 following:
+36 a. The Department of Public Instruction.
+37 b. Local boards of education, local school administrative units, public
+38 schools, and charter schools.
+39 c. The University of North Carolina and its constituent institutions.
+40 d. The Community Colleges System Office and local community
+41 colleges.
+42 e. The North Carolina Independent College and Universities, Inc., and
+43 private colleges or universities.
+44 f. Nonpublic schools serving elementary and secondary students.
+45 g. The Department of Commerce, Division of Employment
+46 Security.Commerce.
+47 h. The Department of Revenue.
+48 i. The Department of Health and Human Services.
+49 j. The Department of Labor.
+House Bill 819-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) Ensure routine and ongoing compliance with FERPA, IDEA, HIPAA, CJIS,
+2 the Internal Revenue Code, and other relevant privacy laws and policies,
+3 including the following:
+4 a. The required use of de-identified data in data research and reporting.
+5 b. The required disposition of information that is no longer needed.
+6 c. Providing data security, including the capacity for audit trails.
+7 d. Providing for performance of regular audits for compliance with data
+8 privacy and security standards.
+9 e. Implementing guidelines and policies that prevent the reporting of
+10 other potentially identifying data.
+11 (3) Facilitate information and data requests for State and federal education
+12 reporting with existing State agencies as appropriate.
+13 (4) Facilitate approved public information requests.
+14 (5) Develop a process for obtaining information and data requested by the General
+15 Assembly and Governor of current de-identified data and research.
+16 (e) Use of data accessible through the System shall be regulated in the following ways:
+17 (1) Direct access to data shall be restricted to authorized staff of the System.
+18 (2) Only de-identified data shall be used in the analysis, research, and reporting
+19 conducted by the System.
+20 (3) The System and recipients of data in fulfillment of approved data requests
+21 shall only use aggregate aggregated data in the release of data in reports and
+22 in response to data requests.public reports.
+23 (4) Data that may be identifiable based on the size or uniqueness of the population
+24 under consideration shall not be reported in any form by the System.
+25 (5) The System shall not release information that may not be disclosed under
+26 FERPA, IDEA, HIPAA, CJIS, the Internal Revenue Code, and other relevant
+27 privacy laws and policies.
+28 (6) Individual or personally identifiable data accessed through the System shall
+29 not be a public record under G.S. 132-1.
+30 (f) The System may receive funding from the following sources:
+31 (1) State appropriations.
+32 (2) Grants or other assistance from local school administrative units, public
+33 schools, community colleges, constituent institutions of The University of
+34 North Carolina, or private colleges and universities.
+35 (3) Federal grants.
+36 (4) Any other grants or contributions from public or private entities received by
+37 the System.
+38 (g) Ownership of all data collected and maintained by the System remains with the
+39 contributors to the System. Management and disclosure of data by the System does not change
+40 ownership of the data.
+41 "§ 116E-6. Data sharing.
+42 (a) Local school administrative units, Public schools, charter schools, community
+43 colleges, constituent institutions of The University of North Carolina, and State agencies shall
+44 do all of the following:
+45 (1) Comply with the data requirements and implementation schedule for the
+46 System as set forth by the Center.
+47 (2) Transfer student data and workforce data to the System in accordance with the
+48 data security and safeguarding plan developed by the Center under
+49 G.S. 116E-5.
+Page 4 House Bill 819-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) Private colleges and universities, the North Carolina Independent Colleges and
+2 Universities, Inc., and nonpublic schools may transfer student data and workforce data to the
+3 System in accordance with the data security and safeguarding plan developed under G.S. 116E-5.
+4 (c) All data sharing supported by the System shall comply with all applicable federal and
+5 State data and data privacy laws and regulations."
+6
+7 PART II. CYBERSECURITY/DEPARTMENT ADMINISTRATION
+8 SECTION 2.1.(a) Findings. – The General Assembly finds that it is in the best
+9 interest of the State for the Department of Information Technology to lead the State's
+10 cybersecurity efforts comprehensively rather than having State agencies handle cybersecurity
+11 individually in a fragmentary way.
+12 SECTION 2.1.(b) Funding. – For the 2025-2027 fiscal biennium, of the funds
+13 available in the Information Technology Reserve, the Department of Information Technology
+14 may use up to the sum of twenty-five million dollars ($25,000,000) each fiscal year to enhance
+15 Department capabilities with respect to each of the following areas, and the funds are hereby
+16 appropriated for that purpose:
+17 (1) Continuation of cybersecurity projects funded in S.L. 2023-134.
+18 (2) State agency adherence to plans and policies related to cybersecurity incident,
+19 security alert, advisory response, security awareness, and agency
+20 cybersecurity training protocols.
+21 (3) Monitoring and ensuring State agency adherence to risk assessment policy for
+22 identification and remediation of critical security vulnerabilities, including,
+23 but not limited to, significant cybersecurity incidents.
+24 (4) Review of State agency incident response plans to ensure security standards
+25 are met with respect to cybersecurity incidents.
+26 SECTION 2.2. For the 2025-2027 fiscal biennium, of the funds available in the
+27 Information Technology Reserve, the sum of three million eight hundred thousand dollars
+28 ($3,800,000) in each fiscal year may be used by the Department of Information Technology to
+29 support the further development and integration of the NC HealthConnex system, and the funds
+30 are hereby appropriated for that purpose. Funds shall be used to develop new technical
+31 integrations and reconnections between health care provider electronic health record systems and
+32 NC HealthConnex.
+33 SECTION 2.3. G.S. 143B-1378 reads as rewritten:
+34 "§ 143B-1378. Assessment of agency compliance with cybersecurity standards.plans and
+35 standards; reporting requirements.
+36 At a minimum, the State CIO shall annually assess the ability of each State agency, and each
+37 agency's contracted vendors, to comply with the current cybersecurity enterprise-wide set of
+38 standards established pursuant to this section. The assessment shall include, at a minimum, the
+39 rate of compliance with the enterprise-wide security standards and an assessment of security
+40 organization, security practices, security information standards, network security architecture,
+41 and current expenditures of State funds for information technology security. The assessment of
+42 a State agency shall also estimate the initial cost to implement the security measures needed for
+43 agencies to fully comply with the standards as well as the costs over the lifecycle of the State
+44 agency information system. Each State agency shall submit information required by the State
+45 CIO for purposes of this assessment. The State CIO shall include the information obtained from
+46 the assessment in the State Information Technology Plan. The State CIO shall consider an
+47 agency's noncompliance with cybersecurity plans and standards when reviewing agency requests
+48 under Parts 3 and 4 of this Article."
+49 SECTION 2.4.(a) The General Assembly finds that it is in the best interests of the
+50 State for the Department of Information Technology (Department) to assess duplication in
+51 enterprise information technology spending across State agencies to identify opportunities for
+House Bill 819-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 cost-savings and increased efficiency in information technology resource allocation. Reducing
+2 redundancy in information technology spending will enhance fiscal responsibility and improve
+3 coordination of information technology functions across State government.
+4 SECTION 2.4.(b) During the 2025-2026 fiscal year, the Department shall select a
+5 third-party vendor to assist in a comprehensive assessment of enterprise information technology
+6 spending across all State agencies to determine areas of duplication and inefficiency. The
+7 assessment shall include at least all of the following:
+8 (1) Cybersecurity tools and licenses.
+9 (2) Enterprise software licenses.
+10 (3) Information technology staffing allocations and roles.
+11 (4) Cloud computing services.
+12 (5) Other information technology services and contracts deemed necessary for
+13 evaluation.
+14 State agencies shall provide all data, reports, and assistance requested by the
+15 Department to facilitate the assessment described in this subsection. The Department may issue
+16 requests for information and proposals as needed to evaluate potential consolidation strategies,
+17 cost-saving measures, and improved information technology coordination.
+18 SECTION 2.4.(c) On or before October 1, 2026, the Department shall submit a
+19 report to the Office of State Auditor, the Joint Legislative Oversight Committee on Information
+20 Technology, and the Fiscal Research Division detailing the following:
+21 (1) Any findings on duplicative information technology spending.
+22 (2) Recommendations for eliminating redundancies and optimizing information
+23 technology spending.
+24 (3) An analysis of potential cost-savings and strategies for implementation.
+25 (4) Any legislative or administrative actions necessary to support consolidation
+26 efforts.
+27 SECTION 2.5. To assist in the Department's responsibility to monitor budgeting and
+28 accounting of expenditures for information technology, operations, services, projects,
+29 infrastructure, and assets for State agencies pursuant to G.S. 143B-1335, the Office of State
+30 Budget and Management and the Office of the State Controller shall establish information
+31 technology-specific fund codes within each State agency's existing budget codes no later than
+32 December 1, 2025. The State CIO shall work with the Office of State Controller and the Office
+33 of State Budget and Management to develop an implementation plan and shall submit the plan
+34 to the Joint Legislative Oversight Committee on Information Technology and the Fiscal Research
+35 Division on or before September 1, 2026.
+36 SECTION 2.6. G.S. 143B-1330 reads as rewritten:
+37 "§ 143B-1330. Planning and financing State information technology resources.
+38 (a) The State CIO shall develop policies for agency information technology planning and
+39 financing. Agencies shall prepare and submit such plans as required in this section, as follows:
+40 …
+41 (2) The State CIO shall develop a biennial State Information Technology Plan
+42 (Plan), including, but not limited to, the use of cloud-based utility computing
+43 for use by State agencies.(Plan).
+44 (3) The State CIO shall develop one or more strategic plans for information
+45 technology. The State CIO shall determine whether strategic plans are needed
+46 for any agency and shall consider an agency's operational needs, functions,
+47 and capabilities when making such determinations.
+48 (b) Based on requirements identified during the strategic planning process, the
+49 Department shall develop and transmit to the General Assembly the biennial State Information
+50 Technology Plan in conjunction with the Governor's budget of each regular session. The Plan
+51 shall include the following elements:
+Page 6 House Bill 819-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 …
+2 (6) As part of the plan, the State CIO shall develop and periodically update a
+3 long-range State Information Technology Plan that forecasts, at a minimum,
+4 the needs of State agencies for the next 10 years.
+5 (c) Each participating agency shall actively participate in preparing, testing, and
+6 implementing an information technology plan required under subsection (b) of this section.
+7 Separate agencies shall prepare biennial information technology plans, including the
+8 requirements listed in subsection (b) of this section, and transmit these plans to the Department
+9 by a date determined by the State CIO in each even-numbered year. Agencies shall provide all
+10 financial information to the State CIO necessary to determine full costs and expenditures for
+11 information technology assets and resources provided by the agencies or through contracts or
+12 grants. The Department shall consult with and assist State agencies in the preparation of these
+13 plans; shall provide appropriate personnel or other resources to the participating agencies and to
+14 separate agencies upon request. Plans shall be submitted to the Department by a date determined
+15 by the State CIO in each even-numbered year."
+16 SECTION 2.7.(a) G.S. 115C-150.11(c), as enacted by Section 3J.1(a) of S.L.
+17 2024-57, reads as rewritten:
+18 "(c) Administrative Support. – The Department of Administration shall provide support
+19 to each school in matters related to finance, human resources, and procurement, including
+20 excluding for information technology. Each school shall enter into a memorandum of
+21 understanding with the Department of Administration with regard to this support. No civil
+22 liability shall attach to the Department of Administration, or to any of its employees, individually
+23 or collectively, for any acts or omissions of a school."
+24 SECTION 2.7.(b) This section becomes effective July 1, 2025.
+25
+26 PART III. EFFECTIVE DATE
+27 SECTION 3.1. Except as otherwise provided, this act becomes effective July 1,
+28 2025.
+House Bill 819-First Edition Page 7
+
+[DELETED:  1 D ( R A A A T D O I T C S T  P S " " " ( " e ( C 2 ( " a s ( " P ( H 1 ( I § ( P ( " d m d S d – D r t s p e a c g p a r r d d c ( " m t S – T N C L D S i c r t a t N C L]
+[DELETED:  S  H ( " U a A s b A a h u ( " s i " ( T i w ( F a e t e o s d a a a i ( G b a ( F ( T b s e a i e … " ( T … ( B f a C a p a i o t i s d p S b D a i p t c w F F I H C t I R C a a o p a c D t 1 A 2 P 3 P 4 B 5 D ( O r a o c w F F I H p ( E v i]
+[DELETED:  S  P ( D i d b l s a u a i o h e ( R r r a s p f t a o d r ( E r ( T p ( T C s r a t t J L E O C t J L C o G O a t J L s ( A ( A ( A a " ( T l a d i o t D o P I a t S B o E ( T ( E a ( E p ( T P I T U o N C a t N C S o C c ( T ( S a a d b f t S i d m b t f a T b L s c T d T C C S O a l c c e T p f N g T D o C D o E S h T i T j T]
+[DELETED:  S  H ( E t I R C a o r p l a p i a T b T c P d P p e I g a p t p t r o o ( F i a d r f S a f e r ( F ( D A ( U ( D ( O c ( T s i ( D u ( T F p ( I n ( T ( S ( G o o a f l s a u p s o N ( F ( A t ( O o a d c a m b t S r w t c o " ( L s a u P s c s c c d ( C w t d r a i s f t S ( T d s a s p d b t C u G]
+[DELETED:  S  P ( P c a u t N C I C a U S ( A S  P S i o t S f t D o I T t l t S c i S 2  F – F t 2 f b o t f a m D a ( C ( S s a a r s a a a c ( M i b ( R a S I T R t s o t m e h t d ( s a h a f t p F s b u t d n t i N S " s A a s r o a a a a C t a i t S I T P T S C s c a a u S S f t D o I T ( t a d i e]
+[DELETED:  S  H c r c S t s a a S a t d a o d a i T a ( C ( E ( I ( C ( O e S a s p a d r a a r b t D r c S r T ( A ( R t ( A ( A e S a o e f i t o s p i B a M a t O o t S C s e i t D o t D S " ( T f … ( T ( f ( T S C s d o o m s p f i t f a ( B o r i d t s p p t D T s]
+[DELETED:  S  P … ( A l t ( E p a s a p i p t a i a i t p r u ( o s S a s p b i t p i t r b f i g p s b S 2  G a e b S 3 o S 2 " A t e s i m r t f h r a p i e f i t E s s e i a m o u w t D o A w r t t s N c l o S  P S 2]

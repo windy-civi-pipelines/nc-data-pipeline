@@ -1,0 +1,188 @@
+Title: SENATE BILL 711
+Official Title: SENATE BILL 711
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+Judiciary Committee Substitute Adopted 4/30/25
+Short Title: ROD Removal/Gov. Security Breach Notice Costs. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE A REMOVAL PROCESS FOR REGISTERS OF DEEDS AND TO
+3 REQUIRE THIRD-PARTY ENTITIES THAT CAUSE SECURITY BREACHES TO PAY
+4 FOR OR REIMBURSE NORTH CAROLINA GOVERNMENTS FOR COSTS
+5 ASSOCIATED WITH BREACH NOTIFICATIONS UNDER THE IDENTITY THEFT
+6 PROTECTION ACT.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. ESTABLISHING A REMOVAL PROCESS FOR REGISTERS OF DEEDS
+10 SECTION 1. Article 1 of Chapter 161 of the General Statutes is amended by adding
+11 a new section to read:
+12 "§ 161-11.7. Procedure for removal from office.
+13 (a) Grounds for Removal. – Any register of deeds shall be removed from office by the
+14 judge of the superior court, resident in or holding the courts of the district encompassing the
+15 county in which that register of deeds serves upon charges made in writing, and hearing
+16 thereunder, for the following causes:
+17 (1) For willful or habitual neglect or refusal to perform the duties of his or her
+18 office.
+19 (2) For willful misconduct or maladministration in office.
+20 (3) For corruption.
+21 (4) For extortion.
+22 (5) Upon conviction of a felony.
+23 (6) For intoxication, or upon conviction of being intoxicated.
+24 (b) Petition for Removal; County Attorney to Prosecute. – The complaint or petition shall
+25 be entitled in the name of the State of North Carolina, and may be filed upon the relation of any
+26 five qualified electors of the county in which the person charged is the register of deeds, upon
+27 the approval of the county attorney of such county, or the district attorney of the district, or by
+28 any such officer upon his or her own motion. It shall be the duty of the county attorney or district
+29 attorney to appear and prosecute this proceeding.
+30 (c) Petition Filed With Clerk; What It Shall Contain; Answer. – The accused shall be
+31 named as defendant, and the petition shall be signed by some elector, or by such officer. The
+32 petition shall state the charges against the accused, and may be amended, and shall be filed in the
+33 office of the clerk of the superior court of the county in which the person charged is the register
+34 of deeds. The accused may at any time prior to the time fixed for hearing file in the office of the
+35 clerk of the superior court his or her answer, which shall be verified.
+*S711-v-2*
+General Assembly Of North Carolina Session 2025
+1 (d) Suspension Pending Hearing; How Vacancy Filled. – Upon the filing of the petition
+2 in the office of the clerk of the superior court, and the presentation of the same to the judge, the
+3 judge may suspend the accused from office if in his or her judgment sufficient cause appears
+4 from the petition and affidavit, or affidavits, which may be presented in support of the charges
+5 contained therein. In case of removal, as herein provided, the vacancy shall be filled in the
+6 manner provided by G.S. 161-5.
+7 (e) Precedence on Calendar; Costs. – In the trial of the cause in the superior court, the
+8 cause shall be advanced and take precedence over all other causes upon the court calendar and
+9 shall be heard at the next session after the petition is filed, provided the proceedings are filed in
+10 said court in time for said action to be heard. The superior court shall fix the time of hearing. If
+11 the final termination of such proceedings be favorable to the accused, the accused shall be
+12 allowed the reasonable and necessary expense, including a reasonable attorneys' fee, to be fixed
+13 by the judge, incurred in making his or her defense, by the county. If the action is instituted upon
+14 the complaint of citizens as herein provided, and it appears to the court that there was no
+15 reasonable cause for filing the complaint, the costs may be taxed against the complaining parties."
+16 SECTION 2. G.S. 161-23 reads as rewritten:
+17 "§ 161-23. Clerk to board of commissioners.
+18 The register of deeds, or such other county officer or employee as the board of county
+19 commissioners shall designate in accordance with the provisions of G.S. 153-40, G.S. 153A-111,
+20 shall be ex officio clerk of the board of county commissioners, and as such shall perform the
+21 duties imposed by law or by order of said board."
+22
+23 PART II. SECURITY BREACH NOTIFICATIONS AND ASSOCIATED COSTS
+24 SECTION 3. Article 2A of Chapter 75 of the General Statutes is amended by adding
+25 a new section to read:
+26 "§ 75-67. Governmental entities; breach notification and associated legal fees.
+27 Where a security breach or unauthorized release, as defined in G.S. 75-61 or in any other
+28 applicable State or federal regulation, results from the acts or omissions of a third-party vendor
+29 or contractor, the third-party vendor or contractor shall pay for or reimburse a North Carolina
+30 governmental entity for the full cost of the notifications required by G.S. 75-65 and any
+31 associated legal fees. This payment shall be made either through the third party's cyber liability
+32 insurance provider or through the third party's own entity funds."
+33
+34 PART III. EFFECTIVE DATE
+35 SECTION 4. Section 3 of this act is effective when it becomes law and applies to
+36 acts and omissions occurring on or after that date. The remainder of this act is effective when it
+37 becomes law.
+Page 2 Senate Bill 711-Second Edition
+[DELETED:  2 R (   A A R F O R N C G F C A W B N U T I T P T  P S a " ( G j c i w t r o d s u c m i w a h t ( F o ( F ( F ( F ( U ( F ( P b f t a a ( P n p o o c]
+[DELETED:  S  S ( S i j f c m ( P c s s t f t o s p b f t t a t a s b a b t c o c a h p a i a t t c t t w n r S " T r o o c o a t b c s d  P S a " W a o g e f t f c o t n r b G a a a i  P S a b]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 711
+Judiciary Committee Substitute Adopted 4/30/25
+Short Title: ROD Removal/Gov. Security Breach Notice Costs. (Public)
+Sponsors:
+Referred to:
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE A REMOVAL PROCESS FOR REGISTERS OF DEEDS AND TO
+3 REQUIRE THIRD-PARTY ENTITIES THAT CAUSE SECURITY BREACHES TO PAY
+4 FOR OR REIMBURSE NORTH CAROLINA GOVERNMENTS FOR COSTS
+5 ASSOCIATED WITH BREACH NOTIFICATIONS UNDER THE IDENTITY THEFT
+6 PROTECTION ACT.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. ESTABLISHING A REMOVAL PROCESS FOR REGISTERS OF DEEDS
+10 SECTION 1. Article 1 of Chapter 161 of the General Statutes is amended by adding
+11 a new section to read:
+12 "§ 161-11.7. Procedure for removal from office.
+13 (a) Grounds for Removal. – Any register of deeds shall be removed from office by the
+14 judge of the superior court, resident in or holding the courts of the district encompassing the
+15 county in which that register of deeds serves upon charges made in writing, and hearing
+16 thereunder, for the following causes:
+17 (1) For willful or habitual neglect or refusal to perform the duties of his or her
+18 office.
+19 (2) For willful misconduct or maladministration in office.
+20 (3) For corruption.
+21 (4) For extortion.
+22 (5) Upon conviction of a felony.
+23 (6) For intoxication, or upon conviction of being intoxicated.
+24 (b) Petition for Removal; County Attorney to Prosecute. – The complaint or petition shall
+25 be entitled in the name of the State of North Carolina, and may be filed upon the relation of any
+26 five qualified electors of the county in which the person charged is the register of deeds, upon
+27 the approval of the county attorney of such county, or the district attorney of the district, or by
+28 any such officer upon his or her own motion. It shall be the duty of the county attorney or district
+29 attorney to appear and prosecute this proceeding.
+30 (c) Petition Filed With Clerk; What It Shall Contain; Answer. – The accused shall be
+31 named as defendant, and the petition shall be signed by some elector, or by such officer. The
+32 petition shall state the charges against the accused, and may be amended, and shall be filed in the
+33 office of the clerk of the superior court of the county in which the person charged is the register
+34 of deeds. The accused may at any time prior to the time fixed for hearing file in the office of the
+35 clerk of the superior court his or her answer, which shall be verified.
+*S711-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 (d) Suspension Pending Hearing; How Vacancy Filled. – Upon the filing of the petition
+2 in the office of the clerk of the superior court, and the presentation of the same to the judge, the
+3 judge may suspend the accused from office if in his or her judgment sufficient cause appears
+4 from the petition and affidavit, or affidavits, which may be presented in support of the charges
+5 contained therein. In case of removal, as herein provided, the vacancy shall be filled in the
+6 manner provided by G.S. 161-5.
+7 (e) Precedence on Calendar; Costs. – In the trial of the cause in the superior court, the
+8 cause shall be advanced and take precedence over all other causes upon the court calendar and
+9 shall be heard at the next session after the petition is filed, provided the proceedings are filed in
+10 said court in time for said action to be heard. The superior court shall fix the time of hearing. If
+11 the final termination of such proceedings be favorable to the accused, the accused shall be
+12 allowed the reasonable and necessary expense, including a reasonable attorneys' fee, to be fixed
+13 by the judge, incurred in making his or her defense, by the county. If the action is instituted upon
+14 the complaint of citizens as herein provided, and it appears to the court that there was no
+15 reasonable cause for filing the complaint, the costs may be taxed against the complaining parties."
+16 SECTION 2. G.S. 161-23 reads as rewritten:
+17 "§ 161-23. Clerk to board of commissioners.
+18 The register of deeds, or such other county officer or employee as the board of county
+19 commissioners shall designate in accordance with the provisions of G.S. 153-40, G.S. 153A-111,
+20 shall be ex officio clerk of the board of county commissioners, and as such shall perform the
+21 duties imposed by law or by order of said board."
+22
+23 PART II. SECURITY BREACH NOTIFICATIONS AND ASSOCIATED COSTS
+24 SECTION 3. Article 2A of Chapter 75 of the General Statutes is amended by adding
+25 a new section to read:
+26 "§ 75-67. Governmental entities; breach notification and associated legal fees.
+27 Where a security breach or unauthorized release, as defined in G.S. 75-61 or in any other
+28 applicable State or federal regulation, results from the acts or omissions of a third-party vendor
+29 or contractor, the third-party vendor or contractor shall pay for or reimburse a North Carolina
+30 governmental entity for the full cost of the notifications required by G.S. 75-65 and any
+31 associated legal fees. This payment shall be made either through the third party's cyber liability
+32 insurance provider or through the third party's own entity funds."
+33
+34 PART III. EFFECTIVE DATE
+35 SECTION 4. Section 3 of this act is effective when it becomes law and applies to
+36 acts and omissions occurring on or after that date. The remainder of this act is effective when it
+37 becomes law.
+Page 2 Senate Bill 711-Second Edition
+
+[DELETED:  2 R (   A A R F O R N C G F C A W B N U T I T P T  P S a " ( G j c i w t r o d s u c m i w a h t ( F o ( F ( F ( F ( U ( F ( P b f t a a ( P n p o o c]
+[DELETED:  S  S ( S i j f c m ( P c s s t f t o s p b f t t a t a s b a b t c o c a h p a i a t t c t t w n r S " T r o o c o a t b c s d  P S a " W a o g e f t f c o t n r b G a a a i  P S a b]

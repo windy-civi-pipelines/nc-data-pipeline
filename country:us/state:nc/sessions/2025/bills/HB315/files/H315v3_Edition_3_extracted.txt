@@ -1,0 +1,578 @@
+Title: HOUSE BILL 315
+Official Title: HOUSE BILL 315
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+Committee Substitute Favorable 3/18/25
+Senate Judiciary Committee Substitute Adopted 6/18/25
+Short Title: Gift Card Theft & Unlawful Business Entry. (Public)
+Sponsors:
+Referred to:
+March 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT LITIGATION INVESTMENTS IN THE CIVIL JUSTICE SYSTEM,
+3 TO PREVENT THE CIVIL JUSTICE SYSTEM FROM BECOMING A FINANCIAL
+4 INVESTMENT MARKET, TO AMEND THE WORKERS' COMPENSATION ACT TO
+5 INCREASE CERTAIN BENEFITS UNDER THE SCHEDULE OF INJURIES, AND TO
+6 PROVIDE FOR AUTOMATIC BENEFIT ADJUSTMENTS BASED UPON INCREASES
+7 IN THE CONSUMER PRICE INDEX.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. PROHIBIT LITIGATION INVESTMENTS
+11 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+12 to read:
+13 "Article 52.
+14 "Prohibit Litigation Investments Act.
+15 "§ 66-511. Short title.
+16 This Article may be cited as the Prohibit Litigation Investments Act.
+17 "§ 66-512. Policy and statement of purpose.
+18 (a) It is the policy of this State that the civil justice system function to resolve disputes
+19 on the merits between the parties to the proceeding, redress injured parties for civil wrongs,
+20 provide consistent and fair treatment to all parties, and, above all, to mete out justice. Legal
+21 claims and courthouses in this State are not financial markets for investments and are not vehicles
+22 for third parties to profit by financing a party to a civil proceeding for the purpose of obtaining
+23 and maximizing an investment return. The civil justice system in this State is not a financial
+24 market but is an instrument of justice and must remain distinct from financial markets. The State
+25 seeks to facilitate the creation of wealth and economic opportunity for all North Carolinians
+26 through a predictable legal climate. It is also the policy of this State to protect our courthouses,
+27 judicial system, and national security from hostile foreign actors that participate in litigation
+28 investments for improper purposes.
+29 The General Assembly finds that litigation investment undermines the civil justice system
+30 and threatens national security as follows:
+31 (1) Litigation investors invest in legal claims with the goal of returning a profit,
+32 undermining the purpose of the legal system to render justice.
+33 (2) Litigation investors exert control over claims in which they have invested,
+34 undermining the right of claimants to direct the course of their claims.
+*H315-v-3*
+General Assembly Of North Carolina Session 2025
+1 (3) The involvement of litigation investors in proceedings undermines the
+2 attorney-client relationship and conflicts with the duties of confidentiality and
+3 loyalty that attorneys owe to their clients.
+4 (4) Litigation investors unnecessarily prolong proceedings in pursuit of profits
+5 and prevent settlement based on non-monetary terms, causing the parties to
+6 incur higher costs and wasting judicial resources.
+7 (5) Litigation investors' rejection of reasonable settlement offers results in
+8 defendants paying a premium to settle cases above what the merits of the claim
+9 dictate.
+10 (6) Litigation investment presents a threat to national security by allowing
+11 undisclosed foreign persons and entities to invest in domestic legal claims. By
+12 investing in domestic legal claims, hostile foreign actors are able to impact the
+13 integrity of our court system, undermining our self-government, extract
+14 resources from economic competitors by requiring them to defend or settle
+15 claims beyond what the merits dictate, and obtain sensitive commercial
+16 information and intellectual property through the discovery process. North
+17 Carolina is home to manufacturing, research, and knowledge-based
+18 companies in the technology, aviation, transportation, pharmaceutical health
+19 care, agricultural, and other industries that are targets for hostile foreign
+20 actors.
+21 (7) The threat to national security posed by litigation investment is heightened by
+22 the ability of hostile foreign actors to distract American companies in the
+23 technology and defense sectors from their missions by financing legal claims
+24 against them that require significant resources to defend.
+25 (b) It is the purpose of this Article to further the substantive policy set forth in this section,
+26 to counteract and prevent the negative consequences of litigation investment as found by the
+27 General Assembly, and to maintain the integrity of the civil justice system in this State by broadly
+28 prohibiting non-party investment in legal claims and preventing the transformation of the civil
+29 justice system into a market for financial investment so that North Carolinians can avail
+30 themselves of their right to access the civil justice system free from improper foreign financial
+31 influences.
+32 "§ 66-513. Definitions.
+33 The following definitions apply in this Article:
+34 (1) Civil proceeding. – A civil action, arbitration, mediation, administrative
+35 proceeding, or other proceeding to resolve a civil legal claim.
+36 (2) Immediate family member. – Defined in G.S. 53-244.030.
+37 (3) Litigation investment. – The provision of money, whether as a direct payment,
+38 advancement, loan, investment, or otherwise, for the fees, costs, and expenses
+39 of or related to a pending or potential civil proceeding in exchange for a right
+40 to receive repayment or other consideration that is contingent in any respect
+41 on the outcome of the pending or potential civil proceeding. The term does
+42 not include any of the following:
+43 a. The provision of legal services on a contingency basis in accordance
+44 with the North Carolina Rules of Professional Conduct.
+45 b. An attorney or law firm's advancement of costs and expenses in
+46 accordance with the North Carolina Rules of Professional Conduct.
+47 c. An insurer or other entity's contractual obligation to indemnify or
+48 defend a party to a civil proceeding.
+49 d. The provision of money to or by a nonprofit organization for the fees,
+50 costs, and expenses of a civil proceeding commenced by the nonprofit
+51 organization on behalf of itself or its members so long as any
+Page 2 House Bill 315-Third Edition
+General Assembly Of North Carolina Session 2025
+1 repayment amount is limited to the original amount plus reasonable
+2 interest.
+3 e. The provision of money to or by a nonprofit legal services organization
+4 for the pro bono, cost-free representation of a client in a civil
+5 proceeding so long as any repayment amount is limited to the original
+6 amount plus reasonable interest.
+7 f. A direct loan to a party, law firm, or attorney so long as repayment of
+8 the loan is not contingent on the outcome of any civil proceeding.
+9 g. The provision of money or other financial support to a party for
+10 personal and household expenses during the pendency of a civil
+11 proceeding so long as the money or financial support is not used for
+12 the fees, costs, and expenses of the civil proceeding.
+13 h. The provision of money or other financial support to a party for fees,
+14 costs, and expenses of a civil proceeding so long as the source of the
+15 money or financial support does not receive a right to any portion of
+16 the judgment, settlement, or other monetary relief the party recovers
+17 in the civil proceeding or any other right to receive repayment or other
+18 consideration that is contingent in any respect on the outcome of the
+19 civil proceeding.
+20 i. An immediate family member's provision of money or other financial
+21 support to a party for fees, costs, and expenses of a civil proceeding or
+22 for personal and household expenses during the pendency of a civil
+23 proceeding, regardless of whether the immediate family member
+24 receives a right to any portion of the judgment, settlement, or other
+25 monetary relief the party recovers in the civil proceeding or any other
+26 right to receive repayment or other consideration that is contingent in
+27 any respect on the outcome of the civil proceeding.
+28 "§ 66-514. Prohibition on litigation investment.
+29 It is unlawful for a person to engage in litigation investment in this State or to furnish
+30 litigation investment to a party or counsel of record in a civil proceeding in this State.
+31 "§ 66-515. Enforcement; penalties; remedies.
+32 (a) A contract in violation of this Article is void.
+33 (b) The Attorney General may bring an action to enjoin violations of this Article. In this
+34 action, the court may also impose a civil penalty of up to fifty thousand dollars ($50,000) for
+35 each violation of this Article.
+36 (c) A person injured by a violation of this Article may bring an action to recover damages
+37 and is entitled to elect at judgment between common law damages as measured by the trier of
+38 fact and statutory damages as measured by treble the amount of the full potential litigation
+39 investment contemplated by the investor. The injured person is also entitled to an award of court
+40 costs and reasonable attorneys' fees.
+41 (d) In an action arising under subsection (b) or (c) of this section, a person that has
+42 engaged in the business of litigation investment or furnished litigation investment to a party or
+43 counsel of record in a civil proceeding in this State has purposefully availed itself of the privileges
+44 of conducting business in this State and is subject to suit in this State, whether or not the person
+45 is transacting or has transacted any other business in this State. This Article shall be construed as
+46 a special jurisdiction statute in accordance with G.S. 1-75.4(2).
+47 (e) The remedies and penalties available under this section are in addition to any other
+48 remedies provided for by law.
+49 "§ 66-516. Construction.
+50 This Article shall be liberally construed to effectuate its purpose."
+51
+House Bill 315-Third Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 PART II. UPDATE CERTAIN WORKERS' COMPENSATION BENEFITS
+2 SECTION 2.1.(a) G.S. 97-29 reads as rewritten:
+3 "§ 97-29. Rates and duration of compensation for total incapacity.
+4 (a) When an employee qualifies for total disability, the employer shall pay or cause to be
+5 paid, as hereinafter provided by subsections (b) through (d) of this section, to the injured
+6 employee a weekly compensation equal to sixty-six and two-thirds percent (66 2/3%) of his
+7 average weekly wages, but not more than the amount established annually to be effective January
+8 1 as provided herein, nor less than thirty dollars ($30.00) fifty dollars ($50.00) per week.
+9 Beginning July 1, 2026, and annually thereafter, the North Carolina Industrial Commission shall
+10 raise the maximum compensation herein in accordance with the percentage change in the June
+11 Consumer Price Index computed by the Bureau of Labor Statistics and the June Consumer Price
+12 Index for the prior year, provided that this percentage change is positive. The adjustment shall
+13 be rounded to the nearest dollar ($1.00)."
+14 SECTION 2.1.(b) This section becomes effective July 1, 2026.
+15 SECTION 3.1.(a) G.S. 97-31 reads as rewritten:
+16 "§ 97-31. Schedule of injuries; rate and period of compensation.
+17 In cases included by the following schedule the compensation in each case shall be paid for
+18 disability during the healing period and in addition the disability shall be deemed to continue for
+19 the period specified, and shall be in lieu of all other compensation, including disfigurement, to
+20 wit:
+21 …
+22 (21) In case of serious facial or head disfigurement, the Industrial Commission
+23 shall award proper and equitable compensation not to exceed twenty thousand
+24 dollars ($20,000). thirty-two thousand dollars ($32,000). In case of
+25 enucleation where an artificial eye cannot be fitted and used, the Industrial
+26 Commission may award compensation as for serious facial disfigurement.
+27 (22) In case of serious bodily disfigurement for which no compensation is payable
+28 under any other subdivision of this section, but excluding the disfigurement
+29 resulting from permanent loss or permanent partial loss of use of any member
+30 of the body for which compensation is fixed in the schedule contained in this
+31 section, the Industrial Commission may award proper and equitable
+32 compensation not to exceed ten thousand dollars ($10,000).sixteen thousand
+33 dollars ($16,000).
+34 …
+35 (24) In case of the loss of or permanent injury to any important external or internal
+36 organ or part of the body for which no compensation is payable under any
+37 other subdivision of this section, the Industrial Commission may award proper
+38 and equitable compensation not to exceed twenty thousand dollars
+39 ($20,000).thirty-two thousand dollars ($32,000)."
+40 SECTION 3.1.(b) This section becomes effective July 1, 2026.
+41 SECTION 3.2.(a) G.S. 97-31, as amended by Section 3.1 of this act, reads as
+42 rewritten:
+43 "§ 97-31. Schedule of injuries; rate and period of compensation.
+44 In cases included by the following schedule the compensation in each case shall be paid for
+45 disability during the healing period and in addition the disability shall be deemed to continue for
+46 the period specified, and shall be in lieu of all other compensation, including disfigurement, to
+47 wit:
+48 …
+49 (21) In case of serious facial or head disfigurement, the Industrial Commission
+50 shall award proper and equitable compensation not to exceed thirty-two
+51 thousand dollars ($32,000). forty-four thousand dollars ($44,000). In case of
+Page 4 House Bill 315-Third Edition
+General Assembly Of North Carolina Session 2025
+1 enucleation where an artificial eye cannot be fitted and used, the Industrial
+2 Commission may award compensation as for serious facial disfigurement.
+3 (22) In case of serious bodily disfigurement for which no compensation is payable
+4 under any other subdivision of this section, but excluding the disfigurement
+5 resulting from permanent loss or permanent partial loss of use of any member
+6 of the body for which compensation is fixed in the schedule contained in this
+7 section, the Industrial Commission may award proper and equitable
+8 compensation not to exceed sixteen thousand dollars ($16,000).twenty-two
+9 thousand dollars ($22,000).
+10 …
+11 (24) In case of the loss of or permanent injury to any important external or internal
+12 organ or part of the body for which no compensation is payable under any
+13 other subdivision of this section, the Industrial Commission may award proper
+14 and equitable compensation not to exceed thirty-two thousand dollars
+15 ($32,000).forty-four thousand dollars ($44,000)."
+16 SECTION 3.2.(b) This section becomes effective July 1, 2027.
+17 SECTION 3.3.(a) G.S. 97-31, as amended by Section 3.2 of this act, reads as
+18 rewritten:
+19 "§ 97-31. Schedule of injuries; rate and period of compensation.
+20 In cases included by the following schedule the compensation in each case shall be paid for
+21 disability during the healing period and in addition the disability shall be deemed to continue for
+22 the period specified, and shall be in lieu of all other compensation, including disfigurement, to
+23 wit:
+24 …
+25 (21) In case of serious facial or head disfigurement, the Industrial Commission
+26 shall award proper and equitable compensation not to exceed forty-four
+27 thousand dollars ($44,000). fifty-six thousand dollars ($56,000). In case of
+28 enucleation where an artificial eye cannot be fitted and used, the Industrial
+29 Commission may award compensation as for serious facial disfigurement.
+30 Beginning July 1, 2029, and annually thereafter, the North Carolina Industrial
+31 Commission shall raise the maximum compensation herein in accordance
+32 with the percentage change in the June Consumer Price Index computed by
+33 the Bureau of Labor Statistics and the June Consumer Price Index for the prior
+34 year, provided that this percentage change is positive. The adjustment shall be
+35 rounded to the nearest dollar ($1.00).
+36 (22) In case of serious bodily disfigurement for which no compensation is payable
+37 under any other subdivision of this section, but excluding the disfigurement
+38 resulting from permanent loss or permanent partial loss of use of any member
+39 of the body for which compensation is fixed in the schedule contained in this
+40 section, the Industrial Commission may award proper and equitable
+41 compensation not to exceed twenty-two thousand dollars
+42 ($22,000).twenty-eight thousand dollars ($28,000). Beginning July 1, 2029,
+43 and annually thereafter, the North Carolina Industrial Commission shall raise
+44 the maximum compensation herein in accordance with the percentage change
+45 in the June Consumer Price Index computed by the Bureau of Labor Statistics
+46 and the June Consumer Price Index for the prior year, provided that this
+47 percentage change is positive. The adjustment shall be rounded to the nearest
+48 dollar ($1.00).
+49 …
+50 (24) In case of the loss of or permanent injury to any important external or internal
+51 organ or part of the body for which no compensation is payable under any
+House Bill 315-Third Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 other subdivision of this section, the Industrial Commission may award proper
+2 and equitable compensation not to exceed forty-four thousand dollars
+3 ($44,000).fifty-six thousand dollars ($56,000). Beginning July 1, 2029, and
+4 annually thereafter, the North Carolina Industrial Commission shall raise the
+5 maximum compensation herein in accordance with the percentage change in
+6 the June Consumer Price Index computed by the Bureau of Labor Statistics
+7 and the June Consumer Price Index for the prior year, provided that this
+8 percentage change is positive. The adjustment shall be rounded to the nearest
+9 dollar ($1.00)."
+10 SECTION 3.3.(b) This section becomes effective July 1, 2028.
+11
+12 PART III. EFFECTIVE DATE
+13 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+14 law, and Section 1 of this act applies to civil proceedings commenced on or after that date.
+Page 6 House Bill 315-Third Edition
+[DELETED:  3 G (   A A T P T C J S F B A F I I P I T  P S t " " " T " ( I o p c f a m s t j i T a ( L u ( L u]
+[DELETED:  S  H ( T i o l i i p u t a l ( L a i ( L i r o r s o r i d d ( L i p a t t n s b a u i i o o c s u o s e r c b w t m d a o s c i C i h t m r a k c c a a o i t a t f h f a ( T t t a ( I t G p j s i a m f f i s t N C c a t i " T ( C p – A c a a m a p ( I ( L a o t o n a T w b A a o l f a o c a e i a c A i o o e c o t i o d d T c o o b o i o i m s l a a]
+[DELETED:  S  P r i e T f t p b c r o a c i a c p a f A t g T p o m o o f s t a p f p a h e d t p o a c p t h T c m t i c c i A s f p r o w t i f m r m r a " I i u f a p t e i l i i t S o f l " ( A ( T a e ( A a f a i c ( I t e c o i a ( T r " T ]
+[DELETED:  S  H P S " ( W p a h p b s ( t ( o t s t t i e a 1 a p h n l t t d ( f d ( p w B r C I b S S " I d t w … ( I s d ( t t d ( I c o e C ( I u r o s t I C m a p a e c d … ( I o o a e c n t e t t d ( S S 3  G a a b S 3 o t a r a r " I d t w … ( I s a p a e c n t e t t]
+[DELETED:  S  P e C ( I u r o s t I C m a p a e c t … ( I o o a e c n t e t t d ( S S 3  G a a b S 3 o t a r a r " I d t w … ( I s a p a e c n t e f t e C B C s r t m c h i a w t y r ( I u r o s t I C m a p a e c n t e t t d ( a t i a t J C P I f t p y p t t p d … ( I o]
+[DELETED:  S  H o a e c n t e f t d ( a m t a t J C P I f t p y p t t p d S  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+HOUSE BILL 315
+Committee Substitute Favorable 3/18/25
+Senate Judiciary Committee Substitute Adopted 6/18/25
+Short Title: Gift Card Theft & Unlawful Business Entry. (Public)
+Sponsors:
+Referred to:
+March 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT LITIGATION INVESTMENTS IN THE CIVIL JUSTICE SYSTEM,
+3 TO PREVENT THE CIVIL JUSTICE SYSTEM FROM BECOMING A FINANCIAL
+4 INVESTMENT MARKET, TO AMEND THE WORKERS' COMPENSATION ACT TO
+5 INCREASE CERTAIN BENEFITS UNDER THE SCHEDULE OF INJURIES, AND TO
+6 PROVIDE FOR AUTOMATIC BENEFIT ADJUSTMENTS BASED UPON INCREASES
+7 IN THE CONSUMER PRICE INDEX.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. PROHIBIT LITIGATION INVESTMENTS
+11 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+12 to read:
+13 "Article 52.
+14 "Prohibit Litigation Investments Act.
+15 "§ 66-511. Short title.
+16 This Article may be cited as the Prohibit Litigation Investments Act.
+17 "§ 66-512. Policy and statement of purpose.
+18 (a) It is the policy of this State that the civil justice system function to resolve disputes
+19 on the merits between the parties to the proceeding, redress injured parties for civil wrongs,
+20 provide consistent and fair treatment to all parties, and, above all, to mete out justice. Legal
+21 claims and courthouses in this State are not financial markets for investments and are not vehicles
+22 for third parties to profit by financing a party to a civil proceeding for the purpose of obtaining
+23 and maximizing an investment return. The civil justice system in this State is not a financial
+24 market but is an instrument of justice and must remain distinct from financial markets. The State
+25 seeks to facilitate the creation of wealth and economic opportunity for all North Carolinians
+26 through a predictable legal climate. It is also the policy of this State to protect our courthouses,
+27 judicial system, and national security from hostile foreign actors that participate in litigation
+28 investments for improper purposes.
+29 The General Assembly finds that litigation investment undermines the civil justice system
+30 and threatens national security as follows:
+31 (1) Litigation investors invest in legal claims with the goal of returning a profit,
+32 undermining the purpose of the legal system to render justice.
+33 (2) Litigation investors exert control over claims in which they have invested,
+34 undermining the right of claimants to direct the course of their claims.
+*H315-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 (3) The involvement of litigation investors in proceedings undermines the
+2 attorney-client relationship and conflicts with the duties of confidentiality and
+3 loyalty that attorneys owe to their clients.
+4 (4) Litigation investors unnecessarily prolong proceedings in pursuit of profits
+5 and prevent settlement based on non-monetary terms, causing the parties to
+6 incur higher costs and wasting judicial resources.
+7 (5) Litigation investors' rejection of reasonable settlement offers results in
+8 defendants paying a premium to settle cases above what the merits of the claim
+9 dictate.
+10 (6) Litigation investment presents a threat to national security by allowing
+11 undisclosed foreign persons and entities to invest in domestic legal claims. By
+12 investing in domestic legal claims, hostile foreign actors are able to impact the
+13 integrity of our court system, undermining our self-government, extract
+14 resources from economic competitors by requiring them to defend or settle
+15 claims beyond what the merits dictate, and obtain sensitive commercial
+16 information and intellectual property through the discovery process. North
+17 Carolina is home to manufacturing, research, and knowledge-based
+18 companies in the technology, aviation, transportation, pharmaceutical health
+19 care, agricultural, and other industries that are targets for hostile foreign
+20 actors.
+21 (7) The threat to national security posed by litigation investment is heightened by
+22 the ability of hostile foreign actors to distract American companies in the
+23 technology and defense sectors from their missions by financing legal claims
+24 against them that require significant resources to defend.
+25 (b) It is the purpose of this Article to further the substantive policy set forth in this section,
+26 to counteract and prevent the negative consequences of litigation investment as found by the
+27 General Assembly, and to maintain the integrity of the civil justice system in this State by broadly
+28 prohibiting non-party investment in legal claims and preventing the transformation of the civil
+29 justice system into a market for financial investment so that North Carolinians can avail
+30 themselves of their right to access the civil justice system free from improper foreign financial
+31 influences.
+32 "§ 66-513. Definitions.
+33 The following definitions apply in this Article:
+34 (1) Civil proceeding. – A civil action, arbitration, mediation, administrative
+35 proceeding, or other proceeding to resolve a civil legal claim.
+36 (2) Immediate family member. – Defined in G.S. 53-244.030.
+37 (3) Litigation investment. – The provision of money, whether as a direct payment,
+38 advancement, loan, investment, or otherwise, for the fees, costs, and expenses
+39 of or related to a pending or potential civil proceeding in exchange for a right
+40 to receive repayment or other consideration that is contingent in any respect
+41 on the outcome of the pending or potential civil proceeding. The term does
+42 not include any of the following:
+43 a. The provision of legal services on a contingency basis in accordance
+44 with the North Carolina Rules of Professional Conduct.
+45 b. An attorney or law firm's advancement of costs and expenses in
+46 accordance with the North Carolina Rules of Professional Conduct.
+47 c. An insurer or other entity's contractual obligation to indemnify or
+48 defend a party to a civil proceeding.
+49 d. The provision of money to or by a nonprofit organization for the fees,
+50 costs, and expenses of a civil proceeding commenced by the nonprofit
+51 organization on behalf of itself or its members so long as any
+Page 2 House Bill 315-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 repayment amount is limited to the original amount plus reasonable
+2 interest.
+3 e. The provision of money to or by a nonprofit legal services organization
+4 for the pro bono, cost-free representation of a client in a civil
+5 proceeding so long as any repayment amount is limited to the original
+6 amount plus reasonable interest.
+7 f. A direct loan to a party, law firm, or attorney so long as repayment of
+8 the loan is not contingent on the outcome of any civil proceeding.
+9 g. The provision of money or other financial support to a party for
+10 personal and household expenses during the pendency of a civil
+11 proceeding so long as the money or financial support is not used for
+12 the fees, costs, and expenses of the civil proceeding.
+13 h. The provision of money or other financial support to a party for fees,
+14 costs, and expenses of a civil proceeding so long as the source of the
+15 money or financial support does not receive a right to any portion of
+16 the judgment, settlement, or other monetary relief the party recovers
+17 in the civil proceeding or any other right to receive repayment or other
+18 consideration that is contingent in any respect on the outcome of the
+19 civil proceeding.
+20 i. An immediate family member's provision of money or other financial
+21 support to a party for fees, costs, and expenses of a civil proceeding or
+22 for personal and household expenses during the pendency of a civil
+23 proceeding, regardless of whether the immediate family member
+24 receives a right to any portion of the judgment, settlement, or other
+25 monetary relief the party recovers in the civil proceeding or any other
+26 right to receive repayment or other consideration that is contingent in
+27 any respect on the outcome of the civil proceeding.
+28 "§ 66-514. Prohibition on litigation investment.
+29 It is unlawful for a person to engage in litigation investment in this State or to furnish
+30 litigation investment to a party or counsel of record in a civil proceeding in this State.
+31 "§ 66-515. Enforcement; penalties; remedies.
+32 (a) A contract in violation of this Article is void.
+33 (b) The Attorney General may bring an action to enjoin violations of this Article. In this
+34 action, the court may also impose a civil penalty of up to fifty thousand dollars ($50,000) for
+35 each violation of this Article.
+36 (c) A person injured by a violation of this Article may bring an action to recover damages
+37 and is entitled to elect at judgment between common law damages as measured by the trier of
+38 fact and statutory damages as measured by treble the amount of the full potential litigation
+39 investment contemplated by the investor. The injured person is also entitled to an award of court
+40 costs and reasonable attorneys' fees.
+41 (d) In an action arising under subsection (b) or (c) of this section, a person that has
+42 engaged in the business of litigation investment or furnished litigation investment to a party or
+43 counsel of record in a civil proceeding in this State has purposefully availed itself of the privileges
+44 of conducting business in this State and is subject to suit in this State, whether or not the person
+45 is transacting or has transacted any other business in this State. This Article shall be construed as
+46 a special jurisdiction statute in accordance with G.S. 1-75.4(2).
+47 (e) The remedies and penalties available under this section are in addition to any other
+48 remedies provided for by law.
+49 "§ 66-516. Construction.
+50 This Article shall be liberally construed to effectuate its purpose."
+51
+House Bill 315-Third Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 PART II. UPDATE CERTAIN WORKERS' COMPENSATION BENEFITS
+2 SECTION 2.1.(a) G.S. 97-29 reads as rewritten:
+3 "§ 97-29. Rates and duration of compensation for total incapacity.
+4 (a) When an employee qualifies for total disability, the employer shall pay or cause to be
+5 paid, as hereinafter provided by subsections (b) through (d) of this section, to the injured
+6 employee a weekly compensation equal to sixty-six and two-thirds percent (66 2/3%) of his
+7 average weekly wages, but not more than the amount established annually to be effective January
+8 1 as provided herein, nor less than thirty dollars ($30.00) fifty dollars ($50.00) per week.
+9 Beginning July 1, 2026, and annually thereafter, the North Carolina Industrial Commission shall
+10 raise the maximum compensation herein in accordance with the percentage change in the June
+11 Consumer Price Index computed by the Bureau of Labor Statistics and the June Consumer Price
+12 Index for the prior year, provided that this percentage change is positive. The adjustment shall
+13 be rounded to the nearest dollar ($1.00)."
+14 SECTION 2.1.(b) This section becomes effective July 1, 2026.
+15 SECTION 3.1.(a) G.S. 97-31 reads as rewritten:
+16 "§ 97-31. Schedule of injuries; rate and period of compensation.
+17 In cases included by the following schedule the compensation in each case shall be paid for
+18 disability during the healing period and in addition the disability shall be deemed to continue for
+19 the period specified, and shall be in lieu of all other compensation, including disfigurement, to
+20 wit:
+21 …
+22 (21) In case of serious facial or head disfigurement, the Industrial Commission
+23 shall award proper and equitable compensation not to exceed twenty thousand
+24 dollars ($20,000). thirty-two thousand dollars ($32,000). In case of
+25 enucleation where an artificial eye cannot be fitted and used, the Industrial
+26 Commission may award compensation as for serious facial disfigurement.
+27 (22) In case of serious bodily disfigurement for which no compensation is payable
+28 under any other subdivision of this section, but excluding the disfigurement
+29 resulting from permanent loss or permanent partial loss of use of any member
+30 of the body for which compensation is fixed in the schedule contained in this
+31 section, the Industrial Commission may award proper and equitable
+32 compensation not to exceed ten thousand dollars ($10,000).sixteen thousand
+33 dollars ($16,000).
+34 …
+35 (24) In case of the loss of or permanent injury to any important external or internal
+36 organ or part of the body for which no compensation is payable under any
+37 other subdivision of this section, the Industrial Commission may award proper
+38 and equitable compensation not to exceed twenty thousand dollars
+39 ($20,000).thirty-two thousand dollars ($32,000)."
+40 SECTION 3.1.(b) This section becomes effective July 1, 2026.
+41 SECTION 3.2.(a) G.S. 97-31, as amended by Section 3.1 of this act, reads as
+42 rewritten:
+43 "§ 97-31. Schedule of injuries; rate and period of compensation.
+44 In cases included by the following schedule the compensation in each case shall be paid for
+45 disability during the healing period and in addition the disability shall be deemed to continue for
+46 the period specified, and shall be in lieu of all other compensation, including disfigurement, to
+47 wit:
+48 …
+49 (21) In case of serious facial or head disfigurement, the Industrial Commission
+50 shall award proper and equitable compensation not to exceed thirty-two
+51 thousand dollars ($32,000). forty-four thousand dollars ($44,000). In case of
+Page 4 House Bill 315-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 enucleation where an artificial eye cannot be fitted and used, the Industrial
+2 Commission may award compensation as for serious facial disfigurement.
+3 (22) In case of serious bodily disfigurement for which no compensation is payable
+4 under any other subdivision of this section, but excluding the disfigurement
+5 resulting from permanent loss or permanent partial loss of use of any member
+6 of the body for which compensation is fixed in the schedule contained in this
+7 section, the Industrial Commission may award proper and equitable
+8 compensation not to exceed sixteen thousand dollars ($16,000).twenty-two
+9 thousand dollars ($22,000).
+10 …
+11 (24) In case of the loss of or permanent injury to any important external or internal
+12 organ or part of the body for which no compensation is payable under any
+13 other subdivision of this section, the Industrial Commission may award proper
+14 and equitable compensation not to exceed thirty-two thousand dollars
+15 ($32,000).forty-four thousand dollars ($44,000)."
+16 SECTION 3.2.(b) This section becomes effective July 1, 2027.
+17 SECTION 3.3.(a) G.S. 97-31, as amended by Section 3.2 of this act, reads as
+18 rewritten:
+19 "§ 97-31. Schedule of injuries; rate and period of compensation.
+20 In cases included by the following schedule the compensation in each case shall be paid for
+21 disability during the healing period and in addition the disability shall be deemed to continue for
+22 the period specified, and shall be in lieu of all other compensation, including disfigurement, to
+23 wit:
+24 …
+25 (21) In case of serious facial or head disfigurement, the Industrial Commission
+26 shall award proper and equitable compensation not to exceed forty-four
+27 thousand dollars ($44,000). fifty-six thousand dollars ($56,000). In case of
+28 enucleation where an artificial eye cannot be fitted and used, the Industrial
+29 Commission may award compensation as for serious facial disfigurement.
+30 Beginning July 1, 2029, and annually thereafter, the North Carolina Industrial
+31 Commission shall raise the maximum compensation herein in accordance
+32 with the percentage change in the June Consumer Price Index computed by
+33 the Bureau of Labor Statistics and the June Consumer Price Index for the prior
+34 year, provided that this percentage change is positive. The adjustment shall be
+35 rounded to the nearest dollar ($1.00).
+36 (22) In case of serious bodily disfigurement for which no compensation is payable
+37 under any other subdivision of this section, but excluding the disfigurement
+38 resulting from permanent loss or permanent partial loss of use of any member
+39 of the body for which compensation is fixed in the schedule contained in this
+40 section, the Industrial Commission may award proper and equitable
+41 compensation not to exceed twenty-two thousand dollars
+42 ($22,000).twenty-eight thousand dollars ($28,000). Beginning July 1, 2029,
+43 and annually thereafter, the North Carolina Industrial Commission shall raise
+44 the maximum compensation herein in accordance with the percentage change
+45 in the June Consumer Price Index computed by the Bureau of Labor Statistics
+46 and the June Consumer Price Index for the prior year, provided that this
+47 percentage change is positive. The adjustment shall be rounded to the nearest
+48 dollar ($1.00).
+49 …
+50 (24) In case of the loss of or permanent injury to any important external or internal
+51 organ or part of the body for which no compensation is payable under any
+House Bill 315-Third Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 other subdivision of this section, the Industrial Commission may award proper
+2 and equitable compensation not to exceed forty-four thousand dollars
+3 ($44,000).fifty-six thousand dollars ($56,000). Beginning July 1, 2029, and
+4 annually thereafter, the North Carolina Industrial Commission shall raise the
+5 maximum compensation herein in accordance with the percentage change in
+6 the June Consumer Price Index computed by the Bureau of Labor Statistics
+7 and the June Consumer Price Index for the prior year, provided that this
+8 percentage change is positive. The adjustment shall be rounded to the nearest
+9 dollar ($1.00)."
+10 SECTION 3.3.(b) This section becomes effective July 1, 2028.
+11
+12 PART III. EFFECTIVE DATE
+13 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+14 law, and Section 1 of this act applies to civil proceedings commenced on or after that date.
+Page 6 House Bill 315-Third Edition
+
+[DELETED:  3 G (   A A T P T C J S F B A F I I P I T  P S t " " " T " ( I o p c f a m s t j i T a ( L u ( L u]
+[DELETED:  S  H ( T i o l i i p u t a l ( L a i ( L i r o r s o r i d d ( L i p a t t n s b a u i i o o c s u o s e r c b w t m d a o s c i C i h t m r a k c c a a o i t a t f h f a ( T t t a ( I t G p j s i a m f f i s t N C c a t i " T ( C p – A c a a m a p ( I ( L a o t o n a T w b A a o l f a o c a e i a c A i o o e c o t i o d d T c o o b o i o i m s l a a]
+[DELETED:  S  P r i e T f t p b c r o a c i a c p a f A t g T p o m o o f s t a p f p a h e d t p o a c p t h T c m t i c c i A s f p r o w t i f m r m r a " I i u f a p t e i l i i t S o f l " ( A ( T a e ( A a f a i c ( I t e c o i a ( T r " T ]
+[DELETED:  S  H P S " ( W p a h p b s ( t ( o t s t t i e a 1 a p h n l t t d ( f d ( p w B r C I b S S " I d t w … ( I s d ( t t d ( I c o e C ( I u r o s t I C m a p a e c d … ( I o o a e c n t e t t d ( S S 3  G a a b S 3 o t a r a r " I d t w … ( I s a p a e c n t e t t]
+[DELETED:  S  P e C ( I u r o s t I C m a p a e c t … ( I o o a e c n t e t t d ( S S 3  G a a b S 3 o t a r a r " I d t w … ( I s a p a e c n t e f t e C B C s r t m c h i a w t y r ( I u r o s t I C m a p a e c n t e t t d ( a t i a t J C P I f t p y p t t p d … ( I o]
+[DELETED:  S  H o a e c n t e f t d ( a m t a t J C P I f t p y p t t p d S  P S l]

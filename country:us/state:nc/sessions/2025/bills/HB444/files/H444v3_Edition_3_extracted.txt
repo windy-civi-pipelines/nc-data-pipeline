@@ -1,0 +1,1922 @@
+Title: HOUSE BILL 444
+Official Title: HOUSE BILL 444
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+Committee Substitute Favorable 4/17/25
+Committee Substitute #2 Favorable 5/6/25
+Short Title: Homeowners Association Reform Bill. (Public)
+Sponsors:
+Referred to:
+March 20, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS GOVERNING UNIT OWNERS'
+3 ASSOCIATIONS AND LOT OWNERS' ASSOCIATIONS, TO MANDATE
+4 PRELITIGATION MEDIATION OF DISPUTES BETWEEN OWNERS' ASSOCIATIONS
+5 AND THEIR MEMBERS, AND TO REQUIRE THE DEPARTMENT OF JUSTICE TO
+6 COLLECT AND REPORT ON COMPLAINTS SUBMITTED TO IT INVOLVING SUCH
+7 DISPUTES.
+8 The General Assembly of North Carolina enacts:
+9 SECTION 1. Chapter 47C of the General Statutes is amended by adding a new
+10 section to read:
+11 "§ 47C-2-117.1A. Declaration amendments applicability.
+12 Amendments made to the declaration pursuant to G.S. 47C-2-117 shall only affect unit
+13 owners whose units are conveyed or transferred after the amendment takes effect. For
+14 amendments made while a unit owner owns a unit, the amendment has no effect until the unit is
+15 conveyed or transferred to another unit owner. A unit owner takes the unit subject to existing
+16 rules in the declaration at the time of conveyance or transfer of the unit."
+17 SECTION 2. Chapter 47F of the General Statutes is amended by adding a new
+18 section to read:
+19 "§ 47F-2-117.1. Declaration amendments applicability.
+20 Amendments made to the declaration pursuant to G.S. 47F-2-117 shall only affect lot owners
+21 whose lots are conveyed or transferred after the amendment takes effect. For amendments made
+22 while a lot owner owns a lot, the amendment has no effect until the lot is conveyed or transferred
+23 to another lot owner. A lot owner takes the lot subject to existing rules in the declaration at the
+24 time of conveyance or transfer of the lot."
+25 SECTION 3. G.S. 47C-3-102(a) reads as rewritten:
+26 "§ 47C-3-102. Powers of unit owners' association.
+27 (a) Unless the declaration expressly provides to the contrary, the association, even if
+28 unincorporated, may do all of the following:
+29 …
+30 (3) Hire and terminate managing agents and other employees, agents, and
+31 independent contractors. A contract between an association and a managing
+32 agent shall not have a term exceeding one year and shall not contain an
+33 automatic renewal provision that requires the association to give notice of
+34 nonrenewal more than 30 days prior to the contract's anniversary date. Any
+35 contract with a managing agent that is automatically renewed shall be
+*H444-v-3*
+General Assembly Of North Carolina Session 2025
+1 terminable by the association for any reason upon 60 days' notice. A managing
+2 agent shall not be compensated in whole or in part based on the amount of
+3 fines collected by the managing agent on behalf of the association and shall
+4 not collect from the association or a unit owner any fee in connection with its
+5 collection of a fine imposed by the association.
+6 …
+7 (6) Regulate the use, maintenance, repair, replacement, and modification of
+8 common elements.elements; provided, however, that in the absence of an
+9 express authorization in the declaration, an association shall not enforce any
+10 restriction on parking of a personal vehicle on a public street or public road
+11 for which the North Carolina Department of Transportation or local
+12 government has assumed responsibility for maintenance and repairs, unless
+13 the authority to regulate such parking has been expressly delegated to the
+14 association by the Department of Transportation or local government under
+15 terms prescribing the manner in which the association may exercise that
+16 authority. Any such delegation shall be valid for a period not to exceed five
+17 years, at which time the association must reapply to the delegating entity. As
+18 used in this subdivision, "personal vehicle" means an automobile with a gross
+19 weight of less than 26,001 pounds that is used for personal pleasure, travel, or
+20 commuting to and from a place of work, and does not include a motor home
+21 or self-propelled recreational vehicle, or an automobile that is otherwise used
+22 primarily in connection with any commercial endeavor or business.
+23 …
+24 (11) Impose charges for late payment of assessments, not to exceed the greater of
+25 twenty dollars ($20.00) per month or ten percent (10%) of any assessment
+26 installment unpaid and, after notice and an opportunity to be heard, suspend
+27 privileges or services provided by the association (except rights of access to
+28 lots) during any period that assessments or other amounts due and owing to
+29 the association remain unpaid for a period of 30 days or longer, and levy
+30 reasonable fines not to exceed one hundred dollars
+31 ($100.00)(G.S. 47C-3-107.1) for violations of the declaration, bylaws, and
+32 rules and regulations of the association. No fine shall be levied for violation
+33 of a provision restricting or prohibiting tutoring, educational lessons,
+34 academic lessons, or swimming lessons provided in the owner's unit to a group
+35 of no more than five people at any one time, regardless of whether
+36 compensation is received for such lessons.
+37 …
+38 (12b) Impose a reasonable charge for providing copies of records requested by a
+39 member, not to exceed the actual cost of photocopying the records.
+40 …
+41 (14a) Exercise any authority granted to it under the declaration to approve or
+42 disapprove any proposed changes to a unit or limited common element. In
+43 exercising such authority, the association shall provide a fair, reasonable, and
+44 expeditious procedure for making its decision, which procedure shall be set
+45 forth in the association's governing documents. The procedures shall state the
+46 maximum time for issuance of any decision on a proposal or a request for
+47 reconsideration. At a minimum, a decision shall be made within 90 days after
+48 the initial submission of the proposal or submission of any additional
+49 information or changes to the proposal requested by the association in
+50 response to the initial submission. A decision shall be in writing, shall be made
+51 in good faith, and may not be unreasonable, arbitrary, or capricious. If the
+Page 2 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 proposal is disapproved, the decision shall include both an explanation of why
+2 the proposal is disapproved and a description of the procedure for
+3 reconsideration of the decision by the executive board.
+4 …."
+5 SECTION 4.(a) G.S. 47C-3-103 reads as rewritten:
+6 "§ 47C-3-103. Executive board members and officers.
+7 …
+8 (c) Within 30 days after adoption of any proposed budget for the condominium, the
+9 executive board shall provide a summary of the budget to all the unit owners, and shall set a date
+10 for a meeting of the unit owners to consider ratification of the budget not less than 10 nor more
+11 than 60 days after mailing of the summary. There shall be no requirement that a quorum be
+12 present at the meeting. The budget is ratified unless at that meeting a majority of all the unit
+13 owners or any larger vote specified in the declaration rejects the budget. In the event the proposed
+14 budget is rejected, the periodic budget last ratified shall be continued until such time as the unit
+15 owners ratify a subsequent budget proposed by the executive board.
+16 (c1) After ratification of the budget, no action may be taken by the executive board that
+17 would increase the budgeted common expense liability for that fiscal year by more than five
+18 percent (5%) without the approval of a majority of all the unit owners or any larger vote specified
+19 in the declaration.
+20 …."
+21 SECTION 4.(b) G.S. 47F-3-103 reads as rewritten:
+22 "§ 47F-3-103. Executive board members and officers.
+23 …
+24 (c) Within 30 days after adoption of any proposed budget for the planned community,
+25 the executive board shall provide to all the lot owners a summary of the budget and a notice of
+26 the meeting to consider ratification of the budget, including a statement that the budget may be
+27 ratified without a quorum. The executive board shall set a date for a meeting of the lot owners to
+28 consider ratification of the budget, such meeting to be held not less than 10 nor more than 60
+29 days after mailing of the summary and notice. There shall be no requirement that a quorum be
+30 present at the meeting. The budget is ratified unless at that meeting a majority of all the lot owners
+31 in the association or any larger vote specified in the declaration rejects the budget. In the event
+32 the proposed budget is rejected, the periodic budget last ratified by the lot owners shall be
+33 continued until such time as the lot owners ratify a subsequent budget proposed by the executive
+34 board.
+35 (c1) After ratification of the budget, no action may be taken by the executive board that
+36 would increase the budgeted common expense liability for that fiscal year by more than five
+37 percent (5%) without the approval of a majority of all the lot owners or any larger vote specified
+38 in the declaration.
+39 …."
+40 SECTION 5. G.S. 47C-3-107.1 reads as rewritten:
+41 "§ 47C-3-107.1. Procedures for fines and suspension of condominium privileges or services.
+42 Unless a specific procedure for the imposition of fines or suspension of condominium
+43 privileges or services is provided for in the declaration, a hearing shall be held before the
+44 executive board or an adjudicatory panel appointed by the executive board to determine if any
+45 unit owner should be fined or if condominium privileges or services should be suspended
+46 pursuant to the powers granted to the association in G.S. 47C-3-102(11). Any adjudicatory panel
+47 appointed by the executive board shall be composed of members of the association who are not
+48 officers of the association or members of the executive board. The unit owner charged shall be
+49 given notice of the charge, opportunity to be heard and to present evidence, and notice of the
+50 decision. A written notice of hearing shall be sent to the unit owner as provided in
+51 G.S. 47C-3-116(e)(3) not less than 10 days prior to the scheduled hearing date. The notice of
+House Bill 444-Third Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 hearing shall specify the date, time, and place of the hearing and shall include a general
+2 description of each alleged violation and the action, if any, to cure each alleged violation. The
+3 unit owner shall be given an opportunity to be heard and to present evidence at the hearing. A
+4 written notice of the decision specifying each violation verified by the evidence and the action,
+5 if any, to cure each verified violation shall be sent to the unit owner as provided in
+6 G.S. 47C-3-116(e)(3). If it is decided that a fine should be imposed, a fine not to exceed one
+7 hundred dollars ($100.00) may be imposed for the violation and without further hearing, for each
+8 day more than five days after the decision that the violation occurs. occurs, up to a maximum
+9 fine of two thousand five hundred dollars ($2,500). Such fines shall be assessments secured by
+10 liens under G.S. 47C-3-116. If it is decided that a suspension of condominium privileges or
+11 services should be imposed, the suspension may be continued without further hearing until the
+12 violation or delinquency is cured. A unit owner may appeal a decision of an adjudicatory panel
+13 to the full executive board by delivering written notice of appeal to the executive board within
+14 15 days after the date of the decision. The executive board may affirm, vacate, or modify the
+15 prior decision of the adjudicatory body."
+16 SECTION 6. G.S. 47C-3-116 reads as rewritten:
+17 "§ 47C-3-116. Lien for sums due the association; enforcement.
+18 (a) Any assessment attributable to a unit which remains unpaid for a period of 30 days or
+19 longer shall constitute a lien on that unit when a claim of lien is filed of record in the office of
+20 the clerk of superior court of the county in which the unit is located in the manner provided in
+21 this section. A claim of lien securing a debt consisting of fines or fine-related charges shall be
+22 filed separately from a claim of lien securing other sums owed to the association and shall be
+23 filed within 90 days after the date the fine was imposed. As used in this section, "fines or
+24 fine-related charges" means fines imposed by the association, interest on unpaid fines, or
+25 attorneys' fees incurred by the association related to fines imposed by the association. Once filed,
+26 a claim of lien secures all sums due the association through the date filed and any sums due to
+27 the association thereafter. Unless the declaration provides otherwise, fees, charges, late charges
+28 and other charges imposed pursuant to G.S. 47C-3-102, 47C-3-107, 47C-3-107.1, and 47C-3-115
+29 are subject to the claim claims of lien provided for under this section as well as any other sums
+30 due and payable to the association under the declaration, the provisions of this Chapter, or as the
+31 result of an arbitration, mediation, or judicial decision.
+32 (b) The association must provide proper notice of delinquent assessments to the unit
+33 owner before filing a claim of lien. The association must make reasonable and diligent efforts
+34 ensure that its records contain the unit owner's current physical mailing address. address and
+35 current electronic mailing address. No fewer than 15 days prior to filing the lien, the association
+36 shall mail do all of the following:
+37 (1) Mail a statement of the assessment amount due by first class mail to the
+38 physical address of the unit and the unit owner's address of record with the
+39 association and, if different, to the address for the unit owner shown on the
+40 county tax records for the unit. If the unit owner is a corporation or limited
+41 liability company, the statement shall also be sent by first class mail to the
+42 mailing address of the registered agent for the corporation or limited liability
+43 company. Notwithstanding anything to the contrary in this Chapter, the
+44 association is not required to mail a statement to an address known to be a
+45 vacant unit or to a unit for which there is no United States postal address.
+46 (2) Send a statement of the assessment amount due via electronic mail if the
+47 owner has designated an email address as provided in G.S. 55A-1-70(b).
+48 (c) A claim of lien shall set forth the name and address of the association, the name of
+49 the record owner of the unit at the time the claim of lien is filed, a description of the unit, and the
+50 amount of the lien claimed. A claim of lien may also appoint a trustee to conduct a foreclosure
+51 as provided in subsection (f) of this section. The first page of the claim of lien shall contain the
+Page 4 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 following statement in print that is in boldface, capital letters, and no smaller than the largest
+2 print used elsewhere in the document:
+3 "THIS DOCUMENT CONSTITUTES A LIEN AGAINST YOUR PROPERTY, AND IF THE
+4 LIEN IS NOT PAID, THE HOMEOWNERS ASSOCIATION MAY PROCEED WITH
+5 FORECLOSURE ENFORCEMENT AGAINST YOU AND YOUR PROPERTY IN LIKE
+6 MANNER AS A MORTGAGE AS PERMITTED UNDER NORTH CAROLINA LAW."
+7 The person signing the claim of lien on behalf of the association shall attach to and file with
+8 the claim of lien a certificate of service attesting to the attempt of service on the record owner,
+9 which service shall be attempted in accordance with G.S. 1A-1, Rule 4(j), for service of a copy
+10 of a summons and a complaint. If the actual service is not achieved, the person signing the claim
+11 of lien on behalf of the association shall be deemed to have met the requirements of this
+12 subsection if service has been attempted pursuant to both of the following: (i) G.S. 1A-1, Rule
+13 4(j)(1)c, d, or e and (ii) by mailing a copy of the lien by regular, first class mail, postage prepaid
+14 to the physical address of the unit and the unit owner's address of record with the association,
+15 and, if different, to the address for the unit owner shown on the county tax records and the county
+16 real property records for the unit. The association shall also send the owner a copy of the claim
+17 of lien and certificate of service by email if the owner has designated an email address as provided
+18 in G.S. 55A-1-70(b). In the event that the owner of record is not a natural person, and actual
+19 service is not achieved, the person signing the claim of lien on behalf of the association shall be
+20 deemed to have met the requirements of this subsection if service has been attempted once
+21 pursuant to the applicable provisions of G.S. 1A-1, Rule 4(j)(3) through G.S. 1A-1, Rule 4(j)(9).
+22 Notwithstanding anything to the contrary in this Chapter, the association is not required to mail
+23 a claim of lien to an address which is known to be a vacant unit or to a unit for which there is no
+24 United States postal address. A lien for unpaid assessments is extinguished unless proceedings
+25 to enforce the lien are instituted within three years after the filing of the claim of lien in the office
+26 of the clerk of superior court. A lien securing a debt consisting of fines or fine-related charges is
+27 extinguished unless proceedings to enforce the lien are instituted within one year after the filing
+28 of the claim of lien in the office of the clerk of superior court.
+29 (d) A claim of lien filed under this section is prior to all liens and encumbrances on a unit
+30 except (i) liens and encumbrances, specifically including, but not limited to, a mortgage or deed
+31 of trust on the unit, recorded before the filing of the claim of lien in the office of the clerk of
+32 superior court and (ii) liens for real estate taxes and other governmental assessments and charges
+33 against the unit. This subsection does not affect the priority of mechanics' or materialmen's liens.
+34 (e) Attorneys' Fees. –
+35 (1) The association shall be entitled to recover the reasonable attorneys' fees and
+36 costs it incurs in connection with the collection of any sums due. due, except
+37 as otherwise provided in subdivision (2) of this subsection.
+38 (2) In an action to enforce a claim of lien securing a debt consisting of fines or
+39 fine-related charges, upon findings by the court (i) that there was an
+40 unwarranted refusal by the unit owner to negotiate or pay the fines or
+41 fine-related charges and (ii) that the amount of damages recovered exceeded
+42 the highest offer made by the unit owner no later than 90 days before the
+43 commencement of trial, the presiding judge may, in the judge's discretion,
+44 allow reasonable attorneys' fees to the duly licensed attorneys representing the
+45 association obtaining a judgment for damages in said suit, in an amount not to
+46 exceed ten thousand dollars ($10,000) or fifteen percent (15%) of the amount
+47 recovered, whichever is greater, said attorneys' fees to be taxed as a part of the
+48 court costs. When making an award of attorneys' fees under this subdivision,
+49 the judge shall issue a written order including findings of fact detailing the
+50 factual basis for the finding of an unwarranted refusal to negotiate or pay the
+51 debt secured by the claim of lien, and setting forth the amount of the highest
+House Bill 444-Third Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 offer made by the unit owner 90 days or more before the commencement of
+2 trial, and the amount of damages recovered, as well as the factual basis and
+3 amount of any such attorneys' fees to be awarded.
+4 (3) A unit owner may not be required to pay attorneys' fees and court costs until
+5 the unit owner is notified in writing of the association's intent to seek payment
+6 of attorneys' fees, costs, and expenses. The notice must be sent by first-class
+7 mail to the physical address of the unit and the unit owner's address of record
+8 with the association and, if different, to the address for the unit owner shown
+9 on the county tax records for the unit. The association must make reasonable
+10 and diligent efforts to ensure that its records contain the unit owner's current
+11 mailing address. Notwithstanding anything to the contrary in this Chapter,
+12 there shall be no requirement that notice under this subsection be mailed to an
+13 address which is known to be a vacant unit or a unit for which there is no
+14 United States postal address. The notice shall set out the outstanding balance
+15 due as of the date of the notice and state that the unit owner has 15 days from
+16 the mailing of the notice by first-class mail to pay the outstanding balance
+17 without the attorneys' fees and court costs. If the unit owner pays the
+18 outstanding balance within this period, then the unit owner shall have no
+19 obligation to pay attorneys' fees, costs, or expenses. The notice shall also
+20 inform the unit owner of the opportunity to contact a representative of the
+21 association to discuss a payment schedule for the outstanding balance as
+22 provided in subsection (i) of this section and shall provide the name and
+23 telephone number of the representative.
+24 (f) Except as provided in subsection (h) of this section, the association, acting through
+25 the executive board, may foreclose a claim of lien securing a debt consisting of sums due the
+26 association other than fines or fine-related charges in like manner as a mortgage or deed of trust
+27 on real estate under power of sale, as provided in Article 2A of Chapter 45 of the General Statutes,
+28 if the assessment remains unpaid delinquency has continued for 90 180 days or more. The
+29 association shall not foreclose the claim of lien unless the all of the following conditions are met:
+30 (1) The executive board votes to commence the proceeding against the specific
+31 unit.
+32 (2) The amount of the lien is equal to or greater than six months of assessments
+33 or equal to or greater than two thousand five hundred dollars ($2,500),
+34 whichever is less.
+35 (3) The association offered the unit owner a reasonable opportunity to cure the
+36 default by making payments under an installment schedule as authorized
+37 under subsection (i) of this section, and the unit owner either did not accept
+38 the offer or defaulted on payments required under the agreed installment
+39 schedule.
+40 (f1) The following provisions and procedures shall be applicable to and complied with in
+41 every nonjudicial power of sale foreclosure of a claim of lien, and these provisions and
+42 procedures shall control to the extent they are inconsistent or in conflict with the provisions of
+43 Article 2A of Chapter 45 of the General Statutes:
+44 …
+45 (5) After the association has filed a claim of lien and prior to the commencement
+46 of a nonjudicial foreclosure, the association shall give to the unit owner notice
+47 of the association's intention to commence a nonjudicial foreclosure to enforce
+48 its claim of lien. The notice shall contain the information required in
+49 G.S. 45-21.16(c)(5a).G.S. 45-21.16(c)(5) and G.S. 45-21.16(c)(5a) and shall
+50 specifically reference the unit owner's right of redemption provided under
+51 subdivision (8) of this subsection. The notice shall be sent by first-class mail
+Page 6 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 to the physical address of the unit and the unit owner's address of record with
+2 the association and, if different, to the address for the unit owner shown on
+3 the county tax records for the unit.
+4 (5a) The notice of hearing required pursuant to G.S. 45-21.16(a) shall be
+5 accompanied by the association's certification of the actions it has taken to
+6 give the owner notice of delinquent assessments in compliance with
+7 subsection (b) of this section.
+8 (5b) At the commencement of the hearing, the clerk shall inquire as to whether the
+9 owner occupies the unit as the owner's principal residence. If it appears that
+10 the owner does currently occupy the unit as a principal residence, the clerk
+11 shall further inquire as to the efforts the association has made to communicate
+12 with the owner and to attempt to resolve the matter voluntarily before the
+13 foreclosure proceeding. The clerk's inquiry shall not be required if the
+14 association has submitted, at or before the hearing, an affidavit briefly
+15 describing any efforts that have been made to resolve the default with the
+16 owner and the results of any such efforts.
+17 (5c) The clerk shall order the hearing continued if the clerk finds that there is good
+18 cause to believe that additional time or additional measures have a reasonable
+19 likelihood of resolving the delinquency without foreclosure. In determining
+20 whether to continue the hearing, the clerk may consider (i) whether the
+21 association has offered the debtor an opportunity to resolve the foreclosure
+22 under a payment schedule pursuant to subsection (i) of this section, (ii)
+23 whether the association has engaged in actual responsive communication with
+24 the owner, including telephone conferences or in-person meetings with the
+25 owner or other actual two-party communications, (iii) whether the owner has
+26 indicated that the owner has the intent and ability to resolve the delinquency
+27 by making future payments under a payment plan, and (iv) whether the
+28 initiation or continuance of good-faith voluntary resolution efforts between
+29 the parties may resolve the matter without a foreclosure sale. Where good
+30 cause exists to continue the hearing, the clerk shall order the hearing continued
+31 to a date and time certain not more than 90 days from the date scheduled for
+32 the original hearing. Nothing in this part shall limit the authority of the clerk
+33 to continue a hearing for other good cause shown.
+34 …
+35 (g) The provisions of subsection (f) of this section do not prohibit or prevent an
+36 association from pursuing judicial foreclosure of a claim of lien, lien securing a debt consisting
+37 of sums due the association other than fines and fine-related charges, from taking other actions
+38 to recover the sums due the association, or from accepting a deed in lieu of foreclosure. Any
+39 judgment, decree, or order in any judicial foreclosure or civil action relating to the collection of
+40 assessments shall include an award of costs and reasonable attorneys' fees for the prevailing
+41 party, which shall not be subject to the limitation provided in subdivision (f)(12) of this section.
+42 (h) A claim of lien securing a debt consisting solely of fines imposed by the association,
+43 interest on unpaid fines, or attorneys' fees incurred by the association solely associated with fines
+44 imposed by the association or fine-related charges may only be enforced by judicial foreclosure,
+45 as provided in Article 29A of Chapter 1 of the General Statutes. the filing of a civil action seeking
+46 a judgment. In addition, an association shall not levy, charge, or attempt to collect a service,
+47 collection, consulting, or administration fee from any unit owner unless the fee is expressly
+48 allowed in the declaration, and any claim of lien securing a debt consisting solely of these fees
+49 may only be enforced by judicial foreclosure, as provided in Article 29A of Chapter 1 of the
+50 General Statutes.the filing of a civil action seeking a judgment. Liens arising as a result of the
+House Bill 444-Third Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 entry of a judgment in favor of the association in any such civil action shall relate back and be
+2 effective as of the date the claim of lien was filed.
+3 …."
+4 SECTION 7. G.S. 47C-3-118 reads as rewritten:
+5 "§ 47C-3-118. Association records.
+6 (a) The association shall keep financial records sufficiently detailed to enable the
+7 association to comply with this chapter. All financial and other records, including records of
+8 meetings of the association and executive board, shall be made reasonably available for
+9 examination by any unit owner and the unit owner's authorized agents as required by the bylaws
+10 and by Chapter 55A of the General Statutes if the association is a nonprofit corporation. If the
+11 bylaws do not specify a shorter time, the association shall make the requested records reasonably
+12 available for examination within 30 days of receiving the unit owner's written request. Except as
+13 otherwise provided in the bylaws, the association is not required to make available for
+14 examination financial records created more than three years before the date on which the
+15 association receives the unit owner's written request. If the bylaws do not specify particular
+16 records to be maintained, the association shall keep accurate records of all cash receipts and
+17 expenditures and all assets and liabilities. In addition to any specific information that is required
+18 by the bylaws to be assembled and reported to the unit owners at specified times, the association
+19 shall make an annual income and expense statement and balance sheet available to all unit owners
+20 at no charge and within 75 days after the close of the fiscal year to which the information relates.
+21 Notwithstanding the bylaws, a more extensive compilation, review, or audit of the association's
+22 books and records for the current or immediately preceding fiscal year may be required by a vote
+23 of the majority of the executive board or by the affirmative vote of a majority of the unit owners
+24 present and voting in person or by proxy at any annual meeting or any special meeting duly called
+25 for that purpose.
+26 (a1) A unit owner or the unit owner's authorized agent is entitled to inspect and copy, at a
+27 reasonable time and location specified by the association, any contract entered into by the
+28 association authorizing a managing agent to exercise any of the powers granted to the association
+29 pursuant to G.S. 47C-3-102, if the unit owner gives the association written notice of the demand
+30 at least five business days before the date on which the unit owner wishes to inspect and copy
+31 and the request satisfies the conditions for inspection set forth in G.S. 55A-16-02(c). A demand
+32 to inspect made pursuant to this subsection shall be presumed to have been made in good faith
+33 and for a proper purpose. In any action to compel the inspection and copying of documents, the
+34 court may award reasonable attorneys' fees to the prevailing party. If the association does not
+35 allow a unit owner who complies with this subsection to inspect and copy the requested contract,
+36 and, if a court of competent jurisdiction thereafter enters an order compelling the association to
+37 do so, the court shall also order the association to pay the unit owner's costs, including reasonable
+38 attorneys' fees, incurred to obtain the order.
+39 …."
+40 SECTION 8. G.S. 47F-3-102 reads as rewritten:
+41 "§ 47F-3-102. Powers of owners' association.
+42 Unless the articles of incorporation or the declaration expressly provides to the contrary, the
+43 association may do all of the following:
+44 …
+45 (3) Hire and discharge managing agents and other employees, agents, and
+46 independent contractors. A contract between an association and a managing
+47 agent shall not have a term exceeding one year and shall not contain an
+48 automatic renewal provision that requires the association to give notice of
+49 nonrenewal more than 30 days prior to the contract's anniversary date. Any
+50 contract with a managing agent that is automatically renewed shall be
+51 terminable by the association for any reason upon 60 days' notice. A managing
+Page 8 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 agent shall not be compensated in whole or in part based on the amount of
+2 fines collected by the managing agent on behalf of the association and shall
+3 not collect from the association or a lot owner any fee in connection with its
+4 collection of a fine imposed by the association.
+5 …
+6 (6) Regulate the use, maintenance, repair, replacement, and modification of
+7 common elements.elements; provided, however, that in the absence of an
+8 express authorization in the declaration, an association shall not enforce any
+9 restriction on parking of a personal vehicle on a public street or public road
+10 for which the North Carolina Department of Transportation or local
+11 government has assumed responsibility for maintenance and repairs, unless
+12 the authority to regulate such parking has been expressly delegated to the
+13 association by the Department of Transportation or local government under
+14 terms prescribing the manner in which the association may exercise that
+15 authority. Any such delegation shall be valid for a period not to exceed five
+16 years, at which time the association must reapply to the delegating entity. As
+17 used in this subdivision, "personal vehicle" means an automobile with a gross
+18 weight of less than 26,001 pounds that is used for personal pleasure, travel, or
+19 commuting to and from a place of work, and does not include a motor home
+20 or self-propelled recreational vehicle, or an automobile that is otherwise used
+21 primarily in connection with any commercial endeavor or business.
+22 …
+23 (12) After notice and an opportunity to be heard, impose reasonable fines or
+24 suspend privileges or services provided by the association (except rights of
+25 access to lots) for reasonable periods for violations of the declaration, bylaws,
+26 and rules and regulations of the association. No fine shall be levied for
+27 violation of a provision restricting or prohibiting tutoring, educational lessons,
+28 academic lessons, or swimming lessons provided on the owner's lot to a group
+29 of no more than five people at any one time, regardless of whether
+30 compensation is received for such lessons.
+31 …
+32 (15a) Exercise any authority granted to it under the declaration to approve or
+33 disapprove any proposed changes on a lot or limited common element. In
+34 exercising such authority, the association shall provide a fair, reasonable, and
+35 expeditious procedure for making its decision, which procedure shall be set
+36 forth in the association's governing documents. The procedures shall state the
+37 maximum time for issuance of any decision on a proposal or a request for
+38 reconsideration. At a minimum, a decision shall be made within 90 days after
+39 the initial submission of the proposal or submission of any additional
+40 information or changes to the proposal requested by the association in
+41 response to the initial submission. A decision shall be in writing, shall be made
+42 in good faith, and may not be unreasonable, arbitrary, or capricious. If the
+43 proposal is disapproved, the decision shall include both an explanation of why
+44 the proposal is disapproved and a description of the procedure for
+45 reconsideration of the decision by the executive board.
+46 …."
+47 SECTION 9. G.S. 47F-3-107.1 reads as rewritten:
+48 "§ 47F-3-107.1. Procedures for fines and suspension of planned community privileges or
+49 services.
+50 Unless a specific procedure for the imposition of fines or suspension of planned community
+51 privileges or services is provided for in the declaration, a hearing shall be held before the
+House Bill 444-Third Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 executive board or an adjudicatory panel appointed by the executive board to determine if any
+2 lot owner should be fined or if planned community privileges or services should be suspended
+3 pursuant to the powers granted to the association in G.S. 47F-3-102(11) and (12). Any
+4 adjudicatory panel appointed by the executive board shall be composed of members of the
+5 association who are not officers of the association or members of the executive board. The lot
+6 owner charged shall be given notice of the charge, opportunity to be heard and to present
+7 evidence, and notice of the decision. A written notice of hearing shall be sent to the lot owner as
+8 provided in G.S. 47F-3-116(e)(3) not less than 10 days prior to the scheduled hearing date. The
+9 notice of hearing shall specify the date, time, and place of the hearing and shall include a general
+10 description of each alleged violation and the action, if any, to cure each alleged violation. The lot
+11 owner shall be given an opportunity to be heard and to present evidence at the hearing. A written
+12 notice of the decision specifying each violation verified by the evidence and the action, if any, to
+13 cure each verified violation shall be sent to the lot owner as provided in G.S. 47F-3-116(e)(3). If
+14 it is decided that a fine should be imposed, a fine not to exceed one hundred dollars ($100.00)
+15 may be imposed for the violation and without further hearing, for each day more than five days
+16 after the decision that the violation occurs. occurs, up to a maximum fine of two thousand five
+17 hundred dollars ($2,500). Such fines shall be assessments secured by liens under G.S. 47F-3-116.
+18 If it is decided that a suspension of planned community privileges or services should be imposed,
+19 the suspension may be continued without further hearing until the violation or delinquency is
+20 cured. The lot owner may appeal the decision of an adjudicatory panel to the full executive board
+21 by delivering written notice of appeal to the executive board within 15 days after the date of the
+22 decision. The executive board may affirm, vacate, or modify the prior decision of the
+23 adjudicatory body."
+24 SECTION 10. G.S. 47F-3-116 reads as rewritten:
+25 "§ 47F-3-116. Lien for sums due the association; enforcement.
+26 (a) Any assessment attributable to a lot which remains unpaid for a period of 30 days or
+27 longer shall constitute a lien on that lot when a claim of lien is filed of record in the office of the
+28 clerk of superior court of the county in which the lot is located in the manner provided in this
+29 section. A claim of lien securing a debt consisting of fines or fine-related charges shall be filed
+30 separately from a claim of lien securing other sums due the association and shall be filed within
+31 90 days after the date the fine was imposed. As used in this section, "fines or fine-related charges"
+32 means fines imposed by the association, interest on unpaid fines, or attorneys' fees incurred by
+33 the association related to fines imposed by the association. Once filed, a claim of lien secures all
+34 sums due the association through the date filed and any sums due to the association thereafter.
+35 Unless the declaration provides otherwise, fees, charges, late charges, and other charges imposed
+36 pursuant to G.S. 47F-3-102, 47F-3-107, 47F-3-107.1, and 47F-3-115 are subject to the claim
+37 claims of lien provided for under this section as well as any other sums due and payable to the
+38 association under the declaration, the provisions of this Chapter, or as the result of an arbitration,
+39 mediation, or judicial decision.
+40 (b) The association must provide proper notice of delinquent assessments to the lot owner
+41 before filing a claim of lien. The association must make reasonable and diligent efforts to ensure
+42 that its records contain the lot owner's current physical mailing address. address and current
+43 electronic mailing address. No fewer than 15 days prior to filing the lien, the association shall
+44 mail do all of the following:
+45 (1) Mail a statement of the assessment amount due by first-class mail to the
+46 physical address of the lot and the lot owner's address of record with the
+47 association and, if different, to the address for the lot owner shown on the
+48 county tax records for the lot. If the lot owner is a corporation or limited
+49 liability company, the statement shall also be sent by first-class mail to the
+50 mailing address of the registered agent for the corporation or limited liability
+51 company. Notwithstanding anything to the contrary in this Chapter, the
+Page 10 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 association is not required to mail a statement to an address known to be a
+2 vacant lot on which no dwelling has been constructed or to a lot for which
+3 there is no United States postal address.
+4 (2) Send a statement of the assessment amount due via electronic mail if the
+5 owner has designated an email address as provided in G.S. 55A-1-70(b).
+6 (c) A claim of lien shall set forth the name and address of the association, the name of
+7 the record owner of the lot at the time the claim of lien is filed, a description of the lot, and the
+8 amount of the lien claimed. A claim of lien may also appoint a trustee to conduct a foreclosure,
+9 as provided in subsection (f) of this section. The first page of the claim of lien shall contain the
+10 following statement in print that is in boldface, capital letters, and no smaller than the largest
+11 print used elsewhere in the document:
+12 "THIS DOCUMENT CONSTITUTES A LIEN AGAINST YOUR PROPERTY, AND IF THE
+13 LIEN IS NOT PAID, THE HOMEOWNERS ASSOCIATION MAY PROCEED WITH
+14 FORECLOSURE ENFORCEMENT AGAINST YOU AND YOUR PROPERTY IN LIKE
+15 MANNER AS A MORTGAGE AS PERMITTED UNDER NORTH CAROLINA LAW."
+16 The person signing the claim of lien on behalf of the association shall attach to and file with
+17 the claim of lien a certificate of service attesting to the attempt of service on the record owner,
+18 which service shall be attempted in accordance with G.S. 1A-1, Rule 4(j), for service of a copy
+19 of a summons and a complaint. If the actual service is not achieved, the person signing the claim
+20 of lien on behalf of the association shall be deemed to have met the requirements of this
+21 subsection if service has been attempted pursuant to both of the following: (i) G.S. 1A-1, Rule
+22 4(j)(1)c, d, or e and (ii) by mailing a copy of the lien by regular, first-class mail, postage prepaid
+23 to the physical address of the lot and the lot owner's address of record with the association, and,
+24 if different, to the address for the lot owner shown on the county tax records and the county real
+25 property records for the lot. The association shall also send the owner a copy of the claim of lien
+26 and certificate of service by email if the owner has designated an email address as provided in
+27 G.S. 55A-1-70(b). In the event that the owner of record is not a natural person, and actual service
+28 is not achieved, the person signing the claim of lien on behalf of the association shall be deemed
+29 to have met the requirements of this subsection if service has been attempted once pursuant to
+30 the applicable provisions of G.S. 1A-1, Rule 4(j)(3) through G.S. 1A-1, Rule 4(j)(9).
+31 Notwithstanding anything to the contrary in this Chapter, the association is not required to mail
+32 a claim of lien to an address which is known to be a vacant lot on which no dwelling has been
+33 constructed or to a lot for which there is no United States postal address. A lien for unpaid
+34 assessments is extinguished unless proceedings to enforce the lien are instituted within three
+35 years after the filing of the claim of lien in the office of the clerk of superior court. A lien securing
+36 a debt consisting of fines or fine-related charges is extinguished unless proceedings to enforce
+37 the lien are instituted within one year after the filing of the claim of lien in the office of the clerk
+38 of superior court.
+39 (d) A claim of lien filed under this section is prior to all liens and encumbrances on a lot
+40 except (i) liens and encumbrances, specifically including, but not limited to, a mortgage or deed
+41 of trust on the lot, recorded before the filing of the claim of lien in the office of the clerk of
+42 superior court and (ii) liens for real estate taxes and other governmental assessments and charges
+43 against the lot. This subsection does not affect the priority of mechanics' or materialmen's liens.
+44 (e) Attorneys' Fees. –
+45 (1) The association shall be entitled to recover the reasonable attorneys' fees and
+46 costs it incurs in connection with the collection of any sums due. due, except
+47 as otherwise provided in subdivision (2) of this subsection.
+48 (2) In an action to enforce a claim of lien securing a debt consisting of fines or
+49 fine-related charges, upon findings by the court (i) that there was an
+50 unwarranted refusal by the lot owner to negotiate or pay the fines or
+51 fine-related charges and (ii) that the amount of damages recovered exceeded
+House Bill 444-Third Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 the highest offer made by the lot owner no later than 90 days before the
+2 commencement of trial, the presiding judge may, in the judge's discretion,
+3 allow reasonable attorneys' fees to the duly licensed attorneys representing the
+4 association obtaining a judgment for damages in said suit, in an amount not to
+5 exceed ten thousand dollars ($10,000) or fifteen percent (15%) of the amount
+6 recovered, whichever is greater, said attorneys' fees to be taxed as a part of the
+7 court costs. When the presiding judge determines that an award of attorneys'
+8 fees is to be made under this subsection in an action to enforce a claim of lien
+9 securing a debt consisting of fines or fine-related charges, the judge shall issue
+10 a written order including findings of fact detailing the factual basis for the
+11 finding of an unwarranted refusal to negotiate or pay the debt secured by the
+12 claim of lien, and setting forth the amount of the highest offer made by the lot
+13 owner 90 days or more before the commencement of trial, and the amount of
+14 damages recovered, as well as the factual basis and amount of any such
+15 attorneys' fees to be awarded.
+16 (3) A lot owner may not be required to pay attorneys' fees and court costs until
+17 the lot owner is notified in writing of the association's intent to seek payment
+18 of attorneys' fees, costs, and expenses. The notice must be sent by first-class
+19 mail to the physical address of the lot and the lot owner's address of record
+20 with the association and, if different, to the address for the lot owner shown
+21 on the county tax records for the lot. The association must make reasonable
+22 and diligent efforts to ensure that its records contain the lot owner's current
+23 mailing address. Notwithstanding anything to the contrary in this Chapter,
+24 there shall be no requirement that notice under this subsection be mailed to an
+25 address which is known to be a vacant lot on which no dwelling has been
+26 constructed or a lot for which there is no United States postal address. The
+27 notice shall set out the outstanding balance due as of the date of the notice and
+28 state that the lot owner has 15 days from the mailing of the notice by first-class
+29 mail to pay the outstanding balance without the attorneys' fees and court costs.
+30 If the lot owner pays the outstanding balance within this period, then the lot
+31 owner shall have no obligation to pay attorneys' fees, costs, or expenses. The
+32 notice shall also inform the lot owner of the opportunity to contact a
+33 representative of the association to discuss a payment schedule for the
+34 outstanding balance, as provided in subsection (i) of this section, and shall
+35 provide the name and telephone number of the representative.
+36 (f) Except as provided in subsection (h) of this section, the association, acting through
+37 the executive board, may foreclose a claim of lien securing a debt consisting of sums due the
+38 association other than fines or fine-related charges in like manner as a mortgage or deed of trust
+39 on real estate under power of sale, as provided in Article 2A of Chapter 45 of the General Statutes,
+40 if the assessment remains unpaid delinquency has continued for 90 180 days or more. The
+41 association shall not foreclose the claim of lien unless the all of the following conditions are met:
+42 (1) The executive board votes to commence the proceeding against the specific
+43 lot.
+44 (2) The amount of the lien is equal to or greater than six months of assessments
+45 or equal to or greater than two thousand five hundred dollars ($2,500),
+46 whichever is less.
+47 (3) The association offered the lot owner a reasonable opportunity to cure the
+48 default by making payments under an installment schedule as authorized
+49 under subsection (i) of this section, and the lot owner either did not accept the
+50 offer or defaulted on payments required under the agreed installment schedule.
+Page 12 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (f1) The following provisions and procedures shall be applicable to and complied with in
+2 every nonjudicial power of sale foreclosure of a claim of lien, and these provisions and
+3 procedures shall control to the extent they are inconsistent or in conflict with the provisions of
+4 Article 2A of Chapter 45 of the General Statutes:
+5 …
+6 (5) After the association has filed a claim of lien and prior to the commencement
+7 of a nonjudicial foreclosure, the association shall give to the lot owner notice
+8 of the association's intention to commence a nonjudicial foreclosure to enforce
+9 its claim of lien. The notice shall contain the information required in
+10 G.S. 45-21.16(c)(5a).G.S. 45-21.16(c)(5) and G.S. 45-21.16(c)(5a) and shall
+11 specifically reference the lot owner's right of redemption provided under
+12 subdivision (8) of this subsection. The notice shall be sent by first-class mail
+13 to the physical address of the lot and the lot owner's address of record with the
+14 association and, if different, to the address for the lot owner shown on the
+15 county tax records for the lot.
+16 (5a) The notice of hearing required pursuant to G.S. 45-21.16(a) shall be
+17 accompanied by the association's certification of the actions it has taken to
+18 give the owner notice of delinquent assessments in compliance with
+19 subsection (b) of this section.
+20 (5b) At the commencement of the hearing, the clerk shall inquire as to whether the
+21 owner occupies the lot as the owner's principal residence. If it appears that the
+22 owner does currently occupy the lot as a principal residence, the clerk shall
+23 further inquire as to the efforts the association has made to communicate with
+24 the owner and to attempt to resolve the matter voluntarily before the
+25 foreclosure proceeding. The clerk's inquiry shall not be required if the
+26 association has submitted, at or before the hearing, an affidavit briefly
+27 describing any efforts that have been made to resolve the default with the
+28 owner and the results of any such efforts.
+29 (5c) The clerk shall order the hearing continued if the clerk finds that there is good
+30 cause to believe that additional time or additional measures have a reasonable
+31 likelihood of resolving the delinquency without foreclosure. In determining
+32 whether to continue the hearing, the clerk may consider (i) whether the
+33 association has offered the owner an opportunity to resolve the foreclosure
+34 under a payment schedule pursuant to subsection (i) of this section, (ii)
+35 whether the association has engaged in actual responsive communication with
+36 the owner, including telephone conferences or in-person meetings with the
+37 owner or other actual two-party communications, (iii) whether the owner has
+38 indicated that the owner has the intent and ability to resolve the delinquency
+39 by making future payments under a payment plan, and (iv) whether the
+40 initiation or continuance of good-faith voluntary resolution efforts between
+41 the parties may resolve the matter without a foreclosure sale. Where good
+42 cause exists to continue the hearing, the clerk shall order the hearing continued
+43 to a date and time certain not more than 90 days from the date scheduled for
+44 the original hearing. Nothing in this part shall limit the authority of the clerk
+45 to continue a hearing for other good cause shown.
+46 …
+47 (g) The provisions of subsection (f) of this section do not prohibit or prevent an
+48 association from pursuing judicial foreclosure of a claim of lien, lien securing a debt consisting
+49 of sums due the association other than fines and fine-related charges, from taking other actions
+50 to recover the sums due the association, or from accepting a deed in lieu of foreclosure. Any
+51 judgment, decree, or order in any judicial foreclosure or civil action relating to the collection of
+House Bill 444-Third Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 assessments shall include an award of costs and reasonable attorneys' fees for the prevailing
+2 party, which shall not be subject to the limitation provided in subdivision (f)(12) of this section.
+3 (h) A claim of lien securing a debt consisting solely of fines imposed by the association,
+4 interest on unpaid fines, or attorneys' fees incurred by the association solely associated with fines
+5 imposed by the association or fine-related charges may only be enforced by judicial foreclosure,
+6 as provided in Article 29A of Chapter 1 of the General Statutes. the filing of a civil action seeking
+7 a judgment. In addition, an association shall not levy, charge, or attempt to collect a service,
+8 collection, consulting, or administration fee from any lot owner unless the fee is expressly
+9 allowed in the declaration, and any claim of lien securing a debt consisting solely of these fees
+10 may only be enforced by judicial foreclosure, as provided in Article 29A of Chapter 1 of the
+11 General Statutes.the filing of a civil action seeking a judgment. Liens arising as a result of the
+12 entry of a judgment in favor of the association in any such civil action shall relate back and be
+13 effective as of the date the claim of lien was filed.
+14 …."
+15 SECTION 11. G.S. 47F-3-118 reads as rewritten:
+16 "§ 47F-3-118. Association records.
+17 (a) The association shall keep financial records sufficiently detailed to enable the
+18 association to comply with this Chapter. All financial and other records, including records of
+19 meetings of the association and executive board, shall be made reasonably available for
+20 examination by any lot owner and the lot owner's authorized agents as required in the bylaws and
+21 Chapter 55A of the General Statutes. If the bylaws do not specify a shorter time, the association
+22 shall make records reasonably available for examination within 30 days of receiving the lot
+23 owner's written request. Except as otherwise provided in the bylaws, the association is not
+24 required to make available for examination financial records created more than three years before
+25 the date on which the association receives the lot owner's written request. If the bylaws do not
+26 specify particular records to be maintained, the association shall keep accurate records of all cash
+27 receipts and expenditures and all assets and liabilities. In addition to any specific information
+28 that is required by the bylaws to be assembled and reported to the lot owners at specified times,
+29 the association shall make an annual income and expense statement and balance sheet available
+30 to all lot owners at no charge and within 75 days after the close of the fiscal year to which the
+31 information relates. Notwithstanding the bylaws, a more extensive compilation, review, or audit
+32 of the association's books and records for the current or immediately preceding fiscal year may
+33 be required by a vote of the majority of the executive board or by the affirmative vote of a
+34 majority of the lot owners present and voting in person or by proxy at any annual meeting or any
+35 special meeting duly called for that purpose.
+36 (a1) A lot owner or the lot owner's authorized agent is entitled to inspect and copy, at a
+37 reasonable time and location specified by the association, any contract entered into by the
+38 association authorizing a managing agent to exercise any of the powers granted to the association
+39 pursuant to G.S. 47F-3-102 if the lot owner gives the association written notice of the demand at
+40 least five business days before the date on which the lot owner wishes to inspect and copy and
+41 the request satisfies the conditions for inspection set forth in G.S. 55A-16-02(c). A demand to
+42 inspect made pursuant to this subsection shall be presumed to have been made in good faith and
+43 for a proper purpose. In any action to compel the inspection and copying of documents, the court
+44 may award reasonable attorneys' fees to the prevailing party. If the association does not allow a
+45 lot owner who complies with this subsection to inspect and copy the requested contract, and, if a
+46 court of competent jurisdiction thereafter enters an order compelling the association to do so, the
+47 court shall also order the association to pay the lot owner's costs, including reasonable attorneys'
+48 fees, incurred to obtain the order.
+49 …."
+50 SECTION 12.(a) G.S. 7A-38.3F reads as rewritten:
+Page 14 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 "§ 7A-38.3F. Prelitigation mediation of condominium and homeowners owners' association
+2 disputes.
+3 (a) Definitions. – The following definitions apply in this section:
+4 (1) Association. – An association of unit or lot owners organized as allowed under
+5 North Carolina law, including G.S. 47C-3-101 and G.S. 47F-3-101.
+6 (2) Dispute. – Any matter relating to real estate under the jurisdiction of an
+7 association about which the member and association cannot agree. The term
+8 "dispute" does not include matters expressly exempted in subsection (b) of
+9 this section.
+10 (3) Executive board. – The body, regardless of name, designated in the
+11 declaration to act on behalf of an association.
+12 (4) Mediator. – A neutral person who acts to encourage and facilitate a resolution
+13 of a dispute between an association and a member.
+14 (5) Member. – A person who is a member of an association of unit or lot owners
+15 organized as allowed under North Carolina law, including G.S. 47C-3-101
+16 and G.S. 47F-3-101.
+17 (6) Party or parties. – An association or member who is involved in a dispute, as
+18 that term is defined in subdivision (2) of this subsection.
+19 (a1) Disputes related solely to a member's failure to timely pay an association assessment
+20 or any fines or fees associated with the levying or collection of an association assessment are not
+21 covered under this section.
+22 (b) Voluntary Prelitigation Mediation. – Prior to filing a civil action, the The parties to a
+23 dispute arising under Chapter 47C of the General Statutes (North Carolina Condominium Act),
+24 Chapter 47F of the General Statutes (North Carolina Planned Community Act), or an
+25 association's declaration, bylaws, or rules and regulations are encouraged to initiate mediation
+26 pursuant to this section. However, disputes related solely to a member's failure to timely pay an
+27 association assessment or any fines or fees associated with the levying or collection of an
+28 association assessment are not covered under this section.may agree at any time to mediation of
+29 the dispute pursuant to this section.
+30 (b1) Mandatory Prelitigation Mediation. – Prior to filing a civil action arising under
+31 Chapter 47C of the General Statutes (North Carolina Condominium Act), Chapter 47F of the
+32 General Statutes (North Carolina Planned Community Act), or an association's declaration,
+33 bylaws, or rules and regulations, a party shall initiate mediation pursuant to this section. If an
+34 action is initiated, it shall, upon the motion of any party prior to trial, be dismissed without
+35 prejudice by the court unless any one or more of the following apply:
+36 (1) The nonmoving party has satisfied the requirements of this section, and this
+37 fact is indicated in the mediator's certification issued under subsection (g) of
+38 this section.
+39 (2) The court finds that a mediator failed to issue a mediator's certification under
+40 subsection (g) of this section indicating that the nonmoving party satisfied the
+41 requirements of this section.
+42 (3) The court finds good cause for a failure to attempt mediation. Good cause
+43 includes a determination that the time delay required for mediation would
+44 likely result in irreparable harm or that injunctive relief is otherwise
+45 warranted.
+46 (c) Initiation of Mediation. – Either an association or a member may contact the North
+47 Carolina Dispute Resolution Commission or the Mediation Network of North Carolina for the
+48 name of a mediator or community mediation center. Upon contacting a mediator, either the
+49 association or member may supply to the mediator the physical address of the other party, or the
+50 party's representative, and the party's telephone number and e-mail address, if known. The
+51 mediator shall contact the party, or the party's representative, to notify him or her the party of the
+House Bill 444-Third Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 request to mediate. If the parties agree to mediate, they Unless the mediation is waived pursuant
+2 to subsection (e) of this section, the parties shall request in writing that the mediator schedule the
+3 mediation. The mediator shall then notify the parties in writing of the date, time, and location of
+4 the mediation, which shall be scheduled not later than 25 days after the mediator receives the
+5 written request from the parties.
+6 (d) Mediation Procedure. – The following procedures shall apply to mediation under this
+7 section:
+8 (1) Attendance. – The mediator shall determine who may attend mediation. The
+9 mediator may require the executive board or a large group of members to
+10 designate one or more persons to serve as their representatives in the
+11 mediation.
+12 (2) All parties are expected to attend mediation. The mediator may allow a party
+13 to participate in mediation by telephone or other electronic means if the
+14 mediator determines that the party has a compelling reason to do so.
+15 (3) If the parties cannot reach a final agreement in mediation because to do so
+16 would require the approval of the full executive board or the approval of a
+17 majority or some other percentage of the members of the association, the
+18 mediator may recess the mediation meeting to allow the executive board or
+19 members to review and vote on the agreement.
+20 (e) Decline Mediation. – Either party to a dispute may decline mediation under this
+21 section. If either party declines mediation after mediation has been initiated under subsection (c)
+22 of this section but mediation has not been held, the party declining mediation shall inform the
+23 mediator and the other party in writing of his or her decision to decline mediation. No costs shall
+24 be assessed to any party if either party declines mediation prior to the occurrence of an initial
+25 mediation meeting.Waiver of Mediation. – The parties to a dispute may agree to waive mediation
+26 required by this section by informing the mediator of the waiver in writing.
+27 (f) Costs of Mediation. – The costs of mediation, including the mediator's fees, shall be
+28 shared equally by the parties unless otherwise agreed to by the parties. Fees shall be due and
+29 payable at the end of each mediation meeting. A mediator may charge a reasonable fee, as
+30 applicable, to prepare a mediator's certification required under subsection (g) of this section when
+31 parties to a dispute agree to waive mediation pursuant to subsection (e) of this section or when
+32 one or more parties failed or refused without good cause to attend the mediation meetings or
+33 otherwise participate in the mediation. When an attorney represents a party to the mediation, that
+34 party shall pay his or her the attorneys' fees.
+35 (g) Certification That Mediation Concluded. – Upon a waiver of the mediation under
+36 subsection (e) of this section or upon the conclusion of mediation, the mediator shall prepare a
+37 certification stating the date on which the mediation was concluded and a statement of the general
+38 results of the mediation, including, as applicable, that the parties waived the mediation, that an
+39 agreement was reached or reached, that mediation was attempted but an agreement was not
+40 reached. reached, or that one or more parties failed or refused without good cause to attend the
+41 mediation meetings or otherwise participate in the mediation. If both parties participate in
+42 mediation and a cause of action involving the dispute mediated is later filed, either party may file
+43 the certificate with the clerk of court, and the parties shall not be required to mediate again under
+44 any provision of law. The Supreme Court may adopt additional rules and standards to implement
+45 this section, including an exemption from the provisions of G.S. 7A-38.1 for cases in which
+46 mediation was attempted under this section. The sanctions in G.S. 7A-38.1(g) do not apply to
+47 prelitigation mediation conducted under this section.
+48 …
+49 (j) Association Duty to Notify. – Each association shall, in writing, shall notify the
+50 members of the association each year annually in writing that they may initiate mediation under
+51 this section to try to resolve a dispute with the association. The association shall publish the
+Page 16 House Bill 444-Third Edition
+General Assembly Of North Carolina Session 2025
+1 notice required in this subsection on the association's Web site; but if the association does not
+2 have a Web site, the association website, or it shall publish the notice at the same time and in the
+3 same manner as the names and addresses of all officers and board members of the association
+4 are published as provided in G.S. 47C-3-103 and G.S. 47F-3-103."
+5 SECTION 12.(b) This section becomes effective October 1, 2025, and applies to
+6 actions filed on or after that date.
+7 SECTION 13.(a) Article 1 of Chapter 114 of the General Statutes is amended by
+8 adding a new section to read:
+9 "§ 114-8.8. Collection and report of owners' association complaint data.
+10 (a) The Department of Justice shall receive and record complaints by members of
+11 associations of unit owners or lot owners concerning disputes with their associations as required
+12 by this section. For the purposes of this section, the term "association" means an association of
+13 unit or lot owners organized under Chapter 47C or Chapter 47F of the General Statutes. The
+14 Department of Justice shall publish a complaint form providing for electronic submission of those
+15 complaints on its website. When the Department receives a complaint via phone, mail, or online
+16 submission, it shall collect the following information from the complainant:
+17 (1) The name and contact information of the complainant.
+18 (2) The name and contact information of the other party or parties to the dispute
+19 giving rise to the complaint.
+20 (3) The name, address, and contact information of the association management
+21 company, if any, involved in the dispute.
+22 (4) Details on whether the association member involved in the dispute (i) was
+23 informed of the requirement of membership in the association as a condition
+24 of unit or lot ownership and, if so informed, when and by whom; (ii) received
+25 a copy of the governing documents of the association before obtaining title to
+26 the property; (iii) was denied access to the association's governing documents;
+27 and (iv) understood the rights and obligations of owners and the association
+28 under the governing documents.
+29 (5) The nature of the complaint.
+30 (6) The background information regarding the dispute, including whether the
+31 member and association communicated about the dispute and whether all
+32 other remedies available under the association's governing documents were
+33 exhausted before the complaint was made.
+34 (7) The complainant's understanding of the rights and obligations under the
+35 association's governing documents as they relate to the dispute.
+36 (8) The complainant's desired remedy regarding the dispute.
+37 (b) Upon receiving the complaint, the Department shall provide a copy of the complaint
+38 to the party complained against informing the party of the complaint made against it and allowing
+39 for the party to respond.
+40 (c) The Department shall publish the following information on its website:
+41 (1) Information on the process to submit complaints pursuant to this section.
+42 (2) Information about the laws and documents governing associations of unit
+43 owners and lot owners in North Carolina.
+44 (3) General information about roles, rights, and responsibilities of associations of
+45 unit owners and lot owners, their members, and other related parties.
+46 (4) Any other information the Department deems relevant to understanding the
+47 rights and obligations of associations of unit owners and lot owners and
+48 members of such associations.
+49 (d) The Department is prohibited from promulgating regulations or issuing guidelines
+50 concerning the administration, governance, or governing documents of associations of unit
+House Bill 444-Third Edition Page 17
+General Assembly Of North Carolina Session 2025
+1 owners or lot owners. The Department shall not serve as an arbiter in disputes between an
+2 association of unit owners or lot owners and its members.
+3 (e) By July 1 of each year, the Department shall submit a report to the House Standing
+4 Committee on Commerce and Economic Development, the Senate Standing Committee on
+5 Commerce and Insurance, and the Fiscal Research Division and shall also publish the report on
+6 its website. The report shall include, at a minimum, a summary of all of the following:
+7 (1) The total number of complaints received pursuant to this section.
+8 (2) The number of those complaints submitted by unit owners or lot owners.
+9 (3) The number of complaints originating in each county of this State.
+10 (4) The number of complaints that involved association management companies.
+11 (5) The nature of the disputes reflected in the complaints, including:
+12 a. Access to association records.
+13 b. Access to executive board meetings.
+14 c. Assessments.
+15 d. Executive board transparency.
+16 e. Fines.
+17 f. Collections of delinquent accounts.
+18 g. Liens.
+19 h. Foreclosures.
+20 i. Content of restrictive covenants.
+21 j. Enforcement of restrictive covenants.
+22 (6) A ranking of the top five disputes based on the nature of the dispute reflected
+23 in the complaints.
+24 (7) The number of responses to the complaints received by the Department.
+25 The information summarized in the report must be categorized, filterable, and searchable.
+26 The Department must redact any personal or private information from the report, such as names,
+27 addresses, and telephone numbers of individuals. This redaction requirement does not apply to
+28 information concerning a homeowners association or a homeowners association management
+29 company."
+30 SECTION 13.(b) This section becomes effective July 1, 2025.
+31 SECTION 14. Sections 6 and 10 of this act become effective December 1, 2025, and
+32 apply to claims of lien filed and instruments presented for registration on or after that date. Except
+33 as otherwise provided, the remainder of this act is effective when it becomes law, and the
+34 provisions in Sections 3 and 8 of this act relating to managing agent compensation apply to
+35 contracts between an association and a managing agent entered into on or after that date.
+Page 18 House Bill 444-Third Edition
+[DELETED:  3 H (   A A A A L O A T M P A C D T S s " A m t t d p t G s o a u o w u a c o t a t a t e F a c r S s " A w w t t S " ( U u … ( H a t m a a o e a a i a s n h a t e o y a s n c a a n c w a m a t i a r s b]
+[DELETED:  S  H t a f n c … ( R t u m r r a m o c e p h t i t a o a e r f w t N C D o T o l g t a t p t m i w t a m e t a y u w c o p … ( I t i p l t r f n t e o h d ( r o a p r o p t e l a o n m t f p a a o t r o w c … ( I m … ( E a a g t i u t d t a o d e e f m r t i s o t p o s o a a i o c t t p r b t a i r i]
+[DELETED:  S  P p t p i d a a d o t p f r … S " … ( W b e f t p o b o ( A w p i … S " … ( W t t r c d p i t r p c b ( A w p i … S " U a s p f t i o f o s o c p o s i p f i t d a h s b h b t e u o s b f o i c p o s s b s p a o g d A w n o h s b s t t u o a p i G]
+[DELETED:  S  H h s s t d t a p o t h a s i a g d u w i a t c e v v s b s t t u o a p i G h d f l s v t 1 p S " ( A l t t f f w 9 d a d t f w i A u i s " o f c m f i b t a i o u f o a a t a a d r ( T o e c s ( M a s o a a d b f c m t t p a c l m c N a t t c i t C t a v ( S o ( A t a a]
+[DELETED:  S  P f p " L I N P T H A M P W F E A Y A Y P I L M T t w o o l o b o t a s b d t h m t r o t s 4 t a r o i s d a p N a U t o e o ( A e o s a ( A ( T c a ( I f c u f b t c ( t t w a u r b t u o t n o p t f o f t c a a e r c t f d]
+[DELETED:  S  H o t a ( A t o m w o a m t a U d t w t a f a c c I t u o p t o b w t p t t u o h n o i a t d a p s f t o b a p i s ( o s a s p t n a t ( E t a o i t a r u d h c f 9 1 d o T a ( T u ( T o e t o g t t t f h d ( w ( T d b m p u a i s a a u t o o d o p r u t a i s ( T e n p o s f o a c o l a t p a p A … ( A o o i c o l T n s c t i r i G s s]
+[DELETED:  S  P t t t ( T n o h r p t G s b a g t o n o d a i c w s ( A o t s w f p T c i s n b r i t a h s a o b t h a a b d o ( T c l w t c t h t c m c ( w t a u a p s p t s ( o t s ( w t o i b m f p u a p p a ( w t i t c t t t … ( T p o s ( o t s d n p o p a a o t j a p ( A i i a a c a m G]
+[DELETED:  S  H e e … S " ( T a s k f r s d t e t a m o t a a e b s b m r a f e a b a o p i t b t a i n r t m a f e f r c m t t y b t d o w t a r e b s a N b o p f ( A r t a l s b t a a c e i b t a p a a t a c a a d a … S " U a … ( H a d m a a o e a a i a s n h a t e o y a s n c a a n c w a m a t i a r s b t]
+[DELETED:  S  P a f n c … ( R t u m r r a m o c e p h t i t a o a e r f w t N C D o T o l g t a t p t m i w t a m e t a y u w c o p … ( A n a a o t b h i r f o s a a r a r o t a N f s b l f v a o n m t f p a a o t r o w c … ( E a a g t i u t d t a o d e e f m r t i s o t p o s o a a i o c t t p r b t a i r i p t p i d a a d o t p f r … S " s U p o s i p f i t d a h s b h b t]
+[DELETED:  S  H e l p t t p g t t a i G a ( A a p a b t e b b c o o a o c s b g n o t c o t b h a t p e p n d o n c i m a h I t c b d T e b m a v o m t p d o t a S " ( A l c s s 9 m t s U p c a m ( T b t e m ( M a s o t a a d b f m t t p a a c l m c N a t t c i t C t]
+[DELETED:  S  P a v t ( S o ( A t a a f p " L I N P T H A M P W F E A Y A Y P I L M T t w o o l o b o t a s b d t h m t r o t s 4 t i p a G i t t a p o G R 4 t G R 4 N a c a y a t o ( A e o s a ( A ( T c a ( I f c u f b t c ( t t w a u r b t l o t n o p t f o f]
+[DELETED:  S  H t b l c a a e r c f s a f c o d r a w a t f b a a o a s a ( A t o m w o a m t a c n s m I o n s a i t l o o t o t c a r o t a t d a p s f t o p ( E t a o i t a r u d h c f 9 1 d o T a ( T l ( T o e t o g t t t f h d ( w ( T d b m p u a i s a a u o]
+[DELETED:  S  P ( T e n p o s f o a c o l a t p a p A … ( A o o i c o l T n s c t i r i G s r t l o r o r p u s t a c ( T n o h r p t G s b a g t o n o d a i c w s ( A o o f t o a t a t r t m v b t f p T c i s n b r i t a h s a o b t h a a b d o ( T c l w t c t h t c m c ( w t a u a p s p t s ( o t s ( w t o i b m f p u a p p a ( w t i t c t t t … ( T p o s ( o t s d n p o p a a o t j]
+[DELETED:  S  H a p ( A i i a a c c o a f f a l o u t f i e a m G e e … S " ( T a s k f r s d t e t a m o t a a e b s b m r a f e C s o w r E a o p i t b t a i n r t s r t t t i o b m s ( A r t a l s b t a a c e i b t a p l t i f m l c c f … S]
+[DELETED:  S  P " d ( D ( A N ( D – A m r t r e u t j o a a " t ( E b – T b r o n d i t d ( M o ( M o a ( P t ( D o c ( V d C 4 o t G S ( C P C A o a a p a a o a f o f a w t l o c o a a t ( M P M – P t f a c a a u C G S ( C P C A o a a d b a p ( T f t ( T s r ( T i l r i i h o t i r i o w ( I C n a p r a t p t n a e a i k T m]
+[DELETED:  S  H r t m t w ( M s ( A m d o o m p t s a t r i t m ( A t p i m b t o o e m i t m ( I w m p m m ( D M – E p t a d m d m u s o m b m r ( C s p A a p o o p ( C s c r a r m m o o p i t m I b p p i m t a t m p … ( A D t N – E a s i w s n t m t]
+[DELETED:  S  P n h s a S a S a " ( T D o J s r a r c b m o a b u D c s ( T ( T g ( T c ( D i o a t a u ( T ( T b i r t d i w t m a a c a t d a w a o e ( T c u o t r a o u t a ( T ( U t f ( T ( I ( I a t l a d g a o u o ( G u ( A r a o o a o u o a l o a m ( T c t a g o g d o a o u]
+[DELETED:  S  H o a d a a ( B C o C a E D t S S C o C i ( T ( T ( T ( T ( T a A b A c A d E e F f C g L h F i C j E ( A i ( T T T a i c S S a a o p t r o t a i e w i b l a t p c]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+HOUSE BILL 444
+Committee Substitute Favorable 4/17/25
+Committee Substitute #2 Favorable 5/6/25
+Short Title: Homeowners Association Reform Bill. (Public)
+Sponsors:
+Referred to:
+March 20, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE LAWS GOVERNING UNIT OWNERS'
+3 ASSOCIATIONS AND LOT OWNERS' ASSOCIATIONS, TO MANDATE
+4 PRELITIGATION MEDIATION OF DISPUTES BETWEEN OWNERS' ASSOCIATIONS
+5 AND THEIR MEMBERS, AND TO REQUIRE THE DEPARTMENT OF JUSTICE TO
+6 COLLECT AND REPORT ON COMPLAINTS SUBMITTED TO IT INVOLVING SUCH
+7 DISPUTES.
+8 The General Assembly of North Carolina enacts:
+9 SECTION 1. Chapter 47C of the General Statutes is amended by adding a new
+10 section to read:
+11 "§ 47C-2-117.1A. Declaration amendments applicability.
+12 Amendments made to the declaration pursuant to G.S. 47C-2-117 shall only affect unit
+13 owners whose units are conveyed or transferred after the amendment takes effect. For
+14 amendments made while a unit owner owns a unit, the amendment has no effect until the unit is
+15 conveyed or transferred to another unit owner. A unit owner takes the unit subject to existing
+16 rules in the declaration at the time of conveyance or transfer of the unit."
+17 SECTION 2. Chapter 47F of the General Statutes is amended by adding a new
+18 section to read:
+19 "§ 47F-2-117.1. Declaration amendments applicability.
+20 Amendments made to the declaration pursuant to G.S. 47F-2-117 shall only affect lot owners
+21 whose lots are conveyed or transferred after the amendment takes effect. For amendments made
+22 while a lot owner owns a lot, the amendment has no effect until the lot is conveyed or transferred
+23 to another lot owner. A lot owner takes the lot subject to existing rules in the declaration at the
+24 time of conveyance or transfer of the lot."
+25 SECTION 3. G.S. 47C-3-102(a) reads as rewritten:
+26 "§ 47C-3-102. Powers of unit owners' association.
+27 (a) Unless the declaration expressly provides to the contrary, the association, even if
+28 unincorporated, may do all of the following:
+29 …
+30 (3) Hire and terminate managing agents and other employees, agents, and
+31 independent contractors. A contract between an association and a managing
+32 agent shall not have a term exceeding one year and shall not contain an
+33 automatic renewal provision that requires the association to give notice of
+34 nonrenewal more than 30 days prior to the contract's anniversary date. Any
+35 contract with a managing agent that is automatically renewed shall be
+*H444-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 terminable by the association for any reason upon 60 days' notice. A managing
+2 agent shall not be compensated in whole or in part based on the amount of
+3 fines collected by the managing agent on behalf of the association and shall
+4 not collect from the association or a unit owner any fee in connection with its
+5 collection of a fine imposed by the association.
+6 …
+7 (6) Regulate the use, maintenance, repair, replacement, and modification of
+8 common elements.elements; provided, however, that in the absence of an
+9 express authorization in the declaration, an association shall not enforce any
+10 restriction on parking of a personal vehicle on a public street or public road
+11 for which the North Carolina Department of Transportation or local
+12 government has assumed responsibility for maintenance and repairs, unless
+13 the authority to regulate such parking has been expressly delegated to the
+14 association by the Department of Transportation or local government under
+15 terms prescribing the manner in which the association may exercise that
+16 authority. Any such delegation shall be valid for a period not to exceed five
+17 years, at which time the association must reapply to the delegating entity. As
+18 used in this subdivision, "personal vehicle" means an automobile with a gross
+19 weight of less than 26,001 pounds that is used for personal pleasure, travel, or
+20 commuting to and from a place of work, and does not include a motor home
+21 or self-propelled recreational vehicle, or an automobile that is otherwise used
+22 primarily in connection with any commercial endeavor or business.
+23 …
+24 (11) Impose charges for late payment of assessments, not to exceed the greater of
+25 twenty dollars ($20.00) per month or ten percent (10%) of any assessment
+26 installment unpaid and, after notice and an opportunity to be heard, suspend
+27 privileges or services provided by the association (except rights of access to
+28 lots) during any period that assessments or other amounts due and owing to
+29 the association remain unpaid for a period of 30 days or longer, and levy
+30 reasonable fines not to exceed one hundred dollars
+31 ($100.00)(G.S. 47C-3-107.1) for violations of the declaration, bylaws, and
+32 rules and regulations of the association. No fine shall be levied for violation
+33 of a provision restricting or prohibiting tutoring, educational lessons,
+34 academic lessons, or swimming lessons provided in the owner's unit to a group
+35 of no more than five people at any one time, regardless of whether
+36 compensation is received for such lessons.
+37 …
+38 (12b) Impose a reasonable charge for providing copies of records requested by a
+39 member, not to exceed the actual cost of photocopying the records.
+40 …
+41 (14a) Exercise any authority granted to it under the declaration to approve or
+42 disapprove any proposed changes to a unit or limited common element. In
+43 exercising such authority, the association shall provide a fair, reasonable, and
+44 expeditious procedure for making its decision, which procedure shall be set
+45 forth in the association's governing documents. The procedures shall state the
+46 maximum time for issuance of any decision on a proposal or a request for
+47 reconsideration. At a minimum, a decision shall be made within 90 days after
+48 the initial submission of the proposal or submission of any additional
+49 information or changes to the proposal requested by the association in
+50 response to the initial submission. A decision shall be in writing, shall be made
+51 in good faith, and may not be unreasonable, arbitrary, or capricious. If the
+Page 2 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 proposal is disapproved, the decision shall include both an explanation of why
+2 the proposal is disapproved and a description of the procedure for
+3 reconsideration of the decision by the executive board.
+4 …."
+5 SECTION 4.(a) G.S. 47C-3-103 reads as rewritten:
+6 "§ 47C-3-103. Executive board members and officers.
+7 …
+8 (c) Within 30 days after adoption of any proposed budget for the condominium, the
+9 executive board shall provide a summary of the budget to all the unit owners, and shall set a date
+10 for a meeting of the unit owners to consider ratification of the budget not less than 10 nor more
+11 than 60 days after mailing of the summary. There shall be no requirement that a quorum be
+12 present at the meeting. The budget is ratified unless at that meeting a majority of all the unit
+13 owners or any larger vote specified in the declaration rejects the budget. In the event the proposed
+14 budget is rejected, the periodic budget last ratified shall be continued until such time as the unit
+15 owners ratify a subsequent budget proposed by the executive board.
+16 (c1) After ratification of the budget, no action may be taken by the executive board that
+17 would increase the budgeted common expense liability for that fiscal year by more than five
+18 percent (5%) without the approval of a majority of all the unit owners or any larger vote specified
+19 in the declaration.
+20 …."
+21 SECTION 4.(b) G.S. 47F-3-103 reads as rewritten:
+22 "§ 47F-3-103. Executive board members and officers.
+23 …
+24 (c) Within 30 days after adoption of any proposed budget for the planned community,
+25 the executive board shall provide to all the lot owners a summary of the budget and a notice of
+26 the meeting to consider ratification of the budget, including a statement that the budget may be
+27 ratified without a quorum. The executive board shall set a date for a meeting of the lot owners to
+28 consider ratification of the budget, such meeting to be held not less than 10 nor more than 60
+29 days after mailing of the summary and notice. There shall be no requirement that a quorum be
+30 present at the meeting. The budget is ratified unless at that meeting a majority of all the lot owners
+31 in the association or any larger vote specified in the declaration rejects the budget. In the event
+32 the proposed budget is rejected, the periodic budget last ratified by the lot owners shall be
+33 continued until such time as the lot owners ratify a subsequent budget proposed by the executive
+34 board.
+35 (c1) After ratification of the budget, no action may be taken by the executive board that
+36 would increase the budgeted common expense liability for that fiscal year by more than five
+37 percent (5%) without the approval of a majority of all the lot owners or any larger vote specified
+38 in the declaration.
+39 …."
+40 SECTION 5. G.S. 47C-3-107.1 reads as rewritten:
+41 "§ 47C-3-107.1. Procedures for fines and suspension of condominium privileges or services.
+42 Unless a specific procedure for the imposition of fines or suspension of condominium
+43 privileges or services is provided for in the declaration, a hearing shall be held before the
+44 executive board or an adjudicatory panel appointed by the executive board to determine if any
+45 unit owner should be fined or if condominium privileges or services should be suspended
+46 pursuant to the powers granted to the association in G.S. 47C-3-102(11). Any adjudicatory panel
+47 appointed by the executive board shall be composed of members of the association who are not
+48 officers of the association or members of the executive board. The unit owner charged shall be
+49 given notice of the charge, opportunity to be heard and to present evidence, and notice of the
+50 decision. A written notice of hearing shall be sent to the unit owner as provided in
+51 G.S. 47C-3-116(e)(3) not less than 10 days prior to the scheduled hearing date. The notice of
+House Bill 444-Third Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 hearing shall specify the date, time, and place of the hearing and shall include a general
+2 description of each alleged violation and the action, if any, to cure each alleged violation. The
+3 unit owner shall be given an opportunity to be heard and to present evidence at the hearing. A
+4 written notice of the decision specifying each violation verified by the evidence and the action,
+5 if any, to cure each verified violation shall be sent to the unit owner as provided in
+6 G.S. 47C-3-116(e)(3). If it is decided that a fine should be imposed, a fine not to exceed one
+7 hundred dollars ($100.00) may be imposed for the violation and without further hearing, for each
+8 day more than five days after the decision that the violation occurs. occurs, up to a maximum
+9 fine of two thousand five hundred dollars ($2,500). Such fines shall be assessments secured by
+10 liens under G.S. 47C-3-116. If it is decided that a suspension of condominium privileges or
+11 services should be imposed, the suspension may be continued without further hearing until the
+12 violation or delinquency is cured. A unit owner may appeal a decision of an adjudicatory panel
+13 to the full executive board by delivering written notice of appeal to the executive board within
+14 15 days after the date of the decision. The executive board may affirm, vacate, or modify the
+15 prior decision of the adjudicatory body."
+16 SECTION 6. G.S. 47C-3-116 reads as rewritten:
+17 "§ 47C-3-116. Lien for sums due the association; enforcement.
+18 (a) Any assessment attributable to a unit which remains unpaid for a period of 30 days or
+19 longer shall constitute a lien on that unit when a claim of lien is filed of record in the office of
+20 the clerk of superior court of the county in which the unit is located in the manner provided in
+21 this section. A claim of lien securing a debt consisting of fines or fine-related charges shall be
+22 filed separately from a claim of lien securing other sums owed to the association and shall be
+23 filed within 90 days after the date the fine was imposed. As used in this section, "fines or
+24 fine-related charges" means fines imposed by the association, interest on unpaid fines, or
+25 attorneys' fees incurred by the association related to fines imposed by the association. Once filed,
+26 a claim of lien secures all sums due the association through the date filed and any sums due to
+27 the association thereafter. Unless the declaration provides otherwise, fees, charges, late charges
+28 and other charges imposed pursuant to G.S. 47C-3-102, 47C-3-107, 47C-3-107.1, and 47C-3-115
+29 are subject to the claim claims of lien provided for under this section as well as any other sums
+30 due and payable to the association under the declaration, the provisions of this Chapter, or as the
+31 result of an arbitration, mediation, or judicial decision.
+32 (b) The association must provide proper notice of delinquent assessments to the unit
+33 owner before filing a claim of lien. The association must make reasonable and diligent efforts
+34 ensure that its records contain the unit owner's current physical mailing address. address and
+35 current electronic mailing address. No fewer than 15 days prior to filing the lien, the association
+36 shall mail do all of the following:
+37 (1) Mail a statement of the assessment amount due by first class mail to the
+38 physical address of the unit and the unit owner's address of record with the
+39 association and, if different, to the address for the unit owner shown on the
+40 county tax records for the unit. If the unit owner is a corporation or limited
+41 liability company, the statement shall also be sent by first class mail to the
+42 mailing address of the registered agent for the corporation or limited liability
+43 company. Notwithstanding anything to the contrary in this Chapter, the
+44 association is not required to mail a statement to an address known to be a
+45 vacant unit or to a unit for which there is no United States postal address.
+46 (2) Send a statement of the assessment amount due via electronic mail if the
+47 owner has designated an email address as provided in G.S. 55A-1-70(b).
+48 (c) A claim of lien shall set forth the name and address of the association, the name of
+49 the record owner of the unit at the time the claim of lien is filed, a description of the unit, and the
+50 amount of the lien claimed. A claim of lien may also appoint a trustee to conduct a foreclosure
+51 as provided in subsection (f) of this section. The first page of the claim of lien shall contain the
+Page 4 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 following statement in print that is in boldface, capital letters, and no smaller than the largest
+2 print used elsewhere in the document:
+3 "THIS DOCUMENT CONSTITUTES A LIEN AGAINST YOUR PROPERTY, AND IF THE
+4 LIEN IS NOT PAID, THE HOMEOWNERS ASSOCIATION MAY PROCEED WITH
+5 FORECLOSURE ENFORCEMENT AGAINST YOU AND YOUR PROPERTY IN LIKE
+6 MANNER AS A MORTGAGE AS PERMITTED UNDER NORTH CAROLINA LAW."
+7 The person signing the claim of lien on behalf of the association shall attach to and file with
+8 the claim of lien a certificate of service attesting to the attempt of service on the record owner,
+9 which service shall be attempted in accordance with G.S. 1A-1, Rule 4(j), for service of a copy
+10 of a summons and a complaint. If the actual service is not achieved, the person signing the claim
+11 of lien on behalf of the association shall be deemed to have met the requirements of this
+12 subsection if service has been attempted pursuant to both of the following: (i) G.S. 1A-1, Rule
+13 4(j)(1)c, d, or e and (ii) by mailing a copy of the lien by regular, first class mail, postage prepaid
+14 to the physical address of the unit and the unit owner's address of record with the association,
+15 and, if different, to the address for the unit owner shown on the county tax records and the county
+16 real property records for the unit. The association shall also send the owner a copy of the claim
+17 of lien and certificate of service by email if the owner has designated an email address as provided
+18 in G.S. 55A-1-70(b). In the event that the owner of record is not a natural person, and actual
+19 service is not achieved, the person signing the claim of lien on behalf of the association shall be
+20 deemed to have met the requirements of this subsection if service has been attempted once
+21 pursuant to the applicable provisions of G.S. 1A-1, Rule 4(j)(3) through G.S. 1A-1, Rule 4(j)(9).
+22 Notwithstanding anything to the contrary in this Chapter, the association is not required to mail
+23 a claim of lien to an address which is known to be a vacant unit or to a unit for which there is no
+24 United States postal address. A lien for unpaid assessments is extinguished unless proceedings
+25 to enforce the lien are instituted within three years after the filing of the claim of lien in the office
+26 of the clerk of superior court. A lien securing a debt consisting of fines or fine-related charges is
+27 extinguished unless proceedings to enforce the lien are instituted within one year after the filing
+28 of the claim of lien in the office of the clerk of superior court.
+29 (d) A claim of lien filed under this section is prior to all liens and encumbrances on a unit
+30 except (i) liens and encumbrances, specifically including, but not limited to, a mortgage or deed
+31 of trust on the unit, recorded before the filing of the claim of lien in the office of the clerk of
+32 superior court and (ii) liens for real estate taxes and other governmental assessments and charges
+33 against the unit. This subsection does not affect the priority of mechanics' or materialmen's liens.
+34 (e) Attorneys' Fees. –
+35 (1) The association shall be entitled to recover the reasonable attorneys' fees and
+36 costs it incurs in connection with the collection of any sums due. due, except
+37 as otherwise provided in subdivision (2) of this subsection.
+38 (2) In an action to enforce a claim of lien securing a debt consisting of fines or
+39 fine-related charges, upon findings by the court (i) that there was an
+40 unwarranted refusal by the unit owner to negotiate or pay the fines or
+41 fine-related charges and (ii) that the amount of damages recovered exceeded
+42 the highest offer made by the unit owner no later than 90 days before the
+43 commencement of trial, the presiding judge may, in the judge's discretion,
+44 allow reasonable attorneys' fees to the duly licensed attorneys representing the
+45 association obtaining a judgment for damages in said suit, in an amount not to
+46 exceed ten thousand dollars ($10,000) or fifteen percent (15%) of the amount
+47 recovered, whichever is greater, said attorneys' fees to be taxed as a part of the
+48 court costs. When making an award of attorneys' fees under this subdivision,
+49 the judge shall issue a written order including findings of fact detailing the
+50 factual basis for the finding of an unwarranted refusal to negotiate or pay the
+51 debt secured by the claim of lien, and setting forth the amount of the highest
+House Bill 444-Third Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 offer made by the unit owner 90 days or more before the commencement of
+2 trial, and the amount of damages recovered, as well as the factual basis and
+3 amount of any such attorneys' fees to be awarded.
+4 (3) A unit owner may not be required to pay attorneys' fees and court costs until
+5 the unit owner is notified in writing of the association's intent to seek payment
+6 of attorneys' fees, costs, and expenses. The notice must be sent by first-class
+7 mail to the physical address of the unit and the unit owner's address of record
+8 with the association and, if different, to the address for the unit owner shown
+9 on the county tax records for the unit. The association must make reasonable
+10 and diligent efforts to ensure that its records contain the unit owner's current
+11 mailing address. Notwithstanding anything to the contrary in this Chapter,
+12 there shall be no requirement that notice under this subsection be mailed to an
+13 address which is known to be a vacant unit or a unit for which there is no
+14 United States postal address. The notice shall set out the outstanding balance
+15 due as of the date of the notice and state that the unit owner has 15 days from
+16 the mailing of the notice by first-class mail to pay the outstanding balance
+17 without the attorneys' fees and court costs. If the unit owner pays the
+18 outstanding balance within this period, then the unit owner shall have no
+19 obligation to pay attorneys' fees, costs, or expenses. The notice shall also
+20 inform the unit owner of the opportunity to contact a representative of the
+21 association to discuss a payment schedule for the outstanding balance as
+22 provided in subsection (i) of this section and shall provide the name and
+23 telephone number of the representative.
+24 (f) Except as provided in subsection (h) of this section, the association, acting through
+25 the executive board, may foreclose a claim of lien securing a debt consisting of sums due the
+26 association other than fines or fine-related charges in like manner as a mortgage or deed of trust
+27 on real estate under power of sale, as provided in Article 2A of Chapter 45 of the General Statutes,
+28 if the assessment remains unpaid delinquency has continued for 90 180 days or more. The
+29 association shall not foreclose the claim of lien unless the all of the following conditions are met:
+30 (1) The executive board votes to commence the proceeding against the specific
+31 unit.
+32 (2) The amount of the lien is equal to or greater than six months of assessments
+33 or equal to or greater than two thousand five hundred dollars ($2,500),
+34 whichever is less.
+35 (3) The association offered the unit owner a reasonable opportunity to cure the
+36 default by making payments under an installment schedule as authorized
+37 under subsection (i) of this section, and the unit owner either did not accept
+38 the offer or defaulted on payments required under the agreed installment
+39 schedule.
+40 (f1) The following provisions and procedures shall be applicable to and complied with in
+41 every nonjudicial power of sale foreclosure of a claim of lien, and these provisions and
+42 procedures shall control to the extent they are inconsistent or in conflict with the provisions of
+43 Article 2A of Chapter 45 of the General Statutes:
+44 …
+45 (5) After the association has filed a claim of lien and prior to the commencement
+46 of a nonjudicial foreclosure, the association shall give to the unit owner notice
+47 of the association's intention to commence a nonjudicial foreclosure to enforce
+48 its claim of lien. The notice shall contain the information required in
+49 G.S. 45-21.16(c)(5a).G.S. 45-21.16(c)(5) and G.S. 45-21.16(c)(5a) and shall
+50 specifically reference the unit owner's right of redemption provided under
+51 subdivision (8) of this subsection. The notice shall be sent by first-class mail
+Page 6 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 to the physical address of the unit and the unit owner's address of record with
+2 the association and, if different, to the address for the unit owner shown on
+3 the county tax records for the unit.
+4 (5a) The notice of hearing required pursuant to G.S. 45-21.16(a) shall be
+5 accompanied by the association's certification of the actions it has taken to
+6 give the owner notice of delinquent assessments in compliance with
+7 subsection (b) of this section.
+8 (5b) At the commencement of the hearing, the clerk shall inquire as to whether the
+9 owner occupies the unit as the owner's principal residence. If it appears that
+10 the owner does currently occupy the unit as a principal residence, the clerk
+11 shall further inquire as to the efforts the association has made to communicate
+12 with the owner and to attempt to resolve the matter voluntarily before the
+13 foreclosure proceeding. The clerk's inquiry shall not be required if the
+14 association has submitted, at or before the hearing, an affidavit briefly
+15 describing any efforts that have been made to resolve the default with the
+16 owner and the results of any such efforts.
+17 (5c) The clerk shall order the hearing continued if the clerk finds that there is good
+18 cause to believe that additional time or additional measures have a reasonable
+19 likelihood of resolving the delinquency without foreclosure. In determining
+20 whether to continue the hearing, the clerk may consider (i) whether the
+21 association has offered the debtor an opportunity to resolve the foreclosure
+22 under a payment schedule pursuant to subsection (i) of this section, (ii)
+23 whether the association has engaged in actual responsive communication with
+24 the owner, including telephone conferences or in-person meetings with the
+25 owner or other actual two-party communications, (iii) whether the owner has
+26 indicated that the owner has the intent and ability to resolve the delinquency
+27 by making future payments under a payment plan, and (iv) whether the
+28 initiation or continuance of good-faith voluntary resolution efforts between
+29 the parties may resolve the matter without a foreclosure sale. Where good
+30 cause exists to continue the hearing, the clerk shall order the hearing continued
+31 to a date and time certain not more than 90 days from the date scheduled for
+32 the original hearing. Nothing in this part shall limit the authority of the clerk
+33 to continue a hearing for other good cause shown.
+34 …
+35 (g) The provisions of subsection (f) of this section do not prohibit or prevent an
+36 association from pursuing judicial foreclosure of a claim of lien, lien securing a debt consisting
+37 of sums due the association other than fines and fine-related charges, from taking other actions
+38 to recover the sums due the association, or from accepting a deed in lieu of foreclosure. Any
+39 judgment, decree, or order in any judicial foreclosure or civil action relating to the collection of
+40 assessments shall include an award of costs and reasonable attorneys' fees for the prevailing
+41 party, which shall not be subject to the limitation provided in subdivision (f)(12) of this section.
+42 (h) A claim of lien securing a debt consisting solely of fines imposed by the association,
+43 interest on unpaid fines, or attorneys' fees incurred by the association solely associated with fines
+44 imposed by the association or fine-related charges may only be enforced by judicial foreclosure,
+45 as provided in Article 29A of Chapter 1 of the General Statutes. the filing of a civil action seeking
+46 a judgment. In addition, an association shall not levy, charge, or attempt to collect a service,
+47 collection, consulting, or administration fee from any unit owner unless the fee is expressly
+48 allowed in the declaration, and any claim of lien securing a debt consisting solely of these fees
+49 may only be enforced by judicial foreclosure, as provided in Article 29A of Chapter 1 of the
+50 General Statutes.the filing of a civil action seeking a judgment. Liens arising as a result of the
+House Bill 444-Third Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 entry of a judgment in favor of the association in any such civil action shall relate back and be
+2 effective as of the date the claim of lien was filed.
+3 …."
+4 SECTION 7. G.S. 47C-3-118 reads as rewritten:
+5 "§ 47C-3-118. Association records.
+6 (a) The association shall keep financial records sufficiently detailed to enable the
+7 association to comply with this chapter. All financial and other records, including records of
+8 meetings of the association and executive board, shall be made reasonably available for
+9 examination by any unit owner and the unit owner's authorized agents as required by the bylaws
+10 and by Chapter 55A of the General Statutes if the association is a nonprofit corporation. If the
+11 bylaws do not specify a shorter time, the association shall make the requested records reasonably
+12 available for examination within 30 days of receiving the unit owner's written request. Except as
+13 otherwise provided in the bylaws, the association is not required to make available for
+14 examination financial records created more than three years before the date on which the
+15 association receives the unit owner's written request. If the bylaws do not specify particular
+16 records to be maintained, the association shall keep accurate records of all cash receipts and
+17 expenditures and all assets and liabilities. In addition to any specific information that is required
+18 by the bylaws to be assembled and reported to the unit owners at specified times, the association
+19 shall make an annual income and expense statement and balance sheet available to all unit owners
+20 at no charge and within 75 days after the close of the fiscal year to which the information relates.
+21 Notwithstanding the bylaws, a more extensive compilation, review, or audit of the association's
+22 books and records for the current or immediately preceding fiscal year may be required by a vote
+23 of the majority of the executive board or by the affirmative vote of a majority of the unit owners
+24 present and voting in person or by proxy at any annual meeting or any special meeting duly called
+25 for that purpose.
+26 (a1) A unit owner or the unit owner's authorized agent is entitled to inspect and copy, at a
+27 reasonable time and location specified by the association, any contract entered into by the
+28 association authorizing a managing agent to exercise any of the powers granted to the association
+29 pursuant to G.S. 47C-3-102, if the unit owner gives the association written notice of the demand
+30 at least five business days before the date on which the unit owner wishes to inspect and copy
+31 and the request satisfies the conditions for inspection set forth in G.S. 55A-16-02(c). A demand
+32 to inspect made pursuant to this subsection shall be presumed to have been made in good faith
+33 and for a proper purpose. In any action to compel the inspection and copying of documents, the
+34 court may award reasonable attorneys' fees to the prevailing party. If the association does not
+35 allow a unit owner who complies with this subsection to inspect and copy the requested contract,
+36 and, if a court of competent jurisdiction thereafter enters an order compelling the association to
+37 do so, the court shall also order the association to pay the unit owner's costs, including reasonable
+38 attorneys' fees, incurred to obtain the order.
+39 …."
+40 SECTION 8. G.S. 47F-3-102 reads as rewritten:
+41 "§ 47F-3-102. Powers of owners' association.
+42 Unless the articles of incorporation or the declaration expressly provides to the contrary, the
+43 association may do all of the following:
+44 …
+45 (3) Hire and discharge managing agents and other employees, agents, and
+46 independent contractors. A contract between an association and a managing
+47 agent shall not have a term exceeding one year and shall not contain an
+48 automatic renewal provision that requires the association to give notice of
+49 nonrenewal more than 30 days prior to the contract's anniversary date. Any
+50 contract with a managing agent that is automatically renewed shall be
+51 terminable by the association for any reason upon 60 days' notice. A managing
+Page 8 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 agent shall not be compensated in whole or in part based on the amount of
+2 fines collected by the managing agent on behalf of the association and shall
+3 not collect from the association or a lot owner any fee in connection with its
+4 collection of a fine imposed by the association.
+5 …
+6 (6) Regulate the use, maintenance, repair, replacement, and modification of
+7 common elements.elements; provided, however, that in the absence of an
+8 express authorization in the declaration, an association shall not enforce any
+9 restriction on parking of a personal vehicle on a public street or public road
+10 for which the North Carolina Department of Transportation or local
+11 government has assumed responsibility for maintenance and repairs, unless
+12 the authority to regulate such parking has been expressly delegated to the
+13 association by the Department of Transportation or local government under
+14 terms prescribing the manner in which the association may exercise that
+15 authority. Any such delegation shall be valid for a period not to exceed five
+16 years, at which time the association must reapply to the delegating entity. As
+17 used in this subdivision, "personal vehicle" means an automobile with a gross
+18 weight of less than 26,001 pounds that is used for personal pleasure, travel, or
+19 commuting to and from a place of work, and does not include a motor home
+20 or self-propelled recreational vehicle, or an automobile that is otherwise used
+21 primarily in connection with any commercial endeavor or business.
+22 …
+23 (12) After notice and an opportunity to be heard, impose reasonable fines or
+24 suspend privileges or services provided by the association (except rights of
+25 access to lots) for reasonable periods for violations of the declaration, bylaws,
+26 and rules and regulations of the association. No fine shall be levied for
+27 violation of a provision restricting or prohibiting tutoring, educational lessons,
+28 academic lessons, or swimming lessons provided on the owner's lot to a group
+29 of no more than five people at any one time, regardless of whether
+30 compensation is received for such lessons.
+31 …
+32 (15a) Exercise any authority granted to it under the declaration to approve or
+33 disapprove any proposed changes on a lot or limited common element. In
+34 exercising such authority, the association shall provide a fair, reasonable, and
+35 expeditious procedure for making its decision, which procedure shall be set
+36 forth in the association's governing documents. The procedures shall state the
+37 maximum time for issuance of any decision on a proposal or a request for
+38 reconsideration. At a minimum, a decision shall be made within 90 days after
+39 the initial submission of the proposal or submission of any additional
+40 information or changes to the proposal requested by the association in
+41 response to the initial submission. A decision shall be in writing, shall be made
+42 in good faith, and may not be unreasonable, arbitrary, or capricious. If the
+43 proposal is disapproved, the decision shall include both an explanation of why
+44 the proposal is disapproved and a description of the procedure for
+45 reconsideration of the decision by the executive board.
+46 …."
+47 SECTION 9. G.S. 47F-3-107.1 reads as rewritten:
+48 "§ 47F-3-107.1. Procedures for fines and suspension of planned community privileges or
+49 services.
+50 Unless a specific procedure for the imposition of fines or suspension of planned community
+51 privileges or services is provided for in the declaration, a hearing shall be held before the
+House Bill 444-Third Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 executive board or an adjudicatory panel appointed by the executive board to determine if any
+2 lot owner should be fined or if planned community privileges or services should be suspended
+3 pursuant to the powers granted to the association in G.S. 47F-3-102(11) and (12). Any
+4 adjudicatory panel appointed by the executive board shall be composed of members of the
+5 association who are not officers of the association or members of the executive board. The lot
+6 owner charged shall be given notice of the charge, opportunity to be heard and to present
+7 evidence, and notice of the decision. A written notice of hearing shall be sent to the lot owner as
+8 provided in G.S. 47F-3-116(e)(3) not less than 10 days prior to the scheduled hearing date. The
+9 notice of hearing shall specify the date, time, and place of the hearing and shall include a general
+10 description of each alleged violation and the action, if any, to cure each alleged violation. The lot
+11 owner shall be given an opportunity to be heard and to present evidence at the hearing. A written
+12 notice of the decision specifying each violation verified by the evidence and the action, if any, to
+13 cure each verified violation shall be sent to the lot owner as provided in G.S. 47F-3-116(e)(3). If
+14 it is decided that a fine should be imposed, a fine not to exceed one hundred dollars ($100.00)
+15 may be imposed for the violation and without further hearing, for each day more than five days
+16 after the decision that the violation occurs. occurs, up to a maximum fine of two thousand five
+17 hundred dollars ($2,500). Such fines shall be assessments secured by liens under G.S. 47F-3-116.
+18 If it is decided that a suspension of planned community privileges or services should be imposed,
+19 the suspension may be continued without further hearing until the violation or delinquency is
+20 cured. The lot owner may appeal the decision of an adjudicatory panel to the full executive board
+21 by delivering written notice of appeal to the executive board within 15 days after the date of the
+22 decision. The executive board may affirm, vacate, or modify the prior decision of the
+23 adjudicatory body."
+24 SECTION 10. G.S. 47F-3-116 reads as rewritten:
+25 "§ 47F-3-116. Lien for sums due the association; enforcement.
+26 (a) Any assessment attributable to a lot which remains unpaid for a period of 30 days or
+27 longer shall constitute a lien on that lot when a claim of lien is filed of record in the office of the
+28 clerk of superior court of the county in which the lot is located in the manner provided in this
+29 section. A claim of lien securing a debt consisting of fines or fine-related charges shall be filed
+30 separately from a claim of lien securing other sums due the association and shall be filed within
+31 90 days after the date the fine was imposed. As used in this section, "fines or fine-related charges"
+32 means fines imposed by the association, interest on unpaid fines, or attorneys' fees incurred by
+33 the association related to fines imposed by the association. Once filed, a claim of lien secures all
+34 sums due the association through the date filed and any sums due to the association thereafter.
+35 Unless the declaration provides otherwise, fees, charges, late charges, and other charges imposed
+36 pursuant to G.S. 47F-3-102, 47F-3-107, 47F-3-107.1, and 47F-3-115 are subject to the claim
+37 claims of lien provided for under this section as well as any other sums due and payable to the
+38 association under the declaration, the provisions of this Chapter, or as the result of an arbitration,
+39 mediation, or judicial decision.
+40 (b) The association must provide proper notice of delinquent assessments to the lot owner
+41 before filing a claim of lien. The association must make reasonable and diligent efforts to ensure
+42 that its records contain the lot owner's current physical mailing address. address and current
+43 electronic mailing address. No fewer than 15 days prior to filing the lien, the association shall
+44 mail do all of the following:
+45 (1) Mail a statement of the assessment amount due by first-class mail to the
+46 physical address of the lot and the lot owner's address of record with the
+47 association and, if different, to the address for the lot owner shown on the
+48 county tax records for the lot. If the lot owner is a corporation or limited
+49 liability company, the statement shall also be sent by first-class mail to the
+50 mailing address of the registered agent for the corporation or limited liability
+51 company. Notwithstanding anything to the contrary in this Chapter, the
+Page 10 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 association is not required to mail a statement to an address known to be a
+2 vacant lot on which no dwelling has been constructed or to a lot for which
+3 there is no United States postal address.
+4 (2) Send a statement of the assessment amount due via electronic mail if the
+5 owner has designated an email address as provided in G.S. 55A-1-70(b).
+6 (c) A claim of lien shall set forth the name and address of the association, the name of
+7 the record owner of the lot at the time the claim of lien is filed, a description of the lot, and the
+8 amount of the lien claimed. A claim of lien may also appoint a trustee to conduct a foreclosure,
+9 as provided in subsection (f) of this section. The first page of the claim of lien shall contain the
+10 following statement in print that is in boldface, capital letters, and no smaller than the largest
+11 print used elsewhere in the document:
+12 "THIS DOCUMENT CONSTITUTES A LIEN AGAINST YOUR PROPERTY, AND IF THE
+13 LIEN IS NOT PAID, THE HOMEOWNERS ASSOCIATION MAY PROCEED WITH
+14 FORECLOSURE ENFORCEMENT AGAINST YOU AND YOUR PROPERTY IN LIKE
+15 MANNER AS A MORTGAGE AS PERMITTED UNDER NORTH CAROLINA LAW."
+16 The person signing the claim of lien on behalf of the association shall attach to and file with
+17 the claim of lien a certificate of service attesting to the attempt of service on the record owner,
+18 which service shall be attempted in accordance with G.S. 1A-1, Rule 4(j), for service of a copy
+19 of a summons and a complaint. If the actual service is not achieved, the person signing the claim
+20 of lien on behalf of the association shall be deemed to have met the requirements of this
+21 subsection if service has been attempted pursuant to both of the following: (i) G.S. 1A-1, Rule
+22 4(j)(1)c, d, or e and (ii) by mailing a copy of the lien by regular, first-class mail, postage prepaid
+23 to the physical address of the lot and the lot owner's address of record with the association, and,
+24 if different, to the address for the lot owner shown on the county tax records and the county real
+25 property records for the lot. The association shall also send the owner a copy of the claim of lien
+26 and certificate of service by email if the owner has designated an email address as provided in
+27 G.S. 55A-1-70(b). In the event that the owner of record is not a natural person, and actual service
+28 is not achieved, the person signing the claim of lien on behalf of the association shall be deemed
+29 to have met the requirements of this subsection if service has been attempted once pursuant to
+30 the applicable provisions of G.S. 1A-1, Rule 4(j)(3) through G.S. 1A-1, Rule 4(j)(9).
+31 Notwithstanding anything to the contrary in this Chapter, the association is not required to mail
+32 a claim of lien to an address which is known to be a vacant lot on which no dwelling has been
+33 constructed or to a lot for which there is no United States postal address. A lien for unpaid
+34 assessments is extinguished unless proceedings to enforce the lien are instituted within three
+35 years after the filing of the claim of lien in the office of the clerk of superior court. A lien securing
+36 a debt consisting of fines or fine-related charges is extinguished unless proceedings to enforce
+37 the lien are instituted within one year after the filing of the claim of lien in the office of the clerk
+38 of superior court.
+39 (d) A claim of lien filed under this section is prior to all liens and encumbrances on a lot
+40 except (i) liens and encumbrances, specifically including, but not limited to, a mortgage or deed
+41 of trust on the lot, recorded before the filing of the claim of lien in the office of the clerk of
+42 superior court and (ii) liens for real estate taxes and other governmental assessments and charges
+43 against the lot. This subsection does not affect the priority of mechanics' or materialmen's liens.
+44 (e) Attorneys' Fees. –
+45 (1) The association shall be entitled to recover the reasonable attorneys' fees and
+46 costs it incurs in connection with the collection of any sums due. due, except
+47 as otherwise provided in subdivision (2) of this subsection.
+48 (2) In an action to enforce a claim of lien securing a debt consisting of fines or
+49 fine-related charges, upon findings by the court (i) that there was an
+50 unwarranted refusal by the lot owner to negotiate or pay the fines or
+51 fine-related charges and (ii) that the amount of damages recovered exceeded
+House Bill 444-Third Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 the highest offer made by the lot owner no later than 90 days before the
+2 commencement of trial, the presiding judge may, in the judge's discretion,
+3 allow reasonable attorneys' fees to the duly licensed attorneys representing the
+4 association obtaining a judgment for damages in said suit, in an amount not to
+5 exceed ten thousand dollars ($10,000) or fifteen percent (15%) of the amount
+6 recovered, whichever is greater, said attorneys' fees to be taxed as a part of the
+7 court costs. When the presiding judge determines that an award of attorneys'
+8 fees is to be made under this subsection in an action to enforce a claim of lien
+9 securing a debt consisting of fines or fine-related charges, the judge shall issue
+10 a written order including findings of fact detailing the factual basis for the
+11 finding of an unwarranted refusal to negotiate or pay the debt secured by the
+12 claim of lien, and setting forth the amount of the highest offer made by the lot
+13 owner 90 days or more before the commencement of trial, and the amount of
+14 damages recovered, as well as the factual basis and amount of any such
+15 attorneys' fees to be awarded.
+16 (3) A lot owner may not be required to pay attorneys' fees and court costs until
+17 the lot owner is notified in writing of the association's intent to seek payment
+18 of attorneys' fees, costs, and expenses. The notice must be sent by first-class
+19 mail to the physical address of the lot and the lot owner's address of record
+20 with the association and, if different, to the address for the lot owner shown
+21 on the county tax records for the lot. The association must make reasonable
+22 and diligent efforts to ensure that its records contain the lot owner's current
+23 mailing address. Notwithstanding anything to the contrary in this Chapter,
+24 there shall be no requirement that notice under this subsection be mailed to an
+25 address which is known to be a vacant lot on which no dwelling has been
+26 constructed or a lot for which there is no United States postal address. The
+27 notice shall set out the outstanding balance due as of the date of the notice and
+28 state that the lot owner has 15 days from the mailing of the notice by first-class
+29 mail to pay the outstanding balance without the attorneys' fees and court costs.
+30 If the lot owner pays the outstanding balance within this period, then the lot
+31 owner shall have no obligation to pay attorneys' fees, costs, or expenses. The
+32 notice shall also inform the lot owner of the opportunity to contact a
+33 representative of the association to discuss a payment schedule for the
+34 outstanding balance, as provided in subsection (i) of this section, and shall
+35 provide the name and telephone number of the representative.
+36 (f) Except as provided in subsection (h) of this section, the association, acting through
+37 the executive board, may foreclose a claim of lien securing a debt consisting of sums due the
+38 association other than fines or fine-related charges in like manner as a mortgage or deed of trust
+39 on real estate under power of sale, as provided in Article 2A of Chapter 45 of the General Statutes,
+40 if the assessment remains unpaid delinquency has continued for 90 180 days or more. The
+41 association shall not foreclose the claim of lien unless the all of the following conditions are met:
+42 (1) The executive board votes to commence the proceeding against the specific
+43 lot.
+44 (2) The amount of the lien is equal to or greater than six months of assessments
+45 or equal to or greater than two thousand five hundred dollars ($2,500),
+46 whichever is less.
+47 (3) The association offered the lot owner a reasonable opportunity to cure the
+48 default by making payments under an installment schedule as authorized
+49 under subsection (i) of this section, and the lot owner either did not accept the
+50 offer or defaulted on payments required under the agreed installment schedule.
+Page 12 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (f1) The following provisions and procedures shall be applicable to and complied with in
+2 every nonjudicial power of sale foreclosure of a claim of lien, and these provisions and
+3 procedures shall control to the extent they are inconsistent or in conflict with the provisions of
+4 Article 2A of Chapter 45 of the General Statutes:
+5 …
+6 (5) After the association has filed a claim of lien and prior to the commencement
+7 of a nonjudicial foreclosure, the association shall give to the lot owner notice
+8 of the association's intention to commence a nonjudicial foreclosure to enforce
+9 its claim of lien. The notice shall contain the information required in
+10 G.S. 45-21.16(c)(5a).G.S. 45-21.16(c)(5) and G.S. 45-21.16(c)(5a) and shall
+11 specifically reference the lot owner's right of redemption provided under
+12 subdivision (8) of this subsection. The notice shall be sent by first-class mail
+13 to the physical address of the lot and the lot owner's address of record with the
+14 association and, if different, to the address for the lot owner shown on the
+15 county tax records for the lot.
+16 (5a) The notice of hearing required pursuant to G.S. 45-21.16(a) shall be
+17 accompanied by the association's certification of the actions it has taken to
+18 give the owner notice of delinquent assessments in compliance with
+19 subsection (b) of this section.
+20 (5b) At the commencement of the hearing, the clerk shall inquire as to whether the
+21 owner occupies the lot as the owner's principal residence. If it appears that the
+22 owner does currently occupy the lot as a principal residence, the clerk shall
+23 further inquire as to the efforts the association has made to communicate with
+24 the owner and to attempt to resolve the matter voluntarily before the
+25 foreclosure proceeding. The clerk's inquiry shall not be required if the
+26 association has submitted, at or before the hearing, an affidavit briefly
+27 describing any efforts that have been made to resolve the default with the
+28 owner and the results of any such efforts.
+29 (5c) The clerk shall order the hearing continued if the clerk finds that there is good
+30 cause to believe that additional time or additional measures have a reasonable
+31 likelihood of resolving the delinquency without foreclosure. In determining
+32 whether to continue the hearing, the clerk may consider (i) whether the
+33 association has offered the owner an opportunity to resolve the foreclosure
+34 under a payment schedule pursuant to subsection (i) of this section, (ii)
+35 whether the association has engaged in actual responsive communication with
+36 the owner, including telephone conferences or in-person meetings with the
+37 owner or other actual two-party communications, (iii) whether the owner has
+38 indicated that the owner has the intent and ability to resolve the delinquency
+39 by making future payments under a payment plan, and (iv) whether the
+40 initiation or continuance of good-faith voluntary resolution efforts between
+41 the parties may resolve the matter without a foreclosure sale. Where good
+42 cause exists to continue the hearing, the clerk shall order the hearing continued
+43 to a date and time certain not more than 90 days from the date scheduled for
+44 the original hearing. Nothing in this part shall limit the authority of the clerk
+45 to continue a hearing for other good cause shown.
+46 …
+47 (g) The provisions of subsection (f) of this section do not prohibit or prevent an
+48 association from pursuing judicial foreclosure of a claim of lien, lien securing a debt consisting
+49 of sums due the association other than fines and fine-related charges, from taking other actions
+50 to recover the sums due the association, or from accepting a deed in lieu of foreclosure. Any
+51 judgment, decree, or order in any judicial foreclosure or civil action relating to the collection of
+House Bill 444-Third Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 assessments shall include an award of costs and reasonable attorneys' fees for the prevailing
+2 party, which shall not be subject to the limitation provided in subdivision (f)(12) of this section.
+3 (h) A claim of lien securing a debt consisting solely of fines imposed by the association,
+4 interest on unpaid fines, or attorneys' fees incurred by the association solely associated with fines
+5 imposed by the association or fine-related charges may only be enforced by judicial foreclosure,
+6 as provided in Article 29A of Chapter 1 of the General Statutes. the filing of a civil action seeking
+7 a judgment. In addition, an association shall not levy, charge, or attempt to collect a service,
+8 collection, consulting, or administration fee from any lot owner unless the fee is expressly
+9 allowed in the declaration, and any claim of lien securing a debt consisting solely of these fees
+10 may only be enforced by judicial foreclosure, as provided in Article 29A of Chapter 1 of the
+11 General Statutes.the filing of a civil action seeking a judgment. Liens arising as a result of the
+12 entry of a judgment in favor of the association in any such civil action shall relate back and be
+13 effective as of the date the claim of lien was filed.
+14 …."
+15 SECTION 11. G.S. 47F-3-118 reads as rewritten:
+16 "§ 47F-3-118. Association records.
+17 (a) The association shall keep financial records sufficiently detailed to enable the
+18 association to comply with this Chapter. All financial and other records, including records of
+19 meetings of the association and executive board, shall be made reasonably available for
+20 examination by any lot owner and the lot owner's authorized agents as required in the bylaws and
+21 Chapter 55A of the General Statutes. If the bylaws do not specify a shorter time, the association
+22 shall make records reasonably available for examination within 30 days of receiving the lot
+23 owner's written request. Except as otherwise provided in the bylaws, the association is not
+24 required to make available for examination financial records created more than three years before
+25 the date on which the association receives the lot owner's written request. If the bylaws do not
+26 specify particular records to be maintained, the association shall keep accurate records of all cash
+27 receipts and expenditures and all assets and liabilities. In addition to any specific information
+28 that is required by the bylaws to be assembled and reported to the lot owners at specified times,
+29 the association shall make an annual income and expense statement and balance sheet available
+30 to all lot owners at no charge and within 75 days after the close of the fiscal year to which the
+31 information relates. Notwithstanding the bylaws, a more extensive compilation, review, or audit
+32 of the association's books and records for the current or immediately preceding fiscal year may
+33 be required by a vote of the majority of the executive board or by the affirmative vote of a
+34 majority of the lot owners present and voting in person or by proxy at any annual meeting or any
+35 special meeting duly called for that purpose.
+36 (a1) A lot owner or the lot owner's authorized agent is entitled to inspect and copy, at a
+37 reasonable time and location specified by the association, any contract entered into by the
+38 association authorizing a managing agent to exercise any of the powers granted to the association
+39 pursuant to G.S. 47F-3-102 if the lot owner gives the association written notice of the demand at
+40 least five business days before the date on which the lot owner wishes to inspect and copy and
+41 the request satisfies the conditions for inspection set forth in G.S. 55A-16-02(c). A demand to
+42 inspect made pursuant to this subsection shall be presumed to have been made in good faith and
+43 for a proper purpose. In any action to compel the inspection and copying of documents, the court
+44 may award reasonable attorneys' fees to the prevailing party. If the association does not allow a
+45 lot owner who complies with this subsection to inspect and copy the requested contract, and, if a
+46 court of competent jurisdiction thereafter enters an order compelling the association to do so, the
+47 court shall also order the association to pay the lot owner's costs, including reasonable attorneys'
+48 fees, incurred to obtain the order.
+49 …."
+50 SECTION 12.(a) G.S. 7A-38.3F reads as rewritten:
+Page 14 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 "§ 7A-38.3F. Prelitigation mediation of condominium and homeowners owners' association
+2 disputes.
+3 (a) Definitions. – The following definitions apply in this section:
+4 (1) Association. – An association of unit or lot owners organized as allowed under
+5 North Carolina law, including G.S. 47C-3-101 and G.S. 47F-3-101.
+6 (2) Dispute. – Any matter relating to real estate under the jurisdiction of an
+7 association about which the member and association cannot agree. The term
+8 "dispute" does not include matters expressly exempted in subsection (b) of
+9 this section.
+10 (3) Executive board. – The body, regardless of name, designated in the
+11 declaration to act on behalf of an association.
+12 (4) Mediator. – A neutral person who acts to encourage and facilitate a resolution
+13 of a dispute between an association and a member.
+14 (5) Member. – A person who is a member of an association of unit or lot owners
+15 organized as allowed under North Carolina law, including G.S. 47C-3-101
+16 and G.S. 47F-3-101.
+17 (6) Party or parties. – An association or member who is involved in a dispute, as
+18 that term is defined in subdivision (2) of this subsection.
+19 (a1) Disputes related solely to a member's failure to timely pay an association assessment
+20 or any fines or fees associated with the levying or collection of an association assessment are not
+21 covered under this section.
+22 (b) Voluntary Prelitigation Mediation. – Prior to filing a civil action, the The parties to a
+23 dispute arising under Chapter 47C of the General Statutes (North Carolina Condominium Act),
+24 Chapter 47F of the General Statutes (North Carolina Planned Community Act), or an
+25 association's declaration, bylaws, or rules and regulations are encouraged to initiate mediation
+26 pursuant to this section. However, disputes related solely to a member's failure to timely pay an
+27 association assessment or any fines or fees associated with the levying or collection of an
+28 association assessment are not covered under this section.may agree at any time to mediation of
+29 the dispute pursuant to this section.
+30 (b1) Mandatory Prelitigation Mediation. – Prior to filing a civil action arising under
+31 Chapter 47C of the General Statutes (North Carolina Condominium Act), Chapter 47F of the
+32 General Statutes (North Carolina Planned Community Act), or an association's declaration,
+33 bylaws, or rules and regulations, a party shall initiate mediation pursuant to this section. If an
+34 action is initiated, it shall, upon the motion of any party prior to trial, be dismissed without
+35 prejudice by the court unless any one or more of the following apply:
+36 (1) The nonmoving party has satisfied the requirements of this section, and this
+37 fact is indicated in the mediator's certification issued under subsection (g) of
+38 this section.
+39 (2) The court finds that a mediator failed to issue a mediator's certification under
+40 subsection (g) of this section indicating that the nonmoving party satisfied the
+41 requirements of this section.
+42 (3) The court finds good cause for a failure to attempt mediation. Good cause
+43 includes a determination that the time delay required for mediation would
+44 likely result in irreparable harm or that injunctive relief is otherwise
+45 warranted.
+46 (c) Initiation of Mediation. – Either an association or a member may contact the North
+47 Carolina Dispute Resolution Commission or the Mediation Network of North Carolina for the
+48 name of a mediator or community mediation center. Upon contacting a mediator, either the
+49 association or member may supply to the mediator the physical address of the other party, or the
+50 party's representative, and the party's telephone number and e-mail address, if known. The
+51 mediator shall contact the party, or the party's representative, to notify him or her the party of the
+House Bill 444-Third Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 request to mediate. If the parties agree to mediate, they Unless the mediation is waived pursuant
+2 to subsection (e) of this section, the parties shall request in writing that the mediator schedule the
+3 mediation. The mediator shall then notify the parties in writing of the date, time, and location of
+4 the mediation, which shall be scheduled not later than 25 days after the mediator receives the
+5 written request from the parties.
+6 (d) Mediation Procedure. – The following procedures shall apply to mediation under this
+7 section:
+8 (1) Attendance. – The mediator shall determine who may attend mediation. The
+9 mediator may require the executive board or a large group of members to
+10 designate one or more persons to serve as their representatives in the
+11 mediation.
+12 (2) All parties are expected to attend mediation. The mediator may allow a party
+13 to participate in mediation by telephone or other electronic means if the
+14 mediator determines that the party has a compelling reason to do so.
+15 (3) If the parties cannot reach a final agreement in mediation because to do so
+16 would require the approval of the full executive board or the approval of a
+17 majority or some other percentage of the members of the association, the
+18 mediator may recess the mediation meeting to allow the executive board or
+19 members to review and vote on the agreement.
+20 (e) Decline Mediation. – Either party to a dispute may decline mediation under this
+21 section. If either party declines mediation after mediation has been initiated under subsection (c)
+22 of this section but mediation has not been held, the party declining mediation shall inform the
+23 mediator and the other party in writing of his or her decision to decline mediation. No costs shall
+24 be assessed to any party if either party declines mediation prior to the occurrence of an initial
+25 mediation meeting.Waiver of Mediation. – The parties to a dispute may agree to waive mediation
+26 required by this section by informing the mediator of the waiver in writing.
+27 (f) Costs of Mediation. – The costs of mediation, including the mediator's fees, shall be
+28 shared equally by the parties unless otherwise agreed to by the parties. Fees shall be due and
+29 payable at the end of each mediation meeting. A mediator may charge a reasonable fee, as
+30 applicable, to prepare a mediator's certification required under subsection (g) of this section when
+31 parties to a dispute agree to waive mediation pursuant to subsection (e) of this section or when
+32 one or more parties failed or refused without good cause to attend the mediation meetings or
+33 otherwise participate in the mediation. When an attorney represents a party to the mediation, that
+34 party shall pay his or her the attorneys' fees.
+35 (g) Certification That Mediation Concluded. – Upon a waiver of the mediation under
+36 subsection (e) of this section or upon the conclusion of mediation, the mediator shall prepare a
+37 certification stating the date on which the mediation was concluded and a statement of the general
+38 results of the mediation, including, as applicable, that the parties waived the mediation, that an
+39 agreement was reached or reached, that mediation was attempted but an agreement was not
+40 reached. reached, or that one or more parties failed or refused without good cause to attend the
+41 mediation meetings or otherwise participate in the mediation. If both parties participate in
+42 mediation and a cause of action involving the dispute mediated is later filed, either party may file
+43 the certificate with the clerk of court, and the parties shall not be required to mediate again under
+44 any provision of law. The Supreme Court may adopt additional rules and standards to implement
+45 this section, including an exemption from the provisions of G.S. 7A-38.1 for cases in which
+46 mediation was attempted under this section. The sanctions in G.S. 7A-38.1(g) do not apply to
+47 prelitigation mediation conducted under this section.
+48 …
+49 (j) Association Duty to Notify. – Each association shall, in writing, shall notify the
+50 members of the association each year annually in writing that they may initiate mediation under
+51 this section to try to resolve a dispute with the association. The association shall publish the
+Page 16 House Bill 444-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 notice required in this subsection on the association's Web site; but if the association does not
+2 have a Web site, the association website, or it shall publish the notice at the same time and in the
+3 same manner as the names and addresses of all officers and board members of the association
+4 are published as provided in G.S. 47C-3-103 and G.S. 47F-3-103."
+5 SECTION 12.(b) This section becomes effective October 1, 2025, and applies to
+6 actions filed on or after that date.
+7 SECTION 13.(a) Article 1 of Chapter 114 of the General Statutes is amended by
+8 adding a new section to read:
+9 "§ 114-8.8. Collection and report of owners' association complaint data.
+10 (a) The Department of Justice shall receive and record complaints by members of
+11 associations of unit owners or lot owners concerning disputes with their associations as required
+12 by this section. For the purposes of this section, the term "association" means an association of
+13 unit or lot owners organized under Chapter 47C or Chapter 47F of the General Statutes. The
+14 Department of Justice shall publish a complaint form providing for electronic submission of those
+15 complaints on its website. When the Department receives a complaint via phone, mail, or online
+16 submission, it shall collect the following information from the complainant:
+17 (1) The name and contact information of the complainant.
+18 (2) The name and contact information of the other party or parties to the dispute
+19 giving rise to the complaint.
+20 (3) The name, address, and contact information of the association management
+21 company, if any, involved in the dispute.
+22 (4) Details on whether the association member involved in the dispute (i) was
+23 informed of the requirement of membership in the association as a condition
+24 of unit or lot ownership and, if so informed, when and by whom; (ii) received
+25 a copy of the governing documents of the association before obtaining title to
+26 the property; (iii) was denied access to the association's governing documents;
+27 and (iv) understood the rights and obligations of owners and the association
+28 under the governing documents.
+29 (5) The nature of the complaint.
+30 (6) The background information regarding the dispute, including whether the
+31 member and association communicated about the dispute and whether all
+32 other remedies available under the association's governing documents were
+33 exhausted before the complaint was made.
+34 (7) The complainant's understanding of the rights and obligations under the
+35 association's governing documents as they relate to the dispute.
+36 (8) The complainant's desired remedy regarding the dispute.
+37 (b) Upon receiving the complaint, the Department shall provide a copy of the complaint
+38 to the party complained against informing the party of the complaint made against it and allowing
+39 for the party to respond.
+40 (c) The Department shall publish the following information on its website:
+41 (1) Information on the process to submit complaints pursuant to this section.
+42 (2) Information about the laws and documents governing associations of unit
+43 owners and lot owners in North Carolina.
+44 (3) General information about roles, rights, and responsibilities of associations of
+45 unit owners and lot owners, their members, and other related parties.
+46 (4) Any other information the Department deems relevant to understanding the
+47 rights and obligations of associations of unit owners and lot owners and
+48 members of such associations.
+49 (d) The Department is prohibited from promulgating regulations or issuing guidelines
+50 concerning the administration, governance, or governing documents of associations of unit
+House Bill 444-Third Edition Page 17
+
+General Assembly Of North Carolina Session 2025
+1 owners or lot owners. The Department shall not serve as an arbiter in disputes between an
+2 association of unit owners or lot owners and its members.
+3 (e) By July 1 of each year, the Department shall submit a report to the House Standing
+4 Committee on Commerce and Economic Development, the Senate Standing Committee on
+5 Commerce and Insurance, and the Fiscal Research Division and shall also publish the report on
+6 its website. The report shall include, at a minimum, a summary of all of the following:
+7 (1) The total number of complaints received pursuant to this section.
+8 (2) The number of those complaints submitted by unit owners or lot owners.
+9 (3) The number of complaints originating in each county of this State.
+10 (4) The number of complaints that involved association management companies.
+11 (5) The nature of the disputes reflected in the complaints, including:
+12 a. Access to association records.
+13 b. Access to executive board meetings.
+14 c. Assessments.
+15 d. Executive board transparency.
+16 e. Fines.
+17 f. Collections of delinquent accounts.
+18 g. Liens.
+19 h. Foreclosures.
+20 i. Content of restrictive covenants.
+21 j. Enforcement of restrictive covenants.
+22 (6) A ranking of the top five disputes based on the nature of the dispute reflected
+23 in the complaints.
+24 (7) The number of responses to the complaints received by the Department.
+25 The information summarized in the report must be categorized, filterable, and searchable.
+26 The Department must redact any personal or private information from the report, such as names,
+27 addresses, and telephone numbers of individuals. This redaction requirement does not apply to
+28 information concerning a homeowners association or a homeowners association management
+29 company."
+30 SECTION 13.(b) This section becomes effective July 1, 2025.
+31 SECTION 14. Sections 6 and 10 of this act become effective December 1, 2025, and
+32 apply to claims of lien filed and instruments presented for registration on or after that date. Except
+33 as otherwise provided, the remainder of this act is effective when it becomes law, and the
+34 provisions in Sections 3 and 8 of this act relating to managing agent compensation apply to
+35 contracts between an association and a managing agent entered into on or after that date.
+Page 18 House Bill 444-Third Edition
+
+[DELETED:  3 H (   A A A A L O A T M P A C D T S s " A m t t d p t G s o a u o w u a c o t a t a t e F a c r S s " A w w t t S " ( U u … ( H a t m a a o e a a i a s n h a t e o y a s n c a a n c w a m a t i a r s b]
+[DELETED:  S  H t a f n c … ( R t u m r r a m o c e p h t i t a o a e r f w t N C D o T o l g t a t p t m i w t a m e t a y u w c o p … ( I t i p l t r f n t e o h d ( r o a p r o p t e l a o n m t f p a a o t r o w c … ( I m … ( E a a g t i u t d t a o d e e f m r t i s o t p o s o a a i o c t t p r b t a i r i]
+[DELETED:  S  P p t p i d a a d o t p f r … S " … ( W b e f t p o b o ( A w p i … S " … ( W t t r c d p i t r p c b ( A w p i … S " U a s p f t i o f o s o c p o s i p f i t d a h s b h b t e u o s b f o i c p o s s b s p a o g d A w n o h s b s t t u o a p i G]
+[DELETED:  S  H h s s t d t a p o t h a s i a g d u w i a t c e v v s b s t t u o a p i G h d f l s v t 1 p S " ( A l t t f f w 9 d a d t f w i A u i s " o f c m f i b t a i o u f o a a t a a d r ( T o e c s ( M a s o a a d b f c m t t p a c l m c N a t t c i t C t a v ( S o ( A t a a]
+[DELETED:  S  P f p " L I N P T H A M P W F E A Y A Y P I L M T t w o o l o b o t a s b d t h m t r o t s 4 t a r o i s d a p N a U t o e o ( A e o s a ( A ( T c a ( I f c u f b t c ( t t w a u r b t u o t n o p t f o f t c a a e r c t f d]
+[DELETED:  S  H o t a ( A t o m w o a m t a U d t w t a f a c c I t u o p t o b w t p t t u o h n o i a t d a p s f t o b a p i s ( o s a s p t n a t ( E t a o i t a r u d h c f 9 1 d o T a ( T u ( T o e t o g t t t f h d ( w ( T d b m p u a i s a a u t o o d o p r u t a i s ( T e n p o s f o a c o l a t p a p A … ( A o o i c o l T n s c t i r i G s s]
+[DELETED:  S  P t t t ( T n o h r p t G s b a g t o n o d a i c w s ( A o t s w f p T c i s n b r i t a h s a o b t h a a b d o ( T c l w t c t h t c m c ( w t a u a p s p t s ( o t s ( w t o i b m f p u a p p a ( w t i t c t t t … ( T p o s ( o t s d n p o p a a o t j a p ( A i i a a c a m G]
+[DELETED:  S  H e e … S " ( T a s k f r s d t e t a m o t a a e b s b m r a f e a b a o p i t b t a i n r t m a f e f r c m t t y b t d o w t a r e b s a N b o p f ( A r t a l s b t a a c e i b t a p a a t a c a a d a … S " U a … ( H a d m a a o e a a i a s n h a t e o y a s n c a a n c w a m a t i a r s b t]
+[DELETED:  S  P a f n c … ( R t u m r r a m o c e p h t i t a o a e r f w t N C D o T o l g t a t p t m i w t a m e t a y u w c o p … ( A n a a o t b h i r f o s a a r a r o t a N f s b l f v a o n m t f p a a o t r o w c … ( E a a g t i u t d t a o d e e f m r t i s o t p o s o a a i o c t t p r b t a i r i p t p i d a a d o t p f r … S " s U p o s i p f i t d a h s b h b t]
+[DELETED:  S  H e l p t t p g t t a i G a ( A a p a b t e b b c o o a o c s b g n o t c o t b h a t p e p n d o n c i m a h I t c b d T e b m a v o m t p d o t a S " ( A l c s s 9 m t s U p c a m ( T b t e m ( M a s o t a a d b f m t t p a a c l m c N a t t c i t C t]
+[DELETED:  S  P a v t ( S o ( A t a a f p " L I N P T H A M P W F E A Y A Y P I L M T t w o o l o b o t a s b d t h m t r o t s 4 t i p a G i t t a p o G R 4 t G R 4 N a c a y a t o ( A e o s a ( A ( T c a ( I f c u f b t c ( t t w a u r b t l o t n o p t f o f]
+[DELETED:  S  H t b l c a a e r c f s a f c o d r a w a t f b a a o a s a ( A t o m w o a m t a c n s m I o n s a i t l o o t o t c a r o t a t d a p s f t o p ( E t a o i t a r u d h c f 9 1 d o T a ( T l ( T o e t o g t t t f h d ( w ( T d b m p u a i s a a u o]
+[DELETED:  S  P ( T e n p o s f o a c o l a t p a p A … ( A o o i c o l T n s c t i r i G s r t l o r o r p u s t a c ( T n o h r p t G s b a g t o n o d a i c w s ( A o o f t o a t a t r t m v b t f p T c i s n b r i t a h s a o b t h a a b d o ( T c l w t c t h t c m c ( w t a u a p s p t s ( o t s ( w t o i b m f p u a p p a ( w t i t c t t t … ( T p o s ( o t s d n p o p a a o t j]
+[DELETED:  S  H a p ( A i i a a c c o a f f a l o u t f i e a m G e e … S " ( T a s k f r s d t e t a m o t a a e b s b m r a f e C s o w r E a o p i t b t a i n r t s r t t t i o b m s ( A r t a l s b t a a c e i b t a p l t i f m l c c f … S]
+[DELETED:  S  P " d ( D ( A N ( D – A m r t r e u t j o a a " t ( E b – T b r o n d i t d ( M o ( M o a ( P t ( D o c ( V d C 4 o t G S ( C P C A o a a p a a o a f o f a w t l o c o a a t ( M P M – P t f a c a a u C G S ( C P C A o a a d b a p ( T f t ( T s r ( T i l r i i h o t i r i o w ( I C n a p r a t p t n a e a i k T m]
+[DELETED:  S  H r t m t w ( M s ( A m d o o m p t s a t r i t m ( A t p i m b t o o e m i t m ( I w m p m m ( D M – E p t a d m d m u s o m b m r ( C s p A a p o o p ( C s c r a r m m o o p i t m I b p p i m t a t m p … ( A D t N – E a s i w s n t m t]
+[DELETED:  S  P n h s a S a S a " ( T D o J s r a r c b m o a b u D c s ( T ( T g ( T c ( D i o a t a u ( T ( T b i r t d i w t m a a c a t d a w a o e ( T c u o t r a o u t a ( T ( U t f ( T ( I ( I a t l a d g a o u o ( G u ( A r a o o a o u o a l o a m ( T c t a g o g d o a o u]
+[DELETED:  S  H o a d a a ( B C o C a E D t S S C o C i ( T ( T ( T ( T ( T a A b A c A d E e F f C g L h F i C j E ( A i ( T T T a i c S S a a o p t r o t a i e w i b l a t p c]

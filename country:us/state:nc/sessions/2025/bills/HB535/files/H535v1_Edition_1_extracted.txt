@@ -1,0 +1,572 @@
+Title: HOUSE BILL 535
+Official Title: HOUSE BILL 535
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Title Fraud Prevention Act. (Public)
+Sponsors: Representatives N. Jackson, Stevens, Balkcom, and Biggs (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Housing and Development, if favorable, Judiciary 2, if favorable, Rules, Calendar,
+and Operations of the House
+March 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PENALIZE THE FILING OF FRAUDULENT DEEDS AND CONVEYANCES
+3 AND TO PREVENT TITLE FRAUD BY AUTHORIZING THE REGISTER OF DEEDS
+4 TO REQUIRE THE PRODUCTION OF A GOVERNMENT-ISSUED PHOTOGRAPHIC
+5 IDENTIFICATION CARD BEFORE RECORDING A DEED OR CERTAIN OTHER
+6 INSTRUMENTS, REQUIRING THE REGISTER OF DEEDS TO PROVIDE ACCESS TO
+7 A FRAUD DETECTION ALERT SYSTEM, AND PROVIDING FOR A SEPARATE
+8 CAUSE OF ACTION TO QUIET TITLE AFTER AN ATTEMPTED FRAUDULENT
+9 CONVEYANCE.
+10 The General Assembly of North Carolina enacts:
+11 SECTION 1. G.S. 14-122 reads as rewritten:
+12 "§ 14-122. Forgery of deeds, wills and certain other instruments.instruments; presentation
+13 for filing.
+14 (a) If any person, of his own head and imagination, or by false conspiracy or fraud with
+15 others, shall wittingly and falsely forge and make, or shall cause or wittingly assent to the forging
+16 or making of, or shall show forth in evidence, knowing the same to be forged, any deed, lease or
+17 will, or any bond, writing obligatory, bill of exchange, promissory note, endorsement or
+18 assignment thereof; or any acquittance or receipt for money or goods; or any receipt or release
+19 for any bond, note, bill or any other security for the payment of money; or any order for the
+20 payment of money or delivery of goods, with intent, in any of said instances, to defraud any
+21 person or corporation, and thereof shall be duly convicted, the person so offending shall be
+22 punished as a Class H felon.
+23 (b) It shall be unlawful for any person to present for filing or recording in a public record
+24 or a private record generally available to the public a deed or transfer of real property of an owner,
+25 knowing or having reason to know that the deed or conveyance is false or contains a materially
+26 false, fictitious, or fraudulent statement or representation. If the value of property is one hundred
+27 thousand dollars ($100,000) or more, a violation of this subsection shall be punished as a Class
+28 C felony. If the value of property is less than one hundred thousand dollars ($100,000), a violation
+29 of this subsection is a Class G felony."
+30 SECTION 2. Article 2 of Chapter 161 of the General Statutes is amended by adding
+31 a new section to read:
+32 "§ 161-32. Identity verification and suspicious instruments.
+33 (a) Definitions. – The following definitions apply in this section:
+*H535-v-1*
+General Assembly Of North Carolina Session 2025
+1 (1) Instrument. – Any document that purports to convey title to, or an interest in,
+2 real property, such as a deed, deed of trust, or other similar document.
+3 (2) Suspicious instrument. – An instrument submitted for registration for which
+4 the register of deeds has found any of the following:
+5 a. The name or information of an acknowledging officer who has
+6 purported to acknowledge the instrument does not match the official
+7 records for that acknowledging officer.
+8 b. The instrument purports not to be subject to the laws of the United
+9 States or the laws of this State.
+10 c. The document does not conform to registration requirements
+11 established by the laws of this State.
+12 d. The instrument is materially false, fictitious, or fraudulent and has not
+13 been submitted by a trusted submitter or an authorized representative
+14 of a trusted submitter.
+15 (3) Trusted submitter. – Includes all of the following:
+16 a. A title insurance company as described in Article 26 of Chapter 28 of
+17 the General Statutes.
+18 b. An attorney licensed to practice in this State.
+19 c. A financial institution as defined in G.S. 53B-2.
+20 (b) Identity Verification. – Notwithstanding any other provision to the contrary in this
+21 Chapter, when an instrument is presented to the register of deeds for registration by an individual
+22 who is not a trusted submitter or the authorized agent of a trusted submitter, the register of deeds
+23 shall require the person presenting the instrument to produce a government-issued photographic
+24 identification card as follows:
+25 (1) If an individual who is not a trusted submitter or an authorized agent of a
+26 trusted submitter presents an instrument to the register of deeds for registration
+27 in person, the register of deeds shall require the individual to produce a
+28 government-issued photographic identification card for inspection by the
+29 register of deeds before registering the instrument. The register of deeds must
+30 record the name and address of such person, as the information appears on the
+31 identification card, in a record to be kept by the register of deeds, along with
+32 the official records book and page number or instrument number of the
+33 instrument registered in connection to the production of the identification
+34 card. Such a record may not be made available for viewing on the register of
+35 deeds' official public website but shall be made available for public inspection
+36 and copying as required by the public records laws of this State.
+37 (2) If an individual who is not a trusted submitter or an authorized agent of a
+38 trusted submitter presents an instrument in the form of an electronic
+39 document, as defined in G.S. 47-16.3(2), to the register of deeds, as provided
+40 by Article 1A of Chapter 47 of the General Statutes, the register of deeds shall
+41 require the individual to submit a photocopy of a government-issued
+42 photographic identification card before registering the instrument. The
+43 register of deeds must note on the photocopy of the identification card the
+44 official records book and page number or instrument number assigned to the
+45 instrument registered in connection to the submission of the photocopy of the
+46 identification card and retain the photocopy of such identification card in a
+47 record to be kept by the register of deeds. Such a record may not be made
+48 available for viewing on the register of deeds' official public website but shall
+49 be made available for public inspection and copying as required by the public
+50 records laws of this State. However, a person who submits a photocopy of his
+51 or her identification card under this subsection may redact from the photocopy
+Page 2 House Bill 535-First Edition
+General Assembly Of North Carolina Session 2025
+1 of such identification card before submission all of the information he or she
+2 does not wish to be made public, except for his or her name, address,
+3 photograph, birthdate, and ID expiration date.
+4 (c) Refusing to Register. – Notwithstanding any other provision to the contrary in this
+5 Chapter, the register of deeds shall refuse to register an instrument if one of the following occurs:
+6 (1) The register of deeds deems the instrument presented for registration a
+7 suspicious instrument under subdivision (a)(2) of this section.
+8 (2) The individual presenting the instrument for registration is not a trusted
+9 submitter or an authorized representative of a trusted submitter and fails to
+10 provide the register of deeds with a government-issued photographic
+11 identification card as required by subsection (b) of this section.
+12 (3) The individual presenting the instrument for registration is not a trusted
+13 submitter or an authorized representative of a trusted submitter and the name
+14 on the government-issued photographic identification card presented by the
+15 individual pursuant to subsection (b) of this section does not match the name
+16 of the grantor or conveying party in the instrument presented for registration.
+17 (d) Additional Actions for Suspicious Instruments. – Upon finding that an instrument
+18 presented for registration is a suspicious instrument under subdivision (a)(2) of this section, the
+19 register of deeds may do any of the following:
+20 (1) Report the suspicious instrument to an appropriate law enforcement agency.
+21 (2) Notify the acknowledging officer purported to have acknowledged the
+22 instrument of the reason for the register of deeds finding that the instrument
+23 is a suspicious instrument.
+24 (e) Notice of Requirements. – The register of deeds shall provide notice of the identity
+25 verification requirement described in subsection (b) of this section on the register of deeds'
+26 official public website.
+27 (f) Legal Protections and Remedies. –
+28 (1) An injured person has a cause of action against a register of deeds for that
+29 register of deeds' refusal to record an instrument based on that register of
+30 deeds' allegedly erroneous finding that the instrument is a suspicious
+31 instrument, as allowed by subdivision (c)(1) of this section. In an action
+32 authorized by this subsection, an injured person is only entitled to appropriate
+33 declaratory or injunctive relief. Notwithstanding G.S. 161-16, a register of
+34 deeds shall not be liable for damages or any other claim of monetary relief in
+35 an action brought under this subdivision.
+36 (2) There is no right or cause of action against, and no civil liability on the part
+37 of, the register of deeds or the county with respect to the register of deeds'
+38 requirement of an identification card, or any refusal to register an instrument
+39 as allowed by subdivision (c)(2) or (c)(3) of this section.
+40 (g) Confidentiality. – Nothing in this section shall be construed to require the register of
+41 deeds to provide or allow access to a record or other information that is considered confidential
+42 information as defined by G.S. 132-1.2."
+43 SECTION 3. Article 2 of Chapter 161 of the General Statutes is amended by adding
+44 a new section to read:
+45 "§ 161-33. Fraud detection alert system.
+46 (a) The following definitions apply in this section:
+47 (1) Fraud detection alert system. – A system which sends automated recording
+48 notifications.
+49 (2) Land record. – A deed, deed of trust, mortgage, or other document purporting
+50 to convey or encumber an interest in real property.
+House Bill 535-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (3) Monitored identity. – A personal, trust, or business name submitted by a
+2 registrant for monitoring under a fraud detection alert system.
+3 (4) Recording notification. – A notification sent by electronic mail indicating to
+4 a registrant that a land record associated with the registrant's monitored
+5 identity has been recorded in the office of the register of deeds.
+6 (5) Registrant. – A person who enrolls in a fraud detection alert system.
+7 (b) The register of deeds shall ensure that registration for a fraud detection alert system
+8 is possible through an electronic registration portal, which portal shall include at least all of the
+9 following features:
+10 (1) Be accessible through a direct link on the register of deeds' official public
+11 website.
+12 (2) Allow a registrant to subscribe to receive recording notifications for at least
+13 five monitored identities per valid electronic mail address provided.
+14 (3) Include a method by which a registrant may unsubscribe from the system.
+15 (4) List a phone number at which the register of deeds' office may be contacted
+16 during normal business hours with questions related to the system.
+17 (5) Send an automated electronic mail message to a registrant confirming the
+18 registrant's successful registration for or action to unsubscribe from the
+19 system, which message must identify each monitored identity for which a
+20 subscription was received or canceled.
+21 (c) When a land record is recorded for a monitored identity, a recording notification must
+22 be sent within five business days after the recording has been completed to each registrant who
+23 is subscribed to receive recording notifications for that monitored identity. Such notification must
+24 contain at least the following:
+25 (1) Information identifying the monitored identity for which the land record was
+26 filed.
+27 (2) The land record's recording date.
+28 (3) The official record book and page number or instrument number assigned to
+29 the land record by the register of deeds.
+30 (4) Instructions for electronically searching for and viewing the land record using
+31 the assigned official record book and page number or instrument number.
+32 (5) A phone number at which the register of deeds office may be contacted during
+33 normal business hours with questions related to the recording notification.
+34 (d) There is no right or cause of action against, and no civil liability on the part of, the
+35 register of deeds or the county with respect to the creation, maintenance, or operation of a fraud
+36 detection alert system as required by this section.
+37 (e) The register of deeds may charge a reasonable fee to a registrant for enrolling in the
+38 fraud detection alert system in an amount that does not exceed the actual cost of maintaining and
+39 allowing access to the system."
+40 SECTION 4. Article 1 of Chapter 41 of the General Statutes is amended by adding
+41 a new section to read:
+42 "§ 41-10.2. Titles quieted; fraudulent instruments.
+43 (a) As used in this section, the term "instrument" means any of the following:
+44 (1) A transfer of title to real property by deed or devise or other instrument
+45 transferring title to real property.
+46 (2) A deed of trust, mortgage, judgment, lien, encumbrance, financing statement,
+47 affidavit, notice, memorandum, or any other instrument that establishes a
+48 security interest in real property.
+49 (3) A contract, right of refusal, or any other instrument that purports to establish
+50 an interest, encumbrance, claim, or right relating to real property.
+Page 4 House Bill 535-First Edition
+General Assembly Of North Carolina Session 2025
+1 (b) The actual owner of an interest in real property subject to a recorded false, fictitious,
+2 or fraudulent instrument may seek expedited relief under this section by filing an action in district
+3 court alleging the filing or recording of a false, fictitious, or fraudulent instrument in a public
+4 record or a private record generally available to the public. The notice shall be served and proof
+5 of service shall be made in any manner provided by the Rules of Civil Procedure for service of
+6 summons, including service by registered mail or certified mail, return receipt requested. After a
+7 minimum of five days' notice in a manner prescribed in Rule 5 of the Rules of Civil Procedure
+8 and opportunity to be heard to all persons claiming an ownership interest in the property, any
+9 lienholder of record, including any person to whom a security instrument directs notice to be sent
+10 and any person obligated to repay the indebtedness secured by the instrument, the court shall
+11 convene a hearing. For purposes of the notice requirement in this subsection, the party seeking
+12 relief may serve the person listed as grantor in the recorded purportedly false, fictitious, or
+13 fraudulent instrument at the address listed in the instrument. If the court finds that there is no
+14 statutory, contractual, or other merited legal justification for the instrument, the court shall find
+15 that the recorded instrument is false and void as a matter of law and shall enter an order to remove
+16 the cloud from the title to the real property. The submission of an original instrument
+17 demonstrating source of title, affidavit, or a lis pendens, notice of previous fraud, or other similar
+18 instrument recorded by the actual owner of an interest in the real property shall be considered
+19 evidence of fraudulent activity. The court may also include in the order any of the following
+20 types of relief:
+21 (1) Grant to a prevailing party possession of the real property and order the
+22 ejectment of any party on the premises.
+23 (2) Award attorneys' fees and other costs for the action to the prevailing party.
+24 (3) Stay any proceedings involving the subject real property in which the property
+25 owner or owners are not a party to.
+26 (4) Upon a finding by the court that an action filed under this section is frivolous
+27 or malicious, assess a civil penalty of not more than ten thousand dollars
+28 ($10,000), of which the clear proceeds assessed under this subdivision shall
+29 be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+30 G.S. 115C-457.2.
+31 (5) Upon a finding by the court that a party has presented for filing or recording
+32 a false, fictitious, or fraudulent instrument as described in this section more
+33 than once, enter a pre-filing injunction against the party.
+34 (6) Enjoin a party from listing the real property for sale, lease, or any other similar
+35 advertisement.
+36 (c) Upon being presented with an order duly issued by a court of competent jurisdiction
+37 of this State declaring that an instrument already recorded is false and void as a matter of law,
+38 the register of deeds or clerk of superior court that received the recording shall record and
+39 cross-index the court's order finding the instrument to be false. The register of deeds or clerk of
+40 superior court may also conspicuously mark on the first page of the original record previously
+41 recorded the following statement: "THE CLAIM ASSERTED IN THIS DOCUMENT IS FALSE
+42 AND IS NOT PROVIDED FOR BY THE GENERAL LAWS OF THIS STATE."
+43 (d) In addition to any civil penalties provided for in this section, the presentation of an
+44 instrument for recording with a register of deeds or a clerk of superior court that is determined to
+45 be materially false, fictitious, or fraudulent shall constitute a violation of G.S. 75-1.1.
+46 (e) The Administrative Office of the Courts shall develop a form for the expedited relief
+47 filing established by this section and the clerk of superior court shall make the form available for
+48 a petitioner. In addition to the requirements set forth in this section, the form shall include clear
+49 language notifying the filing party that providing false information or statements is perjury
+50 pursuant to G.S. 14-209 and punishable as a Class F felony."
+House Bill 535-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 SECTION 5. Article 4 of Chapter 47 of the General Statutes is amended by adding
+2 a new section to read:
+3 "§ 47-108.30. No presumption of priority for certain recorded instruments.
+4 A deed or conveyance of an interest in real property shall not have a presumption of priority
+5 based upon the time of registration and shall not constitute color of title if any of the following
+6 criteria are met:
+7 (1) The deed or conveyance does not comply with the provisions of G.S. 47-18,
+8 47-20, 47-118, 47-119, 47-119.1, or 47-120, as applicable.
+9 (2) The deed or conveyance does not contain a signature and acknowledgement
+10 of at least one record owner at the time the conveyance is made."
+11 SECTION 6. Section 1 of this act becomes effective December 1, 2025, and applies
+12 to offenses committed on or after that date. Sections 2, 3, and 5 of this act become effective
+13 October 1, 2025, and apply to instruments and documents presented for registration on or after
+14 that date. Section 4 of this act becomes effective October 1, 2025, and applies to causes of action
+15 arising on or after that date. The remainder of this act is effective when it becomes law.
+Page 6 House Bill 535-First Edition
+[DELETED:  1 T ( R H A A A T I C B R A D O C O I A F D A S A P F A S C O A T Q T A A A F C T S " f ( I o o w o a b w o b o e p n e o a f p p p ( I o k f t C o S a " ( D]
+[DELETED:  S  H ( I r ( S t a T n o i o a a o w h p r b T S c T d d n c t r r e d T b o ( T a A t b A c A ( I C w s i ( I t i p t r o d s r t i t p a g p i c f i b t r r i t o r b a p n o i n o t i r i c t t p o i c d a ( I t s p a i i t f o a e d b r t i t s a p o a g p i c b r t i T r o i i r a b r o]
+[DELETED:  S  P o d n w t b m p e f h o h n a p ( R C ( T r o d d t i p f r a s ( T i p t i f r i n a t s p t r o d w a g p i ( T i p t i f r i n a t s o i o ( A p r ( R ( N t a o p t h a t i i ( N v o o ( L ( A r d a e f t t i i a s i a a b s ( o t s I a a a d G d a ( T o r a ( C d i S a " ( T ( F n ( L t]
+[DELETED:  S  H ( M i – A p t o b n s b a r ( R a r t a l r a w t r m i ( R ( T i f ( B w ( A f ( I ( L d ( S r s r f o a t u f t s s ( W b i c ( I f ( T ( T t ( I t ( A n ( T r d ( T f a S a " ( A ( A t o t t r p b d o d o o i t ( A a n m o a o i t e a s ( A a]
+[DELETED:  S  P ( T o c r o s m a l a c r t f s t t c f t t t t r p T s o a o i d i e t ( G t a p p p o t r p a o t e ( A ( S o ( U o ( b r t t C P a F F i a w G ( U a t ( E a ( U o t r o c o c t r t r s r c s r A ( I i b ( T f a l n t f p t p f i o i p p]
+[DELETED:  S  H S a " A b c ( T 4 ( T o S t O t a]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 535
+Short Title: Title Fraud Prevention Act. (Public)
+Sponsors: Representatives N. Jackson, Stevens, Balkcom, and Biggs (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Housing and Development, if favorable, Judiciary 2, if favorable, Rules, Calendar,
+and Operations of the House
+March 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PENALIZE THE FILING OF FRAUDULENT DEEDS AND CONVEYANCES
+3 AND TO PREVENT TITLE FRAUD BY AUTHORIZING THE REGISTER OF DEEDS
+4 TO REQUIRE THE PRODUCTION OF A GOVERNMENT-ISSUED PHOTOGRAPHIC
+5 IDENTIFICATION CARD BEFORE RECORDING A DEED OR CERTAIN OTHER
+6 INSTRUMENTS, REQUIRING THE REGISTER OF DEEDS TO PROVIDE ACCESS TO
+7 A FRAUD DETECTION ALERT SYSTEM, AND PROVIDING FOR A SEPARATE
+8 CAUSE OF ACTION TO QUIET TITLE AFTER AN ATTEMPTED FRAUDULENT
+9 CONVEYANCE.
+10 The General Assembly of North Carolina enacts:
+11 SECTION 1. G.S. 14-122 reads as rewritten:
+12 "§ 14-122. Forgery of deeds, wills and certain other instruments.instruments; presentation
+13 for filing.
+14 (a) If any person, of his own head and imagination, or by false conspiracy or fraud with
+15 others, shall wittingly and falsely forge and make, or shall cause or wittingly assent to the forging
+16 or making of, or shall show forth in evidence, knowing the same to be forged, any deed, lease or
+17 will, or any bond, writing obligatory, bill of exchange, promissory note, endorsement or
+18 assignment thereof; or any acquittance or receipt for money or goods; or any receipt or release
+19 for any bond, note, bill or any other security for the payment of money; or any order for the
+20 payment of money or delivery of goods, with intent, in any of said instances, to defraud any
+21 person or corporation, and thereof shall be duly convicted, the person so offending shall be
+22 punished as a Class H felon.
+23 (b) It shall be unlawful for any person to present for filing or recording in a public record
+24 or a private record generally available to the public a deed or transfer of real property of an owner,
+25 knowing or having reason to know that the deed or conveyance is false or contains a materially
+26 false, fictitious, or fraudulent statement or representation. If the value of property is one hundred
+27 thousand dollars ($100,000) or more, a violation of this subsection shall be punished as a Class
+28 C felony. If the value of property is less than one hundred thousand dollars ($100,000), a violation
+29 of this subsection is a Class G felony."
+30 SECTION 2. Article 2 of Chapter 161 of the General Statutes is amended by adding
+31 a new section to read:
+32 "§ 161-32. Identity verification and suspicious instruments.
+33 (a) Definitions. – The following definitions apply in this section:
+*H535-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (1) Instrument. – Any document that purports to convey title to, or an interest in,
+2 real property, such as a deed, deed of trust, or other similar document.
+3 (2) Suspicious instrument. – An instrument submitted for registration for which
+4 the register of deeds has found any of the following:
+5 a. The name or information of an acknowledging officer who has
+6 purported to acknowledge the instrument does not match the official
+7 records for that acknowledging officer.
+8 b. The instrument purports not to be subject to the laws of the United
+9 States or the laws of this State.
+10 c. The document does not conform to registration requirements
+11 established by the laws of this State.
+12 d. The instrument is materially false, fictitious, or fraudulent and has not
+13 been submitted by a trusted submitter or an authorized representative
+14 of a trusted submitter.
+15 (3) Trusted submitter. – Includes all of the following:
+16 a. A title insurance company as described in Article 26 of Chapter 28 of
+17 the General Statutes.
+18 b. An attorney licensed to practice in this State.
+19 c. A financial institution as defined in G.S. 53B-2.
+20 (b) Identity Verification. – Notwithstanding any other provision to the contrary in this
+21 Chapter, when an instrument is presented to the register of deeds for registration by an individual
+22 who is not a trusted submitter or the authorized agent of a trusted submitter, the register of deeds
+23 shall require the person presenting the instrument to produce a government-issued photographic
+24 identification card as follows:
+25 (1) If an individual who is not a trusted submitter or an authorized agent of a
+26 trusted submitter presents an instrument to the register of deeds for registration
+27 in person, the register of deeds shall require the individual to produce a
+28 government-issued photographic identification card for inspection by the
+29 register of deeds before registering the instrument. The register of deeds must
+30 record the name and address of such person, as the information appears on the
+31 identification card, in a record to be kept by the register of deeds, along with
+32 the official records book and page number or instrument number of the
+33 instrument registered in connection to the production of the identification
+34 card. Such a record may not be made available for viewing on the register of
+35 deeds' official public website but shall be made available for public inspection
+36 and copying as required by the public records laws of this State.
+37 (2) If an individual who is not a trusted submitter or an authorized agent of a
+38 trusted submitter presents an instrument in the form of an electronic
+39 document, as defined in G.S. 47-16.3(2), to the register of deeds, as provided
+40 by Article 1A of Chapter 47 of the General Statutes, the register of deeds shall
+41 require the individual to submit a photocopy of a government-issued
+42 photographic identification card before registering the instrument. The
+43 register of deeds must note on the photocopy of the identification card the
+44 official records book and page number or instrument number assigned to the
+45 instrument registered in connection to the submission of the photocopy of the
+46 identification card and retain the photocopy of such identification card in a
+47 record to be kept by the register of deeds. Such a record may not be made
+48 available for viewing on the register of deeds' official public website but shall
+49 be made available for public inspection and copying as required by the public
+50 records laws of this State. However, a person who submits a photocopy of his
+51 or her identification card under this subsection may redact from the photocopy
+Page 2 House Bill 535-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 of such identification card before submission all of the information he or she
+2 does not wish to be made public, except for his or her name, address,
+3 photograph, birthdate, and ID expiration date.
+4 (c) Refusing to Register. – Notwithstanding any other provision to the contrary in this
+5 Chapter, the register of deeds shall refuse to register an instrument if one of the following occurs:
+6 (1) The register of deeds deems the instrument presented for registration a
+7 suspicious instrument under subdivision (a)(2) of this section.
+8 (2) The individual presenting the instrument for registration is not a trusted
+9 submitter or an authorized representative of a trusted submitter and fails to
+10 provide the register of deeds with a government-issued photographic
+11 identification card as required by subsection (b) of this section.
+12 (3) The individual presenting the instrument for registration is not a trusted
+13 submitter or an authorized representative of a trusted submitter and the name
+14 on the government-issued photographic identification card presented by the
+15 individual pursuant to subsection (b) of this section does not match the name
+16 of the grantor or conveying party in the instrument presented for registration.
+17 (d) Additional Actions for Suspicious Instruments. – Upon finding that an instrument
+18 presented for registration is a suspicious instrument under subdivision (a)(2) of this section, the
+19 register of deeds may do any of the following:
+20 (1) Report the suspicious instrument to an appropriate law enforcement agency.
+21 (2) Notify the acknowledging officer purported to have acknowledged the
+22 instrument of the reason for the register of deeds finding that the instrument
+23 is a suspicious instrument.
+24 (e) Notice of Requirements. – The register of deeds shall provide notice of the identity
+25 verification requirement described in subsection (b) of this section on the register of deeds'
+26 official public website.
+27 (f) Legal Protections and Remedies. –
+28 (1) An injured person has a cause of action against a register of deeds for that
+29 register of deeds' refusal to record an instrument based on that register of
+30 deeds' allegedly erroneous finding that the instrument is a suspicious
+31 instrument, as allowed by subdivision (c)(1) of this section. In an action
+32 authorized by this subsection, an injured person is only entitled to appropriate
+33 declaratory or injunctive relief. Notwithstanding G.S. 161-16, a register of
+34 deeds shall not be liable for damages or any other claim of monetary relief in
+35 an action brought under this subdivision.
+36 (2) There is no right or cause of action against, and no civil liability on the part
+37 of, the register of deeds or the county with respect to the register of deeds'
+38 requirement of an identification card, or any refusal to register an instrument
+39 as allowed by subdivision (c)(2) or (c)(3) of this section.
+40 (g) Confidentiality. – Nothing in this section shall be construed to require the register of
+41 deeds to provide or allow access to a record or other information that is considered confidential
+42 information as defined by G.S. 132-1.2."
+43 SECTION 3. Article 2 of Chapter 161 of the General Statutes is amended by adding
+44 a new section to read:
+45 "§ 161-33. Fraud detection alert system.
+46 (a) The following definitions apply in this section:
+47 (1) Fraud detection alert system. – A system which sends automated recording
+48 notifications.
+49 (2) Land record. – A deed, deed of trust, mortgage, or other document purporting
+50 to convey or encumber an interest in real property.
+House Bill 535-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (3) Monitored identity. – A personal, trust, or business name submitted by a
+2 registrant for monitoring under a fraud detection alert system.
+3 (4) Recording notification. – A notification sent by electronic mail indicating to
+4 a registrant that a land record associated with the registrant's monitored
+5 identity has been recorded in the office of the register of deeds.
+6 (5) Registrant. – A person who enrolls in a fraud detection alert system.
+7 (b) The register of deeds shall ensure that registration for a fraud detection alert system
+8 is possible through an electronic registration portal, which portal shall include at least all of the
+9 following features:
+10 (1) Be accessible through a direct link on the register of deeds' official public
+11 website.
+12 (2) Allow a registrant to subscribe to receive recording notifications for at least
+13 five monitored identities per valid electronic mail address provided.
+14 (3) Include a method by which a registrant may unsubscribe from the system.
+15 (4) List a phone number at which the register of deeds' office may be contacted
+16 during normal business hours with questions related to the system.
+17 (5) Send an automated electronic mail message to a registrant confirming the
+18 registrant's successful registration for or action to unsubscribe from the
+19 system, which message must identify each monitored identity for which a
+20 subscription was received or canceled.
+21 (c) When a land record is recorded for a monitored identity, a recording notification must
+22 be sent within five business days after the recording has been completed to each registrant who
+23 is subscribed to receive recording notifications for that monitored identity. Such notification must
+24 contain at least the following:
+25 (1) Information identifying the monitored identity for which the land record was
+26 filed.
+27 (2) The land record's recording date.
+28 (3) The official record book and page number or instrument number assigned to
+29 the land record by the register of deeds.
+30 (4) Instructions for electronically searching for and viewing the land record using
+31 the assigned official record book and page number or instrument number.
+32 (5) A phone number at which the register of deeds office may be contacted during
+33 normal business hours with questions related to the recording notification.
+34 (d) There is no right or cause of action against, and no civil liability on the part of, the
+35 register of deeds or the county with respect to the creation, maintenance, or operation of a fraud
+36 detection alert system as required by this section.
+37 (e) The register of deeds may charge a reasonable fee to a registrant for enrolling in the
+38 fraud detection alert system in an amount that does not exceed the actual cost of maintaining and
+39 allowing access to the system."
+40 SECTION 4. Article 1 of Chapter 41 of the General Statutes is amended by adding
+41 a new section to read:
+42 "§ 41-10.2. Titles quieted; fraudulent instruments.
+43 (a) As used in this section, the term "instrument" means any of the following:
+44 (1) A transfer of title to real property by deed or devise or other instrument
+45 transferring title to real property.
+46 (2) A deed of trust, mortgage, judgment, lien, encumbrance, financing statement,
+47 affidavit, notice, memorandum, or any other instrument that establishes a
+48 security interest in real property.
+49 (3) A contract, right of refusal, or any other instrument that purports to establish
+50 an interest, encumbrance, claim, or right relating to real property.
+Page 4 House Bill 535-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) The actual owner of an interest in real property subject to a recorded false, fictitious,
+2 or fraudulent instrument may seek expedited relief under this section by filing an action in district
+3 court alleging the filing or recording of a false, fictitious, or fraudulent instrument in a public
+4 record or a private record generally available to the public. The notice shall be served and proof
+5 of service shall be made in any manner provided by the Rules of Civil Procedure for service of
+6 summons, including service by registered mail or certified mail, return receipt requested. After a
+7 minimum of five days' notice in a manner prescribed in Rule 5 of the Rules of Civil Procedure
+8 and opportunity to be heard to all persons claiming an ownership interest in the property, any
+9 lienholder of record, including any person to whom a security instrument directs notice to be sent
+10 and any person obligated to repay the indebtedness secured by the instrument, the court shall
+11 convene a hearing. For purposes of the notice requirement in this subsection, the party seeking
+12 relief may serve the person listed as grantor in the recorded purportedly false, fictitious, or
+13 fraudulent instrument at the address listed in the instrument. If the court finds that there is no
+14 statutory, contractual, or other merited legal justification for the instrument, the court shall find
+15 that the recorded instrument is false and void as a matter of law and shall enter an order to remove
+16 the cloud from the title to the real property. The submission of an original instrument
+17 demonstrating source of title, affidavit, or a lis pendens, notice of previous fraud, or other similar
+18 instrument recorded by the actual owner of an interest in the real property shall be considered
+19 evidence of fraudulent activity. The court may also include in the order any of the following
+20 types of relief:
+21 (1) Grant to a prevailing party possession of the real property and order the
+22 ejectment of any party on the premises.
+23 (2) Award attorneys' fees and other costs for the action to the prevailing party.
+24 (3) Stay any proceedings involving the subject real property in which the property
+25 owner or owners are not a party to.
+26 (4) Upon a finding by the court that an action filed under this section is frivolous
+27 or malicious, assess a civil penalty of not more than ten thousand dollars
+28 ($10,000), of which the clear proceeds assessed under this subdivision shall
+29 be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+30 G.S. 115C-457.2.
+31 (5) Upon a finding by the court that a party has presented for filing or recording
+32 a false, fictitious, or fraudulent instrument as described in this section more
+33 than once, enter a pre-filing injunction against the party.
+34 (6) Enjoin a party from listing the real property for sale, lease, or any other similar
+35 advertisement.
+36 (c) Upon being presented with an order duly issued by a court of competent jurisdiction
+37 of this State declaring that an instrument already recorded is false and void as a matter of law,
+38 the register of deeds or clerk of superior court that received the recording shall record and
+39 cross-index the court's order finding the instrument to be false. The register of deeds or clerk of
+40 superior court may also conspicuously mark on the first page of the original record previously
+41 recorded the following statement: "THE CLAIM ASSERTED IN THIS DOCUMENT IS FALSE
+42 AND IS NOT PROVIDED FOR BY THE GENERAL LAWS OF THIS STATE."
+43 (d) In addition to any civil penalties provided for in this section, the presentation of an
+44 instrument for recording with a register of deeds or a clerk of superior court that is determined to
+45 be materially false, fictitious, or fraudulent shall constitute a violation of G.S. 75-1.1.
+46 (e) The Administrative Office of the Courts shall develop a form for the expedited relief
+47 filing established by this section and the clerk of superior court shall make the form available for
+48 a petitioner. In addition to the requirements set forth in this section, the form shall include clear
+49 language notifying the filing party that providing false information or statements is perjury
+50 pursuant to G.S. 14-209 and punishable as a Class F felony."
+House Bill 535-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 5. Article 4 of Chapter 47 of the General Statutes is amended by adding
+2 a new section to read:
+3 "§ 47-108.30. No presumption of priority for certain recorded instruments.
+4 A deed or conveyance of an interest in real property shall not have a presumption of priority
+5 based upon the time of registration and shall not constitute color of title if any of the following
+6 criteria are met:
+7 (1) The deed or conveyance does not comply with the provisions of G.S. 47-18,
+8 47-20, 47-118, 47-119, 47-119.1, or 47-120, as applicable.
+9 (2) The deed or conveyance does not contain a signature and acknowledgement
+10 of at least one record owner at the time the conveyance is made."
+11 SECTION 6. Section 1 of this act becomes effective December 1, 2025, and applies
+12 to offenses committed on or after that date. Sections 2, 3, and 5 of this act become effective
+13 October 1, 2025, and apply to instruments and documents presented for registration on or after
+14 that date. Section 4 of this act becomes effective October 1, 2025, and applies to causes of action
+15 arising on or after that date. The remainder of this act is effective when it becomes law.
+Page 6 House Bill 535-First Edition
+
+[DELETED:  1 T ( R H A A A T I C B R A D O C O I A F D A S A P F A S C O A T Q T A A A F C T S " f ( I o o w o a b w o b o e p n e o a f p p p ( I o k f t C o S a " ( D]
+[DELETED:  S  H ( I r ( S t a T n o i o a a o w h p r b T S c T d d n c t r r e d T b o ( T a A t b A c A ( I C w s i ( I t i p t r o d s r t i t p a g p i c f i b t r r i t o r b a p n o i n o t i r i c t t p o i c d a ( I t s p a i i t f o a e d b r t i t s a p o a g p i c b r t i T r o i i r a b r o]
+[DELETED:  S  P o d n w t b m p e f h o h n a p ( R C ( T r o d d t i p f r a s ( T i p t i f r i n a t s p t r o d w a g p i ( T i p t i f r i n a t s o i o ( A p r ( R ( N t a o p t h a t i i ( N v o o ( L ( A r d a e f t t i i a s i a a b s ( o t s I a a a d G d a ( T o r a ( C d i S a " ( T ( F n ( L t]
+[DELETED:  S  H ( M i – A p t o b n s b a r ( R a r t a l r a w t r m i ( R ( T i f ( B w ( A f ( I ( L d ( S r s r f o a t u f t s s ( W b i c ( I f ( T ( T t ( I t ( A n ( T r d ( T f a S a " ( A ( A t o t t r p b d o d o o i t ( A a n m o a o i t e a s ( A a]
+[DELETED:  S  P ( T o c r o s m a l a c r t f s t t c f t t t t r p T s o a o i d i e t ( G t a p p p o t r p a o t e ( A ( S o ( U o ( b r t t C P a F F i a w G ( U a t ( E a ( U o t r o c o c t r t r s r c s r A ( I i b ( T f a l n t f p t p f i o i p p]
+[DELETED:  S  H S a " A b c ( T 4 ( T o S t O t a]

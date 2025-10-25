@@ -1,0 +1,398 @@
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 860
+Committee Substitute Favorable 6/17/25
+Short Title: Social Media Control in IT Act. (Public)
+Sponsors:
+Referred to:
+April 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO COMBAT SOCIAL MEDIA ADDICTION BY REQUIRING THAT SOCIAL
+3 MEDIA PLATFORMS RESPECT THE PRIVACY OF NORTH CAROLINA USERS'
+4 DATA AND NOT USE A NORTH CAROLINA MINOR'S DATA FOR ADVERTISING
+5 OR ALGORITHMIC RECOMMENDATIONS, AND APPROPRIATING FUNDS FOR
+6 THAT PURPOSE, AND TO MAKE WILLFUL VIOLATIONS OF DATA USER
+7 PRIVACY AN UNFAIR PRACTICE UNDER CHAPTER 75 OF THE GENERAL
+8 STATUTES.
+9 The General Assembly of North Carolina enacts:
+10 SECTION 1. Chapter 75 of the General Statutes is amended by adding a new Article
+11 to read:
+12 "Article 2B.
+13 "Social Media Control in Information Technology.
+14 "§ 75-70. Title; definitions.
+15 (a) This Article shall be known and may be cited as the "Social Media Control in
+16 Information Technology Act."
+17 (b) Definitions. – The following definitions apply in this Article:
+18 (1) Accessible mechanism. – A user-friendly, clear, easy-to-use, readily
+19 available, and technologically feasible method that allows individuals to
+20 exercise their data privacy rights without undue burden. The mechanism must
+21 be designed to accommodate diverse user needs, including those with
+22 disabilities, and should be available across commonly used platforms. The
+23 mechanism should provide clear instructions, function without excessive
+24 complexity, and be free of unreasonable barriers such as length procedures,
+25 hidden settings, or excessive delays.
+26 (2) Algorithmic recommendation system. – A computational process that uses
+27 machine learning, natural language processing, artificial intelligence
+28 techniques, generative artificial intelligence, or other computational
+29 processing techniques that makes a decision or facilitates human decision
+30 making with respect to user-related data to rank, order, promote, recommend,
+31 suggest, amplify, or similarly determine the delivery or display of information
+32 to an individual.
+33 (3) Collects, collected, or collection. – Buying, renting, gathering, obtaining,
+34 receiving, or accessing any personal information pertaining to a user by any
+35 means. This includes receiving information from the consumer, either actively
+36 or passively, or by observing the consumer's behavior.
+*H860-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 (4) Consent. – Any freely given, specific, informed, and unambiguous indication
+2 of a user's wishes by which the consumer, or the consumer's legal guardian, a
+3 person who has power of attorney, or a person acting as a conservator for the
+4 consumer, including by a statement or by a clear affirmative action, signifies
+5 agreement to the processing of personal information relating to the consumer
+6 for a narrowly defined particular purpose. None of the following constitutes
+7 consent:
+8 a. Acceptance of a general or broad terms of use, or similar document,
+9 that contains descriptions of personal information processing along
+10 with other, unrelated information.
+11 b. Hovering over, muting, pausing, or closing a given piece of content.
+12 c. Agreement obtained through use of dark patterns.
+13 (5) Default settings. – The predetermined options, values, and configurations that
+14 a program is initially set to whenever it is installed and initially accessed.
+15 (6) Minor. – An individual who is under 18 years of age.
+16 (7) Operator. – Defined in section 1302 of the Children's Online Privacy
+17 Protection Act of 1998, 15 U.S.C. § 6501.
+18 (8) Opt-in mechanism. – An accessible mechanism separate from any other
+19 notifications, disclosures, or consents, such as a privacy policy or terms of
+20 service, that allows the user to consent to the platform engaging in a specific,
+21 narrow, and well-defined practice. The Division of Health Service Regulation
+22 has the authority to specify requirements for the notification and consent
+23 process, including specific language and disclosures that may include a
+24 warning on the harmful effects of manipulative algorithms, the length of time
+25 for which the notification must appear before the user has the option to
+26 consent, and the process that the user must follow to consent.
+27 (9) Personal information. – Information that identifies, relates to, describes, is
+28 reasonably capable of being associated with, or could reasonably be linked,
+29 directly or indirectly, with a particular consumer or household. Personal
+30 information includes, but is not limited to, the following if it identifies, relates
+31 to, describes, is reasonably capable of being associated with, or could be
+32 reasonably linked, directly or indirectly, with a particular user or household:
+33 a. Identifiers such as a real name, alias, postal address, unique personal
+34 identifier, online identifier, Internet Protocol address, email address,
+35 account name, social security number, drivers license number,
+36 passport number, or other similar identifiers.
+37 b. Commercial information, including, but not limited to, records of
+38 personal property, products, or services purchased, obtained, or
+39 considered, or other purchasing or consumer histories or tendencies.
+40 c. Biometric information, that is any information relating to an
+41 individual's physiological, biological, or behavioral characteristics,
+42 including, but not limited to, imagery of the iris, retina, fingerprint,
+43 face, hand, palm, gait, vein patterns, and voice recordings.
+44 d. Internet or other electronic network activity information, including,
+45 but not limited to, browsing history, search history, and information
+46 regarding a user's interaction with an internet website application or
+47 advertisement.
+48 e. Usage data.
+49 f. Third-party data.
+50 g. Geolocation data.
+51 h. Audio, electronic, visual, thermal, olfactory, or similar information.
+Page 2 House Bill 860-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 i. Professional or employment-related information.
+2 j. Education information, defined as information that is not publicly
+3 available personally identifiable information as defined in the Family
+4 Education Rights and Privacy Act (20 U.S.C. § 1232(g); 34 C.F.R.
+5 Part 99).
+6 k. Financial information from a user, including, but not limited to, a
+7 user's account log-in, financial account, debit card, or credit card
+8 number in combination with any required security or access code,
+9 password, or credentials allowing access to an account.
+10 l. The contents of a user's mail, email, and text messages unless the
+11 platform is the intended recipient of the communication.
+12 m. A user's racial or ethnic origin, citizenship or immigration status,
+13 religious or philosophical beliefs, or union membership.
+14 n. Information related to a user's health, sex life, or sexual orientation.
+15 o. Inferences drawn from any of the information identified in this
+16 subdivision reflecting the user's preferences, characteristics,
+17 psychological trends, predispositions, behavior, attitudes, intelligence,
+18 abilities, and aptitudes.
+19 (10) Platform user. – An individual who resides in North Carolina who uses a
+20 social media platform.
+21 (11) Social media platform, covered platform, or platform. – An electronic medium
+22 with more than 1,000,000 monthly active users in the United States that
+23 functions as a social media service. The term does not include any of the
+24 following:
+25 a. An entity acting in its capacity as a provider of a common carrier
+26 service subject to the Communications Act of 1934 (47 U.S.C. § 151
+27 et seq.) as amended and supplemented.
+28 b. A broadband internet access service under section 8.1(b) of Title 47 of
+29 the Code of Federal Regulations.
+30 c. An electronic mail service.
+31 d. Internet search engines specifically designed to lead a user to a result
+32 which a user expressly searched for.
+33 e. Internet service providers.
+34 f. A wireless messaging service provided through the short messaging
+35 service or multimedia messaging service protocols, or through a
+36 functional equivalent.
+37 g. Video game services primarily designed to serve as a platform to play
+38 video games.
+39 h. Online shopping or e-commerce services primarily designed for that
+40 purpose.
+41 i. Video-streaming services that solely provide non-user generated
+42 content.
+43 j. A community forum where the primary purpose of the forum is for
+44 customer self-service support related to products, sellers, services,
+45 events, or places, or any combination thereof.
+46 (12) Third-party data. – Personal data from another person, company, data broker,
+47 and/or platform that is not the user to whom the data pertains and is not the
+48 platform. The term does not refer to persons, companies, data brokers, and/or
+49 platforms that collect personal data from another entity if the entity shares
+50 common branding with the platform, controls the platform, is controlled by
+House Bill 860-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 the platform, or is under common control of another legal entity with the
+2 platform.
+3 (13) Usage data. – Any information that is gathered about a user's interactions,
+4 behaviors, preferences, and usage patterns on a platform, including, but not
+5 limited to, information related to pages visited, clicks, scrolls, navigation
+6 patterns, search queries, button presses, feature usage, frequency of logins,
+7 session duration, items added or removed from a shopping cart, purchasing
+8 history, subscription usage, content watched, content read, content listened to,
+9 or time spent using or engaging with any feature or piece of content on the
+10 platform. This includes any and all inferences derivable and related to a user
+11 from this usage data, including user engagement statistics, content metrics,
+12 feature usage statistics, user flow data, retention rates, and churn rates.
+13 "§ 75-71. User data privacy; targeting minors prohibited; registry.
+14 (a) Privacy Requirements. – The General Assembly finds that unhealthy social media use
+15 has been linked to depression, anxiety, eating disorders, and suicidal ideation, especially among
+16 young people. Exploitation of user data can result in users being targeted in ways that increase
+17 unhealthy social media use. It is the policy of this State that user data privacy shall be respected
+18 by platforms. Special protections are warranted for users who are minors. Therefore, the operator
+19 of a social media platform shall comply with all of the following requirements for platform users:
+20 (1) The platform must specifically and clearly inform users in the following ways:
+21 a. A disclosure in a clear, easy-to-read, and accessible format when a user
+22 first initializes their use of a platform for the first time, or after a period
+23 of inactivity greater than or equal to six months, about how the
+24 platform collects personal information, what personal information the
+25 platform collects, how the personal information is used by the platform
+26 for every use case, and how the user can exercise their rights and
+27 choices on the platform. This disclosure must be provided in no more
+28 than 500 words, and the platform must obtain a user's consent before
+29 the platform collects any user-related data on the user.
+30 b. A disclosure in a clear, easy-to-read, and accessible format that details
+31 (i) the categories of information the platform has collected about the
+32 user, (ii) the categories of sources from which the information is
+33 collected, (iii) the business or commercial purpose for collecting,
+34 selling, or sharing personal information, (iv) the categories of third
+35 parties to whom the business discloses personal information, and (v)
+36 the specific pieces of personal information it has collected about that
+37 user. Such information must be available upon receipt of a verifiable
+38 consumer request made through an accessible mechanism on the
+39 platform.
+40 (2) Personal information may be used in algorithmic recommendations only when
+41 both of the following requirements are met:
+42 a. The platform reasonably determines the user is not a minor from
+43 personal information collected by and available to the covered
+44 platform in its ordinary course of business.
+45 b. The user has been notified and expressly consents to the use of their
+46 own data in this manner by consenting in an opt-in mechanism.
+47 (3) Through an accessible mechanism, users must be given the capacity to alter,
+48 change, and delete what categories of personal information are used in a
+49 platform's algorithmic recommendation system or systems. This selection
+50 shall be modifiable at any time. If a user indicates that they intend a certain
+51 category of personal information not to be used in an algorithmic
+Page 4 House Bill 860-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 recommendation system, then the platform must not include said category or
+2 categories within an algorithmic recommendation system. A covered platform
+3 shall not discriminate against a user because the user exercised any of the
+4 rights under this Article in the provision of functionality or features of the
+5 covered platform, unless the use of user-related data in an algorithmic
+6 recommendation system is reasonably necessary to the feature or
+7 functionality.
+8 (b) Targeting Minors Prohibited. – A covered platform must establish comprehensive and
+9 effective controls to ensure that a minor's personal information is not used in any algorithmic
+10 recommendation system.
+11 (c) Exceptions. – Subsection (b) of this section does not apply to any of the following:
+12 (1) Recommending or presenting content from accounts that a user follows in
+13 reverse chronological order or a similar method of recommending or
+14 presenting content.
+15 (2) A user's explicit search for content or request for information for the sole
+16 purpose of providing immediate results to the search, and without retention or
+17 use of the user-related data from the search or request for purposes other than
+18 providing results to the search or request.
+19 (3) A covered platform's action, voluntarily taken in good faith to restrict access
+20 to or availability of material as described in section 230(c)(2)(A) of the
+21 Communications Act of 1934 (47 U.S.C. § 230(c)(2)(A)), is not subject to this
+22 subsection, and nothing in this section otherwise limits or otherwise affects
+23 the provisions of section 230 of the Communications Act of 1934, except as
+24 otherwise provided in this Article.
+25 (d) The operator of a social media platform may be held liable for violating subsection
+26 (a) of this section if the user was given algorithmic content recommendations without a proper
+27 opt-in mechanism or affirmation from the user from the opt-in process. The operator of a social
+28 media platform may be held liable for violating subsection (b) of this section if the operator of
+29 the social media platform knew or had reason to know that the user was a minor. The operator of
+30 a social media platform that has made an estimation of a user's age based upon the user's
+31 self-attestation is not liable if the user was a minor who falsely attested to not being a minor.
+32 (e) Registry. – Beginning October 1, 2026, and then annually thereafter, a social media
+33 platform shall provide the Consumer Protection Division of the North Carolina Department of
+34 Justice (Division) with a digital copy of the platform's privacy policy and certification that the
+35 platform has complied with the requirements of this section. Platforms shall provide notice of
+36 substantive privacy policy changes to the registry. The Division shall maintain a registry of these
+37 policies and certifications on its internet website.
+38 "§ 75-72. Design features and digital rights of users.
+39 (a) Protective Default Settings for Minors. – A covered platform shall configure all
+40 privacy settings provided to any user by the online service, product, or feature to be both available
+41 to minors and, by default, set to preferences that offer the highest level of privacy, unless the
+42 business can demonstrate a compelling reason that a different setting is in the best interest of
+43 minors. These settings must include all of the following:
+44 (1) Notifications must be turned off by default.
+45 (2) The visibility of reaction or interaction counts on all content, including content
+46 generated by a minor and content seen by a minor generated from others, must
+47 be turned off by default.
+48 (3) The ability of other users, not added by the user to a list of approved contacts,
+49 to communicate with the minor must be turned off by default.
+House Bill 860-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (4) The ability of other users, whether registered or not, and not added by the user
+2 to a list of approved contacts, to view the minor's user-related data collected
+3 by or shared on the platform must be disabled by default.
+4 (5) The ability of other users to see the geolocation of a minor must be disabled
+5 by default.
+6 (6) Features that increase, sustain, or extend the use of the covered platform by a
+7 minor, such as automatic playing of media and rewards for time spent on the
+8 platform, must be disabled by default.
+9 (b) Rights to Change and Delete Data. – A covered platform shall provide users with both
+10 of the following:
+11 (1) An accessible mechanism to request the correction of any inaccurate personal
+12 information about the user, taking into account the nature of the personal
+13 information and the purposes of the personal information. A platform that
+14 receives a verifiable request to correct inaccurate personal information shall
+15 use commercially reasonable efforts to correct the inaccurate personal
+16 information as directed by the user. A covered platform shall maintain a record
+17 of all requests.
+18 (2) An accessible mechanism to request the deletion of personal information
+19 about the user, taking into account the nature of the personal information and
+20 the purposes of the personal information. If the personal information is
+21 reasonably necessary for the platform to complete a transaction, to ensure the
+22 security and integrity of the user's personal information, to debug or identify
+23 and repair errors in the platform, to exercise free speech and ensure the user's
+24 right to exercise free speech, to comply with existing federal and State
+25 regulations, to engage in public or peer-reviewed scientific research, or to
+26 enable solely internal uses reasonably aligned with a consumer's expectations,
+27 then the covered platform is not required to comply with the user's request.
+28 Otherwise, the covered platform is required to complete the request. A
+29 covered platform shall maintain a confidential record of all requests.
+30 (c) Digital Rights of the User. – All of the following rights belong to every minor utilizing
+31 covered platforms:
+32 (1) Right to protection from manipulative design. – Every minor has the right to
+33 be protected from manipulative design techniques which exploit
+34 psychological vulnerability or have been shown by the preponderance of the
+35 evidence to create addiction or dependency.
+36 (2) Right to transparency. – Every minor has the right to understand the nature of
+37 their digital experiences. Platforms and services should provide clear and
+38 accessible explanations of the platform features as well as how covered
+39 platforms can negatively affect their well-being.
+40 (3) Right to protection from personalized recommendation systems. – Every
+41 minor has the right to be protected from algorithmic recommendation systems.
+42 (d) The operator of a covered platform may be subject to violations of subsection (a), (b),
+43 or (c) of this section if any of the requirements and rights established herein have been determined
+44 to be violated.
+45 "§ 75-73. Investigation; enforcement; private right of action.
+46 (a) Violations. – Effective January 1, 2027, a platform's violation of this Article is an
+47 unfair or deceptive act or practice under G.S. 75-1.1.
+48 (b) Investigations. – The Attorney General shall monitor social media platforms for
+49 compliance with this Article.
+50 (c) Complaints. – A platform user may make a complaint to the Attorney General
+51 alleging that a social media platform has failed to comply with the requirements of this Article.
+Page 6 House Bill 860-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 The Attorney General may bring a civil action in any case in which the Attorney General has
+2 reason to believe that the interest of the residents of this State has been or is threatened due to
+3 noncompliance with this Article.
+4 (d) Private Right of Action. – Minors can file suit if they are affected by any covered
+5 platform found to be in violation of this Article through mechanisms involved in parens patriae
+6 jurisdiction by the following:
+7 (1) Civil suit brought through private action attorneys.
+8 (2) Relief. – In a civil action brought under subsection (c) of this section or this
+9 subsection in which a plaintiff prevails, the court may award the plaintiff any
+10 one or more of the following:
+11 a. An amount equal to the sum of any compensatory damages.
+12 b. Punitive damages.
+13 c. Injunctive relief.
+14 d. Declaratory relief.
+15 e. Reasonable attorneys' fees and litigation costs.
+16 "§ 75-74. North Carolina Data Privacy Task Force.
+17 (a) There is created the North Carolina Data Privacy Task Force (Task Force) within the
+18 Department of Justice for budgetary purposes only.
+19 (b) The Task Force shall be composed of 21 members. The ex officio members listed in
+20 subdivisions (1) through (6) of this subsection may designate representatives from their particular
+21 departments, divisions, or offices to represent them on the Task Force. In making appointments
+22 or designating representatives, appointing authorities and ex officio members shall use best
+23 efforts to select members or representatives with sufficient knowledge and experience to
+24 effectively contribute to the issues examined by the Task Force and, to the extent possible, to
+25 reflect the geographical, political, gender, and racial diversity of this State. The members shall
+26 be as follows:
+27 (1) The Attorney General.
+28 (2) The State Chief Information Officer.
+29 (3) The Secretary of the Department of Health and Human Services.
+30 (4) The Director of the State Bureau of Investigation.
+31 (5) The Director of the Maternal and Child Health Section of the Department of
+32 Health and Human Services.
+33 (6) The Director of the Division of Mental Health, Developmental Disabilities,
+34 and Substance Use Services.
+35 (7) A representative from NC Child, appointed by the Governor upon
+36 recommendation of the President of the organization.
+37 (8) A representative from a private group, other than NC Child, that advocates for
+38 children, appointed by the Governor upon recommendation of private child
+39 advocacy organizations.
+40 (9) A pediatrician, licensed to practice medicine in North Carolina, appointed by
+41 the President Pro Tempore of the Senate.
+42 (10) A psychiatrist, licensed to practice medicine in North Carolina, appointed by
+43 the Speaker of the House of Representatives.
+44 (11) Two public members, one of whom is an educator, appointed by the Speaker
+45 of the House of Representatives.
+46 (12) Two public members, one of whom is a social worker, appointed by the
+47 President Pro Tempore of the Senate.
+48 (13) Two members of the Senate, appointed by the President Pro Tempore of the
+49 Senate, and two members of the House of Representatives, appointed by the
+50 Speaker of the House of Representatives.
+House Bill 860-Second Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (14) A representative from the North Carolina Young People's Alliance, appointed
+2 by the Governor upon recommendation of the head of the organization.
+3 (15) Two youth representatives under the age of 21 appointed by the Secretary of
+4 the Department of Health and Human Services after conducting an
+5 application-based selection process.
+6 (c) All members of the Task Force are voting members. Vacancies in the appointed
+7 membership shall be filled by the appointing officer who made the initial appointment. Terms
+8 shall be two years. The members shall elect a chair who shall preside for the duration of the
+9 chair's term as a member. In the event a vacancy occurs in the chair before the expiration of the
+10 chair's term, the members shall elect an acting chair to serve for the remainder of the unexpired
+11 term.
+12 (d) Beginning March 15, 2027, and then annually thereafter, the Task Force shall report
+13 to the General Assembly on its work, with a special focus on mental health issues related to social
+14 media, along with findings, recommendations, and any legislative proposals."
+15 SECTION 2. Effective July 1, 2025, there is appropriated from the General Fund to
+16 the Department of Justice the sum of one hundred thousand dollars ($100,000) for the 2025-2026
+17 fiscal year and the sum of one hundred thousand dollars ($100,000) for the 2026-2027 fiscal year
+18 to develop the registry created in G.S. 75-71, as enacted by this act.
+19 SECTION 3. Section 1 of this act becomes effective October 1, 2026. The remainder
+20 of this act is effective when it becomes law.
+Page 8 House Bill 860-Second Edition
+
+[DELETED:  2 S (   A A M P R T P O N C U D O A R A A F F T P A T M W V O D U P A U P U C 7 O T G S T S t " " " ( T A s b k a m b c a t " M C i I ( D ( A m – A u c e r a a t f m t a i t e b d t a d u n i t w d m s p c i f w e c h ( A m l n l p a i t g a i o o c p t t m a d o h d m s t ( C c o c – B r g o r m o]
+[DELETED:  S  H ( C o p c a f c a A t w b H c A ( D a ( M ( O – D i s 1 o t C O P P ( O m – A a m s f a o n s n h t a t s r f t n a c p i s l a d t m i a w f w t n m a b t u h t o t c ( P r d o i w a p c o h P i t d i r c o b a w o c b r a I i a n s s n d l n p b C i i b n l t r o p p p o s p o o c c B i t i a i r t a i p b o b c i f d I b r a e U f T g G h A]
+[DELETED:  S  P i P j E i d a i t i n p a E P k F i f a u i b n l t a u a l f a d c o c c n i c w a r s o a c p l T a m p m A u r o e o c o i s r n I o I d f a o t i i i t s r t u p c p a ( P s ( S w m t 1 m a u i t U S t f f a A s e b A t c A d I w e I f A s o m m s p o t a f g V v h O p i V s t s p n g c j A c s s r t p s s e ( T a p p c]
+[DELETED:  S  H t p ( U b l t i r t p v c s n p s h o p f f " ( P h y u b o ( T a A f o i g t o e t s m a h t p p f c h e c t t b A ( u ( t c o s f w t i i c ( t b o c p f c s p t u c r m t a a m o t p ( P b a T p r d t u i n a m f p i c b a a t t c p b T o ( T c a d w c o p i a u i a p a r s o s T s s c o p i n t b u i a a]
+[DELETED:  S  P r c s r c p u t u o u d i a a r s i r n t t f o f ( T e r ( E ( R r c o o a s m o r o p ( A p u p ( A t o a o m a d i s 2 o t C s t o ( T ( o m t a s m p t h m a e o a u a b u t u s ( R p J p s p " ( P D S f M – A c p s c a p t b m ( N ( T g b ( T t]
+[DELETED:  S  H ( T t b ( T b ( F m p ( R o ( A i i r u c r e t c t i p i o ( A a m t r t d o p i a t p o t p i I t p i i r s a r t e f s t c w e f a S r e t O t c p i r t c t r A c ( D c ( R b p f m d t w e p e ( R t d e P a s s p c a a e o t p f a w a h c p ( R t p f p r s – E m ( T o t " ( V u ( I – T A G s m s m p f c ( C – A p u m m a c t t A G a]
+[DELETED:  S  P T r n ( P p j ( C ( R s o a A b P c I d D e R " ( T D ( T s d o r a a a e o m s u b e t s m o r w s k a e t e r b ( T ( T ( T ( T ( T H ( T a ( A r f N C a b t G u r ( A c a ( A t ( A t ( T o ( T p m o o w i a s w a b t P ( T S S]
+[DELETED:  S  H ( A b ( T t D o H a H S a c a a ( A T m s c c t ( B t m S t f t S o]

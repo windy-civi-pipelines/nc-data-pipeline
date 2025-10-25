@@ -1,0 +1,307 @@
+Title: SENATE BILL 416
+Official Title: SENATE BILL 416
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+Judiciary Committee Substitute Adopted 5/6/25
+Third Edition Engrossed 5/7/25
+House Committee Substitute Favorable 6/24/25
+Short Title: Personal Privacy Protection Act. (Public)
+Sponsors:
+Referred to:
+March 25, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE PERSONAL PRIVACY PROTECTION ACT AND TO MODIFY
+3 IOLTA EXPENDITURES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 55A of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 18.
+8 "The Personal Privacy Protection Act.
+9 "§ 55A-18-01. Short title.
+10 This Article may be cited as The Personal Privacy Protection Act.
+11 "§ 55A-18-02. Purpose.
+12 This Article prohibits public agencies from collecting, disclosing, or releasing personal
+13 information about members, volunteers, and financial and nonfinancial donors to 501(c)
+14 nonprofit organizations, except as permitted by State or federal law or regulation. This Article
+15 provides penalties for violation of these privacy protections.
+16 "§ 55A-18-03. Definitions.
+17 In this Article, the following definitions apply:
+18 (1) Nonprofit organization. – An entity that (i) is exempt from federal income tax
+19 under section 501(c) of the Internal Revenue Code of 1986 or any successor
+20 section, (ii) has submitted an application with the Internal Revenue Service
+21 for recognition of an exemption under section 501(c) of the Internal Revenue
+22 Code of 1986 or any successor section, or (iii) is a not-for-profit business
+23 entity recognized under State law.
+24 (2) Person. – As defined in G.S. 12-3.
+25 (3) Personal information. – Any list, record, register, registry, roll, roster, or other
+26 compilation of data of any kind that directly or indirectly identifies a person
+27 as a member, supporter, volunteer, or donor of financial or nonfinancial
+28 support to any nonprofit organization. For the purposes of this Article, the
+29 terms "supporter" and "volunteer" shall not include members of the governing
+30 board, officers, directors, or staff of a nonprofit organization.
+31 (4) Public agency. – Any State or local governmental unit and its employees,
+32 however designated, including, but not limited to, this State; any department,
+33 agency, office, commission, board, division, or other entity of this State,
+34 including all boards, departments, and divisions; any political subdivision of
+*S416-v-4*
+General Assembly Of North Carolina Session 2025
+1 this State, including, but not limited to, a county, city, local school
+2 administrative unit, community college, or any other local governmental unit,
+3 agency, authority, council, board, or commission; or any State or local court,
+4 tribunal, or other judicial or quasi-judicial body.
+5 "§ 55A-18-04. Protections afforded.
+6 (a) Except as provided in G.S. 55A-18-05 of this Article, a public agency shall not do
+7 any of the following:
+8 (1) Require any person or nonprofit organization to provide the public agency
+9 with personal information or otherwise compel the release of personal
+10 information.
+11 (2) Release, publicize, or otherwise publicly disclose personal information in
+12 possession of the public agency.
+13 (3) Request or require a current or prospective contractor or grantee with the
+14 public agency to provide a list of nonprofit organizations to which the current
+15 or prospective contractor or grantee has provided financial or nonfinancial
+16 support.
+17 (b) Personal information is not a public record under Chapter 132 of the General Statutes.
+18 "§ 55A-18-05. Exemptions.
+19 This Article does not preclude any of the following:
+20 (1) Reporting or disclosure required by Article 22A of Chapter 163 of the General
+21 Statutes.
+22 (2) Issuing of a lawful warrant for personal information by a court of competent
+23 jurisdiction.
+24 (3) Request for discovery of personal information in litigation if both of the
+25 following conditions are met:
+26 a. The requestor demonstrates a compelling need for the personal
+27 information by clear and convincing evidence.
+28 b. The requestor obtains a protective order barring disclosure of personal
+29 information to any person not named in the litigation.
+30 (4) Admission of personal information as relevant evidence before a court of
+31 competent jurisdiction. However, no court shall publicly reveal personal
+32 information absent a specific finding of good cause.
+33 (5) Releasing personal information by a public agency that was voluntarily
+34 released to the public by the person or the nonprofit organization to which it
+35 relates.
+36 (6) Collection of information disclosing the identity of any director, officer,
+37 registered agent, or incorporator of a nonprofit organization in any report or
+38 disclosure required by statute to be filed with the Secretary of State. This
+39 Article does not preclude an audit, examination, review, or investigation
+40 pursuant to the authority of the Secretary of State under Chapters 10B, 55A,
+41 78A, 78C, 78D, 120C, or 131F of the General Statutes so long as both of the
+42 following apply:
+43 a. The personal information is only used in connection with the specific
+44 audit, examination, review, or investigation to which the request
+45 relates and for any related proceedings.
+46 b. Any personal information collected otherwise remains subject to
+47 G.S. 55A-18-04(a)(2), unless expressly required by law to be publicly
+48 disclosed.
+49 (7) Disclosure of personal information derived from a donation to a nonprofit
+50 organization that is affiliated with a public agency and required by statute, if
+Page 2 Senate Bill 416-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 the person has not previously requested anonymity from the nonprofit
+2 organization.
+3 (8) Collection and reporting by a national securities association that is registered
+4 pursuant to 15 U.S.C. § 78o-3, any regulations adopted under it, or any
+5 information that the national securities association is required to provide
+6 pursuant to State law.
+7 (9) Requests by the Attorney General for personal information required for an
+8 audit, examination, review, or investigation pursuant to Chapters 36C, 36E,
+9 55A, 75, and 131F of the General Statutes. Personal information provided
+10 pursuant to this exception shall only be used in connection with the specific
+11 audit, examination, review, or investigation to which the request relates and
+12 for any related proceedings. Any personal information collected shall
+13 otherwise remain subject to the provisions of G.S. 55A-18-04(a)(2), unless
+14 expressly required by law to be publicly disclosed.
+15 "§ 55A-18-06. Penalties.
+16 (a) A person alleging a violation of this Article may bring a civil action for appropriate
+17 injunctive relief, damages, or both. Damages awarded under this section may include one of the
+18 following, as appropriate:
+19 (1) A sum of money not less than two thousand five hundred dollars ($2,500) to
+20 compensate for injury or loss caused by each violation of this Article.
+21 (2) For an intentional violation of this Article, a sum of money not to exceed three
+22 times the sum described in subdivision (1) of this subsection.
+23 (b) A court, in rendering a judgment in an action brought under this Article, may award
+24 all or a portion of the costs of litigation, including reasonable attorneys' fees and witness fees, to
+25 the complainant in the action if the court determines that the award is appropriate.
+26 (c) A person who knowingly violates this Article is guilty of a Class 2 misdemeanor.
+27 "§ 55A-18-07. Severability.
+28 If any provision of this Article or its application to any person or circumstance is held invalid,
+29 then the invalidity shall not affect other provisions or applications of this Article that can be given
+30 effect without the invalid provision or application and, to that end, the provisions of this Article
+31 shall be severable."
+32 SECTION 2. All funds received by the North Carolina State Bar, and administered
+33 by the North Carolina Interest on Lawyers' Trust Accounts (NC IOLTA) Board of Trustees, from
+34 banks by reason of interest earned on general trust accounts established by lawyers pursuant to
+35 Rule 1.15-2(b) of the Rules of Professional Conduct, or interest earned on trust or escrow
+36 accounts maintained by settlement agents pursuant to G.S. 45A-9, including any interest
+37 dividends, or other proceeds earned on or with respect to these funds, shall not be encumbered
+38 or expended for the purpose of awarding grants or for any purpose other than administrative costs
+39 during the period beginning July 1, 2025, and ending June 30, 2026.
+40 SECTION 3. Section 1 of this act becomes effective December 1, 2025, and applies
+41 to offenses committed on or after that date. The remainder of this act is effective when it becomes
+42 law.
+Senate Bill 416-Fourth Edition Page 3
+[DELETED:  4 P (   A A I T S A " " " T " T A p p a f c d o r p i a m v a f a n d t 5 n p " I ( N u s f C e ( P ( P c a a m s v o d o f o n s t b ( P h a o c b d o o e o t S i]
+[DELETED:  S  S t S i b n l t a c c l s a a t " ( E a ( R w p i o o c t r o p i ( R p o o p d p i i p ( R p o s ( P " T ( R S ( I j ( R f d o p i i l i b o t f a T r d a c n f t p i b T i ( A r o c j H n c s p r p i ( R p i b a p a t w v r r ( C o i d t i o a d o r d A d n p a a e r o i p 7 f a T a e r o i t w t r r b A p i c o r s t G d ( D o]
+[DELETED:  S  P t p h n p r a f t n o ( C p t 1 U § 7 a r a u i o a i t t n s a i r t p p ( R a 5 p a f a r p A p i c s o e " ( A i f ( A c ( F t ( A a t ( A " I t e s S b b R 1 o t R o P C o i e o t o e a m b s a p t G i a i d o d S t l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 4
+SENATE BILL 416
+Judiciary Committee Substitute Adopted 5/6/25
+Third Edition Engrossed 5/7/25
+House Committee Substitute Favorable 6/24/25
+Short Title: Personal Privacy Protection Act. (Public)
+Sponsors:
+Referred to:
+March 25, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE PERSONAL PRIVACY PROTECTION ACT AND TO MODIFY
+3 IOLTA EXPENDITURES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 55A of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 18.
+8 "The Personal Privacy Protection Act.
+9 "§ 55A-18-01. Short title.
+10 This Article may be cited as The Personal Privacy Protection Act.
+11 "§ 55A-18-02. Purpose.
+12 This Article prohibits public agencies from collecting, disclosing, or releasing personal
+13 information about members, volunteers, and financial and nonfinancial donors to 501(c)
+14 nonprofit organizations, except as permitted by State or federal law or regulation. This Article
+15 provides penalties for violation of these privacy protections.
+16 "§ 55A-18-03. Definitions.
+17 In this Article, the following definitions apply:
+18 (1) Nonprofit organization. – An entity that (i) is exempt from federal income tax
+19 under section 501(c) of the Internal Revenue Code of 1986 or any successor
+20 section, (ii) has submitted an application with the Internal Revenue Service
+21 for recognition of an exemption under section 501(c) of the Internal Revenue
+22 Code of 1986 or any successor section, or (iii) is a not-for-profit business
+23 entity recognized under State law.
+24 (2) Person. – As defined in G.S. 12-3.
+25 (3) Personal information. – Any list, record, register, registry, roll, roster, or other
+26 compilation of data of any kind that directly or indirectly identifies a person
+27 as a member, supporter, volunteer, or donor of financial or nonfinancial
+28 support to any nonprofit organization. For the purposes of this Article, the
+29 terms "supporter" and "volunteer" shall not include members of the governing
+30 board, officers, directors, or staff of a nonprofit organization.
+31 (4) Public agency. – Any State or local governmental unit and its employees,
+32 however designated, including, but not limited to, this State; any department,
+33 agency, office, commission, board, division, or other entity of this State,
+34 including all boards, departments, and divisions; any political subdivision of
+*S416-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 this State, including, but not limited to, a county, city, local school
+2 administrative unit, community college, or any other local governmental unit,
+3 agency, authority, council, board, or commission; or any State or local court,
+4 tribunal, or other judicial or quasi-judicial body.
+5 "§ 55A-18-04. Protections afforded.
+6 (a) Except as provided in G.S. 55A-18-05 of this Article, a public agency shall not do
+7 any of the following:
+8 (1) Require any person or nonprofit organization to provide the public agency
+9 with personal information or otherwise compel the release of personal
+10 information.
+11 (2) Release, publicize, or otherwise publicly disclose personal information in
+12 possession of the public agency.
+13 (3) Request or require a current or prospective contractor or grantee with the
+14 public agency to provide a list of nonprofit organizations to which the current
+15 or prospective contractor or grantee has provided financial or nonfinancial
+16 support.
+17 (b) Personal information is not a public record under Chapter 132 of the General Statutes.
+18 "§ 55A-18-05. Exemptions.
+19 This Article does not preclude any of the following:
+20 (1) Reporting or disclosure required by Article 22A of Chapter 163 of the General
+21 Statutes.
+22 (2) Issuing of a lawful warrant for personal information by a court of competent
+23 jurisdiction.
+24 (3) Request for discovery of personal information in litigation if both of the
+25 following conditions are met:
+26 a. The requestor demonstrates a compelling need for the personal
+27 information by clear and convincing evidence.
+28 b. The requestor obtains a protective order barring disclosure of personal
+29 information to any person not named in the litigation.
+30 (4) Admission of personal information as relevant evidence before a court of
+31 competent jurisdiction. However, no court shall publicly reveal personal
+32 information absent a specific finding of good cause.
+33 (5) Releasing personal information by a public agency that was voluntarily
+34 released to the public by the person or the nonprofit organization to which it
+35 relates.
+36 (6) Collection of information disclosing the identity of any director, officer,
+37 registered agent, or incorporator of a nonprofit organization in any report or
+38 disclosure required by statute to be filed with the Secretary of State. This
+39 Article does not preclude an audit, examination, review, or investigation
+40 pursuant to the authority of the Secretary of State under Chapters 10B, 55A,
+41 78A, 78C, 78D, 120C, or 131F of the General Statutes so long as both of the
+42 following apply:
+43 a. The personal information is only used in connection with the specific
+44 audit, examination, review, or investigation to which the request
+45 relates and for any related proceedings.
+46 b. Any personal information collected otherwise remains subject to
+47 G.S. 55A-18-04(a)(2), unless expressly required by law to be publicly
+48 disclosed.
+49 (7) Disclosure of personal information derived from a donation to a nonprofit
+50 organization that is affiliated with a public agency and required by statute, if
+Page 2 Senate Bill 416-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 the person has not previously requested anonymity from the nonprofit
+2 organization.
+3 (8) Collection and reporting by a national securities association that is registered
+4 pursuant to 15 U.S.C. § 78o-3, any regulations adopted under it, or any
+5 information that the national securities association is required to provide
+6 pursuant to State law.
+7 (9) Requests by the Attorney General for personal information required for an
+8 audit, examination, review, or investigation pursuant to Chapters 36C, 36E,
+9 55A, 75, and 131F of the General Statutes. Personal information provided
+10 pursuant to this exception shall only be used in connection with the specific
+11 audit, examination, review, or investigation to which the request relates and
+12 for any related proceedings. Any personal information collected shall
+13 otherwise remain subject to the provisions of G.S. 55A-18-04(a)(2), unless
+14 expressly required by law to be publicly disclosed.
+15 "§ 55A-18-06. Penalties.
+16 (a) A person alleging a violation of this Article may bring a civil action for appropriate
+17 injunctive relief, damages, or both. Damages awarded under this section may include one of the
+18 following, as appropriate:
+19 (1) A sum of money not less than two thousand five hundred dollars ($2,500) to
+20 compensate for injury or loss caused by each violation of this Article.
+21 (2) For an intentional violation of this Article, a sum of money not to exceed three
+22 times the sum described in subdivision (1) of this subsection.
+23 (b) A court, in rendering a judgment in an action brought under this Article, may award
+24 all or a portion of the costs of litigation, including reasonable attorneys' fees and witness fees, to
+25 the complainant in the action if the court determines that the award is appropriate.
+26 (c) A person who knowingly violates this Article is guilty of a Class 2 misdemeanor.
+27 "§ 55A-18-07. Severability.
+28 If any provision of this Article or its application to any person or circumstance is held invalid,
+29 then the invalidity shall not affect other provisions or applications of this Article that can be given
+30 effect without the invalid provision or application and, to that end, the provisions of this Article
+31 shall be severable."
+32 SECTION 2. All funds received by the North Carolina State Bar, and administered
+33 by the North Carolina Interest on Lawyers' Trust Accounts (NC IOLTA) Board of Trustees, from
+34 banks by reason of interest earned on general trust accounts established by lawyers pursuant to
+35 Rule 1.15-2(b) of the Rules of Professional Conduct, or interest earned on trust or escrow
+36 accounts maintained by settlement agents pursuant to G.S. 45A-9, including any interest
+37 dividends, or other proceeds earned on or with respect to these funds, shall not be encumbered
+38 or expended for the purpose of awarding grants or for any purpose other than administrative costs
+39 during the period beginning July 1, 2025, and ending June 30, 2026.
+40 SECTION 3. Section 1 of this act becomes effective December 1, 2025, and applies
+41 to offenses committed on or after that date. The remainder of this act is effective when it becomes
+42 law.
+Senate Bill 416-Fourth Edition Page 3
+
+[DELETED:  4 P (   A A I T S A " " " T " T A p p a f c d o r p i a m v a f a n d t 5 n p " I ( N u s f C e ( P ( P c a a m s v o d o f o n s t b ( P h a o c b d o o e o t S i]
+[DELETED:  S  S t S i b n l t a c c l s a a t " ( E a ( R w p i o o c t r o p i ( R p o o p d p i i p ( R p o s ( P " T ( R S ( I j ( R f d o p i i l i b o t f a T r d a c n f t p i b T i ( A r o c j H n c s p r p i ( R p i b a p a t w v r r ( C o i d t i o a d o r d A d n p a a e r o i p 7 f a T a e r o i t w t r r b A p i c o r s t G d ( D o]
+[DELETED:  S  P t p h n p r a f t n o ( C p t 1 U § 7 a r a u i o a i t t n s a i r t p p ( R a 5 p a f a r p A p i c s o e " ( A i f ( A c ( F t ( A a t ( A " I t e s S b b R 1 o t R o P C o i e o t o e a m b s a p t G i a i d o d S t l]

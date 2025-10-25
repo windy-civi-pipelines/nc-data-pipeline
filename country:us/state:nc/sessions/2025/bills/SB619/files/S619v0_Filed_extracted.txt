@@ -1,0 +1,184 @@
+Title: SENATE BILL DRS35224-NG-73
+Official Title: SENATE BILL DRS35224-NG-73
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 619
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: AI Academic Support Grant Program. (Public)
+Sponsors: Senators Lee, Overcash, and Corbin (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH THE AI ACADEMIC SUPPORT GRANT PROGRAM AND TO
+3 APPROPRIATE FUNDS FOR THAT PURPOSE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) Chapter 115C of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 42.
+8 "Academic Support Programs.
+9 "§ 115C-650. Establish AI Academic Support Program.
+10 (a) Purpose; Program. – There is established the AI Instructional Support Program
+11 (Program) to allow public school units to contract with Khan Academy, Inc. (Khan Academy)
+12 for use of the academic support service Khanmigo, in grades six through 12. Khanmigo is an
+13 application that uses artificial intelligence to support teachers with lesson plan development and
+14 to support students with lesson comprehension.
+15 (b) Funding. – Funds shall be allocated to each public school unit on the basis of average
+16 daily membership (ADM) in grades six through 12 in the public school unit for the purposes set
+17 out in this section.
+18 (c) Funding Use. – Public school units that utilize funds pursuant to this section shall use
+19 all funds to contract with Khan Academy for use of the Khanmigo service, any associated
+20 professional development, and the rostering programs required pursuant to subsection (e).
+21 (d) Contract Term. – Public school units entering into contracts with Khan Academy shall
+22 contract for a term of one year. At the end of each school year, each public school unit shall
+23 evaluate the use of Khanmigo services in the public school unit prior to contracting with Khan
+24 Academy for the subsequent school year. The evaluation shall include all of the information
+25 required to be reported on by the Department of Public Instruction in subdivisions (2) through
+26 (7) of subsection (g) of this section. Public school units shall submit their evaluations to the
+27 Department of Public Instruction by July 15 of each year that funds are used pursuant to this
+28 section.
+29 (e) Class Rostering for Khanmigo. – All public school units that contract with Khan
+30 Academy pursuant to this section shall use a secure, cloud-based, single sign-on and class
+31 rostering platform to manage access to digital instructional resources and student information
+32 systems and to facilitate automated data integration between educational applications and school
+33 district systems. Class rostering products used pursuant to this section must be approved by the
+34 Department.
+35 (f) Juvenile Justice. – The Department shall contract with Khan for 500 Khanmigo
+36 licenses for use in schools operated by the Division of Juvenile Justice of the Department of
+*DRS35224-NG-73*
+General Assembly Of North Carolina Session 2025
+1 Public Safety. The Department of Public Instruction shall provide technical support to the
+2 Division of Juvenile Justice for the use of Khanmigo. The Division of Juvenile Justice shall
+3 comply with evaluation requirements pursuant to subsection (d) of this section.
+4 (f) Study. – The Office of Learning Research at the North Carolina Collaboratory (OLR)
+5 shall design and conduct a study to measure the effectiveness of using Khanmigo, including any
+6 impact on student performance and growth. As part of the study, the Department of Public
+7 Instruction shall aggregate and report to OLR on the evaluations submitted by public school units
+8 pursuant to subsection (d) of this section. OLR shall collaborate with Khan Academy to aggregate
+9 data on student performance by teacher and by subgroup, to the extent allowed by law. OLR shall
+10 provide the results of this study to the Joint Legislative Education Oversight Committee no later
+11 than April 1, 2028.
+12 (g) Report. – No later than February 15 of each year in which funds are made available
+13 for the Program, the Department of Public Instruction shall report to the Joint Legislative
+14 Education Oversight Committee at least the following information:
+15 (1) The number public school units that contracted with Khan Academy pursuant
+16 to this article.
+17 (2) The number of students using the Khanmigo application.
+18 (3) The average number of minutes and interactions students had with the
+19 Khanmigo application weekly.
+20 (4) The number of teachers using the application.
+21 (5) The average number of minutes and interactions teachers had with the
+22 Khanmigo application weekly.
+23 (6) Any identified impact on student outcomes.
+24 (7) Any identified impact on teacher performance.
+25 (8) The number of moderation flags generated by the application."
+26 SECTION 2. It is the intent of the General Assembly to appropriate from the General
+27 Fund to the Department of Public Instruction the sum of ten million sixty thousand five hundred
+28 sixty dollars ($10,060,560) in recurring funds for the 2025-2026 fiscal year to allocate funds
+29 pursuant to G.S. 115C-650, as established by this act.
+30 SECTION 3. This act is effective when the Current Operations Appropriations Act
+31 of 2025 becomes law and if that bill appropriates funds for the purposes detailed in this act in the
+32 amounts set out in Section 2 of this act.
+Page 2 DRS35224-NG-73
+[DELETED:  D A ( S  P P – T i e t A I S P F F f t c w K A f u o t K s a a C C p t t s s u a s c s s a c J J – T D s c w K f 5 K]
+[DELETED:  S  D S T D o P I s p t s t t S a p s R t P t D o P I s r t t J L T T T a n o m a i s h w t T T a n o m a i t h w t A A T]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 619
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS35224-NG-73
+Short Title: AI Academic Support Grant Program. (Public)
+Sponsors: Senators Lee, Overcash, and Corbin (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ESTABLISH THE AI ACADEMIC SUPPORT GRANT PROGRAM AND TO
+3 APPROPRIATE FUNDS FOR THAT PURPOSE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) Chapter 115C of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 42.
+8 "Academic Support Programs.
+9 "§ 115C-650. Establish AI Academic Support Program.
+10 (a) Purpose; Program. – There is established the AI Instructional Support Program
+11 (Program) to allow public school units to contract with Khan Academy, Inc. (Khan Academy)
+12 for use of the academic support service Khanmigo, in grades six through 12. Khanmigo is an
+13 application that uses artificial intelligence to support teachers with lesson plan development and
+14 to support students with lesson comprehension.
+15 (b) Funding. – Funds shall be allocated to each public school unit on the basis of average
+16 daily membership (ADM) in grades six through 12 in the public school unit for the purposes set
+17 out in this section.
+18 (c) Funding Use. – Public school units that utilize funds pursuant to this section shall use
+19 all funds to contract with Khan Academy for use of the Khanmigo service, any associated
+20 professional development, and the rostering programs required pursuant to subsection (e).
+21 (d) Contract Term. – Public school units entering into contracts with Khan Academy shall
+22 contract for a term of one year. At the end of each school year, each public school unit shall
+23 evaluate the use of Khanmigo services in the public school unit prior to contracting with Khan
+24 Academy for the subsequent school year. The evaluation shall include all of the information
+25 required to be reported on by the Department of Public Instruction in subdivisions (2) through
+26 (7) of subsection (g) of this section. Public school units shall submit their evaluations to the
+27 Department of Public Instruction by July 15 of each year that funds are used pursuant to this
+28 section.
+29 (e) Class Rostering for Khanmigo. – All public school units that contract with Khan
+30 Academy pursuant to this section shall use a secure, cloud-based, single sign-on and class
+31 rostering platform to manage access to digital instructional resources and student information
+32 systems and to facilitate automated data integration between educational applications and school
+33 district systems. Class rostering products used pursuant to this section must be approved by the
+34 Department.
+35 (f) Juvenile Justice. – The Department shall contract with Khan for 500 Khanmigo
+36 licenses for use in schools operated by the Division of Juvenile Justice of the Department of
+*DRS35224-NG-73*
+
+General Assembly Of North Carolina Session 2025
+1 Public Safety. The Department of Public Instruction shall provide technical support to the
+2 Division of Juvenile Justice for the use of Khanmigo. The Division of Juvenile Justice shall
+3 comply with evaluation requirements pursuant to subsection (d) of this section.
+4 (f) Study. – The Office of Learning Research at the North Carolina Collaboratory (OLR)
+5 shall design and conduct a study to measure the effectiveness of using Khanmigo, including any
+6 impact on student performance and growth. As part of the study, the Department of Public
+7 Instruction shall aggregate and report to OLR on the evaluations submitted by public school units
+8 pursuant to subsection (d) of this section. OLR shall collaborate with Khan Academy to aggregate
+9 data on student performance by teacher and by subgroup, to the extent allowed by law. OLR shall
+10 provide the results of this study to the Joint Legislative Education Oversight Committee no later
+11 than April 1, 2028.
+12 (g) Report. – No later than February 15 of each year in which funds are made available
+13 for the Program, the Department of Public Instruction shall report to the Joint Legislative
+14 Education Oversight Committee at least the following information:
+15 (1) The number public school units that contracted with Khan Academy pursuant
+16 to this article.
+17 (2) The number of students using the Khanmigo application.
+18 (3) The average number of minutes and interactions students had with the
+19 Khanmigo application weekly.
+20 (4) The number of teachers using the application.
+21 (5) The average number of minutes and interactions teachers had with the
+22 Khanmigo application weekly.
+23 (6) Any identified impact on student outcomes.
+24 (7) Any identified impact on teacher performance.
+25 (8) The number of moderation flags generated by the application."
+26 SECTION 2. It is the intent of the General Assembly to appropriate from the General
+27 Fund to the Department of Public Instruction the sum of ten million sixty thousand five hundred
+28 sixty dollars ($10,060,560) in recurring funds for the 2025-2026 fiscal year to allocate funds
+29 pursuant to G.S. 115C-650, as established by this act.
+30 SECTION 3. This act is effective when the Current Operations Appropriations Act
+31 of 2025 becomes law and if that bill appropriates funds for the purposes detailed in this act in the
+32 amounts set out in Section 2 of this act.
+Page 2 DRS35224-NG-73
+
+[DELETED:  D A ( S  P P – T i e t A I S P F F f t c w K A f u o t K s a a C C p t t s s u a s c s s a c J J – T D s c w K f 5 K]
+[DELETED:  S  D S T D o P I s p t s t t S a p s R t P t D o P I s r t t J L T T T a n o m a i s h w t T T a n o m a i t h w t A A T]

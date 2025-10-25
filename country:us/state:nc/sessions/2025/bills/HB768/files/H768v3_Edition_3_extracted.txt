@@ -1,0 +1,406 @@
+Title: HOUSE BILL 768
+Official Title: HOUSE BILL 768
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+Committee Substitute Favorable 4/17/25
+Senate Regulatory Reform Committee Substitute Adopted 6/18/25
+Short Title: Emerg. Comm. Code Exempts/Sanitary Board/401. (Public)
+Sponsors:
+Referred to:
+April 7, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO DIRECT THE NORTH CAROLINA BUILDING CODE COUNCIL TO ADOPT
+3 RULES TO AMEND THE STATE BUILDING CODE AND STATE FIRE CODE TO
+4 CLARIFY EXEMPTIONS FROM IN-BUILDING EMERGENCY RESPONDER
+5 COMMUNICATION COVERAGE REQUIREMENTS; TO PROVIDE FOR THE
+6 FILLING OF VACANCIES ON CERTAIN SANITARY BOARDS; AND TO ESTABLISH
+7 STATUTORY REQUIREMENTS FOR THE DEPARTMENT OF ENVIRONMENTAL
+8 QUALITY'S HANDLING OF APPLICATIONS FOR 401 CERTIFICATIONS FOR
+9 PROJECTS THAT ARE ELIGIBLE FOR A NATIONWIDE PERMIT OR REGIONAL
+10 GENERAL PERMIT.
+11 The General Assembly of North Carolina enacts:
+12
+13 CLARIFY FIRE CODE EXEMPTIONS FROM IN-BUILDING EMERGENCY
+14 RESPONDER COMMUNICATION COVERAGE REQUIREMENTS
+15 SECTION 1.(a) Definitions. – For purposes of this section, the following are
+16 defined:
+17 (1) Code. – The North Carolina State Building Code collection, including the
+18 North Carolina Fire Code, and amendments thereto, as adopted by the
+19 Council.
+20 (2) Council. – The North Carolina Building Code Council.
+21 (3) Emergency responder communication coverage requirements. – The
+22 requirements for in-building emergency responder communications coverage
+23 systems specified under Section 510 of the North Carolina Fire Code.
+24 SECTION 1.(b) Exemptions Established. – Notwithstanding the emergency
+25 responder communication coverage requirements of the Code, the following buildings and
+26 structures, whether existing, newly constructed, or altered after the effective date of this act, are
+27 exempt from those requirements:
+28 (1) R-2 Apartment Buildings of Type V construction that meet the egress
+29 requirements of the Code.
+30 (2) Apartment buildings and transient public lodging establishments, including
+31 hotels and motels, not exceeding two stories above grade plane and that
+32 provide direct exterior egress from each dwelling unit or guest room.
+33 SECTION 1.(c) Treatment of Existing Systems in Exempted Buildings. –
+34 Notwithstanding Section 901.6 of the North Carolina Fire Code or any other provision of the
+35 Code that might require the removal of nonrequired, obsolete, or abandoned systems, an
+*H768-v-3*
+General Assembly Of North Carolina Session 2025
+1 emergency responder communication coverage system installed prior to the effective date of this
+2 act in a building or structure that meets the exemption criteria established in subsection (b) of
+3 this section may be disconnected as follows:
+4 (1) Systems that are monitored by a fire alarm system shall be properly
+5 disconnected to eliminate unnecessary supervisory signals.
+6 (2) Primary and secondary power sources shall be permanently removed by
+7 disconnecting the primary power from the circuit breaker and removing the
+8 secondary backup batteries and/or emergency generator connection.
+9 (3) The system shall be permanently disconnected from the donor antenna. Where
+10 the donor antenna is left in place, lightning protection for the antenna and mast
+11 shall be maintained.
+12 (4) Signal booster shall be labeled with signage that states "Emergency Responder
+13 Communication Coverage is disconnected as permitted by Section 510 of the
+14 North Carolina Fire Code."
+15 SECTION 1.(d) Rulemaking Required. – The Council shall adopt rules to amend
+16 the Code, specifically Section 510 of the North Carolina Fire Code and any related sections
+17 addressing emergency responder communication coverage, to incorporate the exemptions listed
+18 in subsection (b) of this section and the provisions regarding existing systems in subsection (c)
+19 of this section. Notwithstanding G.S. 150B-19(4), the rules adopted by the Council pursuant to
+20 this section shall be substantively identical to the provisions of subsections (b) and (c) of this
+21 section. Rules adopted pursuant to this section are not subject to Part 3 of Article 2A of Chapter
+22 150B of the General Statutes. Rules adopted pursuant to this section shall become effective as
+23 provided in G.S. 150B-21.3(b1), as though 10 or more written objections had been received as
+24 provided in G.S. 150B-21.3(b2).
+25 SECTION 1.(e) Interim Application of Exemptions. – Until the effective date of the
+26 permanent rules that the Council is required to adopt pursuant to subsection (d) of this section,
+27 the Council and local governments enforcing the Code shall not enforce the emergency responder
+28 communication coverage requirements against buildings and structures that meet the exemption
+29 criteria established in subsection (b) of this section and shall apply the provisions regarding
+30 existing systems established in subsection (c) of this section.
+31 SECTION 1.(f) Sunset. – This section expires when permanent rules adopted as
+32 required by subsection (d) of this section become effective.
+33
+34 VACANCY APPOINTMENTS FOR CERTAIN SANITARY BOARDS
+35 SECTION 2. G.S. 130A-50(h) reads as rewritten:
+36 "(h) For purposes of the election of the members of the sanitary district board, a sanitary
+37 district board shall adopt single-member residency districts in which only a person residing in a
+38 single-member residency district shall be eligible as a candidate in the election for the seat
+39 apportioned to that single-member residency district, but candidates shall be elected at large by
+40 the qualified voters of the entire sanitary district. The district boundaries shall be established by
+41 resolution adopted by the sanitary district board following a public hearing on the matter. The
+42 resolution, and a copy of a map depicting the single-member residency districts as adopted, shall
+43 be filed with the county board of elections. The most recent federal decennial census data shall
+44 be used as the sole basis of population for the establishment of the single-member residency
+45 districts. The single-member residency districts shall be revised after the return of each federal
+46 decennial census as necessary. Notwithstanding subsection (b) of this section, members of a
+47 sanitary district board under this subsection shall serve staggered four-year terms and the
+48 staggering shall be taken into consideration when adopting or revising the single-member
+49 residency districts. Any vacancy in a sanitary district board shall be filled by the remaining
+50 sanitary district board members until the next election for sanitary district board members. A
+51 vacancy must be filled by a resident from the same residency district as the residency district of
+Page 2 House Bill 768-Third Edition
+General Assembly Of North Carolina Session 2025
+1 the vacating commissioner. This subsection shall apply only to a sanitary district that provides
+2 water and sewer service lying wholly within a county with more than 17 municipalities lying
+3 wholly within that county."
+4
+5 ESTABLISH STATUTORY REQUIREMENTS FOR THE DEPARTMENT OF
+6 ENVIRONMENTAL QUALITY'S HANDLING OF APPLICATIONS FOR 401
+7 CERTIFICATIONS FOR PROJECTS THAT ARE ELIGIBLE FOR A NATIONWIDE
+8 PERMIT OR REGIONAL GENERAL PERMIT ISSUED BY THE UNITED STATES
+9 ARMY CORPS OF ENGINEERS
+10 SECTION 3.(a) G.S. 143-214.1A is amended by adding two new subsections to
+11 read:
+12 "(c) For projects that are eligible for a Nationwide Permit or Regional General Permit
+13 issued by the United States Army Corps of Engineers, which are not subject to subsection (a) of
+14 this section, and are required or elect to be covered under an Individual Water Quality
+15 Certification, the Department shall perform a review of an application pursuant to all of the
+16 following requirements:
+17 (1) On receipt of such application, the Department shall notify the applicant of
+18 any required fee within five business days. If the Department does not send
+19 the applicant a fee request within five business days of receipt of an
+20 application, the fee is waived. The Department's review period shall begin on
+21 the date the application fee is paid, or on the sixth business day from receipt
+22 when the application fee has been waived pursuant to this subdivision. For
+23 application fees that are paid via interagency batch payment, the review period
+24 shall start on receipt of the application by the Division of Water Resources.
+25 The Department shall additionally post any public notice required under the
+26 federal Clean Water Act within five business days of receipt of an application.
+27 (2) Within 30 business days of the beginning of the review period, the Department
+28 shall (i) determine whether or not the application is complete and notify the
+29 applicant accordingly and, (ii) if the Department determines an application is
+30 incomplete, specify all such deficiencies in a notice to the applicant. The
+31 applicant may file an amended application or supplemental information to
+32 cure the deficiencies identified by the Department for the Department's
+33 review. Review of amended applications or supplemental information
+34 responses provided by the applicant shall occur within 20 business days of
+35 receipt. An application may be deemed incomplete only if it does not provide
+36 sufficient information necessary for the Department to determine if the
+37 proposed discharges into navigable waters will comply with State water
+38 quality requirements. If the Department fails to issue a notice that the
+39 application is incomplete within the requisite initial 30-day period, or the
+40 supplemental 20-day review period, the application shall be deemed complete.
+41 As used in this section, State water quality requirements means water quality
+42 standards approved by the United States Environmental Protection Agency
+43 pursuant to 33 U.S.C. § 1313(c)(3).
+44 (3) If the Department determines that a public hearing is necessary pursuant to
+45 applicable requirements, the Department shall notify the applicant within the
+46 review period outlined in subdivision (2) of this subsection. If the hearing
+47 officer determines that additional information is required from the applicant
+48 at the conclusion of the public hearing comment period, the Department shall
+49 notify the applicant within five business days of the conclusion of the
+50 comment period and the supplemental information shall be subject to the
+51 review time lines laid out in subdivision (2) of this subsection.
+House Bill 768-Third Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (4) The Department shall either approve or deny an application within (i) 10
+2 business days of the date the application is deemed complete if no public
+3 hearing is held or (ii) 15 business days of the close of the record if a public
+4 hearing is held and no additional information is required. Failure of the
+5 Department to approve or deny the application within the requisite time
+6 period, as applicable, shall result in a waiver of the certification requirement
+7 by the State, unless the applicant agrees, in writing, to an extension of time,
+8 which shall not exceed one year from the State's receipt of the application for
+9 certification.
+10 (5) The Department shall issue a certification, with or without conditions or
+11 limitations, upon determining that the proposed discharges into navigable
+12 waters subject to the federal Clean Water Act will comply with State water
+13 quality requirements. The Department may include as conditions or
+14 limitations in a certification any effluent limitations or other limitations
+15 necessary to assure the proposed discharges into navigable waters subject to
+16 the federal Clean Water Act will comply with State water quality
+17 requirements. The Department shall not impose any other conditions or
+18 limitations in a certification.
+19 (6) The Department shall deny a certification application only if it determines that
+20 no reasonable conditions or limitations would provide assurance that the
+21 proposed discharges into navigable waters subject to the federal Clean Water
+22 Act will comply with State water quality requirements. The denial shall
+23 include a statement explaining why the Department determined the proposed
+24 discharges into navigable waters subject to the federal Clean Water Act will
+25 not comply with the State water quality requirements.
+26 (7) The Department may grant, deny, or waive certification but shall not require
+27 an applicant to withdraw an application.
+28 (d) On receipt of any application for certification filed with the Department pursuant to
+29 section 401 of the Clean Water Act, 33 U.S.C. § 1341(a)(1), the Department shall notify the
+30 applicant of any required fee within five business days. If the Department does not send the
+31 applicant a fee request within five business days of receipt of an application, the fee is waived."
+32 SECTION 3.(b) This section becomes effective October 1, 2025.
+33
+34 EFFECTIVE DATE
+35 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+36 law.
+Page 4 House Bill 768-Third Edition
+[DELETED:  3 E (   A A R T A T S B C A S F C T C E F I E R C C R T P F T F S R F T D O E Q H O A F 4 C F P O G T  C F C E F I E R S 1  D – F p o t s t f a d ( C N C F C a a t a a b t C ( C ( E r c c r – T r s S 1  E E – N t e r c c r o t C t f b a s e ( R A B o T V c t m t e r ( A h a m n e t s a g p a t p S 1  T o E S i E B – N C t m r t r o n o o a s a]
+[DELETED:  S  H e a t ( S t a m b a f a s s b p d ( P a s p s s b p r b d s ( T t s ( S C N S t a i o t s 1 p p S p t c c e S r  V S " F d s d e a t r r b b d d s d b u t s s s s f t a t s s b t i c w a o r t s r s v]
+[DELETED:  S  P t w w  E S R F T D O E Q H O A F 4 C P A S r " F i t s a a r o e t b c u a I W Q C D s p a r o a a p f ( O a t a a f r w f b d o r o a a t w a s T f ( W s a i s a s d i a n t t a T a c t d i b t D f t D r R o a a o s i r r s i n f t D t d i t p d i n w w c w S w q r I t D f t i a n t t a i i w t r i 3 p o s A s p ( I a r o a n t a w f b d o t c o t c p a t s i s b s t t r]
+[DELETED:  S  H ( T D s e o a a w ( 1 b h h i h a n a i i r F o t D t a o d t a w t r t p b w c ( T D s i a c w o w c o l u d t t p d i n w q r T D m i a c o l i a c a e l o o l n t f C W A w c w S w q r T D s n i a o c o l ( T n r c o l w p a t t p A w c w S w q r T d s i d n ( T a ( O s a a S  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+HOUSE BILL 768
+Committee Substitute Favorable 4/17/25
+Senate Regulatory Reform Committee Substitute Adopted 6/18/25
+Short Title: Emerg. Comm. Code Exempts/Sanitary Board/401. (Public)
+Sponsors:
+Referred to:
+April 7, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO DIRECT THE NORTH CAROLINA BUILDING CODE COUNCIL TO ADOPT
+3 RULES TO AMEND THE STATE BUILDING CODE AND STATE FIRE CODE TO
+4 CLARIFY EXEMPTIONS FROM IN-BUILDING EMERGENCY RESPONDER
+5 COMMUNICATION COVERAGE REQUIREMENTS; TO PROVIDE FOR THE
+6 FILLING OF VACANCIES ON CERTAIN SANITARY BOARDS; AND TO ESTABLISH
+7 STATUTORY REQUIREMENTS FOR THE DEPARTMENT OF ENVIRONMENTAL
+8 QUALITY'S HANDLING OF APPLICATIONS FOR 401 CERTIFICATIONS FOR
+9 PROJECTS THAT ARE ELIGIBLE FOR A NATIONWIDE PERMIT OR REGIONAL
+10 GENERAL PERMIT.
+11 The General Assembly of North Carolina enacts:
+12
+13 CLARIFY FIRE CODE EXEMPTIONS FROM IN-BUILDING EMERGENCY
+14 RESPONDER COMMUNICATION COVERAGE REQUIREMENTS
+15 SECTION 1.(a) Definitions. – For purposes of this section, the following are
+16 defined:
+17 (1) Code. – The North Carolina State Building Code collection, including the
+18 North Carolina Fire Code, and amendments thereto, as adopted by the
+19 Council.
+20 (2) Council. – The North Carolina Building Code Council.
+21 (3) Emergency responder communication coverage requirements. – The
+22 requirements for in-building emergency responder communications coverage
+23 systems specified under Section 510 of the North Carolina Fire Code.
+24 SECTION 1.(b) Exemptions Established. – Notwithstanding the emergency
+25 responder communication coverage requirements of the Code, the following buildings and
+26 structures, whether existing, newly constructed, or altered after the effective date of this act, are
+27 exempt from those requirements:
+28 (1) R-2 Apartment Buildings of Type V construction that meet the egress
+29 requirements of the Code.
+30 (2) Apartment buildings and transient public lodging establishments, including
+31 hotels and motels, not exceeding two stories above grade plane and that
+32 provide direct exterior egress from each dwelling unit or guest room.
+33 SECTION 1.(c) Treatment of Existing Systems in Exempted Buildings. –
+34 Notwithstanding Section 901.6 of the North Carolina Fire Code or any other provision of the
+35 Code that might require the removal of nonrequired, obsolete, or abandoned systems, an
+*H768-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 emergency responder communication coverage system installed prior to the effective date of this
+2 act in a building or structure that meets the exemption criteria established in subsection (b) of
+3 this section may be disconnected as follows:
+4 (1) Systems that are monitored by a fire alarm system shall be properly
+5 disconnected to eliminate unnecessary supervisory signals.
+6 (2) Primary and secondary power sources shall be permanently removed by
+7 disconnecting the primary power from the circuit breaker and removing the
+8 secondary backup batteries and/or emergency generator connection.
+9 (3) The system shall be permanently disconnected from the donor antenna. Where
+10 the donor antenna is left in place, lightning protection for the antenna and mast
+11 shall be maintained.
+12 (4) Signal booster shall be labeled with signage that states "Emergency Responder
+13 Communication Coverage is disconnected as permitted by Section 510 of the
+14 North Carolina Fire Code."
+15 SECTION 1.(d) Rulemaking Required. – The Council shall adopt rules to amend
+16 the Code, specifically Section 510 of the North Carolina Fire Code and any related sections
+17 addressing emergency responder communication coverage, to incorporate the exemptions listed
+18 in subsection (b) of this section and the provisions regarding existing systems in subsection (c)
+19 of this section. Notwithstanding G.S. 150B-19(4), the rules adopted by the Council pursuant to
+20 this section shall be substantively identical to the provisions of subsections (b) and (c) of this
+21 section. Rules adopted pursuant to this section are not subject to Part 3 of Article 2A of Chapter
+22 150B of the General Statutes. Rules adopted pursuant to this section shall become effective as
+23 provided in G.S. 150B-21.3(b1), as though 10 or more written objections had been received as
+24 provided in G.S. 150B-21.3(b2).
+25 SECTION 1.(e) Interim Application of Exemptions. – Until the effective date of the
+26 permanent rules that the Council is required to adopt pursuant to subsection (d) of this section,
+27 the Council and local governments enforcing the Code shall not enforce the emergency responder
+28 communication coverage requirements against buildings and structures that meet the exemption
+29 criteria established in subsection (b) of this section and shall apply the provisions regarding
+30 existing systems established in subsection (c) of this section.
+31 SECTION 1.(f) Sunset. – This section expires when permanent rules adopted as
+32 required by subsection (d) of this section become effective.
+33
+34 VACANCY APPOINTMENTS FOR CERTAIN SANITARY BOARDS
+35 SECTION 2. G.S. 130A-50(h) reads as rewritten:
+36 "(h) For purposes of the election of the members of the sanitary district board, a sanitary
+37 district board shall adopt single-member residency districts in which only a person residing in a
+38 single-member residency district shall be eligible as a candidate in the election for the seat
+39 apportioned to that single-member residency district, but candidates shall be elected at large by
+40 the qualified voters of the entire sanitary district. The district boundaries shall be established by
+41 resolution adopted by the sanitary district board following a public hearing on the matter. The
+42 resolution, and a copy of a map depicting the single-member residency districts as adopted, shall
+43 be filed with the county board of elections. The most recent federal decennial census data shall
+44 be used as the sole basis of population for the establishment of the single-member residency
+45 districts. The single-member residency districts shall be revised after the return of each federal
+46 decennial census as necessary. Notwithstanding subsection (b) of this section, members of a
+47 sanitary district board under this subsection shall serve staggered four-year terms and the
+48 staggering shall be taken into consideration when adopting or revising the single-member
+49 residency districts. Any vacancy in a sanitary district board shall be filled by the remaining
+50 sanitary district board members until the next election for sanitary district board members. A
+51 vacancy must be filled by a resident from the same residency district as the residency district of
+Page 2 House Bill 768-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 the vacating commissioner. This subsection shall apply only to a sanitary district that provides
+2 water and sewer service lying wholly within a county with more than 17 municipalities lying
+3 wholly within that county."
+4
+5 ESTABLISH STATUTORY REQUIREMENTS FOR THE DEPARTMENT OF
+6 ENVIRONMENTAL QUALITY'S HANDLING OF APPLICATIONS FOR 401
+7 CERTIFICATIONS FOR PROJECTS THAT ARE ELIGIBLE FOR A NATIONWIDE
+8 PERMIT OR REGIONAL GENERAL PERMIT ISSUED BY THE UNITED STATES
+9 ARMY CORPS OF ENGINEERS
+10 SECTION 3.(a) G.S. 143-214.1A is amended by adding two new subsections to
+11 read:
+12 "(c) For projects that are eligible for a Nationwide Permit or Regional General Permit
+13 issued by the United States Army Corps of Engineers, which are not subject to subsection (a) of
+14 this section, and are required or elect to be covered under an Individual Water Quality
+15 Certification, the Department shall perform a review of an application pursuant to all of the
+16 following requirements:
+17 (1) On receipt of such application, the Department shall notify the applicant of
+18 any required fee within five business days. If the Department does not send
+19 the applicant a fee request within five business days of receipt of an
+20 application, the fee is waived. The Department's review period shall begin on
+21 the date the application fee is paid, or on the sixth business day from receipt
+22 when the application fee has been waived pursuant to this subdivision. For
+23 application fees that are paid via interagency batch payment, the review period
+24 shall start on receipt of the application by the Division of Water Resources.
+25 The Department shall additionally post any public notice required under the
+26 federal Clean Water Act within five business days of receipt of an application.
+27 (2) Within 30 business days of the beginning of the review period, the Department
+28 shall (i) determine whether or not the application is complete and notify the
+29 applicant accordingly and, (ii) if the Department determines an application is
+30 incomplete, specify all such deficiencies in a notice to the applicant. The
+31 applicant may file an amended application or supplemental information to
+32 cure the deficiencies identified by the Department for the Department's
+33 review. Review of amended applications or supplemental information
+34 responses provided by the applicant shall occur within 20 business days of
+35 receipt. An application may be deemed incomplete only if it does not provide
+36 sufficient information necessary for the Department to determine if the
+37 proposed discharges into navigable waters will comply with State water
+38 quality requirements. If the Department fails to issue a notice that the
+39 application is incomplete within the requisite initial 30-day period, or the
+40 supplemental 20-day review period, the application shall be deemed complete.
+41 As used in this section, State water quality requirements means water quality
+42 standards approved by the United States Environmental Protection Agency
+43 pursuant to 33 U.S.C. § 1313(c)(3).
+44 (3) If the Department determines that a public hearing is necessary pursuant to
+45 applicable requirements, the Department shall notify the applicant within the
+46 review period outlined in subdivision (2) of this subsection. If the hearing
+47 officer determines that additional information is required from the applicant
+48 at the conclusion of the public hearing comment period, the Department shall
+49 notify the applicant within five business days of the conclusion of the
+50 comment period and the supplemental information shall be subject to the
+51 review time lines laid out in subdivision (2) of this subsection.
+House Bill 768-Third Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (4) The Department shall either approve or deny an application within (i) 10
+2 business days of the date the application is deemed complete if no public
+3 hearing is held or (ii) 15 business days of the close of the record if a public
+4 hearing is held and no additional information is required. Failure of the
+5 Department to approve or deny the application within the requisite time
+6 period, as applicable, shall result in a waiver of the certification requirement
+7 by the State, unless the applicant agrees, in writing, to an extension of time,
+8 which shall not exceed one year from the State's receipt of the application for
+9 certification.
+10 (5) The Department shall issue a certification, with or without conditions or
+11 limitations, upon determining that the proposed discharges into navigable
+12 waters subject to the federal Clean Water Act will comply with State water
+13 quality requirements. The Department may include as conditions or
+14 limitations in a certification any effluent limitations or other limitations
+15 necessary to assure the proposed discharges into navigable waters subject to
+16 the federal Clean Water Act will comply with State water quality
+17 requirements. The Department shall not impose any other conditions or
+18 limitations in a certification.
+19 (6) The Department shall deny a certification application only if it determines that
+20 no reasonable conditions or limitations would provide assurance that the
+21 proposed discharges into navigable waters subject to the federal Clean Water
+22 Act will comply with State water quality requirements. The denial shall
+23 include a statement explaining why the Department determined the proposed
+24 discharges into navigable waters subject to the federal Clean Water Act will
+25 not comply with the State water quality requirements.
+26 (7) The Department may grant, deny, or waive certification but shall not require
+27 an applicant to withdraw an application.
+28 (d) On receipt of any application for certification filed with the Department pursuant to
+29 section 401 of the Clean Water Act, 33 U.S.C. § 1341(a)(1), the Department shall notify the
+30 applicant of any required fee within five business days. If the Department does not send the
+31 applicant a fee request within five business days of receipt of an application, the fee is waived."
+32 SECTION 3.(b) This section becomes effective October 1, 2025.
+33
+34 EFFECTIVE DATE
+35 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+36 law.
+Page 4 House Bill 768-Third Edition
+
+[DELETED:  3 E (   A A R T A T S B C A S F C T C E F I E R C C R T P F T F S R F T D O E Q H O A F 4 C F P O G T  C F C E F I E R S 1  D – F p o t s t f a d ( C N C F C a a t a a b t C ( C ( E r c c r – T r s S 1  E E – N t e r c c r o t C t f b a s e ( R A B o T V c t m t e r ( A h a m n e t s a g p a t p S 1  T o E S i E B – N C t m r t r o n o o a s a]
+[DELETED:  S  H e a t ( S t a m b a f a s s b p d ( P a s p s s b p r b d s ( T t s ( S C N S t a i o t s 1 p p S p t c c e S r  V S " F d s d e a t r r b b d d s d b u t s s s s f t a t s s b t i c w a o r t s r s v]
+[DELETED:  S  P t w w  E S R F T D O E Q H O A F 4 C P A S r " F i t s a a r o e t b c u a I W Q C D s p a r o a a p f ( O a t a a f r w f b d o r o a a t w a s T f ( W s a i s a s d i a n t t a T a c t d i b t D f t D r R o a a o s i r r s i n f t D t d i t p d i n w w c w S w q r I t D f t i a n t t a i i w t r i 3 p o s A s p ( I a r o a n t a w f b d o t c o t c p a t s i s b s t t r]
+[DELETED:  S  H ( T D s e o a a w ( 1 b h h i h a n a i i r F o t D t a o d t a w t r t p b w c ( T D s i a c w o w c o l u d t t p d i n w q r T D m i a c o l i a c a e l o o l n t f C W A w c w S w q r T D s n i a o c o l ( T n r c o l w p a t t p A w c w S w q r T d s i d n ( T a ( O s a a S  E S l]

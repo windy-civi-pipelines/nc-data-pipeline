@@ -1,0 +1,166 @@
+Title: SENATE BILL 738
+Official Title: SENATE BILL 738
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Digital Content Provenance Initiative/Funds. (Public)
+Sponsors: Senators Salvador, Theodros, and Garrett (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT CREATING THE DIGITAL CONTENT PROVENANCE INITIATIVE AND
+3 APPROPRIATING FUNDS FOR THAT PURPOSE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) The following definitions apply to this act:
+6 (1) Synthetic media. – Content that has been partially or fully generated, altered,
+7 or manipulated by artificial intelligence or machine learning technologies,
+8 including but not limited to video, audio, text, and images.
+9 (2) Provenance. – Verifiable information about the origin, creation, and
+10 modification history of a piece of digital content, including any
+11 transformations applied.
+12 (3) Cryptographic authentication. –The use of secure digital methods, such as
+13 watermarking or signatures, to confirm the origin and integrity of content.
+14 (4) State-generated content. – Any official communication, media, or digital file
+15 created or disseminated by a State agency, department, or official in the course
+16 of their duties.
+17 (5) False attribution. – Digital content that inaccurately represents itself as
+18 originating from a government official or agency.
+19 SECTION 1.(b) There is established the Digital Content Provenance Initiative
+20 (Initiative). The Initiative shall be implemented in phases.
+21 SECTION 1.(c) Phase I shall be coordinated jointly by the Department of Commerce
+22 and the Department of Information Technology to protect North Carolina residents from the
+23 growing threats posed by synthetic media and AI-generated content. This initiative shall develop
+24 and implement cryptographic authentication standards for digital content across State platforms,
+25 official communications, and election-related public information, to mitigate digital
+26 misinformation that poses an escalating threat to consumers, the public trust, election integrity,
+27 and information authenticity. The initiative shall also study methods to detect and deter false
+28 attribution of synthetic media to public officials, election authorities, or government agencies.
+29 Where feasible, the Initiative will lead the State's effort to adopt or align with existing
+30 open technical standards for content provenance and authenticity, including but not limited to the
+31 standards developed by the Coalition for Content Provenance and Authenticity (C2PA), the
+32 World Wide Web Consortium (W3C), and other relevant multistakeholder or international
+33 organizations. The Initiative may pilot implementations of C2PA-compliant metadata,
+34 watermarking, or signature protocols in collaboration with industry partners.
+35 SECTION 1.(d) To ensure transparency and accountability, the Initiative shall
+36 establish a Digital Content Provenance Advisory Board. The Board shall include representatives
+*S738-v-1*
+General Assembly Of North Carolina Session 2025
+1 from civil liberties organizations, academic institutions, media organizations, cybersecurity
+2 experts, and the technology industry. The Board shall advise on technical standards, privacy
+3 safeguards, civil liberties impacts, and implementation strategies. The Initiative shall also publish
+4 quarterly progress updates and a public comment portal.
+5 SECTION 2.(a) Effective July 1, 2025, there is appropriated from the General Fund
+6 to the Department of Commerce the sum of five hundred thousand dollars ($500,000) for the
+7 2025-2026 fiscal year to carry out the purposes of Phase I, including the development of
+8 comprehensive content authentication framework for North Carolina's digital communications
+9 infrastructure that:
+10 (1) Implements cryptographic verification protocols for all state-generated media.
+11 (2) Creates a secure content provenance registry for official State
+12 communications.
+13 (3) Develops public education resources on identifying potential synthetic
+14 content.
+15 (4) Partners with technology companies to integrate provenance standards.
+16 SECTION 2.(b) These funds may be used to engage consultants, develop technical
+17 infrastructure, increase staff expertise, conduct public education campaign, and to support
+18 ongoing threat assessment.
+19 SECTION 3. By December 1, 2025, the Department of Commerce and the
+20 Department of Information Technology shall submit an interim Phase I report to the General
+21 Assembly and publish it on a public website. This report shall include a summary of technical
+22 progress, public input received, initial recommendations for election-year implementation, and
+23 early indicators of public risk. A final Phase I report, with recommendations for Phase II, shall
+24 be submitted by March 1, 2026.
+25 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+26 law.
+Page 2 Senate Bill 738-First Edition
+[DELETED:  1 D ( S R A A A C T D C P I A A T S ( S o a i ( P – V i a t o c a m h o a p o d c i a t ( C w ( S c o ( F a – D c t i r i a o S 1  T i e t D C P I ( S a g a o c a e p i t m d m a a W o s t ( W W W C ( a o r m o i o T I m p i o C m w S 1  T e t a a t I s e]
+[DELETED:  S  S f c l o a i m o c e s q S t 2 f y t c o t p o P I i t d o c i ( I ( C a s c p r f o S c ( D p e r o i p s c ( P S i i s e c p e c a t s o S 3  B D 1 2 t D o C a t D A p e b S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 738
+Short Title: Digital Content Provenance Initiative/Funds. (Public)
+Sponsors: Senators Salvador, Theodros, and Garrett (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT CREATING THE DIGITAL CONTENT PROVENANCE INITIATIVE AND
+3 APPROPRIATING FUNDS FOR THAT PURPOSE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1.(a) The following definitions apply to this act:
+6 (1) Synthetic media. – Content that has been partially or fully generated, altered,
+7 or manipulated by artificial intelligence or machine learning technologies,
+8 including but not limited to video, audio, text, and images.
+9 (2) Provenance. – Verifiable information about the origin, creation, and
+10 modification history of a piece of digital content, including any
+11 transformations applied.
+12 (3) Cryptographic authentication. –The use of secure digital methods, such as
+13 watermarking or signatures, to confirm the origin and integrity of content.
+14 (4) State-generated content. – Any official communication, media, or digital file
+15 created or disseminated by a State agency, department, or official in the course
+16 of their duties.
+17 (5) False attribution. – Digital content that inaccurately represents itself as
+18 originating from a government official or agency.
+19 SECTION 1.(b) There is established the Digital Content Provenance Initiative
+20 (Initiative). The Initiative shall be implemented in phases.
+21 SECTION 1.(c) Phase I shall be coordinated jointly by the Department of Commerce
+22 and the Department of Information Technology to protect North Carolina residents from the
+23 growing threats posed by synthetic media and AI-generated content. This initiative shall develop
+24 and implement cryptographic authentication standards for digital content across State platforms,
+25 official communications, and election-related public information, to mitigate digital
+26 misinformation that poses an escalating threat to consumers, the public trust, election integrity,
+27 and information authenticity. The initiative shall also study methods to detect and deter false
+28 attribution of synthetic media to public officials, election authorities, or government agencies.
+29 Where feasible, the Initiative will lead the State's effort to adopt or align with existing
+30 open technical standards for content provenance and authenticity, including but not limited to the
+31 standards developed by the Coalition for Content Provenance and Authenticity (C2PA), the
+32 World Wide Web Consortium (W3C), and other relevant multistakeholder or international
+33 organizations. The Initiative may pilot implementations of C2PA-compliant metadata,
+34 watermarking, or signature protocols in collaboration with industry partners.
+35 SECTION 1.(d) To ensure transparency and accountability, the Initiative shall
+36 establish a Digital Content Provenance Advisory Board. The Board shall include representatives
+*S738-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 from civil liberties organizations, academic institutions, media organizations, cybersecurity
+2 experts, and the technology industry. The Board shall advise on technical standards, privacy
+3 safeguards, civil liberties impacts, and implementation strategies. The Initiative shall also publish
+4 quarterly progress updates and a public comment portal.
+5 SECTION 2.(a) Effective July 1, 2025, there is appropriated from the General Fund
+6 to the Department of Commerce the sum of five hundred thousand dollars ($500,000) for the
+7 2025-2026 fiscal year to carry out the purposes of Phase I, including the development of
+8 comprehensive content authentication framework for North Carolina's digital communications
+9 infrastructure that:
+10 (1) Implements cryptographic verification protocols for all state-generated media.
+11 (2) Creates a secure content provenance registry for official State
+12 communications.
+13 (3) Develops public education resources on identifying potential synthetic
+14 content.
+15 (4) Partners with technology companies to integrate provenance standards.
+16 SECTION 2.(b) These funds may be used to engage consultants, develop technical
+17 infrastructure, increase staff expertise, conduct public education campaign, and to support
+18 ongoing threat assessment.
+19 SECTION 3. By December 1, 2025, the Department of Commerce and the
+20 Department of Information Technology shall submit an interim Phase I report to the General
+21 Assembly and publish it on a public website. This report shall include a summary of technical
+22 progress, public input received, initial recommendations for election-year implementation, and
+23 early indicators of public risk. A final Phase I report, with recommendations for Phase II, shall
+24 be submitted by March 1, 2026.
+25 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+26 law.
+Page 2 Senate Bill 738-First Edition
+
+[DELETED:  1 D ( S R A A A C T D C P I A A T S ( S o a i ( P – V i a t o c a m h o a p o d c i a t ( C w ( S c o ( F a – D c t i r i a o S 1  T i e t D C P I ( S a g a o c a e p i t m d m a a W o s t ( W W W C ( a o r m o i o T I m p i o C m w S 1  T e t a a t I s e]
+[DELETED:  S  S f c l o a i m o c e s q S t 2 f y t c o t p o P I i t d o c i ( I ( C a s c p r f o S c ( D p e r o i p s c ( P S i i s e c p e c a t s o S 3  B D 1 2 t D o C a t D A p e b S l]

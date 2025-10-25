@@ -1,0 +1,2395 @@
+Title: SENATE BILL 710
+Official Title: SENATE BILL 710
+Number of Sections: 35
+Source: versions - SL 2025-51
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2025-51
+AN ACT TO MODERNIZE THE ALARMS SYSTEMS LICENSING ACT, MAKE VARIOUS
+CHANGES TO THE PRIVATE PROTECTIVE SERVICES BOARD LAWS,
+STRENGTHEN THE OVERSIGHT AUTHORITY OF THE ABC COMMISSION,
+MODIFY THE LAW REGARDING NOTICE OF CERTAIN VIOLATIONS TO ABC
+PERMIT HOLDERS, ALLOW REVIEW OF LAW ENFORCEMENT OFFICERS'
+PERSONNEL RECORDS WHEN TRANSFERRING AGENCIES, REINSTATE
+G.S. 102-1.1, AND TO MODIFY PROVISIONS REGARDING SUMMARY
+COURTS-MARTIAL AND THE APPOINTMENT AND SERVICE OF MILITARY
+JUDGES OF THE NORTH CAROLINA NATIONAL GUARD.
+The General Assembly of North Carolina enacts:
+PART I. ALARMS SYSTEMS LICENSING ACT MODERNIZATION
+
+Section 2:
+SECTION 1.(a) Chapter 74D of the General Statutes reads as rewritten:
+"Chapter 74D.
+"Alarm Security Systems.
+"Article 1.
+"Alarm Security Systems Licensing Act.
+"§ 74D-1. Title.
+This act may be cited as the "Alarm "Security Systems Licensing Act."
+"§ 74D-2. License Business and qualifying agent license requirements.
+(a) License Required. – No person, firm, association, corporation, or department or
+division of a firm, association or corporation, shall engage in or hold itself out as engaging in an
+alarm a security systems business without first being licensed in accordance with this Chapter.
+A department or division of a firm, association, or corporation may be separately licensed under
+this Chapter if the distinct department or division, as opposed to the firm, association, or
+corporation as a whole, engages in an alarm a security systems business. The department or
+division shall ensure strict confidentiality of private security information, and the private security
+information of the department or division must, at a minimum, be physically separated from other
+premises of the firm, association, or corporation. For purposes of this Chapter an "alarm a
+"security systems business" is defined as any person, firm, association or corporation that does
+any of the following:
+(1) Sells Unless otherwise exempt, sells or attempts to sell an alarm a security
+system device by engaging in a any personal solicitation at a residence or
+business to advise, design, or consult on specific types and specific locations
+of alarm security system devices.
+(2) Installs, Unless otherwise exempt, installs, services, monitors, or responds to
+electrical, wireless or hardwired electronic or mechanical alarm signal
+devices, devices and security systems, integrated automation of a residence or
+business that includes a security element, burglar alarms, monitored access
+control, or cameras cameras, analytic capturing devices, systems providing
+intelligence or other imaging devices used to detect or observe burglary,
+*S710-v-6*
+breaking or entering, intrusion, shoplifting, pilferage, theft, or other
+unauthorized or illegal activity. This provision shall not apply to a locking
+device that records entry and exit data and does not transmit the data in real
+time to an on-site or off-site monitoring location, provided the installer is duly
+licensed by the North Carolina Locksmith Licensing Board.
+…
+(c) Qualifying Agent. – A business entity that engages in the alarm systems business is
+required to be licensed under this Chapter is subject to all of the requirements listed in this
+subsection with respect to a qualifying agent. For purposes of this Chapter, a "qualifying agent"
+is an individual who is a full-time employee in a management position who is licensed under this
+Chapter and whose name and address have been registered with the Board. The requirements are:
+(1) The business entity shall employ a designated qualifying agent who meets the
+requirements for a license issued under and who is, in fact, licensed under the
+provisions of this Chapter, unless otherwise approved by the Board. Service
+upon the qualifying agent appointed by the business entity of any process,
+notice or demand required by or permitted by law to be served upon the
+business entity by the Alarm Security Systems Licensing Board shall be
+binding upon the licensed business entity. Nothing herein contained shall limit
+or affect the right to serve any process, notice or demand required or permitted
+by law to be served upon a business entity in any other manner or hereafter
+permitted by law.
+…
+(3) In the event that the qualifying agent upon whom the business entity relies in
+order to do business ceases to perform his duties as qualifying agent, the
+business entity shall notify the board in writing by letter or using the Board's
+online form within 10 working days. The business entity must obtain a
+substitute qualifying agent within 90 days after the original qualifying agent
+ceases to serve as qualifying agent. The Director, in his or her discretion, may
+extend the 90-day period for good cause by an additional 30 days upon a
+written request of an officer of the company.
+(4) The license certificate shall list the name of the qualifying agent. No licensee
+person shall serve as the qualifying agent for more than one business entity
+without the prior approval of the Board.
+…
+(6) The qualifying agent shall be responsible for maintaining a current address
+and other contact information with the Board.
+(d) Criminal Record Check. Minimum Qualifications for Security Systems License. – An
+applicant must for qualifying agent shall meet all of the following requirements and qualifications
+determined by a background investigation conducted by the Board in accordance with
+G.S. 74D-2.1 and upon receipt of an application:qualifications:
+(1) The applicant is at least 18 years of age.
+(2) The applicant is of good moral character and temperate habits. The following
+shall be prima facie evidence that the applicant does not have good moral
+character or temperate habits: conviction by any local, State, federal, or
+military court of any crime involving the illegal use, carrying, or possession
+of a firearm; conviction of any crime involving the illegal use, possession,
+sale, manufacture, distribution or transportation of a controlled substance,
+drug, narcotic, or alcoholic beverages; conviction of a crime involving
+felonious assault or an act of violence; conviction of a crime involving
+unlawful breaking or entering, burglary, larceny, or of any offense involving
+moral turpitude; or a history of addiction to alcohol or a narcotic drug;
+Page 2 Session Law 2025-51 Senate Bill 710
+provided that, for purposes of this subsection, "conviction" means and
+includes the entry of a plea of guilty, plea of no contest, or a verdict rendered
+in open court by a judge or jury.jury, including a prayer for judgment
+continued, adjudication withheld, or equivalent.
+(3) The applicant has the necessary training, qualifications and experience to be
+licensed.licensed, or the applicant has successfully completed or kept current
+a Certified Alarm Technician Level I course offered by the Electronic Security
+Association or equivalent course approved by the Board.
+(e) Examination. – The Board may require the applicant to demonstrate the applicant's
+qualifications by examination.
+…
+(g) An alarm monitoring company located in another state and licensed by that state
+which demonstrates to the Board's satisfaction that it does not conduct any business through a
+personal representative present in this State, but which solicits and conducts business solely
+through interstate communication facilities, such as telephone, the internet, and the United States
+Postal Service, upon receipt by the Board of a certificate of good standing from the state of
+licensure is not required to register employees pursuant to G.S. 74D-8. Out-of-state monitoring
+companies not licensed in any state must be licensed by the Board and must register employees
+pursuant to G.S. 74D-8.
+(h) A security guard and patrol company licensed under Chapter 74C of the General
+Statutes that remotely monitors access control, cameras, analytic capturing devices, systems
+providing intelligence, or other imaging devices shall obtain a separate limited monitoring license
+and may utilize the same qualifying agent for the limited license as utilized for its security guard
+and patrol license and shall not be required to meet the requirements of G.S. 74D-2(c)(4) and
+(d)(3) or hold a low voltage electrical license. The qualifying agent must successfully complete
+a central station monitoring operator course approved by the Board.
+"§ 74D-2.1. Criminal background checks.
+(a) Authorization. – Upon receipt of an application for a license or registration, the Board
+shall conduct a background investigation to determine whether the applicant meets the
+requirements for a license or registration as set out in G.S. 74D-2(d). The Department State
+Bureau of Public Safety Investigation may provide a criminal record check to the Board for a
+person who has applied for a new or renewal license or registration through the Board. The Board
+shall provide to the Department of Public Safety, State Bureau of Investigation, along with the
+request, the fingerprints of a new applicant, and the Department of Public Safety State Bureau of
+Investigation shall provide a criminal record check based upon the applicant's fingerprints. The
+Board may request a criminal record check from the Department of Public Safety State Bureau
+of Investigation for a renewal applicant based upon the applicant's fingerprints in accordance
+with policy adopted by the Board. The Board shall provide any additional information required
+by the Department of Public Safety State Bureau of Investigation and a form signed by the
+applicant consenting to the check of the criminal record and to the use of the fingerprints and
+other identifying information required by the State or national repositories. The applicant's
+fingerprints shall be forwarded to the State Bureau of Investigation for a search of the State's
+criminal history record file, and the State Bureau of Investigation shall forward a set of the
+fingerprints to the Federal Bureau of Investigation for a national criminal history check. The
+Department of Public Safety State Bureau of Investigation may charge each applicant a fee to be
+collected by the Board and transmitted to the State Bureau of Investigation for conducting the
+checks of criminal history records authorized by this subsection.
+The Board may require a new or renewal applicant to obtain a criminal record report from
+one or more reporting services designated by the Board to provide criminal record reports.
+Applicants are required to pay the designated reporting service for the cost of these reports.
+Senate Bill 710 Session Law 2025-51 Page 3
+(b) Confidentiality. – The Except as necessary to support the denial of an application or
+a disciplinary matter in a contested case, the Board shall keep all information obtained pursuant
+to this section confidential in accordance with applicable State law and federal guidelines, and
+the information shall not be a public record under Chapter 132 of the General Statutes.
+"§ 74D-3. Exemptions.
+The provisions of this Chapter shall not apply to:to the following:
+(1) A person, firm, association or corporation that sells or manufactures alarm
+security systems, unless the person, firm, association or corporation makes
+personal solicitations at a residence or business to advise, design, or consult
+on specific types and specific locations of alarm security system devices,
+installs, services, monitors, or responds to alarm security systems at or from a
+protected premises or a premises to be protected and thereby obtains
+knowledge of specific application or location of the alarm security system. A
+person licensed under this Chapter may hire a consultant to troubleshoot a
+location or installation for a period of time not to exceed 48 hours in a
+one-month period if the licensee submits a report to the Board within 30 days
+from the date of the consultation designating the consultant as a temporary
+consultant;
+(2) Installation, servicing or responding to fire alarm systems or any alarm device
+which is installed in a motor vehicle, aircraft or boat;boat.
+(3) Installation or service of an alarm electronic security system on property
+owned by or leased to the installer;installer.
+(4) An alarm monitoring company located in another state which demonstrates to
+the Board's satisfaction that it does not conduct any business through a
+personal representative present in this State but which solicits and conducts
+business solely through interstate communication facilities such as telephone
+messages, earth satellite relay stations and the United States postal service;
+and
+(5) A person or business providing alarm systems services to a State agency or
+local government if that person or business has been providing those services
+to the State agency or local government for more than five years prior to the
+effective date of this Chapter, and the State agency or local government joins
+with the person or business in requesting the application of this exemption.
+(6) Installation or service of a locking device that records entry and exit data and
+does not transmit the data in real time to an on-site or off-site monitoring
+location, provided the installer is licensed by the North Carolina Locksmith
+Licensing Board.
+(7) An entity through which a customer accesses marketing or advertising
+material or installation instructions for a security system.
+(b) A person licensed under this Chapter may utilize a consultant or manufacturer's
+representative to troubleshoot a location or installation if accompanied by the licensee and the
+licensee submits a report to the Board within 30 days from the date of the consultation designating
+the consultant as a temporary consultant.
+"§ 74D-4. Alarm Security Systems Licensing Board.
+(a) The Alarm Security Systems Licensing Board is hereby established.
+(b) The Board shall consist of seven members: the Secretary of Public Safety or his or
+her designee; two persons appointed by the Governor, one of whom shall be licensed under this
+Chapter and one of whom shall be a public member; two persons appointed by the General
+Assembly upon the recommendation of the President Pro Tempore of the Senate in accordance
+with G.S. 120-121, one of whom shall be licensed under this Chapter and one of whom shall be
+a public member; and two persons appointed by the General Assembly upon the recommendation
+Page 4 Session Law 2025-51 Senate Bill 710
+of the Speaker of the House of Representatives in accordance with G.S. 120-121, one of whom
+shall be licensed under this Chapter and one of whom shall be a public member.
+(c) Each member shall be appointed for a term of three years and shall serve until a
+successor is installed. No With the exception of the Secretary or his or her designee, no member
+shall serve more than two complete three-year consecutive terms. The term of each member,
+other than the Attorney General or his designee, who is serving on August 7, 1989, shall terminate
+on June 30, 1989. Of the appointments made by the General Assembly upon the recommendation
+of the President of the Senate to begin on July 1, 1989, one member shall be for a term of one
+year and one member shall be for a term of three years. Of the appointments made by the General
+Assembly upon the recommendation of the Speaker of the House of Representatives, one member
+shall be appointed for a term of two years and one member shall be appointed for a term of three
+years. Thereafter all terms shall be for three years.
+…
+(e) Board members who are also State officers or employees shall receive no per diem
+compensation for serving on the Board, and shall only receive the travel allowances set forth in
+G.S. 138-6. All other Board members shall receive reimbursement in accordance with
+G.S. 93B-5(b) and, notwithstanding G.S. 93B-5(a), shall receive as compensation for their
+services per diem not to exceed one hundred dollars ($100.00) for each day during which they
+are engaged in the official business of the Board. The Board shall set the travel allowance and
+per diem compensation of Board members who are not also State officers or employees.
+(f) The Board shall elect a chairman chair and a vice-chairman vice-chair from its
+membership by majority vote at the first meeting of its fiscal year. The vice-chairman vice-chair
+shall serve as chairman chair of the screening committee and shall also serve as chairman chair
+in the chairman's chair's absence. At no time shall both the positions of chairman chair and
+vice-chairman vice-chair be held by either an industry representative or a nonindustry
+representative.
+(g) The Board shall meet at the call of the chairman chair or a majority of the members
+of the Board. The Board shall adopt rules governing the call and conduct of its meetings. A
+majority of the current Board membership constitutes a quorum.
+"§ 74D-5. Powers of the Board.
+(a) In addition to the powers conferred upon the Board elsewhere in this Chapter, the
+Board shall have the power to:to do the following:
+(1) Promulgate rules necessary to carry out and administer the provisions of this
+Chapter including the authority to require the submission of reports and
+information by licensees under this Chapter;Chapter.
+(2) Determine minimum qualifications and establish minimum education,
+experience, and training standards for applicants and licensees applicants,
+licensees, and registrants under this Chapter;Chapter.
+(3) Conduct investigations regarding alleged violations and make evaluations as
+may be necessary to determine if unlicensed individuals or entities are in
+violation of this Chapter and licensees and registrants under this Chapter are
+complying with the provisions of this Chapter;Chapter. The Board shall issue
+cease and desist orders, in writing, for violations of this Chapter with the
+concurrence of the Secretary of Public Safety.
+(4) Adopt and amend bylaws, consistent with law, for its internal management
+and control;control.
+(5) Investigate and approve individual applicants to be licensed or registered
+according to this Chapter;Chapter.
+(6) Deny, suspend, or revoke any license issued or to be issued under this Chapter
+to any applicant or licensee applicant, licensee, or registrant who fails to
+satisfy the requirements of this Chapter or the rules established by the Board.
+Senate Bill 710 Session Law 2025-51 Page 5
+The denial, suspension, or revocation of such license or registration shall be
+in accordance with Chapter 150B of this General Statutes of North
+Carolina;Carolina.
+(7) Issue subpoenas to compel the attendance of witnesses and the production of
+pertinent books, accounts, records, and documents. The district court shall
+have the power to impose punishment pursuant to G.S. 5A-21 et seq. for acts
+occurring in matters pending before the Board which would constitute civil
+contempt if the acts occurred in an action pending in court; andcourt.
+(8) Contract for services as necessary to carry out the functions of the Board.
+(9) Acquire, hold, rent, encumber, alienate, and otherwise deal with real property
+in the same manner as a private person or corporation, subject only to approval
+of the Governor and the Council of State. Collateral pledged by the Board for
+an encumbrance is limited to the assets, income, and revenues of the Board.
+(b) The chairman chair of the Board or his or her representative designated to be a hearing
+officer may conduct any hearing called by the board Board for the purpose of denial, suspension,
+or revocation of a license or registration under this Chapter.
+(c) The regulation of security system businesses shall be exclusive to the Board; however,
+any city or county shall be permitted to require a security business operating within its
+jurisdiction to register and to supply information regarding its license and may adopt an ordinance
+to require users of electronic security systems to obtain revocable permits when alarm usage
+involves automatic signal transmission to a law enforcement agency.
+"§ 74D-5.1. Position of Director created.
+The position of Director of the Alarm Security Systems Licensing Board is hereby created
+within the Department of Public Safety. The Secretary of Public Safety shall appoint a person to
+fill this full-time position. The Director's duties shall be to administer the directives contained in
+this Chapter and the rules promulgated adopted by the Board to implement this Chapter and to
+carry out the administrative duties incident to the functioning of the Board in order to actively
+police the alarm systems security systems industry to insure ensure compliance with the law in
+all aspects. The Director may issue a temporary grant or denial of a request for registration subject
+to final action by the Board at its next regularly scheduled meeting.
+"§ 74D-5.2. Investigative powers of the Secretary of Public Safety.
+The Secretary of Public Safety shall have the power to investigate or cause to be investigated
+any complaints, allegations, or suspicions of wrongdoing or violations of this Chapter involving
+individuals unlicensed, licensed, or to be licensed, under this Chapter. Any investigation
+conducted pursuant to this section is deemed confidential and is not subject to review under
+G.S. 132-1 until the investigation is complete and a report is presented to the Board. However,
+the report may be released to the licensee after the investigation is complete but before the report
+is presented to the Board.
+"§ 74D-6. Denial of a license or registration.
+Upon a finding that the applicant meets the requirements for licensure or receipt of an
+application for licensure or registration under this Chapter, the Board shall determine whether
+the applicant shall receive the license or registration applied for. The grounds for denial
+include:include all of the following:
+(1) Commission of some act which, if committed by a registrant or licensee,
+would be grounds for the suspension or revocation of a registration or license
+under this Chapter;Chapter.
+(2) Conviction of a crime involving fraud;the illegal use, carrying, or possession
+of a firearm, felonious assault or an act of violence, felonious sexual offense,
+felonious larceny, or felonious fraud. For purposes of this subdivision,
+"conviction" means and includes the entry of a plea of guilty, plea of no
+Page 6 Session Law 2025-51 Senate Bill 710
+contest, or a verdict entered in open court by a judge or jury, including a prayer
+for judgment continued, adjudication withheld, or equivalent.
+(3) Lack of good moral character or temperate habits. The following
+misdemeanor convictions shall be prima facie evidence that the applicant does
+not have good moral character or temperate habits: conviction by any local,
+State, federal, or military court of any crime involving the illegal use, carrying,
+or possession of a firearm; conviction of any crime involving the illegal use,
+possession, sale, manufacture, distribution, or transportation of a controlled
+substance, drug, narcotic, or alcoholic beverages; conviction of a crime
+involving felonious assault or an act of violence; conviction of a crime
+involving unlawful breaking or entering, burglary or larceny or of any offense
+involving moral turpitude; larceny; conviction of a crime involving a sexual
+offense; or a history of addiction to alcohol or a narcotic drug; provided that,
+for purposes of this subsection subdivision, "conviction" means and includes
+the entry of a plea of guilty, plea of no contest, or a verdict rendered in open
+court by a judge or jury;jury, including a prayer for judgment continued,
+adjudication withheld, or equivalent.
+(4) Previous denial under this Chapter or previous revocation for cause;cause.
+(5) Knowingly making any false statement or misrepresentation in an application
+made to the Board for a license or registration.
+(6) Being a registered sex offender in this State or any other state.
+"§ 74D-7. Form of license; term; assignability; renewal; posting; branch offices; fees.
+…
+(c) No licensee shall engage in any business regulated by this Chapter under a name other
+than the licensee licensee's name or names which appear on the certificate issued by the Board.
+(d) Any branch office of an alarm in this State with a security systems business shall
+obtain a branch office certificate. A separate certificate stating the location and licensed
+qualifying agent shall be posted at all times in a conspicuous place in each branch office. Every
+business covered under the provisions of this Chapter shall file in writing with the Board the
+addresses of each of its branch offices. offices in this State. All licensees of with a branch office
+shall notify the Board in writing before the establishment, closing, or changing of the location of
+any branch office. A licensed qualifying agent may be responsible for more than one branch
+office of an alarm systems business with the prior approval of the Board. office in this State.
+Temporary approval may be granted by the Director, upon application of the qualifying agent,
+for a period of time not to exceed 10 working 45 days after the adjournment of the next regularly
+scheduled meeting of the Board unless the Board determines that the application should be
+denied.
+…
+"§ 74D-8. Registration of persons employed.
+(a) (1) A licensee of an alarm a security systems business shall register with the
+Board within 30 days after the employment begins, all of the following
+licensee's employees described in subdivision (1a) of this subsection that are
+within the State, unless in the discretion of the Director, the time period is
+extended for good cause:cause.
+(1a) The following employees shall be registered with the Board:
+a. Any employee that has access to confidential any information
+detailing the design, installation, or application of any location specific
+electronic security system or that has access to any code, number, or
+program that would allow the system to be modified, altered, or
+circumvented.
+Senate Bill 710 Session Law 2025-51 Page 7
+b. Any employee who conducts personal sales in a private residence or
+who installs or services an electronic a security system in a commercial
+business establishment or a personal residence.
+c. Any employee who remotely monitors a security system, including
+cameras, unless the employee is registered as a security guard with a
+licensed security guard and patrol company under Chapter 74C of the
+General Statutes.
+Employees engaged only in sales or marketing that does not involve any of
+the above are not required to be registered.
+(1a)(1b) To register an employee, a licensee shall submit to the Board as to the
+employee: set(s) of classifiable fingerprints on standard F.B.I. applicant cards;
+recent color photograph(s) of acceptable quality for identification; and
+statements of any criminal records as deemed appropriate by the Board.
+(2) Except during the period allowed for registration in subdivision (a)(1) of this
+
+Section 3:
+section, no alarm security systems business may employ any employee
+required to be registered by this Chapter unless the employee's registration has
+been approved by the Board as set forth in this section.
+(3) A licensee may employ an applicant for registration as a probationary
+employee for 20 consecutive days. Upon completion of the probationary
+period and the desire of the licensee to hire the registration applicant as a
+regular employee, the licensee shall register the employee, as described in this
+subsection, with the Board within 30 days after the probationary employment
+period ends unless the Director, in the Director's discretion, extends the time
+period for good cause. Before a probationary employee engages in systems
+services, the employee shall complete any training requirements and the
+licensee shall conduct a criminal record check on the employee, as the Board
+deems appropriate. The licensee shall submit a list of the probationary
+employees to the Director on a monthly basis. The list shall include the name,
+address, social security number, and dates of employment of the employees.
+…
+"§ 74D-8.1. Apprenticeship registration permit.
+(a) The Board may issue an apprenticeship registration permit to an applicant who is 16
+or 17 years old and currently enrolled in high school if the applicant holds a valid drivers license
+and submits at least three letters of recommendation stating that the applicant is of good moral
+character as provided in G.S. 74D-2(d)(2). The letters of recommendation shall be from persons
+who are not related to the individual, and at least one of the letters shall be from an official at the
+school where the applicant is currently enrolled.applicant.
+…
+"§ 74D-9. Certificate of liability insurance required; form and approval; suspension for
+noncompliance.
+…
+(d) No license shall be issued under this act unless the applicant files with the Board
+evidence of a policy of liability insurance which policy must provide for the following minimum
+coverage: fifty two hundred fifty thousand dollars ($50,000) ($250,000) because of bodily injury
+or death of one person as a result of the negligent act or acts of the principal insured or his agents
+operating in the course and scope of his employment; subject to said limit for one person, one
+five hundred thousand dollars ($100,000) ($500,000) because of bodily injury or death of two or
+more persons as the result of the negligent act or acts of the principal insured or his agent
+operating in the course and scope of his or her agency; twenty one hundred thousand dollars
+($20,000) ($100,000) because of injury to or destruction of property of others as the result of the
+Page 8 Session Law 2025-51 Senate Bill 710
+negligent act or acts of the principal insured or his agents operating in the course and scope of
+his or her agency.
+…
+"§ 74D-10. Suspension or revocation of licenses and registrations; appeal.
+(a) The Board may, after notice and an opportunity for hearing, suspend or revoke a
+license or registration issued under this Chapter if it is determined that the licensee or registrant
+has:
+…
+(3) Violated any rule promulgated adopted by the Board pursuant to the authority
+contained in this Chapter.
+(4) Been convicted of any crime involving moral turpitude or any other crime
+involving violence or the illegal use, carrying, or possession of a dangerous
+weapon.felony as set forth in G.S. 74D-6(2) or any crime as set forth in
+G.S. 74D-6(3).
+…
+(7) Engaged in or permitted any employee to engage in any alarm security
+systems business when not lawfully in possession of a valid license
+registration issued under the provisions of this Chapter.
+(8) Committed an unlawful breaking or entering, burglary, larceny, sexual
+offense, trespass, fraud, assault, battery, or kidnapping.
+(9) Committed any other act which is a ground for the denial of an application for
+a license or registration under this Chapter.
+(10) Failed to maintain the certificate of liability insurance required by this
+Chapter.
+…
+(15) Engaged in the alarm security systems profession under a name other than the
+name under which the license was obtained under the provisions of this
+Chapter.
+…
+(19) Engaged in conduct that constitutes dereliction of duty or otherwise deceives,
+defrauds, or harms the public in the course of professional activities or
+services.services, including fraudulently claiming a change in business
+ownership, fraudulently claiming dissolution of a competing business,
+fraudulently claiming to be a representative of the consumer's current service
+provider, misrepresentation of employer, or misrepresenting an upgrade of
+equipment as a sales tactic.
+(20) Demonstrated a lack of financial responsibility.
+…
+"§ 74D-11. Enforcement.
+…
+(b) Any person, firm, association, corporation, or department or division of a firm,
+association or corporation, or their agents and employees violating any of the provisions of this
+Chapter or knowingly violating any rule promulgated to implement this Chapter shall be guilty
+of a Class 1 misdemeanor. The Attorney General, or his or her representative, shall have
+concurrent jurisdiction with the district attorneys of this State to prosecute violations of this
+Chapter.
+(c) The regulation of alarm systems businesses shall be exclusive to the Board; however,
+any city or county shall be permitted to require an alarm systems business operating within its
+jurisdiction to register and to supply information regarding its license, and may adopt an
+ordinance to require users of alarm systems to obtain revocable permits when alarm usage
+involves automatic signal transmission to a law-enforcement agency.
+Senate Bill 710 Session Law 2025-51 Page 9
+(d) In lieu of revocation of suspension of a license or registration under G.S. 74D-10, a
+civil penalty of not more than two thousand dollars ($2,000) per violation may be assessed by
+the Board against any person that violates any provision of this Chapter or any rule of the Board
+adopted pursuant to this Chapter. In determining the amount of any penalty, the Board shall
+consider the degree and extent of harm caused by the violation. The clear proceeds of all penalties
+collected under this section shall be remitted to the Civil Penalty and Forfeiture Fund in
+accordance with G.S. 115C-457.2.
+(e) Proceedings for the assessment of civil penalties shall be governed by Chapter 150B
+of the General Statutes. If the person assessed a penalty fails to pay the penalty to the Board, the
+Board may institute an action in the superior court of the county in which the person resides or
+has his or her principal place of business to recover the unpaid amount of the penalty. An action
+to recover a civil penalty under this section shall not relieve any party from any other penalty
+prescribed by law.
+(f) The sale, installation, or service of an alarm a security system by an unlicensed or
+unregistered person shall constitute a threat to the public safety, and any contract for the sale,
+installation, or service of an alarm a security system shall be deemed void and unenforceable.
+…
+"§ 74D-13. Transfer of funds.
+All fees collected pursuant to Chapter 74C of the General Statutes from alarm systems
+businesses which have not been expended upon January 1, 1984, shall be transferred to the Board
+by the Private Protective Services Board for the purpose of defraying the expenses of
+administering this act.
+"§ 74D-14. Proof of licensure to maintain or commence action.
+An alarm A security systems business may not maintain any action in any court of the State
+for the collection of compensation for performing an act for which a license or registration is
+required by this Chapter without alleging and proving that the alarm security systems business is
+appropriately licensed and the employee or agent of the alarm security systems business is
+appropriately registered upon entering into a contract with the consumer. An alarm A security
+systems installation, maintenance, or monitoring contract entered into with a consumer shall be
+void if the consumer confirms through records maintained by the Board that the alarm security
+systems business is not properly licensed or the consumer establishes through records maintained
+by the Board that the person enticing the consumer to enter into the contract is not properly
+registered by the Board. The sale, installation, or service of an alarm a security system by an
+unlicensed entity or unregistered employee shall be deemed an unfair and deceptive trade practice
+and shall be actionable under Chapter 75 of the General Statutes.
+…."
+
+Section 4:
+SECTION 1.(b) Article 2 of Chapter 74D of the General Statutes reads as rewritten:
+"Article 2.
+"Alarm Security Systems Education Fund.
+"§ 74D-30. Alarm Security Systems Education Fund created; payment to Fund;
+management; use of funds.
+(a) There is hereby created and established a special fund to be known as the "Alarm
+"Security Systems Education Fund" (hereinafter Fund) which shall be set aside and maintained
+in the office of the State Treasurer. The Fund shall be used in the manner provided in this Article
+for the education of licensees and registrants.
+…
+(c) In addition to the fees provided for elsewhere in this Chapter, the Board shall charge
+the following fees which shall be deposited into the Fund:
+(1) On July 1, 1985, the Board shall charge every licensee on that date a fee of
+fifty dollars ($50.00);
+Page 10 Session Law 2025-51 Senate Bill 710
+(2) The Board shall charge each new applicant for a license fifty dollars ($50.00),
+provided that for purposes of this Article a new applicant is hereby defined as
+an applicant who did not possess a license on July 1, 1985; andfifty dollars
+($50.00).
+(3) The Board is authorized to charge each licensee an additional amount, not to
+exceed fifty dollars ($50.00), on July 1 of any year in which the balance of the
+Fund is less than twenty-five thousand dollars ($25,000).
+(d) The State Treasurer shall invest and reinvest the moneys in the Fund in a manner
+provided by law. The Board in its discretion, may use the Fund for any of the following purposes:
+(1) To advance education and research in the alarm security systems field for the
+benefit of those licensed under the provisions of this Chapter and for the
+improvement of the industry,industry.
+(2) To underwrite educational seminars, training centers and other educational
+projects for the use and benefit generally of licensees, andlicensees.
+(3) To sponsor, contract for and to underwrite any and all additional educational
+training and research projects of a similar nature having to do with the
+advancement of the alarm security systems field in North Carolina."
+
+Section 5:
+SECTION 1.(c) The Security Systems Licensing Board may adopt rules to
+implement the provisions of this Part.
+
+Section 6:
+SECTION 1.(d) This Part becomes effective October 1, 2025.
+PART II. PRIVATE PROTECTIVE SERVICES BOARD LAWS AMENDMENTS
+
+Section 7:
+SECTION 2.(a) G.S. 74C-2 reads as rewritten:
+"§ 74C-2. Licenses required.
+(a) No private person, firm, association, or corporation shall engage in, perform any
+services as, or in any way represent or hold itself out as engaging in a private protective services
+profession or activity in this State without having first complied with the provisions of this
+Chapter. Compliance with the licensing requirements of this Chapter shall not relieve any person,
+firm, association or corporation from compliance with any other licensing law.
+(b) An individual in possession of a valid private protective services license or private
+detective trainee permit issued prior to October 1, 1989, shall not be subject to forfeiture of such
+license by virtue of this Chapter. Such license shall, however, remain subject to suspension,
+denial, or revocation in the same manner in which all other licenses issued pursuant to this
+Chapter are subject to suspension, denial, or revocation.
+(c) In its discretion, the Private Protective Services Board may issue a trainee permit in
+lieu of a private investigator investigator, polygraph examiner, electronic countermeasures, or
+digital forensic examiner license provided that the applicant works under the direct supervision
+of a licensee."
+
+Section 8:
+SECTION 2.(b) G.S. 74C-3 reads as rewritten:
+"§ 74C-3. Private protective services profession defined.
+(a) As used in this Chapter, the term "private protective services profession" means and
+includes the following:
+…
+(6) Security guard and patrol profession. – Any person, firm, association or
+corporation that provides a security guard on a contractual basis for another
+person, firm, association, or corporation corporation, or unit of government
+for a fee or other valuable consideration and performs one or more of the
+following functions:
+a. Prevention or detection of intrusion, entry, larceny, vandalism, abuse,
+fire or trespass on private property.
+Senate Bill 710 Session Law 2025-51 Page 11
+b. Prevention, observation, or detection of any unauthorized activity on
+public or private property.
+c. Protection of patrons and persons lawfully authorized to be on the
+premises or being escorted between premises of the person, firm,
+association, or corporation corporation, or unit of government that
+entered into the contract for security services.
+d. Control, regulation, or direction of the flow or movement of the public,
+whether by vehicle or otherwise, only to the extent and for the time
+directly and specifically required to assure the protection of properties.
+…
+(7) Guard dog service profession. – Any person, firm, association or corporation
+which for a fee or other valuable consideration contracts with another person,
+firm, association, or corporation corporation, law enforcement agency, or unit
+of government to place, lease, rent, or sell a trained dog for the purpose of
+protecting lives or property.
+…."
+
+Section 9:
+SECTION 2.(c) G.S. 74C-9 reads as rewritten:
+"§ 74C-9. Form of license; term; renewal; posting; branch offices; not assignable; late
+renewal fee.
+…
+(e) The Board is authorized to charge reasonable application and license fees as follows:
+…
+(17) An application for approval of a continuing legal education course not to
+exceed one hundred dollars ($100.00).
+Except as provided in G.S. 74C-13(k), all fees collected pursuant to this section shall be
+expended, under the direction of the Board, for the purpose of defraying the expenses of
+administering this Chapter.
+…
+(h) Trainee permits shall not be issued to applicants that qualify for a private detective
+investigator license.
+(i) A licensed private detective investigator, polygraph examiner, electronic
+countermeasures professional, or digital forensic examiner may supervise no more than five
+trainees at any given time."
+
+Section 10:
+SECTION 2.(d) G.S. 74C-11 reads as rewritten:
+"§ 74C-11. Probationary employees and registration of regular employees; unarmed
+security guard guards and unarmed armored car guards required to have
+registration card.
+(a) All licensees A security guard and patrol company or armored car company may
+employ unarmed security guards as probationary employees for 20 consecutive calendar days.
+Upon completion of the probationary period and the desire of the licensee security guard and
+patrol company or armored car company to hire an unarmed security guard as a regular employee,
+the licensee security guard and patrol company or armored car company shall register the
+employee who will be engaged in providing private protective services covered by this Chapter
+with the Board within 30 days after the probationary employment period ends, unless the
+Director, in the Director's discretion, extends the time period, for good cause. Before a
+probationary employee engages in private protective services, the employee shall complete any
+training requirements, and the licensee shall conduct a criminal record check on the employee,
+as the Board deems appropriate. The licensee security guard and patrol company or armored car
+company shall submit a list of the probationary employees to the Director on a monthly basis.
+The list shall include the name, address, social security number, and dates of employment of the
+employees.
+Page 12 Session Law 2025-51 Senate Bill 710
+To register an employee after the probationary period ends, a licensee security guard and
+patrol company or armored car company must give the Board the following:
+(1) Set(s) of classifiable fingerprints on standard F.B.I. applicant cards; recent
+photograph(s) of acceptable quality for identification; and
+(2) Statements of any criminal records obtained from the appropriate authority in
+each area where the employee has resided within the immediately 48
+preceding months.
+(b) A security guard and patrol company or armored car company may not employ an
+unarmed security guard in a regular position unless the guard has a registration card issued under
+subsection (d) of this section. A person engaged in a private protective services profession section
+and may not employ an armed security guard unless the guard has a firearm registration permit
+issued under G.S. 74C-13.
+(c) The Director shall be notified in writing of the termination of any regular employee
+registered under subsection (a) of this section within 10 days after the termination.
+(d) An unarmed security guard shall make application to the Director for an unarmed
+registration card which the Director shall issue to the applicant after receipt of the information
+required to be submitted by the applicant's employer pursuant to subsection (a) of this section,
+and after meeting any additional requirements which the Board, in its discretion, deems to be
+necessary. The unarmed security guard registration card shall be in the form of a pocket card
+designed by the Board, shall be issued in the name of the applicant, and may have the applicant's
+photograph affixed to the card. The unarmed security guard registration card shall expire one
+year after its date of issuance and shall be renewed every year. The Board may require all
+registration holders to complete continuing education courses approved by the Board before
+renewal of their registrations. If an unarmed registered security guard is terminated by a licensee
+security guard and patrol company or armored car company and changes employment to another
+security guard and patrol company, company or armored car company, the security guard's
+registration card shall remain valid, provided the security guard pays the unarmed guard
+registration transfer fee to the Board and a new unarmed security guard registration card is issued.
+An unarmed security guard whose transfer registration application and transfer fee have been
+sent to the Board may work with a copy of the transfer application until the registration card is
+issued.
+(e) Notwithstanding the provisions of this section, a licensee security guard and patrol
+company or armored car company may employ a person properly registered or licensed as an
+unarmed security guard in another state for a period not to exceed 10 days in any given month;
+provided the licensee, security guard and patrol company or armored car company, prior to
+employing the unarmed security guard, submits to the Director the name, address, and social
+security number of the unarmed guard and the name of the state of current registration or
+licensing, and the Director approves the employment of the unarmed guard in this State.
+(f) Repealed by Session Laws 2005-211, s. 1, effective July 20, 2005.
+(g) Notwithstanding the provisions of this section, during a disaster declaration or state
+of emergency declared by the Governor pursuant to Article 1A of Chapter 166A of the General
+Statutes, a licensee security guard and patrol company or armored car company may employ a
+person properly registered or licensed as an armed security guard in another state, provided that
+the licensee, security guard and patrol company or armored car company prior to deploying the
+armed security guard in this State, submit to the Director all of the following:
+(1) The name, address, and social security number of the armed security guard.
+(2) The name of the state of current registration or licensing of the armed security
+guard.
+(3) Proof of completion of the 4-hour training course mandated by
+G.S. 74C-13(h)(1)a. and 14B NCAC 116 .0807(c)(1), administered by a North
+Carolina certified trainer.
+Senate Bill 710 Session Law 2025-51 Page 13
+(4) Qualification by a firearms instructor certified by the North Carolina Private
+Protective Services Board, based on the firearm the armed security guard
+intends to carry, meeting the qualification requirements approved by the
+Board and the Secretary of Public Safety for each firearm.
+(h) The Director may approve the employment of the armed security guard in this State,
+if the person meets all of the requirements of subsection (g) of this section. Qualification under
+subsection (g) of this section shall be valid for a 12-month period. The duration of the deployment
+of an armed security guard from another state by a licensee security guard and patrol company
+or armored car company shall not exceed the length of the disaster declaration or state of
+emergency."
+
+Section 11:
+SECTION 2.(e) G.S. 74C-12 reads as rewritten:
+"§ 74C-12. Denial, suspension, or revocation of license, registration, or permit; duty to
+report criminal arrests.
+(a) The Board may, after compliance with Chapter 150B of the General Statutes, deny,
+suspend or revoke a license, certification, registration or permit issued under this Chapter if it is
+determined that the applicant, licensee, trainee, registrant or permit holder has done any of the
+following acts:
+(1) Made any false statement or given any false information in connection with
+any application for a license, registration, certification, or permit permit, or
+audit or for the renewal or reinstatement of a license, certification, registration
+or permit.
+…
+(9) Committed an unlawful larceny, burglary, breaking or entering, assault,
+battery, sexual offense, kidnapping, forgery, or violated any State or federal
+firearms law.
+…
+(27) Worn, carried, or accepted any badge or shield purporting to indicate that the
+person is a law enforcement officer while licensed or registered under the
+provisions of this Chapter as a private investigator.Chapter.
+…."
+
+Section 12:
+SECTION 2.(f) G.S. 74C-13 reads as rewritten:
+"§ 74C-13. Armed licensee or registered employee required to have firearm registration
+permit; firearms training.
+…
+(a1) The following definitions apply in this section:
+(1) Armed private investigator. – A licensed private investigator who, at any time,
+wears, carries, or possesses a firearm in the performance of duty.
+(1a) Armed security guard. – An individual employed by a contract security
+company or a proprietary security organization whose principal duty is that of
+an armed security watchman; armed armored car service guard; armed alarm
+system company responder; or armed courier service who at any time wears,
+carries, or possesses a firearm in the performance of duty.
+(2) Contract security company. – Any person, firm, association, or corporation
+engaging in a private protective services profession that provides services on
+a contractual basis for a fee or other valuable consideration to any other
+person, firm, association, or corporation.
+(3) Proprietary security organization. – Any person, firm, association, or
+corporation or department thereof which employs security guards, alarm
+responders, armored car personnel, or couriers who are employed regularly
+and exclusively as an employee by an employer in connection with the
+business affairs of the employer.
+Page 14 Session Law 2025-51 Senate Bill 710
+(4) Armed armored car guard. – An individual employed by a contract armored
+car company, who has a principal duty of an armored car service guard, and
+who, at any time, wears, carries, or possesses a firearm in the performance of
+duty.
+(b) It shall be unlawful for any person, firm, association, or corporation and its agents
+and employees to hire an armed security guard or an armed private investigator licensee and
+knowingly authorize or permit the armed security guard or armed private investigator licensee to
+carry a firearm during the course of performing his or her duties as an armed security guard or
+an armed private investigator if the Board has not issued him or her a firearm registration permit
+under this section, or if the person, firm, association, or corporation permits an armed security
+guard or an armed private investigator licensee to carry a firearm during the course of performing
+his or her duties whose firearm registration permit has been suspended, revoked, or has otherwise
+expired:
+(1) A firearm registration permit grants authority to the armed security guard or
+armed private investigator, guard or licensee, while in the performance of his
+or her duties or traveling directly to and from work, to carry any firearm
+approved by the Board and not otherwise prohibited by law. The use of any
+firearm not approved by the Board is prohibited.
+(2) All firearms carried by authorized armed security guards or armed licensees
+in the performance of their duties shall be owned or leased by the employer.
+Personally owned firearms not leased to the employer shall not be carried by
+an armed security guard or armed licensee in the performance of his or her
+duties.
+(c) The applicant for a firearm registration permit shall submit an application to the Board
+on a form provided by the Board.
+(d) Each firearm registration permit issued under this section to an armed security guard
+shall be in the form of a pocket card designed by the Board and shall identify the contract security
+company, company, armored car company, or proprietary security organization by whom the
+holder of the firearm registration permit is employed. A firearm registration permit issued to an
+armed security guard expires one year after the date of its issuance and must be renewed annually
+unless the permit holder's employment terminates before the expiration of the permit. The Board
+may require all permit holders to complete continuing education courses approved by the Board
+before renewal of their permits.
+(d1) Each firearm registration permit issued under this section to an armed private
+investigator licensee shall be in the form of a pocket card designed by the Board and shall identify
+the name of the armed private investigator. licensee. While carrying a firearm and engaged in
+private protective services, the armed private investigator licensee shall carry the firearms
+registration permit issued by the Board, together with valid identification, and shall disclose to
+any law enforcement officer that the person holds a valid permit and is carrying a firearm,
+whether concealed or in plain view, when approached or addressed by the law enforcement
+officer, and shall display both the permit and the proper identification upon the request of a law
+enforcement officer. A private investigator licensee's firearm registration permit expires one year
+from the date of issuance and shall be renewed annually. The Board may require all permit
+holders to complete continuing education courses approved by the Board before renewal of their
+permits.
+(d2) A proprietary security organization that employs an armed security guard shall submit
+an application to the Board for a license on a form, provided by the Board. A proprietary security
+organization shall renew its license every two years.
+(e) If an armed security guard terminates his or her employment with the contract security
+company company, armored car company, or proprietary security organization, the firearm
+Senate Bill 710 Session Law 2025-51 Page 15
+registration permit expires and must be returned to the Board within 15 working days of the date
+of termination of the employee.
+(f) A contract security company company, armored car company, or proprietary security
+organization shall be allowed to employ an individual for 30 days as an armed security guard
+pending completion of the firearms training required by this Chapter, if the contract security
+company company, armored car company, or proprietary security organization obtains prior
+approval from the Director. The Board and the Secretary of Public Safety shall provide by rule
+the procedure by which an armed private investigator, licensee, a contract security company,
+armored car company, or a proprietary security organization applicant may be issued a temporary
+firearm registration permit by the Director of the Board pending a determination by the Board of
+whether to grant or deny an applicant a firearm registration permit.
+(g) The Board may suspend, revoke, or deny a firearm registration permit if the holder or
+applicant has been convicted of any crime set forth in G.S. 74C-8(d) or for violation of this
+
+Section 13:
+section or rules promulgated by the Board to implement this section. The Director may
+summarily suspend a firearm registration permit pending resolution of charges for any of the
+offenses set forth in G.S. 74C-12 or any crime set forth in G.S. 74C-8(d).
+(h) The Board and the Secretary of Public Safety shall establish a firearms training
+program for licensees and registered employees to be conducted by agencies and institutions
+approved by the Board and the Secretary of Public Safety. The Board and the Secretary of Public
+Safety may approve training programs conducted by a contract security company company,
+armored car company, and the security department of a proprietary security organization, if the
+contract security company company, armored car company, or security department of a
+proprietary security organization offers the courses listed in subdivision (1) of this subsection
+and if the instructors of the training program are certified trainers approved by the Board and the
+Secretary of Public Safety.
+(1) The basic training course approved by the Board and the Secretary of Public
+Safety shall consist of a minimum of four hours of classroom training which
+shall include all of the following:
+a. Legal limitations on the use of firearms and on the powers and
+authority of an armed security guard.guards and licensees.
+b. Familiarity with this section.
+c. Range firing and procedure and firearm safety and maintenance.
+d. Any other topics of armed security guard firearms training curriculum
+which the Board deems necessary.
+(2) An applicant for a firearm registration permit must fire a minimum qualifying
+score to be determined by the Board and the Secretary of Public Safety on any
+approved target course approved by the Board and the Secretary of Public
+Safety.
+(3) A firearms registrant must complete a refresher course and shall requalify on
+the prescribed target course prior to the renewal of his or her firearm
+registration permit.
+(4) The Board and the Secretary of Public Safety shall have the authority to
+promulgate all rules necessary to administer the provisions of this section
+concerning the training requirements of this section.
+(i) The Board may not issue a firearm registration permit to an applicant until the
+applicant's employer submits evidence satisfactory to the Board that the applicant:
+(1) Has satisfactorily completed an approved training course.
+(2) Meets all the qualifications established by this section and the rules
+promulgated to implement this section.
+(3) Is mentally and physically capable of handling a firearm within the guidelines
+set forth by the Board and the Secretary of Public Safety.
+Page 16 Session Law 2025-51 Senate Bill 710
+(j) The Board and the Secretary of Public Safety are authorized to prescribe reasonable
+rules to implement this section, including rules for periodic requalification with the firearm and
+for the maintenance of records relating to persons issued a firearm registration permit by the
+Board.
+(k) All fees collected pursuant to G.S. 74C-9(e)(7) and (8) shall be expended, under the
+direction of the Board, for the purpose of defraying the expense of administering the firearms
+provisions of this Chapter.
+(l) The Board and the Secretary of Public Safety shall establish a training program for
+certified trainers to be conducted by agencies and institutions approved by the Board and the
+Secretary of Public Safety. The Board or the Secretary of Public Safety shall have the authority
+to promulgate all rules necessary to administer the provisions of this subsection.
+(1) The Board and the Secretary of Public Safety shall also establish renewal
+requirements for certified trainers. The Board may require all certified trainers
+to complete continuing education courses approved by the Board before
+renewal of their certifications.
+(2) No certified firearms trainer shall certify a licensee or registrant unless the
+licensee or registrant has successfully completed the firearms training
+requirements set out above in subsection (h) of this section.
+(m) The Board and the Secretary of Public Safety shall establish a training program for
+unarmed security guards to be conducted by agencies and institutions approved by the Board and
+the Secretary of Public Safety. The Board and the Secretary of Public Safety shall have the
+authority to promulgate all rules necessary to administer the provisions of this subsection.
+(n) A private investigator licensee shall be permitted to carry a concealed weapon during
+the performance of his or her duties as a private investigator private protective services duties
+upon: (i) obtaining a concealed weapon handgun permit issued pursuant to G.S. 14-415.11; (ii)
+successfully completing the firearms training course approved by the Board and the Secretary of
+Public Safety; and (iii) having a notation affixed to the face of the firearms registration card
+designating that the armed private investigator licensee is allowed to carry a concealed weapon.
+handgun. A private investigator licensee who does not carry a weapon handgun during the course
+of his or her duties as a private investigator but who wishes to carry a concealed weapon handgun
+while not engaged in private investigative private protective services duties shall be permitted to
+do so upon completion of the requirements set forth in Article 54B of Chapter 14 of the General
+Statutes.
+(o) The Board shall not knowingly issue a firearm registration permit to an individual
+who is prohibited by federal or State law from possessing a firearm.
+(p) Notwithstanding subsection (n) of this section, a licensee who is authorized pursuant
+to section 926B or 926C of Title 18 of the United States Code to carry a concealed handgun and
+is in compliance with the requirements of those sections, is exempt from obtaining the permit
+described in G.S. 14-415.11."
+
+Section 14:
+SECTION 2.(g) The Private Protective Services Board may adopt rules to implement
+the provisions of this Part.
+
+Section 15:
+SECTION 2.(h) This Part becomes effective October 1, 2025.
+PART III. ENHANCE BACKGROUND CHECK ABILITIES OF PRIVATE
+PROTECTIVE SERVICES BOARD AND SECURITY SYSTEMS LICENSING BOARD
+
+Section 16:
+SECTION 3.(a) G.S. 14-415.12 reads as rewritten:
+"§ 14-415.12. Criteria to qualify for the issuance of a permit.
+(a) The sheriff shall issue a permit to an applicant if the applicant qualifies under the
+following criteria:
+(1) The applicant is a citizen of the United States or has been lawfully admitted
+for permanent residence as defined in 8 U.S.C. § 1101(a)(20),and has been a
+Senate Bill 710 Session Law 2025-51 Page 17
+resident of the State 30 days or longer immediately preceding the filing of the
+application.
+(2) The applicant is 21 years of age or older.
+(3) The applicant does not suffer from a physical or mental infirmity that prevents
+the safe handling of a handgun.
+(4) The applicant has successfully completed an approved firearms safety and
+training course which involves the actual firing of handguns and instruction
+in the laws of this State governing the carrying of a concealed handgun and
+the use of deadly force. The North Carolina Criminal Justice Education and
+Training Standards Commission shall prepare and publish general guidelines
+for courses and qualifications of instructors which would satisfy the
+requirements of this subdivision. An approved course shall be any course
+which satisfies the requirements of this subdivision and is certified or
+sponsored by any of the following:
+a. The North Carolina Criminal Justice Education and Training
+Standards Commission.
+b. The National Rifle Association.
+b1. The United States Concealed Carry Association.
+c. A law enforcement agency, college, private or public institution or
+organization, or firearms training school, taught by instructors
+certified by the North Carolina Criminal Justice Education and
+Training Standards Commission, the United States Concealed Carry
+Association, or the National Rifle Association.
+d. The North Carolina Private Protective Services Board and Secretary
+of Public Safety pursuant to G.S. 74C-13.
+Every instructor of an approved course shall file a copy of the firearms course
+description, outline, and proof of certification annually, or upon modification
+of the course if more frequently, with the North Carolina Criminal Justice
+Education and Training Standards Commission."
+
+Section 17:
+SECTION 3.(b) G.S. 15A-151(a) reads as rewritten:
+"§ 15A-151. Confidential agency files; exceptions to expunction.
+(a) The Administrative Office of the Courts shall maintain a confidential file for
+expungements containing the petitions granted under this Article and the names of those people
+for whom it received a notice under G.S. 15A-150. The information contained in the file may be
+disclosed only as follows:
+…
+(10) Upon request of the North Carolina Private Protective Services Board or the
+North Carolina Security Systems Licensing Board, if the criminal record was
+expunged under this Chapter for licensure or registration purposes only."
+
+Section 18:
+SECTION 3.(c) G.S. 93B-8.1 reads as rewritten:
+"§ 93B-8.1. Use of criminal history records.
+…
+(d) This section does not apply to the North Carolina Criminal Justice Education and
+Training Standards Commission and Commission, the North Carolina Sheriff's Education and
+Training Standards Commission.Commission, and the North Carolina Private Protective
+Services Board, and the North Carolina Security Systems Licensing Board."
+
+Section 19:
+SECTION 3.(d) The Security Systems Licensing Board and the Private Protective
+Services Board may adopt rules to implement the provisions of this Part.
+
+Section 20:
+SECTION 3.(e) This Part becomes effective October 1, 2025.
+PART IV. ENHANCE ABC COMMISSION OVERSIGHT AUTHORITY
+Page 18 Session Law 2025-51 Senate Bill 710
+
+Section 21:
+SECTION 4.(a) G.S. 18B-203 reads as rewritten:
+"§ 18B-203. Powers and duties of the Commission.
+(a) Powers. – The Commission shall have authority to:
+…
+(23) Provide for a method for permittees and applicants to establish compliance
+with all local ordinances, and State and federal laws.
+…."
+
+Section 22:
+SECTION 4.(b) This Part becomes effective October 1, 2025.
+PART V. MODIFY LAW REGARDING NOTICE OF CERTAIN VIOLATIONS TO ABC
+PERMIT HOLDERS
+
+Section 23:
+SECTION 5. G.S. 18B-502(c) reads as rewritten:
+"(c) If any alcohol law enforcement agent or local ABC officer issues a citation to an
+employee of a permitted establishment, who is not the named holder of an ABC permit for the
+establishment, for conduct occurring on the premises of the establishment that is a violation of
+this Chapter or Chapter 14 of the General Statutes, the alcohol law enforcement agent or local
+ABC officer shall send notice by electronic means or certified mail to the holder of the permit
+within five business days of the issuance of the citation. Notice to Permit Holders. – If the
+Commission receives a report from a law enforcement agency other than the Division of Alcohol
+Law Enforcement of the Department of Public Safety or a local ABC officer documenting
+violations of this Chapter or Chapter 14 of the General Statutes for conduct occurring on the
+premises of a permitted establishment, the Commission shall send notice of the alleged violation
+to the holder of the permit within five business days of receipt of the law enforcement agency
+report. The written notice shall identify the currently alleged violations and the involved
+employee. Nothing in this subsection shall prevent or limit the Commission from taking any
+additional action warranted by the circumstances of the violation."
+PART VI. REVIEW OF PERSONNEL RECORDS
+
+Section 24:
+SECTION 6.(a) Article 1 of Chapter 17C of the General Statutes is amended by
+adding a new section to read:
+"§ 17C-10.2. Transfer of certified law enforcement officers.
+(a) Notwithstanding any other provision of law, a North Carolina law enforcement
+agency considering an applicant for employment as a sworn law enforcement officer shall request
+access to and review the complete personnel file of the applicant maintained by or on behalf of
+any North Carolina law enforcement agency where the applicant was employed for any part of
+the five-year period preceding the current application.
+(b) With a release signed by the applicant, any North Carolina law enforcement agency
+or any entity maintaining records of a law enforcement agency that previously employed the
+applicant shall grant access to and may, if requested, provide a copy of the applicant's complete
+personnel file, including confidential information as defined by G.S. 153A-98, 160A-168, and
+126-24 to the law enforcement agency considering the applicant for employment.
+(c) To the extent that confidential information as defined by G.S. 153A-98, 160A-168,
+or 126-24 is maintained in the personnel file of any law enforcement agency or entity maintaining
+records of a law enforcement agency that previously employed the applicant, that information
+shall remain confidential in the files of any law enforcement agency obtaining the information
+pursuant to this section.
+(d) A law enforcement agency, any entity maintaining records of a law enforcement
+agency, and the personnel of such agency or entity providing or receiving access to or copies of
+an applicant's personnel file pursuant to subsections (a) and (b) of this section shall not be held
+civilly or criminally liable for doing so."
+Senate Bill 710 Session Law 2025-51 Page 19
+
+Section 25:
+SECTION 6.(b) Article 2 of Chapter 17E of the General Statutes is amended by
+adding a new section to read:
+"§ 17E-7.1. Transfer of certified law enforcement officers.
+(a) Notwithstanding any other provision of law, a sheriff considering an applicant for
+employment as a deputy sheriff shall request access to and review the complete personnel file of
+the applicant maintained by or on behalf of any North Carolina law enforcement agency where
+the applicant was employed for any part of the five-year period preceding the current application.
+(b) With a release signed by the applicant, any North Carolina law enforcement agency
+or any entity maintaining records of a law enforcement agency that previously employed the
+applicant shall grant access to and may, if requested, provide a copy of the applicant's complete
+personnel file, including confidential information as defined by G.S. 153A-98, 160A-168, and
+126-24 to the sheriff's office considering the applicant for employment.
+(c) To the extent that confidential information as defined by G.S. 153A-98, 160A-168,
+or 126-24 is maintained in the personnel file of any law enforcement agency or entity maintaining
+records of a law enforcement agency that previously employed the applicant, that information
+shall remain confidential in the files of any sheriff's office obtaining the information pursuant to
+this section.
+(d) A law enforcement agency, any entity maintaining records of a law enforcement
+agency, and the personnel of such law enforcement agency or entity providing or receiving access
+to or copies of an applicant's personnel file pursuant to subsections (a) and (b) of this section
+shall not be held civilly or criminally liable for doing so."
+PART VII. REINSTATE G.S. 102-1.1
+
+Section 26:
+SECTION 7. Section 2(a) of S.L. 2023-92 is repealed.
+PART VIII. MILITARY JUDGES OF THE NCNG MODIFICATIONS
+
+Section 27:
+SECTION 8.(a) G.S. 127A-50 reads as rewritten:
+"§ 127A-50. Summary courts-martial.
+(a) In the North Carolina National Guard, not in the service of the United States, summary
+courts-martial may be appointed by any of the following:
+(1) Any person who may convene a general or special court-martial.
+(2) The commander of a battalion, comparable or higher command of the North
+Carolina Army National Guard, provided that the commander is an officer of
+the grade of major or above.
+(3) The commander of a detached squadron, comparable or higher command of
+the North Carolina Air National Guard, provided that the commander is an
+officer of the grade of major or above.
+(b) The court shall consist of one officer who shall have the power to administer oaths
+and try enlisted personnel of each respective command for breaches of discipline and violations
+of laws governing those organizations.
+(c) These courts The summary courts-martial officer shall also have the power to impose
+punishments in like manner and to the extent prescribed by the Uniform Code of Military Justice
+and Manual for Courts-Martial, United States, as shall be in use by the Armed Forces of the
+United States at the time of the offense, except that no such court shall have the authority to
+impose confinement as part of a sentence. There shall be no right to demand trial by general or
+special court-martial.
+(d) When the summary courts-martial officer is a military judge appointed under
+G.S. 127A-50.1, the summary courts-martial officer shall have the enhanced punishment
+authority to impose forfeitures of two-thirds pay for one month, to impose extra duty, to reduce
+the rank of enlisted persons with a rank of E-7 or above by up to two ranks, and to reduce the
+rank of enlisted persons with a rank of E-6 or below to the rank of E-1. No such court shall have
+Page 20 Session Law 2025-51 Senate Bill 710
+the authority to impose confinement as part of a sentence. There shall be no right to demand trial
+by general or special court-martial."
+
+Section 28:
+SECTION 8.(b) G.S. 127A-50.1 reads as rewritten:
+"§ 127A-50.1. Military judges.
+(a) The Adjutant General shall appoint military judges to preside over courts-martial of
+the North Carolina National Guard not in federal service. Minimum requirements for
+appointment as a military judge are:are as follows:
+(1) Certification as a military judge by the Judge Advocate General of the United
+States Army, Air Force, Navy, Marines, or Coast Guard.
+(2) Designation as a judge advocate by the Judge Advocate General of the United
+States Army, Navy, Air Force, Marines, or Coast Guard.
+(3) Membership in the North Carolina National Guard, the National Guard of
+another state, or the active or reserve components of the Armed Forces of the
+United States.Guard.
+(4) A member in good standing of the bar of the highest court of this State.
+(5) Hold the rank of lieutenant colonel or above.
+(b) The Adjutant General or the Staff Judge Advocate may detail military judges for all
+purposes for which military judges may be detailed, except that only those certified as a military
+judge by the Judge Advocate General of the United States Army, Air Force, Navy, Marines, or
+Coast Guard may preside over a general or special court-martial.
+(c) Nothing in this section shall preclude the detailing of a military judge from another
+component of the Armed Forces of the United States made available for detail, provided that
+such military judge has been certified by the Judge Advocate General from the military judge's
+component of the Armed Forces of the United States. The Adjutant General shall detail such
+military judge with the advice of the Staff Judge Advocate.
+(d) Military judges for the Army National Guard and the Air National Guard may preside
+over courts-martial of the other; provided, however, the Adjutant General shall obtain the advice
+of the Staff Judge Advocate from the military judge's branch of service before the judge is
+detailed.
+(e) Military judges appointed by the Adjutant General may issue investigative subpoenas
+as authorized under the Uniform Code of Military Justice and pursuant to such rules and
+regulations as prescribed by the military judge's component of the Armed Forces of the United
+States and as may be prescribed by the Adjutant General of the North Carolina National Guard.
+Subpoenas issued under this section shall have the same force and effect as subpoenas issued by
+the courts of this State. Subpoenas issued under this section may be served by a duly appointed
+investigating officer, a North Carolina National Guard Provost Marshal or Deputy Provost
+Marshal, or any sheriff, deputy sheriff, or State or local law enforcement officer."
+
+Section 29:
+SECTION 8.(c) G.S. 127A-56 reads as rewritten:
+"§ 127A-56. Powers of courts-martial.
+In the North Carolina National Guard, not in the service of the United States, presidents of
+military judges certified by the Judge Advocate General of the United States Army, Air Force,
+Navy, Marines, or Coast Guard and detailed to courts-martial and summary court officers shall
+have power to issue warrants to arrest an accused person and to bring the person before a court
+for trial whenever the person has disobeyed an order in writing from the convening authority to
+appear before the court, a copy of the charge or charges having been delivered to the accused
+with the order, and to issue subpoenas and subpoenas duces tecum, and to enforce by attachment
+attendance of witnesses and the production of books, papers, records and other articles subject to
+a subpoena duces tecum, and to sentence for a refusal to be sworn or to answer as provided in
+actions before civil courts. The presiding officer A certified military judge shall also have power
+to punish for contempt occurring in the presence of the court."
+
+Section 30:
+SECTION 8.(d) G.S. 127A-57 reads as rewritten:
+Senate Bill 710 Session Law 2025-51 Page 21
+"§ 127A-57. Execution of processes and sentences.
+All Except as otherwise provided in this Chapter, all warrants and other processes authorized
+by this Chapter and sentences of any of the military courts of this State shall be executed by any
+sheriff, deputy sheriff, or State or local law enforcement officer into whose hands they may be
+placed for service or execution, and the officer shall make return thereof to the officer issuing or
+imposing the same. The service or execution of process or sentence shall be made by the officer
+without tender or advancement of fee therefor; but all costs in these cases shall be paid from
+funds appropriated to the Department of Public Safety."
+
+Section 31:
+SECTION 8.(e) G.S. 127A-59 reads as rewritten:
+"§ 127A-59. Sentences.
+When any sentence to fine or imprisonment is imposed by any military court of this State, it
+shall be the duty of the military judge, president of the court, or summary court officer, upon the
+approval of the court's findings and sentence, to make out and sign a certificate entitling the case,
+giving the name of the accused, the date and place of trial, the date of approval of sentence, and
+the terms of the sentence. The trial counsel shall deliver the certificate to the Clerk of the Superior
+Court of Wake County, and it shall thereupon be the duty of the clerk to take the actions necessary
+to carry the sentence into execution in the same manner as prescribed by law for the collection
+of fines, or commitment to service of terms of imprisonment, in criminal cases determined in the
+courts of this State. The Administrative Office of the Courts shall ensure that the State's criminal
+history records include pertinent information relating to a court-martial under this Chapter in a
+like manner as a comparable offense under the State's criminal laws would be recorded."
+
+Section 32:
+SECTION 8.(f) G.S. 127A-60 reads as rewritten:
+"§ 127A-60. Approval of sentence.
+No sentence imposed by a special or general court-martial of the North Carolina National
+Guard, not in the service of the United States, shall be executed until approved by the Governor.
+The Governor may delegate this approval authority to the Adjutant General. Any officer
+convicted by a general court-martial and dismissed from the service shall be forever disqualified
+from holding a commission in the militia."
+
+Section 33:
+SECTION 8.(g) Section 8(a) of this Part is effective when it becomes law and applies
+to summary courts-martial initiated on or after that date. Section 8(b) of this Part is effective
+when it becomes law and applies to military judges serving on or after that date, except the
+requirements of G.S. 127A-50.1, as amended by Section 8(b) of this Part, shall only apply to
+appointments made on or after that date. Sections 8(c) and 8(d) of this Part are effective when
+they become law and apply to warrants and orders issued on or after that date. The remainder of
+this Part is effective when it becomes law.
+PART IX. REVISOR OF STATUTES CONFORMING CHANGES
+
+Section 34:
+SECTION 9. The Revisor of Statutes may recodify the definitions in
+G.S. 74C-13(a1) so that they appear in alphabetical order and shall make any necessary
+conforming changes.
+Page 22 Session Law 2025-51 Senate Bill 710
+PART X. EFFECTIVE DATE
+
+Section 35:
+SECTION 10. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 26th day of June, 2025.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 12:42 p.m. this 2nd day of July, 2025
+Senate Bill 710 Session Law 2025-51 Page 23
+[DELETED:  T T P P S B L T O A O T A C T L R N O C V T A H A R O L E O R W T A R A T M P R S A T A A S O M L R – N p f a c o d o C i t d d o d a o t t f a o o t f a o c F p o t C a " a S I w o h e o m a s o o i d u t d o o b]
+[DELETED:  S S o e i s p t o o Q T o r b o b l t b s u t e b t A S S L B s b I c f w 1 w d T b e m o a T T C b a b i c b t B i a w T T o t h c b a l S f o m d o o c s n o a b c o a c i a o a a o v c o a c i t o a h o a t a o a n d]
+[DELETED:  S P t f p o t s " m a o c b a j o j i a p f j T E A A c a A c a b i t d w t a m t i i r b t S o n r T a o r s d b t B p c r r]
+[DELETED:  S S C A s t a s l o a s s d p o a p t b p a t o o i f a p o t n t e 4 h i a I I o s o a a e s s o p A B s t i d n c a b t a A I A e t w a c a m o a A p l u t C m u a c o m T T]
+[DELETED:  S P E B A o B m s r r i a w a n G s r a c f t T B s e a c c a a v v f i v b h b e a i r o a n T I P i t a t r t s o r a D m q a e m e a t s f a a l a C u A I a a i a t b l o r D a a o l a l o r w f t]
+[DELETED:  S S a w C 1 o t G S o N I C A T T c o c s b p t r a s b o w i u l o t b l u t C A i a f t t a m t r f l o r o a a s r t l o r a f T g f d C o a w i c b a r o C l o f f F p o t s m a i t e o p o p o]
+[DELETED:  S P L o g m c o t h T f d n o a b c o a c f a o a a o v c o a c b a j o j i a p f j c P K B N A a b o c A s c s t l a l ( A w 3 d a t e b a o t f T A e t h a t c a i t w a t s t b m a o]
+[DELETED:  S S A A T c p o a q f i a E n a s s b m e a e A l m e a a f r a a p f 2 c d U c o t p t e s c a t r a t a T l s s a l o t p T N r a o i]
+[DELETED:  S P T V B a s f i G o a c a s f i E i o p a e t e i a a s b w n l i p o a v l C a u b o e b l s C F t m t c o l i r b t E u w t l w o u t p o t E o h t p i t c o p a o i f c a c i b f c d o a c b D A p f a c o d o d o a f a C 1 m T A G o h o h r s h T t r a t s i r i l a m a a t r u o a s t o r p w a u]
+[DELETED:  S S I u t s s b r t t C P a F F i P T f c p t C 7 o t G S f a s t P P S B f t p o d t e o l a t e o a o a s s b i 7  A S S E F c p t F T I O]
+[DELETED:  S P T T T T o a f t T T a r p o a s n h t d w t 1  T S S L B m a r t N A I A S g a p p – A p f a o P]
+[DELETED:  S S P P o b e b p o t p f o c c o u o g t C G T A a c c t a p i G a f c p t t s s b u t d o t B f t p o d t e o T A l p d i p e e 7  P e a r o r e u g g a u a c g r t h A l s g a p c o a c c s r t t B w 3 d a t p e p e u t i t D d e t t p f g c B a]
+[DELETED:  S P S S a w t e h r w t i 4 A T A a y r g a p c c o a c t s g c s r v p t s g p t u g N n o t u g a t n o t s o c r o R N T T P o c o t 4 t c m b]
+[DELETED:  S S Q S B b o t f t a s g t c m t q r a b t T a c c s n e t l o t d d o s o T M C a u l b b o e a W T A A s g – A i e b a c s C c b f a f o o v c t a o P s o – A p f a o o d t w e s g a e a a e b a e i c w t]
+[DELETED:  S P A I A a f A T E E f r p i u t s t a a p p s t a p i l s c t f a A I c a c c o p s o t f]
+[DELETED:  S S A c T o r p b t B t i t s T D m T B a t S o P S s e a f t a c c s c c a c c o s d o a T L l o t u o f a o t p a F R A A A p t c p t t r o h o h f T B a t S o P S s h t a t T B m n i a f r p t a a u t H M a t q e b t s a t r I]
+[DELETED:  S P T A T T c c e c a b t B b N o r h s c t f t T A T N I E B C A O P T T]
+[DELETED:  S S T T T c a q o i w w s t c s t r o t s a i c o T N C C J E a T T T A o f t s t b i b t N C C J E a T T A O o t C s m a c f f U T S C a t N C P P]
+[DELETED:  S P P P I N E o t D o P S o a l A o d T w n s i t c a v a t i N a o p o l a N C l e W T A a]
+[DELETED:  S S N W T A a I A T T T T W t s c o i a m j a u t s c o s h t e p]
+[DELETED:  S P T N C N G n i f s M r f C D M A H T N M M a u t U C o M J a p t s r a o a N C N G P M o D P]
+[DELETED:  S S G m d t a a t t A G A o 9  T R o S m r t d i s t t a i a o a s m a n]
+[DELETED:  S P6 s s s 2 ]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2025-51
+SENATE BILL 710
+AN ACT TO MODERNIZE THE ALARMS SYSTEMS LICENSING ACT, MAKE VARIOUS
+CHANGES TO THE PRIVATE PROTECTIVE SERVICES BOARD LAWS,
+STRENGTHEN THE OVERSIGHT AUTHORITY OF THE ABC COMMISSION,
+MODIFY THE LAW REGARDING NOTICE OF CERTAIN VIOLATIONS TO ABC
+PERMIT HOLDERS, ALLOW REVIEW OF LAW ENFORCEMENT OFFICERS'
+PERSONNEL RECORDS WHEN TRANSFERRING AGENCIES, REINSTATE
+G.S. 102-1.1, AND TO MODIFY PROVISIONS REGARDING SUMMARY
+COURTS-MARTIAL AND THE APPOINTMENT AND SERVICE OF MILITARY
+JUDGES OF THE NORTH CAROLINA NATIONAL GUARD.
+The General Assembly of North Carolina enacts:
+PART I. ALARMS SYSTEMS LICENSING ACT MODERNIZATION
+SECTION 1.(a) Chapter 74D of the General Statutes reads as rewritten:
+"Chapter 74D.
+"Alarm Security Systems.
+"Article 1.
+"Alarm Security Systems Licensing Act.
+"§ 74D-1. Title.
+This act may be cited as the "Alarm "Security Systems Licensing Act."
+"§ 74D-2. License Business and qualifying agent license requirements.
+(a) License Required. – No person, firm, association, corporation, or department or
+division of a firm, association or corporation, shall engage in or hold itself out as engaging in an
+alarm a security systems business without first being licensed in accordance with this Chapter.
+A department or division of a firm, association, or corporation may be separately licensed under
+this Chapter if the distinct department or division, as opposed to the firm, association, or
+corporation as a whole, engages in an alarm a security systems business. The department or
+division shall ensure strict confidentiality of private security information, and the private security
+information of the department or division must, at a minimum, be physically separated from other
+premises of the firm, association, or corporation. For purposes of this Chapter an "alarm a
+"security systems business" is defined as any person, firm, association or corporation that does
+any of the following:
+(1) Sells Unless otherwise exempt, sells or attempts to sell an alarm a security
+system device by engaging in a any personal solicitation at a residence or
+business to advise, design, or consult on specific types and specific locations
+of alarm security system devices.
+(2) Installs, Unless otherwise exempt, installs, services, monitors, or responds to
+electrical, wireless or hardwired electronic or mechanical alarm signal
+devices, devices and security systems, integrated automation of a residence or
+business that includes a security element, burglar alarms, monitored access
+control, or cameras cameras, analytic capturing devices, systems providing
+intelligence or other imaging devices used to detect or observe burglary,
+*S710-v-6*
+
+breaking or entering, intrusion, shoplifting, pilferage, theft, or other
+unauthorized or illegal activity. This provision shall not apply to a locking
+device that records entry and exit data and does not transmit the data in real
+time to an on-site or off-site monitoring location, provided the installer is duly
+licensed by the North Carolina Locksmith Licensing Board.
+…
+(c) Qualifying Agent. – A business entity that engages in the alarm systems business is
+required to be licensed under this Chapter is subject to all of the requirements listed in this
+subsection with respect to a qualifying agent. For purposes of this Chapter, a "qualifying agent"
+is an individual who is a full-time employee in a management position who is licensed under this
+Chapter and whose name and address have been registered with the Board. The requirements are:
+(1) The business entity shall employ a designated qualifying agent who meets the
+requirements for a license issued under and who is, in fact, licensed under the
+provisions of this Chapter, unless otherwise approved by the Board. Service
+upon the qualifying agent appointed by the business entity of any process,
+notice or demand required by or permitted by law to be served upon the
+business entity by the Alarm Security Systems Licensing Board shall be
+binding upon the licensed business entity. Nothing herein contained shall limit
+or affect the right to serve any process, notice or demand required or permitted
+by law to be served upon a business entity in any other manner or hereafter
+permitted by law.
+…
+(3) In the event that the qualifying agent upon whom the business entity relies in
+order to do business ceases to perform his duties as qualifying agent, the
+business entity shall notify the board in writing by letter or using the Board's
+online form within 10 working days. The business entity must obtain a
+substitute qualifying agent within 90 days after the original qualifying agent
+ceases to serve as qualifying agent. The Director, in his or her discretion, may
+extend the 90-day period for good cause by an additional 30 days upon a
+written request of an officer of the company.
+(4) The license certificate shall list the name of the qualifying agent. No licensee
+person shall serve as the qualifying agent for more than one business entity
+without the prior approval of the Board.
+…
+(6) The qualifying agent shall be responsible for maintaining a current address
+and other contact information with the Board.
+(d) Criminal Record Check. Minimum Qualifications for Security Systems License. – An
+applicant must for qualifying agent shall meet all of the following requirements and qualifications
+determined by a background investigation conducted by the Board in accordance with
+G.S. 74D-2.1 and upon receipt of an application:qualifications:
+(1) The applicant is at least 18 years of age.
+(2) The applicant is of good moral character and temperate habits. The following
+shall be prima facie evidence that the applicant does not have good moral
+character or temperate habits: conviction by any local, State, federal, or
+military court of any crime involving the illegal use, carrying, or possession
+of a firearm; conviction of any crime involving the illegal use, possession,
+sale, manufacture, distribution or transportation of a controlled substance,
+drug, narcotic, or alcoholic beverages; conviction of a crime involving
+felonious assault or an act of violence; conviction of a crime involving
+unlawful breaking or entering, burglary, larceny, or of any offense involving
+moral turpitude; or a history of addiction to alcohol or a narcotic drug;
+Page 2 Session Law 2025-51 Senate Bill 710
+
+provided that, for purposes of this subsection, "conviction" means and
+includes the entry of a plea of guilty, plea of no contest, or a verdict rendered
+in open court by a judge or jury.jury, including a prayer for judgment
+continued, adjudication withheld, or equivalent.
+(3) The applicant has the necessary training, qualifications and experience to be
+licensed.licensed, or the applicant has successfully completed or kept current
+a Certified Alarm Technician Level I course offered by the Electronic Security
+Association or equivalent course approved by the Board.
+(e) Examination. – The Board may require the applicant to demonstrate the applicant's
+qualifications by examination.
+…
+(g) An alarm monitoring company located in another state and licensed by that state
+which demonstrates to the Board's satisfaction that it does not conduct any business through a
+personal representative present in this State, but which solicits and conducts business solely
+through interstate communication facilities, such as telephone, the internet, and the United States
+Postal Service, upon receipt by the Board of a certificate of good standing from the state of
+licensure is not required to register employees pursuant to G.S. 74D-8. Out-of-state monitoring
+companies not licensed in any state must be licensed by the Board and must register employees
+pursuant to G.S. 74D-8.
+(h) A security guard and patrol company licensed under Chapter 74C of the General
+Statutes that remotely monitors access control, cameras, analytic capturing devices, systems
+providing intelligence, or other imaging devices shall obtain a separate limited monitoring license
+and may utilize the same qualifying agent for the limited license as utilized for its security guard
+and patrol license and shall not be required to meet the requirements of G.S. 74D-2(c)(4) and
+(d)(3) or hold a low voltage electrical license. The qualifying agent must successfully complete
+a central station monitoring operator course approved by the Board.
+"§ 74D-2.1. Criminal background checks.
+(a) Authorization. – Upon receipt of an application for a license or registration, the Board
+shall conduct a background investigation to determine whether the applicant meets the
+requirements for a license or registration as set out in G.S. 74D-2(d). The Department State
+Bureau of Public Safety Investigation may provide a criminal record check to the Board for a
+person who has applied for a new or renewal license or registration through the Board. The Board
+shall provide to the Department of Public Safety, State Bureau of Investigation, along with the
+request, the fingerprints of a new applicant, and the Department of Public Safety State Bureau of
+Investigation shall provide a criminal record check based upon the applicant's fingerprints. The
+Board may request a criminal record check from the Department of Public Safety State Bureau
+of Investigation for a renewal applicant based upon the applicant's fingerprints in accordance
+with policy adopted by the Board. The Board shall provide any additional information required
+by the Department of Public Safety State Bureau of Investigation and a form signed by the
+applicant consenting to the check of the criminal record and to the use of the fingerprints and
+other identifying information required by the State or national repositories. The applicant's
+fingerprints shall be forwarded to the State Bureau of Investigation for a search of the State's
+criminal history record file, and the State Bureau of Investigation shall forward a set of the
+fingerprints to the Federal Bureau of Investigation for a national criminal history check. The
+Department of Public Safety State Bureau of Investigation may charge each applicant a fee to be
+collected by the Board and transmitted to the State Bureau of Investigation for conducting the
+checks of criminal history records authorized by this subsection.
+The Board may require a new or renewal applicant to obtain a criminal record report from
+one or more reporting services designated by the Board to provide criminal record reports.
+Applicants are required to pay the designated reporting service for the cost of these reports.
+Senate Bill 710 Session Law 2025-51 Page 3
+
+(b) Confidentiality. – The Except as necessary to support the denial of an application or
+a disciplinary matter in a contested case, the Board shall keep all information obtained pursuant
+to this section confidential in accordance with applicable State law and federal guidelines, and
+the information shall not be a public record under Chapter 132 of the General Statutes.
+"§ 74D-3. Exemptions.
+The provisions of this Chapter shall not apply to:to the following:
+(1) A person, firm, association or corporation that sells or manufactures alarm
+security systems, unless the person, firm, association or corporation makes
+personal solicitations at a residence or business to advise, design, or consult
+on specific types and specific locations of alarm security system devices,
+installs, services, monitors, or responds to alarm security systems at or from a
+protected premises or a premises to be protected and thereby obtains
+knowledge of specific application or location of the alarm security system. A
+person licensed under this Chapter may hire a consultant to troubleshoot a
+location or installation for a period of time not to exceed 48 hours in a
+one-month period if the licensee submits a report to the Board within 30 days
+from the date of the consultation designating the consultant as a temporary
+consultant;
+(2) Installation, servicing or responding to fire alarm systems or any alarm device
+which is installed in a motor vehicle, aircraft or boat;boat.
+(3) Installation or service of an alarm electronic security system on property
+owned by or leased to the installer;installer.
+(4) An alarm monitoring company located in another state which demonstrates to
+the Board's satisfaction that it does not conduct any business through a
+personal representative present in this State but which solicits and conducts
+business solely through interstate communication facilities such as telephone
+messages, earth satellite relay stations and the United States postal service;
+and
+(5) A person or business providing alarm systems services to a State agency or
+local government if that person or business has been providing those services
+to the State agency or local government for more than five years prior to the
+effective date of this Chapter, and the State agency or local government joins
+with the person or business in requesting the application of this exemption.
+(6) Installation or service of a locking device that records entry and exit data and
+does not transmit the data in real time to an on-site or off-site monitoring
+location, provided the installer is licensed by the North Carolina Locksmith
+Licensing Board.
+(7) An entity through which a customer accesses marketing or advertising
+material or installation instructions for a security system.
+(b) A person licensed under this Chapter may utilize a consultant or manufacturer's
+representative to troubleshoot a location or installation if accompanied by the licensee and the
+licensee submits a report to the Board within 30 days from the date of the consultation designating
+the consultant as a temporary consultant.
+"§ 74D-4. Alarm Security Systems Licensing Board.
+(a) The Alarm Security Systems Licensing Board is hereby established.
+(b) The Board shall consist of seven members: the Secretary of Public Safety or his or
+her designee; two persons appointed by the Governor, one of whom shall be licensed under this
+Chapter and one of whom shall be a public member; two persons appointed by the General
+Assembly upon the recommendation of the President Pro Tempore of the Senate in accordance
+with G.S. 120-121, one of whom shall be licensed under this Chapter and one of whom shall be
+a public member; and two persons appointed by the General Assembly upon the recommendation
+Page 4 Session Law 2025-51 Senate Bill 710
+
+of the Speaker of the House of Representatives in accordance with G.S. 120-121, one of whom
+shall be licensed under this Chapter and one of whom shall be a public member.
+(c) Each member shall be appointed for a term of three years and shall serve until a
+successor is installed. No With the exception of the Secretary or his or her designee, no member
+shall serve more than two complete three-year consecutive terms. The term of each member,
+other than the Attorney General or his designee, who is serving on August 7, 1989, shall terminate
+on June 30, 1989. Of the appointments made by the General Assembly upon the recommendation
+of the President of the Senate to begin on July 1, 1989, one member shall be for a term of one
+year and one member shall be for a term of three years. Of the appointments made by the General
+Assembly upon the recommendation of the Speaker of the House of Representatives, one member
+shall be appointed for a term of two years and one member shall be appointed for a term of three
+years. Thereafter all terms shall be for three years.
+…
+(e) Board members who are also State officers or employees shall receive no per diem
+compensation for serving on the Board, and shall only receive the travel allowances set forth in
+G.S. 138-6. All other Board members shall receive reimbursement in accordance with
+G.S. 93B-5(b) and, notwithstanding G.S. 93B-5(a), shall receive as compensation for their
+services per diem not to exceed one hundred dollars ($100.00) for each day during which they
+are engaged in the official business of the Board. The Board shall set the travel allowance and
+per diem compensation of Board members who are not also State officers or employees.
+(f) The Board shall elect a chairman chair and a vice-chairman vice-chair from its
+membership by majority vote at the first meeting of its fiscal year. The vice-chairman vice-chair
+shall serve as chairman chair of the screening committee and shall also serve as chairman chair
+in the chairman's chair's absence. At no time shall both the positions of chairman chair and
+vice-chairman vice-chair be held by either an industry representative or a nonindustry
+representative.
+(g) The Board shall meet at the call of the chairman chair or a majority of the members
+of the Board. The Board shall adopt rules governing the call and conduct of its meetings. A
+majority of the current Board membership constitutes a quorum.
+"§ 74D-5. Powers of the Board.
+(a) In addition to the powers conferred upon the Board elsewhere in this Chapter, the
+Board shall have the power to:to do the following:
+(1) Promulgate rules necessary to carry out and administer the provisions of this
+Chapter including the authority to require the submission of reports and
+information by licensees under this Chapter;Chapter.
+(2) Determine minimum qualifications and establish minimum education,
+experience, and training standards for applicants and licensees applicants,
+licensees, and registrants under this Chapter;Chapter.
+(3) Conduct investigations regarding alleged violations and make evaluations as
+may be necessary to determine if unlicensed individuals or entities are in
+violation of this Chapter and licensees and registrants under this Chapter are
+complying with the provisions of this Chapter;Chapter. The Board shall issue
+cease and desist orders, in writing, for violations of this Chapter with the
+concurrence of the Secretary of Public Safety.
+(4) Adopt and amend bylaws, consistent with law, for its internal management
+and control;control.
+(5) Investigate and approve individual applicants to be licensed or registered
+according to this Chapter;Chapter.
+(6) Deny, suspend, or revoke any license issued or to be issued under this Chapter
+to any applicant or licensee applicant, licensee, or registrant who fails to
+satisfy the requirements of this Chapter or the rules established by the Board.
+Senate Bill 710 Session Law 2025-51 Page 5
+
+The denial, suspension, or revocation of such license or registration shall be
+in accordance with Chapter 150B of this General Statutes of North
+Carolina;Carolina.
+(7) Issue subpoenas to compel the attendance of witnesses and the production of
+pertinent books, accounts, records, and documents. The district court shall
+have the power to impose punishment pursuant to G.S. 5A-21 et seq. for acts
+occurring in matters pending before the Board which would constitute civil
+contempt if the acts occurred in an action pending in court; andcourt.
+(8) Contract for services as necessary to carry out the functions of the Board.
+(9) Acquire, hold, rent, encumber, alienate, and otherwise deal with real property
+in the same manner as a private person or corporation, subject only to approval
+of the Governor and the Council of State. Collateral pledged by the Board for
+an encumbrance is limited to the assets, income, and revenues of the Board.
+(b) The chairman chair of the Board or his or her representative designated to be a hearing
+officer may conduct any hearing called by the board Board for the purpose of denial, suspension,
+or revocation of a license or registration under this Chapter.
+(c) The regulation of security system businesses shall be exclusive to the Board; however,
+any city or county shall be permitted to require a security business operating within its
+jurisdiction to register and to supply information regarding its license and may adopt an ordinance
+to require users of electronic security systems to obtain revocable permits when alarm usage
+involves automatic signal transmission to a law enforcement agency.
+"§ 74D-5.1. Position of Director created.
+The position of Director of the Alarm Security Systems Licensing Board is hereby created
+within the Department of Public Safety. The Secretary of Public Safety shall appoint a person to
+fill this full-time position. The Director's duties shall be to administer the directives contained in
+this Chapter and the rules promulgated adopted by the Board to implement this Chapter and to
+carry out the administrative duties incident to the functioning of the Board in order to actively
+police the alarm systems security systems industry to insure ensure compliance with the law in
+all aspects. The Director may issue a temporary grant or denial of a request for registration subject
+to final action by the Board at its next regularly scheduled meeting.
+"§ 74D-5.2. Investigative powers of the Secretary of Public Safety.
+The Secretary of Public Safety shall have the power to investigate or cause to be investigated
+any complaints, allegations, or suspicions of wrongdoing or violations of this Chapter involving
+individuals unlicensed, licensed, or to be licensed, under this Chapter. Any investigation
+conducted pursuant to this section is deemed confidential and is not subject to review under
+G.S. 132-1 until the investigation is complete and a report is presented to the Board. However,
+the report may be released to the licensee after the investigation is complete but before the report
+is presented to the Board.
+"§ 74D-6. Denial of a license or registration.
+Upon a finding that the applicant meets the requirements for licensure or receipt of an
+application for licensure or registration under this Chapter, the Board shall determine whether
+the applicant shall receive the license or registration applied for. The grounds for denial
+include:include all of the following:
+(1) Commission of some act which, if committed by a registrant or licensee,
+would be grounds for the suspension or revocation of a registration or license
+under this Chapter;Chapter.
+(2) Conviction of a crime involving fraud;the illegal use, carrying, or possession
+of a firearm, felonious assault or an act of violence, felonious sexual offense,
+felonious larceny, or felonious fraud. For purposes of this subdivision,
+"conviction" means and includes the entry of a plea of guilty, plea of no
+Page 6 Session Law 2025-51 Senate Bill 710
+
+contest, or a verdict entered in open court by a judge or jury, including a prayer
+for judgment continued, adjudication withheld, or equivalent.
+(3) Lack of good moral character or temperate habits. The following
+misdemeanor convictions shall be prima facie evidence that the applicant does
+not have good moral character or temperate habits: conviction by any local,
+State, federal, or military court of any crime involving the illegal use, carrying,
+or possession of a firearm; conviction of any crime involving the illegal use,
+possession, sale, manufacture, distribution, or transportation of a controlled
+substance, drug, narcotic, or alcoholic beverages; conviction of a crime
+involving felonious assault or an act of violence; conviction of a crime
+involving unlawful breaking or entering, burglary or larceny or of any offense
+involving moral turpitude; larceny; conviction of a crime involving a sexual
+offense; or a history of addiction to alcohol or a narcotic drug; provided that,
+for purposes of this subsection subdivision, "conviction" means and includes
+the entry of a plea of guilty, plea of no contest, or a verdict rendered in open
+court by a judge or jury;jury, including a prayer for judgment continued,
+adjudication withheld, or equivalent.
+(4) Previous denial under this Chapter or previous revocation for cause;cause.
+(5) Knowingly making any false statement or misrepresentation in an application
+made to the Board for a license or registration.
+(6) Being a registered sex offender in this State or any other state.
+"§ 74D-7. Form of license; term; assignability; renewal; posting; branch offices; fees.
+…
+(c) No licensee shall engage in any business regulated by this Chapter under a name other
+than the licensee licensee's name or names which appear on the certificate issued by the Board.
+(d) Any branch office of an alarm in this State with a security systems business shall
+obtain a branch office certificate. A separate certificate stating the location and licensed
+qualifying agent shall be posted at all times in a conspicuous place in each branch office. Every
+business covered under the provisions of this Chapter shall file in writing with the Board the
+addresses of each of its branch offices. offices in this State. All licensees of with a branch office
+shall notify the Board in writing before the establishment, closing, or changing of the location of
+any branch office. A licensed qualifying agent may be responsible for more than one branch
+office of an alarm systems business with the prior approval of the Board. office in this State.
+Temporary approval may be granted by the Director, upon application of the qualifying agent,
+for a period of time not to exceed 10 working 45 days after the adjournment of the next regularly
+scheduled meeting of the Board unless the Board determines that the application should be
+denied.
+…
+"§ 74D-8. Registration of persons employed.
+(a) (1) A licensee of an alarm a security systems business shall register with the
+Board within 30 days after the employment begins, all of the following
+licensee's employees described in subdivision (1a) of this subsection that are
+within the State, unless in the discretion of the Director, the time period is
+extended for good cause:cause.
+(1a) The following employees shall be registered with the Board:
+a. Any employee that has access to confidential any information
+detailing the design, installation, or application of any location specific
+electronic security system or that has access to any code, number, or
+program that would allow the system to be modified, altered, or
+circumvented.
+Senate Bill 710 Session Law 2025-51 Page 7
+
+b. Any employee who conducts personal sales in a private residence or
+who installs or services an electronic a security system in a commercial
+business establishment or a personal residence.
+c. Any employee who remotely monitors a security system, including
+cameras, unless the employee is registered as a security guard with a
+licensed security guard and patrol company under Chapter 74C of the
+General Statutes.
+Employees engaged only in sales or marketing that does not involve any of
+the above are not required to be registered.
+(1a)(1b) To register an employee, a licensee shall submit to the Board as to the
+employee: set(s) of classifiable fingerprints on standard F.B.I. applicant cards;
+recent color photograph(s) of acceptable quality for identification; and
+statements of any criminal records as deemed appropriate by the Board.
+(2) Except during the period allowed for registration in subdivision (a)(1) of this
+section, no alarm security systems business may employ any employee
+required to be registered by this Chapter unless the employee's registration has
+been approved by the Board as set forth in this section.
+(3) A licensee may employ an applicant for registration as a probationary
+employee for 20 consecutive days. Upon completion of the probationary
+period and the desire of the licensee to hire the registration applicant as a
+regular employee, the licensee shall register the employee, as described in this
+subsection, with the Board within 30 days after the probationary employment
+period ends unless the Director, in the Director's discretion, extends the time
+period for good cause. Before a probationary employee engages in systems
+services, the employee shall complete any training requirements and the
+licensee shall conduct a criminal record check on the employee, as the Board
+deems appropriate. The licensee shall submit a list of the probationary
+employees to the Director on a monthly basis. The list shall include the name,
+address, social security number, and dates of employment of the employees.
+…
+"§ 74D-8.1. Apprenticeship registration permit.
+(a) The Board may issue an apprenticeship registration permit to an applicant who is 16
+or 17 years old and currently enrolled in high school if the applicant holds a valid drivers license
+and submits at least three letters of recommendation stating that the applicant is of good moral
+character as provided in G.S. 74D-2(d)(2). The letters of recommendation shall be from persons
+who are not related to the individual, and at least one of the letters shall be from an official at the
+school where the applicant is currently enrolled.applicant.
+…
+"§ 74D-9. Certificate of liability insurance required; form and approval; suspension for
+noncompliance.
+…
+(d) No license shall be issued under this act unless the applicant files with the Board
+evidence of a policy of liability insurance which policy must provide for the following minimum
+coverage: fifty two hundred fifty thousand dollars ($50,000) ($250,000) because of bodily injury
+or death of one person as a result of the negligent act or acts of the principal insured or his agents
+operating in the course and scope of his employment; subject to said limit for one person, one
+five hundred thousand dollars ($100,000) ($500,000) because of bodily injury or death of two or
+more persons as the result of the negligent act or acts of the principal insured or his agent
+operating in the course and scope of his or her agency; twenty one hundred thousand dollars
+($20,000) ($100,000) because of injury to or destruction of property of others as the result of the
+Page 8 Session Law 2025-51 Senate Bill 710
+
+negligent act or acts of the principal insured or his agents operating in the course and scope of
+his or her agency.
+…
+"§ 74D-10. Suspension or revocation of licenses and registrations; appeal.
+(a) The Board may, after notice and an opportunity for hearing, suspend or revoke a
+license or registration issued under this Chapter if it is determined that the licensee or registrant
+has:
+…
+(3) Violated any rule promulgated adopted by the Board pursuant to the authority
+contained in this Chapter.
+(4) Been convicted of any crime involving moral turpitude or any other crime
+involving violence or the illegal use, carrying, or possession of a dangerous
+weapon.felony as set forth in G.S. 74D-6(2) or any crime as set forth in
+G.S. 74D-6(3).
+…
+(7) Engaged in or permitted any employee to engage in any alarm security
+systems business when not lawfully in possession of a valid license
+registration issued under the provisions of this Chapter.
+(8) Committed an unlawful breaking or entering, burglary, larceny, sexual
+offense, trespass, fraud, assault, battery, or kidnapping.
+(9) Committed any other act which is a ground for the denial of an application for
+a license or registration under this Chapter.
+(10) Failed to maintain the certificate of liability insurance required by this
+Chapter.
+…
+(15) Engaged in the alarm security systems profession under a name other than the
+name under which the license was obtained under the provisions of this
+Chapter.
+…
+(19) Engaged in conduct that constitutes dereliction of duty or otherwise deceives,
+defrauds, or harms the public in the course of professional activities or
+services.services, including fraudulently claiming a change in business
+ownership, fraudulently claiming dissolution of a competing business,
+fraudulently claiming to be a representative of the consumer's current service
+provider, misrepresentation of employer, or misrepresenting an upgrade of
+equipment as a sales tactic.
+(20) Demonstrated a lack of financial responsibility.
+…
+"§ 74D-11. Enforcement.
+…
+(b) Any person, firm, association, corporation, or department or division of a firm,
+association or corporation, or their agents and employees violating any of the provisions of this
+Chapter or knowingly violating any rule promulgated to implement this Chapter shall be guilty
+of a Class 1 misdemeanor. The Attorney General, or his or her representative, shall have
+concurrent jurisdiction with the district attorneys of this State to prosecute violations of this
+Chapter.
+(c) The regulation of alarm systems businesses shall be exclusive to the Board; however,
+any city or county shall be permitted to require an alarm systems business operating within its
+jurisdiction to register and to supply information regarding its license, and may adopt an
+ordinance to require users of alarm systems to obtain revocable permits when alarm usage
+involves automatic signal transmission to a law-enforcement agency.
+Senate Bill 710 Session Law 2025-51 Page 9
+
+(d) In lieu of revocation of suspension of a license or registration under G.S. 74D-10, a
+civil penalty of not more than two thousand dollars ($2,000) per violation may be assessed by
+the Board against any person that violates any provision of this Chapter or any rule of the Board
+adopted pursuant to this Chapter. In determining the amount of any penalty, the Board shall
+consider the degree and extent of harm caused by the violation. The clear proceeds of all penalties
+collected under this section shall be remitted to the Civil Penalty and Forfeiture Fund in
+accordance with G.S. 115C-457.2.
+(e) Proceedings for the assessment of civil penalties shall be governed by Chapter 150B
+of the General Statutes. If the person assessed a penalty fails to pay the penalty to the Board, the
+Board may institute an action in the superior court of the county in which the person resides or
+has his or her principal place of business to recover the unpaid amount of the penalty. An action
+to recover a civil penalty under this section shall not relieve any party from any other penalty
+prescribed by law.
+(f) The sale, installation, or service of an alarm a security system by an unlicensed or
+unregistered person shall constitute a threat to the public safety, and any contract for the sale,
+installation, or service of an alarm a security system shall be deemed void and unenforceable.
+…
+"§ 74D-13. Transfer of funds.
+All fees collected pursuant to Chapter 74C of the General Statutes from alarm systems
+businesses which have not been expended upon January 1, 1984, shall be transferred to the Board
+by the Private Protective Services Board for the purpose of defraying the expenses of
+administering this act.
+"§ 74D-14. Proof of licensure to maintain or commence action.
+An alarm A security systems business may not maintain any action in any court of the State
+for the collection of compensation for performing an act for which a license or registration is
+required by this Chapter without alleging and proving that the alarm security systems business is
+appropriately licensed and the employee or agent of the alarm security systems business is
+appropriately registered upon entering into a contract with the consumer. An alarm A security
+systems installation, maintenance, or monitoring contract entered into with a consumer shall be
+void if the consumer confirms through records maintained by the Board that the alarm security
+systems business is not properly licensed or the consumer establishes through records maintained
+by the Board that the person enticing the consumer to enter into the contract is not properly
+registered by the Board. The sale, installation, or service of an alarm a security system by an
+unlicensed entity or unregistered employee shall be deemed an unfair and deceptive trade practice
+and shall be actionable under Chapter 75 of the General Statutes.
+…."
+SECTION 1.(b) Article 2 of Chapter 74D of the General Statutes reads as rewritten:
+"Article 2.
+"Alarm Security Systems Education Fund.
+"§ 74D-30. Alarm Security Systems Education Fund created; payment to Fund;
+management; use of funds.
+(a) There is hereby created and established a special fund to be known as the "Alarm
+"Security Systems Education Fund" (hereinafter Fund) which shall be set aside and maintained
+in the office of the State Treasurer. The Fund shall be used in the manner provided in this Article
+for the education of licensees and registrants.
+…
+(c) In addition to the fees provided for elsewhere in this Chapter, the Board shall charge
+the following fees which shall be deposited into the Fund:
+(1) On July 1, 1985, the Board shall charge every licensee on that date a fee of
+fifty dollars ($50.00);
+Page 10 Session Law 2025-51 Senate Bill 710
+
+(2) The Board shall charge each new applicant for a license fifty dollars ($50.00),
+provided that for purposes of this Article a new applicant is hereby defined as
+an applicant who did not possess a license on July 1, 1985; andfifty dollars
+($50.00).
+(3) The Board is authorized to charge each licensee an additional amount, not to
+exceed fifty dollars ($50.00), on July 1 of any year in which the balance of the
+Fund is less than twenty-five thousand dollars ($25,000).
+(d) The State Treasurer shall invest and reinvest the moneys in the Fund in a manner
+provided by law. The Board in its discretion, may use the Fund for any of the following purposes:
+(1) To advance education and research in the alarm security systems field for the
+benefit of those licensed under the provisions of this Chapter and for the
+improvement of the industry,industry.
+(2) To underwrite educational seminars, training centers and other educational
+projects for the use and benefit generally of licensees, andlicensees.
+(3) To sponsor, contract for and to underwrite any and all additional educational
+training and research projects of a similar nature having to do with the
+advancement of the alarm security systems field in North Carolina."
+SECTION 1.(c) The Security Systems Licensing Board may adopt rules to
+implement the provisions of this Part.
+SECTION 1.(d) This Part becomes effective October 1, 2025.
+PART II. PRIVATE PROTECTIVE SERVICES BOARD LAWS AMENDMENTS
+SECTION 2.(a) G.S. 74C-2 reads as rewritten:
+"§ 74C-2. Licenses required.
+(a) No private person, firm, association, or corporation shall engage in, perform any
+services as, or in any way represent or hold itself out as engaging in a private protective services
+profession or activity in this State without having first complied with the provisions of this
+Chapter. Compliance with the licensing requirements of this Chapter shall not relieve any person,
+firm, association or corporation from compliance with any other licensing law.
+(b) An individual in possession of a valid private protective services license or private
+detective trainee permit issued prior to October 1, 1989, shall not be subject to forfeiture of such
+license by virtue of this Chapter. Such license shall, however, remain subject to suspension,
+denial, or revocation in the same manner in which all other licenses issued pursuant to this
+Chapter are subject to suspension, denial, or revocation.
+(c) In its discretion, the Private Protective Services Board may issue a trainee permit in
+lieu of a private investigator investigator, polygraph examiner, electronic countermeasures, or
+digital forensic examiner license provided that the applicant works under the direct supervision
+of a licensee."
+SECTION 2.(b) G.S. 74C-3 reads as rewritten:
+"§ 74C-3. Private protective services profession defined.
+(a) As used in this Chapter, the term "private protective services profession" means and
+includes the following:
+…
+(6) Security guard and patrol profession. – Any person, firm, association or
+corporation that provides a security guard on a contractual basis for another
+person, firm, association, or corporation corporation, or unit of government
+for a fee or other valuable consideration and performs one or more of the
+following functions:
+a. Prevention or detection of intrusion, entry, larceny, vandalism, abuse,
+fire or trespass on private property.
+Senate Bill 710 Session Law 2025-51 Page 11
+
+b. Prevention, observation, or detection of any unauthorized activity on
+public or private property.
+c. Protection of patrons and persons lawfully authorized to be on the
+premises or being escorted between premises of the person, firm,
+association, or corporation corporation, or unit of government that
+entered into the contract for security services.
+d. Control, regulation, or direction of the flow or movement of the public,
+whether by vehicle or otherwise, only to the extent and for the time
+directly and specifically required to assure the protection of properties.
+…
+(7) Guard dog service profession. – Any person, firm, association or corporation
+which for a fee or other valuable consideration contracts with another person,
+firm, association, or corporation corporation, law enforcement agency, or unit
+of government to place, lease, rent, or sell a trained dog for the purpose of
+protecting lives or property.
+…."
+SECTION 2.(c) G.S. 74C-9 reads as rewritten:
+"§ 74C-9. Form of license; term; renewal; posting; branch offices; not assignable; late
+renewal fee.
+…
+(e) The Board is authorized to charge reasonable application and license fees as follows:
+…
+(17) An application for approval of a continuing legal education course not to
+exceed one hundred dollars ($100.00).
+Except as provided in G.S. 74C-13(k), all fees collected pursuant to this section shall be
+expended, under the direction of the Board, for the purpose of defraying the expenses of
+administering this Chapter.
+…
+(h) Trainee permits shall not be issued to applicants that qualify for a private detective
+investigator license.
+(i) A licensed private detective investigator, polygraph examiner, electronic
+countermeasures professional, or digital forensic examiner may supervise no more than five
+trainees at any given time."
+SECTION 2.(d) G.S. 74C-11 reads as rewritten:
+"§ 74C-11. Probationary employees and registration of regular employees; unarmed
+security guard guards and unarmed armored car guards required to have
+registration card.
+(a) All licensees A security guard and patrol company or armored car company may
+employ unarmed security guards as probationary employees for 20 consecutive calendar days.
+Upon completion of the probationary period and the desire of the licensee security guard and
+patrol company or armored car company to hire an unarmed security guard as a regular employee,
+the licensee security guard and patrol company or armored car company shall register the
+employee who will be engaged in providing private protective services covered by this Chapter
+with the Board within 30 days after the probationary employment period ends, unless the
+Director, in the Director's discretion, extends the time period, for good cause. Before a
+probationary employee engages in private protective services, the employee shall complete any
+training requirements, and the licensee shall conduct a criminal record check on the employee,
+as the Board deems appropriate. The licensee security guard and patrol company or armored car
+company shall submit a list of the probationary employees to the Director on a monthly basis.
+The list shall include the name, address, social security number, and dates of employment of the
+employees.
+Page 12 Session Law 2025-51 Senate Bill 710
+
+To register an employee after the probationary period ends, a licensee security guard and
+patrol company or armored car company must give the Board the following:
+(1) Set(s) of classifiable fingerprints on standard F.B.I. applicant cards; recent
+photograph(s) of acceptable quality for identification; and
+(2) Statements of any criminal records obtained from the appropriate authority in
+each area where the employee has resided within the immediately 48
+preceding months.
+(b) A security guard and patrol company or armored car company may not employ an
+unarmed security guard in a regular position unless the guard has a registration card issued under
+subsection (d) of this section. A person engaged in a private protective services profession section
+and may not employ an armed security guard unless the guard has a firearm registration permit
+issued under G.S. 74C-13.
+(c) The Director shall be notified in writing of the termination of any regular employee
+registered under subsection (a) of this section within 10 days after the termination.
+(d) An unarmed security guard shall make application to the Director for an unarmed
+registration card which the Director shall issue to the applicant after receipt of the information
+required to be submitted by the applicant's employer pursuant to subsection (a) of this section,
+and after meeting any additional requirements which the Board, in its discretion, deems to be
+necessary. The unarmed security guard registration card shall be in the form of a pocket card
+designed by the Board, shall be issued in the name of the applicant, and may have the applicant's
+photograph affixed to the card. The unarmed security guard registration card shall expire one
+year after its date of issuance and shall be renewed every year. The Board may require all
+registration holders to complete continuing education courses approved by the Board before
+renewal of their registrations. If an unarmed registered security guard is terminated by a licensee
+security guard and patrol company or armored car company and changes employment to another
+security guard and patrol company, company or armored car company, the security guard's
+registration card shall remain valid, provided the security guard pays the unarmed guard
+registration transfer fee to the Board and a new unarmed security guard registration card is issued.
+An unarmed security guard whose transfer registration application and transfer fee have been
+sent to the Board may work with a copy of the transfer application until the registration card is
+issued.
+(e) Notwithstanding the provisions of this section, a licensee security guard and patrol
+company or armored car company may employ a person properly registered or licensed as an
+unarmed security guard in another state for a period not to exceed 10 days in any given month;
+provided the licensee, security guard and patrol company or armored car company, prior to
+employing the unarmed security guard, submits to the Director the name, address, and social
+security number of the unarmed guard and the name of the state of current registration or
+licensing, and the Director approves the employment of the unarmed guard in this State.
+(f) Repealed by Session Laws 2005-211, s. 1, effective July 20, 2005.
+(g) Notwithstanding the provisions of this section, during a disaster declaration or state
+of emergency declared by the Governor pursuant to Article 1A of Chapter 166A of the General
+Statutes, a licensee security guard and patrol company or armored car company may employ a
+person properly registered or licensed as an armed security guard in another state, provided that
+the licensee, security guard and patrol company or armored car company prior to deploying the
+armed security guard in this State, submit to the Director all of the following:
+(1) The name, address, and social security number of the armed security guard.
+(2) The name of the state of current registration or licensing of the armed security
+guard.
+(3) Proof of completion of the 4-hour training course mandated by
+G.S. 74C-13(h)(1)a. and 14B NCAC 116 .0807(c)(1), administered by a North
+Carolina certified trainer.
+Senate Bill 710 Session Law 2025-51 Page 13
+
+(4) Qualification by a firearms instructor certified by the North Carolina Private
+Protective Services Board, based on the firearm the armed security guard
+intends to carry, meeting the qualification requirements approved by the
+Board and the Secretary of Public Safety for each firearm.
+(h) The Director may approve the employment of the armed security guard in this State,
+if the person meets all of the requirements of subsection (g) of this section. Qualification under
+subsection (g) of this section shall be valid for a 12-month period. The duration of the deployment
+of an armed security guard from another state by a licensee security guard and patrol company
+or armored car company shall not exceed the length of the disaster declaration or state of
+emergency."
+SECTION 2.(e) G.S. 74C-12 reads as rewritten:
+"§ 74C-12. Denial, suspension, or revocation of license, registration, or permit; duty to
+report criminal arrests.
+(a) The Board may, after compliance with Chapter 150B of the General Statutes, deny,
+suspend or revoke a license, certification, registration or permit issued under this Chapter if it is
+determined that the applicant, licensee, trainee, registrant or permit holder has done any of the
+following acts:
+(1) Made any false statement or given any false information in connection with
+any application for a license, registration, certification, or permit permit, or
+audit or for the renewal or reinstatement of a license, certification, registration
+or permit.
+…
+(9) Committed an unlawful larceny, burglary, breaking or entering, assault,
+battery, sexual offense, kidnapping, forgery, or violated any State or federal
+firearms law.
+…
+(27) Worn, carried, or accepted any badge or shield purporting to indicate that the
+person is a law enforcement officer while licensed or registered under the
+provisions of this Chapter as a private investigator.Chapter.
+…."
+SECTION 2.(f) G.S. 74C-13 reads as rewritten:
+"§ 74C-13. Armed licensee or registered employee required to have firearm registration
+permit; firearms training.
+…
+(a1) The following definitions apply in this section:
+(1) Armed private investigator. – A licensed private investigator who, at any time,
+wears, carries, or possesses a firearm in the performance of duty.
+(1a) Armed security guard. – An individual employed by a contract security
+company or a proprietary security organization whose principal duty is that of
+an armed security watchman; armed armored car service guard; armed alarm
+system company responder; or armed courier service who at any time wears,
+carries, or possesses a firearm in the performance of duty.
+(2) Contract security company. – Any person, firm, association, or corporation
+engaging in a private protective services profession that provides services on
+a contractual basis for a fee or other valuable consideration to any other
+person, firm, association, or corporation.
+(3) Proprietary security organization. – Any person, firm, association, or
+corporation or department thereof which employs security guards, alarm
+responders, armored car personnel, or couriers who are employed regularly
+and exclusively as an employee by an employer in connection with the
+business affairs of the employer.
+Page 14 Session Law 2025-51 Senate Bill 710
+
+(4) Armed armored car guard. – An individual employed by a contract armored
+car company, who has a principal duty of an armored car service guard, and
+who, at any time, wears, carries, or possesses a firearm in the performance of
+duty.
+(b) It shall be unlawful for any person, firm, association, or corporation and its agents
+and employees to hire an armed security guard or an armed private investigator licensee and
+knowingly authorize or permit the armed security guard or armed private investigator licensee to
+carry a firearm during the course of performing his or her duties as an armed security guard or
+an armed private investigator if the Board has not issued him or her a firearm registration permit
+under this section, or if the person, firm, association, or corporation permits an armed security
+guard or an armed private investigator licensee to carry a firearm during the course of performing
+his or her duties whose firearm registration permit has been suspended, revoked, or has otherwise
+expired:
+(1) A firearm registration permit grants authority to the armed security guard or
+armed private investigator, guard or licensee, while in the performance of his
+or her duties or traveling directly to and from work, to carry any firearm
+approved by the Board and not otherwise prohibited by law. The use of any
+firearm not approved by the Board is prohibited.
+(2) All firearms carried by authorized armed security guards or armed licensees
+in the performance of their duties shall be owned or leased by the employer.
+Personally owned firearms not leased to the employer shall not be carried by
+an armed security guard or armed licensee in the performance of his or her
+duties.
+(c) The applicant for a firearm registration permit shall submit an application to the Board
+on a form provided by the Board.
+(d) Each firearm registration permit issued under this section to an armed security guard
+shall be in the form of a pocket card designed by the Board and shall identify the contract security
+company, company, armored car company, or proprietary security organization by whom the
+holder of the firearm registration permit is employed. A firearm registration permit issued to an
+armed security guard expires one year after the date of its issuance and must be renewed annually
+unless the permit holder's employment terminates before the expiration of the permit. The Board
+may require all permit holders to complete continuing education courses approved by the Board
+before renewal of their permits.
+(d1) Each firearm registration permit issued under this section to an armed private
+investigator licensee shall be in the form of a pocket card designed by the Board and shall identify
+the name of the armed private investigator. licensee. While carrying a firearm and engaged in
+private protective services, the armed private investigator licensee shall carry the firearms
+registration permit issued by the Board, together with valid identification, and shall disclose to
+any law enforcement officer that the person holds a valid permit and is carrying a firearm,
+whether concealed or in plain view, when approached or addressed by the law enforcement
+officer, and shall display both the permit and the proper identification upon the request of a law
+enforcement officer. A private investigator licensee's firearm registration permit expires one year
+from the date of issuance and shall be renewed annually. The Board may require all permit
+holders to complete continuing education courses approved by the Board before renewal of their
+permits.
+(d2) A proprietary security organization that employs an armed security guard shall submit
+an application to the Board for a license on a form, provided by the Board. A proprietary security
+organization shall renew its license every two years.
+(e) If an armed security guard terminates his or her employment with the contract security
+company company, armored car company, or proprietary security organization, the firearm
+Senate Bill 710 Session Law 2025-51 Page 15
+
+registration permit expires and must be returned to the Board within 15 working days of the date
+of termination of the employee.
+(f) A contract security company company, armored car company, or proprietary security
+organization shall be allowed to employ an individual for 30 days as an armed security guard
+pending completion of the firearms training required by this Chapter, if the contract security
+company company, armored car company, or proprietary security organization obtains prior
+approval from the Director. The Board and the Secretary of Public Safety shall provide by rule
+the procedure by which an armed private investigator, licensee, a contract security company,
+armored car company, or a proprietary security organization applicant may be issued a temporary
+firearm registration permit by the Director of the Board pending a determination by the Board of
+whether to grant or deny an applicant a firearm registration permit.
+(g) The Board may suspend, revoke, or deny a firearm registration permit if the holder or
+applicant has been convicted of any crime set forth in G.S. 74C-8(d) or for violation of this
+section or rules promulgated by the Board to implement this section. The Director may
+summarily suspend a firearm registration permit pending resolution of charges for any of the
+offenses set forth in G.S. 74C-12 or any crime set forth in G.S. 74C-8(d).
+(h) The Board and the Secretary of Public Safety shall establish a firearms training
+program for licensees and registered employees to be conducted by agencies and institutions
+approved by the Board and the Secretary of Public Safety. The Board and the Secretary of Public
+Safety may approve training programs conducted by a contract security company company,
+armored car company, and the security department of a proprietary security organization, if the
+contract security company company, armored car company, or security department of a
+proprietary security organization offers the courses listed in subdivision (1) of this subsection
+and if the instructors of the training program are certified trainers approved by the Board and the
+Secretary of Public Safety.
+(1) The basic training course approved by the Board and the Secretary of Public
+Safety shall consist of a minimum of four hours of classroom training which
+shall include all of the following:
+a. Legal limitations on the use of firearms and on the powers and
+authority of an armed security guard.guards and licensees.
+b. Familiarity with this section.
+c. Range firing and procedure and firearm safety and maintenance.
+d. Any other topics of armed security guard firearms training curriculum
+which the Board deems necessary.
+(2) An applicant for a firearm registration permit must fire a minimum qualifying
+score to be determined by the Board and the Secretary of Public Safety on any
+approved target course approved by the Board and the Secretary of Public
+Safety.
+(3) A firearms registrant must complete a refresher course and shall requalify on
+the prescribed target course prior to the renewal of his or her firearm
+registration permit.
+(4) The Board and the Secretary of Public Safety shall have the authority to
+promulgate all rules necessary to administer the provisions of this section
+concerning the training requirements of this section.
+(i) The Board may not issue a firearm registration permit to an applicant until the
+applicant's employer submits evidence satisfactory to the Board that the applicant:
+(1) Has satisfactorily completed an approved training course.
+(2) Meets all the qualifications established by this section and the rules
+promulgated to implement this section.
+(3) Is mentally and physically capable of handling a firearm within the guidelines
+set forth by the Board and the Secretary of Public Safety.
+Page 16 Session Law 2025-51 Senate Bill 710
+
+(j) The Board and the Secretary of Public Safety are authorized to prescribe reasonable
+rules to implement this section, including rules for periodic requalification with the firearm and
+for the maintenance of records relating to persons issued a firearm registration permit by the
+Board.
+(k) All fees collected pursuant to G.S. 74C-9(e)(7) and (8) shall be expended, under the
+direction of the Board, for the purpose of defraying the expense of administering the firearms
+provisions of this Chapter.
+(l) The Board and the Secretary of Public Safety shall establish a training program for
+certified trainers to be conducted by agencies and institutions approved by the Board and the
+Secretary of Public Safety. The Board or the Secretary of Public Safety shall have the authority
+to promulgate all rules necessary to administer the provisions of this subsection.
+(1) The Board and the Secretary of Public Safety shall also establish renewal
+requirements for certified trainers. The Board may require all certified trainers
+to complete continuing education courses approved by the Board before
+renewal of their certifications.
+(2) No certified firearms trainer shall certify a licensee or registrant unless the
+licensee or registrant has successfully completed the firearms training
+requirements set out above in subsection (h) of this section.
+(m) The Board and the Secretary of Public Safety shall establish a training program for
+unarmed security guards to be conducted by agencies and institutions approved by the Board and
+the Secretary of Public Safety. The Board and the Secretary of Public Safety shall have the
+authority to promulgate all rules necessary to administer the provisions of this subsection.
+(n) A private investigator licensee shall be permitted to carry a concealed weapon during
+the performance of his or her duties as a private investigator private protective services duties
+upon: (i) obtaining a concealed weapon handgun permit issued pursuant to G.S. 14-415.11; (ii)
+successfully completing the firearms training course approved by the Board and the Secretary of
+Public Safety; and (iii) having a notation affixed to the face of the firearms registration card
+designating that the armed private investigator licensee is allowed to carry a concealed weapon.
+handgun. A private investigator licensee who does not carry a weapon handgun during the course
+of his or her duties as a private investigator but who wishes to carry a concealed weapon handgun
+while not engaged in private investigative private protective services duties shall be permitted to
+do so upon completion of the requirements set forth in Article 54B of Chapter 14 of the General
+Statutes.
+(o) The Board shall not knowingly issue a firearm registration permit to an individual
+who is prohibited by federal or State law from possessing a firearm.
+(p) Notwithstanding subsection (n) of this section, a licensee who is authorized pursuant
+to section 926B or 926C of Title 18 of the United States Code to carry a concealed handgun and
+is in compliance with the requirements of those sections, is exempt from obtaining the permit
+described in G.S. 14-415.11."
+SECTION 2.(g) The Private Protective Services Board may adopt rules to implement
+the provisions of this Part.
+SECTION 2.(h) This Part becomes effective October 1, 2025.
+PART III. ENHANCE BACKGROUND CHECK ABILITIES OF PRIVATE
+PROTECTIVE SERVICES BOARD AND SECURITY SYSTEMS LICENSING BOARD
+SECTION 3.(a) G.S. 14-415.12 reads as rewritten:
+"§ 14-415.12. Criteria to qualify for the issuance of a permit.
+(a) The sheriff shall issue a permit to an applicant if the applicant qualifies under the
+following criteria:
+(1) The applicant is a citizen of the United States or has been lawfully admitted
+for permanent residence as defined in 8 U.S.C. § 1101(a)(20),and has been a
+Senate Bill 710 Session Law 2025-51 Page 17
+
+resident of the State 30 days or longer immediately preceding the filing of the
+application.
+(2) The applicant is 21 years of age or older.
+(3) The applicant does not suffer from a physical or mental infirmity that prevents
+the safe handling of a handgun.
+(4) The applicant has successfully completed an approved firearms safety and
+training course which involves the actual firing of handguns and instruction
+in the laws of this State governing the carrying of a concealed handgun and
+the use of deadly force. The North Carolina Criminal Justice Education and
+Training Standards Commission shall prepare and publish general guidelines
+for courses and qualifications of instructors which would satisfy the
+requirements of this subdivision. An approved course shall be any course
+which satisfies the requirements of this subdivision and is certified or
+sponsored by any of the following:
+a. The North Carolina Criminal Justice Education and Training
+Standards Commission.
+b. The National Rifle Association.
+b1. The United States Concealed Carry Association.
+c. A law enforcement agency, college, private or public institution or
+organization, or firearms training school, taught by instructors
+certified by the North Carolina Criminal Justice Education and
+Training Standards Commission, the United States Concealed Carry
+Association, or the National Rifle Association.
+d. The North Carolina Private Protective Services Board and Secretary
+of Public Safety pursuant to G.S. 74C-13.
+Every instructor of an approved course shall file a copy of the firearms course
+description, outline, and proof of certification annually, or upon modification
+of the course if more frequently, with the North Carolina Criminal Justice
+Education and Training Standards Commission."
+SECTION 3.(b) G.S. 15A-151(a) reads as rewritten:
+"§ 15A-151. Confidential agency files; exceptions to expunction.
+(a) The Administrative Office of the Courts shall maintain a confidential file for
+expungements containing the petitions granted under this Article and the names of those people
+for whom it received a notice under G.S. 15A-150. The information contained in the file may be
+disclosed only as follows:
+…
+(10) Upon request of the North Carolina Private Protective Services Board or the
+North Carolina Security Systems Licensing Board, if the criminal record was
+expunged under this Chapter for licensure or registration purposes only."
+SECTION 3.(c) G.S. 93B-8.1 reads as rewritten:
+"§ 93B-8.1. Use of criminal history records.
+…
+(d) This section does not apply to the North Carolina Criminal Justice Education and
+Training Standards Commission and Commission, the North Carolina Sheriff's Education and
+Training Standards Commission.Commission, and the North Carolina Private Protective
+Services Board, and the North Carolina Security Systems Licensing Board."
+SECTION 3.(d) The Security Systems Licensing Board and the Private Protective
+Services Board may adopt rules to implement the provisions of this Part.
+SECTION 3.(e) This Part becomes effective October 1, 2025.
+PART IV. ENHANCE ABC COMMISSION OVERSIGHT AUTHORITY
+Page 18 Session Law 2025-51 Senate Bill 710
+
+SECTION 4.(a) G.S. 18B-203 reads as rewritten:
+"§ 18B-203. Powers and duties of the Commission.
+(a) Powers. – The Commission shall have authority to:
+…
+(23) Provide for a method for permittees and applicants to establish compliance
+with all local ordinances, and State and federal laws.
+…."
+SECTION 4.(b) This Part becomes effective October 1, 2025.
+PART V. MODIFY LAW REGARDING NOTICE OF CERTAIN VIOLATIONS TO ABC
+PERMIT HOLDERS
+SECTION 5. G.S. 18B-502(c) reads as rewritten:
+"(c) If any alcohol law enforcement agent or local ABC officer issues a citation to an
+employee of a permitted establishment, who is not the named holder of an ABC permit for the
+establishment, for conduct occurring on the premises of the establishment that is a violation of
+this Chapter or Chapter 14 of the General Statutes, the alcohol law enforcement agent or local
+ABC officer shall send notice by electronic means or certified mail to the holder of the permit
+within five business days of the issuance of the citation. Notice to Permit Holders. – If the
+Commission receives a report from a law enforcement agency other than the Division of Alcohol
+Law Enforcement of the Department of Public Safety or a local ABC officer documenting
+violations of this Chapter or Chapter 14 of the General Statutes for conduct occurring on the
+premises of a permitted establishment, the Commission shall send notice of the alleged violation
+to the holder of the permit within five business days of receipt of the law enforcement agency
+report. The written notice shall identify the currently alleged violations and the involved
+employee. Nothing in this subsection shall prevent or limit the Commission from taking any
+additional action warranted by the circumstances of the violation."
+PART VI. REVIEW OF PERSONNEL RECORDS
+SECTION 6.(a) Article 1 of Chapter 17C of the General Statutes is amended by
+adding a new section to read:
+"§ 17C-10.2. Transfer of certified law enforcement officers.
+(a) Notwithstanding any other provision of law, a North Carolina law enforcement
+agency considering an applicant for employment as a sworn law enforcement officer shall request
+access to and review the complete personnel file of the applicant maintained by or on behalf of
+any North Carolina law enforcement agency where the applicant was employed for any part of
+the five-year period preceding the current application.
+(b) With a release signed by the applicant, any North Carolina law enforcement agency
+or any entity maintaining records of a law enforcement agency that previously employed the
+applicant shall grant access to and may, if requested, provide a copy of the applicant's complete
+personnel file, including confidential information as defined by G.S. 153A-98, 160A-168, and
+126-24 to the law enforcement agency considering the applicant for employment.
+(c) To the extent that confidential information as defined by G.S. 153A-98, 160A-168,
+or 126-24 is maintained in the personnel file of any law enforcement agency or entity maintaining
+records of a law enforcement agency that previously employed the applicant, that information
+shall remain confidential in the files of any law enforcement agency obtaining the information
+pursuant to this section.
+(d) A law enforcement agency, any entity maintaining records of a law enforcement
+agency, and the personnel of such agency or entity providing or receiving access to or copies of
+an applicant's personnel file pursuant to subsections (a) and (b) of this section shall not be held
+civilly or criminally liable for doing so."
+Senate Bill 710 Session Law 2025-51 Page 19
+
+SECTION 6.(b) Article 2 of Chapter 17E of the General Statutes is amended by
+adding a new section to read:
+"§ 17E-7.1. Transfer of certified law enforcement officers.
+(a) Notwithstanding any other provision of law, a sheriff considering an applicant for
+employment as a deputy sheriff shall request access to and review the complete personnel file of
+the applicant maintained by or on behalf of any North Carolina law enforcement agency where
+the applicant was employed for any part of the five-year period preceding the current application.
+(b) With a release signed by the applicant, any North Carolina law enforcement agency
+or any entity maintaining records of a law enforcement agency that previously employed the
+applicant shall grant access to and may, if requested, provide a copy of the applicant's complete
+personnel file, including confidential information as defined by G.S. 153A-98, 160A-168, and
+126-24 to the sheriff's office considering the applicant for employment.
+(c) To the extent that confidential information as defined by G.S. 153A-98, 160A-168,
+or 126-24 is maintained in the personnel file of any law enforcement agency or entity maintaining
+records of a law enforcement agency that previously employed the applicant, that information
+shall remain confidential in the files of any sheriff's office obtaining the information pursuant to
+this section.
+(d) A law enforcement agency, any entity maintaining records of a law enforcement
+agency, and the personnel of such law enforcement agency or entity providing or receiving access
+to or copies of an applicant's personnel file pursuant to subsections (a) and (b) of this section
+shall not be held civilly or criminally liable for doing so."
+PART VII. REINSTATE G.S. 102-1.1
+SECTION 7. Section 2(a) of S.L. 2023-92 is repealed.
+PART VIII. MILITARY JUDGES OF THE NCNG MODIFICATIONS
+SECTION 8.(a) G.S. 127A-50 reads as rewritten:
+"§ 127A-50. Summary courts-martial.
+(a) In the North Carolina National Guard, not in the service of the United States, summary
+courts-martial may be appointed by any of the following:
+(1) Any person who may convene a general or special court-martial.
+(2) The commander of a battalion, comparable or higher command of the North
+Carolina Army National Guard, provided that the commander is an officer of
+the grade of major or above.
+(3) The commander of a detached squadron, comparable or higher command of
+the North Carolina Air National Guard, provided that the commander is an
+officer of the grade of major or above.
+(b) The court shall consist of one officer who shall have the power to administer oaths
+and try enlisted personnel of each respective command for breaches of discipline and violations
+of laws governing those organizations.
+(c) These courts The summary courts-martial officer shall also have the power to impose
+punishments in like manner and to the extent prescribed by the Uniform Code of Military Justice
+and Manual for Courts-Martial, United States, as shall be in use by the Armed Forces of the
+United States at the time of the offense, except that no such court shall have the authority to
+impose confinement as part of a sentence. There shall be no right to demand trial by general or
+special court-martial.
+(d) When the summary courts-martial officer is a military judge appointed under
+G.S. 127A-50.1, the summary courts-martial officer shall have the enhanced punishment
+authority to impose forfeitures of two-thirds pay for one month, to impose extra duty, to reduce
+the rank of enlisted persons with a rank of E-7 or above by up to two ranks, and to reduce the
+rank of enlisted persons with a rank of E-6 or below to the rank of E-1. No such court shall have
+Page 20 Session Law 2025-51 Senate Bill 710
+
+the authority to impose confinement as part of a sentence. There shall be no right to demand trial
+by general or special court-martial."
+SECTION 8.(b) G.S. 127A-50.1 reads as rewritten:
+"§ 127A-50.1. Military judges.
+(a) The Adjutant General shall appoint military judges to preside over courts-martial of
+the North Carolina National Guard not in federal service. Minimum requirements for
+appointment as a military judge are:are as follows:
+(1) Certification as a military judge by the Judge Advocate General of the United
+States Army, Air Force, Navy, Marines, or Coast Guard.
+(2) Designation as a judge advocate by the Judge Advocate General of the United
+States Army, Navy, Air Force, Marines, or Coast Guard.
+(3) Membership in the North Carolina National Guard, the National Guard of
+another state, or the active or reserve components of the Armed Forces of the
+United States.Guard.
+(4) A member in good standing of the bar of the highest court of this State.
+(5) Hold the rank of lieutenant colonel or above.
+(b) The Adjutant General or the Staff Judge Advocate may detail military judges for all
+purposes for which military judges may be detailed, except that only those certified as a military
+judge by the Judge Advocate General of the United States Army, Air Force, Navy, Marines, or
+Coast Guard may preside over a general or special court-martial.
+(c) Nothing in this section shall preclude the detailing of a military judge from another
+component of the Armed Forces of the United States made available for detail, provided that
+such military judge has been certified by the Judge Advocate General from the military judge's
+component of the Armed Forces of the United States. The Adjutant General shall detail such
+military judge with the advice of the Staff Judge Advocate.
+(d) Military judges for the Army National Guard and the Air National Guard may preside
+over courts-martial of the other; provided, however, the Adjutant General shall obtain the advice
+of the Staff Judge Advocate from the military judge's branch of service before the judge is
+detailed.
+(e) Military judges appointed by the Adjutant General may issue investigative subpoenas
+as authorized under the Uniform Code of Military Justice and pursuant to such rules and
+regulations as prescribed by the military judge's component of the Armed Forces of the United
+States and as may be prescribed by the Adjutant General of the North Carolina National Guard.
+Subpoenas issued under this section shall have the same force and effect as subpoenas issued by
+the courts of this State. Subpoenas issued under this section may be served by a duly appointed
+investigating officer, a North Carolina National Guard Provost Marshal or Deputy Provost
+Marshal, or any sheriff, deputy sheriff, or State or local law enforcement officer."
+SECTION 8.(c) G.S. 127A-56 reads as rewritten:
+"§ 127A-56. Powers of courts-martial.
+In the North Carolina National Guard, not in the service of the United States, presidents of
+military judges certified by the Judge Advocate General of the United States Army, Air Force,
+Navy, Marines, or Coast Guard and detailed to courts-martial and summary court officers shall
+have power to issue warrants to arrest an accused person and to bring the person before a court
+for trial whenever the person has disobeyed an order in writing from the convening authority to
+appear before the court, a copy of the charge or charges having been delivered to the accused
+with the order, and to issue subpoenas and subpoenas duces tecum, and to enforce by attachment
+attendance of witnesses and the production of books, papers, records and other articles subject to
+a subpoena duces tecum, and to sentence for a refusal to be sworn or to answer as provided in
+actions before civil courts. The presiding officer A certified military judge shall also have power
+to punish for contempt occurring in the presence of the court."
+SECTION 8.(d) G.S. 127A-57 reads as rewritten:
+Senate Bill 710 Session Law 2025-51 Page 21
+
+"§ 127A-57. Execution of processes and sentences.
+All Except as otherwise provided in this Chapter, all warrants and other processes authorized
+by this Chapter and sentences of any of the military courts of this State shall be executed by any
+sheriff, deputy sheriff, or State or local law enforcement officer into whose hands they may be
+placed for service or execution, and the officer shall make return thereof to the officer issuing or
+imposing the same. The service or execution of process or sentence shall be made by the officer
+without tender or advancement of fee therefor; but all costs in these cases shall be paid from
+funds appropriated to the Department of Public Safety."
+SECTION 8.(e) G.S. 127A-59 reads as rewritten:
+"§ 127A-59. Sentences.
+When any sentence to fine or imprisonment is imposed by any military court of this State, it
+shall be the duty of the military judge, president of the court, or summary court officer, upon the
+approval of the court's findings and sentence, to make out and sign a certificate entitling the case,
+giving the name of the accused, the date and place of trial, the date of approval of sentence, and
+the terms of the sentence. The trial counsel shall deliver the certificate to the Clerk of the Superior
+Court of Wake County, and it shall thereupon be the duty of the clerk to take the actions necessary
+to carry the sentence into execution in the same manner as prescribed by law for the collection
+of fines, or commitment to service of terms of imprisonment, in criminal cases determined in the
+courts of this State. The Administrative Office of the Courts shall ensure that the State's criminal
+history records include pertinent information relating to a court-martial under this Chapter in a
+like manner as a comparable offense under the State's criminal laws would be recorded."
+SECTION 8.(f) G.S. 127A-60 reads as rewritten:
+"§ 127A-60. Approval of sentence.
+No sentence imposed by a special or general court-martial of the North Carolina National
+Guard, not in the service of the United States, shall be executed until approved by the Governor.
+The Governor may delegate this approval authority to the Adjutant General. Any officer
+convicted by a general court-martial and dismissed from the service shall be forever disqualified
+from holding a commission in the militia."
+SECTION 8.(g) Section 8(a) of this Part is effective when it becomes law and applies
+to summary courts-martial initiated on or after that date. Section 8(b) of this Part is effective
+when it becomes law and applies to military judges serving on or after that date, except the
+requirements of G.S. 127A-50.1, as amended by Section 8(b) of this Part, shall only apply to
+appointments made on or after that date. Sections 8(c) and 8(d) of this Part are effective when
+they become law and apply to warrants and orders issued on or after that date. The remainder of
+this Part is effective when it becomes law.
+PART IX. REVISOR OF STATUTES CONFORMING CHANGES
+SECTION 9. The Revisor of Statutes may recodify the definitions in
+G.S. 74C-13(a1) so that they appear in alphabetical order and shall make any necessary
+conforming changes.
+Page 22 Session Law 2025-51 Senate Bill 710
+
+PART X. EFFECTIVE DATE
+SECTION 10. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 26th day of June, 2025.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 12:42 p.m. this 2nd day of July, 2025
+Senate Bill 710 Session Law 2025-51 Page 23
+
+[DELETED:  T T P P S B L T O A O T A C T L R N O C V T A H A R O L E O R W T A R A T M P R S A T A A S O M L R – N p f a c o d o C i t d d o d a o t t f a o o t f a o c F p o t C a " a S I w o h e o m a s o o i d u t d o o b]
+[DELETED:  S S o e i s p t o o Q T o r b o b l t b s u t e b t A S S L B s b I c f w 1 w d T b e m o a T T C b a b i c b t B i a w T T o t h c b a l S f o m d o o c s n o a b c o a c i a o a a o v c o a c i t o a h o a t a o a n d]
+[DELETED:  S P t f p o t s " m a o c b a j o j i a p f j T E A A c a A c a b i t d w t a m t i i r b t S o n r T a o r s d b t B p c r r]
+[DELETED:  S S C A s t a s l o a s s d p o a p t b p a t o o i f a p o t n t e 4 h i a I I o s o a a e s s o p A B s t i d n c a b t a A I A e t w a c a m o a A p l u t C m u a c o m T T]
+[DELETED:  S P E B A o B m s r r i a w a n G s r a c f t T B s e a c c a a v v f i v b h b e a i r o a n T I P i t a t r t s o r a D m q a e m e a t s f a a l a C u A I a a i a t b l o r D a a o l a l o r w f t]
+[DELETED:  S S a w C 1 o t G S o N I C A T T c o c s b p t r a s b o w i u l o t b l u t C A i a f t t a m t r f l o r o a a s r t l o r a f T g f d C o a w i c b a r o C l o f f F p o t s m a i t e o p o p o]
+[DELETED:  S P L o g m c o t h T f d n o a b c o a c f a o a a o v c o a c b a j o j i a p f j c P K B N A a b o c A s c s t l a l ( A w 3 d a t e b a o t f T A e t h a t c a i t w a t s t b m a o]
+[DELETED:  S S A A T c p o a q f i a E n a s s b m e a e A l m e a a f r a a p f 2 c d U c o t p t e s c a t r a t a T l s s a l o t p T N r a o i]
+[DELETED:  S P T V B a s f i G o a c a s f i E i o p a e t e i a a s b w n l i p o a v l C a u b o e b l s C F t m t c o l i r b t E u w t l w o u t p o t E o h t p i t c o p a o i f c a c i b f c d o a c b D A p f a c o d o d o a f a C 1 m T A G o h o h r s h T t r a t s i r i l a m a a t r u o a s t o r p w a u]
+[DELETED:  S S I u t s s b r t t C P a F F i P T f c p t C 7 o t G S f a s t P P S B f t p o d t e o l a t e o a o a s s b i 7  A S S E F c p t F T I O]
+[DELETED:  S P T T T T o a f t T T a r p o a s n h t d w t 1  T S S L B m a r t N A I A S g a p p – A p f a o P]
+[DELETED:  S S P P o b e b p o t p f o c c o u o g t C G T A a c c t a p i G a f c p t t s s b u t d o t B f t p o d t e o T A l p d i p e e 7  P e a r o r e u g g a u a c g r t h A l s g a p c o a c c s r t t B w 3 d a t p e p e u t i t D d e t t p f g c B a]
+[DELETED:  S P S S a w t e h r w t i 4 A T A a y r g a p c c o a c t s g c s r v p t s g p t u g N n o t u g a t n o t s o c r o R N T T P o c o t 4 t c m b]
+[DELETED:  S S Q S B b o t f t a s g t c m t q r a b t T a c c s n e t l o t d d o s o T M C a u l b b o e a W T A A s g – A i e b a c s C c b f a f o o v c t a o P s o – A p f a o o d t w e s g a e a a e b a e i c w t]
+[DELETED:  S P A I A a f A T E E f r p i u t s t a a p p s t a p i l s c t f a A I c a c c o p s o t f]
+[DELETED:  S S A c T o r p b t B t i t s T D m T B a t S o P S s e a f t a c c s c c a c c o s d o a T L l o t u o f a o t p a F R A A A p t c p t t r o h o h f T B a t S o P S s h t a t T B m n i a f r p t a a u t H M a t q e b t s a t r I]
+[DELETED:  S P T A T T c c e c a b t B b N o r h s c t f t T A T N I E B C A O P T T]
+[DELETED:  S S T T T c a q o i w w s t c s t r o t s a i c o T N C C J E a T T T A o f t s t b i b t N C C J E a T T A O o t C s m a c f f U T S C a t N C P P]
+[DELETED:  S P P P I N E o t D o P S o a l A o d T w n s i t c a v a t i N a o p o l a N C l e W T A a]
+[DELETED:  S S N W T A a I A T T T T W t s c o i a m j a u t s c o s h t e p]
+[DELETED:  S P T N C N G n i f s M r f C D M A H T N M M a u t U C o M J a p t s r a o a N C N G P M o D P]
+[DELETED:  S S G m d t a a t t A G A o 9  T R o S m r t d i s t t a i a o a s m a n]
+[DELETED:  S P6 s s s 2 ]

@@ -1,0 +1,1805 @@
+Title: HOUSE BILL 576
+Official Title: HOUSE BILL 576
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 4/15/25
+Short Title: Dept. of Health and Human Services Revisions.-AB (Public)
+Sponsors:
+Referred to:
+April 1, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT MAKING TECHNICAL, CONFORMING, AND OTHER MODIFICATIONS TO
+3 LAWS PERTAINING TO THE DEPARTMENT OF HEALTH AND HUMAN SERVICES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. LAWS PERTAINING TO THE DIVISION OF CHILD AND FAMILY
+7 WELL-BEING
+8
+9 DESIGNATE THE DEPARTMENT OF HEALTH AND HUMAN SERVICES AS THE
+10 STATE AGENCY RESPONSIBLE FOR MANAGING SCHOOL NURSE FUNDS
+11 SECTION 1.1. G.S. 130A-4.3(b) reads as rewritten:
+12 "(b) The Division of Public Health Department shall ensure that school nurses funded with
+13 State funds (i) do not assist in any instructional or administrative duties associated with a school's
+14 curriculum and (ii) perform all of the following with respect to school health programs:
+15 (1) Serve as the coordinator of the health services program and provide nursing
+16 care.
+17 (2) Provide health education to students, staff, and parents.
+18 (3) Identify health and safety concerns in the school environment and promote a
+19 nurturing school environment.
+20 (4) Support healthy food services programs.
+21 (5) Promote healthy physical education, sports policies, and practices.
+22 (6) Provide health counseling, assess mental health needs, provide interventions,
+23 and refer students to appropriate school staff or community agencies.
+24 (7) Promote community involvement in assuring a healthy school and serve as
+25 school liaison to a health advisory committee.
+26 (8) Provide health education and counseling and promote healthy activities and a
+27 healthy environment for school staff.
+28 (9) Be available to assist the county health department during a public health
+29 emergency."
+30
+31 PART II. LAWS PERTAINING TO THE DIVISION OF HEALTH BENEFITS
+32
+33 TEMPORARILY EXTEND OPTION TO DECREASE MEDICAID ENROLLMENT
+34 BURDEN ON COUNTY DEPARTMENTS OF SOCIAL SERVICES
+35 SECTION 2.1. Section 1.8(a) of S.L. 2023-7, as amended by Section 9(a) of S.L.
+36 2024-34, reads as rewritten:
+*H576-v-2*
+General Assembly Of North Carolina Session 2025
+1 "SECTION 1.8.(a) Notwithstanding G.S. 108A-54(d) and in accordance with
+2 G.S. 143B-24(b), the Department of Health and Human Services (DHHS) is authorized, on a
+3 temporary basis to conclude by June 30, 2025, 2028, to utilize the federally facilitated
+4 marketplace (Marketplace), also known as the federal health benefit exchange, to make Medicaid
+5 eligibility determinations. In accordance with G.S. 108A-54(b), G.S. 108A-54(f), these
+6 eligibility determinations shall be in compliance with all eligibility categories, resource limits,
+7 and income thresholds set by the General Assembly."
+8
+9 CLARIFY ENROLLMENT IN MEDICAID MANAGED CARE AFTER RELEASE
+10 FROM INCARCERATION
+11 SECTION 2.2.(a) G.S. 108D-40 reads as rewritten:
+12 "§ 108D-40. Populations covered by PHPs.
+13 (a) Capitated PHP contracts shall cover all Medicaid program aid categories except for
+14 the following categories:
+15 …
+16 (9) Recipients who are inmates of prisons. Upon the recipient's release from
+17 prison, the exception under this subdivision shall continue to apply for a
+18 period that is the shorter of the following:until the first day of the month
+19 following the twelfth month after the recipient's release.
+20 a. The recipient's initial Medicaid eligibility certification period post
+21 release.
+22 b. Three hundred sixty-five days.
+23 (9a) Recipients residing in carceral settings other than prisons and whose Medicaid
+24 eligibility has been suspended. Upon the recipient's release from
+25 incarceration, the exception under this subdivision shall continue to apply for
+26 a period that is the shorter of the following:until the first day of the month
+27 following the twelfth month after the recipient's release.
+28 a. The recipient's initial Medicaid eligibility certification period post
+29 release.
+30 b. Three hundred sixty-five days.
+31 …."
+32 SECTION 2.2.(b) This section is effective when it becomes law and applies to (i)
+33 inmates released on or after that date and (ii) inmates released on or after January 1, 2025, who
+34 are not enrolled with a PHP on the date this act becomes law.
+35
+36 CONFORM NORTH CAROLINA LAW TO FEDERAL REQUIREMENTS FOR
+37 MEDICAID CATEGORICAL RISK LEVELS FOR PROVIDER SCREENINGS
+38 SECTION 2.3.(a) G.S. 108C-3 reads as rewritten:
+39 "§ 108C-3. Medicaid provider screening.
+40 (a) Provider Screening. – The Department shall conduct provider screening of Medicaid
+41 providers in accordance with applicable State or federal law or regulation.
+42 (b) Enrollment Screening. – The Department must screen all initial provider applications
+43 for enrollment in Medicaid, including applications for a new practice location, and all
+44 revalidation requests based on Department the Department's assessment of risk and assignment
+45 of the provider to a categorical risk level of "limited," "moderate," or "high." limited, moderate,
+46 or high. If a provider could fit within more than one risk level described in this section, the highest
+47 level of screening is applicable.
+48 (c) Limited Categorical Risk Provider Types. – The All of the following provider types
+49 are hereby designated as "limited" limited categorical risk:
+50 …
+Page 2 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (4) Health programs operated by an Indian Health Program (as Program, as
+2 defined in section 4(12) of the Indian Health Care Improvement Act) Act, or
+3 an urban Indian organization (as organization, as defined in section 4(29) of
+4 the Indian Health Care Improvement Act) Act, that receives funding from the
+5 Indian Health Service pursuant to Title V of the Indian Health Care
+6 Improvement Act.
+7 …
+8 (10) Nursing facilities, including Intermediate Care Facilities for Individuals with
+9 Intellectual Disabilities.Disabilities, that are not skilled nursing facilities.
+10 (10a) Skilled nursing facilities that are limited categorical risk under subsection (k)
+11 of this section.
+12 …
+13 (12) Physician or nonphysician practitioners (including practitioners, including
+14 nurse practitioners, CRNAs, physician assistants, physician extenders,
+15 occupational therapists, speech/language pathologists, chiropractors, and
+16 audiologists), optometrists, audiologists; optometrists; dentists and
+17 orthodontists, orthodontists; and medical groups or clinics.
+18 …
+19 (d) Limited Categorical Risk Screenings. – When the Department designates a provider
+20 as a "limited" limited categorical level of risk, the Department shall conduct such the applicable
+21 screening functions as required by federal law.
+22 (e) Moderate Categorical Risk Provider Types. – The All of the following provider types
+23 are hereby designated as "moderate" moderate categorical risk:
+24 …
+25 (8) Pharmacy Services.services.
+26 …
+27 (11) Revalidating agencies providing durable medical equipment, including, but
+28 not limited to, including orthotics and prosthetics.
+29 …
+30 (15) Skilled nursing facilities that are moderate categorical risk under subsection
+31 (k) of this section.
+32 (f) Moderate Categorical Risk Screenings. – When the Department designates a provider
+33 as a "moderate"' moderate categorical level of risk, the Department shall conduct such the
+34 applicable screening functions as required by federal law and regulation.
+35 (g) High Categorical Risk Provider Types. – The All of the following provider types are
+36 hereby designated as "high" high categorical risk:
+37 (1) Prospective (newly enrolling) Prospective, or newly enrolling, adult care
+38 homes delivering Medicaid-reimbursed services.
+39 …
+40 (4) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+41 providing durable medical equipment, including, but not limited to, orthotics
+42 and prosthetics.
+43 …
+44 (6) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+45 providing nonbehavioral health home- or community-based services pursuant
+46 to waivers authorized by the federal Centers for Medicare and Medicaid
+47 Services under 42 U.S.C. § 1396n(c).
+48 (7) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+49 providing personal care services or in-home care services.
+50 (8) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+51 providing private duty nursing, home health, or home infusion.
+House Bill 576-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (9) Providers against whom which the Department has imposed a payment
+2 suspension based upon a credible allegation of fraud in accordance with 42
+3 C.F.R. § 455.23 within the previous 12-month period. The Department shall
+4 return the provider to its original risk category not later than 12 months after
+5 the cessation of the payment suspension.
+6 …
+7 (11) Providers who that have incurred a Medicaid final overpayment, assessment,
+8 or fine to the Department in excess of twenty percent (20%) of the provider's
+9 payments received from Medicaid in the previous 12-month period. The
+10 Department shall return the provider to its original risk category not later than
+11 12 months after the completion of the provider's repayment of the final
+12 overpayment, assessment, or fine.
+13 …
+14 (13) Skilled nursing facilities that are high categorical risk under subsection (k) of
+15 this section.
+16 (h) High Categorical Risk Screenings. – When the Department designates a provider as
+17 a "high" high categorical level of risk, the Department shall conduct such the applicable screening
+18 functions as required by federal law and regulation.
+19 (i) Dually-Enrolled Providers. – For providers dually enrolled in the federal Medicare
+20 program and Medicaid, the Department may rely on the results of the provider screening
+21 performed by Medicare contractors.
+22 (j) Out-of-State Providers. – For out-of-state providers, the Department may rely on the
+23 results of the provider screening performed by the Medicaid agencies or Children's Health
+24 Insurance Program agencies of other states.
+25 (k) Skilled Nursing Facilities. – The categorial risk level for provider screening of skilled
+26 nursing facilities is the categorical risk level required by federal law or regulation. If federal law
+27 or regulation does not require a particular categorical risk level, skilled nursing facilities are
+28 limited categorical risk."
+29 SECTION 2.3.(b) G.S. 108C-3, as amended by Section 2.3(a) of this act, reads as
+30 rewritten:
+31 "§ 108C-3. Medicaid provider screening.
+32 …
+33 (c) Limited Categorical Risk Provider Types. – All of the following provider types are
+34 designated as limited categorical risk:
+35 …
+36 (1a) Behavioral health and intellectual and developmental disability provider
+37 agencies that are nationally accredited by an entity approved by the
+38 Secretary.Secretary, unless they meet the description in subdivision (g)(15) of
+39 this section.
+40 …
+41 (16) Portable X-ray suppliers.
+42 …
+43 (e) Moderate Categorical Risk Provider Types. – All of the following provider types are
+44 designated as moderate categorical risk:
+45 …
+46 (5) Hospice organizations.Revalidating hospice organizations, unless they meet
+47 the description in subdivisions (g)(14) and (g)(15) of this section.
+48 …
+49 (10) Revalidating adult care homes delivering Medicaid-reimbursed
+50 services.services, unless they meet the description in subdivision (g)(15) of
+51 this section.
+Page 4 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (11) Revalidating agencies providing durable medical equipment, including
+2 orthotics and prosthetics.prosthetics, unless they meet the description in
+3 subdivision (g)(15) of this section.
+4 (12) Revalidating agencies providing nonbehavioral health home- or
+5 community-based services pursuant to waivers authorized by the federal
+6 Centers for Medicare and Medicaid Services under 42 U.S.C. § 1396n(c).42
+7 U.S.C. § 1396n(c), unless they meet the description in subdivision (g)(15) of
+8 this section.
+9 (13) Revalidating agencies providing private duty nursing, home health, personal
+10 care services or in-home care services, or home infusion.infusion, unless they
+11 meet the description in subdivision (g)(15) of this section.
+12 …
+13 (16) Portable X-ray suppliers.
+14 …
+15 (g) High Categorical Risk Provider Types. – All of the following provider types are
+16 designated as high categorical risk:
+17 …
+18 (14) Prospective, or newly enrolling, hospice organizations and revalidating
+19 hospice organizations undergoing a change in ownership.
+20 (15) The following revalidating providers (i) that are revalidating for the first time
+21 since newly enrolling and (ii) for which fingerprinting requirements, as a
+22 newly enrolling provider, were waived due to a national, state, or local
+23 emergency:
+24 a. Opioid treatment programs that have not been fully and continuously
+25 certified by the Substance Abuse and Mental Health Services
+26 Administration since October 23, 2018.
+27 b. Agencies providing durable medical equipment, including orthotics
+28 and prosthetics.
+29 c. Adult care homes delivering Medicaid-reimbursed services.
+30 d. Agencies providing private duty nursing, home health, personal care
+31 services, or in-home care services, or home infusion.
+32 e. Hospice organizations.
+33 …."
+34 SECTION 2.3.(c) Subsection (a) of this section is retroactively effective January 1,
+35 2023. The remainder of this section is retroactively effective January 1, 2024.
+36
+37 CLARIFY MEDICAID SUBROGATION RIGHTS IN MANAGED CARE
+38 ENVIRONMENT
+39 SECTION 2.4.(a) G.S. 108A-57 reads as rewritten:
+40 "§ 108A-57. Subrogation rights; withholding of information a misdemeanor.
+41 (a) As used in this section, the term "beneficiary" means (i) the beneficiary of medical
+42 assistance, including a minor beneficiary, (ii) the medical assistance beneficiary's parent, legal
+43 guardian, or personal representative, (iii) the medical assistance beneficiary's heirs, and (iv) the
+44 administrator or executor of the medical assistance beneficiary's estate.
+45 Notwithstanding any other provisions of the law, to the extent of payments under this Part,
+46 the State shall be subrogated to all rights of recovery, contractual or otherwise, of a beneficiary
+47 against any person. Any claim brought by a medical assistance beneficiary against a third party
+48 shall include a claim for all medical assistance payments for health care items or services
+49 furnished to the medical assistance beneficiary as a result of the injury or action, hereinafter
+50 referred to as the "Medicaid claim." Any claim brought by a medical assistance beneficiary
+51 against a third party that does not state the Medicaid claim shall be deemed to include the
+House Bill 576-Second Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 Medicaid claim. If the beneficiary has claims against more than one third party related to the
+2 same injury, then any amount received in payment of the Medicaid claim related to that injury
+3 shall reduce the total balance of the Medicaid claim applicable to subsequent recoveries related
+4 to that injury.
+5 The Department may designate one or more PHPs to receive all or a portion of payments due
+6 under this section to the Department for the Medicaid claim by sending a notice of designation
+7 to (i) the beneficiary who has the claim against the third party and (ii) any PHP designated in the
+8 notice. As used in this section, the term "designated PHP" refers to a PHP designated in the notice
+9 of designation under this subsection.
+10 (a1) If the amount of the Medicaid claim does not exceed one-third of the medical
+11 assistance beneficiary's gross recovery, it is presumed that the gross recovery includes
+12 compensation for the full amount of the Medicaid claim. If the amount of the Medicaid claim
+13 exceeds one-third of the medical assistance beneficiary's gross recovery, it is presumed that
+14 one-third of the gross recovery represents compensation for the Medicaid claim.
+15 (a2) A medical assistance beneficiary may dispute the presumptions established in
+16 subsection (a1) of this section by applying to the court in which the medical assistance
+17 beneficiary's claim against the third party is pending, or if there is none, then to a court of
+18 competent jurisdiction in this State, for a determination of the portion of the beneficiary's gross
+19 recovery that represents compensation for the Medicaid claim. An application under this
+20 subsection shall be filed with the court and served on the Department pursuant to the Rules of
+21 Civil Procedure no later than 30 days after the date that the settlement agreement is executed by
+22 all parties and, if required, approved by the court, or in cases in which judgment has been entered,
+23 no later than 30 days after the date of entry of judgment. If a PHP made payments on behalf of a
+24 Medicaid beneficiary that are included in the Medicaid claim, then the application shall also be
+25 served on that PHP within the same time frame in which service is required on the Department.
+26 The court shall hold an evidentiary hearing no sooner than 60 days after the date the action was
+27 filed. All of the following shall apply to the court's determination under this subsection:
+28 (1) The medical assistance beneficiary has the burden of proving by clear and
+29 convincing evidence that the portion of the beneficiary's gross recovery that
+30 represents compensation for the Medicaid claim is less than the portion
+31 presumed under subsection (a1) of this section.
+32 (2) The presumption arising under subsection (a1) of this section is not rebutted
+33 solely by the fact that the medical assistance beneficiary was not able to
+34 recover the full amount of all claims.
+35 (3) If the beneficiary meets its burden of rebutting the presumption arising under
+36 subsection (a1) of this section, then the court shall determine the portion of
+37 the recovery that represents compensation for the Medicaid claim and shall
+38 order the beneficiary to pay the amount so determined to the Department
+39 Department, or designated PHP, in accordance with subsection (a5) of this
+40 section. In making this determination, the court may consider any factors that
+41 it deems just and reasonable.
+42 (4) If the beneficiary fails to rebut the presumption arising under subsection (a1)
+43 of this section, then the court shall order the beneficiary to pay the amount
+44 presumed pursuant to subsection (a1) of this section to the Department
+45 Department, or designated PHP, in accordance with subsection (a5) of this
+46 section.
+47 (a3) Notwithstanding the presumption arising pursuant to subsection (a1) of this section,
+48 the medical assistance beneficiary and the Department may reach an agreement on the portion of
+49 the recovery that represents compensation for the Medicaid claim. If such an agreement is
+50 reached after an application has been filed pursuant to subsection (a2) of this section, a stipulation
+51 of dismissal of the application signed by both parties shall be filed with the court.
+Page 6 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (a4) Within 30 days of receipt of the proceeds of a settlement or judgment related to a
+2 claim described in subsection (a) of this section, the medical assistance beneficiary or any
+3 attorney retained by the beneficiary shall notify the Department Department, and any designated
+4 PHP, of the receipt of the proceeds.
+5 (a5) The medical assistance beneficiary or any attorney retained by the beneficiary shall,
+6 out of the proceeds obtained by or on behalf of the beneficiary by settlement with, judgment
+7 against, or otherwise from a third party by reason of injury or death, distribute to the Department
+8 Department, or designated PHP, the amount due pursuant to this section as follows:
+9 (1) If, upon the expiration of the time for filing an application pursuant subsection
+10 (a2) of this section, no application has been filed, then the amount presumed
+11 pursuant to subsection (a1) of this section, as prorated with the claims of all
+12 others having medical subrogation rights or medical liens against the amount
+13 received or recovered, shall be paid to the Department Department, or
+14 designated PHP, within 30 days of the beneficiary's receipt of the proceeds, in
+15 the absence of an agreement pursuant to subsection (a3) of this section.
+16 (2) If an application has been filed pursuant to subsection (a2) of this section and
+17 no agreement has been reached pursuant to subsection (a3) of this section,
+18 then the Department Department, or designated PHP, shall be paid as follows:
+19 a. If the beneficiary rebuts the presumption arising under subsection (a1)
+20 of this section, then the amount determined by the court pursuant to
+21 subsection (a2) of this section, as prorated with the claims of all others
+22 having medical subrogation rights or medical liens against the amount
+23 received or recovered, shall be paid to the Department Department, or
+24 designated PHP, within 30 days of the entry of the court's order.
+25 b. If the beneficiary fails to rebut the presumption arising under
+26 subsection (a1) of this section, then the amount presumed pursuant to
+27 subsection (a1) of this section, as prorated with the claims of all others
+28 having medical subrogation rights or medical liens against the amount
+29 received or recovered, shall be paid to the Department Department, or
+30 designated PHP, within 30 days of the entry of the court's order.
+31 (3) If an agreement has been reached pursuant to subsection (a3) of this section,
+32 then the agreed amount, as prorated with the claims of all others having
+33 medical subrogation rights or medical liens against the amount received or
+34 recovered, shall be paid to the Department Department, or designated PHP,
+35 within 30 days of the execution of the agreement by the medical assistance
+36 beneficiary and the Department.
+37 (a6) The United States and the State of North Carolina shall be entitled to shares in each
+38 net recovery by the Department under this section. Their shares shall be promptly paid under this
+39 section and their proportionate parts of such sum shall be determined in accordance with the
+40 matching formulas in use during the period for which assistance was paid to the recipient.
+41 (b) It is a Class 1 misdemeanor for any person seeking or having obtained assistance
+42 under this Part for himself or another to willfully fail to disclose to the county department of
+43 social services or its attorney and to the Department the identity of any person or organization
+44 against whom the recipient of assistance has a right of recovery, contractual or otherwise.
+45 (c) (For contingent repeal, see note) This section applies to the administration of and
+46 claims payments under the NC Health Choice Program established under Part 8 of this Article.
+47 (d) As required to ensure compliance with this section, the Department may apply to the
+48 court in which the medical assistance beneficiary's claim against the third party is pending, or if
+49 there is none, then to a court of competent jurisdiction in this State for enforcement of this
+50 section."
+House Bill 576-Second Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.4.(b) This section is effective when it becomes law and applies to
+2 Medicaid claims brought by medical assistance beneficiaries against third parties on or after that
+3 date.
+4
+5 PART III. LAWS PERTAINING TO THE DIVISION OF HEALTH SERVICE
+6 REGULATION
+7
+8 ALIGN CAPACITY OF MEDICAL FOSTER HOMES OPERATING IN THE STATE
+9 UNDER THE SUPERVISION OF THE UNITED STATES DEPARTMENT OF
+10 VETERANS AFFAIRS WITH FEDERAL REGULATIONS
+11 SECTION 3.1. G.S. 131D-2.3 reads as rewritten:
+12 "§ 131D-2.3. Exemptions from licensure.
+13 The following are excluded from this Article and are not required to be registered or obtain
+14 licensure under this Article:
+15 (1) Facilities licensed under Chapter 122C or Chapter 131E of the General
+16 Statutes.
+17 (2) Persons subject to rules of the Division of Employment and Independence for
+18 People with Disabilities.
+19 (3) Facilities that care for no more than four three persons, all of whom are under
+20 the supervision of the United States Veterans Administration.
+21 (4) Facilities that make no charges for housing, amenities, or personal care
+22 service, either directly or indirectly.
+23 (5) Institutions that are maintained or operated by a unit of government and that
+24 were established, maintained, or operated by a unit of government and exempt
+25 from licensure by the Department on September 30, 1995."
+26
+27 AUTHORIZE THE DEPARTMENT OF HEALTH AND HUMAN SERVICES TO
+28 INSPECT RESIDENCES OR FACILITIES BELIEVED TO BE OPERATING AS
+29 ADULT CARE HOMES WITHOUT A LICENSE AND INCREASE PENALTIES FOR
+30 UNLAWFUL ADULT CARE HOME OPERATIONS
+31 SECTION 3.2.(a) G.S. 131D-2.5(b) reads as rewritten:
+32 "(b) The Department shall charge each registered multiunit assisted housing with services
+33 program a nonrefundable annual registration fee of three hundred fifty dollars ($350.00). Any
+34 individual or corporation that establishes, conducts, manages, or operates a multiunit housing
+35 with services program, subject to registration under this section, that fails to register is guilty of
+36 a Class 3 misdemeanor and, upon conviction shall be punishable only by a fine of not more than
+37 fifty dollars ($50.00) for the first offense and not more than five hundred dollars ($500.00) for
+38 each subsequent offense. Class H felony, including a fine of one thousand dollars ($1,000) per
+39 day for each day the facility is in operation in violation of this Article. Each day of a continuing
+40 violation after conviction shall be considered a separate offense."
+41 SECTION 3.2.(b) G.S. 131D-2.6 reads as rewritten:
+42 "§ 131D-2.6. Legal action by Department.
+43 (a) Notwithstanding the existence or pursuit of any other remedy, the Department may,
+44 in the manner provided by law, maintain an action in the name of the State for injunction or other
+45 process against any person to restrain or prevent the establishment, conduct, management, or
+46 operation of an adult care home without a license. Such action shall be instituted in the superior
+47 court of the county in which any unlicensed activity has occurred or is occurring.
+48 (a1) The Department and county departments of social services may inspect any of the
+49 following as authorized by law:
+50 (1) A residence or facility the Department believes to be operating as an assisted
+51 living residence without an appropriate license or registration.
+Page 8 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (2) A registered multiunit assisted housing with services facility to determine if it
+2 is operating as a licensable adult care home facility without a license.
+3 (b) Any individual or corporation that establishes, conducts, manages, or operates a
+4 facility subject to licensure under this section without a license is guilty of a Class 3 misdemeanor
+5 and, upon conviction, shall be punishable only by a fine of not more than fifty dollars ($50.00)
+6 for the first offense and not more than five hundred dollars ($500.00) for each subsequent offense.
+7 an assisted living facility without a license or registration, as required under this Article, is guilty
+8 of a Class H felony, including a fine of one thousand dollars ($1,000) per day for each day the
+9 facility is in operation in violation of this Article. Each day of a continuing violation after
+10 conviction shall be considered a separate offense.
+11 (c) If any person shall hinder the proper performance of duty of the Secretary or the
+12 Secretary's representative in carrying out this section, the Secretary may institute an action in the
+13 superior court of the county in which the hindrance has occurred for injunctive relief against the
+14 continued hindrance, irrespective of all other remedies at law.
+15 (d) Actions under this section shall be in accordance with Article 37 of Chapter 1 of the
+16 General Statutes and Rule 65 of the Rules of Civil Procedure."
+17 SECTION 3.2.(c) This section becomes effective December 1, 2025, and applies to
+18 offenses committed on or after that date.
+19
+20 ALIGN HOSPITAL REPORTING REQUIREMENTS UNDER THE HOSPITAL
+21 VIOLENCE PROTECTION ACT WITH THE HOSPITAL LICENSE RENEWAL
+22 APPLICATION PROCESS
+23 SECTION 3.3.(a) G.S. 131E-76 is amended by adding a new subdivision to read:
+24 "(1c) Division of Health Service Regulation. – The Division of Health Service
+25 Regulation within the Department of Health and Human Services."
+26 SECTION 3.3.(b) G.S. 131E-88.2 reads as rewritten:
+27 "§ 131E-88.2. Reports.
+28 (a) Annually by October 1, the Department of Health and Human Services, February 28,
+29 each hospital shall report to the Division of Health Service Regulation, shall collect in a manner
+30 and format requested by the Department, the following data from hospitals for the preceding
+31 calendar year: for the prior federal fiscal year ending September 30: (i) the number of assaults
+32 occurring in the hospital or on hospital grounds that required the involvement of law
+33 enforcement, whether the assaults involved hospital personnel, and how those assaults were
+34 pursued by the hospital and processed by the judicial system, (ii) the number and impact of
+35 incidences where patient behavioral health and substance use issues resulted in violence in the
+36 hospital and the number that occurred specifically in the emergency department, and (iii) the
+37 number of workplace violence incidences occurring at the hospital that were reported as required
+38 by accrediting agencies, the Occupational Safety and Health Administration, and other entities.
+39 (b) The Department of Health and Human Services shall compile the information
+40 required by subsection (a) of this section and shall share that data with the North Carolina
+41 Sheriffs' Association, the North Carolina Association of Chiefs of Police, and the North Carolina
+42 Emergency Management Association. The Department shall request these organizations examine
+43 the data and make recommendations to the Department to decrease the incidences of violence in
+44 hospitals and to decrease assaults on hospital personnel.
+45 (c) The Department shall compile the information required by subsections (a) and (b) of
+46 this section and report findings and recommendations to the Joint Legislative Oversight
+47 Committee on Health and Human Services annually by December 1.May 1."
+48
+49 REPEAL NC NEW ORGANIZATIONAL VISION AWARD PROGRAM
+50 SECTION 3.4. Part 6 of Article 6 of Chapter 131E of the General Statutes is
+51 repealed.
+House Bill 576-Second Edition Page 9
+General Assembly Of North Carolina Session 2025
+1
+2 DESIGNATE THE NC OFFICE OF EMERGENCY MEDICAL SERVICES AS THE
+3 ENTITY RESPONSIBLE FOR APPROVING INDIVIDUALS TO ADMINISTER
+4 EPINEPHRINE
+5 SECTION 3.5. G.S. 143-509 reads as rewritten:
+6 "§ 143-509. Powers and duties of Secretary.
+7 The Secretary of the Department of Health and Human Services has full responsibilities for
+8 supervision and direction of the emergency medical services program and, to that end, shall
+9 accomplish all of the following:
+10 …
+11 (9) Promote a means of training individuals to administer life-saving treatment to
+12 persons who suffer a severe adverse reaction to agents that might cause
+13 anaphylaxis. Individuals, upon successful completion of this training
+14 program, may be approved by the North Carolina Medical Care Commission
+15 Office of Emergency Medical Services to administer epinephrine to these
+16 persons, in the absence of the availability of physicians or other practitioners
+17 who are authorized to administer the treatment. This training may also be
+18 offered as part of the emergency medical services training program.
+19 …."
+20
+21 PART IV. LAWS PERTAINING TO THE DIVISION OF PUBLIC HEALTH
+22
+23 REVISE THE COMPOSITION OF LOCAL CHILD FATALITY REVIEW TEAMS TO
+24 SUPPORT GREATER EFFICIENCY
+25 SECTION 4.1. G.S. 7B-1407 reads as rewritten:
+26 "§ 7B-1407. Local Teams; composition and leadership.
+27 …
+28 (b) Each Local Team shall consist of the following persons:
+29 (1) The director of the county department of social services or the director of the
+30 consolidated human services agency and a member of the director's
+31 staff.agency, or the director's designee, who shall be a member of senior
+32 management.
+33 (1a) A staff member of the county department of social services or of the
+34 consolidated human services agency, appointed by the county department of
+35 social services or the consolidated human services agency.
+36 (2) A local law enforcement officer, appointed by the board of county
+37 commissioners.
+38 (3) An attorney from the district attorney's office, appointed by the district
+39 attorney.
+40 (4) The executive director of the local community action agency, as defined by
+41 the Department of Health and Human Services, or the executive director's
+42 designee.
+43 (5) The superintendent of each local school administrative unit located in the
+44 county, or the superintendent's designee.
+45 (6) A member of the county board of social services, appointed by the chair of
+46 that board.
+47 (7) A local mental health professional, appointed by the director of the area
+48 authority established under Chapter 122C of the General Statutes.
+49 (8) The local guardian ad litem coordinator, or the coordinator's designee.
+50 (9) The director of the local department of public health.health, or the director's
+51 designee, who shall be a member of senior management.
+Page 10 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (10) A local health care provider, appointed by the local board of health.
+2 (11) An emergency medical services provider or firefighter, appointed by the board
+3 of county commissioners.
+4 (12) A district court judge, appointed by the chief district court judge in that
+5 district.
+6 (13) A county medical examiner, appointed by the Chief Medical Examiner.
+7 (14) A representative of a local child care facility or Head Start program, appointed
+8 by the director of the county department of social services.
+9 (15) A parent of a child who died before reaching the child's eighteenth birthday,
+10 to be appointed by the board of county commissioners.
+11 (c) The chair of the Local Team may invite a maximum of five additional individuals to
+12 participate on the Local Team on an ad hoc basis for a specific review if the chair believes the
+13 individual's subject matter expertise or position within an organization will enhance the ability
+14 of the Local Team to conduct an effective review. The chair may select ad hoc members from
+15 outside of the county or counties served by the Local Team. As a condition of participating in a
+16 specific review, each ad hoc member is required to sign the same confidentiality statement signed
+17 by a Local Team member and is subject to the provisions of G.S. 7B-1413.
+18 …."
+19
+20 REMOVE ERRONEOUS REFERENCES TO THE COMMISSION FOR PUBLIC
+21 HEALTH FROM STATUTES GOVERNING THE STATEWIDE CHEMICAL
+22 ALCOHOL TESTING PROGRAM ADMINISTERED BY THE FORENSIC TESTS FOR
+23 ALCOHOL BRANCH
+24 SECTION 4.2.(a) G.S. 15A-534.2(d) reads as rewritten:
+25 "(d) In making his a determination about whether a defendant detained under this section
+26 remains impaired, the judicial official may request that the defendant submit to periodic tests to
+27 determine his the defendant's alcohol concentration. Instruments acceptable for making
+28 preliminary breath tests under G.S. 20-16.3 may be used for this purpose as well as instruments
+29 for making evidentiary chemical analyses. Unless there is evidence that the defendant is still
+30 impaired from a combination of alcohol and some other impairing substance or condition, a
+31 judicial official must is required to determine that a defendant with an alcohol concentration less
+32 than 0.05 is no longer impaired. The results of any periodic test to determine alcohol
+33 concentration may not be introduced in evidence:into evidence in either of the following
+34 circumstances:
+35 (1) Against the defendant by the State in any criminal, civil, or administrative
+36 proceeding arising out of an offense involving impaired driving; ordriving.
+37 (2) For any purpose in any proceeding if the test was not performed by a method
+38 approved by the Commission for Public Health Department of Health and
+39 Human Services under G.S. 20-139.1 and by a person licensed to administer
+40 the test by the Department of Health and Human Services.
+41 The fact that a defendant refused to comply with a judicial official's request that he submit to a
+42 chemical analysis may not be admitted into evidence in any criminal action, administrative
+43 proceeding, or a civil action to review a decision reached by an administrative agency in which
+44 the defendant is a party."
+45 SECTION 4.2.(b) G.S. 20-138.7(d) reads as rewritten:
+46 "(d) Alcohol Screening Test. – Notwithstanding any other provision of law, an alcohol
+47 screening test may be administered to a driver suspected of violating subsection (a) of this
+48 section, and the results of an alcohol screening test or the driver's refusal to submit may be used
+49 by a law enforcement officer, a court, or an administrative agency in determining if alcohol was
+50 present in the driver's body. No alcohol screening tests are valid under this section unless the
+51 device used is one approved by the Commission for Public Health, Department of Health and
+House Bill 576-Second Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 Human Services, and the screening test is conducted in accordance with the applicable
+2 regulations of the Commission rules adopted by the Department of Health and Human Services
+3 as to the manner of its use."
+4
+5 REMOVE REFERENCES TO THE NORTH CAROLINA MEDICAL SOCIETY'S
+6 DEFUNCT CANCER COMMITTEE
+7 SECTION 4.3.(a) G.S. 130A-33.50 reads as rewritten:
+8 "§ 130A-33.50. Advisory Committee on Cancer Coordination and Control established;
+9 membership, compensation.
+10 …
+11 (b) The Committee shall have consist of up to 34 members, including the Secretary of the
+12 Department or the Secretary's designee. The members of the Committee shall elect a chair and
+13 vice-chair from among the Committee membership. The Committee shall meet not more than
+14 twice a year at the call of the chair. Six of the members shall be legislators, three of whom shall
+15 be appointed by the Speaker of the House of Representatives, and three of whom shall be
+16 appointed by the President Pro Tempore of the Senate. Four of the members shall be cancer
+17 survivors, two of whom shall be appointed by the Speaker of the House of Representatives, and
+18 two of whom shall be appointed by the President Pro Tempore of the Senate. The remainder of
+19 the members shall be appointed by the Governor as follows:
+20 (1) One member from the Department of Environmental Quality;Quality.
+21 (2) Three members, one from each of the following: the Department, the
+22 Department of Public Instruction, and the North Carolina Community College
+23 System;System.
+24 (3) Four members representing the cancer control programs at North Carolina
+25 medical schools, one from each of the following: the University of North
+26 Carolina at Chapel Hill School of Medicine, the Bowman Gray School of
+27 Medicine, the Duke University School of Medicine, and the East Carolina
+28 University School of Medicine;Medicine.
+29 (4) One member who is an oncology nurse representing the North Carolina
+30 Nurses Association;Association.
+31 (5) One member representing the Cancer Committee of the North Carolina
+32 Medical Society;Society.
+33 (6) One member representing the Old North State Medical Society;Society.
+34 (7) One member representing the American Cancer Society, North Carolina
+35 Division, Inc.;Division, Inc.
+36 (8) One member representing the North Carolina Hospital
+37 Association;Association.
+38 (9) One member representing the North Carolina Association of Local Health
+39 Directors;Directors.
+40 (10) One member who is a primary care physician licensed to practice medicine in
+41 North Carolina;North Carolina.
+42 (11) One member representing the American College of Surgeons;Surgeons.
+43 (12) One member representing the North Carolina Oncology Society;Society.
+44 (13) One member representing the Association of North Carolina Cancer
+45 Registrars;Registrars.
+46 (14) One member representing the Medical Directors of the North Carolina
+47 Association of Health Plans; andPlans.
+48 (15) Up to four additional members at large.
+49 Except for the Secretary, the members shall be appointed for staggered four-year terms and
+50 until their successors are appointed and qualify. The Governor may remove any member of the
+51 Committee from office in accordance with the provisions of G.S. 143B-13. Members may
+Page 12 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1 succeed themselves for one term and may be appointed again after being off the Committee for
+2 one term.
+3 …."
+4 SECTION 4.3.(b) G.S. 130A-213 reads as rewritten:
+5 "§ 130A-213. Cancer Committee of the North Carolina Medical Society.Consultation with
+6 the Advisory Committee on Cancer Coordination and Control.
+7 In implementing this Part, the Department shall consult with the Cancer Committee of the
+8 North Carolina Medical Society. The Committee shall consist of at least one physician from each
+9 congressional district. Advisory Committee on Cancer Coordination and Control established by
+10 G.S. 130A-33.50. Any proposed rules or reports affecting the operation of the cancer control
+11 program shall be reviewed by the Committee for comment prior to adoption."
+12
+13 AUTHORIZE LOCAL REGISTRARS AT LOCAL HEALTH DEPARTMENTS TO
+14 REMOVE OUTDATED REFERENCES TO PAPER FORMAT VITAL RECORDS
+15 SECTION 4.4. G.S. 130A-97 reads as rewritten:
+16 "§ 130A-97. Duties of local registrars.
+17 The local registrar shall:shall do all of the following:
+18 (1) Administer and enforce provisions of this Article and the rules, and
+19 immediately report any violation to the State Registrar;Registrar.
+20 (2) Furnish certificate forms and instructions supplied by the State Registrar to
+21 persons who require them;them.
+22 (3) Examine each certificate when submitted to determine if it has been completed
+23 in accordance with the provisions of this Article and the rules. If a certificate
+24 is incomplete or unsatisfactory, the responsible person shall be notified and
+25 required to furnish the necessary information. All birth and death certificates
+26 shall be typed or written legibly prepared in permanent black, blue-black, or
+27 blue ink;black ink.
+28 (4) Enter the date on which a certificate is received and sign Sign and date as local
+29 registrar;registrar using the registration method prescribed by the State
+30 Registrar.
+31 (5) Transmit Using the registration method prescribed by the State Registrar,
+32 transmit to the register of deeds of the county a copy of each certificate
+33 registered within seven days of after receipt of a birth or death certificate. The
+34 copy transmitted transmittal shall include the race of the father and mother if
+35 that information is contained on the State copy of in the State Record of the
+36 certificate of live birth. Copies transmitted may be on blanks furnished by the
+37 State Registrar or may be photocopies made in a manner approved by the
+38 register of deeds. The local registrar may also keep a copy of each certificate
+39 for no more than two years;years.
+40 (6) On the fifth day of each month or more often, if requested, send to the State
+41 Registrar all original certificates registered during the preceding month;
+42 andmonth.
+43 (7) Maintain records, make reports and perform other duties required by the State
+44 Registrar."
+45
+46 ALIGN STATE LAW WITH UPDATED FEDERAL GUIDELINES CONCERNING THE
+47 COMMUNICATION OF MAMMOGRAPHIC INFORMATION TO PATIENTS
+48 SECTION 4.5. G.S. 130A-215.5 reads as rewritten:
+49 "§ 130A-215.5. Communication of mammographic breast density information to patients.
+50 (a) All health care facilities that perform mammography examinations shall include in
+51 the summary of the mammography report, required by federal law to be provided to a patient,
+House Bill 576-Second Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 information that identifies the patient's individual breast density classification based on the Breast
+2 Imaging Reporting and Data System established by the American College of Radiology. If the
+3 facility determines that a patient has heterogeneously or extremely dense breasts, the summary
+4 of the mammography report shall include the following notice:
+5 "Your mammogram indicates that you may have dense breast tissue. Dense breast tissue is
+6 relatively common and is found in more than forty percent (40%) of women. The presence of
+7 dense tissue may make it more difficult to detect abnormalities in the breast and may be
+8 associated with an increased risk of breast cancer. We are providing this information to raise your
+9 awareness of this important factor and to encourage you to talk with your physician about this
+10 and other breast cancer risk factors. Together, you can decide which screening options are right
+11 for you. A report of your results was sent to your physician.provide each patient with a summary
+12 of the mammography report in language understandable by a layperson that includes an
+13 assessment of the patient's breast density.
+14 (a1) Each health care facility that provides a mammography report to a patient following
+15 a mammography examination shall include in the report information about breast density based
+16 on the patient's mammogram that is consistent with the federal regulations issued by the United
+17 States Food and Drug Administration pursuant to the Mammography Quality Standards Act, 42
+18 U.S.C. § 263b, et seq., as from time to time amended. If a health care facility determines that a
+19 patient has heterogeneously or extremely dense breasts, the report provided to the patient shall
+20 communicate all of the following information:
+21 (1) Breast tissue can be either dense or not dense.
+22 (2) Dense breast tissue makes it harder to find breast cancer on a mammogram
+23 and also increases the risk of developing breast cancer.
+24 (3) In some people with dense breast tissue, other imaging tests in addition to a
+25 mammogram may help find cancers.
+26 (4) Patients with dense breast tissue should talk to their healthcare provider about
+27 breast density, risks for breast cancer, and their individual situation.
+28 (b) Patients Health care facilities may direct patients who receive diagnostic or screening
+29 mammograms may be directed to informative material about breast density. This informative
+30 material may include the American College of Radiology's most current brochure on the subject
+31 of breast density."
+32
+33 EXTEND THE OPTION FOR NORTH CAROLINIANS TO DONATE A PORTION OF
+34 THEIR TAX REFUNDS TO THE BREAST AND CERVICAL CANCER CONTROL
+35 PROGRAM
+36 SECTION 4.6. G.S. 105-269.8 reads as rewritten:
+37 "§ 105-269.8. Contribution by individual for early detection of breast and cervical cancer.
+38 (a) Contribution. – An individual entitled to a refund of income taxes under Part 2 of
+39 Article 4 of this Chapter may elect to contribute all or part of the refund to be used for early
+40 detection of breast and cervical cancer at the Cancer Prevention and Control Branch of the
+41 Division of Public Health of the Department of Health and Human Services. The Secretary shall
+42 provide appropriate language and space on the individual income tax form in which to make the
+43 election. The Secretary shall include in the income tax instructions an explanation that the
+44 contributions will be used for early detection of breast and cervical cancer only. The election
+45 becomes irrevocable upon filing the individual's income tax return for the taxable year.
+46 (b) Distribution. – The Secretary shall transmit the contributions made pursuant to this
+47 section to the State Treasurer to be distributed for early detection of breast and cervical cancer.
+48 The State Treasurer shall distribute the contributions to the Cancer Prevention and Control
+49 Branch of the Division of Public Health of the Department of Health and Human Services. Funds
+50 distributed pursuant to this section shall be used only for early detection of breast and cervical
+Page 14 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1 cancer and shall be used in accordance with North Carolina's Breast and Cervical Cancer Control
+2 Program's policies and procedures.
+3 (c) Sunset. – This section expires for taxable years beginning on or after January 1,
+4 2026.January 1, 2030."
+5
+6 PART V. LAWS PERTAINING TO THE DIVISION OF SOCIAL SERVICES
+7
+8 AUTHORIZE MAGISTRATES TO ACCEPT FOR FILING PETITIONS FOR ADULT
+9 PROTECTIVE SERVICES EMERGENCY ORDERS AFTER BUSINESS HOURS AND
+10 TO HEAR EX PARTE MOTIONS REGARDING THESE PETITIONS WHEN A
+11 DISTRICT COURT JUDGE IS UNAVAILABLE
+12 SECTION 5.1. Article 6 of Chapter 108A of the General Statutes is amended by
+13 adding the following new sections to read:
+14 "§ 108A-106.1. Immediate need for petition for emergency services when clerk's office is
+15 closed.
+16 (a) When the office of the clerk is closed, a magistrate shall accept for filing a petition
+17 for an order authorizing the provision of emergency services to a disabled adult and shall note
+18 the date of the filing.
+19 (b) The authority of the magistrate under this section is limited to emergency situations
+20 in which a petition is filed under G.S. 108A-106 seeking an order ex parte for the provision of
+21 emergency services to a disabled adult. Any magistrate who accepts a petition for filing under
+22 this section shall deliver the petition to the clerk's office for processing as soon as that office is
+23 open for business.
+24 "§ 108A-106.2. Ex parte emergency orders by authorized magistrate.
+25 (a) The chief district court judge may authorize one or more magistrates to hear ex parte
+26 motions for the provision of emergency services to disabled adults and issue a show-cause notice
+27 in the order as required by G.S. 108A-106(d). A magistrate may proceed with hearing a motion
+28 ex parte and issuing a show-cause notice under this subsection only if, prior to the hearing, the
+29 magistrate determines that at the time the party is seeking emergency services ex parte the district
+30 court is not in session and a district court judge is not and will not be available to hear the motion.
+31 (b) An authorized magistrate that issues an ex parte order under this section shall deliver
+32 the signed order to the clerk's office for processing as soon as that office is open for business.
+33 (c) All authorizations for ex parte orders for emergency services may be made by
+34 telephone when other means of communication are impractical. A copy of the petition for an
+35 order authorizing the provision of emergency services shall be provided to the district court judge
+36 or the authorized magistrate by any appropriate method, including hand delivery, facsimile, or
+37 electronic means. All written orders pursuant to telephonic communication shall bear the name
+38 and the title of the director, the name and the title of the district court judge or authorized
+39 magistrate issuing the ex parte order, the hour and date of the telephonic authorization, and the
+40 signature and the title of the clerk or magistrate receiving the authorization and entering the order
+41 and who accepted the petition for filing."
+42
+43 ALIGN STATE LAW WITH THE FEDERAL PROHIBITION ON CONDITIONAL
+44 EMPLOYMENT OF APPLICANTS OF CHILD CARE INSTITUTIONS PRIOR TO
+45 OBTAINING CRIMINAL HISTORY RECORD CHECK RESULTS
+46 SECTION 5.2. G.S. 108A-150(g) reads as rewritten:
+47 "(g) Conditional Employment. – A child care institution may shall not employ an applicant
+48 conditionally prior to obtaining the results of a criminal history record check regarding the
+49 applicant if both of the following requirements are met:applicant.
+50 (1) The child care institution shall not employ an applicant prior to obtaining the
+51 applicant's consent for a criminal history record check as required in
+House Bill 576-Second Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 subsection (b) of this section or the completed fingerprint cards as required in
+2 G.S. 143B-1209.53.
+3 (2) The child care institution shall submit the request for a criminal history record
+4 check not later than five business days after the individual begins conditional
+5 employment."
+6
+7 ALIGN DISSEMINATION OF BACKGROUND CHECK INFORMATION FOR
+8 PROSPECTIVE ADOPTIVE AND FOSTER CARE PARENTS WITH FEDERAL
+9 POLICY, LAW, AND STANDARDS
+10 SECTION 5.3.(a) G.S. 48-3-309(e) reads as rewritten:
+11 "(e) The Department shall notify the prospective adoptive parent's supervising county
+12 department of social services of the results of the criminal history check. In accordance with the
+13 federal and State law regulating the dissemination of the contents of the criminal history file, the
+14 Department shall not release or disclose any portion of an individual's criminal history to the
+15 prospective adoptive parent or any other individual required to be checked. the Department may
+16 provide the prospective adoptive parent or any other individual required to submit to a criminal
+17 history record check pursuant to subsection (a) of this section a copy of that applicant's criminal
+18 history information for the purpose of reviewing or challenging the accuracy of the criminal
+19 history. The Department, however, Department shall ensure that the prospective adoptive parent
+20 or any other individual required to be checked pursuant to subsection (a) of this section is notified
+21 of the individual's right to review the criminal history information, the procedure for completing
+22 or challenging the accuracy of the criminal history, and the prospective adoptive parent's right to
+23 contest the preplacement assessment of the county department of social services. Public child
+24 placing agencies, including supervising county departments of social services, are required to
+25 have an employee on staff that is trained and certified to receive criminal history record
+26 information to the extent required by federal policy, law, and standards.
+27 A prospective adoptive parent who disagrees with the preplacement assessment of the county
+28 department of social services may request a review of the assessment pursuant to
+29 G.S. 48-3-308(a)."
+30 SECTION 5.3.(b) G.S. 131D-10.3A(f) reads as rewritten:
+31 "(f) The Department shall notify in writing the foster parent and any person applying to
+32 be licensed as a foster parent, and that individual's supervising agency parent of the determination
+33 by the Department of whether the foster parent or prospective foster parent is qualified to provide
+34 foster care based on the criminal history of all individuals required to be checked. In accordance
+35 with the law regulating the dissemination of the contents of the criminal history file furnished by
+36 the Federal Bureau of Investigation, the Department shall not release nor disclose any portion of
+37 an individual's criminal history to the foster parent or any other individual required to be checked.
+38 checked pursuant to subsection (a) of this section. The Department may provide the foster parent,
+39 prospective foster parent, or any other individual required to be checked pursuant to subsection
+40 (a) of this section with a copy of that applicant's criminal history information for the purpose of
+41 reviewing or challenging the accuracy of the criminal history. The Department shall also notify
+42 the each individual required to be checked pursuant to subsection (a) of this section of the
+43 individual's right to review the criminal history information, the procedure for completing or
+44 challenging the accuracy of the criminal history, and the foster parent's or prospective foster
+45 parent's right to contest the Department's determination. Public child placing agencies, including
+46 supervising county departments of social services, are required to have an employee on staff that
+47 is trained and certified to receive criminal history record information to the extent required by
+48 federal policy, law and standards.
+49 A foster parent or prospective foster parent who disagrees with the Department's decision
+50 may request a hearing pursuant to Chapter 150B of the General Statutes, the Administrative
+51 Procedure Act."
+Page 16 House Bill 576-Second Edition
+General Assembly Of North Carolina Session 2025
+1
+2 PART VI. LAWS PERTAINING TO THE DIVISION OF STATE-OPERATED
+3 HEALTHCARE FACILITIES
+4
+5 SUPPORT IMPLEMENTATION OF CAPACITY RESTORATION PILOT PROGRAMS
+6 SECTION 6.1. Part 6 of Article 5 of Chapter 122C of the General Statutes is
+7 amended by adding a new section to read:
+8 "§ 122C-256. Capacity restoration pilot programs.
+9 (a) The following definitions apply in this section:
+10 (1) CBCRP. – Community-based capacity restoration program.
+11 (2) DCCRP. – Detention center capacity restoration program.
+12 (b) Community-Based Capacity Restoration Program. – The Department or an
+13 LME/MCO may contract for three or more CBCRPs. CBCRPs may be county-based or
+14 regionally based. If regionally based, a CBCRP shall align with the State-operated psychiatric
+15 hospital within closest proximity. The Department may consult with one or more LME/MCOs
+16 for the purposes of contracting for CBCRPs under this subsection.
+17 (c) Detention Center Capacity Restoration Program. – The Department or an LME/MCO,
+18 in consultation and with the consent of relevant sheriffs, may contract for up to three DCCRPs.
+19 DCCRPs may be county-based or regionally based. All county sheriffs choosing to participate in
+20 a regional program must enter into an operational agreement with the sheriff hosting the regional
+21 program prior to referring defendants to the program. A regionally based DCCRP shall align with
+22 the State-operated psychiatric hospital within closest proximity. The Department may consult
+23 with one or more LME/MCOs for the purposes of contracting for DCCRPs under this subsection.
+24 (d) Judicial Discretion. – A court may order capacity restoration to be completed at a
+25 CBCRP or DCCRP as an alternative to a State-operated psychiatric hospital for individuals
+26 recommended for participation in CBCRP or DCCRP by a forensic evaluator."
+27
+28 PART VII. EFFECTIVE DATE
+29 SECTION 7.1. Except as otherwise provided, this act is effective when it becomes
+30 law.
+House Bill 576-Second Edition Page 17
+[DELETED:  2 D (   A A L T  P I L P T T D O C A F W  D S S " T S c ( S c ( P ( I n ( S ( P ( P a ( P s ( P h ( B e  P  T E O T D M E B S 2]
+[DELETED:  S  H " 1  N G a i a w G t b t c b J 3 2 2 t u t f f m e d I a w G G t e a  C E I M M C A R F S " ( C t … ( R w a i o p U t r r f p t e u t s s c t a f a p f a T r i M e c p p r b T ( R e h b s U t r r f i a f a T r i M e c p p r b T … S i a  C N C L T F R F M S " ( P p ( E f e i M i a f a n p l a a r o o l ( L a …]
+[DELETED:  S  P ( H p o b a I H P ( P a d a t I H S p t T V o t I H C I … ( N I ( S o … ( P o n p ( p i n p C p a p e o t s p c a a o a o d a o … ( L a s ( M a … ( P … ( R n … ( S ( ( M a a " m c l o r t D s c s t a ( H h ( P ( e P o n e a c h … ( P ( e P o n e a p a … ( P ( e P o n e a p t w a b t f C f M a M S ( P ( e P o n e a p ( P ( e P o n e a p]
+[DELETED:  S  H ( P a w w t D h i a p s C r t … ( P o p r f M i t p 1 p T D 1 m a t c o t p r o t f o … ( S t ( H a f ( D p a M t D m r o t r o t p s p ( O r o t p s p b t M a o C H I ( S n o l S r " … ( L d … ( B h a i a d d p a t a n a b a e a b t S t … ( P … ( M d … ( H t … ( R a c h d M s t]
+[DELETED:  S  P ( R a p d m e i o a p u t m t d i s ( R a p n h h o c s p t w a b t f C U t ( R c m … ( P … ( H – d … ( P o n e h o a r h ( T s n e a ( f w f r a a n e p w w d t a n s o l e a O c b t S A a M H S A b A a c A d A s e H … S 2  C M S R I M C E S " ( A a g a N t a s i a c f a m a p f h c i o s f r a t]
+[DELETED:  S  H M s s t T u t n o ( I t a o t M c d n e o o t m a b g r i i p t t g r i c e o ( A m a b m d t p e i s ( o t s b a t t c i w t m a b c r t r c f t M c A a u t s C a n M s T f ( T c r c f t M c i l t t p p ( T s b t f t t m a b w n a t r ( I s t o D D s i ( I o p p t s ( o t s t t D D s ( N t t r t r c f t M c I s a a i r o]
+[DELETED:  S  P ( W c d i s ( o t s t m a b o a a P ( T o a D ( I ( p o r o r s b p t t D D o d t ( I n t a I o s h r d b I t b f t r t p a u s s h r d ( I t t a a a p w t c o a o h m r w b ( T n s m ( I u s a ( ( c ( A c t s]
+[DELETED:  S  H S M d  P I L P T T D O H S R  A U T S O T U S D O V S " T l ( F l u C 1 o C 1 o t G S ( P P ( F t ( F t m n c f h a o p c s ( I w f  A T D O H A H S T I R O F B T B O A A U S " T p i w a f e d v S " ( N i p o c ( T f ( A l]
+[DELETED:  S  P ( A i ( A i o c t e c m o o a f a f a o f i i o i v o A E d o a c v a c ( I S s c ( A G S o  A H R R U T H V P A W T H L R A S " D o H S R – T D o H S R S " ( A e a c o i t h o o h g t r t i o l e p i h n b ( T D o H a H S s c t i r b s ( s a s s t d w t N C S E t h ( T t s a r f a r t t J L O C  R S 3  P 6 o A 6 o C 1 o t G S i r]
+[DELETED:  S  H  D T N O O E M S A T E R F A I T A E S " T s a … ( P p w s a s a r t a t m c a I u s c o t t p O o M S t a t t p w o …  P  R S S " … ( E ( T c h s a a a m o t d s o t d d w s b a m o s m ( A s m o t c d o s s o o t c s ( A l l e o a b t b o c c ( A a f t d a o a b t d a ( T t d ( T c ( A t ( A l m h p a b t d o t a a ( T ( T d]
+[DELETED:  S  P ( A ( A o ( A d c j a b t c d c j i t d ( A ( A b ( A t ( T p i o o s b …  R E R T T C F P H F S G T S C A A S " I r d h t d a c I a f m p f i j t 0 i n l i T r o a p t t d a c m n b i i e e i e o t f c ( A p ( F a H t T c a m n b a i e i a c a a p t S " A s t m b a t a d o s ( s b p d]
+[DELETED:  S  H H S a t s t i c i a w t a r a  R R T T N C M S D S " m … ( T D v t b a b t S o t H o R a t o w s b a s t t ( O ( T m o f e o t f t D t D S ( F m C M U ( O m w i a o n r t N C N ( O m r t C C o t N C M ( O ( O m r t A C S N C D ( O m r t N C H A ( O D ( O N ( O ( O ( O m r t A o N C C R ( O m r t M D o t N C A ( U E u C f o i a w t p o G M m]
+[DELETED:  S  P s o … S " t I N c G p  A L R A L H D T R S " T ( A a e p o t A a t r a i ( F p ( E i i r s b ( E r u t r m p b t S R ( T U t r m p b t S R t t t r o d o t c a c o e c r c t c S r f ( O R a o c r d t p m a ( M R  A C S " ( A t]
+[DELETED:  S  H i I f o " r d t m m i m d t d a i t b a m b a a a f o t m r i l u b a l t i a a ( E a o S U p c ( B ( D a ( I m ( P b ( P m m o  E T T R T T B A C C C P S " ( C A d c D p e T S s i i t i t i a e t t c b ( D s T S T s d t c t t C P a C B d]
+[DELETED:  S  P c P ( S y J 2  P  A P T H E P M R T P W A D S a " c ( W f t ( T i e t o " ( T m i e m c ( A t ( A a f e p o f e s m b m b t o o e a t j m s a  A S L W T F P O C E O A O C C I P T O S " C c p t o t r o c h r c r t a ( T a c f a c h r c a r i]
+[DELETED:  S  H s G ( T c e  A D O B C I F P A A F C P W F P S " T d f D p p h h h o o o c p h a e o s t i t a c t r c h r i A d o s s m r a r o t a p t G S " T b b f w t a c p ( r t e i r t b c p t s ( s o i c p s i f A m P]
+[DELETED:  S  P  P V L P T T D O S H  S S 6  P 6 o A 5 o C 1 o t G S i a " ( T ( C ( D ( C C R P – T D o a L m c f t o m C C m b c o r h f ( D i D a p t w ( J C r  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 576
+Committee Substitute Favorable 4/15/25
+Short Title: Dept. of Health and Human Services Revisions.-AB (Public)
+Sponsors:
+Referred to:
+April 1, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT MAKING TECHNICAL, CONFORMING, AND OTHER MODIFICATIONS TO
+3 LAWS PERTAINING TO THE DEPARTMENT OF HEALTH AND HUMAN SERVICES.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. LAWS PERTAINING TO THE DIVISION OF CHILD AND FAMILY
+7 WELL-BEING
+8
+9 DESIGNATE THE DEPARTMENT OF HEALTH AND HUMAN SERVICES AS THE
+10 STATE AGENCY RESPONSIBLE FOR MANAGING SCHOOL NURSE FUNDS
+11 SECTION 1.1. G.S. 130A-4.3(b) reads as rewritten:
+12 "(b) The Division of Public Health Department shall ensure that school nurses funded with
+13 State funds (i) do not assist in any instructional or administrative duties associated with a school's
+14 curriculum and (ii) perform all of the following with respect to school health programs:
+15 (1) Serve as the coordinator of the health services program and provide nursing
+16 care.
+17 (2) Provide health education to students, staff, and parents.
+18 (3) Identify health and safety concerns in the school environment and promote a
+19 nurturing school environment.
+20 (4) Support healthy food services programs.
+21 (5) Promote healthy physical education, sports policies, and practices.
+22 (6) Provide health counseling, assess mental health needs, provide interventions,
+23 and refer students to appropriate school staff or community agencies.
+24 (7) Promote community involvement in assuring a healthy school and serve as
+25 school liaison to a health advisory committee.
+26 (8) Provide health education and counseling and promote healthy activities and a
+27 healthy environment for school staff.
+28 (9) Be available to assist the county health department during a public health
+29 emergency."
+30
+31 PART II. LAWS PERTAINING TO THE DIVISION OF HEALTH BENEFITS
+32
+33 TEMPORARILY EXTEND OPTION TO DECREASE MEDICAID ENROLLMENT
+34 BURDEN ON COUNTY DEPARTMENTS OF SOCIAL SERVICES
+35 SECTION 2.1. Section 1.8(a) of S.L. 2023-7, as amended by Section 9(a) of S.L.
+36 2024-34, reads as rewritten:
+*H576-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 "SECTION 1.8.(a) Notwithstanding G.S. 108A-54(d) and in accordance with
+2 G.S. 143B-24(b), the Department of Health and Human Services (DHHS) is authorized, on a
+3 temporary basis to conclude by June 30, 2025, 2028, to utilize the federally facilitated
+4 marketplace (Marketplace), also known as the federal health benefit exchange, to make Medicaid
+5 eligibility determinations. In accordance with G.S. 108A-54(b), G.S. 108A-54(f), these
+6 eligibility determinations shall be in compliance with all eligibility categories, resource limits,
+7 and income thresholds set by the General Assembly."
+8
+9 CLARIFY ENROLLMENT IN MEDICAID MANAGED CARE AFTER RELEASE
+10 FROM INCARCERATION
+11 SECTION 2.2.(a) G.S. 108D-40 reads as rewritten:
+12 "§ 108D-40. Populations covered by PHPs.
+13 (a) Capitated PHP contracts shall cover all Medicaid program aid categories except for
+14 the following categories:
+15 …
+16 (9) Recipients who are inmates of prisons. Upon the recipient's release from
+17 prison, the exception under this subdivision shall continue to apply for a
+18 period that is the shorter of the following:until the first day of the month
+19 following the twelfth month after the recipient's release.
+20 a. The recipient's initial Medicaid eligibility certification period post
+21 release.
+22 b. Three hundred sixty-five days.
+23 (9a) Recipients residing in carceral settings other than prisons and whose Medicaid
+24 eligibility has been suspended. Upon the recipient's release from
+25 incarceration, the exception under this subdivision shall continue to apply for
+26 a period that is the shorter of the following:until the first day of the month
+27 following the twelfth month after the recipient's release.
+28 a. The recipient's initial Medicaid eligibility certification period post
+29 release.
+30 b. Three hundred sixty-five days.
+31 …."
+32 SECTION 2.2.(b) This section is effective when it becomes law and applies to (i)
+33 inmates released on or after that date and (ii) inmates released on or after January 1, 2025, who
+34 are not enrolled with a PHP on the date this act becomes law.
+35
+36 CONFORM NORTH CAROLINA LAW TO FEDERAL REQUIREMENTS FOR
+37 MEDICAID CATEGORICAL RISK LEVELS FOR PROVIDER SCREENINGS
+38 SECTION 2.3.(a) G.S. 108C-3 reads as rewritten:
+39 "§ 108C-3. Medicaid provider screening.
+40 (a) Provider Screening. – The Department shall conduct provider screening of Medicaid
+41 providers in accordance with applicable State or federal law or regulation.
+42 (b) Enrollment Screening. – The Department must screen all initial provider applications
+43 for enrollment in Medicaid, including applications for a new practice location, and all
+44 revalidation requests based on Department the Department's assessment of risk and assignment
+45 of the provider to a categorical risk level of "limited," "moderate," or "high." limited, moderate,
+46 or high. If a provider could fit within more than one risk level described in this section, the highest
+47 level of screening is applicable.
+48 (c) Limited Categorical Risk Provider Types. – The All of the following provider types
+49 are hereby designated as "limited" limited categorical risk:
+50 …
+Page 2 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Health programs operated by an Indian Health Program (as Program, as
+2 defined in section 4(12) of the Indian Health Care Improvement Act) Act, or
+3 an urban Indian organization (as organization, as defined in section 4(29) of
+4 the Indian Health Care Improvement Act) Act, that receives funding from the
+5 Indian Health Service pursuant to Title V of the Indian Health Care
+6 Improvement Act.
+7 …
+8 (10) Nursing facilities, including Intermediate Care Facilities for Individuals with
+9 Intellectual Disabilities.Disabilities, that are not skilled nursing facilities.
+10 (10a) Skilled nursing facilities that are limited categorical risk under subsection (k)
+11 of this section.
+12 …
+13 (12) Physician or nonphysician practitioners (including practitioners, including
+14 nurse practitioners, CRNAs, physician assistants, physician extenders,
+15 occupational therapists, speech/language pathologists, chiropractors, and
+16 audiologists), optometrists, audiologists; optometrists; dentists and
+17 orthodontists, orthodontists; and medical groups or clinics.
+18 …
+19 (d) Limited Categorical Risk Screenings. – When the Department designates a provider
+20 as a "limited" limited categorical level of risk, the Department shall conduct such the applicable
+21 screening functions as required by federal law.
+22 (e) Moderate Categorical Risk Provider Types. – The All of the following provider types
+23 are hereby designated as "moderate" moderate categorical risk:
+24 …
+25 (8) Pharmacy Services.services.
+26 …
+27 (11) Revalidating agencies providing durable medical equipment, including, but
+28 not limited to, including orthotics and prosthetics.
+29 …
+30 (15) Skilled nursing facilities that are moderate categorical risk under subsection
+31 (k) of this section.
+32 (f) Moderate Categorical Risk Screenings. – When the Department designates a provider
+33 as a "moderate"' moderate categorical level of risk, the Department shall conduct such the
+34 applicable screening functions as required by federal law and regulation.
+35 (g) High Categorical Risk Provider Types. – The All of the following provider types are
+36 hereby designated as "high" high categorical risk:
+37 (1) Prospective (newly enrolling) Prospective, or newly enrolling, adult care
+38 homes delivering Medicaid-reimbursed services.
+39 …
+40 (4) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+41 providing durable medical equipment, including, but not limited to, orthotics
+42 and prosthetics.
+43 …
+44 (6) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+45 providing nonbehavioral health home- or community-based services pursuant
+46 to waivers authorized by the federal Centers for Medicare and Medicaid
+47 Services under 42 U.S.C. § 1396n(c).
+48 (7) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+49 providing personal care services or in-home care services.
+50 (8) Prospective (newly enrolling) Prospective, or newly enrolling, agencies
+51 providing private duty nursing, home health, or home infusion.
+House Bill 576-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (9) Providers against whom which the Department has imposed a payment
+2 suspension based upon a credible allegation of fraud in accordance with 42
+3 C.F.R. § 455.23 within the previous 12-month period. The Department shall
+4 return the provider to its original risk category not later than 12 months after
+5 the cessation of the payment suspension.
+6 …
+7 (11) Providers who that have incurred a Medicaid final overpayment, assessment,
+8 or fine to the Department in excess of twenty percent (20%) of the provider's
+9 payments received from Medicaid in the previous 12-month period. The
+10 Department shall return the provider to its original risk category not later than
+11 12 months after the completion of the provider's repayment of the final
+12 overpayment, assessment, or fine.
+13 …
+14 (13) Skilled nursing facilities that are high categorical risk under subsection (k) of
+15 this section.
+16 (h) High Categorical Risk Screenings. – When the Department designates a provider as
+17 a "high" high categorical level of risk, the Department shall conduct such the applicable screening
+18 functions as required by federal law and regulation.
+19 (i) Dually-Enrolled Providers. – For providers dually enrolled in the federal Medicare
+20 program and Medicaid, the Department may rely on the results of the provider screening
+21 performed by Medicare contractors.
+22 (j) Out-of-State Providers. – For out-of-state providers, the Department may rely on the
+23 results of the provider screening performed by the Medicaid agencies or Children's Health
+24 Insurance Program agencies of other states.
+25 (k) Skilled Nursing Facilities. – The categorial risk level for provider screening of skilled
+26 nursing facilities is the categorical risk level required by federal law or regulation. If federal law
+27 or regulation does not require a particular categorical risk level, skilled nursing facilities are
+28 limited categorical risk."
+29 SECTION 2.3.(b) G.S. 108C-3, as amended by Section 2.3(a) of this act, reads as
+30 rewritten:
+31 "§ 108C-3. Medicaid provider screening.
+32 …
+33 (c) Limited Categorical Risk Provider Types. – All of the following provider types are
+34 designated as limited categorical risk:
+35 …
+36 (1a) Behavioral health and intellectual and developmental disability provider
+37 agencies that are nationally accredited by an entity approved by the
+38 Secretary.Secretary, unless they meet the description in subdivision (g)(15) of
+39 this section.
+40 …
+41 (16) Portable X-ray suppliers.
+42 …
+43 (e) Moderate Categorical Risk Provider Types. – All of the following provider types are
+44 designated as moderate categorical risk:
+45 …
+46 (5) Hospice organizations.Revalidating hospice organizations, unless they meet
+47 the description in subdivisions (g)(14) and (g)(15) of this section.
+48 …
+49 (10) Revalidating adult care homes delivering Medicaid-reimbursed
+50 services.services, unless they meet the description in subdivision (g)(15) of
+51 this section.
+Page 4 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (11) Revalidating agencies providing durable medical equipment, including
+2 orthotics and prosthetics.prosthetics, unless they meet the description in
+3 subdivision (g)(15) of this section.
+4 (12) Revalidating agencies providing nonbehavioral health home- or
+5 community-based services pursuant to waivers authorized by the federal
+6 Centers for Medicare and Medicaid Services under 42 U.S.C. § 1396n(c).42
+7 U.S.C. § 1396n(c), unless they meet the description in subdivision (g)(15) of
+8 this section.
+9 (13) Revalidating agencies providing private duty nursing, home health, personal
+10 care services or in-home care services, or home infusion.infusion, unless they
+11 meet the description in subdivision (g)(15) of this section.
+12 …
+13 (16) Portable X-ray suppliers.
+14 …
+15 (g) High Categorical Risk Provider Types. – All of the following provider types are
+16 designated as high categorical risk:
+17 …
+18 (14) Prospective, or newly enrolling, hospice organizations and revalidating
+19 hospice organizations undergoing a change in ownership.
+20 (15) The following revalidating providers (i) that are revalidating for the first time
+21 since newly enrolling and (ii) for which fingerprinting requirements, as a
+22 newly enrolling provider, were waived due to a national, state, or local
+23 emergency:
+24 a. Opioid treatment programs that have not been fully and continuously
+25 certified by the Substance Abuse and Mental Health Services
+26 Administration since October 23, 2018.
+27 b. Agencies providing durable medical equipment, including orthotics
+28 and prosthetics.
+29 c. Adult care homes delivering Medicaid-reimbursed services.
+30 d. Agencies providing private duty nursing, home health, personal care
+31 services, or in-home care services, or home infusion.
+32 e. Hospice organizations.
+33 …."
+34 SECTION 2.3.(c) Subsection (a) of this section is retroactively effective January 1,
+35 2023. The remainder of this section is retroactively effective January 1, 2024.
+36
+37 CLARIFY MEDICAID SUBROGATION RIGHTS IN MANAGED CARE
+38 ENVIRONMENT
+39 SECTION 2.4.(a) G.S. 108A-57 reads as rewritten:
+40 "§ 108A-57. Subrogation rights; withholding of information a misdemeanor.
+41 (a) As used in this section, the term "beneficiary" means (i) the beneficiary of medical
+42 assistance, including a minor beneficiary, (ii) the medical assistance beneficiary's parent, legal
+43 guardian, or personal representative, (iii) the medical assistance beneficiary's heirs, and (iv) the
+44 administrator or executor of the medical assistance beneficiary's estate.
+45 Notwithstanding any other provisions of the law, to the extent of payments under this Part,
+46 the State shall be subrogated to all rights of recovery, contractual or otherwise, of a beneficiary
+47 against any person. Any claim brought by a medical assistance beneficiary against a third party
+48 shall include a claim for all medical assistance payments for health care items or services
+49 furnished to the medical assistance beneficiary as a result of the injury or action, hereinafter
+50 referred to as the "Medicaid claim." Any claim brought by a medical assistance beneficiary
+51 against a third party that does not state the Medicaid claim shall be deemed to include the
+House Bill 576-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 Medicaid claim. If the beneficiary has claims against more than one third party related to the
+2 same injury, then any amount received in payment of the Medicaid claim related to that injury
+3 shall reduce the total balance of the Medicaid claim applicable to subsequent recoveries related
+4 to that injury.
+5 The Department may designate one or more PHPs to receive all or a portion of payments due
+6 under this section to the Department for the Medicaid claim by sending a notice of designation
+7 to (i) the beneficiary who has the claim against the third party and (ii) any PHP designated in the
+8 notice. As used in this section, the term "designated PHP" refers to a PHP designated in the notice
+9 of designation under this subsection.
+10 (a1) If the amount of the Medicaid claim does not exceed one-third of the medical
+11 assistance beneficiary's gross recovery, it is presumed that the gross recovery includes
+12 compensation for the full amount of the Medicaid claim. If the amount of the Medicaid claim
+13 exceeds one-third of the medical assistance beneficiary's gross recovery, it is presumed that
+14 one-third of the gross recovery represents compensation for the Medicaid claim.
+15 (a2) A medical assistance beneficiary may dispute the presumptions established in
+16 subsection (a1) of this section by applying to the court in which the medical assistance
+17 beneficiary's claim against the third party is pending, or if there is none, then to a court of
+18 competent jurisdiction in this State, for a determination of the portion of the beneficiary's gross
+19 recovery that represents compensation for the Medicaid claim. An application under this
+20 subsection shall be filed with the court and served on the Department pursuant to the Rules of
+21 Civil Procedure no later than 30 days after the date that the settlement agreement is executed by
+22 all parties and, if required, approved by the court, or in cases in which judgment has been entered,
+23 no later than 30 days after the date of entry of judgment. If a PHP made payments on behalf of a
+24 Medicaid beneficiary that are included in the Medicaid claim, then the application shall also be
+25 served on that PHP within the same time frame in which service is required on the Department.
+26 The court shall hold an evidentiary hearing no sooner than 60 days after the date the action was
+27 filed. All of the following shall apply to the court's determination under this subsection:
+28 (1) The medical assistance beneficiary has the burden of proving by clear and
+29 convincing evidence that the portion of the beneficiary's gross recovery that
+30 represents compensation for the Medicaid claim is less than the portion
+31 presumed under subsection (a1) of this section.
+32 (2) The presumption arising under subsection (a1) of this section is not rebutted
+33 solely by the fact that the medical assistance beneficiary was not able to
+34 recover the full amount of all claims.
+35 (3) If the beneficiary meets its burden of rebutting the presumption arising under
+36 subsection (a1) of this section, then the court shall determine the portion of
+37 the recovery that represents compensation for the Medicaid claim and shall
+38 order the beneficiary to pay the amount so determined to the Department
+39 Department, or designated PHP, in accordance with subsection (a5) of this
+40 section. In making this determination, the court may consider any factors that
+41 it deems just and reasonable.
+42 (4) If the beneficiary fails to rebut the presumption arising under subsection (a1)
+43 of this section, then the court shall order the beneficiary to pay the amount
+44 presumed pursuant to subsection (a1) of this section to the Department
+45 Department, or designated PHP, in accordance with subsection (a5) of this
+46 section.
+47 (a3) Notwithstanding the presumption arising pursuant to subsection (a1) of this section,
+48 the medical assistance beneficiary and the Department may reach an agreement on the portion of
+49 the recovery that represents compensation for the Medicaid claim. If such an agreement is
+50 reached after an application has been filed pursuant to subsection (a2) of this section, a stipulation
+51 of dismissal of the application signed by both parties shall be filed with the court.
+Page 6 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (a4) Within 30 days of receipt of the proceeds of a settlement or judgment related to a
+2 claim described in subsection (a) of this section, the medical assistance beneficiary or any
+3 attorney retained by the beneficiary shall notify the Department Department, and any designated
+4 PHP, of the receipt of the proceeds.
+5 (a5) The medical assistance beneficiary or any attorney retained by the beneficiary shall,
+6 out of the proceeds obtained by or on behalf of the beneficiary by settlement with, judgment
+7 against, or otherwise from a third party by reason of injury or death, distribute to the Department
+8 Department, or designated PHP, the amount due pursuant to this section as follows:
+9 (1) If, upon the expiration of the time for filing an application pursuant subsection
+10 (a2) of this section, no application has been filed, then the amount presumed
+11 pursuant to subsection (a1) of this section, as prorated with the claims of all
+12 others having medical subrogation rights or medical liens against the amount
+13 received or recovered, shall be paid to the Department Department, or
+14 designated PHP, within 30 days of the beneficiary's receipt of the proceeds, in
+15 the absence of an agreement pursuant to subsection (a3) of this section.
+16 (2) If an application has been filed pursuant to subsection (a2) of this section and
+17 no agreement has been reached pursuant to subsection (a3) of this section,
+18 then the Department Department, or designated PHP, shall be paid as follows:
+19 a. If the beneficiary rebuts the presumption arising under subsection (a1)
+20 of this section, then the amount determined by the court pursuant to
+21 subsection (a2) of this section, as prorated with the claims of all others
+22 having medical subrogation rights or medical liens against the amount
+23 received or recovered, shall be paid to the Department Department, or
+24 designated PHP, within 30 days of the entry of the court's order.
+25 b. If the beneficiary fails to rebut the presumption arising under
+26 subsection (a1) of this section, then the amount presumed pursuant to
+27 subsection (a1) of this section, as prorated with the claims of all others
+28 having medical subrogation rights or medical liens against the amount
+29 received or recovered, shall be paid to the Department Department, or
+30 designated PHP, within 30 days of the entry of the court's order.
+31 (3) If an agreement has been reached pursuant to subsection (a3) of this section,
+32 then the agreed amount, as prorated with the claims of all others having
+33 medical subrogation rights or medical liens against the amount received or
+34 recovered, shall be paid to the Department Department, or designated PHP,
+35 within 30 days of the execution of the agreement by the medical assistance
+36 beneficiary and the Department.
+37 (a6) The United States and the State of North Carolina shall be entitled to shares in each
+38 net recovery by the Department under this section. Their shares shall be promptly paid under this
+39 section and their proportionate parts of such sum shall be determined in accordance with the
+40 matching formulas in use during the period for which assistance was paid to the recipient.
+41 (b) It is a Class 1 misdemeanor for any person seeking or having obtained assistance
+42 under this Part for himself or another to willfully fail to disclose to the county department of
+43 social services or its attorney and to the Department the identity of any person or organization
+44 against whom the recipient of assistance has a right of recovery, contractual or otherwise.
+45 (c) (For contingent repeal, see note) This section applies to the administration of and
+46 claims payments under the NC Health Choice Program established under Part 8 of this Article.
+47 (d) As required to ensure compliance with this section, the Department may apply to the
+48 court in which the medical assistance beneficiary's claim against the third party is pending, or if
+49 there is none, then to a court of competent jurisdiction in this State for enforcement of this
+50 section."
+House Bill 576-Second Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.4.(b) This section is effective when it becomes law and applies to
+2 Medicaid claims brought by medical assistance beneficiaries against third parties on or after that
+3 date.
+4
+5 PART III. LAWS PERTAINING TO THE DIVISION OF HEALTH SERVICE
+6 REGULATION
+7
+8 ALIGN CAPACITY OF MEDICAL FOSTER HOMES OPERATING IN THE STATE
+9 UNDER THE SUPERVISION OF THE UNITED STATES DEPARTMENT OF
+10 VETERANS AFFAIRS WITH FEDERAL REGULATIONS
+11 SECTION 3.1. G.S. 131D-2.3 reads as rewritten:
+12 "§ 131D-2.3. Exemptions from licensure.
+13 The following are excluded from this Article and are not required to be registered or obtain
+14 licensure under this Article:
+15 (1) Facilities licensed under Chapter 122C or Chapter 131E of the General
+16 Statutes.
+17 (2) Persons subject to rules of the Division of Employment and Independence for
+18 People with Disabilities.
+19 (3) Facilities that care for no more than four three persons, all of whom are under
+20 the supervision of the United States Veterans Administration.
+21 (4) Facilities that make no charges for housing, amenities, or personal care
+22 service, either directly or indirectly.
+23 (5) Institutions that are maintained or operated by a unit of government and that
+24 were established, maintained, or operated by a unit of government and exempt
+25 from licensure by the Department on September 30, 1995."
+26
+27 AUTHORIZE THE DEPARTMENT OF HEALTH AND HUMAN SERVICES TO
+28 INSPECT RESIDENCES OR FACILITIES BELIEVED TO BE OPERATING AS
+29 ADULT CARE HOMES WITHOUT A LICENSE AND INCREASE PENALTIES FOR
+30 UNLAWFUL ADULT CARE HOME OPERATIONS
+31 SECTION 3.2.(a) G.S. 131D-2.5(b) reads as rewritten:
+32 "(b) The Department shall charge each registered multiunit assisted housing with services
+33 program a nonrefundable annual registration fee of three hundred fifty dollars ($350.00). Any
+34 individual or corporation that establishes, conducts, manages, or operates a multiunit housing
+35 with services program, subject to registration under this section, that fails to register is guilty of
+36 a Class 3 misdemeanor and, upon conviction shall be punishable only by a fine of not more than
+37 fifty dollars ($50.00) for the first offense and not more than five hundred dollars ($500.00) for
+38 each subsequent offense. Class H felony, including a fine of one thousand dollars ($1,000) per
+39 day for each day the facility is in operation in violation of this Article. Each day of a continuing
+40 violation after conviction shall be considered a separate offense."
+41 SECTION 3.2.(b) G.S. 131D-2.6 reads as rewritten:
+42 "§ 131D-2.6. Legal action by Department.
+43 (a) Notwithstanding the existence or pursuit of any other remedy, the Department may,
+44 in the manner provided by law, maintain an action in the name of the State for injunction or other
+45 process against any person to restrain or prevent the establishment, conduct, management, or
+46 operation of an adult care home without a license. Such action shall be instituted in the superior
+47 court of the county in which any unlicensed activity has occurred or is occurring.
+48 (a1) The Department and county departments of social services may inspect any of the
+49 following as authorized by law:
+50 (1) A residence or facility the Department believes to be operating as an assisted
+51 living residence without an appropriate license or registration.
+Page 8 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) A registered multiunit assisted housing with services facility to determine if it
+2 is operating as a licensable adult care home facility without a license.
+3 (b) Any individual or corporation that establishes, conducts, manages, or operates a
+4 facility subject to licensure under this section without a license is guilty of a Class 3 misdemeanor
+5 and, upon conviction, shall be punishable only by a fine of not more than fifty dollars ($50.00)
+6 for the first offense and not more than five hundred dollars ($500.00) for each subsequent offense.
+7 an assisted living facility without a license or registration, as required under this Article, is guilty
+8 of a Class H felony, including a fine of one thousand dollars ($1,000) per day for each day the
+9 facility is in operation in violation of this Article. Each day of a continuing violation after
+10 conviction shall be considered a separate offense.
+11 (c) If any person shall hinder the proper performance of duty of the Secretary or the
+12 Secretary's representative in carrying out this section, the Secretary may institute an action in the
+13 superior court of the county in which the hindrance has occurred for injunctive relief against the
+14 continued hindrance, irrespective of all other remedies at law.
+15 (d) Actions under this section shall be in accordance with Article 37 of Chapter 1 of the
+16 General Statutes and Rule 65 of the Rules of Civil Procedure."
+17 SECTION 3.2.(c) This section becomes effective December 1, 2025, and applies to
+18 offenses committed on or after that date.
+19
+20 ALIGN HOSPITAL REPORTING REQUIREMENTS UNDER THE HOSPITAL
+21 VIOLENCE PROTECTION ACT WITH THE HOSPITAL LICENSE RENEWAL
+22 APPLICATION PROCESS
+23 SECTION 3.3.(a) G.S. 131E-76 is amended by adding a new subdivision to read:
+24 "(1c) Division of Health Service Regulation. – The Division of Health Service
+25 Regulation within the Department of Health and Human Services."
+26 SECTION 3.3.(b) G.S. 131E-88.2 reads as rewritten:
+27 "§ 131E-88.2. Reports.
+28 (a) Annually by October 1, the Department of Health and Human Services, February 28,
+29 each hospital shall report to the Division of Health Service Regulation, shall collect in a manner
+30 and format requested by the Department, the following data from hospitals for the preceding
+31 calendar year: for the prior federal fiscal year ending September 30: (i) the number of assaults
+32 occurring in the hospital or on hospital grounds that required the involvement of law
+33 enforcement, whether the assaults involved hospital personnel, and how those assaults were
+34 pursued by the hospital and processed by the judicial system, (ii) the number and impact of
+35 incidences where patient behavioral health and substance use issues resulted in violence in the
+36 hospital and the number that occurred specifically in the emergency department, and (iii) the
+37 number of workplace violence incidences occurring at the hospital that were reported as required
+38 by accrediting agencies, the Occupational Safety and Health Administration, and other entities.
+39 (b) The Department of Health and Human Services shall compile the information
+40 required by subsection (a) of this section and shall share that data with the North Carolina
+41 Sheriffs' Association, the North Carolina Association of Chiefs of Police, and the North Carolina
+42 Emergency Management Association. The Department shall request these organizations examine
+43 the data and make recommendations to the Department to decrease the incidences of violence in
+44 hospitals and to decrease assaults on hospital personnel.
+45 (c) The Department shall compile the information required by subsections (a) and (b) of
+46 this section and report findings and recommendations to the Joint Legislative Oversight
+47 Committee on Health and Human Services annually by December 1.May 1."
+48
+49 REPEAL NC NEW ORGANIZATIONAL VISION AWARD PROGRAM
+50 SECTION 3.4. Part 6 of Article 6 of Chapter 131E of the General Statutes is
+51 repealed.
+House Bill 576-Second Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1
+2 DESIGNATE THE NC OFFICE OF EMERGENCY MEDICAL SERVICES AS THE
+3 ENTITY RESPONSIBLE FOR APPROVING INDIVIDUALS TO ADMINISTER
+4 EPINEPHRINE
+5 SECTION 3.5. G.S. 143-509 reads as rewritten:
+6 "§ 143-509. Powers and duties of Secretary.
+7 The Secretary of the Department of Health and Human Services has full responsibilities for
+8 supervision and direction of the emergency medical services program and, to that end, shall
+9 accomplish all of the following:
+10 …
+11 (9) Promote a means of training individuals to administer life-saving treatment to
+12 persons who suffer a severe adverse reaction to agents that might cause
+13 anaphylaxis. Individuals, upon successful completion of this training
+14 program, may be approved by the North Carolina Medical Care Commission
+15 Office of Emergency Medical Services to administer epinephrine to these
+16 persons, in the absence of the availability of physicians or other practitioners
+17 who are authorized to administer the treatment. This training may also be
+18 offered as part of the emergency medical services training program.
+19 …."
+20
+21 PART IV. LAWS PERTAINING TO THE DIVISION OF PUBLIC HEALTH
+22
+23 REVISE THE COMPOSITION OF LOCAL CHILD FATALITY REVIEW TEAMS TO
+24 SUPPORT GREATER EFFICIENCY
+25 SECTION 4.1. G.S. 7B-1407 reads as rewritten:
+26 "§ 7B-1407. Local Teams; composition and leadership.
+27 …
+28 (b) Each Local Team shall consist of the following persons:
+29 (1) The director of the county department of social services or the director of the
+30 consolidated human services agency and a member of the director's
+31 staff.agency, or the director's designee, who shall be a member of senior
+32 management.
+33 (1a) A staff member of the county department of social services or of the
+34 consolidated human services agency, appointed by the county department of
+35 social services or the consolidated human services agency.
+36 (2) A local law enforcement officer, appointed by the board of county
+37 commissioners.
+38 (3) An attorney from the district attorney's office, appointed by the district
+39 attorney.
+40 (4) The executive director of the local community action agency, as defined by
+41 the Department of Health and Human Services, or the executive director's
+42 designee.
+43 (5) The superintendent of each local school administrative unit located in the
+44 county, or the superintendent's designee.
+45 (6) A member of the county board of social services, appointed by the chair of
+46 that board.
+47 (7) A local mental health professional, appointed by the director of the area
+48 authority established under Chapter 122C of the General Statutes.
+49 (8) The local guardian ad litem coordinator, or the coordinator's designee.
+50 (9) The director of the local department of public health.health, or the director's
+51 designee, who shall be a member of senior management.
+Page 10 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (10) A local health care provider, appointed by the local board of health.
+2 (11) An emergency medical services provider or firefighter, appointed by the board
+3 of county commissioners.
+4 (12) A district court judge, appointed by the chief district court judge in that
+5 district.
+6 (13) A county medical examiner, appointed by the Chief Medical Examiner.
+7 (14) A representative of a local child care facility or Head Start program, appointed
+8 by the director of the county department of social services.
+9 (15) A parent of a child who died before reaching the child's eighteenth birthday,
+10 to be appointed by the board of county commissioners.
+11 (c) The chair of the Local Team may invite a maximum of five additional individuals to
+12 participate on the Local Team on an ad hoc basis for a specific review if the chair believes the
+13 individual's subject matter expertise or position within an organization will enhance the ability
+14 of the Local Team to conduct an effective review. The chair may select ad hoc members from
+15 outside of the county or counties served by the Local Team. As a condition of participating in a
+16 specific review, each ad hoc member is required to sign the same confidentiality statement signed
+17 by a Local Team member and is subject to the provisions of G.S. 7B-1413.
+18 …."
+19
+20 REMOVE ERRONEOUS REFERENCES TO THE COMMISSION FOR PUBLIC
+21 HEALTH FROM STATUTES GOVERNING THE STATEWIDE CHEMICAL
+22 ALCOHOL TESTING PROGRAM ADMINISTERED BY THE FORENSIC TESTS FOR
+23 ALCOHOL BRANCH
+24 SECTION 4.2.(a) G.S. 15A-534.2(d) reads as rewritten:
+25 "(d) In making his a determination about whether a defendant detained under this section
+26 remains impaired, the judicial official may request that the defendant submit to periodic tests to
+27 determine his the defendant's alcohol concentration. Instruments acceptable for making
+28 preliminary breath tests under G.S. 20-16.3 may be used for this purpose as well as instruments
+29 for making evidentiary chemical analyses. Unless there is evidence that the defendant is still
+30 impaired from a combination of alcohol and some other impairing substance or condition, a
+31 judicial official must is required to determine that a defendant with an alcohol concentration less
+32 than 0.05 is no longer impaired. The results of any periodic test to determine alcohol
+33 concentration may not be introduced in evidence:into evidence in either of the following
+34 circumstances:
+35 (1) Against the defendant by the State in any criminal, civil, or administrative
+36 proceeding arising out of an offense involving impaired driving; ordriving.
+37 (2) For any purpose in any proceeding if the test was not performed by a method
+38 approved by the Commission for Public Health Department of Health and
+39 Human Services under G.S. 20-139.1 and by a person licensed to administer
+40 the test by the Department of Health and Human Services.
+41 The fact that a defendant refused to comply with a judicial official's request that he submit to a
+42 chemical analysis may not be admitted into evidence in any criminal action, administrative
+43 proceeding, or a civil action to review a decision reached by an administrative agency in which
+44 the defendant is a party."
+45 SECTION 4.2.(b) G.S. 20-138.7(d) reads as rewritten:
+46 "(d) Alcohol Screening Test. – Notwithstanding any other provision of law, an alcohol
+47 screening test may be administered to a driver suspected of violating subsection (a) of this
+48 section, and the results of an alcohol screening test or the driver's refusal to submit may be used
+49 by a law enforcement officer, a court, or an administrative agency in determining if alcohol was
+50 present in the driver's body. No alcohol screening tests are valid under this section unless the
+51 device used is one approved by the Commission for Public Health, Department of Health and
+House Bill 576-Second Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 Human Services, and the screening test is conducted in accordance with the applicable
+2 regulations of the Commission rules adopted by the Department of Health and Human Services
+3 as to the manner of its use."
+4
+5 REMOVE REFERENCES TO THE NORTH CAROLINA MEDICAL SOCIETY'S
+6 DEFUNCT CANCER COMMITTEE
+7 SECTION 4.3.(a) G.S. 130A-33.50 reads as rewritten:
+8 "§ 130A-33.50. Advisory Committee on Cancer Coordination and Control established;
+9 membership, compensation.
+10 …
+11 (b) The Committee shall have consist of up to 34 members, including the Secretary of the
+12 Department or the Secretary's designee. The members of the Committee shall elect a chair and
+13 vice-chair from among the Committee membership. The Committee shall meet not more than
+14 twice a year at the call of the chair. Six of the members shall be legislators, three of whom shall
+15 be appointed by the Speaker of the House of Representatives, and three of whom shall be
+16 appointed by the President Pro Tempore of the Senate. Four of the members shall be cancer
+17 survivors, two of whom shall be appointed by the Speaker of the House of Representatives, and
+18 two of whom shall be appointed by the President Pro Tempore of the Senate. The remainder of
+19 the members shall be appointed by the Governor as follows:
+20 (1) One member from the Department of Environmental Quality;Quality.
+21 (2) Three members, one from each of the following: the Department, the
+22 Department of Public Instruction, and the North Carolina Community College
+23 System;System.
+24 (3) Four members representing the cancer control programs at North Carolina
+25 medical schools, one from each of the following: the University of North
+26 Carolina at Chapel Hill School of Medicine, the Bowman Gray School of
+27 Medicine, the Duke University School of Medicine, and the East Carolina
+28 University School of Medicine;Medicine.
+29 (4) One member who is an oncology nurse representing the North Carolina
+30 Nurses Association;Association.
+31 (5) One member representing the Cancer Committee of the North Carolina
+32 Medical Society;Society.
+33 (6) One member representing the Old North State Medical Society;Society.
+34 (7) One member representing the American Cancer Society, North Carolina
+35 Division, Inc.;Division, Inc.
+36 (8) One member representing the North Carolina Hospital
+37 Association;Association.
+38 (9) One member representing the North Carolina Association of Local Health
+39 Directors;Directors.
+40 (10) One member who is a primary care physician licensed to practice medicine in
+41 North Carolina;North Carolina.
+42 (11) One member representing the American College of Surgeons;Surgeons.
+43 (12) One member representing the North Carolina Oncology Society;Society.
+44 (13) One member representing the Association of North Carolina Cancer
+45 Registrars;Registrars.
+46 (14) One member representing the Medical Directors of the North Carolina
+47 Association of Health Plans; andPlans.
+48 (15) Up to four additional members at large.
+49 Except for the Secretary, the members shall be appointed for staggered four-year terms and
+50 until their successors are appointed and qualify. The Governor may remove any member of the
+51 Committee from office in accordance with the provisions of G.S. 143B-13. Members may
+Page 12 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 succeed themselves for one term and may be appointed again after being off the Committee for
+2 one term.
+3 …."
+4 SECTION 4.3.(b) G.S. 130A-213 reads as rewritten:
+5 "§ 130A-213. Cancer Committee of the North Carolina Medical Society.Consultation with
+6 the Advisory Committee on Cancer Coordination and Control.
+7 In implementing this Part, the Department shall consult with the Cancer Committee of the
+8 North Carolina Medical Society. The Committee shall consist of at least one physician from each
+9 congressional district. Advisory Committee on Cancer Coordination and Control established by
+10 G.S. 130A-33.50. Any proposed rules or reports affecting the operation of the cancer control
+11 program shall be reviewed by the Committee for comment prior to adoption."
+12
+13 AUTHORIZE LOCAL REGISTRARS AT LOCAL HEALTH DEPARTMENTS TO
+14 REMOVE OUTDATED REFERENCES TO PAPER FORMAT VITAL RECORDS
+15 SECTION 4.4. G.S. 130A-97 reads as rewritten:
+16 "§ 130A-97. Duties of local registrars.
+17 The local registrar shall:shall do all of the following:
+18 (1) Administer and enforce provisions of this Article and the rules, and
+19 immediately report any violation to the State Registrar;Registrar.
+20 (2) Furnish certificate forms and instructions supplied by the State Registrar to
+21 persons who require them;them.
+22 (3) Examine each certificate when submitted to determine if it has been completed
+23 in accordance with the provisions of this Article and the rules. If a certificate
+24 is incomplete or unsatisfactory, the responsible person shall be notified and
+25 required to furnish the necessary information. All birth and death certificates
+26 shall be typed or written legibly prepared in permanent black, blue-black, or
+27 blue ink;black ink.
+28 (4) Enter the date on which a certificate is received and sign Sign and date as local
+29 registrar;registrar using the registration method prescribed by the State
+30 Registrar.
+31 (5) Transmit Using the registration method prescribed by the State Registrar,
+32 transmit to the register of deeds of the county a copy of each certificate
+33 registered within seven days of after receipt of a birth or death certificate. The
+34 copy transmitted transmittal shall include the race of the father and mother if
+35 that information is contained on the State copy of in the State Record of the
+36 certificate of live birth. Copies transmitted may be on blanks furnished by the
+37 State Registrar or may be photocopies made in a manner approved by the
+38 register of deeds. The local registrar may also keep a copy of each certificate
+39 for no more than two years;years.
+40 (6) On the fifth day of each month or more often, if requested, send to the State
+41 Registrar all original certificates registered during the preceding month;
+42 andmonth.
+43 (7) Maintain records, make reports and perform other duties required by the State
+44 Registrar."
+45
+46 ALIGN STATE LAW WITH UPDATED FEDERAL GUIDELINES CONCERNING THE
+47 COMMUNICATION OF MAMMOGRAPHIC INFORMATION TO PATIENTS
+48 SECTION 4.5. G.S. 130A-215.5 reads as rewritten:
+49 "§ 130A-215.5. Communication of mammographic breast density information to patients.
+50 (a) All health care facilities that perform mammography examinations shall include in
+51 the summary of the mammography report, required by federal law to be provided to a patient,
+House Bill 576-Second Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 information that identifies the patient's individual breast density classification based on the Breast
+2 Imaging Reporting and Data System established by the American College of Radiology. If the
+3 facility determines that a patient has heterogeneously or extremely dense breasts, the summary
+4 of the mammography report shall include the following notice:
+5 "Your mammogram indicates that you may have dense breast tissue. Dense breast tissue is
+6 relatively common and is found in more than forty percent (40%) of women. The presence of
+7 dense tissue may make it more difficult to detect abnormalities in the breast and may be
+8 associated with an increased risk of breast cancer. We are providing this information to raise your
+9 awareness of this important factor and to encourage you to talk with your physician about this
+10 and other breast cancer risk factors. Together, you can decide which screening options are right
+11 for you. A report of your results was sent to your physician.provide each patient with a summary
+12 of the mammography report in language understandable by a layperson that includes an
+13 assessment of the patient's breast density.
+14 (a1) Each health care facility that provides a mammography report to a patient following
+15 a mammography examination shall include in the report information about breast density based
+16 on the patient's mammogram that is consistent with the federal regulations issued by the United
+17 States Food and Drug Administration pursuant to the Mammography Quality Standards Act, 42
+18 U.S.C. § 263b, et seq., as from time to time amended. If a health care facility determines that a
+19 patient has heterogeneously or extremely dense breasts, the report provided to the patient shall
+20 communicate all of the following information:
+21 (1) Breast tissue can be either dense or not dense.
+22 (2) Dense breast tissue makes it harder to find breast cancer on a mammogram
+23 and also increases the risk of developing breast cancer.
+24 (3) In some people with dense breast tissue, other imaging tests in addition to a
+25 mammogram may help find cancers.
+26 (4) Patients with dense breast tissue should talk to their healthcare provider about
+27 breast density, risks for breast cancer, and their individual situation.
+28 (b) Patients Health care facilities may direct patients who receive diagnostic or screening
+29 mammograms may be directed to informative material about breast density. This informative
+30 material may include the American College of Radiology's most current brochure on the subject
+31 of breast density."
+32
+33 EXTEND THE OPTION FOR NORTH CAROLINIANS TO DONATE A PORTION OF
+34 THEIR TAX REFUNDS TO THE BREAST AND CERVICAL CANCER CONTROL
+35 PROGRAM
+36 SECTION 4.6. G.S. 105-269.8 reads as rewritten:
+37 "§ 105-269.8. Contribution by individual for early detection of breast and cervical cancer.
+38 (a) Contribution. – An individual entitled to a refund of income taxes under Part 2 of
+39 Article 4 of this Chapter may elect to contribute all or part of the refund to be used for early
+40 detection of breast and cervical cancer at the Cancer Prevention and Control Branch of the
+41 Division of Public Health of the Department of Health and Human Services. The Secretary shall
+42 provide appropriate language and space on the individual income tax form in which to make the
+43 election. The Secretary shall include in the income tax instructions an explanation that the
+44 contributions will be used for early detection of breast and cervical cancer only. The election
+45 becomes irrevocable upon filing the individual's income tax return for the taxable year.
+46 (b) Distribution. – The Secretary shall transmit the contributions made pursuant to this
+47 section to the State Treasurer to be distributed for early detection of breast and cervical cancer.
+48 The State Treasurer shall distribute the contributions to the Cancer Prevention and Control
+49 Branch of the Division of Public Health of the Department of Health and Human Services. Funds
+50 distributed pursuant to this section shall be used only for early detection of breast and cervical
+Page 14 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 cancer and shall be used in accordance with North Carolina's Breast and Cervical Cancer Control
+2 Program's policies and procedures.
+3 (c) Sunset. – This section expires for taxable years beginning on or after January 1,
+4 2026.January 1, 2030."
+5
+6 PART V. LAWS PERTAINING TO THE DIVISION OF SOCIAL SERVICES
+7
+8 AUTHORIZE MAGISTRATES TO ACCEPT FOR FILING PETITIONS FOR ADULT
+9 PROTECTIVE SERVICES EMERGENCY ORDERS AFTER BUSINESS HOURS AND
+10 TO HEAR EX PARTE MOTIONS REGARDING THESE PETITIONS WHEN A
+11 DISTRICT COURT JUDGE IS UNAVAILABLE
+12 SECTION 5.1. Article 6 of Chapter 108A of the General Statutes is amended by
+13 adding the following new sections to read:
+14 "§ 108A-106.1. Immediate need for petition for emergency services when clerk's office is
+15 closed.
+16 (a) When the office of the clerk is closed, a magistrate shall accept for filing a petition
+17 for an order authorizing the provision of emergency services to a disabled adult and shall note
+18 the date of the filing.
+19 (b) The authority of the magistrate under this section is limited to emergency situations
+20 in which a petition is filed under G.S. 108A-106 seeking an order ex parte for the provision of
+21 emergency services to a disabled adult. Any magistrate who accepts a petition for filing under
+22 this section shall deliver the petition to the clerk's office for processing as soon as that office is
+23 open for business.
+24 "§ 108A-106.2. Ex parte emergency orders by authorized magistrate.
+25 (a) The chief district court judge may authorize one or more magistrates to hear ex parte
+26 motions for the provision of emergency services to disabled adults and issue a show-cause notice
+27 in the order as required by G.S. 108A-106(d). A magistrate may proceed with hearing a motion
+28 ex parte and issuing a show-cause notice under this subsection only if, prior to the hearing, the
+29 magistrate determines that at the time the party is seeking emergency services ex parte the district
+30 court is not in session and a district court judge is not and will not be available to hear the motion.
+31 (b) An authorized magistrate that issues an ex parte order under this section shall deliver
+32 the signed order to the clerk's office for processing as soon as that office is open for business.
+33 (c) All authorizations for ex parte orders for emergency services may be made by
+34 telephone when other means of communication are impractical. A copy of the petition for an
+35 order authorizing the provision of emergency services shall be provided to the district court judge
+36 or the authorized magistrate by any appropriate method, including hand delivery, facsimile, or
+37 electronic means. All written orders pursuant to telephonic communication shall bear the name
+38 and the title of the director, the name and the title of the district court judge or authorized
+39 magistrate issuing the ex parte order, the hour and date of the telephonic authorization, and the
+40 signature and the title of the clerk or magistrate receiving the authorization and entering the order
+41 and who accepted the petition for filing."
+42
+43 ALIGN STATE LAW WITH THE FEDERAL PROHIBITION ON CONDITIONAL
+44 EMPLOYMENT OF APPLICANTS OF CHILD CARE INSTITUTIONS PRIOR TO
+45 OBTAINING CRIMINAL HISTORY RECORD CHECK RESULTS
+46 SECTION 5.2. G.S. 108A-150(g) reads as rewritten:
+47 "(g) Conditional Employment. – A child care institution may shall not employ an applicant
+48 conditionally prior to obtaining the results of a criminal history record check regarding the
+49 applicant if both of the following requirements are met:applicant.
+50 (1) The child care institution shall not employ an applicant prior to obtaining the
+51 applicant's consent for a criminal history record check as required in
+House Bill 576-Second Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 subsection (b) of this section or the completed fingerprint cards as required in
+2 G.S. 143B-1209.53.
+3 (2) The child care institution shall submit the request for a criminal history record
+4 check not later than five business days after the individual begins conditional
+5 employment."
+6
+7 ALIGN DISSEMINATION OF BACKGROUND CHECK INFORMATION FOR
+8 PROSPECTIVE ADOPTIVE AND FOSTER CARE PARENTS WITH FEDERAL
+9 POLICY, LAW, AND STANDARDS
+10 SECTION 5.3.(a) G.S. 48-3-309(e) reads as rewritten:
+11 "(e) The Department shall notify the prospective adoptive parent's supervising county
+12 department of social services of the results of the criminal history check. In accordance with the
+13 federal and State law regulating the dissemination of the contents of the criminal history file, the
+14 Department shall not release or disclose any portion of an individual's criminal history to the
+15 prospective adoptive parent or any other individual required to be checked. the Department may
+16 provide the prospective adoptive parent or any other individual required to submit to a criminal
+17 history record check pursuant to subsection (a) of this section a copy of that applicant's criminal
+18 history information for the purpose of reviewing or challenging the accuracy of the criminal
+19 history. The Department, however, Department shall ensure that the prospective adoptive parent
+20 or any other individual required to be checked pursuant to subsection (a) of this section is notified
+21 of the individual's right to review the criminal history information, the procedure for completing
+22 or challenging the accuracy of the criminal history, and the prospective adoptive parent's right to
+23 contest the preplacement assessment of the county department of social services. Public child
+24 placing agencies, including supervising county departments of social services, are required to
+25 have an employee on staff that is trained and certified to receive criminal history record
+26 information to the extent required by federal policy, law, and standards.
+27 A prospective adoptive parent who disagrees with the preplacement assessment of the county
+28 department of social services may request a review of the assessment pursuant to
+29 G.S. 48-3-308(a)."
+30 SECTION 5.3.(b) G.S. 131D-10.3A(f) reads as rewritten:
+31 "(f) The Department shall notify in writing the foster parent and any person applying to
+32 be licensed as a foster parent, and that individual's supervising agency parent of the determination
+33 by the Department of whether the foster parent or prospective foster parent is qualified to provide
+34 foster care based on the criminal history of all individuals required to be checked. In accordance
+35 with the law regulating the dissemination of the contents of the criminal history file furnished by
+36 the Federal Bureau of Investigation, the Department shall not release nor disclose any portion of
+37 an individual's criminal history to the foster parent or any other individual required to be checked.
+38 checked pursuant to subsection (a) of this section. The Department may provide the foster parent,
+39 prospective foster parent, or any other individual required to be checked pursuant to subsection
+40 (a) of this section with a copy of that applicant's criminal history information for the purpose of
+41 reviewing or challenging the accuracy of the criminal history. The Department shall also notify
+42 the each individual required to be checked pursuant to subsection (a) of this section of the
+43 individual's right to review the criminal history information, the procedure for completing or
+44 challenging the accuracy of the criminal history, and the foster parent's or prospective foster
+45 parent's right to contest the Department's determination. Public child placing agencies, including
+46 supervising county departments of social services, are required to have an employee on staff that
+47 is trained and certified to receive criminal history record information to the extent required by
+48 federal policy, law and standards.
+49 A foster parent or prospective foster parent who disagrees with the Department's decision
+50 may request a hearing pursuant to Chapter 150B of the General Statutes, the Administrative
+51 Procedure Act."
+Page 16 House Bill 576-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 PART VI. LAWS PERTAINING TO THE DIVISION OF STATE-OPERATED
+3 HEALTHCARE FACILITIES
+4
+5 SUPPORT IMPLEMENTATION OF CAPACITY RESTORATION PILOT PROGRAMS
+6 SECTION 6.1. Part 6 of Article 5 of Chapter 122C of the General Statutes is
+7 amended by adding a new section to read:
+8 "§ 122C-256. Capacity restoration pilot programs.
+9 (a) The following definitions apply in this section:
+10 (1) CBCRP. – Community-based capacity restoration program.
+11 (2) DCCRP. – Detention center capacity restoration program.
+12 (b) Community-Based Capacity Restoration Program. – The Department or an
+13 LME/MCO may contract for three or more CBCRPs. CBCRPs may be county-based or
+14 regionally based. If regionally based, a CBCRP shall align with the State-operated psychiatric
+15 hospital within closest proximity. The Department may consult with one or more LME/MCOs
+16 for the purposes of contracting for CBCRPs under this subsection.
+17 (c) Detention Center Capacity Restoration Program. – The Department or an LME/MCO,
+18 in consultation and with the consent of relevant sheriffs, may contract for up to three DCCRPs.
+19 DCCRPs may be county-based or regionally based. All county sheriffs choosing to participate in
+20 a regional program must enter into an operational agreement with the sheriff hosting the regional
+21 program prior to referring defendants to the program. A regionally based DCCRP shall align with
+22 the State-operated psychiatric hospital within closest proximity. The Department may consult
+23 with one or more LME/MCOs for the purposes of contracting for DCCRPs under this subsection.
+24 (d) Judicial Discretion. – A court may order capacity restoration to be completed at a
+25 CBCRP or DCCRP as an alternative to a State-operated psychiatric hospital for individuals
+26 recommended for participation in CBCRP or DCCRP by a forensic evaluator."
+27
+28 PART VII. EFFECTIVE DATE
+29 SECTION 7.1. Except as otherwise provided, this act is effective when it becomes
+30 law.
+House Bill 576-Second Edition Page 17
+
+[DELETED:  2 D (   A A L T  P I L P T T D O C A F W  D S S " T S c ( S c ( P ( I n ( S ( P ( P a ( P s ( P h ( B e  P  T E O T D M E B S 2]
+[DELETED:  S  H " 1  N G a i a w G t b t c b J 3 2 2 t u t f f m e d I a w G G t e a  C E I M M C A R F S " ( C t … ( R w a i o p U t r r f p t e u t s s c t a f a p f a T r i M e c p p r b T ( R e h b s U t r r f i a f a T r i M e c p p r b T … S i a  C N C L T F R F M S " ( P p ( E f e i M i a f a n p l a a r o o l ( L a …]
+[DELETED:  S  P ( H p o b a I H P ( P a d a t I H S p t T V o t I H C I … ( N I ( S o … ( P o n p ( p i n p C p a p e o t s p c a a o a o d a o … ( L a s ( M a … ( P … ( R n … ( S ( ( M a a " m c l o r t D s c s t a ( H h ( P ( e P o n e a c h … ( P ( e P o n e a p a … ( P ( e P o n e a p t w a b t f C f M a M S ( P ( e P o n e a p ( P ( e P o n e a p]
+[DELETED:  S  H ( P a w w t D h i a p s C r t … ( P o p r f M i t p 1 p T D 1 m a t c o t p r o t f o … ( S t ( H a f ( D p a M t D m r o t r o t p s p ( O r o t p s p b t M a o C H I ( S n o l S r " … ( L d … ( B h a i a d d p a t a n a b a e a b t S t … ( P … ( M d … ( H t … ( R a c h d M s t]
+[DELETED:  S  P ( R a p d m e i o a p u t m t d i s ( R a p n h h o c s p t w a b t f C U t ( R c m … ( P … ( H – d … ( P o n e h o a r h ( T s n e a ( f w f r a a n e p w w d t a n s o l e a O c b t S A a M H S A b A a c A d A s e H … S 2  C M S R I M C E S " ( A a g a N t a s i a c f a m a p f h c i o s f r a t]
+[DELETED:  S  H M s s t T u t n o ( I t a o t M c d n e o o t m a b g r i i p t t g r i c e o ( A m a b m d t p e i s ( o t s b a t t c i w t m a b c r t r c f t M c A a u t s C a n M s T f ( T c r c f t M c i l t t p p ( T s b t f t t m a b w n a t r ( I s t o D D s i ( I o p p t s ( o t s t t D D s ( N t t r t r c f t M c I s a a i r o]
+[DELETED:  S  P ( W c d i s ( o t s t m a b o a a P ( T o a D ( I ( p o r o r s b p t t D D o d t ( I n t a I o s h r d b I t b f t r t p a u s s h r d ( I t t a a a p w t c o a o h m r w b ( T n s m ( I u s a ( ( c ( A c t s]
+[DELETED:  S  H S M d  P I L P T T D O H S R  A U T S O T U S D O V S " T l ( F l u C 1 o C 1 o t G S ( P P ( F t ( F t m n c f h a o p c s ( I w f  A T D O H A H S T I R O F B T B O A A U S " T p i w a f e d v S " ( N i p o c ( T f ( A l]
+[DELETED:  S  P ( A i ( A i o c t e c m o o a f a f a o f i i o i v o A E d o a c v a c ( I S s c ( A G S o  A H R R U T H V P A W T H L R A S " D o H S R – T D o H S R S " ( A e a c o i t h o o h g t r t i o l e p i h n b ( T D o H a H S s c t i r b s ( s a s s t d w t N C S E t h ( T t s a r f a r t t J L O C  R S 3  P 6 o A 6 o C 1 o t G S i r]
+[DELETED:  S  H  D T N O O E M S A T E R F A I T A E S " T s a … ( P p w s a s a r t a t m c a I u s c o t t p O o M S t a t t p w o …  P  R S S " … ( E ( T c h s a a a m o t d s o t d d w s b a m o s m ( A s m o t c d o s s o o t c s ( A l l e o a b t b o c c ( A a f t d a o a b t d a ( T t d ( T c ( A t ( A l m h p a b t d o t a a ( T ( T d]
+[DELETED:  S  P ( A ( A o ( A d c j a b t c d c j i t d ( A ( A b ( A t ( T p i o o s b …  R E R T T C F P H F S G T S C A A S " I r d h t d a c I a f m p f i j t 0 i n l i T r o a p t t d a c m n b i i e e i e o t f c ( A p ( F a H t T c a m n b a i e i a c a a p t S " A s t m b a t a d o s ( s b p d]
+[DELETED:  S  H H S a t s t i c i a w t a r a  R R T T N C M S D S " m … ( T D v t b a b t S o t H o R a t o w s b a s t t ( O ( T m o f e o t f t D t D S ( F m C M U ( O m w i a o n r t N C N ( O m r t C C o t N C M ( O ( O m r t A C S N C D ( O m r t N C H A ( O D ( O N ( O ( O ( O m r t A o N C C R ( O m r t M D o t N C A ( U E u C f o i a w t p o G M m]
+[DELETED:  S  P s o … S " t I N c G p  A L R A L H D T R S " T ( A a e p o t A a t r a i ( F p ( E i i r s b ( E r u t r m p b t S R ( T U t r m p b t S R t t t r o d o t c a c o e c r c t c S r f ( O R a o c r d t p m a ( M R  A C S " ( A t]
+[DELETED:  S  H i I f o " r d t m m i m d t d a i t b a m b a a a f o t m r i l u b a l t i a a ( E a o S U p c ( B ( D a ( I m ( P b ( P m m o  E T T R T T B A C C C P S " ( C A d c D p e T S s i i t i t i a e t t c b ( D s T S T s d t c t t C P a C B d]
+[DELETED:  S  P c P ( S y J 2  P  A P T H E P M R T P W A D S a " c ( W f t ( T i e t o " ( T m i e m c ( A t ( A a f e p o f e s m b m b t o o e a t j m s a  A S L W T F P O C E O A O C C I P T O S " C c p t o t r o c h r c r t a ( T a c f a c h r c a r i]
+[DELETED:  S  H s G ( T c e  A D O B C I F P A A F C P W F P S " T d f D p p h h h o o o c p h a e o s t i t a c t r c h r i A d o s s m r a r o t a p t G S " T b b f w t a c p ( r t e i r t b c p t s ( s o i c p s i f A m P]
+[DELETED:  S  P  P V L P T T D O S H  S S 6  P 6 o A 5 o C 1 o t G S i a " ( T ( C ( D ( C C R P – T D o a L m c f t o m C C m b c o r h f ( D i D a p t w ( J C r  P S l]

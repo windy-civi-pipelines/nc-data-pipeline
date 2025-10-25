@@ -1,0 +1,1024 @@
+Title: HOUSE BILL 135
+Official Title: HOUSE BILL 135
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Misbranding/Cell-Cultured Meat/Env. Assess. (Public)
+Sponsors: Representatives McNeely, Humphrey, Lowery, and K. Hall (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Finance, if favorable, Health, if favorable, Commerce and Economic
+Development, if favorable, Agriculture and Environment, if favorable, Rules,
+Calendar, and Operations of the House
+February 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT THE MISBRANDING OF CERTAIN FOOD PRODUCTS; TO
+3 PROHIBIT COMMUNITY COLLEGES, UNIVERSITIES, AND PUBLIC SCHOOLS
+4 FROM PURCHASING CERTAIN FOOD PRODUCTS; AND TO ESTABLISH AN
+5 ENVIRONMENTAL INVESTMENT ASSESSMENT ON CERTAIN MEAT, POULTRY,
+6 EGG, AND DAIRY PRODUCTS AND ANALOGOUS PRODUCTS.
+7 The General Assembly of North Carolina enacts:
+8
+9 REQUIRE LABELING OF MANUFACTURED-PROTEIN PRODUCTS
+10 SECTION 1.(a) G.S. 106-549.15 reads as rewritten:
+11 "§ 106-549.15. Definitions.
+12 As used in this Article, except as otherwise specified, the following terms shall have the
+13 meanings stated below:
+14 …
+15 (1a) "Agricultural food animal" means a domesticated animal belonging to the
+16 bovine, caprine, ovine, or porcine species.
+17 …
+18 (5a) "Cell-cultured food product" means a food product having one or more
+19 sensory attributes that resemble a type of tissue originating from an
+20 agricultural food animal but that, in lieu of being derived from meat
+21 processing, is derived from manufacturing cells, in which one or more stem
+22 cells are initially isolated from an agricultural food animal, are grown in vitro,
+23 and may be manipulated, as part of a manufacturing operation.
+24 (5b) "Close proximity" means any of the following:
+25 a. Immediately before or after the name of the product.
+26 b. In the line of the label immediately before or after the line containing
+27 the name of the product.
+28 c. Within the same phrase or sentence containing the name of the
+29 product.
+30 …
+31 (9a) "Identifying meat term" means any word or phrase that states, indicates,
+32 suggests, or describes a meat product, regardless of whether the word or
+*H135-v-1*
+General Assembly Of North Carolina Session 2025
+1 phrase is used individually, as a portmanteau, or as a compound word. This
+2 term includes all of the following:
+3 a. A common name for the species of the agricultural food animal subject
+4 to slaughter and processing, including a calf or cow, goat or kid, hog
+5 or pig, or lamb or sheep.
+6 b. A common name for a characteristic of a species of the agricultural
+7 food animal subject to slaughter and processing based on age, breed,
+8 or sex.
+9 c. Meat, beef or veal, cabrito or chevon, lamb or mutton, or pork.
+10 d. A common name used to describe a major cut of a meat of an
+11 agricultural food animal slaughtered and processed, including a major
+12 meat cut specified in 9 C.F.R. § 317.344, or the common name of an
+13 organ or offal, including heart, liver, kidney, or tongue.
+14 e. Any other common name that a reasonable purchaser would
+15 immediately and exclusively associate with a meat product prepared
+16 for sale in normal commercial channels such as bacon, baloney,
+17 bologna, bone, brat or bratwurst, brisket, burger or hamburger, butt,
+18 chop, chuck, cold cut, cutlet, filet, flat iron, frank or frankfurter, ham,
+19 hock, hot dog, jerky, liverwurst, loin, London broil, lunch meat, New
+20 York strip, pepperoni, porterhouse, ribeye, roast, rib or sparerib,
+21 salami, sausage, shank, sirloin, tenderloin, or a comparable word or
+22 phrase.
+23 (9b) "Insect-protein food product" means a food product having one or more
+24 sensory attributes that resemble a type of tissue originating from an
+25 agricultural food animal but that, in lieu of being derived from meat
+26 processing, is derived from manufacturing insect parts.
+27 …
+28 (12a) "Manufactured-protein food product" means a cell-cultured food product,
+29 insect-protein food product, or plant-protein food product.
+30 …
+31 (14) "Meat food product" means any product capable of use as human food that is
+32 made wholly or in part from any meat or other portion of the carcass of any
+33 cattle, sheep, swine, goats, bison, fallow deer, or red deer, or any cell-cultured
+34 product made from cells of those animals, excepting products that contain
+35 meat or other portions of such carcasses only in a relatively small proportion
+36 or historically have not been considered by consumers as products of the meat
+37 food industry, and that are exempted from definition as a meat food product
+38 by the Board under such conditions as it may prescribe to assure that the meat
+39 or other portions of such carcasses contained in such product are not
+40 adulterated and that such products are not represented as meat food products.
+41 This term as applied to food products of equines shall have a meaning
+42 comparable to that provided in this subdivision with respect to cattle, sheep,
+43 swine, goats, and bison.
+44 (15) "Misbranded" shall apply to any carcass, part thereof, meat or meat food
+45 product under one or more of the following circumstances:
+46 a. If its labeling is false or misleading in any particular;
+47 b. If it is offered for sale under the name of another food;
+48 c. If it is imitation of another food, unless its label bears, in type of
+49 uniform size and prominence, the word "imitation" and immediately
+50 thereafter, the name of the food imitated;
+51 …
+Page 2 House Bill 135-First Edition
+General Assembly Of North Carolina Session 2025
+1 m. The product is a cell-cultured product, and it is not labeled in
+2 accordance with G.S. 106-549.28A.
+3 …
+4 (20a) "Plant-protein food product" means a food product having one or more
+5 sensory attributes that resemble a type of tissue originating from an
+6 agricultural food animal but that, in lieu of being derived from meat
+7 processing, is derived from manufacturing plant or fungus parts.
+8 …
+9 (21a) "Qualifying term" means a word, compound word, or phrase that would
+10 clearly disclose to a reasonable purchaser of meat products that a food product
+11 is not a meat product. This includes the following terms: "cell-cultured,"
+12 "fake," "grown in a lab," "insect," "insect-based," "insect-protein,"
+13 "lab-created," "lab-grown," "meat free," "meatless," "plant," "plant-based,"
+14 "vegan," "vegetable," "vegetarian," or "veggie."
+15 (21b) "Ratite" means a bird whose breastbone is smooth so that flight muscles
+16 cannot attach, such as an ostrich, an emu, and a rhea. These birds are subject
+17 to the provisions of this Article and Article 49C to the same extent as any other
+18 meat food product.
+19 …."
+20 SECTION 1.(b) Article 49B of Chapter 106 of the General Statutes is amended by
+21 adding a new section to read:
+22 "§ 106-549.28A. Labeling of manufactured-protein food products.
+23 (a) The label of any manufactured-protein food product that contains an identifying meat
+24 term shall also contain in at least 20-point font or the size of the surrounding type, whichever is
+25 greater, and in close proximity to the name of the product, an appropriate qualifying term.
+26 (b) A manufactured-protein food product that does not meet the requirements of this
+27 section shall be deemed misbranded for purposes of this Article."
+28 SECTION 1.(c) G.S. 106-549.51 reads as rewritten:
+29 "§ 106-549.51. Definitions.
+30 For purposes of this Article, the following terms shall have the meanings stated below:
+31 …
+32 (4a) "Cell-cultured food product" means a food product having one or more
+33 sensory attributes that resemble a type of tissue originating from poultry but
+34 that, in lieu of being derived from meat processing, is derived from
+35 manufacturing cells, in which one or more stem cells are initially isolated from
+36 poultry, are grown in vitro, and may be manipulated, as part of a
+37 manufacturing operation.
+38 (4b) "Close proximity" means any of the following:
+39 a. Immediately before or after the name of the product.
+40 b. In the line of the label immediately before or after the line containing
+41 the name of the product.
+42 c. Within the same phrase or sentence containing the name of the
+43 product.
+44 …
+45 (10a) "Identifying poultry term" means any word or phrase that states, indicates,
+46 suggests, or describes a poultry product, regardless of whether the word or
+47 phrase is used individually, as a portmanteau, or as a compound word. This
+48 term includes all of the following:
+49 a. A common name for the species of the poultry subject to slaughter and
+50 processing, including chicken, poultry, or turkey.
+House Bill 135-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 b. A common name for a characteristic of a species of the poultry subject
+2 to slaughter and processing based on age, breed, or sex.
+3 c. Meat, broiler, fryer, poulet, or yearling.
+4 d. A common name used to describe a major cut of poultry slaughtered
+5 and processed, including a poultry product such as breast, drumstick,
+6 giblet, thigh, or wing; or the common name of an organ or offal,
+7 including gizzard, heart, liver, kidney, or tongue.
+8 e. Any other common name that a reasonable purchaser would
+9 immediately and exclusively associate with a poultry product prepared
+10 for sale in normal commercial channels.
+11 …
+12 (11a) "Insect-protein food product" means a food product having one or more
+13 sensory attributes that resemble a type of tissue originating from poultry but
+14 that, in lieu of being derived from meat processing, is derived from
+15 manufacturing insect parts.
+16 …
+17 (16a) "Manufactured-protein food product" means a cell-cultured food product,
+18 insect-protein food product, or plant-protein food product.
+19 (17) "Misbranded" shall apply to any poultry product under one or more of the
+20 following circumstances:
+21 a. If its labeling is false or misleading in any particular;
+22 b If it is offered for sale under the name of another food;
+23 c. If it is an imitation of another food, unless its label bears, in type of
+24 uniform size and prominence, the word "imitation" and immediately
+25 thereafter, the name of the food imitated;
+26 …
+27 m. If it is a manufactured-protein food product and it is not labeled in
+28 accordance with G.S. 106-549.55(e).
+29 …
+30 (24a) "Plant-protein food product" means a food product having one or more
+31 sensory attributes that resemble a type of tissue originating from poultry but
+32 that, in lieu of being derived from meat processing, is derived from
+33 manufacturing plant or fungus parts.
+34 …
+35 (26) "Poultry product" means any poultry carcass, or part thereof; or any product
+36 which is made wholly or in part from any poultry carcass or part thereof, or
+37 any cell-cultured food product made from cells of poultry, excepting products
+38 which contain poultry ingredients only in a relatively small proportion or
+39 historically have not been considered by consumers as products of the poultry
+40 food industry, and which are exempted by the Board from definition as a
+41 poultry product under such conditions as the Board may prescribe to assure
+42 that the poultry ingredients in such products are not adulterated and that such
+43 products are not represented as poultry products.
+44 …
+45 (28a) "Qualifying term" means a word, compound word, or phrase that would
+46 clearly disclose to a reasonable purchaser of poultry products that a food
+47 product is not a poultry product. This includes the following terms:
+48 "cell-cultured," "fake," "grown in a lab," "insect," "insect-based,"
+49 "insect-protein," "lab-created," "lab-grown," "meat free," "meatless," "plant,"
+50 "plant-based," "vegan," "vegetable," "vegetarian," or "veggie."
+51 …."
+Page 4 House Bill 135-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(d) G.S. 106-549.55 reads as rewritten:
+2 "§ 106-549.55. Labeling standards; false and misleading labels.labels; labeling of
+3 manufactured-protein food products.
+4 …
+5 (e) The label of any manufactured-protein food product that contains an identifying
+6 poultry term shall also contain in at least 20-point font or the size of the surrounding type,
+7 whichever is greater, and in close proximity to the name of the product, an appropriate qualifying
+8 term."
+9 SECTION 1.(e) This section becomes effective October 1, 2025, and applies to
+10 products sold or offered for sale on or after that date.
+11
+12 PROHIBIT COMMUNITY COLLEGES, PUBLIC UNIVERSITIES, AND PUBLIC
+13 SCHOOLS FROM PURCHASING MISBRANDED PRODUCTS AND
+14 CELL-CULTURED PRODUCTS
+15 SECTION 2.(a) G.S. 115C-12 is amended by adding a new subdivision to read:
+16 "(50) Purchases of meat and poultry products. – The State Board of Education shall
+17 establish policies to prevent the purchase of a food product that is any of the
+18 following:
+19 a. Misbranded as a meat or poultry product as prohibited in Articles 49B
+20 and 49D of Chapter 106 of the General Statutes.
+21 b. A cell-cultured food product as defined in G.S. 106-549.15 or
+22 G.S. 106-549.51."
+23 SECTION 2.(b) Part 2 of Article 17 of Chapter 115C of the General Statutes is
+24 amended by adding a new section to read:
+25 "§ 115C-264.6. Purchases of meat and poultry products.
+26 Local boards of education shall establish policies to prevent the purchase of a food product
+27 that is any of the following:
+28 (1) Misbranded as a meat or poultry product as prohibited in Articles 49B and
+29 49D of Chapter 106 of the General Statutes.
+30 (2) A cell-cultured food product as defined in G.S. 106-549.15 or
+31 G.S. 106-549.51."
+32 SECTION 2.(c) G.S. 115C-218.75 is amended by adding a new subsection to read:
+33 "(p) Purchases of Meat and Poultry Products. – A charter school shall establish policies to
+34 prevent the purchase of a food product that is any of the following:
+35 (1) Misbranded as a meat or poultry product as prohibited in Articles 49B and
+36 49D of Chapter 106 of the General Statutes.
+37 (2) A cell-cultured food product as defined in G.S. 106-549.15 or
+38 G.S. 106-549.51."
+39 SECTION 2.(d) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+40 "(23) Purchases of meat and poultry products. – A regional school shall establish
+41 policies to prevent the purchase of a food product that is any of the following:
+42 a. Misbranded as a meat or poultry product as prohibited in Articles 49B
+43 and 49D of Chapter 106 of the General Statutes.
+44 b. A cell-cultured food product as defined in G.S. 106-549.15 or
+45 G.S. 106-549.51."
+46 SECTION 2.(e) G.S. 116-239.8(b)(4)c. reads as rewritten:
+47 "c. Food services. – The laboratory school shall strive to ensure that one
+48 hundred percent (100%) muscadine grape juice is made available to
+49 students as a part of the school's nutrition program or through the
+50 operation of the school's vending facilities. The laboratory school shall
+51 establish policies to prevent the purchase of a food product that is (i)
+House Bill 135-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 misbranded as a meat or poultry product as prohibited in Articles 49B
+2 and 49D of Chapter 106 of the General Statutes or (ii) cell-cultured
+3 food product as defined in G.S. 106-549.15 or G.S. 106-549.51. Upon
+4 request, the local school administrative unit in which the laboratory
+5 school is located shall administer the National School Lunch Program
+6 for the laboratory school in accordance with G.S. 115C-264."
+7 SECTION 2.(f) G.S. 115D-20 reads as rewritten:
+8 "§ 115D-20. Powers and duties of trustees.
+9 The trustees of each institution shall constitute the local administrative board of such
+10 institution, with such powers and duties as are provided in this Chapter and as are delegated to it
+11 by the State Board of Community Colleges. The powers and duties of trustees shall include the
+12 following:
+13 …
+14 (16) To establish policies to prevent the purchase of a food product that is any of
+15 the following:
+16 a. Misbranded as a meat or poultry product as prohibited in Articles 49B
+17 and 49D of Chapter 106 of the General Statutes.
+18 b. A cell-cultured food product as defined in G.S. 106-549.15 or
+19 G.S. 106-549.51."
+20 SECTION 2.(g) Part 5 of Article 1 of Chapter 116 of the General Statutes is amended
+21 by adding a new section to read:
+22 "§ 116-43.26. Purchases of meat and poultry products.
+23 Each constituent institution shall establish policies to prevent the purchase of a food product
+24 that is any of the following:
+25 (1) Misbranded as a meat or poultry product as prohibited in Articles 49B and
+26 49D of Chapter 106 of the General Statutes.
+27 (2) A cell-cultured food product as defined in G.S. 106-549.15 or
+28 G.S. 106-549.51."
+29 SECTION 2.(h) This section becomes effective October 1, 2025. Subsections (a),
+30 (b), (c), (d), and (e) of this section apply beginning with the 2026-2027 school year. Subsections
+31 (f) and (g) of this section apply beginning with the 2026-2027 academic year.
+32
+33 ESTABLISH AN ENVIRONMENTAL INVESTMENT ASSESSMENT ON CERTAIN
+34 MEAT, POULTRY, EGG, AND DAIRY PRODUCTS AND ANALOGOUS PRODUCTS
+35 SECTION 3.(a) Subchapter I of Chapter 105 of the General Statutes is amended by
+36 adding a new Article to read:
+37 "Article 5K.
+38 "Animal Agriculture and Analogues Environmental Investment Assessment.
+39 "§ 105-187.100. Definitions.
+40 The following definitions apply in this Article:
+41 (1) Agricultural food animal. – A domesticated animal belonging to the bovine,
+42 caprine, ovine, or porcine species; a domesticated animal belonging to the
+43 cervid species limited to fallow deer or red deer; and domestic fowl limited to
+44 chickens or turkeys.
+45 (2) Analogue product. – A food product derived by combining processed plant
+46 products, insects, or fungi with food additives to approximate the texture,
+47 flavor, appearance, or other aesthetic qualities or the chemical characteristics
+48 of any specific type of animal agriculture product. This term includes
+49 cell-cultured products.
+Page 6 House Bill 135-First Edition
+General Assembly Of North Carolina Session 2025
+1 (3) Animal agriculture product. – A food product that is a dairy product, egg, egg
+2 product, meat, meat food product, poultry, or poultry product. This term does
+3 not include an analogue product.
+4 (4) Cell-cultured product. – A food product derived by harvesting animal cells
+5 and artificially replicating those cells in a growth medium in a laboratory or
+6 similar setting to produce tissue.
+7 (5) Dairy product. – A product manufactured for human consumption that is
+8 derived from the processing of milk. The term includes a fluid milk product.
+9 (6) Dietary supplement. – As defined in G.S. 105-164.3(55).
+10 (7) Egg. – As defined in 21 U.S.C. § 1033(g).
+11 (8) Egg product. – As defined in 21 U.S.C. § 1033(f).
+12 (9) Environmental improvement project. – A project that is intended to improve
+13 water quality, increase soil health, reduce flood risks, reduce chemical inputs,
+14 increase biodiversity, preserve farmland, or achieve similar ecological goals.
+15 (10) Fluid milk product. – A milk product normally consumed in liquid form as a
+16 beverage.
+17 (11) Food product. – A perishable or nonperishable product that is fit for human
+18 consumption. This term does not include dietary supplements.
+19 (12) Identifying term. – Any word or phrase that states, indicates, or describes an
+20 animal agriculture product, regardless of whether the word is used
+21 individually, as a compound word, or as a portmanteau.
+22 a. An "identifying term" includes all of the following:
+23 1. A common name for the species of an agricultural food animal
+24 subject to slaughter and processing, including a calf or cow,
+25 chicken, goat or kid, hog or pig, poultry, lamb or sheep, or
+26 turkey.
+27 2. A common name for a characteristic of a species of an
+28 agricultural food animal subject to slaughter and processing,
+29 based on age, breed, or sex.
+30 3. Any of the terms: beef or veal; egg; broiler, fryer, poulet, or
+31 yearling; cabrito or chevon; lamb or mutton; meat; milk; or
+32 pork.
+33 4. A common name used to describe a major cut of a meat of an
+34 agricultural food animal slaughtered and processed, including
+35 a major meat cut specified in 9 C.F.R. § 317.344; a poultry
+36 product such as breast, drumstick, giblet, thigh, or wing; or the
+37 common name of an organ or offal, including gizzard, heart,
+38 liver, kidney, or tongue.
+39 5. Any other common name that a reasonable purchaser would
+40 immediately associate with a dairy, egg, meat, or poultry
+41 product prepared for sale in normal commercial channels, such
+42 as bacon, baloney, bologna, bone, brat or bratwurst, brisket,
+43 burger or hamburger, butt, butter, cheese, chop, chuck, cold
+44 cut, cream, cutlet, filet, flat iron, frank or frankfurter,
+45 half-and-half, ham, hock, hot dog, ice cream, jerky, liverwurst,
+46 loin, London broil, lunch meat or lunchmeat, New York strip,
+47 pepperoni, porterhouse, ribeye, roast, rib or sparerib, salami,
+48 sausage, scramble, shank, sirloin, tenderloin, yogurt, or a
+49 comparable word or phrase.
+House Bill 135-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 b. An "identifying term" shall not include a product name that is
+2 understood by consumers not to be a term for an animal agriculture
+3 product or an analogue product.
+4 (13) Label. – A display of written, printed, or graphic matter placed upon any
+5 container storing a food product that is offered for sale or sold at retail,
+6 regardless of whether the written, printed, or graphic matter is printed on the
+7 container's packaging or a sticker affixed to the container. This does not
+8 include a nutrition facts panel or ingredients list required by the United States
+9 Food and Drug Administration.
+10 (14) Meat. – As defined in 9 C.F.R. § 301.2.
+11 (15) Meat food product. – Any product capable of use as human food that is made
+12 wholly or in part from any meat or other portion of the carcass of any cattle,
+13 sheep, swine, goat, bison, fallow deer, or red deer. For purposes of this section,
+14 the following are considered meat food products:
+15 a. Primal and subprimal cuts of meat.
+16 b. Ground meat.
+17 c. Sliced deli meat.
+18 d. Sausage.
+19 e. Bacon.
+20 f. Ham.
+21 g. Jerky.
+22 h. Corned beef.
+23 i. Smoked parts.
+24 j. Rendered fats.
+25 k. Edible offal.
+26 (16) Milk. – The lacteal secretion practically free from colostrum obtained by the
+27 milking of one or more cows, goats, or other lactating animals.
+28 (17) Poultry. – As defined in 21 U.S.C. § 453(e).
+29 (18) Poultry product. – As defined in 21 U.S.C. § 453(f). For purposes of this
+30 section, the following are considered poultry products:
+31 a. Whole poultry.
+32 b. Primal cuts of poultry.
+33 c. Ground poultry.
+34 d. Sliced deli poultry.
+35 e. Sausage.
+36 f. Bacon.
+37 g. Jerky.
+38 h. Smoked parts.
+39 i. Rendered fats.
+40 j. Edible offal.
+41 (19) Prepared food. – As defined in G.S. 105-164.4L.
+42 (20) Protein group. – The type of protein from which an animal agriculture product
+43 was derived or which an analogue product approximates or is intended to
+44 approximate. A meat food product or poultry product shall be classified based
+45 on the animal from which the meat was derived, and an analogue to a meat
+46 food product or poultry product shall be classified based on the specific animal
+47 protein approximated or intended to be approximated.
+48 (21) Trade associations. – All of the following organizations:
+49 a. North Carolina Cattleman's Association.
+50 b. North Carolina Dairy Producers Association.
+51 c. North Carolina Deer and Elk Farmers Association.
+Page 8 House Bill 135-First Edition
+General Assembly Of North Carolina Session 2025
+1 d. North Carolina Egg Association.
+2 e. North Carolina Pork Council.
+3 f. North Carolina Poultry Federation.
+4 g. North Carolina Sheep Producers Association.
+5 "§ 105-187.101. Environmental investment assessment imposed.
+6 (a) Levy and Rate. – An environmental investment assessment (EIA) of five cents (5¢)
+7 is imposed on each item of an animal agriculture product or an analogue product sold at retail if
+8 the article bears an identifying term on the product's label. For purposes of this Article, the term
+9 "item" refers to an item that is identified by a universal product code or other identifier
+10 representing the item and that is used to retrieve the sales price of the item.
+11 (b) Environmental Investment Assessment – The EIA imposed by this Article is intended
+12 to be passed on to the purchaser of an item to which the EIA is imposed and borne by the
+13 purchaser instead of by the retailer. A retailer must collect the EIA due on an item when sold at
+14 retail. A retailer must record the protein group to which any animal agriculture product or
+15 analogue product belongs and report this information to the Department of Revenue when it
+16 remits the collected EIAs to the Department. If the retailer cannot determine the protein group to
+17 which an animal agriculture product or analogue product belongs, the retailer shall consult with
+18 the trade association with which the product would be most closely identified. The trade
+19 association shall make the determination of whether the product should be subject to the
+20 assessment and notify the Department.
+21 (c) The retailer may retain one percent (1%) of the gross proceeds of the EIAs it collects
+22 for the retailer's administrative costs. The EIA is a debt from the purchaser to the retailer until
+23 paid and is recoverable at law by the retailer in the same manner as other debts. A retailer is
+24 considered to act as a trustee on behalf of the State when it collects the EIA from the purchaser
+25 on an applicable sale. The EIA must be stated and charged separately on the invoices or other
+26 documents of the retailer given to the purchaser at the time of the sale except for either of the
+27 following:
+28 (1) Vending machine sales.
+29 (2) Where a retailer displays a statement indicating the sales price includes the
+30 tax.
+31 "§ 105-187.102. Administration.
+32 Except as otherwise provided in this Article, the EIA imposed by this Article shall be
+33 collected and administered in the same manner as the State sales and use taxes imposed by Article
+34 5 of this Chapter. The provisions of Article 9 of this Chapter that are not inconsistent with this
+35 Article, including administration, auditing, making returns, promulgation of rules and regulations
+36 by the Secretary, additional taxes, assessments and assessment procedure, imposition and
+37 collection of taxes and the lien thereof, and penalties, are made a part of this Article and shall be
+38 applicable thereto.
+39 "§ 105-187.103. Exemptions and refunds.
+40 (a) The EIA imposed by this Article does not apply to any of the following:
+41 (1) Sales the State cannot constitutionally tax.
+42 (2) Products of a farm sold in their original state by the producer of the products
+43 if the producer is not primarily a retail merchant.
+44 (3) Prepared food.
+45 (4) Products containing ingredients from more than one protein group.
+46 (5) Meat food products or poultry products with a nonmeat or nonpoultry
+47 component other than seasoning, brine solution, or vinegar, or analogue
+48 products to such meat food products or poultry products.
+49 (b) Except as otherwise provided in this section, the exemptions and refunds allowed in
+50 Article 5 of this Chapter do not apply to sales of items subject to assessment under this Article.
+51 "§ 105-187.104. Use of EIA proceeds.
+House Bill 135-First Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (a) Two percent (2%) of the net proceeds of the EIAs shall be retained by the Department
+2 of Revenue for its administrative costs.
+3 (b) Of the remaining funds, each quarter, the Secretary shall credit the net proceeds of
+4 the EIAs collected under this Article to the trade associations proportionate to the amount of
+5 funds collected from the sale of products in each protein group.
+6 (c) Two percent (2%) of the funds credited to each trade association pursuant to this
+7 section shall be used for the costs of administering the grant program authorized by this section.
+8 The remainder of the funds credited to the trade associations may be used only to implement
+9 environmental improvement projects on the farms of constituent members of the trade
+10 associations. Each trade association shall develop (i) an application process by which constituent
+11 members may apply for funds for environmental improvement projects and (ii) a process for
+12 evaluating applications. In developing their processes, the trade associations shall consider the
+13 size of the operations applying for funds and strive to award equal amounts of funding to small
+14 and large operations. Any funds credited to the trade associations that are not awarded by a trade
+15 association for 18 months shall be remitted to the Agricultural Development and Farmland
+16 Preservation Trust Fund."
+17 SECTION 3.(b) This section becomes effective October 1, 2025, and applies to
+18 products sold on or after that date.
+19
+20 SEVERABILITY CLAUSE AND EFFECTIVE DATE
+21 SECTION 4.(a) If any section or provision of this act is declared unconstitutional or
+22 invalid by the courts, it does not affect the validity of this act as a whole or any part other than
+23 the part declared to be unconstitutional or invalid.
+24 SECTION 4.(b) Except as otherwise provided, this act becomes effective October
+25 1, 2025.
+Page 10 House Bill 135-First Edition
+[DELETED:  1 M ( R F i f H i f C a E i f A a E i f R A A A T P T M O C F P T P C C U A P S F P C F P A T E A E E T  R S " A m … ( " b … ( " f p m a f p h o o m s a t r a t o t o f a a f a b t i l o b d f m p c a ( " a I b I t c W t s p o s c t n o t p … ( " m t m a w o p t s i s o d a m p r o w t w o]
+[DELETED:  S  H p t a A t o b A f o c M d A c n u t d a m c o a m o a a m o e A o c n t a r p w i f s i n c c s a b b b c h Y s p p r r r o s s p ( " f p m a f p h o o m s a t r a t o t o f a a f a b t i l o b d f m p … ( " f p m a c f p i … ( " m c p m o f b o o p o s c c i s p a n a T t a a t f p o e s h a m c s ( " s a t a c p t m o f p a I b I c I i i o u i l b i t o u t …]
+[DELETED:  S  P m T p i a c p a i i n l i a … ( " f p m a f p h o o m s a t r a t o t o f a a f a b t i l o b d f m p … ( " t m a w c w o p t w c i n a m p T i t f t " " " i a l " " " " " ( " m a b w b i s s t f m c t m … S a " ( T t g ( A s S " F … ( " f p m a f p h o o m s t i l o b d f m p i d f m p a g i v a m b m a p o a m ( " a I b I t c W t s p o s c t n o t p … ( " s p t a A p]
+[DELETED:  S  H b A t c M d A a g t o w o t c n o a o o o i e A o c n t a r p w i f … ( " f p m a f p h o o m s t i l o b d f m p i d f m … ( " f p m a c f p i ( " f a I b I c I u t … m I a … ( " f p m a f p h o o m s t i l o b d f m p i d f m … ( " w a w c p i o i a r s p o h f p t p … ( " t m a w c w o p t w c d t a r p p t a f p i n a p p T i t f t " " " i a l " " " " …]
+[DELETED:  S  P S " 1  L s f a m l l o m … ( T l o a m f p t c a i p w t S p  P C C P U A P S F P M P A C S " P e f a M a b A c f p a d i G o G S a " L t ( M 4 ( A c f p a d i G o G S " P p ( M 4 ( A c f p a d i G o G S " P p a M a b A c f p a d i G o G S " F h s o e]
+[DELETED:  S  H m a f r s f S " T t o e i s c t l a b o s i b f … ( T t a M a b A c f p a d i G o G S b " E t ( M 4 ( A c f p a d i G o G S ( (  E A E I A O C M S a " " " T ( A c c c ( A p f o a s t o a a p T t i c]
+[DELETED:  S  P ( A p n ( C a s ( D p – A p m f h c t i d ( D ( E ( E ( E w i ( F b ( F c ( I a a p r o w t w i u i a A 1 A s c t 2 A c n f a c o a s o a a b 3 A y p 4 A a a p c l 5 A i a w a d e m o p p a b c c c f f i f o f h l p s s s s t y o a c]
+[DELETED:  S  H b A " t s n i a p n t i u p ( L c s a f p t i o f s o s a r r c p o a s a t t c T d n i F ( M ( M w s t a P b G c S d S e B f H g J h C i S j R k E ( M m ( P ( P s a W b P c G d S e S f B g J h S i R j E ( P ( P w a o f p ( T a N b N c N]
+[DELETED:  S  P d N e N f N g N " ( L i t " r t a i t i i b a u p c o o i r ( E t p r A r m r t p g t w a a a p o a r w t t a w w t p w b m c i T t a s m t d o w t p s b s t t a ( T f p c o d f ( V ( W t " E a o p i t A t E i b t A s b c 5 A b t S a t a a a p i a c a " ( T ( S ( P i ( P ( P ( M f p o p p w a n o n c o t s b s o v o a p ( E A "]
+[DELETED:  S  H ( T o ( O t f ( T s T e i p o t f o c m o t t a m e s a a f 1 m s b r t t A D a F P S p  S S i t S 1]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 135
+Short Title: Misbranding/Cell-Cultured Meat/Env. Assess. (Public)
+Sponsors: Representatives McNeely, Humphrey, Lowery, and K. Hall (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Finance, if favorable, Health, if favorable, Commerce and Economic
+Development, if favorable, Agriculture and Environment, if favorable, Rules,
+Calendar, and Operations of the House
+February 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT THE MISBRANDING OF CERTAIN FOOD PRODUCTS; TO
+3 PROHIBIT COMMUNITY COLLEGES, UNIVERSITIES, AND PUBLIC SCHOOLS
+4 FROM PURCHASING CERTAIN FOOD PRODUCTS; AND TO ESTABLISH AN
+5 ENVIRONMENTAL INVESTMENT ASSESSMENT ON CERTAIN MEAT, POULTRY,
+6 EGG, AND DAIRY PRODUCTS AND ANALOGOUS PRODUCTS.
+7 The General Assembly of North Carolina enacts:
+8
+9 REQUIRE LABELING OF MANUFACTURED-PROTEIN PRODUCTS
+10 SECTION 1.(a) G.S. 106-549.15 reads as rewritten:
+11 "§ 106-549.15. Definitions.
+12 As used in this Article, except as otherwise specified, the following terms shall have the
+13 meanings stated below:
+14 …
+15 (1a) "Agricultural food animal" means a domesticated animal belonging to the
+16 bovine, caprine, ovine, or porcine species.
+17 …
+18 (5a) "Cell-cultured food product" means a food product having one or more
+19 sensory attributes that resemble a type of tissue originating from an
+20 agricultural food animal but that, in lieu of being derived from meat
+21 processing, is derived from manufacturing cells, in which one or more stem
+22 cells are initially isolated from an agricultural food animal, are grown in vitro,
+23 and may be manipulated, as part of a manufacturing operation.
+24 (5b) "Close proximity" means any of the following:
+25 a. Immediately before or after the name of the product.
+26 b. In the line of the label immediately before or after the line containing
+27 the name of the product.
+28 c. Within the same phrase or sentence containing the name of the
+29 product.
+30 …
+31 (9a) "Identifying meat term" means any word or phrase that states, indicates,
+32 suggests, or describes a meat product, regardless of whether the word or
+*H135-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 phrase is used individually, as a portmanteau, or as a compound word. This
+2 term includes all of the following:
+3 a. A common name for the species of the agricultural food animal subject
+4 to slaughter and processing, including a calf or cow, goat or kid, hog
+5 or pig, or lamb or sheep.
+6 b. A common name for a characteristic of a species of the agricultural
+7 food animal subject to slaughter and processing based on age, breed,
+8 or sex.
+9 c. Meat, beef or veal, cabrito or chevon, lamb or mutton, or pork.
+10 d. A common name used to describe a major cut of a meat of an
+11 agricultural food animal slaughtered and processed, including a major
+12 meat cut specified in 9 C.F.R. § 317.344, or the common name of an
+13 organ or offal, including heart, liver, kidney, or tongue.
+14 e. Any other common name that a reasonable purchaser would
+15 immediately and exclusively associate with a meat product prepared
+16 for sale in normal commercial channels such as bacon, baloney,
+17 bologna, bone, brat or bratwurst, brisket, burger or hamburger, butt,
+18 chop, chuck, cold cut, cutlet, filet, flat iron, frank or frankfurter, ham,
+19 hock, hot dog, jerky, liverwurst, loin, London broil, lunch meat, New
+20 York strip, pepperoni, porterhouse, ribeye, roast, rib or sparerib,
+21 salami, sausage, shank, sirloin, tenderloin, or a comparable word or
+22 phrase.
+23 (9b) "Insect-protein food product" means a food product having one or more
+24 sensory attributes that resemble a type of tissue originating from an
+25 agricultural food animal but that, in lieu of being derived from meat
+26 processing, is derived from manufacturing insect parts.
+27 …
+28 (12a) "Manufactured-protein food product" means a cell-cultured food product,
+29 insect-protein food product, or plant-protein food product.
+30 …
+31 (14) "Meat food product" means any product capable of use as human food that is
+32 made wholly or in part from any meat or other portion of the carcass of any
+33 cattle, sheep, swine, goats, bison, fallow deer, or red deer, or any cell-cultured
+34 product made from cells of those animals, excepting products that contain
+35 meat or other portions of such carcasses only in a relatively small proportion
+36 or historically have not been considered by consumers as products of the meat
+37 food industry, and that are exempted from definition as a meat food product
+38 by the Board under such conditions as it may prescribe to assure that the meat
+39 or other portions of such carcasses contained in such product are not
+40 adulterated and that such products are not represented as meat food products.
+41 This term as applied to food products of equines shall have a meaning
+42 comparable to that provided in this subdivision with respect to cattle, sheep,
+43 swine, goats, and bison.
+44 (15) "Misbranded" shall apply to any carcass, part thereof, meat or meat food
+45 product under one or more of the following circumstances:
+46 a. If its labeling is false or misleading in any particular;
+47 b. If it is offered for sale under the name of another food;
+48 c. If it is imitation of another food, unless its label bears, in type of
+49 uniform size and prominence, the word "imitation" and immediately
+50 thereafter, the name of the food imitated;
+51 …
+Page 2 House Bill 135-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 m. The product is a cell-cultured product, and it is not labeled in
+2 accordance with G.S. 106-549.28A.
+3 …
+4 (20a) "Plant-protein food product" means a food product having one or more
+5 sensory attributes that resemble a type of tissue originating from an
+6 agricultural food animal but that, in lieu of being derived from meat
+7 processing, is derived from manufacturing plant or fungus parts.
+8 …
+9 (21a) "Qualifying term" means a word, compound word, or phrase that would
+10 clearly disclose to a reasonable purchaser of meat products that a food product
+11 is not a meat product. This includes the following terms: "cell-cultured,"
+12 "fake," "grown in a lab," "insect," "insect-based," "insect-protein,"
+13 "lab-created," "lab-grown," "meat free," "meatless," "plant," "plant-based,"
+14 "vegan," "vegetable," "vegetarian," or "veggie."
+15 (21b) "Ratite" means a bird whose breastbone is smooth so that flight muscles
+16 cannot attach, such as an ostrich, an emu, and a rhea. These birds are subject
+17 to the provisions of this Article and Article 49C to the same extent as any other
+18 meat food product.
+19 …."
+20 SECTION 1.(b) Article 49B of Chapter 106 of the General Statutes is amended by
+21 adding a new section to read:
+22 "§ 106-549.28A. Labeling of manufactured-protein food products.
+23 (a) The label of any manufactured-protein food product that contains an identifying meat
+24 term shall also contain in at least 20-point font or the size of the surrounding type, whichever is
+25 greater, and in close proximity to the name of the product, an appropriate qualifying term.
+26 (b) A manufactured-protein food product that does not meet the requirements of this
+27 section shall be deemed misbranded for purposes of this Article."
+28 SECTION 1.(c) G.S. 106-549.51 reads as rewritten:
+29 "§ 106-549.51. Definitions.
+30 For purposes of this Article, the following terms shall have the meanings stated below:
+31 …
+32 (4a) "Cell-cultured food product" means a food product having one or more
+33 sensory attributes that resemble a type of tissue originating from poultry but
+34 that, in lieu of being derived from meat processing, is derived from
+35 manufacturing cells, in which one or more stem cells are initially isolated from
+36 poultry, are grown in vitro, and may be manipulated, as part of a
+37 manufacturing operation.
+38 (4b) "Close proximity" means any of the following:
+39 a. Immediately before or after the name of the product.
+40 b. In the line of the label immediately before or after the line containing
+41 the name of the product.
+42 c. Within the same phrase or sentence containing the name of the
+43 product.
+44 …
+45 (10a) "Identifying poultry term" means any word or phrase that states, indicates,
+46 suggests, or describes a poultry product, regardless of whether the word or
+47 phrase is used individually, as a portmanteau, or as a compound word. This
+48 term includes all of the following:
+49 a. A common name for the species of the poultry subject to slaughter and
+50 processing, including chicken, poultry, or turkey.
+House Bill 135-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 b. A common name for a characteristic of a species of the poultry subject
+2 to slaughter and processing based on age, breed, or sex.
+3 c. Meat, broiler, fryer, poulet, or yearling.
+4 d. A common name used to describe a major cut of poultry slaughtered
+5 and processed, including a poultry product such as breast, drumstick,
+6 giblet, thigh, or wing; or the common name of an organ or offal,
+7 including gizzard, heart, liver, kidney, or tongue.
+8 e. Any other common name that a reasonable purchaser would
+9 immediately and exclusively associate with a poultry product prepared
+10 for sale in normal commercial channels.
+11 …
+12 (11a) "Insect-protein food product" means a food product having one or more
+13 sensory attributes that resemble a type of tissue originating from poultry but
+14 that, in lieu of being derived from meat processing, is derived from
+15 manufacturing insect parts.
+16 …
+17 (16a) "Manufactured-protein food product" means a cell-cultured food product,
+18 insect-protein food product, or plant-protein food product.
+19 (17) "Misbranded" shall apply to any poultry product under one or more of the
+20 following circumstances:
+21 a. If its labeling is false or misleading in any particular;
+22 b If it is offered for sale under the name of another food;
+23 c. If it is an imitation of another food, unless its label bears, in type of
+24 uniform size and prominence, the word "imitation" and immediately
+25 thereafter, the name of the food imitated;
+26 …
+27 m. If it is a manufactured-protein food product and it is not labeled in
+28 accordance with G.S. 106-549.55(e).
+29 …
+30 (24a) "Plant-protein food product" means a food product having one or more
+31 sensory attributes that resemble a type of tissue originating from poultry but
+32 that, in lieu of being derived from meat processing, is derived from
+33 manufacturing plant or fungus parts.
+34 …
+35 (26) "Poultry product" means any poultry carcass, or part thereof; or any product
+36 which is made wholly or in part from any poultry carcass or part thereof, or
+37 any cell-cultured food product made from cells of poultry, excepting products
+38 which contain poultry ingredients only in a relatively small proportion or
+39 historically have not been considered by consumers as products of the poultry
+40 food industry, and which are exempted by the Board from definition as a
+41 poultry product under such conditions as the Board may prescribe to assure
+42 that the poultry ingredients in such products are not adulterated and that such
+43 products are not represented as poultry products.
+44 …
+45 (28a) "Qualifying term" means a word, compound word, or phrase that would
+46 clearly disclose to a reasonable purchaser of poultry products that a food
+47 product is not a poultry product. This includes the following terms:
+48 "cell-cultured," "fake," "grown in a lab," "insect," "insect-based,"
+49 "insect-protein," "lab-created," "lab-grown," "meat free," "meatless," "plant,"
+50 "plant-based," "vegan," "vegetable," "vegetarian," or "veggie."
+51 …."
+Page 4 House Bill 135-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(d) G.S. 106-549.55 reads as rewritten:
+2 "§ 106-549.55. Labeling standards; false and misleading labels.labels; labeling of
+3 manufactured-protein food products.
+4 …
+5 (e) The label of any manufactured-protein food product that contains an identifying
+6 poultry term shall also contain in at least 20-point font or the size of the surrounding type,
+7 whichever is greater, and in close proximity to the name of the product, an appropriate qualifying
+8 term."
+9 SECTION 1.(e) This section becomes effective October 1, 2025, and applies to
+10 products sold or offered for sale on or after that date.
+11
+12 PROHIBIT COMMUNITY COLLEGES, PUBLIC UNIVERSITIES, AND PUBLIC
+13 SCHOOLS FROM PURCHASING MISBRANDED PRODUCTS AND
+14 CELL-CULTURED PRODUCTS
+15 SECTION 2.(a) G.S. 115C-12 is amended by adding a new subdivision to read:
+16 "(50) Purchases of meat and poultry products. – The State Board of Education shall
+17 establish policies to prevent the purchase of a food product that is any of the
+18 following:
+19 a. Misbranded as a meat or poultry product as prohibited in Articles 49B
+20 and 49D of Chapter 106 of the General Statutes.
+21 b. A cell-cultured food product as defined in G.S. 106-549.15 or
+22 G.S. 106-549.51."
+23 SECTION 2.(b) Part 2 of Article 17 of Chapter 115C of the General Statutes is
+24 amended by adding a new section to read:
+25 "§ 115C-264.6. Purchases of meat and poultry products.
+26 Local boards of education shall establish policies to prevent the purchase of a food product
+27 that is any of the following:
+28 (1) Misbranded as a meat or poultry product as prohibited in Articles 49B and
+29 49D of Chapter 106 of the General Statutes.
+30 (2) A cell-cultured food product as defined in G.S. 106-549.15 or
+31 G.S. 106-549.51."
+32 SECTION 2.(c) G.S. 115C-218.75 is amended by adding a new subsection to read:
+33 "(p) Purchases of Meat and Poultry Products. – A charter school shall establish policies to
+34 prevent the purchase of a food product that is any of the following:
+35 (1) Misbranded as a meat or poultry product as prohibited in Articles 49B and
+36 49D of Chapter 106 of the General Statutes.
+37 (2) A cell-cultured food product as defined in G.S. 106-549.15 or
+38 G.S. 106-549.51."
+39 SECTION 2.(d) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+40 "(23) Purchases of meat and poultry products. – A regional school shall establish
+41 policies to prevent the purchase of a food product that is any of the following:
+42 a. Misbranded as a meat or poultry product as prohibited in Articles 49B
+43 and 49D of Chapter 106 of the General Statutes.
+44 b. A cell-cultured food product as defined in G.S. 106-549.15 or
+45 G.S. 106-549.51."
+46 SECTION 2.(e) G.S. 116-239.8(b)(4)c. reads as rewritten:
+47 "c. Food services. – The laboratory school shall strive to ensure that one
+48 hundred percent (100%) muscadine grape juice is made available to
+49 students as a part of the school's nutrition program or through the
+50 operation of the school's vending facilities. The laboratory school shall
+51 establish policies to prevent the purchase of a food product that is (i)
+House Bill 135-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 misbranded as a meat or poultry product as prohibited in Articles 49B
+2 and 49D of Chapter 106 of the General Statutes or (ii) cell-cultured
+3 food product as defined in G.S. 106-549.15 or G.S. 106-549.51. Upon
+4 request, the local school administrative unit in which the laboratory
+5 school is located shall administer the National School Lunch Program
+6 for the laboratory school in accordance with G.S. 115C-264."
+7 SECTION 2.(f) G.S. 115D-20 reads as rewritten:
+8 "§ 115D-20. Powers and duties of trustees.
+9 The trustees of each institution shall constitute the local administrative board of such
+10 institution, with such powers and duties as are provided in this Chapter and as are delegated to it
+11 by the State Board of Community Colleges. The powers and duties of trustees shall include the
+12 following:
+13 …
+14 (16) To establish policies to prevent the purchase of a food product that is any of
+15 the following:
+16 a. Misbranded as a meat or poultry product as prohibited in Articles 49B
+17 and 49D of Chapter 106 of the General Statutes.
+18 b. A cell-cultured food product as defined in G.S. 106-549.15 or
+19 G.S. 106-549.51."
+20 SECTION 2.(g) Part 5 of Article 1 of Chapter 116 of the General Statutes is amended
+21 by adding a new section to read:
+22 "§ 116-43.26. Purchases of meat and poultry products.
+23 Each constituent institution shall establish policies to prevent the purchase of a food product
+24 that is any of the following:
+25 (1) Misbranded as a meat or poultry product as prohibited in Articles 49B and
+26 49D of Chapter 106 of the General Statutes.
+27 (2) A cell-cultured food product as defined in G.S. 106-549.15 or
+28 G.S. 106-549.51."
+29 SECTION 2.(h) This section becomes effective October 1, 2025. Subsections (a),
+30 (b), (c), (d), and (e) of this section apply beginning with the 2026-2027 school year. Subsections
+31 (f) and (g) of this section apply beginning with the 2026-2027 academic year.
+32
+33 ESTABLISH AN ENVIRONMENTAL INVESTMENT ASSESSMENT ON CERTAIN
+34 MEAT, POULTRY, EGG, AND DAIRY PRODUCTS AND ANALOGOUS PRODUCTS
+35 SECTION 3.(a) Subchapter I of Chapter 105 of the General Statutes is amended by
+36 adding a new Article to read:
+37 "Article 5K.
+38 "Animal Agriculture and Analogues Environmental Investment Assessment.
+39 "§ 105-187.100. Definitions.
+40 The following definitions apply in this Article:
+41 (1) Agricultural food animal. – A domesticated animal belonging to the bovine,
+42 caprine, ovine, or porcine species; a domesticated animal belonging to the
+43 cervid species limited to fallow deer or red deer; and domestic fowl limited to
+44 chickens or turkeys.
+45 (2) Analogue product. – A food product derived by combining processed plant
+46 products, insects, or fungi with food additives to approximate the texture,
+47 flavor, appearance, or other aesthetic qualities or the chemical characteristics
+48 of any specific type of animal agriculture product. This term includes
+49 cell-cultured products.
+Page 6 House Bill 135-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Animal agriculture product. – A food product that is a dairy product, egg, egg
+2 product, meat, meat food product, poultry, or poultry product. This term does
+3 not include an analogue product.
+4 (4) Cell-cultured product. – A food product derived by harvesting animal cells
+5 and artificially replicating those cells in a growth medium in a laboratory or
+6 similar setting to produce tissue.
+7 (5) Dairy product. – A product manufactured for human consumption that is
+8 derived from the processing of milk. The term includes a fluid milk product.
+9 (6) Dietary supplement. – As defined in G.S. 105-164.3(55).
+10 (7) Egg. – As defined in 21 U.S.C. § 1033(g).
+11 (8) Egg product. – As defined in 21 U.S.C. § 1033(f).
+12 (9) Environmental improvement project. – A project that is intended to improve
+13 water quality, increase soil health, reduce flood risks, reduce chemical inputs,
+14 increase biodiversity, preserve farmland, or achieve similar ecological goals.
+15 (10) Fluid milk product. – A milk product normally consumed in liquid form as a
+16 beverage.
+17 (11) Food product. – A perishable or nonperishable product that is fit for human
+18 consumption. This term does not include dietary supplements.
+19 (12) Identifying term. – Any word or phrase that states, indicates, or describes an
+20 animal agriculture product, regardless of whether the word is used
+21 individually, as a compound word, or as a portmanteau.
+22 a. An "identifying term" includes all of the following:
+23 1. A common name for the species of an agricultural food animal
+24 subject to slaughter and processing, including a calf or cow,
+25 chicken, goat or kid, hog or pig, poultry, lamb or sheep, or
+26 turkey.
+27 2. A common name for a characteristic of a species of an
+28 agricultural food animal subject to slaughter and processing,
+29 based on age, breed, or sex.
+30 3. Any of the terms: beef or veal; egg; broiler, fryer, poulet, or
+31 yearling; cabrito or chevon; lamb or mutton; meat; milk; or
+32 pork.
+33 4. A common name used to describe a major cut of a meat of an
+34 agricultural food animal slaughtered and processed, including
+35 a major meat cut specified in 9 C.F.R. § 317.344; a poultry
+36 product such as breast, drumstick, giblet, thigh, or wing; or the
+37 common name of an organ or offal, including gizzard, heart,
+38 liver, kidney, or tongue.
+39 5. Any other common name that a reasonable purchaser would
+40 immediately associate with a dairy, egg, meat, or poultry
+41 product prepared for sale in normal commercial channels, such
+42 as bacon, baloney, bologna, bone, brat or bratwurst, brisket,
+43 burger or hamburger, butt, butter, cheese, chop, chuck, cold
+44 cut, cream, cutlet, filet, flat iron, frank or frankfurter,
+45 half-and-half, ham, hock, hot dog, ice cream, jerky, liverwurst,
+46 loin, London broil, lunch meat or lunchmeat, New York strip,
+47 pepperoni, porterhouse, ribeye, roast, rib or sparerib, salami,
+48 sausage, scramble, shank, sirloin, tenderloin, yogurt, or a
+49 comparable word or phrase.
+House Bill 135-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 b. An "identifying term" shall not include a product name that is
+2 understood by consumers not to be a term for an animal agriculture
+3 product or an analogue product.
+4 (13) Label. – A display of written, printed, or graphic matter placed upon any
+5 container storing a food product that is offered for sale or sold at retail,
+6 regardless of whether the written, printed, or graphic matter is printed on the
+7 container's packaging or a sticker affixed to the container. This does not
+8 include a nutrition facts panel or ingredients list required by the United States
+9 Food and Drug Administration.
+10 (14) Meat. – As defined in 9 C.F.R. § 301.2.
+11 (15) Meat food product. – Any product capable of use as human food that is made
+12 wholly or in part from any meat or other portion of the carcass of any cattle,
+13 sheep, swine, goat, bison, fallow deer, or red deer. For purposes of this section,
+14 the following are considered meat food products:
+15 a. Primal and subprimal cuts of meat.
+16 b. Ground meat.
+17 c. Sliced deli meat.
+18 d. Sausage.
+19 e. Bacon.
+20 f. Ham.
+21 g. Jerky.
+22 h. Corned beef.
+23 i. Smoked parts.
+24 j. Rendered fats.
+25 k. Edible offal.
+26 (16) Milk. – The lacteal secretion practically free from colostrum obtained by the
+27 milking of one or more cows, goats, or other lactating animals.
+28 (17) Poultry. – As defined in 21 U.S.C. § 453(e).
+29 (18) Poultry product. – As defined in 21 U.S.C. § 453(f). For purposes of this
+30 section, the following are considered poultry products:
+31 a. Whole poultry.
+32 b. Primal cuts of poultry.
+33 c. Ground poultry.
+34 d. Sliced deli poultry.
+35 e. Sausage.
+36 f. Bacon.
+37 g. Jerky.
+38 h. Smoked parts.
+39 i. Rendered fats.
+40 j. Edible offal.
+41 (19) Prepared food. – As defined in G.S. 105-164.4L.
+42 (20) Protein group. – The type of protein from which an animal agriculture product
+43 was derived or which an analogue product approximates or is intended to
+44 approximate. A meat food product or poultry product shall be classified based
+45 on the animal from which the meat was derived, and an analogue to a meat
+46 food product or poultry product shall be classified based on the specific animal
+47 protein approximated or intended to be approximated.
+48 (21) Trade associations. – All of the following organizations:
+49 a. North Carolina Cattleman's Association.
+50 b. North Carolina Dairy Producers Association.
+51 c. North Carolina Deer and Elk Farmers Association.
+Page 8 House Bill 135-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 d. North Carolina Egg Association.
+2 e. North Carolina Pork Council.
+3 f. North Carolina Poultry Federation.
+4 g. North Carolina Sheep Producers Association.
+5 "§ 105-187.101. Environmental investment assessment imposed.
+6 (a) Levy and Rate. – An environmental investment assessment (EIA) of five cents (5¢)
+7 is imposed on each item of an animal agriculture product or an analogue product sold at retail if
+8 the article bears an identifying term on the product's label. For purposes of this Article, the term
+9 "item" refers to an item that is identified by a universal product code or other identifier
+10 representing the item and that is used to retrieve the sales price of the item.
+11 (b) Environmental Investment Assessment – The EIA imposed by this Article is intended
+12 to be passed on to the purchaser of an item to which the EIA is imposed and borne by the
+13 purchaser instead of by the retailer. A retailer must collect the EIA due on an item when sold at
+14 retail. A retailer must record the protein group to which any animal agriculture product or
+15 analogue product belongs and report this information to the Department of Revenue when it
+16 remits the collected EIAs to the Department. If the retailer cannot determine the protein group to
+17 which an animal agriculture product or analogue product belongs, the retailer shall consult with
+18 the trade association with which the product would be most closely identified. The trade
+19 association shall make the determination of whether the product should be subject to the
+20 assessment and notify the Department.
+21 (c) The retailer may retain one percent (1%) of the gross proceeds of the EIAs it collects
+22 for the retailer's administrative costs. The EIA is a debt from the purchaser to the retailer until
+23 paid and is recoverable at law by the retailer in the same manner as other debts. A retailer is
+24 considered to act as a trustee on behalf of the State when it collects the EIA from the purchaser
+25 on an applicable sale. The EIA must be stated and charged separately on the invoices or other
+26 documents of the retailer given to the purchaser at the time of the sale except for either of the
+27 following:
+28 (1) Vending machine sales.
+29 (2) Where a retailer displays a statement indicating the sales price includes the
+30 tax.
+31 "§ 105-187.102. Administration.
+32 Except as otherwise provided in this Article, the EIA imposed by this Article shall be
+33 collected and administered in the same manner as the State sales and use taxes imposed by Article
+34 5 of this Chapter. The provisions of Article 9 of this Chapter that are not inconsistent with this
+35 Article, including administration, auditing, making returns, promulgation of rules and regulations
+36 by the Secretary, additional taxes, assessments and assessment procedure, imposition and
+37 collection of taxes and the lien thereof, and penalties, are made a part of this Article and shall be
+38 applicable thereto.
+39 "§ 105-187.103. Exemptions and refunds.
+40 (a) The EIA imposed by this Article does not apply to any of the following:
+41 (1) Sales the State cannot constitutionally tax.
+42 (2) Products of a farm sold in their original state by the producer of the products
+43 if the producer is not primarily a retail merchant.
+44 (3) Prepared food.
+45 (4) Products containing ingredients from more than one protein group.
+46 (5) Meat food products or poultry products with a nonmeat or nonpoultry
+47 component other than seasoning, brine solution, or vinegar, or analogue
+48 products to such meat food products or poultry products.
+49 (b) Except as otherwise provided in this section, the exemptions and refunds allowed in
+50 Article 5 of this Chapter do not apply to sales of items subject to assessment under this Article.
+51 "§ 105-187.104. Use of EIA proceeds.
+House Bill 135-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (a) Two percent (2%) of the net proceeds of the EIAs shall be retained by the Department
+2 of Revenue for its administrative costs.
+3 (b) Of the remaining funds, each quarter, the Secretary shall credit the net proceeds of
+4 the EIAs collected under this Article to the trade associations proportionate to the amount of
+5 funds collected from the sale of products in each protein group.
+6 (c) Two percent (2%) of the funds credited to each trade association pursuant to this
+7 section shall be used for the costs of administering the grant program authorized by this section.
+8 The remainder of the funds credited to the trade associations may be used only to implement
+9 environmental improvement projects on the farms of constituent members of the trade
+10 associations. Each trade association shall develop (i) an application process by which constituent
+11 members may apply for funds for environmental improvement projects and (ii) a process for
+12 evaluating applications. In developing their processes, the trade associations shall consider the
+13 size of the operations applying for funds and strive to award equal amounts of funding to small
+14 and large operations. Any funds credited to the trade associations that are not awarded by a trade
+15 association for 18 months shall be remitted to the Agricultural Development and Farmland
+16 Preservation Trust Fund."
+17 SECTION 3.(b) This section becomes effective October 1, 2025, and applies to
+18 products sold on or after that date.
+19
+20 SEVERABILITY CLAUSE AND EFFECTIVE DATE
+21 SECTION 4.(a) If any section or provision of this act is declared unconstitutional or
+22 invalid by the courts, it does not affect the validity of this act as a whole or any part other than
+23 the part declared to be unconstitutional or invalid.
+24 SECTION 4.(b) Except as otherwise provided, this act becomes effective October
+25 1, 2025.
+Page 10 House Bill 135-First Edition
+
+[DELETED:  1 M ( R F i f H i f C a E i f A a E i f R A A A T P T M O C F P T P C C U A P S F P C F P A T E A E E T  R S " A m … ( " b … ( " f p m a f p h o o m s a t r a t o t o f a a f a b t i l o b d f m p c a ( " a I b I t c W t s p o s c t n o t p … ( " m t m a w o p t s i s o d a m p r o w t w o]
+[DELETED:  S  H p t a A t o b A f o c M d A c n u t d a m c o a m o a a m o e A o c n t a r p w i f s i n c c s a b b b c h Y s p p r r r o s s p ( " f p m a f p h o o m s a t r a t o t o f a a f a b t i l o b d f m p … ( " f p m a c f p i … ( " m c p m o f b o o p o s c c i s p a n a T t a a t f p o e s h a m c s ( " s a t a c p t m o f p a I b I c I i i o u i l b i t o u t …]
+[DELETED:  S  P m T p i a c p a i i n l i a … ( " f p m a f p h o o m s a t r a t o t o f a a f a b t i l o b d f m p … ( " t m a w c w o p t w c i n a m p T i t f t " " " i a l " " " " " ( " m a b w b i s s t f m c t m … S a " ( T t g ( A s S " F … ( " f p m a f p h o o m s t i l o b d f m p i d f m p a g i v a m b m a p o a m ( " a I b I t c W t s p o s c t n o t p … ( " s p t a A p]
+[DELETED:  S  H b A t c M d A a g t o w o t c n o a o o o i e A o c n t a r p w i f … ( " f p m a f p h o o m s t i l o b d f m p i d f m … ( " f p m a c f p i ( " f a I b I c I u t … m I a … ( " f p m a f p h o o m s t i l o b d f m p i d f m … ( " w a w c p i o i a r s p o h f p t p … ( " t m a w c w o p t w c d t a r p p t a f p i n a p p T i t f t " " " i a l " " " " …]
+[DELETED:  S  P S " 1  L s f a m l l o m … ( T l o a m f p t c a i p w t S p  P C C P U A P S F P M P A C S " P e f a M a b A c f p a d i G o G S a " L t ( M 4 ( A c f p a d i G o G S " P p ( M 4 ( A c f p a d i G o G S " P p a M a b A c f p a d i G o G S " F h s o e]
+[DELETED:  S  H m a f r s f S " T t o e i s c t l a b o s i b f … ( T t a M a b A c f p a d i G o G S b " E t ( M 4 ( A c f p a d i G o G S ( (  E A E I A O C M S a " " " T ( A c c c ( A p f o a s t o a a p T t i c]
+[DELETED:  S  P ( A p n ( C a s ( D p – A p m f h c t i d ( D ( E ( E ( E w i ( F b ( F c ( I a a p r o w t w i u i a A 1 A s c t 2 A c n f a c o a s o a a b 3 A y p 4 A a a p c l 5 A i a w a d e m o p p a b c c c f f i f o f h l p s s s s t y o a c]
+[DELETED:  S  H b A " t s n i a p n t i u p ( L c s a f p t i o f s o s a r r c p o a s a t t c T d n i F ( M ( M w s t a P b G c S d S e B f H g J h C i S j R k E ( M m ( P ( P s a W b P c G d S e S f B g J h S i R j E ( P ( P w a o f p ( T a N b N c N]
+[DELETED:  S  P d N e N f N g N " ( L i t " r t a i t i i b a u p c o o i r ( E t p r A r m r t p g t w a a a p o a r w t t a w w t p w b m c i T t a s m t d o w t p s b s t t a ( T f p c o d f ( V ( W t " E a o p i t A t E i b t A s b c 5 A b t S a t a a a p i a c a " ( T ( S ( P i ( P ( P ( M f p o p p w a n o n c o t s b s o v o a p ( E A "]
+[DELETED:  S  H ( T o ( O t f ( T s T e i p o t f o c m o t t a m e s a a f 1 m s b r t t A D a F P S p  S S i t S 1]
