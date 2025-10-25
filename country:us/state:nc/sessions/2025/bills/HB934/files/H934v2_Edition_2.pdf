@@ -1,0 +1,141 @@
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 934
+Committee Substitute Favorable 5/6/25
+Short Title: AI Regulatory Reform Act. (Public)
+Sponsors:
+Referred to:
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT AMENDING THE CRIMINAL LAWS TO CREATE THE OFFENSE OF
+3 UNLAWFUL DISTRIBUTION OF A DEEPFAKE AND AMENDING THE CIVIL
+4 PROCEDURE LAWS TO GRANT IMMUNITY FROM CIVIL LIABILITY TO
+5 DEVELOPERS OF ARTIFICIAL INTELLIGENCE PRODUCTS USED BY LEARNED
+6 PROFESSIONALS.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) Article 60 of Chapter 14 of the General Statutes is amended by
+9 adding a new section to read:
+10 "§ 14-459. Unlawful distribution of a deepfake.
+11 (a) Definitions. – For purposes of this section, the following definitions apply:
+12 (1) Deepfake. – An image, audio recording, or video recording that is created with
+13 the intent to deceive and is digitally altered or generated to inauthentically
+14 depict a natural person speaking or acting in a manner that the person did not
+15 actually speak or act, in such a manner that a reasonable person would not
+16 know that the depiction is false. A work of artistic or newsworthy value,
+17 including commentary, criticism, satire, or parody, is not a deepfake.
+18 (2) Interactive computer service. – Any information service, system, or access
+19 software provider that provides or enables computer access by multiple users
+20 to a computer server, including specifically a service or system that provides
+21 access to the internet and such systems operated or services offered by
+22 libraries or educational institutions.
+23 (b) Offense. – It is unlawful for a person, without the affirmative consent of the depicted
+24 individual, to knowingly do any of the following for the purpose of (i) harassing, extorting,
+25 threatening, or causing physical, emotional, reputational, or economic harm to an individual
+26 falsely depicted or (ii) injuring a candidate for elected office or influencing an election:
+27 (1) Create a deepfake with an intent to distribute the deepfake.
+28 (2) Distribute a deepfake.
+29 (3) Solicit the creation of a deepfake with an intent to distribute the deepfake.
+30 (c) Punishment. – A violation of this section is punishable as a Class 1 misdemeanor.
+31 (d) Civil Action. – In addition to any other remedies at law or in equity, including an
+32 order by the court to destroy any deepfake disclosed in violation of this section, any person
+33 aggrieved by a violation of subsection (b) of this section has a civil cause of action against any
+34 person who creates or distributes the deepfake in violation of subsection (b) of this section and
+35 is entitled to recover from the other person any of the following:
+*H934-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 (1) Actual damages, but not less than liquidated damages, to be computed at the
+2 rate of one thousand dollars ($1,000) for each time the deepfake is
+3 redistributed or in the amount of ten thousand dollars ($10,000), whichever is
+4 higher.
+5 (2) Punitive damages.
+6 (3) A reasonable attorneys' fee and other litigation costs reasonably incurred.
+7 (e) Exceptions. – The following entities shall not be liable for the actions of a person that
+8 uses that entity's service or technology in the commission of an offense under subsection (b) of
+9 this section:
+10 (1) An interactive computer service.
+11 (2) A provider or developer of any technology used in the creation of a deepfake.
+12 (f) Other Sanctions or Remedies Not Precluded. – A violation of this section is an offense
+13 additional to other civil and criminal provisions and is not intended to repeal or preclude any
+14 other sanctions or remedies."
+15 SECTION 1.(b) This section becomes effective December 1, 2025, and applies to
+16 offenses committed on or after that date.
+17 SECTION 2.(a) Chapter 1 of the General Statutes is amended by adding a new
+18 Article to read:
+19 "Article 43G.
+20 "Actions Pertaining to Artificial Intelligence.
+21 "§ 1-539.30. Definitions.
+22 The following definitions apply in this Article:
+23 (1) Artificial intelligence product or AI product. – Any algorithm, product,
+24 software, or system that:
+25 a. Performs tasks that would typically require human intelligence, such
+26 as reasoning, language processing, or decision making;
+27 b. Is designed to operate with some degree of autonomy;
+28 c. Uses techniques that enable the system to improve its performance
+29 over time or through exposure to data; and
+30 d. Is marketed, distributed, licensed, or otherwise made available for use,
+31 whether as a stand-alone product or as a component integrated into
+32 other products or services.
+33 (2) Client. – Any person who engages the services of a learned professional and
+34 who relies upon the learned professional's expertise, judgment, and advice
+35 where the professional relationship with the learned professional is governed
+36 by professional standards, codes of conduct, or regulations.
+37 (3) Developer. – Any person that meets any of the following:
+38 a. Creates, designs, programs, trains, modifies, or substantially
+39 contributes to the creation or modification of an AI product.
+40 b. Exercises control over the AI product's design specifications,
+41 functionality, capabilities, limitations, or intended uses.
+42 c. Tests, validates, documents, or certifies an AI product prior to its
+43 release or deployment.
+44 d. Markets, distributes, licenses, or makes available an AI product under
+45 their own name, brand, or trademark, regardless of whether they
+46 created the original underlying technology.
+47 e. Either creates an original AI product or is a secondary developer who
+48 substantially modifies, retrains, or adapts an existing AI product for a
+49 new use or market.
+50 (4) Error. – Any output, action, recommendation, or omission by an AI product
+51 that produces objectively incorrect information. The term includes when an
+Page 2 House Bill 934-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 AI product fails to perform a function or task that it expressly or implicitly
+2 represents itself as capable of performing.
+3 (5) Interactive computer service. – Any information service, system, or access
+4 software provider that provides or enables computer access by multiple users
+5 to a computer server, including specifically a service or system that provides
+6 access to the internet and such systems operated or services offered by
+7 libraries or educational institutions.
+8 (6) Learned professional. – Any individual who meets all of the following:
+9 a. Possesses specialized education, training, knowledge, or skill in a
+10 recognized profession.
+11 b. Is licensed, certified, or otherwise authorized by an occupational
+12 licensing board to practice in their field in this State.
+13 c. Is bound by professional standards, ethical obligations, and a duty of
+14 care to clients.
+15 d. Exercises independent professional judgment when utilizing tools,
+16 including AI products, in the course of rendering professional services.
+17 e. Is expected to possess sufficient knowledge to evaluate the
+18 appropriateness, limitations, and risks of tools employed in their
+19 professional practice, including artificial intelligence products, as they
+20 pertain to a specific client matter.
+21 "§ 1-539.31. Immunity from civil liability for artificial intelligence developers.
+22 When a learned professional uses an artificial intelligence program or product in the course
+23 of providing professional services to a client, the learned professional is solely responsible for
+24 any damage to the client resulting from errors generated by the artificial intelligence product.
+25 The following entities shall not be liable for the actions of the learned professional in use of the
+26 artificial intelligence product:
+27 (1) The developer of the artificial intelligence product.
+28 (2) An interactive computer service.
+29 "§ 1-539.32. Other privileges and immunities.
+30 This Article does not affect any other immunities from civil liability established by the
+31 General Statutes or available at common law."
+32 SECTION 2.(b) This section becomes effective December 1, 2025, and applies to
+33 acts or omissions occurring on or after that date.
+34 SECTION 3. Except as otherwise provided, this act is effective when it becomes
+35 law.
+House Bill 934-Second Edition Page 3
+
+[DELETED:  2 A (   A A A A T C L T C T O O U D O A D A A T C P L T G I F C L T D P T S a " ( D ( D t d a k A i ( I s t a t t i a s s o o s o b l ( O i t f ( C ( D ( S ( P ( C o a p i]
+[DELETED:  S  H ( A r o o t d ( f e t t d i r h ( P ( A ( E u t ( A ( A ( O a o S o S A " " " T ( A i p o A p – A a p s a P a b I c U o d I w o ( C w w b ( D a C d p t m o s c b E c o t A p d s f c T v d o c a A p p t i r d M t o n b o t r o w t c e E s n ( E t]
+[DELETED:  S  P A r ( I s t a t t i a s s o o s o b l ( L a P s e t k o s i a r b I l c o o a b a o l c I c d E i p j w u t i e I e t p s k t e t a l a r o t e i t p p " W o a T a ( T ( A " T A d n a a o i f c l e b t G S a S l]

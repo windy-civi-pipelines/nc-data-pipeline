@@ -1,0 +1,834 @@
+Title: HOUSE BILL 549
+Official Title: HOUSE BILL 549
+Number of Sections: 1
+Source: versions - Edition 5
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 5
+Committee Substitute Favorable 4/8/25
+Committee Substitute #2 Favorable 4/29/25
+Fourth Edition Engrossed 5/6/25
+Senate Judiciary Committee Substitute Adopted 6/18/25
+Short Title: Clarify Powers of State Auditor. (Public)
+Sponsors:
+Referred to:
+March 31, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CLARIFY THE POWERS OF THE STATE AUDITOR, TO MAKE OTHER
+3 CHANGES RELATED TO THE STATE AUDITOR, AND TO ALLOW THE
+4 DEPARTMENT OF REVENUE TO FORCE COLLECT DEBTS OWED TO STATE
+5 AGENCIES THROUGH LEVY AND SALE AND ATTACHMENT AND
+6 GARNISHMENT.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. CLARIFY POWERS OF STATE AUDITOR
+10 SECTION 1. G.S. 143-64.24 reads as rewritten:
+11 "§ 143-64.24. Applicability of Article.
+12 This Article shall does not apply to the following agencies:
+13 …
+14 (10) The Office of the State Auditor."
+15 SECTION 2. G.S. 143B-1320(b) reads as rewritten:
+16 "(b) Exemptions. – Except as otherwise specifically provided by law, the provisions of
+17 this Chapter do this Article does not apply to the following entities: the General Assembly, the
+18 Judicial Department, and The University of North Carolina and its constituent institutions.
+19 institutions, and the Office of the State Auditor. These entities may elect to participate in the
+20 information technology programs, services, or contracts offered by the Department, including
+21 information technology procurement, in accordance with the statutes, policies, and rules of the
+22 Department. The election must be made in writing, as follows:
+23 (1) For the General Assembly, by the Legislative Services Commission.
+24 (2) For the Judicial Department, by the Chief Justice.
+25 (3) For The University of North Carolina, by the Board of Governors.
+26 (4) For the constituent institutions of The University of North Carolina, by the
+27 respective boards of trustees.
+28 (5) For the Office of the State Auditor, by the State Auditor."
+29 SECTION 3. G.S. 143B-1350 reads as rewritten:
+30 "§ 143B-1350. Procurement of information technology.
+31 (a) The State CIO is responsible for establishing policies and procedures for information
+32 technology procurement for State agencies.
+*H549-v-5*
+General Assembly Of North Carolina Session 2025
+1 Notwithstanding Except as otherwise provided by subsection (l) of this section,
+2 notwithstanding any other provision of law, the Department shall procure all information
+3 technology goods and services for participating agencies and shall approve information
+4 technology procurements for separate agencies. The State CIO may cancel or suspend any agency
+5 information technology procurement that occurs without State CIO approval.
+6 …
+7 (l) The Office of the State Auditor is exempt from this Part and may procure information
+8 technology services pursuant to G.S. 147-64.7(b)(1)."
+9 SECTION 4. G.S. 147-64.4 reads as rewritten:
+10 "§ 147-64.4. Definitions.
+11 The following definitions apply in this Article:
+12 …
+13 (5) Publicly funded entity. – Any individual, private corporation, institution,
+14 association, board, or other organization that receives, disburses, or otherwise
+15 handles State or federal funds."
+16 SECTION 5. G.S. 147-64.6B(b) reads as rewritten:
+17 "(b) The Auditor shall investigate reports of allegations of improper governmental
+18 activities of State agencies and State employees agencies, employees of those agencies, and
+19 publicly funded entities within the scope of authority set forth in G.S. 147-64.6, including
+20 misappropriation, mismanagement, or waste of State resources, fraud, violations of State or
+21 federal law, rule or regulation by State agencies or State employees administering State or federal
+22 programs, and substantial and specific danger to the public health and safety. When the allegation
+23 involves issues of substantial and specific danger to the public health and safety, the Auditor
+24 shall notify the appropriate State agency immediately. When the Auditor believes that an
+25 allegation of improper governmental activity is outside the authority set forth in G.S. 147-64.6,
+26 the Auditor shall refer the allegation to the appropriate State agency responsible for the
+27 enforcement or administration of the matter for investigation. When the Auditor believes that an
+28 allegation of improper governmental activity involves matters set forth in subdivisions (1), (2),
+29 or (3) of this subsection, those matters shall be referred as follows:
+30 (1) Allegations of criminal misconduct to either the State Bureau of Investigation
+31 or the District Attorney for the county where the alleged misconduct occurred.
+32 (2) Allegations of violations of Chapter 138A, Chapter 120C and Article 14 of
+33 Chapter 120 of the General Statutes to the State Ethics Commission.
+34 (3) Allegations of violations of Chapter 163 of the General Statutes to the State
+35 Board of Elections."
+36 SECTION 6. G.S. 147-64.7 reads as rewritten:
+37 "§ 147-64.7. Authority.
+38 (a) Access to Persons and Records. –
+39 (1) The Auditor and the Auditor's authorized representatives shall have ready
+40 access to persons and may examine and copy all books, records, reports,
+41 vouchers, correspondence, files, personnel files, investments, and any other
+42 documentation of any State agency. Upon demand of the Auditor, access shall
+43 extend to databases, datasets, and digital records necessary for any purpose
+44 within the authority of the Auditor, including performing audits of any type,
+45 assessing government efficiency, risk assessment, fraud detection, audit
+46 planning, and evidence gathering. The review of State tax returns shall be
+47 limited to matters of official business and the Auditor's report shall not violate
+48 the confidentiality provisions of tax laws. Notwithstanding confidentiality
+49 provisions of tax laws, the Auditor may use and disclose information related
+50 to overdue tax debts in support of the Auditor's statutory mission.
+Page 2 House Bill 549-Fifth Edition
+General Assembly Of North Carolina Session 2025
+1 (2) The For audits or investigations conducted under G.S. 147-64.6(c)(25), the
+2 Auditor and the Auditor's duly authorized representatives shall have such
+3 access to persons, records, papers, reports, vouchers, correspondence, books,
+4 databases, datasets, digital records, and any other documentation which that
+5 is in the possession of any individual, private corporation, institution,
+6 association, board, or other organization publicly funded entity which pertain
+7 to:to either of the following:
+8 a. Amounts received pursuant to a grant or contract from the federal
+9 government, the State, or its political subdivisions.
+10 b. Amounts received, disbursed, or otherwise handled on behalf of the
+11 federal government or the State. government, the State, or its political
+12 subdivisions. In order to determine that payments to providers of social
+13 and medical services are legal and proper, the providers of such these
+14 services will shall give the Auditor, or the Auditor's authorized
+15 representatives, access to the records of recipients who that receive
+16 such these services.
+17 (3) The Auditor shall, for the purpose of examination and audit authorized by this
+18 act, have the authority, and will be provided ready access, to examine and
+19 inspect all property, equipment, and facilities in the possession of any State
+20 agency or any individual, private corporation, institution, association, board,
+21 or other organization publicly funded entity which were furnished or
+22 otherwise provided through grant, contract, or any other type of funding by
+23 the State of North Carolina, or the federal government. Audits and
+24 investigations of publicly funded entities are limited as provided in
+25 G.S. 147-64.6(c)(25).
+26 (4) All contracts or grants entered into by State agencies or political subdivisions
+27 shall include, as a necessary part, a clause providing access as intended by this
+28 section.
+29 (5) The Auditor and his the Auditor's authorized agents are authorized to
+30 representatives may examine all books and accounts of any individual, firm,
+31 or corporation only insofar as they relate to transactions with any agency of
+32 the State.
+33 (a1) Hearing. – If a person fails or refuses to provide to the Auditor or the Auditor's
+34 authorized representatives the access described in subsection (a) of this section, the Auditor may
+35 commence an action in superior court for a show cause hearing. The person shall appear at the
+36 hearing and show cause why the person failed or refused to comply with subsection (a) of this
+37 section. The court may issue an injunction to the person to comply with subsection (a) of this
+38 section.
+39 …."
+40
+41 PART II. OTHER STATE AUDITOR AMENDMENTS
+42 SECTION 7. G.S. 143B-168.12(b) is repealed.
+43 SECTION 8. Section 62(b) of S.L. 2014-115 is repealed.
+44 SECTION 9. G.S. 143B-1410 is repealed.
+45 SECTION 10. G.S. 147-64.6(c) reads as rewritten:
+46 "(c) Responsibilities. – The Auditor is responsible for the following acts and activities:
+47 …
+48 (21) If an audit or investigation undertaken by the Auditor results in a finding that
+49 a private person or entity has received public funds as a result of fraud,
+50 misrepresentation, or other deceptive acts or practices while doing business
+51 with a State agency, the Auditor shall submit a detailed written report of the
+House Bill 549-Fifth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 finding, and any additional necessary supporting documentation, to (i) the
+2 Department of Revenue in accordance with G.S. 105A-6A(a) and (ii) the State
+3 Purchasing Officer or the appropriate official, as applicable. A report
+4 submitted under this subsection may include a recommendation that the
+5 private person or entity be debarred from doing business with the State or a
+6 State agency.
+7 …
+8 (24) The Auditor may engage in an audit or investigation of any publicly funded
+9 entity. Any such audit or investigation conducted shall be limited to the State
+10 or federal funds received, disbursed, or otherwise handled by the publicly
+11 funded entity."
+12
+13 PART III. DEPARTMENT OF REVENUE AUTHORIZATION TO FORCE COLLECT
+14 DEBTS
+15 SECTION 11.(a) Chapter 105A of the General Statutes reads as rewritten:
+16 "Chapter 105A.
+17 "Setoff Debt Collection and Forced Debt Collection Act.
+18 "Article 1.
+19 "In General.
+20 "§ 105A-1. Purposes.
+21 The purpose of this Chapter is to establish as policy that all claimant agencies agencies, the
+22 Office of the State Auditor, and the Department of Revenue shall cooperate in identifying debtors
+23 who owe money to the State or to a local government through their various agencies and who
+24 qualify for refunds from the Department of Revenue. agencies. It is also the intent of this Chapter
+25 that procedures be established for (i) setting off against any a debtor's tax refund the sum of any
+26 debt owed to the State or to a local government. government and (ii) force collecting debts owed
+27 to State agencies. Furthermore, it is the legislative intent that this Chapter be liberally construed
+28 so as to effectuate these purposes as far as legally and practically possible.
+29 "§ 105A-2. Definitions.
+30 The following definitions apply in this Chapter:
+31 …
+32 (5) Forced collection. – The debt collection remedies provided by G.S. 105A-6B
+33 and G.S. 105A-6C.
+34 …
+35 (7) Net proceeds collected. – Gross For setoff collection actions, "net proceeds
+36 collected" means gross proceeds collected through setoff against a debtor's
+37 refund minus the collection assistance fees provided in
+38 G.S. 105A-13.G.S. 105A-13(a) or (c), as appropriate. For forced collection
+39 actions, "net proceeds collected" means gross proceeds collected through
+40 forced collection minus the forced collection assistance fee provided in
+41 G.S. 105A-13(a1).
+42 …
+43 "§ 105A-3. Remedy Remedies additional; mandatory State usage; optional local usage;
+44 usage of setoff collection only; obtaining identifying information; registration.
+45 (a) Remedy Remedies Additional. – The collection remedy remedies under this Chapter
+46 is are in addition to and not in substitution for any other remedy available by law.
+47 …
+48 (b1) Optional Local Usage. Usage of Setoff Collection Only. – A local agency may submit
+49 a debt owed to it for setoff collection under this Chapter. A local agency may not submit a debt
+50 owed to it for forced collection under this Chapter. A local agency that decides to submit a setoff
+Page 4 House Bill 549-Fifth Edition
+General Assembly Of North Carolina Session 2025
+1 debt owed to it for collection under this Chapter must establish the debt by following the
+2 procedure set in G.S. 105A-5 and must submit the debt through one of the following:
+3 …
+4 (d) Registration and Reports. – A State agency must register with the Department and
+5 with the State Controller. Every State agency must report annually to the State Controller the
+6 amount of setoff debts owed to the agency for which the agency did not submit a claim for setoff
+7 and the reason for not submitting the claim.
+8 "§ 105A-4. Minimum debt and refund.refund for setoff collection; minimum debt for
+9 forced collection.
+10 This Chapter applies only to (i) a setoff collection debt that is at least fifty dollars ($50.00)
+11 and to a refund that is at least this same amount.amount and (ii) a forced collection debt for which
+12 the Department determines the cost to the State in collecting the debt is less than the amount of
+13 the debt collectible.
+14 "§ 105A-5. Local agency notice, hearing, and decision.
+15 (a) Prerequisite. – A local agency may not submit a debt for setoff collection under this
+16 Chapter until it has given the notice required by this section and the claim has been finally
+17 determined as provided in this section.
+18 …
+19 (e) Return of Amount Set Off. – If a local agency submits a debt for setoff collection
+20 under this Chapter without sending the notice required by subsection (b) of this section, the
+21 agency must send the taxpayer the entire amount set off plus the collection assistance fees
+22 provided in G.S. 105A-13. Similarly, if a local agency submits a debt for setoff collection under
+23 this Chapter after sending the required notice but before final determination of the debt and a
+24 decision finds that the local agency is not entitled to any part of the amount set off, the agency
+25 must send the taxpayer the entire amount set off plus the collection assistance fees provided in
+26 G.S. 105A-13. That portion of the amount returned that reflects the collection assistance fees
+27 must be paid from the local agency's funds.
+28 If a local agency submits a debt for setoff collection under this Chapter after sending the
+29 required notice and the net proceeds collected that are credited to the local agency for the debt
+30 exceed the amount of the debt, the local agency must send the balance to the debtor. No part of
+31 the collection assistance fees provided in G.S. 105A-13 may be returned when a notice was sent
+32 and a debt is owed but the debt is less than the amount set off.
+33 …
+34 "§ 105A-6A. Procedure for force collecting; debts eligible for force collection.
+35 (a) State Auditor Notice of Final Determination to Department Required. – Upon final
+36 determination of a debt under G.S. 105A-8A, the Office of the State Auditor shall notify the
+37 Department in writing of the debt and shall supply any information necessary to identify the
+38 debtor against whom forced collection may be sought, including the written report and any
+39 additional supporting documentation required to be submitted by the Auditor under
+40 G.S. 147-64.6(c)(21).
+41 (b) Department Notice to Debtor Required. – Upon receipt of notification by the Office
+42 of the State Auditor under subsection (a) of this section, and prior to implementing any forced
+43 collection remedy, the Department shall provide written notice to the debtor of the following:
+44 (1) The Department's intention to collect the debt and the forced debt collection
+45 remedies allowed by this Chapter.
+46 (2) The ability of the debtor to pay the debt in full or to enter into an installment
+47 agreement to pay the debt pursuant to G.S. 105A-6D.
+48 (3) That a collection assistance fee equal to three percent (3%) of the amount of
+49 the debt collected will be added to the debt if it is forced collected.
+House Bill 549-Fifth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (c) Debts Eligible for Forced Collection. – Only those debts that are discovered through
+2 an audit or investigation undertaken by the Office of the State Auditor in accordance with
+3 G.S. 147-64.6(c)(21) are eligible for forced collection under this Chapter.
+4 "§ 105A-6B. Levy and sale.
+5 Notwithstanding that a debt owed to a State agency is not a collectible tax under
+6 G.S. 105-241.22, if a debtor does not pay a debt, or enter into an installment agreement to pay a
+7 debt, within 60 days of being notified by the Department in accordance with G.S. 105A-6A(b),
+8 the Department may force collect the debt by levy and sale in the manner prescribed by
+9 G.S. 105-242(a)(1) and (a)(2) for the levy and sale of property for the nonpayment of tax.
+10 "§ 105A-6C. Attachment and garnishment.
+11 Notwithstanding that a debt owed to a State agency is not a collectible tax under
+12 G.S. 105-241.22, if a debtor does not pay a debt, or enter into an installment agreement to pay a
+13 debt, within 60 days of being notified by the Department in accordance with G.S. 105A-6A(b),
+14 the Department may force collect the debt by attachment and garnishment in the manner
+15 prescribed by G.S. 105-242.1 for the attachment and garnishment of intangible personal property
+16 for the nonpayment of tax.
+17 "§ 105A-6D. Installment agreements.
+18 The Secretary may enter into an agreement with the debtor for payment of the debt in
+19 installments if the Secretary determines that the agreement will facilitate collection of the debt.
+20 The Secretary may modify or terminate the agreement if one or more of the following findings
+21 is made:
+22 (1) Information provided by the debtor in support of the agreement was inaccurate
+23 or incomplete.
+24 (2) Collection of debt to which the agreement applies is in jeopardy.
+25 (3) The debtor's financial condition has changed.
+26 (4) The debtor has failed to pay an installment when due.
+27 (5) The debtor has failed to provide information requested by the Secretary.
+28 The Secretary must give a debtor who has entered into an installment agreement at least 30
+29 days' written notice before modifying or terminating the agreement on the grounds that the
+30 debtor's financial condition has changed unless the debtor failed to disclose or concealed assets
+31 or income when the agreement was made or the debtor has acquired assets since the agreement
+32 was made that can satisfy all or part of the debt. A notice must specify the basis for the Secretary's
+33 finding of a change in the debtor's financial condition.
+34 …
+35 "§ 105A-8. Setoff collection; State agency notice, hearing, decision, and refund of
+36 setoff.setoff collection.
+37 …
+38 "§ 105A-8A. Forced collection; prerequisite, State Auditor notice, State Auditor hearing,
+39 decision.
+40 (a) Prerequisite. – The Office of the State Auditor may not submit notice of final
+41 determination of a debt to the Department for forced collection under G.S. 105A-6A(a) until the
+42 Auditor has finally determined the debt in accordance with this section. For purposes of this
+43 section, a "finally determined" debt shall mean a debt that (i) meets the requirements of
+44 G.S. 105A-6A(c), (ii) for which the Auditor has given notice as required by subsection (b) of this
+45 section, and (iii) for which the debtor did not file a timely request for hearing under this section,
+46 or, for which the debtor did file a timely request for hearing but a decision made after hearing
+47 determined that a debtor owed a debt, in a sum certain, to a State agency, and all appellate relief
+48 afforded the debtor for purposes of finally determining the debt under this section has been
+49 exhausted.
+50 (b) Notice. – The Office of the State Auditor must send written notice to a debtor that the
+51 Auditor intends to submit the debt owed by the debtor to the Department for forced collection.
+Page 6 House Bill 549-Fifth Edition
+General Assembly Of North Carolina Session 2025
+1 At a minimum, the notice must explain (i) the basis for the State's claim to the debt, (ii) the forced
+2 debt collection remedies allowed by this Chapter, (iii) that a collection assistance fee equal to
+3 three percent (3%) of the debt will be added to the debt if it is force collected, and (iv) that the
+4 debtor has the right to contest the matter by filing a request for hearing with the Auditor, stating
+5 the time limits and procedure for requesting the hearing, and by stating that failure to request a
+6 hearing within the required time may result in forced collection of the debt.
+7 (c) Auditor Hearing. – A hearing on a contested claim of the State Auditor under this
+8 section must be conducted in accordance with Article 3 of Chapter 150B of the General Statutes.
+9 A request for a hearing must be filed within 30 days after the Auditor mails the debtor notice of
+10 the proposed forced collection. A request for a hearing is considered to be filed when it is
+11 delivered for mailing with postage prepaid and properly addressed. In a hearing under this
+12 section, an issue that has previously been litigated in a court proceeding cannot be considered. A
+13 final decision on a hearing under this section may be appealed in accordance with G.S. 105A-9.
+14 (d) Decision. – A decision made after a hearing under this section must determine, at a
+15 minimum, (i) whether a debt is owed to the State agency, (ii) by whom the debt is owed, and (iii)
+16 the amount of the debt.
+17 "§ 105A-9. Appeals from hearings.
+18 Appeals from hearings allowed under this Chapter, other than those conducted by the Judicial
+19 Branch and the Division of Employment Security, shall be in accordance with the provisions of
+20 Chapter 150B of the General Statutes, the Administrative Procedure Act, except that the place of
+21 initial judicial review shall be the superior court for the county in which the debtor resides.
+22 resides, or, in the case of nonresident debtors, the superior court of Wake County. A party
+23 aggrieved by an order or decision of a hearing conducted by the clerk of superior court or the
+24 Director of the North Carolina Administrative Office of the Courts or the Director's designee,
+25 under this Article may, within 10 days of entry of the order, appeal to the superior court for a
+26 hearing de novo. Notice of appeal shall be in writing and shall be filed with the clerk of superior
+27 court in the county where the order was entered. Appeals from hearings allowed under this
+28 Chapter that are conducted by the Division of Employment Security shall be in accordance with
+29 the provisions of Chapter 96 of the General Statutes.
+30 …
+31 "§ 105A-13. Collection assistance fees.
+32 (a) State Setoff. Setoff Collection. – To recover the costs incurred by the Department in
+33 collecting setoff debts under this Chapter, a collection assistance fee of five dollars ($5.00) is
+34 imposed on each debt collected through setoff. The Department must collect this fee as part of
+35 the debt and retain it. The collection assistance fee under this subsection shall not be added to
+36 child support debts or collected as part of child support debts. Instead, the Department shall retain
+37 from collections under Division II of Article 4 of Chapter 105 of the General Statutes the cost of
+38 collecting child support debts through debt setoff under this Chapter.
+39 (a1) State Forced Collection. – To recover the costs incurred by the Department in force
+40 collecting debts under this Chapter, a collection assistance fee equal to three percent (3%) of the
+41 amount of the debt is imposed on each debt collected through forced collection. The Department
+42 must collect this fee as part of the debt and retain it. The collection assistance fee under this
+43 subsection shall not be added to child support debts or collected as part of child support debts.
+44 Instead, the Department shall retain from collections under Article 4 of Chapter 105 of the
+45 General Statutes the cost of collecting child support debts through forced collection under this
+46 Chapter.
+47 …
+48 (c) Local Debts. – To recover the costs incurred by local agencies in submitting debts for
+49 setoff collection under this Chapter, a local collection assistance fee of fifteen dollars ($15.00) is
+50 imposed on each local agency debt submitted under G.S. 105A-3(b1) and collected through
+House Bill 549-Fifth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 setoff. The Department must collect this fee as part of the debt and remit it to the clearinghouse
+2 that submitted the debt. The local collection assistance fee does not apply to child support debts.
+3 …
+4 "§ 105A-14. Accounting Setoff collection; accounting to the claimant agency; agency, credit
+5 to debtor's obligation.
+6 (a) Setoff Collection; Accounting to Claimant Agency. – Simultaneously with the
+7 transmittal of the net proceeds collected through setoff collection to a claimant agency, the
+8 Department must provide the agency with an accounting of the setoffs for which payment is
+9 being made. The accounting must whenever possible include the full names of the debtors, the
+10 debtors' social security numbers or federal identification numbers, the gross proceeds collected
+11 per setoff, the net proceeds collected per setoff, and the collection assistance fee added to the
+12 debt and collected per setoff.
+13 (b) Setoff Collection; Credit to Debtor's Obligation. – Upon receipt by a claimant agency
+14 of net proceeds collected on the claimant agency's behalf by the Department, a final
+15 determination of the claim if it is a State agency claim, and an accounting of the proceeds as
+16 specified under this section, the claimant agency must credit the debtor's obligation with the net
+17 proceeds collected.
+18 "§ 105A-14A. Forced collection proceeds credited to General Fund.
+19 The net proceeds collected through a forced collection conducted under this Chapter shall be
+20 credited to the General Fund by the Department within 60 days of collection.
+21 …."
+22 SECTION 11.(b) This section becomes effective December 1, 2025, and applies to
+23 the collection of debts on or after that date.
+24 SECTION 12.(a) G.S. 143B-218 reads as rewritten:
+25 "§ 143B-218. Department of Revenue – duties.
+26 It shall be the duty of the Department to collect and account for the State's tax funds, to insure
+27 uniformity of administration of the tax laws and regulations, to conduct research on revenue
+28 matters, and to exercise general and specific supervision over the valuation and taxation of
+29 property throughout the State.State, and to perform other non-tax related functions as enacted by
+30 the General Assembly."
+31 SECTION 12.(b) This section becomes effective December 1, 2025, and applies to
+32 the performance of non-tax related functions by the Department on or after that date.
+33
+34 PART IV. EFFECTIVE DATE
+35 SECTION 13. Sections 1, 2, and 3 of this act become effective July 1, 2025, and
+36 apply to contracts entered into or renewed on or after that date. G.S. 147-64.6(c)(21), as amended
+37 by Section 10 of this act, becomes effective December 1, 2025. Unless otherwise provided, the
+38 remainder of this act is effective when it becomes law.
+Page 8 House Bill 549-Fifth Edition
+[DELETED:  5 C (   A A C R T T S A A T A T D O R T F C D O T S A T L A S A A A G T  P S " T … ( T S " E t J D a T U o N C a i c i i i i D ( F ( F ( F ( F r ( F S " ( T t]
+[DELETED:  S  H N E a o p b s ( o t s n a o p o l t D s p a i t g a s f p a a s a i t i … ( T t S " T … ( P f e – A i p c i a h S " T A s i r o a o i g a p f e w t s o a s f i G i m m o o r f v o o f p i s n t a S a i W t A b t a a t A s r t a t t a S a r f t e a o ( A o ( A C ( A B S " ( A ( T a t p a m e a c a b r r v d e w a g e r a f d a p l t c p o t l N c p t]
+[DELETED:  S  P ( T A a t A d a r s h s a d i i t p o a i p c i a t a A g g b A f s a s w s g t A o t A a r s ( T a i a o o o p f e w w f o o t S o N C o t f g A a i o p f e a l a p i G ( A s s ( T A a h t A a a a a t r o t ( H I a c h s s …  P S S S S " R … ( I a p p o e h r p f a a r o f m w]
+[DELETED:  S  H f ( D P O o t a o a a A r s u t s m i a r t t p S … ( T e o f  P D S " " " " " T O w q t d t s " T … ( F a … ( N c r m t c a f p i G a " p c m g p c t f c m t f c a f p i G … " u ( R i … ( O a o]
+[DELETED:  S  P d o t i f c u t C m e t d b f t p … ( R w a a " 1  M d r f s c d f T a t t " ( P C d … ( R u a m s t t t e a s o p t c a f p t d m G m I r e t a … " ( S d D d m s a s d r t b s b t A u G ( D o c ( T r ( T a ( T t]
+[DELETED:  S  H ( D a a o i u b t O o t S A i a w G " N t a d o t a S a i n a c t u G d t D m f c t d b l a s i t m p b G " N t a d o t a S a i n a c t u G d t D m f c t d b a a g i t m p f " T S m e i a a w t d f p o t d i i T i ( I o ( C ( T ( T ( T T d w n b m o t a o t g t t d o w f … " 1  S c S a n h d a r o s … " d ( P – T O o t S A m n s n o f d A s a " d d s m a d t ( m t r o G s o d a e ( N A]
+[DELETED:  S  P A d t d t h ( A s A t f f a h c d f m w p p a p a I a h u t s f ( D m t " A B C i r o A a D u h c C t … " ( S c i t c f c ( S c a m s I D f A G C … ( L s i a d u a]
+[DELETED:  S  H s t … " t ( S C A t C A – S w t t t c D b d p d ( S o n p c o t c a b b t D a f d s p " T c … S t S " I u m a p t S t  P S a b r]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 5
+HOUSE BILL 549
+Committee Substitute Favorable 4/8/25
+Committee Substitute #2 Favorable 4/29/25
+Fourth Edition Engrossed 5/6/25
+Senate Judiciary Committee Substitute Adopted 6/18/25
+Short Title: Clarify Powers of State Auditor. (Public)
+Sponsors:
+Referred to:
+March 31, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CLARIFY THE POWERS OF THE STATE AUDITOR, TO MAKE OTHER
+3 CHANGES RELATED TO THE STATE AUDITOR, AND TO ALLOW THE
+4 DEPARTMENT OF REVENUE TO FORCE COLLECT DEBTS OWED TO STATE
+5 AGENCIES THROUGH LEVY AND SALE AND ATTACHMENT AND
+6 GARNISHMENT.
+7 The General Assembly of North Carolina enacts:
+8
+9 PART I. CLARIFY POWERS OF STATE AUDITOR
+10 SECTION 1. G.S. 143-64.24 reads as rewritten:
+11 "§ 143-64.24. Applicability of Article.
+12 This Article shall does not apply to the following agencies:
+13 …
+14 (10) The Office of the State Auditor."
+15 SECTION 2. G.S. 143B-1320(b) reads as rewritten:
+16 "(b) Exemptions. – Except as otherwise specifically provided by law, the provisions of
+17 this Chapter do this Article does not apply to the following entities: the General Assembly, the
+18 Judicial Department, and The University of North Carolina and its constituent institutions.
+19 institutions, and the Office of the State Auditor. These entities may elect to participate in the
+20 information technology programs, services, or contracts offered by the Department, including
+21 information technology procurement, in accordance with the statutes, policies, and rules of the
+22 Department. The election must be made in writing, as follows:
+23 (1) For the General Assembly, by the Legislative Services Commission.
+24 (2) For the Judicial Department, by the Chief Justice.
+25 (3) For The University of North Carolina, by the Board of Governors.
+26 (4) For the constituent institutions of The University of North Carolina, by the
+27 respective boards of trustees.
+28 (5) For the Office of the State Auditor, by the State Auditor."
+29 SECTION 3. G.S. 143B-1350 reads as rewritten:
+30 "§ 143B-1350. Procurement of information technology.
+31 (a) The State CIO is responsible for establishing policies and procedures for information
+32 technology procurement for State agencies.
+*H549-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 Notwithstanding Except as otherwise provided by subsection (l) of this section,
+2 notwithstanding any other provision of law, the Department shall procure all information
+3 technology goods and services for participating agencies and shall approve information
+4 technology procurements for separate agencies. The State CIO may cancel or suspend any agency
+5 information technology procurement that occurs without State CIO approval.
+6 …
+7 (l) The Office of the State Auditor is exempt from this Part and may procure information
+8 technology services pursuant to G.S. 147-64.7(b)(1)."
+9 SECTION 4. G.S. 147-64.4 reads as rewritten:
+10 "§ 147-64.4. Definitions.
+11 The following definitions apply in this Article:
+12 …
+13 (5) Publicly funded entity. – Any individual, private corporation, institution,
+14 association, board, or other organization that receives, disburses, or otherwise
+15 handles State or federal funds."
+16 SECTION 5. G.S. 147-64.6B(b) reads as rewritten:
+17 "(b) The Auditor shall investigate reports of allegations of improper governmental
+18 activities of State agencies and State employees agencies, employees of those agencies, and
+19 publicly funded entities within the scope of authority set forth in G.S. 147-64.6, including
+20 misappropriation, mismanagement, or waste of State resources, fraud, violations of State or
+21 federal law, rule or regulation by State agencies or State employees administering State or federal
+22 programs, and substantial and specific danger to the public health and safety. When the allegation
+23 involves issues of substantial and specific danger to the public health and safety, the Auditor
+24 shall notify the appropriate State agency immediately. When the Auditor believes that an
+25 allegation of improper governmental activity is outside the authority set forth in G.S. 147-64.6,
+26 the Auditor shall refer the allegation to the appropriate State agency responsible for the
+27 enforcement or administration of the matter for investigation. When the Auditor believes that an
+28 allegation of improper governmental activity involves matters set forth in subdivisions (1), (2),
+29 or (3) of this subsection, those matters shall be referred as follows:
+30 (1) Allegations of criminal misconduct to either the State Bureau of Investigation
+31 or the District Attorney for the county where the alleged misconduct occurred.
+32 (2) Allegations of violations of Chapter 138A, Chapter 120C and Article 14 of
+33 Chapter 120 of the General Statutes to the State Ethics Commission.
+34 (3) Allegations of violations of Chapter 163 of the General Statutes to the State
+35 Board of Elections."
+36 SECTION 6. G.S. 147-64.7 reads as rewritten:
+37 "§ 147-64.7. Authority.
+38 (a) Access to Persons and Records. –
+39 (1) The Auditor and the Auditor's authorized representatives shall have ready
+40 access to persons and may examine and copy all books, records, reports,
+41 vouchers, correspondence, files, personnel files, investments, and any other
+42 documentation of any State agency. Upon demand of the Auditor, access shall
+43 extend to databases, datasets, and digital records necessary for any purpose
+44 within the authority of the Auditor, including performing audits of any type,
+45 assessing government efficiency, risk assessment, fraud detection, audit
+46 planning, and evidence gathering. The review of State tax returns shall be
+47 limited to matters of official business and the Auditor's report shall not violate
+48 the confidentiality provisions of tax laws. Notwithstanding confidentiality
+49 provisions of tax laws, the Auditor may use and disclose information related
+50 to overdue tax debts in support of the Auditor's statutory mission.
+Page 2 House Bill 549-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) The For audits or investigations conducted under G.S. 147-64.6(c)(25), the
+2 Auditor and the Auditor's duly authorized representatives shall have such
+3 access to persons, records, papers, reports, vouchers, correspondence, books,
+4 databases, datasets, digital records, and any other documentation which that
+5 is in the possession of any individual, private corporation, institution,
+6 association, board, or other organization publicly funded entity which pertain
+7 to:to either of the following:
+8 a. Amounts received pursuant to a grant or contract from the federal
+9 government, the State, or its political subdivisions.
+10 b. Amounts received, disbursed, or otherwise handled on behalf of the
+11 federal government or the State. government, the State, or its political
+12 subdivisions. In order to determine that payments to providers of social
+13 and medical services are legal and proper, the providers of such these
+14 services will shall give the Auditor, or the Auditor's authorized
+15 representatives, access to the records of recipients who that receive
+16 such these services.
+17 (3) The Auditor shall, for the purpose of examination and audit authorized by this
+18 act, have the authority, and will be provided ready access, to examine and
+19 inspect all property, equipment, and facilities in the possession of any State
+20 agency or any individual, private corporation, institution, association, board,
+21 or other organization publicly funded entity which were furnished or
+22 otherwise provided through grant, contract, or any other type of funding by
+23 the State of North Carolina, or the federal government. Audits and
+24 investigations of publicly funded entities are limited as provided in
+25 G.S. 147-64.6(c)(25).
+26 (4) All contracts or grants entered into by State agencies or political subdivisions
+27 shall include, as a necessary part, a clause providing access as intended by this
+28 section.
+29 (5) The Auditor and his the Auditor's authorized agents are authorized to
+30 representatives may examine all books and accounts of any individual, firm,
+31 or corporation only insofar as they relate to transactions with any agency of
+32 the State.
+33 (a1) Hearing. – If a person fails or refuses to provide to the Auditor or the Auditor's
+34 authorized representatives the access described in subsection (a) of this section, the Auditor may
+35 commence an action in superior court for a show cause hearing. The person shall appear at the
+36 hearing and show cause why the person failed or refused to comply with subsection (a) of this
+37 section. The court may issue an injunction to the person to comply with subsection (a) of this
+38 section.
+39 …."
+40
+41 PART II. OTHER STATE AUDITOR AMENDMENTS
+42 SECTION 7. G.S. 143B-168.12(b) is repealed.
+43 SECTION 8. Section 62(b) of S.L. 2014-115 is repealed.
+44 SECTION 9. G.S. 143B-1410 is repealed.
+45 SECTION 10. G.S. 147-64.6(c) reads as rewritten:
+46 "(c) Responsibilities. – The Auditor is responsible for the following acts and activities:
+47 …
+48 (21) If an audit or investigation undertaken by the Auditor results in a finding that
+49 a private person or entity has received public funds as a result of fraud,
+50 misrepresentation, or other deceptive acts or practices while doing business
+51 with a State agency, the Auditor shall submit a detailed written report of the
+House Bill 549-Fifth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 finding, and any additional necessary supporting documentation, to (i) the
+2 Department of Revenue in accordance with G.S. 105A-6A(a) and (ii) the State
+3 Purchasing Officer or the appropriate official, as applicable. A report
+4 submitted under this subsection may include a recommendation that the
+5 private person or entity be debarred from doing business with the State or a
+6 State agency.
+7 …
+8 (24) The Auditor may engage in an audit or investigation of any publicly funded
+9 entity. Any such audit or investigation conducted shall be limited to the State
+10 or federal funds received, disbursed, or otherwise handled by the publicly
+11 funded entity."
+12
+13 PART III. DEPARTMENT OF REVENUE AUTHORIZATION TO FORCE COLLECT
+14 DEBTS
+15 SECTION 11.(a) Chapter 105A of the General Statutes reads as rewritten:
+16 "Chapter 105A.
+17 "Setoff Debt Collection and Forced Debt Collection Act.
+18 "Article 1.
+19 "In General.
+20 "§ 105A-1. Purposes.
+21 The purpose of this Chapter is to establish as policy that all claimant agencies agencies, the
+22 Office of the State Auditor, and the Department of Revenue shall cooperate in identifying debtors
+23 who owe money to the State or to a local government through their various agencies and who
+24 qualify for refunds from the Department of Revenue. agencies. It is also the intent of this Chapter
+25 that procedures be established for (i) setting off against any a debtor's tax refund the sum of any
+26 debt owed to the State or to a local government. government and (ii) force collecting debts owed
+27 to State agencies. Furthermore, it is the legislative intent that this Chapter be liberally construed
+28 so as to effectuate these purposes as far as legally and practically possible.
+29 "§ 105A-2. Definitions.
+30 The following definitions apply in this Chapter:
+31 …
+32 (5) Forced collection. – The debt collection remedies provided by G.S. 105A-6B
+33 and G.S. 105A-6C.
+34 …
+35 (7) Net proceeds collected. – Gross For setoff collection actions, "net proceeds
+36 collected" means gross proceeds collected through setoff against a debtor's
+37 refund minus the collection assistance fees provided in
+38 G.S. 105A-13.G.S. 105A-13(a) or (c), as appropriate. For forced collection
+39 actions, "net proceeds collected" means gross proceeds collected through
+40 forced collection minus the forced collection assistance fee provided in
+41 G.S. 105A-13(a1).
+42 …
+43 "§ 105A-3. Remedy Remedies additional; mandatory State usage; optional local usage;
+44 usage of setoff collection only; obtaining identifying information; registration.
+45 (a) Remedy Remedies Additional. – The collection remedy remedies under this Chapter
+46 is are in addition to and not in substitution for any other remedy available by law.
+47 …
+48 (b1) Optional Local Usage. Usage of Setoff Collection Only. – A local agency may submit
+49 a debt owed to it for setoff collection under this Chapter. A local agency may not submit a debt
+50 owed to it for forced collection under this Chapter. A local agency that decides to submit a setoff
+Page 4 House Bill 549-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 debt owed to it for collection under this Chapter must establish the debt by following the
+2 procedure set in G.S. 105A-5 and must submit the debt through one of the following:
+3 …
+4 (d) Registration and Reports. – A State agency must register with the Department and
+5 with the State Controller. Every State agency must report annually to the State Controller the
+6 amount of setoff debts owed to the agency for which the agency did not submit a claim for setoff
+7 and the reason for not submitting the claim.
+8 "§ 105A-4. Minimum debt and refund.refund for setoff collection; minimum debt for
+9 forced collection.
+10 This Chapter applies only to (i) a setoff collection debt that is at least fifty dollars ($50.00)
+11 and to a refund that is at least this same amount.amount and (ii) a forced collection debt for which
+12 the Department determines the cost to the State in collecting the debt is less than the amount of
+13 the debt collectible.
+14 "§ 105A-5. Local agency notice, hearing, and decision.
+15 (a) Prerequisite. – A local agency may not submit a debt for setoff collection under this
+16 Chapter until it has given the notice required by this section and the claim has been finally
+17 determined as provided in this section.
+18 …
+19 (e) Return of Amount Set Off. – If a local agency submits a debt for setoff collection
+20 under this Chapter without sending the notice required by subsection (b) of this section, the
+21 agency must send the taxpayer the entire amount set off plus the collection assistance fees
+22 provided in G.S. 105A-13. Similarly, if a local agency submits a debt for setoff collection under
+23 this Chapter after sending the required notice but before final determination of the debt and a
+24 decision finds that the local agency is not entitled to any part of the amount set off, the agency
+25 must send the taxpayer the entire amount set off plus the collection assistance fees provided in
+26 G.S. 105A-13. That portion of the amount returned that reflects the collection assistance fees
+27 must be paid from the local agency's funds.
+28 If a local agency submits a debt for setoff collection under this Chapter after sending the
+29 required notice and the net proceeds collected that are credited to the local agency for the debt
+30 exceed the amount of the debt, the local agency must send the balance to the debtor. No part of
+31 the collection assistance fees provided in G.S. 105A-13 may be returned when a notice was sent
+32 and a debt is owed but the debt is less than the amount set off.
+33 …
+34 "§ 105A-6A. Procedure for force collecting; debts eligible for force collection.
+35 (a) State Auditor Notice of Final Determination to Department Required. – Upon final
+36 determination of a debt under G.S. 105A-8A, the Office of the State Auditor shall notify the
+37 Department in writing of the debt and shall supply any information necessary to identify the
+38 debtor against whom forced collection may be sought, including the written report and any
+39 additional supporting documentation required to be submitted by the Auditor under
+40 G.S. 147-64.6(c)(21).
+41 (b) Department Notice to Debtor Required. – Upon receipt of notification by the Office
+42 of the State Auditor under subsection (a) of this section, and prior to implementing any forced
+43 collection remedy, the Department shall provide written notice to the debtor of the following:
+44 (1) The Department's intention to collect the debt and the forced debt collection
+45 remedies allowed by this Chapter.
+46 (2) The ability of the debtor to pay the debt in full or to enter into an installment
+47 agreement to pay the debt pursuant to G.S. 105A-6D.
+48 (3) That a collection assistance fee equal to three percent (3%) of the amount of
+49 the debt collected will be added to the debt if it is forced collected.
+House Bill 549-Fifth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (c) Debts Eligible for Forced Collection. – Only those debts that are discovered through
+2 an audit or investigation undertaken by the Office of the State Auditor in accordance with
+3 G.S. 147-64.6(c)(21) are eligible for forced collection under this Chapter.
+4 "§ 105A-6B. Levy and sale.
+5 Notwithstanding that a debt owed to a State agency is not a collectible tax under
+6 G.S. 105-241.22, if a debtor does not pay a debt, or enter into an installment agreement to pay a
+7 debt, within 60 days of being notified by the Department in accordance with G.S. 105A-6A(b),
+8 the Department may force collect the debt by levy and sale in the manner prescribed by
+9 G.S. 105-242(a)(1) and (a)(2) for the levy and sale of property for the nonpayment of tax.
+10 "§ 105A-6C. Attachment and garnishment.
+11 Notwithstanding that a debt owed to a State agency is not a collectible tax under
+12 G.S. 105-241.22, if a debtor does not pay a debt, or enter into an installment agreement to pay a
+13 debt, within 60 days of being notified by the Department in accordance with G.S. 105A-6A(b),
+14 the Department may force collect the debt by attachment and garnishment in the manner
+15 prescribed by G.S. 105-242.1 for the attachment and garnishment of intangible personal property
+16 for the nonpayment of tax.
+17 "§ 105A-6D. Installment agreements.
+18 The Secretary may enter into an agreement with the debtor for payment of the debt in
+19 installments if the Secretary determines that the agreement will facilitate collection of the debt.
+20 The Secretary may modify or terminate the agreement if one or more of the following findings
+21 is made:
+22 (1) Information provided by the debtor in support of the agreement was inaccurate
+23 or incomplete.
+24 (2) Collection of debt to which the agreement applies is in jeopardy.
+25 (3) The debtor's financial condition has changed.
+26 (4) The debtor has failed to pay an installment when due.
+27 (5) The debtor has failed to provide information requested by the Secretary.
+28 The Secretary must give a debtor who has entered into an installment agreement at least 30
+29 days' written notice before modifying or terminating the agreement on the grounds that the
+30 debtor's financial condition has changed unless the debtor failed to disclose or concealed assets
+31 or income when the agreement was made or the debtor has acquired assets since the agreement
+32 was made that can satisfy all or part of the debt. A notice must specify the basis for the Secretary's
+33 finding of a change in the debtor's financial condition.
+34 …
+35 "§ 105A-8. Setoff collection; State agency notice, hearing, decision, and refund of
+36 setoff.setoff collection.
+37 …
+38 "§ 105A-8A. Forced collection; prerequisite, State Auditor notice, State Auditor hearing,
+39 decision.
+40 (a) Prerequisite. – The Office of the State Auditor may not submit notice of final
+41 determination of a debt to the Department for forced collection under G.S. 105A-6A(a) until the
+42 Auditor has finally determined the debt in accordance with this section. For purposes of this
+43 section, a "finally determined" debt shall mean a debt that (i) meets the requirements of
+44 G.S. 105A-6A(c), (ii) for which the Auditor has given notice as required by subsection (b) of this
+45 section, and (iii) for which the debtor did not file a timely request for hearing under this section,
+46 or, for which the debtor did file a timely request for hearing but a decision made after hearing
+47 determined that a debtor owed a debt, in a sum certain, to a State agency, and all appellate relief
+48 afforded the debtor for purposes of finally determining the debt under this section has been
+49 exhausted.
+50 (b) Notice. – The Office of the State Auditor must send written notice to a debtor that the
+51 Auditor intends to submit the debt owed by the debtor to the Department for forced collection.
+Page 6 House Bill 549-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 At a minimum, the notice must explain (i) the basis for the State's claim to the debt, (ii) the forced
+2 debt collection remedies allowed by this Chapter, (iii) that a collection assistance fee equal to
+3 three percent (3%) of the debt will be added to the debt if it is force collected, and (iv) that the
+4 debtor has the right to contest the matter by filing a request for hearing with the Auditor, stating
+5 the time limits and procedure for requesting the hearing, and by stating that failure to request a
+6 hearing within the required time may result in forced collection of the debt.
+7 (c) Auditor Hearing. – A hearing on a contested claim of the State Auditor under this
+8 section must be conducted in accordance with Article 3 of Chapter 150B of the General Statutes.
+9 A request for a hearing must be filed within 30 days after the Auditor mails the debtor notice of
+10 the proposed forced collection. A request for a hearing is considered to be filed when it is
+11 delivered for mailing with postage prepaid and properly addressed. In a hearing under this
+12 section, an issue that has previously been litigated in a court proceeding cannot be considered. A
+13 final decision on a hearing under this section may be appealed in accordance with G.S. 105A-9.
+14 (d) Decision. – A decision made after a hearing under this section must determine, at a
+15 minimum, (i) whether a debt is owed to the State agency, (ii) by whom the debt is owed, and (iii)
+16 the amount of the debt.
+17 "§ 105A-9. Appeals from hearings.
+18 Appeals from hearings allowed under this Chapter, other than those conducted by the Judicial
+19 Branch and the Division of Employment Security, shall be in accordance with the provisions of
+20 Chapter 150B of the General Statutes, the Administrative Procedure Act, except that the place of
+21 initial judicial review shall be the superior court for the county in which the debtor resides.
+22 resides, or, in the case of nonresident debtors, the superior court of Wake County. A party
+23 aggrieved by an order or decision of a hearing conducted by the clerk of superior court or the
+24 Director of the North Carolina Administrative Office of the Courts or the Director's designee,
+25 under this Article may, within 10 days of entry of the order, appeal to the superior court for a
+26 hearing de novo. Notice of appeal shall be in writing and shall be filed with the clerk of superior
+27 court in the county where the order was entered. Appeals from hearings allowed under this
+28 Chapter that are conducted by the Division of Employment Security shall be in accordance with
+29 the provisions of Chapter 96 of the General Statutes.
+30 …
+31 "§ 105A-13. Collection assistance fees.
+32 (a) State Setoff. Setoff Collection. – To recover the costs incurred by the Department in
+33 collecting setoff debts under this Chapter, a collection assistance fee of five dollars ($5.00) is
+34 imposed on each debt collected through setoff. The Department must collect this fee as part of
+35 the debt and retain it. The collection assistance fee under this subsection shall not be added to
+36 child support debts or collected as part of child support debts. Instead, the Department shall retain
+37 from collections under Division II of Article 4 of Chapter 105 of the General Statutes the cost of
+38 collecting child support debts through debt setoff under this Chapter.
+39 (a1) State Forced Collection. – To recover the costs incurred by the Department in force
+40 collecting debts under this Chapter, a collection assistance fee equal to three percent (3%) of the
+41 amount of the debt is imposed on each debt collected through forced collection. The Department
+42 must collect this fee as part of the debt and retain it. The collection assistance fee under this
+43 subsection shall not be added to child support debts or collected as part of child support debts.
+44 Instead, the Department shall retain from collections under Article 4 of Chapter 105 of the
+45 General Statutes the cost of collecting child support debts through forced collection under this
+46 Chapter.
+47 …
+48 (c) Local Debts. – To recover the costs incurred by local agencies in submitting debts for
+49 setoff collection under this Chapter, a local collection assistance fee of fifteen dollars ($15.00) is
+50 imposed on each local agency debt submitted under G.S. 105A-3(b1) and collected through
+House Bill 549-Fifth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 setoff. The Department must collect this fee as part of the debt and remit it to the clearinghouse
+2 that submitted the debt. The local collection assistance fee does not apply to child support debts.
+3 …
+4 "§ 105A-14. Accounting Setoff collection; accounting to the claimant agency; agency, credit
+5 to debtor's obligation.
+6 (a) Setoff Collection; Accounting to Claimant Agency. – Simultaneously with the
+7 transmittal of the net proceeds collected through setoff collection to a claimant agency, the
+8 Department must provide the agency with an accounting of the setoffs for which payment is
+9 being made. The accounting must whenever possible include the full names of the debtors, the
+10 debtors' social security numbers or federal identification numbers, the gross proceeds collected
+11 per setoff, the net proceeds collected per setoff, and the collection assistance fee added to the
+12 debt and collected per setoff.
+13 (b) Setoff Collection; Credit to Debtor's Obligation. – Upon receipt by a claimant agency
+14 of net proceeds collected on the claimant agency's behalf by the Department, a final
+15 determination of the claim if it is a State agency claim, and an accounting of the proceeds as
+16 specified under this section, the claimant agency must credit the debtor's obligation with the net
+17 proceeds collected.
+18 "§ 105A-14A. Forced collection proceeds credited to General Fund.
+19 The net proceeds collected through a forced collection conducted under this Chapter shall be
+20 credited to the General Fund by the Department within 60 days of collection.
+21 …."
+22 SECTION 11.(b) This section becomes effective December 1, 2025, and applies to
+23 the collection of debts on or after that date.
+24 SECTION 12.(a) G.S. 143B-218 reads as rewritten:
+25 "§ 143B-218. Department of Revenue – duties.
+26 It shall be the duty of the Department to collect and account for the State's tax funds, to insure
+27 uniformity of administration of the tax laws and regulations, to conduct research on revenue
+28 matters, and to exercise general and specific supervision over the valuation and taxation of
+29 property throughout the State.State, and to perform other non-tax related functions as enacted by
+30 the General Assembly."
+31 SECTION 12.(b) This section becomes effective December 1, 2025, and applies to
+32 the performance of non-tax related functions by the Department on or after that date.
+33
+34 PART IV. EFFECTIVE DATE
+35 SECTION 13. Sections 1, 2, and 3 of this act become effective July 1, 2025, and
+36 apply to contracts entered into or renewed on or after that date. G.S. 147-64.6(c)(21), as amended
+37 by Section 10 of this act, becomes effective December 1, 2025. Unless otherwise provided, the
+38 remainder of this act is effective when it becomes law.
+Page 8 House Bill 549-Fifth Edition
+
+[DELETED:  5 C (   A A C R T T S A A T A T D O R T F C D O T S A T L A S A A A G T  P S " T … ( T S " E t J D a T U o N C a i c i i i i D ( F ( F ( F ( F r ( F S " ( T t]
+[DELETED:  S  H N E a o p b s ( o t s n a o p o l t D s p a i t g a s f p a a s a i t i … ( T t S " T … ( P f e – A i p c i a h S " T A s i r o a o i g a p f e w t s o a s f i G i m m o o r f v o o f p i s n t a S a i W t A b t a a t A s r t a t t a S a r f t e a o ( A o ( A C ( A B S " ( A ( T a t p a m e a c a b r r v d e w a g e r a f d a p l t c p o t l N c p t]
+[DELETED:  S  P ( T A a t A d a r s h s a d i i t p o a i p c i a t a A g g b A f s a s w s g t A o t A a r s ( T a i a o o o p f e w w f o o t S o N C o t f g A a i o p f e a l a p i G ( A s s ( T A a h t A a a a a t r o t ( H I a c h s s …  P S S S S " R … ( I a p p o e h r p f a a r o f m w]
+[DELETED:  S  H f ( D P O o t a o a a A r s u t s m i a r t t p S … ( T e o f  P D S " " " " " T O w q t d t s " T … ( F a … ( N c r m t c a f p i G a " p c m g p c t f c m t f c a f p i G … " u ( R i … ( O a o]
+[DELETED:  S  P d o t i f c u t C m e t d b f t p … ( R w a a " 1  M d r f s c d f T a t t " ( P C d … ( R u a m s t t t e a s o p t c a f p t d m G m I r e t a … " ( S d D d m s a s d r t b s b t A u G ( D o c ( T r ( T a ( T t]
+[DELETED:  S  H ( D a a o i u b t O o t S A i a w G " N t a d o t a S a i n a c t u G d t D m f c t d b l a s i t m p b G " N t a d o t a S a i n a c t u G d t D m f c t d b a a g i t m p f " T S m e i a a w t d f p o t d i i T i ( I o ( C ( T ( T ( T T d w n b m o t a o t g t t d o w f … " 1  S c S a n h d a r o s … " d ( P – T O o t S A m n s n o f d A s a " d d s m a d t ( m t r o G s o d a e ( N A]
+[DELETED:  S  P A d t d t h ( A s A t f f a h c d f m w p p a p a I a h u t s f ( D m t " A B C i r o A a D u h c C t … " ( S c i t c f c ( S c a m s I D f A G C … ( L s i a d u a]
+[DELETED:  S  H s t … " t ( S C A t C A – S w t t t c D b d p d ( S o n p c o t c a b b t D a f d s p " T c … S t S " I u m a p t S t  P S a b r]

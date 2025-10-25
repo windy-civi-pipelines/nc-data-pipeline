@@ -1,0 +1,665 @@
+Title: SENATE BILL 177
+Official Title: SENATE BILL 177
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Add Psychiatric Hospitals to Medicaid HASP. (Public)
+Sponsors: Senators Hise, Burgin, and Sawrey (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+February 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO INCLUDE FREESTANDING PSYCHIATRIC HOSPITALS AS HOSPITALS
+3 THAT ARE ELIGIBLE TO RECEIVE PAYMENTS UNDER THE MEDICAID
+4 HEALTHCARE ACCESS AND STABILIZATION PROGRAM AND TO PROVIDE
+5 FUNDING FOR THOSE PAYMENTS THROUGH INCREASED HOSPITAL
+6 ASSESSMENTS.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) G.S. 108A-148.1(a) reads as rewritten:
+9 "(a) The healthcare access and stabilization program is a directed payment program that
+10 provides acute care hospitals with increased reimbursements funded through hospital
+11 assessments in accordance with this section. Upon the approval of CMS, the healthcare access
+12 and stabilization program directed payment program shall additionally provide qualifying
+13 freestanding psychiatric hospitals with increased reimbursements funded through hospital
+14 assessments. A qualifying freestanding psychiatric hospital is a freestanding psychiatric hospital
+15 as defined in G.S. 108A-145.3 that is Medicare-certified and submits Hospital Cost Report
+16 Information System cost report data to CMS."
+17 SECTION 1.(b) The Department of Health and Human Services shall submit a 42
+18 C.F.R. § 438.6(c) preprint requesting approval to include freestanding psychiatric hospitals in
+19 the healthcare access and stabilization program (HASP) authorized under G.S. 108A-148.1, as
+20 amended by subsection (a) of this section.
+21 SECTION 1.(c) This section is effective when it becomes law.
+22 SECTION 2.(a) G.S. 108A-145.3 reads as rewritten:
+23 "§ 108A-145.3. Definitions.
+24 The following definitions apply in this Article:
+25 …
+26 (6c) Freestanding psychiatric hospital. – A hospital facility that is (i) licensed
+27 under Article 2 of Chapter 122C of the General Statutes, (ii) primarily engaged
+28 in providing to inpatients, by or under the supervision of a physician,
+29 psychiatric services for the diagnosis and treatment of individuals with mental
+30 illnesses, and (iii) not State-owned and State-operated.
+31 (6d) HASP directed payments. – Payments made by the Department to prepaid
+32 health plans to be used for (i) increased reimbursements to hospitals under the
+33 HASP program and (ii) the costs to prepaid health plans from the gross
+34 premiums tax under G.S. 105-228.5 and the insurance regulatory charge under
+35 G.S. 58-6-25 associated with those hospital reimbursements.
+*S177-v-1*
+General Assembly Of North Carolina Session 2025
+1 (6d)(6e) Healthcare access and stabilization program (HASP). – The directed
+2 payment program providing increased reimbursements to acute care hospitals
+3 and freestanding psychiatric hospitals as approved by CMS and authorized by
+4 G.S. 108A-148.1.
+5 …."
+6 SECTION 2.(b) G.S. 108A-146.1 reads as rewritten:
+7 "§ 108A-146.1. Public hospital modernized assessment.
+8 (a) The public hospital modernized assessment imposed under this Part shall apply to all
+9 public acute care hospitals.
+10 (b) The public hospital modernized assessment shall be assessed as a percentage of each
+11 public acute care hospital's hospital costs. The assessment percentage shall be calculated
+12 quarterly by the Department of Health and Human Services in accordance with this Part. The
+13 percentage for each quarter shall equal the aggregate acute care hospital modernized assessment
+14 collection amount under G.S. 108A-146.5 multiplied by the public hospital historical assessment
+15 share and divided by the total hospital costs for all public acute care hospitals holding a license
+16 on the first day of the assessment quarter."
+17 SECTION 2.(c) G.S. 108A-146.3 reads as rewritten:
+18 "§ 108A-146.3. Private hospital modernized assessment.
+19 (a) The private hospital modernized assessment imposed under this Part shall apply to all
+20 private acute care hospitals.
+21 (b) The private hospital modernized assessment shall be assessed as a percentage of each
+22 private acute care hospital's hospital costs. The assessment percentage shall be calculated
+23 quarterly by the Department of Health and Human Services in accordance with this Part. The
+24 percentage for each quarter shall equal the aggregate acute care hospital modernized assessment
+25 collection amount under G.S. 108A-146.5 multiplied by the private hospital historical assessment
+26 share and divided by the total hospital costs for all private acute care hospitals holding a license
+27 on the first day of the assessment quarter."
+28 SECTION 2.(d) Part 2 of Article 7B of Chapter 108A of the General Statutes is
+29 amended by adding a new section to read:
+30 "§ 108A-146.4. Freestanding psychiatric hospital modernized assessment.
+31 (a) The freestanding psychiatric hospital modernized assessment imposed under this Part
+32 shall apply to all freestanding psychiatric hospitals.
+33 (b) The freestanding psychiatric hospital modernized assessment shall be assessed as a
+34 percentage of each freestanding psychiatric hospital's hospital costs. The assessment percentage
+35 shall be calculated quarterly by the Department of Health and Human Services in accordance
+36 with this Part. The percentage for each quarter shall equal the modernized freestanding
+37 psychiatric hospital HASP component under G.S. 108A-146.10A divided by the total hospital
+38 costs for all freestanding psychiatric hospitals holding a license on the first day of the assessment
+39 quarter."
+40 SECTION 2.(e) G.S. 108A-146.5 reads as rewritten:
+41 "§ 108A-146.5. Aggregate acute care hospital modernized assessment collection amount.
+42 (a) The aggregate modernized assessment collection amount is an amount of money that
+43 is calculated by subtracting the modernized intergovernmental transfer adjustment component
+44 under G.S. 108A-146.13 from the total modernized nonfederal receipts under subsection (b) of
+45 this section and then adding the positive or negative amount of the modernized IGT actual
+46 receipts adjustment component under G.S. 108A-146.14.
+47 (b) The total modernized nonfederal receipts is the sum of all of the following:
+48 (1) One-fourth of the State's annual Medicaid payment.
+49 (2) The managed care component under G.S. 108A-146.7.
+50 (3) The fee-for-service component under G.S. 108A-146.9.
+Page 2 Senate Bill 177-First Edition
+General Assembly Of North Carolina Session 2025
+1 (3a) The modernized acute care hospital HASP component under
+2 G.S. 108A-146.10.
+3 (3b) The modernized freestanding psychiatric hospital HASP component under
+4 G.S. 108A-146.10A.
+5 (4) The GME component under G.S. 108A-146.11.
+6 (5) Beginning April 1, 2022, and ending March 31, 2027, the postpartum
+7 coverage component under G.S. 108A-146.12.
+8 (6) Beginning April 1, 2024, the home and community-based services component
+9 under G.S. 108A-146.12A.
+10 (c) The aggregate acute care hospital modernized assessment collection amount is an
+11 amount of money equal to the aggregate modernized assessment collection amount under
+12 subsection (a) of this section minus the modernized freestanding psychiatric hospital HASP
+13 component under G.S. 108A-146.10A."
+14 SECTION 2.(f) G.S. 108A-146.10 reads as rewritten:
+15 "§ 108A-146.10. Modernized acute care hospital HASP component.
+16 The modernized acute care hospital HASP component is an amount of money that is
+17 calculated each quarter by multiplying the aggregate amount of HASP directed payments due to
+18 PHPs in the current quarter for hospital reimbursements to acute care hospitals that are not
+19 attributable to newly eligible individuals by the nonfederal share for not newly eligible
+20 individuals."
+21 SECTION 2.(g) Part 2 of Article 7B of Chapter 108A of the General Statutes is
+22 amended by adding a new section to read:
+23 "§ 108A-146.10A. Modernized freestanding psychiatric hospital HASP component.
+24 The modernized freestanding psychiatric hospital HASP component is an amount of money
+25 that is calculated each quarter by multiplying the aggregate amount of HASP directed payments
+26 due to PHPs in the current quarter for reimbursements to freestanding psychiatric hospitals that
+27 are not attributable to newly eligible individuals by the nonfederal share for not newly eligible
+28 individuals."
+29 SECTION 2.(h) G.S. 108A-146.13 reads as rewritten:
+30 "§ 108A-146.13. Modernized presumptive IGT adjustment component.
+31 …
+32 (c) The modernized presumptive IGT adjustment component is an amount of money
+33 equal to the sum of all of the following subcomponents:
+34 (1) The public hospital IGT subcomponent is the total of the following amounts:
+35 a. Sixteen and forty-three hundredths percent (16.43%) of the amount of
+36 money that is equal to the total modernized nonfederal receipts under
+37 G.S. 108A-146.5(b) for the current quarter minus the modernized
+38 acute care hospital HASP component under G.S. 108A-146.10 for the
+39 current quarter and minus the modernized freestanding psychiatric
+40 hospital HASP component under G.S. 108A-146.10A for the current
+41 quarter.
+42 b. Sixty percent (60%) of the nonfederal share for not newly eligible
+43 individuals of the aggregate amount of HASP directed payments due
+44 to PHPs in the current quarter for reimbursements to public acute care
+45 hospitals and that are not attributable to newly eligible individuals.
+46 (2) The UNC Health Care System IGT subcomponent is the total of the following
+47 amounts:
+48 a. Four and sixty-two hundredths percent (4.62%) of the difference of
+49 amount of money that is equal to the total modernized nonfederal
+50 receipts under G.S. 108A-146.5(b) for the current quarter minus the
+51 modernized acute care hospital HASP component under
+Senate Bill 177-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 G.S. 108A-146.10 for the current quarter and minus the modernized
+2 freestanding psychiatric hospital HASP component under
+3 G.S. 108A-146.10A for the current quarter.
+4 b. The nonfederal share for not newly eligible individuals of the
+5 aggregate amount of HASP directed payments due to PHPs in the
+6 current quarter for reimbursements to UNC Health Care System
+7 hospitals that are not attributable to newly eligible individuals.
+8 (3) The East Carolina University IGT subcomponent is the total of the following
+9 amounts:
+10 a. One and four hundredths percent (1.04%) of the difference of amount
+11 of money that is equal to the total modernized nonfederal receipts
+12 under G.S. 108A-146.5(b) for the current quarter minus the
+13 modernized acute care hospital HASP component under
+14 G.S. 108A-146.10 for the current quarter and minus the modernized
+15 freestanding psychiatric hospital HASP component under
+16 G.S. 108A-146.10A for the current quarter.
+17 b. The nonfederal share for not newly eligible individuals of the
+18 aggregate amount of HASP directed payments due to PHPs in the
+19 current quarter for reimbursements to the primary affiliated teaching
+20 hospital for the East Carolina University Brody School of Medicine
+21 that are not attributable to newly eligible individuals."
+22 SECTION 3.(a) G.S. 108A-147.1 reads as rewritten:
+23 "§ 108A-147.1. Public hospital health advancement assessment.
+24 (a) The public hospital health advancement assessment imposed under this Part shall
+25 apply to all public acute care hospitals.
+26 (b) The public hospital health advancement assessment shall be assessed as a percentage
+27 of each public acute care hospital's hospital costs. The assessment percentage shall be calculated
+28 quarterly by the Department in accordance with this Part. The percentage for each quarter shall
+29 equal the aggregate acute care hospital health advancement assessment collection amount
+30 calculated under G.S. 108A-147.3 multiplied by the public hospital historical assessment share
+31 and divided by the total hospital costs for all public acute care hospitals holding a license on the
+32 first day of the assessment quarter."
+33 SECTION 3.(b) G.S. 108A-147.2 reads as rewritten:
+34 "§ 108A-147.2. Private hospital health advancement assessment.
+35 (a) The private hospital health advancement assessment imposed under this Part shall
+36 apply to all private acute care hospitals.
+37 (b) The private hospital health advancement assessment shall be assessed as a percentage
+38 of each private acute care hospital's hospital costs. The assessment percentage shall be calculated
+39 quarterly by the Department in accordance with this Part. The percentage for each quarter shall
+40 equal the aggregate acute care hospital health advancement assessment collection amount
+41 calculated under G.S. 108A-147.3 multiplied by the private hospital historical assessment share
+42 and divided by the total hospital costs for all private acute care hospitals holding a license on the
+43 first day of the assessment quarter."
+44 SECTION 3.(c) Part 3 of Article 7B of Chapter 108A of the General Statutes is
+45 amended by adding a new section to read:
+46 "§ 108A-147.2A. Freestanding psychiatric hospital health advancement assessment.
+47 (a) The freestanding psychiatric hospital health advancement assessment imposed under
+48 this Part shall apply to all freestanding psychiatric hospitals.
+49 (b) The freestanding psychiatric hospital health advancement assessment shall be
+50 assessed as a percentage of each freestanding psychiatric hospital's hospital costs. The assessment
+51 percentage shall be calculated quarterly by the Department in accordance with this Part. The
+Page 4 Senate Bill 177-First Edition
+General Assembly Of North Carolina Session 2025
+1 percentage for each quarter shall equal the health advancement freestanding psychiatric hospital
+2 HASP component calculated under G.S. 108A-147.6A divided by the total hospital costs for all
+3 freestanding psychiatric hospitals holding a license on the first day of the assessment quarter."
+4 SECTION 3.(d) G.S. 108A-147.3 reads as rewritten:
+5 "§ 108A-147.3. Aggregate acute care hospital health advancement assessment collection
+6 amount.
+7 (a) The aggregate health advancement assessment collection amount is an amount of
+8 money that is calculated quarterly by adjusting the total nonfederal receipts for health
+9 advancement calculated under subsection (b) of this section by (i) subtracting the health
+10 advancement presumptive IGT adjustment component calculated under G.S. 108A-147.9, (ii)
+11 adding the positive or negative health advancement IGT actual receipts adjustment component
+12 calculated under G.S. 108A-147.10, and (iii) subtracting the positive or negative IGT share of
+13 the reconciliation adjustment component calculated under G.S. 108A-147.11(b).
+14 (b) The total nonfederal receipts for health advancement is an amount of money that is
+15 calculated quarterly by adding all of the following:
+16 (1) The presumptive service cost component calculated under G.S. 108A-147.5.
+17 (2) The HASP health advancement acute care hospital HASP component
+18 calculated under G.S. 108A-147.6.
+19 (2a) The health advancement freestanding psychiatric hospital HASP component
+20 calculated under G.S. 108A-147.6A.
+21 (3) The administration component calculated under G.S. 108A-147.7.
+22 (4) The State retention component under G.S. 108A-147.9.
+23 (5) The positive or negative health advancement reconciliation adjustment
+24 component calculated under G.S. 108A-147.11(a).
+25 (c) The aggregate acute care hospital health advancement assessment collection amount
+26 is an amount of money equal to the aggregate health advancement assessment collection amount
+27 under subsection (a) of this section minus the health advancement freestanding psychiatric
+28 hospital HASP component under G.S. 108A-147.6A."
+29 SECTION 3.(e) G.S. 108A-147.5 reads as rewritten:
+30 "§ 108A-147.5. Presumptive service cost component.
+31 (a) For every State fiscal quarter prior to the fiscal quarter in which G.S. 108A-54.3A(24)
+32 becomes effective, the presumptive service cost component is zero.
+33 (b) For the State fiscal quarter in which G.S. 108A-54.3A(24) becomes effective, the
+34 presumptive service cost component is the product of forty-eight million seven hundred fifty
+35 thousand dollars ($48,750,000) multiplied by the number of months in that State fiscal quarter in
+36 which G.S. 108A-54.3A(24) is effective during any part of the month.
+37 (c) For the first State fiscal quarter after the State fiscal quarter in which
+38 G.S. 108A-54.3A(24) becomes effective, the presumptive service cost component is one hundred
+39 forty-six million two hundred fifty thousand dollars ($146,250,000).
+40 (d) For the second State fiscal quarter after the State fiscal quarter in which
+41 G.S. 108A-54.3A(24) becomes effective, and for each State fiscal quarter thereafter, the
+42 presumptive service cost component is an amount of money that is the greatest of the following:
+43 (1) The prior quarter's presumptive service cost component amount.
+44 (2) The prior quarter's presumptive service cost component amount increased by
+45 a percentage that is the sum of each monthly percentage change in the
+46 Consumer Price Index: Medical Care for the most recent three months
+47 available on the first day of the current quarter.
+48 (3) The prior quarter's presumptive service cost component amount increased by
+49 the percentage change in the weighted average of the base capitation rates for
+50 standard benefit plans for all rating groups associated with newly eligible
+51 individuals compared to the prior quarter. The weight for each rating group
+Senate Bill 177-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 shall be calculated using member months documented in the Medicaid
+2 managed care capitation rate certification for standard benefit plans.
+3 (4) The prior quarter's presumptive service cost component amount increased by
+4 the percentage change in the weighted average of the base capitation rates for
+5 BH IDD tailored plans for all rating groups associated with newly eligible
+6 individuals compared to the prior quarter. The weight for each rating group
+7 shall be calculated using member months documented in the Medicaid
+8 managed care capitation rate certification for BH IDD tailored plans.
+9 (5) The amount produced from multiplying 1.15 by the highest amount produced
+10 when calculating, for each quarter that is at least two and not more than five
+11 quarters prior to the current quarter, the actual nonfederal expenditures for the
+12 applicable quarter minus the HASP health advancement acute care hospital
+13 HASP component calculated under G.S. 108A-147.6 for the applicable
+14 quarter and minus the health advancement freestanding psychiatric hospital
+15 HASP component calculated under G.S. 108A-147.6A for the applicable
+16 quarter."
+17 SECTION 3.(f) G.S. 108A-147.6 reads as rewritten:
+18 "§ 108A-147.6. HASP health Health advancement acute care hospital HASP component.
+19 The HASP health advancement acute care hospital HASP component is an amount of money
+20 that is calculated by multiplying the aggregate amount of HASP directed payments due to PHPs
+21 in the current quarter for hospital reimbursements to acute care hospitals attributable to newly
+22 eligible individuals by the nonfederal share for newly eligible individuals."
+23 SECTION 3.(g) Part 3 of Article 7B of Chapter 108A of the General Statutes is
+24 amended by adding a new section to read:
+25 "§ 108A-147.6A. Health advancement freestanding psychiatric hospital HASP component.
+26 The health advancement freestanding psychiatric hospital HASP component is an amount of
+27 money that is calculated by multiplying the aggregate amount of HASP directed payments due
+28 to PHPs in the current quarter for reimbursements to freestanding psychiatric hospitals
+29 attributable to newly eligible individuals by the nonfederal share for newly eligible individuals."
+30 SECTION 3.(h) G.S. 108A-147.11 reads as rewritten:
+31 "§ 108A-147.11. Health advancement reconciliation adjustment component.
+32 (a) The health advancement reconciliation adjustment component is a positive or
+33 negative dollar amount equal to the actual nonfederal expenditures for the quarter that is two
+34 quarters prior to the current quarter minus the sum of the following specified amounts:
+35 (1) The presumptive service cost component calculated under G.S. 108A-147.5
+36 for the quarter that is two quarters prior to the current quarter.
+37 (2) The positive or negative gross premiums tax offset amount calculated under
+38 G.S. 108A-147.12(b).
+39 (3) The HASP health advancement acute care hospital HASP component
+40 calculated under G.S. 108A-147.6 for the quarter that is two quarters prior to
+41 the current quarter.
+42 (4) The health advancement freestanding psychiatric hospital HASP component
+43 calculated under G.S. 108A-147.6A for the quarter that is two quarters prior
+44 to the current quarter.
+45 (b) The IGT share of the reconciliation adjustment component is a positive or negative
+46 dollar amount that is calculated by multiplying the health advancement reconciliation adjustment
+47 component calculated under subsection (a) of this section by the share of public hospital costs
+48 calculated under subsection (c) of this section.
+49 (c) The share of public hospital costs is calculated by adding total hospital costs for the
+50 UNC Health Care System, total hospital costs for the primary affiliated teaching hospital for the
+51 East Carolina University Brody School of Medicine, and sixty percent (60%) of the total hospital
+Page 6 Senate Bill 177-First Edition
+General Assembly Of North Carolina Session 2025
+1 costs for all public acute care hospitals and dividing that sum by the total hospital costs for all
+2 acute care hospitals except for critical access hospitals."
+3 SECTION 4. Except as otherwise provided, this act is effective on the first day of
+4 the next assessment quarter after the date this act becomes law and applies to assessments
+5 imposed on or after that date.
+Senate Bill 177-First Edition Page 7
+[DELETED:  1 A ( S R A A T A E T R P U T M H A A S P A T P F F T P T I H A T S " T p a c h w i r f t h a a s p d p p s a p q f p h w i r f t h a a d i G t i M a s H C R I S C t a S S " T … ( F p h – A h f t i ( l u i p t i b o u t s o a p p i ( H h H p a ( t c t p h p f t g p G]
+[DELETED:  S  S ( H a a s p ( – T d p a G … S " ( T p ( T p a c h h c T a p s b c q p c s o S " ( T p ( T p a c h h c T a p s b c q p c s o S a " ( T s ( T p s w t P T p f e q s e t m f p c q S " ( T i u t I r ( T ( O ( T ( T]
+[DELETED:  S  P ( T m a c h H c u G ( T G ( T ( B A 1 2 a e M 3 2 t p c ( B u ( T a o m e t t a m a c a u s p c S " T m a c h H c i a a o m t i c P h a t n e i b t n s f n n e i S a " T t d a i S " … ( T e ( T a S m G f t c q m t m a c q a m t m f p h q b S i t h ( T a a F a o t i e t t t m n r m a c h H c u]
+[DELETED:  S  S G f p h H c u G b T n s f n n e i o t a d c q f r t U H C S h ( T a a O o e t n u G f t c q m t m a c h H c u G f p h H c u G b T n s f n n e i o t a d c h t S " ( T a ( T o q e t a a c h h a a c a c a f S " ( T a ( T o q e t a a c h h a a c a c a f S a " ( T t ( T f p h h a a s b a p]
+[DELETED:  S  P p H f S " a ( T m t i c q b a t t n r f h a c u s ( o t s b ( s t h a a c t ( T c ( T ( T H h a a c h H c c ( T c ( T ( T ( T p o n h a r a c ( T i u s ( o t s m t h a f p h S " ( F b ( F p t w ( F t f S f q a t S f q i w G f ( F t s S f q a t S f q i w G b e a f e S f q t t p ( T ( T a p t i t s o e m p c i t C P I M C f t m r t m a ( T t s g e i]
+[DELETED:  S  S s b c u m m d i t M m ( T t B i s b c u m m d i t M m ( T w q a H c c u G f t a q H c c u G f t a q S " T t i e S a " T m t P i t c q f r t f p h a S " ( T h a r a c i a p o n q ( T f ( T G ( T H h a a c h H c c t ( T c t ( T d c c ( T U E]
+[DELETED:  S  P c a S t n a q a t d t a b l a a t a i]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 177
+Short Title: Add Psychiatric Hospitals to Medicaid HASP. (Public)
+Sponsors: Senators Hise, Burgin, and Sawrey (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+February 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO INCLUDE FREESTANDING PSYCHIATRIC HOSPITALS AS HOSPITALS
+3 THAT ARE ELIGIBLE TO RECEIVE PAYMENTS UNDER THE MEDICAID
+4 HEALTHCARE ACCESS AND STABILIZATION PROGRAM AND TO PROVIDE
+5 FUNDING FOR THOSE PAYMENTS THROUGH INCREASED HOSPITAL
+6 ASSESSMENTS.
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1.(a) G.S. 108A-148.1(a) reads as rewritten:
+9 "(a) The healthcare access and stabilization program is a directed payment program that
+10 provides acute care hospitals with increased reimbursements funded through hospital
+11 assessments in accordance with this section. Upon the approval of CMS, the healthcare access
+12 and stabilization program directed payment program shall additionally provide qualifying
+13 freestanding psychiatric hospitals with increased reimbursements funded through hospital
+14 assessments. A qualifying freestanding psychiatric hospital is a freestanding psychiatric hospital
+15 as defined in G.S. 108A-145.3 that is Medicare-certified and submits Hospital Cost Report
+16 Information System cost report data to CMS."
+17 SECTION 1.(b) The Department of Health and Human Services shall submit a 42
+18 C.F.R. § 438.6(c) preprint requesting approval to include freestanding psychiatric hospitals in
+19 the healthcare access and stabilization program (HASP) authorized under G.S. 108A-148.1, as
+20 amended by subsection (a) of this section.
+21 SECTION 1.(c) This section is effective when it becomes law.
+22 SECTION 2.(a) G.S. 108A-145.3 reads as rewritten:
+23 "§ 108A-145.3. Definitions.
+24 The following definitions apply in this Article:
+25 …
+26 (6c) Freestanding psychiatric hospital. – A hospital facility that is (i) licensed
+27 under Article 2 of Chapter 122C of the General Statutes, (ii) primarily engaged
+28 in providing to inpatients, by or under the supervision of a physician,
+29 psychiatric services for the diagnosis and treatment of individuals with mental
+30 illnesses, and (iii) not State-owned and State-operated.
+31 (6d) HASP directed payments. – Payments made by the Department to prepaid
+32 health plans to be used for (i) increased reimbursements to hospitals under the
+33 HASP program and (ii) the costs to prepaid health plans from the gross
+34 premiums tax under G.S. 105-228.5 and the insurance regulatory charge under
+35 G.S. 58-6-25 associated with those hospital reimbursements.
+*S177-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (6d)(6e) Healthcare access and stabilization program (HASP). – The directed
+2 payment program providing increased reimbursements to acute care hospitals
+3 and freestanding psychiatric hospitals as approved by CMS and authorized by
+4 G.S. 108A-148.1.
+5 …."
+6 SECTION 2.(b) G.S. 108A-146.1 reads as rewritten:
+7 "§ 108A-146.1. Public hospital modernized assessment.
+8 (a) The public hospital modernized assessment imposed under this Part shall apply to all
+9 public acute care hospitals.
+10 (b) The public hospital modernized assessment shall be assessed as a percentage of each
+11 public acute care hospital's hospital costs. The assessment percentage shall be calculated
+12 quarterly by the Department of Health and Human Services in accordance with this Part. The
+13 percentage for each quarter shall equal the aggregate acute care hospital modernized assessment
+14 collection amount under G.S. 108A-146.5 multiplied by the public hospital historical assessment
+15 share and divided by the total hospital costs for all public acute care hospitals holding a license
+16 on the first day of the assessment quarter."
+17 SECTION 2.(c) G.S. 108A-146.3 reads as rewritten:
+18 "§ 108A-146.3. Private hospital modernized assessment.
+19 (a) The private hospital modernized assessment imposed under this Part shall apply to all
+20 private acute care hospitals.
+21 (b) The private hospital modernized assessment shall be assessed as a percentage of each
+22 private acute care hospital's hospital costs. The assessment percentage shall be calculated
+23 quarterly by the Department of Health and Human Services in accordance with this Part. The
+24 percentage for each quarter shall equal the aggregate acute care hospital modernized assessment
+25 collection amount under G.S. 108A-146.5 multiplied by the private hospital historical assessment
+26 share and divided by the total hospital costs for all private acute care hospitals holding a license
+27 on the first day of the assessment quarter."
+28 SECTION 2.(d) Part 2 of Article 7B of Chapter 108A of the General Statutes is
+29 amended by adding a new section to read:
+30 "§ 108A-146.4. Freestanding psychiatric hospital modernized assessment.
+31 (a) The freestanding psychiatric hospital modernized assessment imposed under this Part
+32 shall apply to all freestanding psychiatric hospitals.
+33 (b) The freestanding psychiatric hospital modernized assessment shall be assessed as a
+34 percentage of each freestanding psychiatric hospital's hospital costs. The assessment percentage
+35 shall be calculated quarterly by the Department of Health and Human Services in accordance
+36 with this Part. The percentage for each quarter shall equal the modernized freestanding
+37 psychiatric hospital HASP component under G.S. 108A-146.10A divided by the total hospital
+38 costs for all freestanding psychiatric hospitals holding a license on the first day of the assessment
+39 quarter."
+40 SECTION 2.(e) G.S. 108A-146.5 reads as rewritten:
+41 "§ 108A-146.5. Aggregate acute care hospital modernized assessment collection amount.
+42 (a) The aggregate modernized assessment collection amount is an amount of money that
+43 is calculated by subtracting the modernized intergovernmental transfer adjustment component
+44 under G.S. 108A-146.13 from the total modernized nonfederal receipts under subsection (b) of
+45 this section and then adding the positive or negative amount of the modernized IGT actual
+46 receipts adjustment component under G.S. 108A-146.14.
+47 (b) The total modernized nonfederal receipts is the sum of all of the following:
+48 (1) One-fourth of the State's annual Medicaid payment.
+49 (2) The managed care component under G.S. 108A-146.7.
+50 (3) The fee-for-service component under G.S. 108A-146.9.
+Page 2 Senate Bill 177-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3a) The modernized acute care hospital HASP component under
+2 G.S. 108A-146.10.
+3 (3b) The modernized freestanding psychiatric hospital HASP component under
+4 G.S. 108A-146.10A.
+5 (4) The GME component under G.S. 108A-146.11.
+6 (5) Beginning April 1, 2022, and ending March 31, 2027, the postpartum
+7 coverage component under G.S. 108A-146.12.
+8 (6) Beginning April 1, 2024, the home and community-based services component
+9 under G.S. 108A-146.12A.
+10 (c) The aggregate acute care hospital modernized assessment collection amount is an
+11 amount of money equal to the aggregate modernized assessment collection amount under
+12 subsection (a) of this section minus the modernized freestanding psychiatric hospital HASP
+13 component under G.S. 108A-146.10A."
+14 SECTION 2.(f) G.S. 108A-146.10 reads as rewritten:
+15 "§ 108A-146.10. Modernized acute care hospital HASP component.
+16 The modernized acute care hospital HASP component is an amount of money that is
+17 calculated each quarter by multiplying the aggregate amount of HASP directed payments due to
+18 PHPs in the current quarter for hospital reimbursements to acute care hospitals that are not
+19 attributable to newly eligible individuals by the nonfederal share for not newly eligible
+20 individuals."
+21 SECTION 2.(g) Part 2 of Article 7B of Chapter 108A of the General Statutes is
+22 amended by adding a new section to read:
+23 "§ 108A-146.10A. Modernized freestanding psychiatric hospital HASP component.
+24 The modernized freestanding psychiatric hospital HASP component is an amount of money
+25 that is calculated each quarter by multiplying the aggregate amount of HASP directed payments
+26 due to PHPs in the current quarter for reimbursements to freestanding psychiatric hospitals that
+27 are not attributable to newly eligible individuals by the nonfederal share for not newly eligible
+28 individuals."
+29 SECTION 2.(h) G.S. 108A-146.13 reads as rewritten:
+30 "§ 108A-146.13. Modernized presumptive IGT adjustment component.
+31 …
+32 (c) The modernized presumptive IGT adjustment component is an amount of money
+33 equal to the sum of all of the following subcomponents:
+34 (1) The public hospital IGT subcomponent is the total of the following amounts:
+35 a. Sixteen and forty-three hundredths percent (16.43%) of the amount of
+36 money that is equal to the total modernized nonfederal receipts under
+37 G.S. 108A-146.5(b) for the current quarter minus the modernized
+38 acute care hospital HASP component under G.S. 108A-146.10 for the
+39 current quarter and minus the modernized freestanding psychiatric
+40 hospital HASP component under G.S. 108A-146.10A for the current
+41 quarter.
+42 b. Sixty percent (60%) of the nonfederal share for not newly eligible
+43 individuals of the aggregate amount of HASP directed payments due
+44 to PHPs in the current quarter for reimbursements to public acute care
+45 hospitals and that are not attributable to newly eligible individuals.
+46 (2) The UNC Health Care System IGT subcomponent is the total of the following
+47 amounts:
+48 a. Four and sixty-two hundredths percent (4.62%) of the difference of
+49 amount of money that is equal to the total modernized nonfederal
+50 receipts under G.S. 108A-146.5(b) for the current quarter minus the
+51 modernized acute care hospital HASP component under
+Senate Bill 177-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 G.S. 108A-146.10 for the current quarter and minus the modernized
+2 freestanding psychiatric hospital HASP component under
+3 G.S. 108A-146.10A for the current quarter.
+4 b. The nonfederal share for not newly eligible individuals of the
+5 aggregate amount of HASP directed payments due to PHPs in the
+6 current quarter for reimbursements to UNC Health Care System
+7 hospitals that are not attributable to newly eligible individuals.
+8 (3) The East Carolina University IGT subcomponent is the total of the following
+9 amounts:
+10 a. One and four hundredths percent (1.04%) of the difference of amount
+11 of money that is equal to the total modernized nonfederal receipts
+12 under G.S. 108A-146.5(b) for the current quarter minus the
+13 modernized acute care hospital HASP component under
+14 G.S. 108A-146.10 for the current quarter and minus the modernized
+15 freestanding psychiatric hospital HASP component under
+16 G.S. 108A-146.10A for the current quarter.
+17 b. The nonfederal share for not newly eligible individuals of the
+18 aggregate amount of HASP directed payments due to PHPs in the
+19 current quarter for reimbursements to the primary affiliated teaching
+20 hospital for the East Carolina University Brody School of Medicine
+21 that are not attributable to newly eligible individuals."
+22 SECTION 3.(a) G.S. 108A-147.1 reads as rewritten:
+23 "§ 108A-147.1. Public hospital health advancement assessment.
+24 (a) The public hospital health advancement assessment imposed under this Part shall
+25 apply to all public acute care hospitals.
+26 (b) The public hospital health advancement assessment shall be assessed as a percentage
+27 of each public acute care hospital's hospital costs. The assessment percentage shall be calculated
+28 quarterly by the Department in accordance with this Part. The percentage for each quarter shall
+29 equal the aggregate acute care hospital health advancement assessment collection amount
+30 calculated under G.S. 108A-147.3 multiplied by the public hospital historical assessment share
+31 and divided by the total hospital costs for all public acute care hospitals holding a license on the
+32 first day of the assessment quarter."
+33 SECTION 3.(b) G.S. 108A-147.2 reads as rewritten:
+34 "§ 108A-147.2. Private hospital health advancement assessment.
+35 (a) The private hospital health advancement assessment imposed under this Part shall
+36 apply to all private acute care hospitals.
+37 (b) The private hospital health advancement assessment shall be assessed as a percentage
+38 of each private acute care hospital's hospital costs. The assessment percentage shall be calculated
+39 quarterly by the Department in accordance with this Part. The percentage for each quarter shall
+40 equal the aggregate acute care hospital health advancement assessment collection amount
+41 calculated under G.S. 108A-147.3 multiplied by the private hospital historical assessment share
+42 and divided by the total hospital costs for all private acute care hospitals holding a license on the
+43 first day of the assessment quarter."
+44 SECTION 3.(c) Part 3 of Article 7B of Chapter 108A of the General Statutes is
+45 amended by adding a new section to read:
+46 "§ 108A-147.2A. Freestanding psychiatric hospital health advancement assessment.
+47 (a) The freestanding psychiatric hospital health advancement assessment imposed under
+48 this Part shall apply to all freestanding psychiatric hospitals.
+49 (b) The freestanding psychiatric hospital health advancement assessment shall be
+50 assessed as a percentage of each freestanding psychiatric hospital's hospital costs. The assessment
+51 percentage shall be calculated quarterly by the Department in accordance with this Part. The
+Page 4 Senate Bill 177-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 percentage for each quarter shall equal the health advancement freestanding psychiatric hospital
+2 HASP component calculated under G.S. 108A-147.6A divided by the total hospital costs for all
+3 freestanding psychiatric hospitals holding a license on the first day of the assessment quarter."
+4 SECTION 3.(d) G.S. 108A-147.3 reads as rewritten:
+5 "§ 108A-147.3. Aggregate acute care hospital health advancement assessment collection
+6 amount.
+7 (a) The aggregate health advancement assessment collection amount is an amount of
+8 money that is calculated quarterly by adjusting the total nonfederal receipts for health
+9 advancement calculated under subsection (b) of this section by (i) subtracting the health
+10 advancement presumptive IGT adjustment component calculated under G.S. 108A-147.9, (ii)
+11 adding the positive or negative health advancement IGT actual receipts adjustment component
+12 calculated under G.S. 108A-147.10, and (iii) subtracting the positive or negative IGT share of
+13 the reconciliation adjustment component calculated under G.S. 108A-147.11(b).
+14 (b) The total nonfederal receipts for health advancement is an amount of money that is
+15 calculated quarterly by adding all of the following:
+16 (1) The presumptive service cost component calculated under G.S. 108A-147.5.
+17 (2) The HASP health advancement acute care hospital HASP component
+18 calculated under G.S. 108A-147.6.
+19 (2a) The health advancement freestanding psychiatric hospital HASP component
+20 calculated under G.S. 108A-147.6A.
+21 (3) The administration component calculated under G.S. 108A-147.7.
+22 (4) The State retention component under G.S. 108A-147.9.
+23 (5) The positive or negative health advancement reconciliation adjustment
+24 component calculated under G.S. 108A-147.11(a).
+25 (c) The aggregate acute care hospital health advancement assessment collection amount
+26 is an amount of money equal to the aggregate health advancement assessment collection amount
+27 under subsection (a) of this section minus the health advancement freestanding psychiatric
+28 hospital HASP component under G.S. 108A-147.6A."
+29 SECTION 3.(e) G.S. 108A-147.5 reads as rewritten:
+30 "§ 108A-147.5. Presumptive service cost component.
+31 (a) For every State fiscal quarter prior to the fiscal quarter in which G.S. 108A-54.3A(24)
+32 becomes effective, the presumptive service cost component is zero.
+33 (b) For the State fiscal quarter in which G.S. 108A-54.3A(24) becomes effective, the
+34 presumptive service cost component is the product of forty-eight million seven hundred fifty
+35 thousand dollars ($48,750,000) multiplied by the number of months in that State fiscal quarter in
+36 which G.S. 108A-54.3A(24) is effective during any part of the month.
+37 (c) For the first State fiscal quarter after the State fiscal quarter in which
+38 G.S. 108A-54.3A(24) becomes effective, the presumptive service cost component is one hundred
+39 forty-six million two hundred fifty thousand dollars ($146,250,000).
+40 (d) For the second State fiscal quarter after the State fiscal quarter in which
+41 G.S. 108A-54.3A(24) becomes effective, and for each State fiscal quarter thereafter, the
+42 presumptive service cost component is an amount of money that is the greatest of the following:
+43 (1) The prior quarter's presumptive service cost component amount.
+44 (2) The prior quarter's presumptive service cost component amount increased by
+45 a percentage that is the sum of each monthly percentage change in the
+46 Consumer Price Index: Medical Care for the most recent three months
+47 available on the first day of the current quarter.
+48 (3) The prior quarter's presumptive service cost component amount increased by
+49 the percentage change in the weighted average of the base capitation rates for
+50 standard benefit plans for all rating groups associated with newly eligible
+51 individuals compared to the prior quarter. The weight for each rating group
+Senate Bill 177-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 shall be calculated using member months documented in the Medicaid
+2 managed care capitation rate certification for standard benefit plans.
+3 (4) The prior quarter's presumptive service cost component amount increased by
+4 the percentage change in the weighted average of the base capitation rates for
+5 BH IDD tailored plans for all rating groups associated with newly eligible
+6 individuals compared to the prior quarter. The weight for each rating group
+7 shall be calculated using member months documented in the Medicaid
+8 managed care capitation rate certification for BH IDD tailored plans.
+9 (5) The amount produced from multiplying 1.15 by the highest amount produced
+10 when calculating, for each quarter that is at least two and not more than five
+11 quarters prior to the current quarter, the actual nonfederal expenditures for the
+12 applicable quarter minus the HASP health advancement acute care hospital
+13 HASP component calculated under G.S. 108A-147.6 for the applicable
+14 quarter and minus the health advancement freestanding psychiatric hospital
+15 HASP component calculated under G.S. 108A-147.6A for the applicable
+16 quarter."
+17 SECTION 3.(f) G.S. 108A-147.6 reads as rewritten:
+18 "§ 108A-147.6. HASP health Health advancement acute care hospital HASP component.
+19 The HASP health advancement acute care hospital HASP component is an amount of money
+20 that is calculated by multiplying the aggregate amount of HASP directed payments due to PHPs
+21 in the current quarter for hospital reimbursements to acute care hospitals attributable to newly
+22 eligible individuals by the nonfederal share for newly eligible individuals."
+23 SECTION 3.(g) Part 3 of Article 7B of Chapter 108A of the General Statutes is
+24 amended by adding a new section to read:
+25 "§ 108A-147.6A. Health advancement freestanding psychiatric hospital HASP component.
+26 The health advancement freestanding psychiatric hospital HASP component is an amount of
+27 money that is calculated by multiplying the aggregate amount of HASP directed payments due
+28 to PHPs in the current quarter for reimbursements to freestanding psychiatric hospitals
+29 attributable to newly eligible individuals by the nonfederal share for newly eligible individuals."
+30 SECTION 3.(h) G.S. 108A-147.11 reads as rewritten:
+31 "§ 108A-147.11. Health advancement reconciliation adjustment component.
+32 (a) The health advancement reconciliation adjustment component is a positive or
+33 negative dollar amount equal to the actual nonfederal expenditures for the quarter that is two
+34 quarters prior to the current quarter minus the sum of the following specified amounts:
+35 (1) The presumptive service cost component calculated under G.S. 108A-147.5
+36 for the quarter that is two quarters prior to the current quarter.
+37 (2) The positive or negative gross premiums tax offset amount calculated under
+38 G.S. 108A-147.12(b).
+39 (3) The HASP health advancement acute care hospital HASP component
+40 calculated under G.S. 108A-147.6 for the quarter that is two quarters prior to
+41 the current quarter.
+42 (4) The health advancement freestanding psychiatric hospital HASP component
+43 calculated under G.S. 108A-147.6A for the quarter that is two quarters prior
+44 to the current quarter.
+45 (b) The IGT share of the reconciliation adjustment component is a positive or negative
+46 dollar amount that is calculated by multiplying the health advancement reconciliation adjustment
+47 component calculated under subsection (a) of this section by the share of public hospital costs
+48 calculated under subsection (c) of this section.
+49 (c) The share of public hospital costs is calculated by adding total hospital costs for the
+50 UNC Health Care System, total hospital costs for the primary affiliated teaching hospital for the
+51 East Carolina University Brody School of Medicine, and sixty percent (60%) of the total hospital
+Page 6 Senate Bill 177-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 costs for all public acute care hospitals and dividing that sum by the total hospital costs for all
+2 acute care hospitals except for critical access hospitals."
+3 SECTION 4. Except as otherwise provided, this act is effective on the first day of
+4 the next assessment quarter after the date this act becomes law and applies to assessments
+5 imposed on or after that date.
+Senate Bill 177-First Edition Page 7
+
+[DELETED:  1 A ( S R A A T A E T R P U T M H A A S P A T P F F T P T I H A T S " T p a c h w i r f t h a a s p d p p s a p q f p h w i r f t h a a d i G t i M a s H C R I S C t a S S " T … ( F p h – A h f t i ( l u i p t i b o u t s o a p p i ( H h H p a ( t c t p h p f t g p G]
+[DELETED:  S  S ( H a a s p ( – T d p a G … S " ( T p ( T p a c h h c T a p s b c q p c s o S " ( T p ( T p a c h h c T a p s b c q p c s o S a " ( T s ( T p s w t P T p f e q s e t m f p c q S " ( T i u t I r ( T ( O ( T ( T]
+[DELETED:  S  P ( T m a c h H c u G ( T G ( T ( B A 1 2 a e M 3 2 t p c ( B u ( T a o m e t t a m a c a u s p c S " T m a c h H c i a a o m t i c P h a t n e i b t n s f n n e i S a " T t d a i S " … ( T e ( T a S m G f t c q m t m a c q a m t m f p h q b S i t h ( T a a F a o t i e t t t m n r m a c h H c u]
+[DELETED:  S  S G f p h H c u G b T n s f n n e i o t a d c q f r t U H C S h ( T a a O o e t n u G f t c q m t m a c h H c u G f p h H c u G b T n s f n n e i o t a d c h t S " ( T a ( T o q e t a a c h h a a c a c a f S " ( T a ( T o q e t a a c h h a a c a c a f S a " ( T t ( T f p h h a a s b a p]
+[DELETED:  S  P p H f S " a ( T m t i c q b a t t n r f h a c u s ( o t s b ( s t h a a c t ( T c ( T ( T H h a a c h H c c ( T c ( T ( T ( T p o n h a r a c ( T i u s ( o t s m t h a f p h S " ( F b ( F p t w ( F t f S f q a t S f q i w G f ( F t s S f q a t S f q i w G b e a f e S f q t t p ( T ( T a p t i t s o e m p c i t C P I M C f t m r t m a ( T t s g e i]
+[DELETED:  S  S s b c u m m d i t M m ( T t B i s b c u m m d i t M m ( T w q a H c c u G f t a q H c c u G f t a q S " T t i e S a " T m t P i t c q f r t f p h a S " ( T h a r a c i a p o n q ( T f ( T G ( T H h a a c h H c c t ( T c t ( T d c c ( T U E]
+[DELETED:  S  P c a S t n a q a t d t a b l a a t a i]
