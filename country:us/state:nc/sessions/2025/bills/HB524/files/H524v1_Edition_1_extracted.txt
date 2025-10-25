@@ -1,0 +1,206 @@
+Title: HOUSE BILL 524
+Official Title: HOUSE BILL 524
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Fraud Detection Alert System. (Public)
+Sponsors: Representatives Kidwell and Tyson (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: State and Local Government, if favorable, Judiciary 2, if favorable, Rules,
+Calendar, and Operations of the House
+March 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE REGISTER OF DEEDS TO PROVIDE ACCESS TO A FRAUD
+3 DETECTION ALERT SYSTEM AND TO MODIFY PROVISIONS REGARDING
+4 PROPERTY CRIMES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 2 of Chapter 161 of the General Statutes is amended by adding
+7 a new section to read:
+8 "§ 161-32. Fraud detection alert system.
+9 (a) The following definitions apply in this section:
+10 (1) Fraud detection alert system. – A system which sends automated recording
+11 notifications.
+12 (2) Land record. – A deed, deed of trust, mortgage, or other document purporting
+13 to convey or encumber an interest in real property.
+14 (3) Monitored identity. – A personal, trust, or business name submitted by a
+15 registrant for monitoring under a fraud detection alert system.
+16 (4) Recording notification. – A notification sent by electronic mail indicating to
+17 a registrant that a land record associated with the registrant's monitored
+18 identity has been recorded in the office of the register of deeds.
+19 (5) Registrant. – A person who enrolls in a fraud detection alert system.
+20 (b) The register of deeds shall ensure that registration for a fraud detection alert system
+21 is possible through an electronic registration portal, which portal shall include at least all of the
+22 following features:
+23 (1) Be accessible through a direct link on the register of deeds' official public
+24 website.
+25 (2) Allow a registrant to subscribe to receive recording notifications for at least
+26 five monitored identities per valid electronic mail address provided.
+27 (3) Include a method by which a registrant may unsubscribe from the system.
+28 (4) List a phone number at which the register of deeds office may be contacted
+29 during normal business hours with questions related to the system.
+30 (5) Send an automated electronic mail message to a registrant confirming the
+31 registrant's successful registration for or action to unsubscribe from the
+32 system, which message must identify each monitored identity for which a
+33 subscription was received or canceled.
+*H524-v-1*
+General Assembly Of North Carolina Session 2025
+1 (c) When a land record is recorded for a monitored identity, a recording notification must
+2 be sent within 24 hours after the recording has been completed to each registrant who is
+3 subscribed to receive recording notifications for that monitored identity. Such notification must
+4 contain at least the following:
+5 (1) Information identifying the monitored identity for which the land record was
+6 filed.
+7 (2) The land record's recording date.
+8 (3) The official record book and page number or instrument number assigned to
+9 the land record by the register of deeds.
+10 (4) Instructions for electronically searching for and viewing the land record using
+11 the assigned official record book and page number or instrument number.
+12 (5) A phone number at which the register of deeds office may be contacted during
+13 normal business hours with questions related to the recording notification.
+14 (d) There is no right or cause of action against, and no civil liability on the part of, the
+15 register of deeds or the county with respect to the creation, maintenance, or operation of a fraud
+16 detection alert system as required by this section.
+17 (e) The register of deeds may charge a reasonable fee to a registrant for enrolling in the
+18 fraud detection alert system in an amount that does not exceed the actual cost of maintaining and
+19 allowing access to the system."
+20 SECTION 2. G.S. 14-117.8 reads as rewritten:
+21 "§ 14-117.8. Fraudulently renting, leasing, or advertising for sale of residential real
+22 property.
+23 (a) Offense Involving Fraudulent Rental or Lease. – It is unlawful to rent or lease
+24 residential real property to another person knowing that the renter or lessor has no lawful
+25 ownership in the property or leasehold interest in the property.
+26 (b) Offense Involving Fraudulent Advertising. – It is unlawful to list or advertise
+27 residential real property for sale knowing that the purported seller has no legal title or authority
+28 to sell the property.
+29 (c) Punishment. – Unless the conduct is covered under some other provision of law
+30 providing greater punishment, a person who violates this section shall be punished as follows:
+31 (1) A person who violates subsection (a) of this section is guilty of a Class H
+32 felony.
+33 (2) A person who violates subsection (b) of this section is guilty of a Class I
+34 felony.
+35 (d) In addition to any criminal penalties provided in this section, knowingly renting or
+36 leasing renting, leasing, listing, or advertising residential real property to another person knowing
+37 that the renter or lessor renter, lessor, or the person soliciting the listing or advertisement has no
+38 lawful ownership or leasehold interest in the property shall constitute a violation of G.S. 75-1.1.
+39 In a civil suit initiated by a person who alleges that a person's violation of this section constitutes
+40 a violation of G.S. 75-1.1, the presiding judge may allow a reasonable attorney fee in accordance
+41 with G.S. 75-16.1 to the attorney representing the person bringing the suit without finding that
+42 there was an unwarranted refusal by the party charged with the violation to fully resolve the
+43 matter which constitutes the basis of the suit."
+44 SECTION 3. Section 1 of this act becomes effective October 1, 2025, and applies to
+45 land records recorded on or after that date. Section 2 of this act becomes effective October 1,
+46 2025, and applies to causes of action arising on or after that date. The remainder of this act is
+47 effective when it becomes law.
+Page 2 House Bill 524-First Edition
+[DELETED:  1 F ( R S a L G i f J 2 i f R A A D A S A T M P R P T S a " ( T ( F n ( L t ( M i – A p t o b n s b a r ( R a r t a l r a w t r m i ( R ( T i f ( B w ( A f ( I ( L d ( S t r s r f o a t u f t s s]
+[DELETED:  S  H ( W b s w 2 h a t r h b c t e r w i s c ( I f ( T ( T t ( I t ( A n ( T r d ( T f a S " 1  F r l o a f s o r r p ( O I F R o L – I i u t r o l r r p t a p k t t r o l h n l o ( O I F A – I i u t l o a r t ( P – U t c i c u o p o p ( A f ( A f ( I l t l I a w t m S l 2 e]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 524
+Short Title: Fraud Detection Alert System. (Public)
+Sponsors: Representatives Kidwell and Tyson (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: State and Local Government, if favorable, Judiciary 2, if favorable, Rules,
+Calendar, and Operations of the House
+March 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REQUIRE THE REGISTER OF DEEDS TO PROVIDE ACCESS TO A FRAUD
+3 DETECTION ALERT SYSTEM AND TO MODIFY PROVISIONS REGARDING
+4 PROPERTY CRIMES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. Article 2 of Chapter 161 of the General Statutes is amended by adding
+7 a new section to read:
+8 "§ 161-32. Fraud detection alert system.
+9 (a) The following definitions apply in this section:
+10 (1) Fraud detection alert system. – A system which sends automated recording
+11 notifications.
+12 (2) Land record. – A deed, deed of trust, mortgage, or other document purporting
+13 to convey or encumber an interest in real property.
+14 (3) Monitored identity. – A personal, trust, or business name submitted by a
+15 registrant for monitoring under a fraud detection alert system.
+16 (4) Recording notification. – A notification sent by electronic mail indicating to
+17 a registrant that a land record associated with the registrant's monitored
+18 identity has been recorded in the office of the register of deeds.
+19 (5) Registrant. – A person who enrolls in a fraud detection alert system.
+20 (b) The register of deeds shall ensure that registration for a fraud detection alert system
+21 is possible through an electronic registration portal, which portal shall include at least all of the
+22 following features:
+23 (1) Be accessible through a direct link on the register of deeds' official public
+24 website.
+25 (2) Allow a registrant to subscribe to receive recording notifications for at least
+26 five monitored identities per valid electronic mail address provided.
+27 (3) Include a method by which a registrant may unsubscribe from the system.
+28 (4) List a phone number at which the register of deeds office may be contacted
+29 during normal business hours with questions related to the system.
+30 (5) Send an automated electronic mail message to a registrant confirming the
+31 registrant's successful registration for or action to unsubscribe from the
+32 system, which message must identify each monitored identity for which a
+33 subscription was received or canceled.
+*H524-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (c) When a land record is recorded for a monitored identity, a recording notification must
+2 be sent within 24 hours after the recording has been completed to each registrant who is
+3 subscribed to receive recording notifications for that monitored identity. Such notification must
+4 contain at least the following:
+5 (1) Information identifying the monitored identity for which the land record was
+6 filed.
+7 (2) The land record's recording date.
+8 (3) The official record book and page number or instrument number assigned to
+9 the land record by the register of deeds.
+10 (4) Instructions for electronically searching for and viewing the land record using
+11 the assigned official record book and page number or instrument number.
+12 (5) A phone number at which the register of deeds office may be contacted during
+13 normal business hours with questions related to the recording notification.
+14 (d) There is no right or cause of action against, and no civil liability on the part of, the
+15 register of deeds or the county with respect to the creation, maintenance, or operation of a fraud
+16 detection alert system as required by this section.
+17 (e) The register of deeds may charge a reasonable fee to a registrant for enrolling in the
+18 fraud detection alert system in an amount that does not exceed the actual cost of maintaining and
+19 allowing access to the system."
+20 SECTION 2. G.S. 14-117.8 reads as rewritten:
+21 "§ 14-117.8. Fraudulently renting, leasing, or advertising for sale of residential real
+22 property.
+23 (a) Offense Involving Fraudulent Rental or Lease. – It is unlawful to rent or lease
+24 residential real property to another person knowing that the renter or lessor has no lawful
+25 ownership in the property or leasehold interest in the property.
+26 (b) Offense Involving Fraudulent Advertising. – It is unlawful to list or advertise
+27 residential real property for sale knowing that the purported seller has no legal title or authority
+28 to sell the property.
+29 (c) Punishment. – Unless the conduct is covered under some other provision of law
+30 providing greater punishment, a person who violates this section shall be punished as follows:
+31 (1) A person who violates subsection (a) of this section is guilty of a Class H
+32 felony.
+33 (2) A person who violates subsection (b) of this section is guilty of a Class I
+34 felony.
+35 (d) In addition to any criminal penalties provided in this section, knowingly renting or
+36 leasing renting, leasing, listing, or advertising residential real property to another person knowing
+37 that the renter or lessor renter, lessor, or the person soliciting the listing or advertisement has no
+38 lawful ownership or leasehold interest in the property shall constitute a violation of G.S. 75-1.1.
+39 In a civil suit initiated by a person who alleges that a person's violation of this section constitutes
+40 a violation of G.S. 75-1.1, the presiding judge may allow a reasonable attorney fee in accordance
+41 with G.S. 75-16.1 to the attorney representing the person bringing the suit without finding that
+42 there was an unwarranted refusal by the party charged with the violation to fully resolve the
+43 matter which constitutes the basis of the suit."
+44 SECTION 3. Section 1 of this act becomes effective October 1, 2025, and applies to
+45 land records recorded on or after that date. Section 2 of this act becomes effective October 1,
+46 2025, and applies to causes of action arising on or after that date. The remainder of this act is
+47 effective when it becomes law.
+Page 2 House Bill 524-First Edition
+
+[DELETED:  1 F ( R S a L G i f J 2 i f R A A D A S A T M P R P T S a " ( T ( F n ( L t ( M i – A p t o b n s b a r ( R a r t a l r a w t r m i ( R ( T i f ( B w ( A f ( I ( L d ( S t r s r f o a t u f t s s]
+[DELETED:  S  H ( W b s w 2 h a t r h b c t e r w i s c ( I f ( T ( T t ( I t ( A n ( T r d ( T f a S " 1  F r l o a f s o r r p ( O I F R o L – I i u t r o l r r p t a p k t t r o l h n l o ( O I F A – I i u t l o a r t ( P – U t c i c u o p o p ( A f ( A f ( I l t l I a w t m S l 2 e]

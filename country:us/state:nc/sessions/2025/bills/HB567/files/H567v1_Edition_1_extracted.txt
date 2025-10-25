@@ -1,0 +1,473 @@
+Title: HOUSE BILL 567
+Official Title: HOUSE BILL 567
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Ensure Access to Biomarker Testing. (Public)
+Sponsors: Representatives Wheatley, Penny, Campbell, and Moss (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations
+of the House
+March 31, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENSURE ACCESS TO AN EARLY AND ACCURATE DIAGNOSIS OF
+3 DEMENTIA IN ORDER TO IMPROVE ACCESS TO CARE AND SUPPORT SERVICES
+4 FOR, ENHANCE THE QUALITY OF LIFE OF, AND REDUCE THE FINANCIAL
+5 IMPACT OF THE CONDITION ON NORTH CAROLINIANS.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. HEALTH BENEFIT PLAN COVERAGE OF BIOMARKER TESTING
+9 SECTION 1.1.(a) Article 3 of Chapter 58 of the General Statutes is amended by
+10 adding a new section to read:
+11 "§ 58-3-216. Coverage of biomarker testing.
+12 (a) The following definitions apply in this section:
+13 (1) Biomarker. – A characteristic that is objectively measured and evaluated as an
+14 indicator of normal biological processes, pathogenic processes, or
+15 pharmacologic responses to a specific therapeutic intervention, including
+16 known gene-drug interactions for medication being considered for use or
+17 already being administered. This term incudes gene mutations, characteristics
+18 of genes, and protein expression.
+19 (2) Biomarker testing. – The analysis of a patient's tissue, blood, or other
+20 biospecimen for the presence of a biomarker. This term includes
+21 single-analyte tests, multi-plex panel tests, protein expression, and whole
+22 exome, whole genome, and whole transcriptome sequencing.
+23 (3) Consensus statement. – A statement that is developed by an independent
+24 multidisciplinary panel, aimed at specific clinical circumstances, and based
+25 upon the best available evidence for the purpose of optimizing the outcomes
+26 of clinical care.
+27 (4) FDA. – The United States Food and Drug Administration.
+28 (5) Reserved for future codification purposes.
+29 (6) Independent multidisciplinary panel. – A multidisciplinary panel of experts
+30 that utilizes a transparent methodology and reporting structure and that has a
+31 conflict of interest policy.
+32 (7) Independent organization or medical professional society. – An organization
+33 or medical professional society that utilizes a transparent methodology and
+34 reporting structure and that has a conflict of interest policy.
+*H567-v-1*
+General Assembly Of North Carolina Session 2025
+1 (8) Reserved for future codification purposes.
+2 (9) Nationally recognized clinical practice guidelines. – Evidence-based clinical
+3 practice guidelines developed by independent organizations or medical
+4 professional societies that establish standards of care that are informed by a
+5 systematic review of evidence and an assessment of the benefits and risks of
+6 alternative care options and that include recommendations intended to
+7 optimize patient care.
+8 (b) A health benefit plan shall provide coverage for biomarker testing for the purposes of
+9 diagnosis, treatment, appropriate care management, or ongoing monitoring of an insured's
+10 disease or condition when the testing is supported by medical and scientific evidence. At a
+11 minimum, any of the following shall be considered support for biomarker testing:
+12 (1) Label indications for a test that has been FDA-approved or FDA-cleared.
+13 (2) Indicated tests for an FDA-approved drug.
+14 (3) Warnings and precautions on an FDA-approved drug label.
+15 (4) National coverage determinations developed by the Centers for Medicare and
+16 Medicaid Services.
+17 (5) Local coverage determinations developed by a Medicare Administrative
+18 Contractor.
+19 (6) Nationally recognized clinical practice guidelines and consensus statements.
+20 (c) Coverage required under this section shall be provided in a manner that limits
+21 disruption in patient care, including the need for multiple biopsies or biospecimen samples."
+22 SECTION 1.1.(b) G.S. 58-3-215, as amended by subsection (c) of this section, reads
+23 as rewritten:
+24 "§ 58-3-215. Genetic and biomarker information in health insurance.
+25 (a) Definitions. – As used The following definitions apply in this section:
+26 (1) Biomarker. – A characteristic that is objectively measured and evaluated as an
+27 indicator of normal biological processes, pathogenic processes, or
+28 pharmacologic responses to a specific therapeutic intervention, including
+29 known gene-drug interactions for medication being considered for use or
+30 already being administered. This term incudes gene mutations, characteristics
+31 of genes, and protein expression.
+32 (1a) "Genetic information" means information Genetic information. – Information
+33 about genes, gene products, or inherited characteristics that may derive from
+34 an individual or a family member. "Genetic information" does not include the
+35 results of routine physical measurements, blood chemistries, blood counts,
+36 urine analyses, tests for abuse of drugs, and tests for the presence of human
+37 immunodeficiency virus.
+38 …
+39 (c) No insurer shall:shall do any of the following:
+40 (1) Raise the premium or contribution rates paid by a group for a group health
+41 benefit plan on the basis of genetic or biomarker information obtained about
+42 an individual member of the group.
+43 (2) Refuse to issue or deliver a health benefit plan because of genetic or biomarker
+44 information obtained about any person to be insured by the health benefit plan.
+45 (3) Charge a higher premium rate or charge for a health benefit plan because of
+46 genetic or biomarker information obtained about any person to be insured by
+47 the health benefit plan.
+48 …."
+49 SECTION 1.1.(c) G.S. 58-3-215(a)(2) and G.S. 58-3-215(a)(3) are repealed.
+50 SECTION 1.1.(d) This section is effective October 1, 2025, and applies to insurance
+51 contracts issued, renewed, or amended on or after that date.
+Page 2 House Bill 567-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.2.(a) G.S. 58-50-61 reads as rewritten:
+2 "§ 58-50-61. Utilization review.
+3 (a) Definitions. – As used in this section, in G.S. 58-50-62, and in Part 4 of this Article,
+4 the term:
+5 …
+6 (16a) Urgent healthcare service. – A healthcare service with respect to which the
+7 application of the time periods for making a non-expedited utilization review
+8 that, in the opinion of a medical doctor with knowledge of the covered person's
+9 medical condition, could either (i) seriously jeopardize the life or health of the
+10 covered person or the ability of the covered person to regain maximum
+11 function or (ii) subject the covered person to severe pain that cannot be
+12 adequately managed without the care or treatment that is the subject of the
+13 utilization review. The term urgent healthcare service includes mental and
+14 behavioral healthcare services.
+15 …
+16 (f) Time Lines for Prospective and Concurrent Reviews. Utilization Reviews Based
+17 Upon Type of Healthcare Service. – As used in this subsection, the term "necessary information"
+18 includes the results of any patient examination, clinical evaluation, or second opinion that may
+19 be required. Prospective and concurrent determinations shall be communicated to The time line
+20 for completion of a prospective or concurrent utilization review is as follows:
+21 (1) Non-urgent healthcare services. – If an insurer requires a utilization review of
+22 a healthcare service, then the insurer or its URO shall both render a utilization
+23 review determination or noncertification and notify the covered person and the
+24 covered person's provider within three business days after the insurer obtains
+25 all necessary information about the admission, procedure, or health care
+26 service. to make the utilization review determination or noncertification.
+27 (2) Urgent healthcare services. – An insurer or its URO shall both render a
+28 utilization review determination or noncertification concerning urgent
+29 healthcare services and notify the covered person and the covered person's
+30 provider of that utilization review determination or noncertification not later
+31 than 24 hours after receiving all necessary information needed to complete the
+32 review of the requested healthcare services. If the covered person's provider
+33 or the insurer, or the entity conducting the review on behalf of the insurer, do
+34 not both have access to the electronic health records of the covered person,
+35 then this subdivision shall not apply and the utilization review will be subject
+36 to the time line under subdivision (1) of this subsection.
+37 (f1) Utilization Review Determination Notifications. – If an insurer or its URO certifies a
+38 health care healthcare service, the insurer shall notify notification shall be sent to the covered
+39 person's provider. For If an insurer or its URO issues a noncertification, the insurer shall notify
+40 the covered person's provider and send then written or electronic confirmation of the
+41 noncertification shall be sent to the covered person's provider and covered person. In person that
+42 is in compliance with subsection (h) of this section.
+43 (f2) Concurrent Review Liability. – For concurrent reviews, the insurer shall remain liable
+44 for health care healthcare services until the covered person has been notified of the
+45 noncertification.
+46 …
+47 (m) Disclosure of Utilization Review Requirements. – Information required to be
+48 provided under this section shall be described in detail and in easily understandable language.
+49 All of the following apply to an insurer's responsibility to disclose any utilization review
+50 procedures:
+House Bill 567-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (1) Coverage and member handbook. – In the certificate of coverage and member
+2 handbook provided to covered persons, an insurer shall include a clear and
+3 comprehensive description of its utilization review procedures, including the
+4 procedures for appealing noncertifications and a statement of the rights and
+5 responsibilities of covered persons, including the voluntary nature of the
+6 appeal process, with respect to those procedures. An insurer shall also include
+7 in the certificate of coverage and the member handbook information about the
+8 availability of assistance from the Department's Health Insurance Smart NC,
+9 including the telephone number and address of the Program. program.
+10 (2) Prospective materials. – An insurer shall include a summary of its utilization
+11 review procedures in materials intended for prospective covered persons.
+12 (3) Membership cards. – An insurer shall print on its membership cards a toll-free
+13 telephone number to call for utilization review purposes.
+14 (4) Website. – An insurer shall make any current utilization review requirements
+15 and restrictions readily accessible on its website.
+16 …."
+17 SECTION 1.2.(b) This section becomes effective October 1, 2025, and applies to
+18 insurance contracts issued, renewed, or amended on or after that date.
+19 SECTION 1.3.(a) G.S. 135-48.51 reads as rewritten:
+20 "§ 135-48.51. Coverage and operational mandates related to Chapter 58 of the General
+21 Statutes.
+22 The following provisions of Chapter 58 of the General Statutes apply to the State Health Plan:
+23 (1) G.S. 58-3-191, Managed care reporting and disclosure requirements.
+24 (1a) G.S. 58-3-216, Coverage of biomarker testing.
+25 …."
+26 SECTION 1.3.(b) In accordance with G.S. 135-48.24(b) and G.S. 135-48.30(a)(7)
+27 which require the State Treasurer to implement procedures that are substantially similar to the
+28 provisions of G.S. 58-50-61 for the North Carolina State Health Plan for Teachers and State
+29 Employees (State Health Plan), the State Treasurer and the Executive Administrator of the State
+30 Health Plan shall review all practices of the State Health Plan and all contracts with, and practices
+31 of, any third party conducting any utilization review on behalf of the State Health Plan to ensure
+32 compliance with Section 2 of this act no later than the start of the next plan year.
+33 SECTION 1.3.(c) Effective July 1, 2025, there is appropriated from the General
+34 Fund to the Department of State Treasurer the sum of one million dollars ($1,000,000) in
+35 recurring funds for each year of the 2025-2027 fiscal biennium to be used to implement the
+36 coverage required by this section for the State Health Plan.
+37 SECTION 1.3.(d) Except as otherwise provided, this section becomes effective
+38 October 1, 2025, and subsection (a) of this section applies as of the start of the next plan year
+39 following the effective date.
+40
+41 PART II. MEDICAID COVERAGE OF BIOMARKER TESTING
+42 SECTION 2.1. The Department of Health and Human Services, Division of Health
+43 Benefits (DHB), shall ensure coverage for biomarker testing under the laboratory services
+44 clinical coverage policies 1S-1 through 1S-13 to the same extent those services are required to
+45 be covered by a health benefit plan under G.S. 58-3-216. DHB shall ensure its policies and
+46 procedures for the prior authorization of any service covered under this section are in compliance
+47 with Section 2.2 of this act.
+48 SECTION 2.2.(a) For purposes of this section, the term "urgent prior authorization
+49 request" is defined as a request for which a time line for decision longer than 72 hours could
+50 seriously jeopardize the beneficiary's life, health, or ability to attain, maintain, or regain
+51 maximum function, in the opinion of the beneficiary's healthcare provider.
+Page 4 House Bill 567-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.2.(b) If prior authorization is required for any service covered under
+2 Section 2.1 of this act, the time line for completion of a review of that prior authorization request
+3 shall be as follows:
+4 (1) For urgent prior authorization requests, DHB shall ensure that the prior
+5 authorization request is either approved or denied and notice is given to the
+6 beneficiary and beneficiary's healthcare provider within 24 hours after DHB
+7 receives all information needed to complete a review of the request for prior
+8 authorization.
+9 (2) For non-urgent prior authorization requests, DHB shall ensure that the prior
+10 authorization request is either approved or denied and notice is given to the
+11 beneficiary and beneficiary's healthcare provider within 72 hours after DHB
+12 receives all information needed to complete a review of the request for prior
+13 authorization.
+14
+15 PART III. EFFECTIVE DATE
+16 SECTION 3.1. Except as otherwise provided, this act is effective when it becomes
+17 law.
+House Bill 567-First Edition Page 5
+[DELETED:  1 E ( R H A A A T E A T A E A A D O D F E T Q O L O A R T F I T  P S a " ( T ( B i o n b p p p o p r t a s t i i k g i f m b c f u o a o ( B t – T a o a p t b o o b f t p o a b T t i s t m p t p e a w e ( C s – A s t i d b a i m u o ( F ( R ( I t c ( I o r]
+[DELETED:  S  H ( R ( N p g d b i o o m p s a c o a t i r i t o ( A d t a c m o o m o a i d m ( L ( I ( W ( N M ( L c d d b a M A C ( N ( C r u t s s b p i a m t l d S a " ( D ( B i o n b p p p o p r t a s t i i k g i f m b c f u o a o ( " a a r u i … ( N ( R b a ( R i ( C g t … S S c]
+[DELETED:  S  P S " ( D t … ( U a t m c p o t a o t c p t r m f o ( s t c p t s p t c b a u b … ( T L f P a C R U R B U i b f ( N a r c a n i a t a p o h c s ( U h s – A i o i U s b r a u r d o n c u h p t r o n t t ( U h p t c p p a s t w o e c o t n i ( C f h c h s u t c p h b n o t n … ( D o U R R – I r t b p A o t f a t a i r t d a u r p]
+[DELETED:  S  H ( C h c p r o c p i t v n o t a i a i ( P r ( M t ( W a … S i S " S T ( G ( G … S w p E H o c S F t t D o S T t s o o m d ( i r c S e O f  P S B ( s e c f b t u t l s c b p w S r s j t b l h o a t a m o r m]
+[DELETED:  S  P S S s ( F u p a r D s e t t p a b r a ( F a b r a  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 567
+Short Title: Ensure Access to Biomarker Testing. (Public)
+Sponsors: Representatives Wheatley, Penny, Campbell, and Moss (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Appropriations, if favorable, Rules, Calendar, and Operations
+of the House
+March 31, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENSURE ACCESS TO AN EARLY AND ACCURATE DIAGNOSIS OF
+3 DEMENTIA IN ORDER TO IMPROVE ACCESS TO CARE AND SUPPORT SERVICES
+4 FOR, ENHANCE THE QUALITY OF LIFE OF, AND REDUCE THE FINANCIAL
+5 IMPACT OF THE CONDITION ON NORTH CAROLINIANS.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. HEALTH BENEFIT PLAN COVERAGE OF BIOMARKER TESTING
+9 SECTION 1.1.(a) Article 3 of Chapter 58 of the General Statutes is amended by
+10 adding a new section to read:
+11 "§ 58-3-216. Coverage of biomarker testing.
+12 (a) The following definitions apply in this section:
+13 (1) Biomarker. – A characteristic that is objectively measured and evaluated as an
+14 indicator of normal biological processes, pathogenic processes, or
+15 pharmacologic responses to a specific therapeutic intervention, including
+16 known gene-drug interactions for medication being considered for use or
+17 already being administered. This term incudes gene mutations, characteristics
+18 of genes, and protein expression.
+19 (2) Biomarker testing. – The analysis of a patient's tissue, blood, or other
+20 biospecimen for the presence of a biomarker. This term includes
+21 single-analyte tests, multi-plex panel tests, protein expression, and whole
+22 exome, whole genome, and whole transcriptome sequencing.
+23 (3) Consensus statement. – A statement that is developed by an independent
+24 multidisciplinary panel, aimed at specific clinical circumstances, and based
+25 upon the best available evidence for the purpose of optimizing the outcomes
+26 of clinical care.
+27 (4) FDA. – The United States Food and Drug Administration.
+28 (5) Reserved for future codification purposes.
+29 (6) Independent multidisciplinary panel. – A multidisciplinary panel of experts
+30 that utilizes a transparent methodology and reporting structure and that has a
+31 conflict of interest policy.
+32 (7) Independent organization or medical professional society. – An organization
+33 or medical professional society that utilizes a transparent methodology and
+34 reporting structure and that has a conflict of interest policy.
+*H567-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (8) Reserved for future codification purposes.
+2 (9) Nationally recognized clinical practice guidelines. – Evidence-based clinical
+3 practice guidelines developed by independent organizations or medical
+4 professional societies that establish standards of care that are informed by a
+5 systematic review of evidence and an assessment of the benefits and risks of
+6 alternative care options and that include recommendations intended to
+7 optimize patient care.
+8 (b) A health benefit plan shall provide coverage for biomarker testing for the purposes of
+9 diagnosis, treatment, appropriate care management, or ongoing monitoring of an insured's
+10 disease or condition when the testing is supported by medical and scientific evidence. At a
+11 minimum, any of the following shall be considered support for biomarker testing:
+12 (1) Label indications for a test that has been FDA-approved or FDA-cleared.
+13 (2) Indicated tests for an FDA-approved drug.
+14 (3) Warnings and precautions on an FDA-approved drug label.
+15 (4) National coverage determinations developed by the Centers for Medicare and
+16 Medicaid Services.
+17 (5) Local coverage determinations developed by a Medicare Administrative
+18 Contractor.
+19 (6) Nationally recognized clinical practice guidelines and consensus statements.
+20 (c) Coverage required under this section shall be provided in a manner that limits
+21 disruption in patient care, including the need for multiple biopsies or biospecimen samples."
+22 SECTION 1.1.(b) G.S. 58-3-215, as amended by subsection (c) of this section, reads
+23 as rewritten:
+24 "§ 58-3-215. Genetic and biomarker information in health insurance.
+25 (a) Definitions. – As used The following definitions apply in this section:
+26 (1) Biomarker. – A characteristic that is objectively measured and evaluated as an
+27 indicator of normal biological processes, pathogenic processes, or
+28 pharmacologic responses to a specific therapeutic intervention, including
+29 known gene-drug interactions for medication being considered for use or
+30 already being administered. This term incudes gene mutations, characteristics
+31 of genes, and protein expression.
+32 (1a) "Genetic information" means information Genetic information. – Information
+33 about genes, gene products, or inherited characteristics that may derive from
+34 an individual or a family member. "Genetic information" does not include the
+35 results of routine physical measurements, blood chemistries, blood counts,
+36 urine analyses, tests for abuse of drugs, and tests for the presence of human
+37 immunodeficiency virus.
+38 …
+39 (c) No insurer shall:shall do any of the following:
+40 (1) Raise the premium or contribution rates paid by a group for a group health
+41 benefit plan on the basis of genetic or biomarker information obtained about
+42 an individual member of the group.
+43 (2) Refuse to issue or deliver a health benefit plan because of genetic or biomarker
+44 information obtained about any person to be insured by the health benefit plan.
+45 (3) Charge a higher premium rate or charge for a health benefit plan because of
+46 genetic or biomarker information obtained about any person to be insured by
+47 the health benefit plan.
+48 …."
+49 SECTION 1.1.(c) G.S. 58-3-215(a)(2) and G.S. 58-3-215(a)(3) are repealed.
+50 SECTION 1.1.(d) This section is effective October 1, 2025, and applies to insurance
+51 contracts issued, renewed, or amended on or after that date.
+Page 2 House Bill 567-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.2.(a) G.S. 58-50-61 reads as rewritten:
+2 "§ 58-50-61. Utilization review.
+3 (a) Definitions. – As used in this section, in G.S. 58-50-62, and in Part 4 of this Article,
+4 the term:
+5 …
+6 (16a) Urgent healthcare service. – A healthcare service with respect to which the
+7 application of the time periods for making a non-expedited utilization review
+8 that, in the opinion of a medical doctor with knowledge of the covered person's
+9 medical condition, could either (i) seriously jeopardize the life or health of the
+10 covered person or the ability of the covered person to regain maximum
+11 function or (ii) subject the covered person to severe pain that cannot be
+12 adequately managed without the care or treatment that is the subject of the
+13 utilization review. The term urgent healthcare service includes mental and
+14 behavioral healthcare services.
+15 …
+16 (f) Time Lines for Prospective and Concurrent Reviews. Utilization Reviews Based
+17 Upon Type of Healthcare Service. – As used in this subsection, the term "necessary information"
+18 includes the results of any patient examination, clinical evaluation, or second opinion that may
+19 be required. Prospective and concurrent determinations shall be communicated to The time line
+20 for completion of a prospective or concurrent utilization review is as follows:
+21 (1) Non-urgent healthcare services. – If an insurer requires a utilization review of
+22 a healthcare service, then the insurer or its URO shall both render a utilization
+23 review determination or noncertification and notify the covered person and the
+24 covered person's provider within three business days after the insurer obtains
+25 all necessary information about the admission, procedure, or health care
+26 service. to make the utilization review determination or noncertification.
+27 (2) Urgent healthcare services. – An insurer or its URO shall both render a
+28 utilization review determination or noncertification concerning urgent
+29 healthcare services and notify the covered person and the covered person's
+30 provider of that utilization review determination or noncertification not later
+31 than 24 hours after receiving all necessary information needed to complete the
+32 review of the requested healthcare services. If the covered person's provider
+33 or the insurer, or the entity conducting the review on behalf of the insurer, do
+34 not both have access to the electronic health records of the covered person,
+35 then this subdivision shall not apply and the utilization review will be subject
+36 to the time line under subdivision (1) of this subsection.
+37 (f1) Utilization Review Determination Notifications. – If an insurer or its URO certifies a
+38 health care healthcare service, the insurer shall notify notification shall be sent to the covered
+39 person's provider. For If an insurer or its URO issues a noncertification, the insurer shall notify
+40 the covered person's provider and send then written or electronic confirmation of the
+41 noncertification shall be sent to the covered person's provider and covered person. In person that
+42 is in compliance with subsection (h) of this section.
+43 (f2) Concurrent Review Liability. – For concurrent reviews, the insurer shall remain liable
+44 for health care healthcare services until the covered person has been notified of the
+45 noncertification.
+46 …
+47 (m) Disclosure of Utilization Review Requirements. – Information required to be
+48 provided under this section shall be described in detail and in easily understandable language.
+49 All of the following apply to an insurer's responsibility to disclose any utilization review
+50 procedures:
+House Bill 567-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (1) Coverage and member handbook. – In the certificate of coverage and member
+2 handbook provided to covered persons, an insurer shall include a clear and
+3 comprehensive description of its utilization review procedures, including the
+4 procedures for appealing noncertifications and a statement of the rights and
+5 responsibilities of covered persons, including the voluntary nature of the
+6 appeal process, with respect to those procedures. An insurer shall also include
+7 in the certificate of coverage and the member handbook information about the
+8 availability of assistance from the Department's Health Insurance Smart NC,
+9 including the telephone number and address of the Program. program.
+10 (2) Prospective materials. – An insurer shall include a summary of its utilization
+11 review procedures in materials intended for prospective covered persons.
+12 (3) Membership cards. – An insurer shall print on its membership cards a toll-free
+13 telephone number to call for utilization review purposes.
+14 (4) Website. – An insurer shall make any current utilization review requirements
+15 and restrictions readily accessible on its website.
+16 …."
+17 SECTION 1.2.(b) This section becomes effective October 1, 2025, and applies to
+18 insurance contracts issued, renewed, or amended on or after that date.
+19 SECTION 1.3.(a) G.S. 135-48.51 reads as rewritten:
+20 "§ 135-48.51. Coverage and operational mandates related to Chapter 58 of the General
+21 Statutes.
+22 The following provisions of Chapter 58 of the General Statutes apply to the State Health Plan:
+23 (1) G.S. 58-3-191, Managed care reporting and disclosure requirements.
+24 (1a) G.S. 58-3-216, Coverage of biomarker testing.
+25 …."
+26 SECTION 1.3.(b) In accordance with G.S. 135-48.24(b) and G.S. 135-48.30(a)(7)
+27 which require the State Treasurer to implement procedures that are substantially similar to the
+28 provisions of G.S. 58-50-61 for the North Carolina State Health Plan for Teachers and State
+29 Employees (State Health Plan), the State Treasurer and the Executive Administrator of the State
+30 Health Plan shall review all practices of the State Health Plan and all contracts with, and practices
+31 of, any third party conducting any utilization review on behalf of the State Health Plan to ensure
+32 compliance with Section 2 of this act no later than the start of the next plan year.
+33 SECTION 1.3.(c) Effective July 1, 2025, there is appropriated from the General
+34 Fund to the Department of State Treasurer the sum of one million dollars ($1,000,000) in
+35 recurring funds for each year of the 2025-2027 fiscal biennium to be used to implement the
+36 coverage required by this section for the State Health Plan.
+37 SECTION 1.3.(d) Except as otherwise provided, this section becomes effective
+38 October 1, 2025, and subsection (a) of this section applies as of the start of the next plan year
+39 following the effective date.
+40
+41 PART II. MEDICAID COVERAGE OF BIOMARKER TESTING
+42 SECTION 2.1. The Department of Health and Human Services, Division of Health
+43 Benefits (DHB), shall ensure coverage for biomarker testing under the laboratory services
+44 clinical coverage policies 1S-1 through 1S-13 to the same extent those services are required to
+45 be covered by a health benefit plan under G.S. 58-3-216. DHB shall ensure its policies and
+46 procedures for the prior authorization of any service covered under this section are in compliance
+47 with Section 2.2 of this act.
+48 SECTION 2.2.(a) For purposes of this section, the term "urgent prior authorization
+49 request" is defined as a request for which a time line for decision longer than 72 hours could
+50 seriously jeopardize the beneficiary's life, health, or ability to attain, maintain, or regain
+51 maximum function, in the opinion of the beneficiary's healthcare provider.
+Page 4 House Bill 567-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.2.(b) If prior authorization is required for any service covered under
+2 Section 2.1 of this act, the time line for completion of a review of that prior authorization request
+3 shall be as follows:
+4 (1) For urgent prior authorization requests, DHB shall ensure that the prior
+5 authorization request is either approved or denied and notice is given to the
+6 beneficiary and beneficiary's healthcare provider within 24 hours after DHB
+7 receives all information needed to complete a review of the request for prior
+8 authorization.
+9 (2) For non-urgent prior authorization requests, DHB shall ensure that the prior
+10 authorization request is either approved or denied and notice is given to the
+11 beneficiary and beneficiary's healthcare provider within 72 hours after DHB
+12 receives all information needed to complete a review of the request for prior
+13 authorization.
+14
+15 PART III. EFFECTIVE DATE
+16 SECTION 3.1. Except as otherwise provided, this act is effective when it becomes
+17 law.
+House Bill 567-First Edition Page 5
+
+[DELETED:  1 E ( R H A A A T E A T A E A A D O D F E T Q O L O A R T F I T  P S a " ( T ( B i o n b p p p o p r t a s t i i k g i f m b c f u o a o ( B t – T a o a p t b o o b f t p o a b T t i s t m p t p e a w e ( C s – A s t i d b a i m u o ( F ( R ( I t c ( I o r]
+[DELETED:  S  H ( R ( N p g d b i o o m p s a c o a t i r i t o ( A d t a c m o o m o a i d m ( L ( I ( W ( N M ( L c d d b a M A C ( N ( C r u t s s b p i a m t l d S a " ( D ( B i o n b p p p o p r t a s t i i k g i f m b c f u o a o ( " a a r u i … ( N ( R b a ( R i ( C g t … S S c]
+[DELETED:  S  P S " ( D t … ( U a t m c p o t a o t c p t r m f o ( s t c p t s p t c b a u b … ( T L f P a C R U R B U i b f ( N a r c a n i a t a p o h c s ( U h s – A i o i U s b r a u r d o n c u h p t r o n t t ( U h p t c p p a s t w o e c o t n i ( C f h c h s u t c p h b n o t n … ( D o U R R – I r t b p A o t f a t a i r t d a u r p]
+[DELETED:  S  H ( C h c p r o c p i t v n o t a i a i ( P r ( M t ( W a … S i S " S T ( G ( G … S w p E H o c S F t t D o S T t s o o m d ( i r c S e O f  P S B ( s e c f b t u t l s c b p w S r s j t b l h o a t a m o r m]
+[DELETED:  S  P S S s ( F u p a r D s e t t p a b r a ( F a b r a  P S l]

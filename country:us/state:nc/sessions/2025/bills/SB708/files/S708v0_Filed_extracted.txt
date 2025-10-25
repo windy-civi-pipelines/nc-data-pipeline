@@ -1,0 +1,1222 @@
+Title: SENATE BILL DRS45359-LR-134
+Official Title: SENATE BILL DRS45359-LR-134
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 708
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Working Families Act. (Public)
+Sponsors: Senators Applewhite, Grafstein, and Bradley (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT REDUCING PARENT COPAYMENTS FOR SUBSIDIZED CHILD CARE,
+3 REENACTING THE CHILD TAX CREDIT, INCREASING THE STATE MINIMUM
+4 WAGE TO FIFTEEN DOLLARS PER HOUR ON LABOR DAY 2025 AND GRANTING
+5 LOCAL GOVERNMENTS FLEXIBILITY TO SET A HIGHER LOCAL MINIMUM
+6 WAGE, INCREASING THE INCOME ELIGIBILITY LIMIT FOR THE PROPERTY TAX
+7 HOMESTEAD CIRCUIT BREAKER, CREATING A HOMEBUYERS' ASSISTANCE
+8 PROGRAM WITH THE NORTH CAROLINA HOUSING FINANCE AGENCY FOR
+9 FIRST-TIME HOMEBUYERS WHO WORK AS PUBLIC SERVANTS, AND ENACTING
+10 THE NORTH CAROLINA PAID FAMILY LEAVE INSURANCE ACT TO HELP
+11 WORKING FAMILIES AND CREATING THE EMPLOYER GRANT FUND TO OFFSET
+12 COSTS INCURRED BY EMPLOYERS AND APPROPRIATING FUNDS FOR THAT
+13 PURPOSE.
+14 The General Assembly of North Carolina enacts:
+15
+16 CHILD CARE SUBSIDIES
+17 SECTION 1.1.(a) Section 9D.3(b) of S.L. 2023-134 reads as rewritten:
+18 "SECTION 9D.3.(b) Fees for families who are required to share in the cost of care are
+19 established based on ten percent (10%) seven percent (7%) of gross family income. When care
+20 is received at the blended rate, the copayment shall be eighty-three percent (83%) of the full-time
+21 copayment. Copayments for part-time care shall be seventy-five percent (75%) of the full-time
+22 copayment."
+23 SECTION 1.1.(b) This act becomes effective July 1, 2025.
+24
+25 REENACT CHILD TAX CREDIT
+26 SECTION 2.1.(a) G.S. 105-153.10 is reenacted as it existed immediately before its
+27 expiration and reads as rewritten:
+28 "§ 105-153.10. Credit for children.
+29 (a) Credit. – A taxpayer who is allowed a federal child tax credit under section 24 of the
+30 Code for the taxable year is allowed a credit against the tax imposed by this Part for each
+31 dependent child for whom the taxpayer is allowed the federal credit. A taxpayer is allowed a
+32 credit against the tax imposed by this Part for each qualifying child of the taxpayer. A "qualifying
+33 child" is defined by section 152(c) of the Code. The amount of credit allowed under this section
+34 for the taxable year is equal to the amount listed in the table below based on the taxpayer's
+35 adjusted gross income, as calculated under the Code:
+36 Filing Status AGI Credit Amount
+*DRS45359-LR-134*
+General Assembly Of North Carolina Session 2025
+1 Married, filing jointly Up to $40,000 $125.00$250.00
+2 Over $40,000
+3 Up to $100,000 $100.00$125.00
+4 Over $100,000 0
+5
+6 Head of Household Up to $32,000 $125.00$250.00
+7 Over $32,000
+8 Up to $80,000 $100.00$125.00
+9 Over $80,000 0
+10
+11 Single Up to $20,000 $125.00$250.00
+12 Over $20,000
+13 Up to $50,000 $100.00$125.00
+14 Over $50,000 0
+15
+16 Married, filing separately Up to $20,000 $125.00$250.00
+17 Over $20,000
+18 Up to $50,000 $100.00$125.00
+19 Over $50,000 0.
+20
+21 (b) Limitations. – A nonresident or part-year resident who claims the credit allowed by
+22 this section shall reduce the amount of the credit by multiplying it by the fraction calculated under
+23 G.S. 105-134.5(b) or (c), as appropriate.The credit allowed under this section may not exceed the
+24 amount of tax imposed by this Part for the taxable year reduced by the sum of all credits allowed,
+25 except payments of tax made by or on behalf of the taxpayer.G.S. 105-153.4. Married individuals
+26 qualifying for a credit under this section who file separate returns may not collectively claim
+27 more than the maximum credit allowed under a joint return.
+28 (c) Credit Refundable. – If the credit allowed by this section exceeds the amount of tax
+29 imposed by this Part for the taxable year reduced by the sum of all credits allowable, the Secretary
+30 must refund the excess to the taxpayer. The refundable excess is governed by the provisions
+31 governing a refund of an overpayment by the taxpayer of the tax imposed in this Part. In
+32 computing the amount of tax against which multiple credits are allowed, nonrefundable credits
+33 are subtracted before refundable credits."
+34 SECTION 2.1.(b) This section is effective for taxable years beginning on or after
+35 January 1, 2025.
+36
+37 INCREASE STATEWIDE MINIMUM WAGE AND ALLOW HIGHER LOCAL
+38 MINIMUM WAGE
+39 SECTION 3.1.(a) Effective Labor Day, September 1, 2025, G.S. 95-25.3(a) reads
+40 as rewritten:
+41 "(a) Every employer shall pay to each employee who in any workweek performs any work,
+42 wages of at least six dollars and fifteen cents ($6.15) fifteen dollars ($15.00) per hour or the
+43 minimum wage set forth in paragraph 1 of section 6(a) of the Fair Labor Standards Act, 29 U.S.C.
+44 206(a)(1), as that wage may change from time to time, whichever is higher, except as otherwise
+45 provided in this section. A local government may adopt an ordinance establishing a local
+46 minimum wage within its territorial jurisdiction that is higher than the statewide minimum wage;
+47 then, in that case, every employer in the jurisdiction shall instead pay the higher local minimum
+48 wage."
+49 SECTION 3.1.(b) This section is effective when it becomes law.
+50
+51 INCOME ELIGIBILITY/PROPERTY TAX HOMESTEAD CIRCUIT BREAKER
+Page 2 DRS45359-LR-134
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.1.(a) G.S. 105-277.1B reads as rewritten:
+2 "§ 105-277.1B. Property tax homestead circuit breaker.
+3 (a) Classification. – A permanent residence owned and occupied by a qualifying owner
+4 is designated a special class of property under Article V, Section 2(2) of the North Carolina
+5 Constitution and is taxable in accordance with this section.
+6 …
+7 (f) Tax Limitation. – A qualifying owner may defer the portion of the principal amount
+8 of tax that is imposed for the current tax year on his or her permanent residence and exceeds the
+9 percentage of the qualifying owner's income set out in the table in this subsection. If a permanent
+10 residence is subject to tax by more than one taxing unit and the total tax liability exceeds the tax
+11 limit imposed by this section, then both the taxes due under this section and the taxes deferred
+12 under this section must be apportioned among the taxing units based upon the ratio each taxing
+13 unit's tax rate bears to the total tax rate of all units.
+14 Income Over Income Up To Percentage
+15 -0- Income Eligibility Limit 4.0%
+16 Income Eligibility Limit 150% 180% of Income Eligibility Limit 5.0%
+17 …."
+18 SECTION 4.1.(b) This section is effective for taxes imposed for taxable years
+19 beginning on or after July 1, 2025.
+20
+21 HOMEBUYERS' ASSISTANCE PROGRAM
+22 SECTION 5.1.(a) As used in this section, the following definitions apply:
+23 (1) Active duty member. – As defined in G.S. 58-58-335(1).
+24 (2) Emergency medical services personnel. – As defined in G.S. 131E-155(7).
+25 (3) Firefighter. – As defined in G.S. 58-84-5(3a).
+26 (4) First-time homebuyer. – An individual who meets all of the following criteria:
+27 a. Is purchasing the subject residential property.
+28 b. Will reside in the subject residential property as a principal residence.
+29 c. Has had no ownership interest, sole or joint, in a residential property
+30 during the three-year period preceding the date of the purchase of the
+31 subject residential property.
+32 (5) Law enforcement officer. – An individual employed by the State or a local
+33 government in this State as a sheriff, deputy sheriff, police officer, or member
+34 of the State highway patrol.
+35 (6) Public servant. – An active duty member or veteran, or a law enforcement
+36 officer, teacher, firefighter, or emergency medical services personnel
+37 employed in this State.
+38 (7) Teacher. – An individual whose major responsibility is to either teach or
+39 directly supervise teaching, as classified by the State Board of Education, in a
+40 public school unit, as that term is defined in G.S. 115C-5(7a).
+41 (8) Veteran. – As defined in G.S. 122C-465(3).
+42 SECTION 5.1.(b) The Housing Finance Agency (Agency) shall establish a program
+43 operating under the Homeownership Assistance Fund, authorized under G.S. 122A-5.7, that
+44 provides assistance to first-time homebuyers that are employed full time as public servants in this
+45 State. The Agency shall provide, in the form of reimbursement or direct payment, monies to be
+46 used for down payment assistance and to offset mortgage insurance premiums charged to
+47 program participants. First-time homebuyers shall be limited to the lesser of the sum of
+48 twenty-five thousand dollars ($25,000) or ten percent (10%) of the purchase price for down
+49 payment assistance, mortgage insurance premium assistance, and closing costs. The Agency may
+50 provide for mortgage insurance payment assistance at least monthly, but for no longer than 60
+51 months for any single first-time homebuyer.
+DRS45359-LR-134 Page 3
+General Assembly Of North Carolina Session 2025
+1 SECTION 5.1.(c) The Agency is hereby empowered to adopt, modify, or repeal
+2 rules and regulations governing the provision of down payment assistance and mortgage
+3 insurance assistance provided pursuant to this section.
+4 SECTION 5.1.(d) There is appropriated from the General Fund to the
+5 Homeownership Assistance Fund, authorized under G.S. 122A-5.7, the sum of one hundred fifty
+6 million dollars ($150,000,000) in recurring funds for the 2025-2026 fiscal year to be used for the
+7 purposes provided in this act.
+8 SECTION 5.1.(e) This section becomes effective July 1, 2025.
+9
+10 PAID FAMILY LEAVE INSURANCE
+11 SECTION 6.1.(a) Effective January 1, 2026, the General Statutes are amended by
+12 adding a new Chapter to read:
+13 "Chapter 96A.
+14 "Paid Family Leave Insurance Act.
+15 "§ 96A-1. Short title; definitions.
+16 (a) This Chapter shall be known and may be cited as the "North Carolina Paid Family
+17 Leave Insurance Act."
+18 (b) The following definitions apply in this Chapter:
+19 (1) Application year. – The 12-month period beginning on the first day of the
+20 calendar week in which an individual files an application for family and
+21 medical leave insurance benefits.
+22 (2) Assistant Secretary. – The Assistant Secretary of Commerce in charge of the
+23 Division of Employment Security.
+24 (3) Covered individual. – Any person who does all of the following:
+25 a. Meets the monetary eligibility criteria set forth in G.S. 96-14.1(b) or
+26 is self-employed, elects coverage, and meets the requirements of
+27 G.S. 96A-13.
+28 b. Meets the administrative requirements outlined in this Chapter and in
+29 the rules adopted under this Chapter.
+30 c. Submits an application.
+31 (4) Covered service member. – Either:
+32 a. A member of the Armed Forces, including a member of the National
+33 Guard or Reserves, who is (i) undergoing medical treatment,
+34 recuperation, or therapy, (ii) otherwise in outpatient status, or (iii)
+35 otherwise on the temporary disability retired list for a serious injury or
+36 illness that was incurred by the member in the line of duty on active
+37 duty in the Armed Forces or a serious injury or illness that existed
+38 before the beginning of the member's active duty and was aggravated
+39 by service in the line of duty on active duty in the Armed Forces; or
+40 b. A former member of the Armed Forces, including a former member of
+41 the National Guard or Reserves, who is undergoing medical treatment,
+42 recuperation, or therapy for a serious injury or illness that was incurred
+43 by the member in the line of duty on active duty in the Armed Forces
+44 or a serious injury or illness that existed before the beginning of the
+45 member's active duty and was aggravated by service in the line of duty
+46 on active duty in the Armed Forces and manifested before or after the
+47 member was discharged or released from service.
+48 (5) Division. – The Division of Employment Security of the Department of
+49 Commerce.
+50 (6) Employee. – Any individual employed by an employer.
+Page 4 DRS45359-LR-134
+General Assembly Of North Carolina Session 2025
+1 (7) Employer. – Any person acting directly or indirectly in the interest of an
+2 employer in relation to an employee. As used in this subdivision, "person"
+3 means an individual, partnership, association, corporation, business trust,
+4 legal representative, or any organized group of persons. For the purposes of
+5 this Chapter, it also means the State of North Carolina, any city, town, county,
+6 municipality, or any State or local agency or instrumentality of government.
+7 The term does not include the government of the United States and any agency
+8 of the United States (including the United States Postal Service and Postal
+9 Rate Commission).
+10 (8) Family and medical leave insurance benefits. – The benefits provided under
+11 the terms of this Chapter.
+12 (9) Family member. – Any of the following:
+13 a. Regardless of age, a biological, adopted, or foster child, stepchild, or
+14 legal ward, a child of a domestic partner, a child to whom the employee
+15 stands in loco parentis, or a person to whom the employee stood in
+16 loco parentis when the person was a minor.
+17 b. A biological, adoptive, or foster parent, stepparent, or legal guardian
+18 of an employee or an employee's spouse or domestic partner or a
+19 person who stood in loco parentis when the employee or the
+20 employee's spouse or domestic partner was a minor.
+21 c. A person to whom the employee is legally married under the laws of
+22 any state or a domestic partner of an employee as registered under the
+23 laws of any state or political subdivision.
+24 d. A grandparent, grandchild, or sibling (whether a biological, foster,
+25 adoptive, or step relationship) of the employee or the employee's
+26 spouse or domestic partner.
+27 e. Any other individual related by blood or whose close association with
+28 the employee is the equivalent of a family relationship.
+29 (10) Health care provider. – Any person licensed under federal or North Carolina
+30 law to provide medical or emergency services, including, but not limited to,
+31 doctors, nurses and emergency room personnel, or certified midwives.
+32 (11) Next of kin. – As defined in section 101(17) of the Family and Medical Leave
+33 Act, 29 U.S.C. § 2611(17).
+34 (12) Qualifying exigency leave. – Leave based on a need arising out of a covered
+35 individual's family member's active duty service or notice of an impending
+36 call or order to active duty in the Armed Forces, including, but not limited to,
+37 providing for the care or other needs of the military member's child or other
+38 family member, making financial or legal arrangements for the military
+39 member, attending counseling, attending military events or ceremonies,
+40 spending time with the military member during a rest and recuperation leave
+41 or following return from deployment, or making arrangements following the
+42 death of the military member.
+43 (13) Retaliatory personnel action. – Denial of any right guaranteed under this
+44 Chapter, including, but not limited to, any threat, discharge, suspension,
+45 demotion, reduction of hours, any other adverse action against an employee
+46 for the exercise of any right guaranteed herein, or reporting or threatening to
+47 report an employee's suspected citizenship or immigration status or the
+48 suspected citizenship or immigration status of a family member of the
+49 employee to a federal, State, or local agency. Retaliatory personnel actions
+50 shall also include interference with or punishment for in any manner
+DRS45359-LR-134 Page 5
+General Assembly Of North Carolina Session 2025
+1 participating in or assisting an investigation, proceeding, or hearing under this
+2 Chapter.
+3 (14) Serious health condition. – An illness, injury, impairment, pregnancy,
+4 recovery from childbirth, or physical or mental condition that involves
+5 inpatient care in a hospital, hospice, or residential medical care facility, or
+6 continuing treatment by a health care provider.
+7 (15) State average weekly wage. – The average weekly insured wage as defined in
+8 G.S. 96-1(b)(2).
+9 "§ 96A-2. Eligibility for benefits.
+10 Beginning January 1, 2026, family and medical leave insurance benefits are payable to an
+11 individual who:
+12 (1) Meets the definition of "covered individual" as defined by G.S. 96A-1(b)(3);
+13 and
+14 (2) Meets one of the following requirements:
+15 a. Because of birth, adoption, or placement through foster care, is caring
+16 for a new child during the first year after the birth, adoption, or
+17 placement of that child;
+18 b. Is caring for a family member with a serious health condition;
+19 c. Has a serious health condition;
+20 d. Is caring for a covered service member who is the covered individual's
+21 next of kin or other family member; or
+22 e. Because of any "qualifying exigency leave" arising out of the fact that
+23 the family member of the covered individual is on active duty (or has
+24 been notified of an impending call or order to active duty) in the
+25 Armed Forces.
+26 "§ 96A-3. Duration of benefits.
+27 (a) The maximum number of weeks during which family and medical leave insurance
+28 benefits are payable under G.S. 96A-2(2)c. in an application year is 18 weeks.
+29 (b) The maximum number of weeks during which family and medical leave insurance
+30 benefits are payable under G.S. 96A-2(2)a., (2)b., or (2)e. in an application year is 12 weeks.
+31 (c) The maximum number of weeks during which family and medical leave insurance
+32 benefits are payable under G.S. 96A-2(2)d. in an application year is 26 weeks.
+33 (d) The first payment of benefits must be made to an individual within two weeks after
+34 the claim is filed, and subsequent payments must be made every two weeks thereafter.
+35 "§ 96A-4. Amount of benefits.
+36 (a) The amount of family and medical leave insurance benefits shall be determined as
+37 follows:
+38 (1) The weekly benefit shall be determined as follows: (i) the portion of the
+39 covered individual's average weekly wage that is equal to or less than one
+40 hundred percent (100%) of the State average weekly wage shall be replaced
+41 at a rate of ninety percent (90%) and (ii) the portion of an employee's or
+42 self-employed individual's average weekly wage that is more than one
+43 hundred percent (100%) of the State average weekly wage shall be replaced
+44 at a rate of fifty percent (50%).
+45 (2) The maximum benefit shall be one hundred percent (100%) of the statewide
+46 average weekly wage.
+47 (3) The minimum weekly benefit shall not be less than one hundred dollars
+48 ($100.00) per week except that if the covered individual's average weekly
+49 wage is less than one hundred dollars ($100.00) per week, the weekly benefit
+50 shall be the employee's full wage.
+Page 6 DRS45359-LR-134
+General Assembly Of North Carolina Session 2025
+1 (4) For purposes of this section, a covered individual's average weekly wage shall
+2 be the average weekly wage during the 12 months preceding submission of
+3 the application (or the average weekly wage during the time the covered
+4 individual worked, if it was less than 12 months).
+5 (b) Family and medical leave insurance benefits are not payable for less than eight hours
+6 of family and medical leave taken in one workweek.
+7 "§ 96A-5. Contributions.
+8 (a) Payroll contributions shall be authorized in order to finance the payment of benefits
+9 under the family and medical leave insurance program.
+10 (b) Beginning on January 1, 2026, for each employee, an employer shall remit to the Paid
+11 Family and Medical Leave Fund (Fund), established under G.S. 96A-16, contributions in the
+12 form and manner determined by the Division. Annually, not later than October 1, the Assistant
+13 Secretary shall fix the contribution rate for the coming calendar year in the manner described in
+14 this subsection. For calendar years 2026 and 2027, the Assistant Secretary shall do so based on
+15 sound actuarial principles. For calendar year 2028 and thereafter, the Assistant Secretary shall
+16 first certify and publish the following information:
+17 (1) The total amount of family and medical leave insurance benefits paid by the
+18 Division during the previous fiscal year;
+19 (2) The total amount remaining in the Fund at the close of the fiscal year;
+20 (3) The total amount equal to one hundred forty percent (140%) of the previous
+21 fiscal year's expenditure for family and medical leave insurance benefits paid
+22 and for the administration of the family and medical leave insurance program;
+23 (4) The amount by which the total amount remaining in the Fund at the close of
+24 the previous fiscal year is less than or greater than one hundred forty percent
+25 (140%) of the previous fiscal year's expenditure for family and medical leave
+26 insurance benefits paid and for the administration of the family and medical
+27 leave insurance program; and
+28 (5) The amount by which the contribution rate shall be adjusted to ensure that the
+29 Fund shall maintain or achieve an annualized amount of not less than one
+30 hundred forty percent (140%) of the previous fiscal year's expenditure for
+31 family and medical leave insurance benefits paid and for the administration of
+32 the family and medical leave insurance program. The contribution rate
+33 adjustment, if any, made as the result of the Assistant Secretary's certification
+34 and report under this subsection shall supersede the rate previously set forth
+35 and shall become effective on January 1 of the following calendar year.
+36 (c) A self-employed individual who is electing coverage under G.S. 96A-13 shall be
+37 responsible for the employee's share of contributions set forth in subsection (b) of this section on
+38 that individual's income from self-employment.
+39 (d) An employer shall not deduct more than fifty percent (50%) of the contribution
+40 required for an employee by subsection (b) of this section from that employee's wages and shall
+41 remit the full contribution required under said subsection to the Fund.
+42 "§ 96A-6. Reduced leave schedule.
+43 (a) A covered individual shall be entitled, at the option of the covered individual, to take
+44 paid family and medical leave on an intermittent or reduced leave schedule in which all of the
+45 leave authorized under this Chapter is not taken sequentially. Family and medical leave insurance
+46 benefits for intermittent or reduced leave schedules shall be prorated.
+47 (b) The covered individual shall make a reasonable effort to schedule paid family and
+48 medical leave under this section so as not to unduly disrupt the operations of the employer. The
+49 covered individual shall provide the employer with prior notice of the schedule on which the
+50 covered individual will take the leave, to the extent practicable. Paid family and medical leave
+DRS45359-LR-134 Page 7
+General Assembly Of North Carolina Session 2025
+1 taken under this section shall not result in a reduction of the total amount of leave to which an
+2 employee is entitled beyond the amount of leave actually taken.
+3 (c) Nothing in this section shall be construed to entitle a covered individual to more leave
+4 than required under G.S. 96A-3.
+5 "§ 96A-7. Leave and employment protection.
+6 (a) Any covered individual who exercises his or her right to family and medical leave
+7 insurance benefits shall, upon the expiration of that leave, be entitled to be restored by the
+8 employer to the position held by the covered individual when the leave commenced, or to a
+9 position with equivalent seniority, status, employment benefits, pay, and other terms and
+10 conditions of employment, including fringe benefits and service credits that the covered
+11 individual had been entitled to at the commencement of leave.
+12 (b) During any leave taken pursuant to G.S. 96A-2, the employer shall maintain any
+13 health care benefits the covered individual had prior to taking such leave for the duration of the
+14 leave as if the covered individual had continued in employment continuously from the date he or
+15 she commenced the leave until the date the family and medical leave insurance benefits
+16 terminate; provided, however, that the covered individual shall continue to pay the covered
+17 individual's share of the cost of health benefits as required prior to the commencement of the
+18 leave.
+19 (c) Any employer who violates this section or G.S. 96A-8 shall be liable to any eligible
+20 employee affected as follows:
+21 (1) For damages equal to the amount of (i) any wages, salary, employment
+22 benefits, or other compensation denied or lost to such employee by reason of
+23 the violation, or (ii) in a case in which wages, salary, employment benefits, or
+24 other compensation have not been denied or lost to the employee, any actual
+25 monetary losses sustained by the employee as a direct result of the violation,
+26 such as the cost of providing care, up to a sum equal to 12 weeks of wages or
+27 salary for the employee, (iii) the interest on the amount described in clause (i)
+28 of this subdivision calculated at the prevailing rate, and (iv) an additional
+29 amount as liquidated damages equal to the sum of the amount described in
+30 clause (i) of this subdivision and the interest described in clause (ii) of this
+31 subdivision, except that if an employer who has violated this section or
+32 G.S. 96A-8 proves to the satisfaction of the court that the act or omission
+33 which violated the section was in good faith and that the employer had
+34 reasonable grounds for believing that the act or omission was not a violation,
+35 the court may, in the discretion of the court, reduce the amount of the liability
+36 to the amount and interest determined under clauses (i) and (ii) of this
+37 subdivision, respectively.
+38 (2) For such equitable relief as may be appropriate, including employment,
+39 reinstatement, and promotion.
+40 (d) An action to recover the damages or equitable relief prescribed in subsection (c) of
+41 this section may be maintained against any employer (including a public agency) in any federal
+42 or State court of competent jurisdiction by any one or more employees for and on behalf of the
+43 employees or the employees and other employees similarly situated.
+44 (e) The court in such an action shall, in addition to any judgment awarded to the plaintiff,
+45 allow a reasonable attorney's fee, reasonable expert witness fees, and other costs of the action to
+46 be paid by the defendant.
+47 (f) Except as provided by subsection (g) of this section, an action may be brought under
+48 this section not later than two years after the date of the last event constituting the alleged
+49 violation for which the action is brought.
+Page 8 DRS45359-LR-134
+General Assembly Of North Carolina Session 2025
+1 (g) In the case of an action brought for a willful violation of this section or G.S. 96A-8,
+2 the action may be brought within three years of the date of the last event constituting the alleged
+3 violation for which such action is brought.
+4 "§ 96A-8. Retaliatory personnel actions prohibited.
+5 (a) It shall be unlawful for an employer or any other person to interfere with, restrain,
+6 deny the exercise of, or the attempt to exercise any right protected under this Chapter.
+7 (b) An employer, temporary help company, employment agency, employee organization,
+8 or other person shall not take retaliatory personnel action or otherwise discriminate against a
+9 person because he or she exercised rights protected under this Chapter. Such rights include, but
+10 are not limited to, the right to request, file for, apply for, or use benefits provided for under this
+11 Chapter; to take leave from work under this Chapter; communicate to the employer or any other
+12 person or entity an intent to file a claim, a complaint with the Division or courts, or an appeal; or
+13 has testified or is about to testify or has assisted in any investigation, hearing, or proceeding under
+14 this Chapter, at any time, including during the period in which the person receives family and
+15 medical leave insurance benefits under this Chapter; inform any person about any employer's
+16 alleged violation of this Chapter; and the right to inform any person of his or her rights under this
+17 Chapter.
+18 (c) It shall be unlawful for an employer's absence control policy to count paid family and
+19 medical leave taken under this Chapter as an absence that may lead to or result in discipline,
+20 discharge, demotion, suspension, or any other adverse action.
+21 (d) Protections of this section shall apply to any person who mistakenly, but in good faith,
+22 alleges violations of this Chapter.
+23 (e) This section shall be enforced as provided in subsections (c) through (g) of
+24 G.S. 96A-7.
+25 "§ 96A-9. Coordination of benefits.
+26 (a) Leave taken with wage replacement under this Chapter that also qualifies as leave
+27 under the Family and Medical Leave Act shall run concurrently with leave taken under the
+28 Family and Medical Leave Act.
+29 (b) An employer may require that payment made pursuant to this Chapter be made
+30 concurrently or otherwise coordinated with payment made or leave allowed under the terms of
+31 disability or family care leave under a collective bargaining agreement or employer policy. The
+32 employer must give employees written notice of this requirement.
+33 (c) This Chapter does not diminish an employer's obligation to comply with any of the
+34 following that provide more generous leave:
+35 (1) A collective bargaining agreement;
+36 (2) An employer policy; or
+37 (3) Any law.
+38 (d) An individual's right to leave under this Chapter may not be diminished by a collective
+39 bargaining agreement entered into or renewed, or an employer policy adopted or retained, after
+40 the effective date of this Chapter. Any agreement by an individual to waive his or her rights under
+41 this Chapter is void as against public policy.
+42 "§ 96A-10. Notice.
+43 (a) Each employer shall provide written notice to each employee upon hiring and
+44 annually thereafter. An employer shall also provide written notice to an employee when the
+45 employee requests leave under this Chapter or when the employer acquires knowledge that an
+46 employee's leave may be for a qualifying reason under G.S. 96A-2. Such notice shall include (i)
+47 the employee's right to family and medical leave insurance benefits under this Chapter and the
+48 terms under which it may be used, (ii) the amount of family and medical leave insurance benefits,
+49 (iii) the procedure for filing a claim for benefits, (iv) the right to job protection and benefits
+50 continuation under G.S. 96A-7, (v) that discrimination and retaliatory personnel actions against
+51 a person for requesting, applying for, or using family and medical leave insurance benefits is
+DRS45359-LR-134 Page 9
+General Assembly Of North Carolina Session 2025
+1 prohibited under G.S. 96A-8, and (vi) that the employee has a right to file a complaint for
+2 violations of this Chapter. An employer shall also display and maintain a poster in a conspicuous
+3 place accessible to employees at the employer's place of business that contains the information
+4 required by this section in English, Spanish, and any language that is the first language spoken
+5 by at least five percent (5%) of the employer's workforce, provided that such notice has been
+6 provided by the Division. The Assistant Secretary may adopt regulations to establish additional
+7 requirements concerning the means by which employers shall provide such notice.
+8 (b) Employees shall provide notice to their employers as soon as practicable of their
+9 intention to take leave under this Chapter.
+10 "§ 96A-11. Enforcement.
+11 (a) The Assistant Secretary shall establish a system for appeals in the case of a denial of
+12 family and medical leave insurance benefits. In establishing such system, the Assistant Secretary
+13 may utilize any and all procedures and appeals mechanisms established under G.S. 96-15.
+14 (b) Judicial review of any decision with respect to family and medical leave insurance
+15 benefits shall be permitted in a court of competent jurisdiction after a party aggrieved thereby
+16 has exhausted all administrative remedies established by the Assistant Secretary.
+17 (c) The Assistant Secretary shall implement procedures to ensure confidentiality of all
+18 information related to any claims filed or appeals taken to the maximum extent permitted by
+19 applicable laws.
+20 "§ 96A-12. Erroneous payments and disqualification for benefits.
+21 (a) A covered individual is disqualified from family and medical leave insurance benefits
+22 for one year if the individual is determined by the Assistant Secretary to have willfully made a
+23 false statement or misrepresentation regarding a material fact or willfully failed to report a
+24 material fact to obtain benefits under this Chapter.
+25 (b) If family and medical leave insurance benefits are paid erroneously or as a result of
+26 willful misrepresentation, or if a claim for family and medical leave insurance benefits is rejected
+27 after benefits are paid, the Division may seek repayment of benefits from the recipient. The
+28 Assistant Secretary shall exercise his or her discretion to waive, in whole or in part, the amount
+29 of any such payments where the recovery would be against equity and good conscience.
+30 "§ 96A-13. Elective coverage.
+31 (a) A self-employed person, including a sole proprietor, partner, or joint venturer, may
+32 elect coverage under this Chapter for an initial period of not less than three years. The
+33 self-employed person must file a notice of election in writing with the Assistant Secretary, as
+34 required by the Division. The election becomes effective on the date of filing the notice. As a
+35 condition of election, the self-employed person must agree to supply any information concerning
+36 income that the Division deems necessary.
+37 (b) A self-employed person who has elected coverage may withdraw from coverage
+38 within 30 days after the end of the three-year period of coverage, or at such other times as the
+39 Assistant Secretary may prescribe by rule, by filing written notice with the Assistant Secretary,
+40 such withdrawal to take effect not sooner than 30 days after filing the notice.
+41 "§ 96A-14. Family and medical leave insurance program.
+42 (a) The Division shall establish and administer a family and medical leave insurance
+43 program and begin collecting contributions as specified in this Chapter. By January 1, 2025, the
+44 Division shall start receiving claims from and paying family and medical leave insurance benefits
+45 to covered individuals.
+46 (b) The Division shall establish reasonable procedures and forms for filing claims for
+47 benefits under this Chapter and shall specify what supporting documentation is necessary to
+48 support a claim for benefits, including any documentation required from a health care provider
+49 for proof of a serious health condition.
+50 (c) The Division shall notify the employer within five business days of a claim being
+51 filed pursuant to this Chapter.
+Page 10 DRS45359-LR-134
+General Assembly Of North Carolina Session 2025
+1 (d) The Division shall use information sharing and integration technology to facilitate the
+2 disclosure of relevant information or records, so long as an individual consents to the disclosure
+3 as required under State law.
+4 (e) Information contained in the files and records pertaining to an individual under this
+5 Chapter are confidential and not open to public inspection other than to public employees in the
+6 performance of their official duties. However, the individual or an authorized representative of
+7 an individual may review the records or receive specific information from the records upon the
+8 presentation of the individual's signed authorization.
+9 (f) The Department of Commerce shall adopt rules as necessary to implement this
+10 Chapter.
+11 "§ 96A-15. Federal income tax.
+12 If the Internal Revenue Service determines that family and medical leave insurance benefits
+13 under this Chapter are subject to federal income tax, the Division must advise an individual filing
+14 a new claim for family and medical leave insurance benefits, at the time of filing such claim, that
+15 the Internal Revenue Service has determined that benefits are subject to federal income tax and
+16 that requirements exist pertaining to estimated tax payments.
+17 "§ 96A-16. Family and medical leave insurance account fund; establishment and
+18 investment.
+19 (a) The Paid Family and Medical Leave Fund (Fund) is created in the custody of the
+20 Division. Expenditures from the Fund may be used only for the purposes of the family and
+21 medical leave insurance benefits program. Only the Assistant Secretary of the Division or the
+22 Assistant Secretary's designee may authorize expenditures from the Fund.
+23 (b) Whenever, in the judgment of the Division, there shall be in the Fund an amount of
+24 funds in excess of that amount deemed by the Division to be sufficient to meet the current
+25 expenditures properly payable therefrom, the Division shall have full power to invest, reinvest,
+26 manage, contract, sell, or exchange investments acquired with such excess funds in the manner
+27 prescribed by North Carolina law.
+28 "§ 96A-17. Employer Grant Fund.
+29 There is created in the Department of Commerce the Employer Grant Fund to offset the costs
+30 of the program for employers that demonstrate the need for financial assistance in meeting the
+31 requirements of this Chapter. The Employer Grant Fund shall consist of appropriations from the
+32 General Fund. Donations from public agencies and private sources may be accepted if the
+33 donations are unconditional and unrestricted. The Department of Commerce shall adopt rules for
+34 the administration of the grant funds.
+35 "§ 96A-18. Reports.
+36 Beginning January 1, 2028, the Division shall report to the General Assembly by April 1 of
+37 each year on projected and actual program participation by purpose listed in G.S. 96A-2, gender
+38 of beneficiary, premium rates, fund balances, outreach efforts, and, for leaves taken under
+39 G.S. 96A-2, family members for whom leave was taken to provide care.
+40 "§ 96A-19. Public education.
+41 The Division shall conduct a public education campaign to inform workers and employers
+42 regarding the availability of family and medical leave insurance benefits. Outreach information
+43 shall be available in English, Spanish, French, German, Vietnamese, Chinese, Arabic, Korean,
+44 Tagalog, Hindi, Gujarati, Russian, Hmong, and other languages spoken by more than five percent
+45 (5%) of the State's population.
+46 "§ 96A-20. Sharing technology.
+47 The Division is encouraged to use State data collection and technology to the extent possible
+48 and to integrate the program with existing State policies.
+49 "§ 96A-21. Severability.
+DRS45359-LR-134 Page 11
+General Assembly Of North Carolina Session 2025
+1 If any provision of this Chapter or its application to any person or circumstance is held
+2 invalid, the remainder of the Chapter or the application of the provision to other persons or
+3 circumstances is not affected."
+4 SECTION 6.1.(b) All rules necessary for implementation of this section shall be
+5 adopted by October 1, 2023.
+6 SECTION 6.1.(c) There is appropriated from the General Fund to the Department
+7 of Commerce, Employer Grant Fund, the sum of nineteen million dollars ($19,000,000) for the
+8 2025-2026 fiscal year and the sum of thirty million dollars ($30,000,000) in the 2026-2027 fiscal
+9 year to offset employer costs of the Paid Family Medical Leave Act as enacted by this section.
+10 SECTION 6.1.(d) This section becomes effective July 1, 2025.
+11
+12 EFFECTIVE DATE
+13 SECTION 7.1. Except as otherwise provided, this act is effective when it becomes
+14 law.
+Page 12 DRS45359-LR-134
+[DELETED:  D W ( S  A A A R P C F S C C R T C T C I T S M W L G F T S A H L M W H C B C A H A P W T N C H F A F F T N C P F L I A T H W C I B E A A F F T P T  C S " e i c c S  R S e " ( C C b e d c c f a F A C]
+[DELETED:  S  D M U $  O  U $  O 0  H U $  O  U $  O 0  S U $  O  U $  O 0  M U $  O  U $  O 0  ( L t G a e q m ( C i m g a r o a o b t t o t t i i t P I c a S J  I S M W A A H L M S a " E w m 2 p i t s A l g m a a o e a l m t w S  I]
+[DELETED:  S  P S " ( C i C … ( T o p r l u u I I P   - I 4 I 1 5 … S 4  T s i e f t i f t y b  H S ( A ( E ( F ( F a I b W c H d s ( L g o ( P o t f o e m s p e ( T – A i w m r i t e o d p ( V S o u t H A F a u G t p S u f d p a a t o m i p c t p p F h s b l t t l o t s o t p p m]
+[DELETED:  S  D S r a r g t p o d p a a m i S 5  T i a f t G F t t H m p S  P S a " " " ( T L ( T ( A c w i w a i f a a f f a m ( A D ( C a M i s e c a m t r o G b M t c S ( C a A G o R w i ( u m t r o t ( o i o s o ( o i d b b b A t r b o m o m ( D – T D o E S o t D o C ( E]
+[DELETED:  S  P ( E e m a i p a c b t l t m T o R ( F t ( F a R l s l b A o a e o a e s o d p o a p w s i l p w t e o t e c A a l d A a o s r o t e o t e s e A t ( H l d ( N A ( Q i c p f m m f o l a f t m m a c a m e o c s o d ( R p a – D o a r g u t C i b n l t a t d s d f r a e s c o i s o t s c o i s o a f m o t e s a i i w o p f i a m]
+[DELETED:  S  D p C ( S h c – A i i i p r f c o p o m c t i i c ( S G " B i ( M a ( M a B f a n c d t f y a t b a o p b I c H d I n e B t b n o a i c o o t a d i t A " ( T b ( T b ( T b ( T t " ( T f ( T w b s b d a f ( t p o t c h a s i a w w t i m t o h a ( T a ( T m w b s n b l t o h d ( w s]
+[DELETED:  S  P ( F b t a ( t a w w d t t t c i ( F o " ( P u ( B F f S t s f ( T D ( T ( T f a ( T t ( i l ( T F h f t f a m l i p T c r a a a ( A r t ( A e s n d m t f p ( o t c r r " ( A p l b ( T m c c]
+[DELETED:  S  D t e ( N t " ( A i e e p w e s s e b p a o t a c o e i f b a s c t t c i ( D p G h l s c t l u t d t f a m l i b t c i l ( A e ( F d e t t a o ( a w s e b t o m s s o a c s e t i a e w h v t s o G w v t s w i g f a t t e h r t t t a a i d u c ( a ( o t s ( F s e r a m b a i e r ( A t o e ( T a b ( E t t a v]
+[DELETED:  S  P ( I t v " ( I d ( A o p a C p h t m a C ( I m d ( P a ( T s s b e a p i s ( t ( o G " ( L u F ( A e m r t p m p t t C b m c d e ( T f ( A ( A ( A ( A b t t " ( E e s p w n t e e u h a a e e t t ( c a]
+[DELETED:  S  D p u G a ( t t e h a r t f a c f v p r b p r ( E i " ( T f m ( J b h ( T i a " ( A f f s o m r a m f o w f t r a m ( I w a A o " ( A e c u t C f a i p o n l t t y T s r c i ( A s p w h e c m w f c w A s " ( T p D t ( T b s f ( T f]
+[DELETED:  S  P ( T d a ( I C p a p ( T D o C s a r a n t i t C " I u a t t " 9  F a m l i a f e a i ( T D m A ( W f e m p " T o r G F D f p a a p s m b a i t d t " B e o b p r f b o e a f l t u G " T r s T ( " T a "]
+[DELETED:  S  D I i c S a S o 2 y S  E S l]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 708
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45359-LR-134
+Short Title: Working Families Act. (Public)
+Sponsors: Senators Applewhite, Grafstein, and Bradley (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT REDUCING PARENT COPAYMENTS FOR SUBSIDIZED CHILD CARE,
+3 REENACTING THE CHILD TAX CREDIT, INCREASING THE STATE MINIMUM
+4 WAGE TO FIFTEEN DOLLARS PER HOUR ON LABOR DAY 2025 AND GRANTING
+5 LOCAL GOVERNMENTS FLEXIBILITY TO SET A HIGHER LOCAL MINIMUM
+6 WAGE, INCREASING THE INCOME ELIGIBILITY LIMIT FOR THE PROPERTY TAX
+7 HOMESTEAD CIRCUIT BREAKER, CREATING A HOMEBUYERS' ASSISTANCE
+8 PROGRAM WITH THE NORTH CAROLINA HOUSING FINANCE AGENCY FOR
+9 FIRST-TIME HOMEBUYERS WHO WORK AS PUBLIC SERVANTS, AND ENACTING
+10 THE NORTH CAROLINA PAID FAMILY LEAVE INSURANCE ACT TO HELP
+11 WORKING FAMILIES AND CREATING THE EMPLOYER GRANT FUND TO OFFSET
+12 COSTS INCURRED BY EMPLOYERS AND APPROPRIATING FUNDS FOR THAT
+13 PURPOSE.
+14 The General Assembly of North Carolina enacts:
+15
+16 CHILD CARE SUBSIDIES
+17 SECTION 1.1.(a) Section 9D.3(b) of S.L. 2023-134 reads as rewritten:
+18 "SECTION 9D.3.(b) Fees for families who are required to share in the cost of care are
+19 established based on ten percent (10%) seven percent (7%) of gross family income. When care
+20 is received at the blended rate, the copayment shall be eighty-three percent (83%) of the full-time
+21 copayment. Copayments for part-time care shall be seventy-five percent (75%) of the full-time
+22 copayment."
+23 SECTION 1.1.(b) This act becomes effective July 1, 2025.
+24
+25 REENACT CHILD TAX CREDIT
+26 SECTION 2.1.(a) G.S. 105-153.10 is reenacted as it existed immediately before its
+27 expiration and reads as rewritten:
+28 "§ 105-153.10. Credit for children.
+29 (a) Credit. – A taxpayer who is allowed a federal child tax credit under section 24 of the
+30 Code for the taxable year is allowed a credit against the tax imposed by this Part for each
+31 dependent child for whom the taxpayer is allowed the federal credit. A taxpayer is allowed a
+32 credit against the tax imposed by this Part for each qualifying child of the taxpayer. A "qualifying
+33 child" is defined by section 152(c) of the Code. The amount of credit allowed under this section
+34 for the taxable year is equal to the amount listed in the table below based on the taxpayer's
+35 adjusted gross income, as calculated under the Code:
+36 Filing Status AGI Credit Amount
+*DRS45359-LR-134*
+
+General Assembly Of North Carolina Session 2025
+1 Married, filing jointly Up to $40,000 $125.00$250.00
+2 Over $40,000
+3 Up to $100,000 $100.00$125.00
+4 Over $100,000 0
+5
+6 Head of Household Up to $32,000 $125.00$250.00
+7 Over $32,000
+8 Up to $80,000 $100.00$125.00
+9 Over $80,000 0
+10
+11 Single Up to $20,000 $125.00$250.00
+12 Over $20,000
+13 Up to $50,000 $100.00$125.00
+14 Over $50,000 0
+15
+16 Married, filing separately Up to $20,000 $125.00$250.00
+17 Over $20,000
+18 Up to $50,000 $100.00$125.00
+19 Over $50,000 0.
+20
+21 (b) Limitations. – A nonresident or part-year resident who claims the credit allowed by
+22 this section shall reduce the amount of the credit by multiplying it by the fraction calculated under
+23 G.S. 105-134.5(b) or (c), as appropriate.The credit allowed under this section may not exceed the
+24 amount of tax imposed by this Part for the taxable year reduced by the sum of all credits allowed,
+25 except payments of tax made by or on behalf of the taxpayer.G.S. 105-153.4. Married individuals
+26 qualifying for a credit under this section who file separate returns may not collectively claim
+27 more than the maximum credit allowed under a joint return.
+28 (c) Credit Refundable. – If the credit allowed by this section exceeds the amount of tax
+29 imposed by this Part for the taxable year reduced by the sum of all credits allowable, the Secretary
+30 must refund the excess to the taxpayer. The refundable excess is governed by the provisions
+31 governing a refund of an overpayment by the taxpayer of the tax imposed in this Part. In
+32 computing the amount of tax against which multiple credits are allowed, nonrefundable credits
+33 are subtracted before refundable credits."
+34 SECTION 2.1.(b) This section is effective for taxable years beginning on or after
+35 January 1, 2025.
+36
+37 INCREASE STATEWIDE MINIMUM WAGE AND ALLOW HIGHER LOCAL
+38 MINIMUM WAGE
+39 SECTION 3.1.(a) Effective Labor Day, September 1, 2025, G.S. 95-25.3(a) reads
+40 as rewritten:
+41 "(a) Every employer shall pay to each employee who in any workweek performs any work,
+42 wages of at least six dollars and fifteen cents ($6.15) fifteen dollars ($15.00) per hour or the
+43 minimum wage set forth in paragraph 1 of section 6(a) of the Fair Labor Standards Act, 29 U.S.C.
+44 206(a)(1), as that wage may change from time to time, whichever is higher, except as otherwise
+45 provided in this section. A local government may adopt an ordinance establishing a local
+46 minimum wage within its territorial jurisdiction that is higher than the statewide minimum wage;
+47 then, in that case, every employer in the jurisdiction shall instead pay the higher local minimum
+48 wage."
+49 SECTION 3.1.(b) This section is effective when it becomes law.
+50
+51 INCOME ELIGIBILITY/PROPERTY TAX HOMESTEAD CIRCUIT BREAKER
+Page 2 DRS45359-LR-134
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.1.(a) G.S. 105-277.1B reads as rewritten:
+2 "§ 105-277.1B. Property tax homestead circuit breaker.
+3 (a) Classification. – A permanent residence owned and occupied by a qualifying owner
+4 is designated a special class of property under Article V, Section 2(2) of the North Carolina
+5 Constitution and is taxable in accordance with this section.
+6 …
+7 (f) Tax Limitation. – A qualifying owner may defer the portion of the principal amount
+8 of tax that is imposed for the current tax year on his or her permanent residence and exceeds the
+9 percentage of the qualifying owner's income set out in the table in this subsection. If a permanent
+10 residence is subject to tax by more than one taxing unit and the total tax liability exceeds the tax
+11 limit imposed by this section, then both the taxes due under this section and the taxes deferred
+12 under this section must be apportioned among the taxing units based upon the ratio each taxing
+13 unit's tax rate bears to the total tax rate of all units.
+14 Income Over Income Up To Percentage
+15 -0- Income Eligibility Limit 4.0%
+16 Income Eligibility Limit 150% 180% of Income Eligibility Limit 5.0%
+17 …."
+18 SECTION 4.1.(b) This section is effective for taxes imposed for taxable years
+19 beginning on or after July 1, 2025.
+20
+21 HOMEBUYERS' ASSISTANCE PROGRAM
+22 SECTION 5.1.(a) As used in this section, the following definitions apply:
+23 (1) Active duty member. – As defined in G.S. 58-58-335(1).
+24 (2) Emergency medical services personnel. – As defined in G.S. 131E-155(7).
+25 (3) Firefighter. – As defined in G.S. 58-84-5(3a).
+26 (4) First-time homebuyer. – An individual who meets all of the following criteria:
+27 a. Is purchasing the subject residential property.
+28 b. Will reside in the subject residential property as a principal residence.
+29 c. Has had no ownership interest, sole or joint, in a residential property
+30 during the three-year period preceding the date of the purchase of the
+31 subject residential property.
+32 (5) Law enforcement officer. – An individual employed by the State or a local
+33 government in this State as a sheriff, deputy sheriff, police officer, or member
+34 of the State highway patrol.
+35 (6) Public servant. – An active duty member or veteran, or a law enforcement
+36 officer, teacher, firefighter, or emergency medical services personnel
+37 employed in this State.
+38 (7) Teacher. – An individual whose major responsibility is to either teach or
+39 directly supervise teaching, as classified by the State Board of Education, in a
+40 public school unit, as that term is defined in G.S. 115C-5(7a).
+41 (8) Veteran. – As defined in G.S. 122C-465(3).
+42 SECTION 5.1.(b) The Housing Finance Agency (Agency) shall establish a program
+43 operating under the Homeownership Assistance Fund, authorized under G.S. 122A-5.7, that
+44 provides assistance to first-time homebuyers that are employed full time as public servants in this
+45 State. The Agency shall provide, in the form of reimbursement or direct payment, monies to be
+46 used for down payment assistance and to offset mortgage insurance premiums charged to
+47 program participants. First-time homebuyers shall be limited to the lesser of the sum of
+48 twenty-five thousand dollars ($25,000) or ten percent (10%) of the purchase price for down
+49 payment assistance, mortgage insurance premium assistance, and closing costs. The Agency may
+50 provide for mortgage insurance payment assistance at least monthly, but for no longer than 60
+51 months for any single first-time homebuyer.
+DRS45359-LR-134 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 5.1.(c) The Agency is hereby empowered to adopt, modify, or repeal
+2 rules and regulations governing the provision of down payment assistance and mortgage
+3 insurance assistance provided pursuant to this section.
+4 SECTION 5.1.(d) There is appropriated from the General Fund to the
+5 Homeownership Assistance Fund, authorized under G.S. 122A-5.7, the sum of one hundred fifty
+6 million dollars ($150,000,000) in recurring funds for the 2025-2026 fiscal year to be used for the
+7 purposes provided in this act.
+8 SECTION 5.1.(e) This section becomes effective July 1, 2025.
+9
+10 PAID FAMILY LEAVE INSURANCE
+11 SECTION 6.1.(a) Effective January 1, 2026, the General Statutes are amended by
+12 adding a new Chapter to read:
+13 "Chapter 96A.
+14 "Paid Family Leave Insurance Act.
+15 "§ 96A-1. Short title; definitions.
+16 (a) This Chapter shall be known and may be cited as the "North Carolina Paid Family
+17 Leave Insurance Act."
+18 (b) The following definitions apply in this Chapter:
+19 (1) Application year. – The 12-month period beginning on the first day of the
+20 calendar week in which an individual files an application for family and
+21 medical leave insurance benefits.
+22 (2) Assistant Secretary. – The Assistant Secretary of Commerce in charge of the
+23 Division of Employment Security.
+24 (3) Covered individual. – Any person who does all of the following:
+25 a. Meets the monetary eligibility criteria set forth in G.S. 96-14.1(b) or
+26 is self-employed, elects coverage, and meets the requirements of
+27 G.S. 96A-13.
+28 b. Meets the administrative requirements outlined in this Chapter and in
+29 the rules adopted under this Chapter.
+30 c. Submits an application.
+31 (4) Covered service member. – Either:
+32 a. A member of the Armed Forces, including a member of the National
+33 Guard or Reserves, who is (i) undergoing medical treatment,
+34 recuperation, or therapy, (ii) otherwise in outpatient status, or (iii)
+35 otherwise on the temporary disability retired list for a serious injury or
+36 illness that was incurred by the member in the line of duty on active
+37 duty in the Armed Forces or a serious injury or illness that existed
+38 before the beginning of the member's active duty and was aggravated
+39 by service in the line of duty on active duty in the Armed Forces; or
+40 b. A former member of the Armed Forces, including a former member of
+41 the National Guard or Reserves, who is undergoing medical treatment,
+42 recuperation, or therapy for a serious injury or illness that was incurred
+43 by the member in the line of duty on active duty in the Armed Forces
+44 or a serious injury or illness that existed before the beginning of the
+45 member's active duty and was aggravated by service in the line of duty
+46 on active duty in the Armed Forces and manifested before or after the
+47 member was discharged or released from service.
+48 (5) Division. – The Division of Employment Security of the Department of
+49 Commerce.
+50 (6) Employee. – Any individual employed by an employer.
+Page 4 DRS45359-LR-134
+
+General Assembly Of North Carolina Session 2025
+1 (7) Employer. – Any person acting directly or indirectly in the interest of an
+2 employer in relation to an employee. As used in this subdivision, "person"
+3 means an individual, partnership, association, corporation, business trust,
+4 legal representative, or any organized group of persons. For the purposes of
+5 this Chapter, it also means the State of North Carolina, any city, town, county,
+6 municipality, or any State or local agency or instrumentality of government.
+7 The term does not include the government of the United States and any agency
+8 of the United States (including the United States Postal Service and Postal
+9 Rate Commission).
+10 (8) Family and medical leave insurance benefits. – The benefits provided under
+11 the terms of this Chapter.
+12 (9) Family member. – Any of the following:
+13 a. Regardless of age, a biological, adopted, or foster child, stepchild, or
+14 legal ward, a child of a domestic partner, a child to whom the employee
+15 stands in loco parentis, or a person to whom the employee stood in
+16 loco parentis when the person was a minor.
+17 b. A biological, adoptive, or foster parent, stepparent, or legal guardian
+18 of an employee or an employee's spouse or domestic partner or a
+19 person who stood in loco parentis when the employee or the
+20 employee's spouse or domestic partner was a minor.
+21 c. A person to whom the employee is legally married under the laws of
+22 any state or a domestic partner of an employee as registered under the
+23 laws of any state or political subdivision.
+24 d. A grandparent, grandchild, or sibling (whether a biological, foster,
+25 adoptive, or step relationship) of the employee or the employee's
+26 spouse or domestic partner.
+27 e. Any other individual related by blood or whose close association with
+28 the employee is the equivalent of a family relationship.
+29 (10) Health care provider. – Any person licensed under federal or North Carolina
+30 law to provide medical or emergency services, including, but not limited to,
+31 doctors, nurses and emergency room personnel, or certified midwives.
+32 (11) Next of kin. – As defined in section 101(17) of the Family and Medical Leave
+33 Act, 29 U.S.C. § 2611(17).
+34 (12) Qualifying exigency leave. – Leave based on a need arising out of a covered
+35 individual's family member's active duty service or notice of an impending
+36 call or order to active duty in the Armed Forces, including, but not limited to,
+37 providing for the care or other needs of the military member's child or other
+38 family member, making financial or legal arrangements for the military
+39 member, attending counseling, attending military events or ceremonies,
+40 spending time with the military member during a rest and recuperation leave
+41 or following return from deployment, or making arrangements following the
+42 death of the military member.
+43 (13) Retaliatory personnel action. – Denial of any right guaranteed under this
+44 Chapter, including, but not limited to, any threat, discharge, suspension,
+45 demotion, reduction of hours, any other adverse action against an employee
+46 for the exercise of any right guaranteed herein, or reporting or threatening to
+47 report an employee's suspected citizenship or immigration status or the
+48 suspected citizenship or immigration status of a family member of the
+49 employee to a federal, State, or local agency. Retaliatory personnel actions
+50 shall also include interference with or punishment for in any manner
+DRS45359-LR-134 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 participating in or assisting an investigation, proceeding, or hearing under this
+2 Chapter.
+3 (14) Serious health condition. – An illness, injury, impairment, pregnancy,
+4 recovery from childbirth, or physical or mental condition that involves
+5 inpatient care in a hospital, hospice, or residential medical care facility, or
+6 continuing treatment by a health care provider.
+7 (15) State average weekly wage. – The average weekly insured wage as defined in
+8 G.S. 96-1(b)(2).
+9 "§ 96A-2. Eligibility for benefits.
+10 Beginning January 1, 2026, family and medical leave insurance benefits are payable to an
+11 individual who:
+12 (1) Meets the definition of "covered individual" as defined by G.S. 96A-1(b)(3);
+13 and
+14 (2) Meets one of the following requirements:
+15 a. Because of birth, adoption, or placement through foster care, is caring
+16 for a new child during the first year after the birth, adoption, or
+17 placement of that child;
+18 b. Is caring for a family member with a serious health condition;
+19 c. Has a serious health condition;
+20 d. Is caring for a covered service member who is the covered individual's
+21 next of kin or other family member; or
+22 e. Because of any "qualifying exigency leave" arising out of the fact that
+23 the family member of the covered individual is on active duty (or has
+24 been notified of an impending call or order to active duty) in the
+25 Armed Forces.
+26 "§ 96A-3. Duration of benefits.
+27 (a) The maximum number of weeks during which family and medical leave insurance
+28 benefits are payable under G.S. 96A-2(2)c. in an application year is 18 weeks.
+29 (b) The maximum number of weeks during which family and medical leave insurance
+30 benefits are payable under G.S. 96A-2(2)a., (2)b., or (2)e. in an application year is 12 weeks.
+31 (c) The maximum number of weeks during which family and medical leave insurance
+32 benefits are payable under G.S. 96A-2(2)d. in an application year is 26 weeks.
+33 (d) The first payment of benefits must be made to an individual within two weeks after
+34 the claim is filed, and subsequent payments must be made every two weeks thereafter.
+35 "§ 96A-4. Amount of benefits.
+36 (a) The amount of family and medical leave insurance benefits shall be determined as
+37 follows:
+38 (1) The weekly benefit shall be determined as follows: (i) the portion of the
+39 covered individual's average weekly wage that is equal to or less than one
+40 hundred percent (100%) of the State average weekly wage shall be replaced
+41 at a rate of ninety percent (90%) and (ii) the portion of an employee's or
+42 self-employed individual's average weekly wage that is more than one
+43 hundred percent (100%) of the State average weekly wage shall be replaced
+44 at a rate of fifty percent (50%).
+45 (2) The maximum benefit shall be one hundred percent (100%) of the statewide
+46 average weekly wage.
+47 (3) The minimum weekly benefit shall not be less than one hundred dollars
+48 ($100.00) per week except that if the covered individual's average weekly
+49 wage is less than one hundred dollars ($100.00) per week, the weekly benefit
+50 shall be the employee's full wage.
+Page 6 DRS45359-LR-134
+
+General Assembly Of North Carolina Session 2025
+1 (4) For purposes of this section, a covered individual's average weekly wage shall
+2 be the average weekly wage during the 12 months preceding submission of
+3 the application (or the average weekly wage during the time the covered
+4 individual worked, if it was less than 12 months).
+5 (b) Family and medical leave insurance benefits are not payable for less than eight hours
+6 of family and medical leave taken in one workweek.
+7 "§ 96A-5. Contributions.
+8 (a) Payroll contributions shall be authorized in order to finance the payment of benefits
+9 under the family and medical leave insurance program.
+10 (b) Beginning on January 1, 2026, for each employee, an employer shall remit to the Paid
+11 Family and Medical Leave Fund (Fund), established under G.S. 96A-16, contributions in the
+12 form and manner determined by the Division. Annually, not later than October 1, the Assistant
+13 Secretary shall fix the contribution rate for the coming calendar year in the manner described in
+14 this subsection. For calendar years 2026 and 2027, the Assistant Secretary shall do so based on
+15 sound actuarial principles. For calendar year 2028 and thereafter, the Assistant Secretary shall
+16 first certify and publish the following information:
+17 (1) The total amount of family and medical leave insurance benefits paid by the
+18 Division during the previous fiscal year;
+19 (2) The total amount remaining in the Fund at the close of the fiscal year;
+20 (3) The total amount equal to one hundred forty percent (140%) of the previous
+21 fiscal year's expenditure for family and medical leave insurance benefits paid
+22 and for the administration of the family and medical leave insurance program;
+23 (4) The amount by which the total amount remaining in the Fund at the close of
+24 the previous fiscal year is less than or greater than one hundred forty percent
+25 (140%) of the previous fiscal year's expenditure for family and medical leave
+26 insurance benefits paid and for the administration of the family and medical
+27 leave insurance program; and
+28 (5) The amount by which the contribution rate shall be adjusted to ensure that the
+29 Fund shall maintain or achieve an annualized amount of not less than one
+30 hundred forty percent (140%) of the previous fiscal year's expenditure for
+31 family and medical leave insurance benefits paid and for the administration of
+32 the family and medical leave insurance program. The contribution rate
+33 adjustment, if any, made as the result of the Assistant Secretary's certification
+34 and report under this subsection shall supersede the rate previously set forth
+35 and shall become effective on January 1 of the following calendar year.
+36 (c) A self-employed individual who is electing coverage under G.S. 96A-13 shall be
+37 responsible for the employee's share of contributions set forth in subsection (b) of this section on
+38 that individual's income from self-employment.
+39 (d) An employer shall not deduct more than fifty percent (50%) of the contribution
+40 required for an employee by subsection (b) of this section from that employee's wages and shall
+41 remit the full contribution required under said subsection to the Fund.
+42 "§ 96A-6. Reduced leave schedule.
+43 (a) A covered individual shall be entitled, at the option of the covered individual, to take
+44 paid family and medical leave on an intermittent or reduced leave schedule in which all of the
+45 leave authorized under this Chapter is not taken sequentially. Family and medical leave insurance
+46 benefits for intermittent or reduced leave schedules shall be prorated.
+47 (b) The covered individual shall make a reasonable effort to schedule paid family and
+48 medical leave under this section so as not to unduly disrupt the operations of the employer. The
+49 covered individual shall provide the employer with prior notice of the schedule on which the
+50 covered individual will take the leave, to the extent practicable. Paid family and medical leave
+DRS45359-LR-134 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 taken under this section shall not result in a reduction of the total amount of leave to which an
+2 employee is entitled beyond the amount of leave actually taken.
+3 (c) Nothing in this section shall be construed to entitle a covered individual to more leave
+4 than required under G.S. 96A-3.
+5 "§ 96A-7. Leave and employment protection.
+6 (a) Any covered individual who exercises his or her right to family and medical leave
+7 insurance benefits shall, upon the expiration of that leave, be entitled to be restored by the
+8 employer to the position held by the covered individual when the leave commenced, or to a
+9 position with equivalent seniority, status, employment benefits, pay, and other terms and
+10 conditions of employment, including fringe benefits and service credits that the covered
+11 individual had been entitled to at the commencement of leave.
+12 (b) During any leave taken pursuant to G.S. 96A-2, the employer shall maintain any
+13 health care benefits the covered individual had prior to taking such leave for the duration of the
+14 leave as if the covered individual had continued in employment continuously from the date he or
+15 she commenced the leave until the date the family and medical leave insurance benefits
+16 terminate; provided, however, that the covered individual shall continue to pay the covered
+17 individual's share of the cost of health benefits as required prior to the commencement of the
+18 leave.
+19 (c) Any employer who violates this section or G.S. 96A-8 shall be liable to any eligible
+20 employee affected as follows:
+21 (1) For damages equal to the amount of (i) any wages, salary, employment
+22 benefits, or other compensation denied or lost to such employee by reason of
+23 the violation, or (ii) in a case in which wages, salary, employment benefits, or
+24 other compensation have not been denied or lost to the employee, any actual
+25 monetary losses sustained by the employee as a direct result of the violation,
+26 such as the cost of providing care, up to a sum equal to 12 weeks of wages or
+27 salary for the employee, (iii) the interest on the amount described in clause (i)
+28 of this subdivision calculated at the prevailing rate, and (iv) an additional
+29 amount as liquidated damages equal to the sum of the amount described in
+30 clause (i) of this subdivision and the interest described in clause (ii) of this
+31 subdivision, except that if an employer who has violated this section or
+32 G.S. 96A-8 proves to the satisfaction of the court that the act or omission
+33 which violated the section was in good faith and that the employer had
+34 reasonable grounds for believing that the act or omission was not a violation,
+35 the court may, in the discretion of the court, reduce the amount of the liability
+36 to the amount and interest determined under clauses (i) and (ii) of this
+37 subdivision, respectively.
+38 (2) For such equitable relief as may be appropriate, including employment,
+39 reinstatement, and promotion.
+40 (d) An action to recover the damages or equitable relief prescribed in subsection (c) of
+41 this section may be maintained against any employer (including a public agency) in any federal
+42 or State court of competent jurisdiction by any one or more employees for and on behalf of the
+43 employees or the employees and other employees similarly situated.
+44 (e) The court in such an action shall, in addition to any judgment awarded to the plaintiff,
+45 allow a reasonable attorney's fee, reasonable expert witness fees, and other costs of the action to
+46 be paid by the defendant.
+47 (f) Except as provided by subsection (g) of this section, an action may be brought under
+48 this section not later than two years after the date of the last event constituting the alleged
+49 violation for which the action is brought.
+Page 8 DRS45359-LR-134
+
+General Assembly Of North Carolina Session 2025
+1 (g) In the case of an action brought for a willful violation of this section or G.S. 96A-8,
+2 the action may be brought within three years of the date of the last event constituting the alleged
+3 violation for which such action is brought.
+4 "§ 96A-8. Retaliatory personnel actions prohibited.
+5 (a) It shall be unlawful for an employer or any other person to interfere with, restrain,
+6 deny the exercise of, or the attempt to exercise any right protected under this Chapter.
+7 (b) An employer, temporary help company, employment agency, employee organization,
+8 or other person shall not take retaliatory personnel action or otherwise discriminate against a
+9 person because he or she exercised rights protected under this Chapter. Such rights include, but
+10 are not limited to, the right to request, file for, apply for, or use benefits provided for under this
+11 Chapter; to take leave from work under this Chapter; communicate to the employer or any other
+12 person or entity an intent to file a claim, a complaint with the Division or courts, or an appeal; or
+13 has testified or is about to testify or has assisted in any investigation, hearing, or proceeding under
+14 this Chapter, at any time, including during the period in which the person receives family and
+15 medical leave insurance benefits under this Chapter; inform any person about any employer's
+16 alleged violation of this Chapter; and the right to inform any person of his or her rights under this
+17 Chapter.
+18 (c) It shall be unlawful for an employer's absence control policy to count paid family and
+19 medical leave taken under this Chapter as an absence that may lead to or result in discipline,
+20 discharge, demotion, suspension, or any other adverse action.
+21 (d) Protections of this section shall apply to any person who mistakenly, but in good faith,
+22 alleges violations of this Chapter.
+23 (e) This section shall be enforced as provided in subsections (c) through (g) of
+24 G.S. 96A-7.
+25 "§ 96A-9. Coordination of benefits.
+26 (a) Leave taken with wage replacement under this Chapter that also qualifies as leave
+27 under the Family and Medical Leave Act shall run concurrently with leave taken under the
+28 Family and Medical Leave Act.
+29 (b) An employer may require that payment made pursuant to this Chapter be made
+30 concurrently or otherwise coordinated with payment made or leave allowed under the terms of
+31 disability or family care leave under a collective bargaining agreement or employer policy. The
+32 employer must give employees written notice of this requirement.
+33 (c) This Chapter does not diminish an employer's obligation to comply with any of the
+34 following that provide more generous leave:
+35 (1) A collective bargaining agreement;
+36 (2) An employer policy; or
+37 (3) Any law.
+38 (d) An individual's right to leave under this Chapter may not be diminished by a collective
+39 bargaining agreement entered into or renewed, or an employer policy adopted or retained, after
+40 the effective date of this Chapter. Any agreement by an individual to waive his or her rights under
+41 this Chapter is void as against public policy.
+42 "§ 96A-10. Notice.
+43 (a) Each employer shall provide written notice to each employee upon hiring and
+44 annually thereafter. An employer shall also provide written notice to an employee when the
+45 employee requests leave under this Chapter or when the employer acquires knowledge that an
+46 employee's leave may be for a qualifying reason under G.S. 96A-2. Such notice shall include (i)
+47 the employee's right to family and medical leave insurance benefits under this Chapter and the
+48 terms under which it may be used, (ii) the amount of family and medical leave insurance benefits,
+49 (iii) the procedure for filing a claim for benefits, (iv) the right to job protection and benefits
+50 continuation under G.S. 96A-7, (v) that discrimination and retaliatory personnel actions against
+51 a person for requesting, applying for, or using family and medical leave insurance benefits is
+DRS45359-LR-134 Page 9
+
+General Assembly Of North Carolina Session 2025
+1 prohibited under G.S. 96A-8, and (vi) that the employee has a right to file a complaint for
+2 violations of this Chapter. An employer shall also display and maintain a poster in a conspicuous
+3 place accessible to employees at the employer's place of business that contains the information
+4 required by this section in English, Spanish, and any language that is the first language spoken
+5 by at least five percent (5%) of the employer's workforce, provided that such notice has been
+6 provided by the Division. The Assistant Secretary may adopt regulations to establish additional
+7 requirements concerning the means by which employers shall provide such notice.
+8 (b) Employees shall provide notice to their employers as soon as practicable of their
+9 intention to take leave under this Chapter.
+10 "§ 96A-11. Enforcement.
+11 (a) The Assistant Secretary shall establish a system for appeals in the case of a denial of
+12 family and medical leave insurance benefits. In establishing such system, the Assistant Secretary
+13 may utilize any and all procedures and appeals mechanisms established under G.S. 96-15.
+14 (b) Judicial review of any decision with respect to family and medical leave insurance
+15 benefits shall be permitted in a court of competent jurisdiction after a party aggrieved thereby
+16 has exhausted all administrative remedies established by the Assistant Secretary.
+17 (c) The Assistant Secretary shall implement procedures to ensure confidentiality of all
+18 information related to any claims filed or appeals taken to the maximum extent permitted by
+19 applicable laws.
+20 "§ 96A-12. Erroneous payments and disqualification for benefits.
+21 (a) A covered individual is disqualified from family and medical leave insurance benefits
+22 for one year if the individual is determined by the Assistant Secretary to have willfully made a
+23 false statement or misrepresentation regarding a material fact or willfully failed to report a
+24 material fact to obtain benefits under this Chapter.
+25 (b) If family and medical leave insurance benefits are paid erroneously or as a result of
+26 willful misrepresentation, or if a claim for family and medical leave insurance benefits is rejected
+27 after benefits are paid, the Division may seek repayment of benefits from the recipient. The
+28 Assistant Secretary shall exercise his or her discretion to waive, in whole or in part, the amount
+29 of any such payments where the recovery would be against equity and good conscience.
+30 "§ 96A-13. Elective coverage.
+31 (a) A self-employed person, including a sole proprietor, partner, or joint venturer, may
+32 elect coverage under this Chapter for an initial period of not less than three years. The
+33 self-employed person must file a notice of election in writing with the Assistant Secretary, as
+34 required by the Division. The election becomes effective on the date of filing the notice. As a
+35 condition of election, the self-employed person must agree to supply any information concerning
+36 income that the Division deems necessary.
+37 (b) A self-employed person who has elected coverage may withdraw from coverage
+38 within 30 days after the end of the three-year period of coverage, or at such other times as the
+39 Assistant Secretary may prescribe by rule, by filing written notice with the Assistant Secretary,
+40 such withdrawal to take effect not sooner than 30 days after filing the notice.
+41 "§ 96A-14. Family and medical leave insurance program.
+42 (a) The Division shall establish and administer a family and medical leave insurance
+43 program and begin collecting contributions as specified in this Chapter. By January 1, 2025, the
+44 Division shall start receiving claims from and paying family and medical leave insurance benefits
+45 to covered individuals.
+46 (b) The Division shall establish reasonable procedures and forms for filing claims for
+47 benefits under this Chapter and shall specify what supporting documentation is necessary to
+48 support a claim for benefits, including any documentation required from a health care provider
+49 for proof of a serious health condition.
+50 (c) The Division shall notify the employer within five business days of a claim being
+51 filed pursuant to this Chapter.
+Page 10 DRS45359-LR-134
+
+General Assembly Of North Carolina Session 2025
+1 (d) The Division shall use information sharing and integration technology to facilitate the
+2 disclosure of relevant information or records, so long as an individual consents to the disclosure
+3 as required under State law.
+4 (e) Information contained in the files and records pertaining to an individual under this
+5 Chapter are confidential and not open to public inspection other than to public employees in the
+6 performance of their official duties. However, the individual or an authorized representative of
+7 an individual may review the records or receive specific information from the records upon the
+8 presentation of the individual's signed authorization.
+9 (f) The Department of Commerce shall adopt rules as necessary to implement this
+10 Chapter.
+11 "§ 96A-15. Federal income tax.
+12 If the Internal Revenue Service determines that family and medical leave insurance benefits
+13 under this Chapter are subject to federal income tax, the Division must advise an individual filing
+14 a new claim for family and medical leave insurance benefits, at the time of filing such claim, that
+15 the Internal Revenue Service has determined that benefits are subject to federal income tax and
+16 that requirements exist pertaining to estimated tax payments.
+17 "§ 96A-16. Family and medical leave insurance account fund; establishment and
+18 investment.
+19 (a) The Paid Family and Medical Leave Fund (Fund) is created in the custody of the
+20 Division. Expenditures from the Fund may be used only for the purposes of the family and
+21 medical leave insurance benefits program. Only the Assistant Secretary of the Division or the
+22 Assistant Secretary's designee may authorize expenditures from the Fund.
+23 (b) Whenever, in the judgment of the Division, there shall be in the Fund an amount of
+24 funds in excess of that amount deemed by the Division to be sufficient to meet the current
+25 expenditures properly payable therefrom, the Division shall have full power to invest, reinvest,
+26 manage, contract, sell, or exchange investments acquired with such excess funds in the manner
+27 prescribed by North Carolina law.
+28 "§ 96A-17. Employer Grant Fund.
+29 There is created in the Department of Commerce the Employer Grant Fund to offset the costs
+30 of the program for employers that demonstrate the need for financial assistance in meeting the
+31 requirements of this Chapter. The Employer Grant Fund shall consist of appropriations from the
+32 General Fund. Donations from public agencies and private sources may be accepted if the
+33 donations are unconditional and unrestricted. The Department of Commerce shall adopt rules for
+34 the administration of the grant funds.
+35 "§ 96A-18. Reports.
+36 Beginning January 1, 2028, the Division shall report to the General Assembly by April 1 of
+37 each year on projected and actual program participation by purpose listed in G.S. 96A-2, gender
+38 of beneficiary, premium rates, fund balances, outreach efforts, and, for leaves taken under
+39 G.S. 96A-2, family members for whom leave was taken to provide care.
+40 "§ 96A-19. Public education.
+41 The Division shall conduct a public education campaign to inform workers and employers
+42 regarding the availability of family and medical leave insurance benefits. Outreach information
+43 shall be available in English, Spanish, French, German, Vietnamese, Chinese, Arabic, Korean,
+44 Tagalog, Hindi, Gujarati, Russian, Hmong, and other languages spoken by more than five percent
+45 (5%) of the State's population.
+46 "§ 96A-20. Sharing technology.
+47 The Division is encouraged to use State data collection and technology to the extent possible
+48 and to integrate the program with existing State policies.
+49 "§ 96A-21. Severability.
+DRS45359-LR-134 Page 11
+
+General Assembly Of North Carolina Session 2025
+1 If any provision of this Chapter or its application to any person or circumstance is held
+2 invalid, the remainder of the Chapter or the application of the provision to other persons or
+3 circumstances is not affected."
+4 SECTION 6.1.(b) All rules necessary for implementation of this section shall be
+5 adopted by October 1, 2023.
+6 SECTION 6.1.(c) There is appropriated from the General Fund to the Department
+7 of Commerce, Employer Grant Fund, the sum of nineteen million dollars ($19,000,000) for the
+8 2025-2026 fiscal year and the sum of thirty million dollars ($30,000,000) in the 2026-2027 fiscal
+9 year to offset employer costs of the Paid Family Medical Leave Act as enacted by this section.
+10 SECTION 6.1.(d) This section becomes effective July 1, 2025.
+11
+12 EFFECTIVE DATE
+13 SECTION 7.1. Except as otherwise provided, this act is effective when it becomes
+14 law.
+Page 12 DRS45359-LR-134
+
+[DELETED:  D W ( S  A A A R P C F S C C R T C T C I T S M W L G F T S A H L M W H C B C A H A P W T N C H F A F F T N C P F L I A T H W C I B E A A F F T P T  C S " e i c c S  R S e " ( C C b e d c c f a F A C]
+[DELETED:  S  D M U $  O  U $  O 0  H U $  O  U $  O 0  S U $  O  U $  O 0  M U $  O  U $  O 0  ( L t G a e q m ( C i m g a r o a o b t t o t t i i t P I c a S J  I S M W A A H L M S a " E w m 2 p i t s A l g m a a o e a l m t w S  I]
+[DELETED:  S  P S " ( C i C … ( T o p r l u u I I P   - I 4 I 1 5 … S 4  T s i e f t i f t y b  H S ( A ( E ( F ( F a I b W c H d s ( L g o ( P o t f o e m s p e ( T – A i w m r i t e o d p ( V S o u t H A F a u G t p S u f d p a a t o m i p c t p p F h s b l t t l o t s o t p p m]
+[DELETED:  S  D S r a r g t p o d p a a m i S 5  T i a f t G F t t H m p S  P S a " " " ( T L ( T ( A c w i w a i f a a f f a m ( A D ( C a M i s e c a m t r o G b M t c S ( C a A G o R w i ( u m t r o t ( o i o s o ( o i d b b b A t r b o m o m ( D – T D o E S o t D o C ( E]
+[DELETED:  S  P ( E e m a i p a c b t l t m T o R ( F t ( F a R l s l b A o a e o a e s o d p o a p w s i l p w t e o t e c A a l d A a o s r o t e o t e s e A t ( H l d ( N A ( Q i c p f m m f o l a f t m m a c a m e o c s o d ( R p a – D o a r g u t C i b n l t a t d s d f r a e s c o i s o t s c o i s o a f m o t e s a i i w o p f i a m]
+[DELETED:  S  D p C ( S h c – A i i i p r f c o p o m c t i i c ( S G " B i ( M a ( M a B f a n c d t f y a t b a o p b I c H d I n e B t b n o a i c o o t a d i t A " ( T b ( T b ( T b ( T t " ( T f ( T w b s b d a f ( t p o t c h a s i a w w t i m t o h a ( T a ( T m w b s n b l t o h d ( w s]
+[DELETED:  S  P ( F b t a ( t a w w d t t t c i ( F o " ( P u ( B F f S t s f ( T D ( T ( T f a ( T t ( i l ( T F h f t f a m l i p T c r a a a ( A r t ( A e s n d m t f p ( o t c r r " ( A p l b ( T m c c]
+[DELETED:  S  D t e ( N t " ( A i e e p w e s s e b p a o t a c o e i f b a s c t t c i ( D p G h l s c t l u t d t f a m l i b t c i l ( A e ( F d e t t a o ( a w s e b t o m s s o a c s e t i a e w h v t s o G w v t s w i g f a t t e h r t t t a a i d u c ( a ( o t s ( F s e r a m b a i e r ( A t o e ( T a b ( E t t a v]
+[DELETED:  S  P ( I t v " ( I d ( A o p a C p h t m a C ( I m d ( P a ( T s s b e a p i s ( t ( o G " ( L u F ( A e m r t p m p t t C b m c d e ( T f ( A ( A ( A ( A b t t " ( E e s p w n t e e u h a a e e t t ( c a]
+[DELETED:  S  D p u G a ( t t e h a r t f a c f v p r b p r ( E i " ( T f m ( J b h ( T i a " ( A f f s o m r a m f o w f t r a m ( I w a A o " ( A e c u t C f a i p o n l t t y T s r c i ( A s p w h e c m w f c w A s " ( T p D t ( T b s f ( T f]
+[DELETED:  S  P ( T d a ( I C p a p ( T D o C s a r a n t i t C " I u a t t " 9  F a m l i a f e a i ( T D m A ( W f e m p " T o r G F D f p a a p s m b a i t d t " B e o b p r f b o e a f l t u G " T r s T ( " T a "]
+[DELETED:  S  D I i c S a S o 2 y S  E S l]

@@ -1,0 +1,277 @@
+Title: SENATE BILL 494
+Official Title: SENATE BILL 494
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Limit the Scope of Certificate of Need Laws. (Public)
+Sponsors: Senator Jarvis (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT ENCOURAGING THE EXPANSION OF HEALTH CARE ACCESS BY
+3 ELIMINATING CERTIFICATE OF NEED LAWS IN ALL COUNTIES EXCEPT THOSE
+4 THAT HAVE A POPULATION OF LESS THAN ONE HUNDRED THOUSAND AND
+5 AT LEAST ONE FUNCTIONING HOSPITAL.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 9 of Chapter 131E of the General Statutes is amended by adding
+8 a new section to read:
+9 "§ 131E-175.5. Scope of Article.
+10 This Article applies only to counties that meet both of the following criteria:
+11 (1) Have a population of less than 100,000 according to the most recent federal
+12 decennial census.
+13 (2) Have at least one functioning hospital within the county."
+14 SECTION 2. Effective November 21, 2025, Section 3.2 of S.L. 2023-7 reads as
+15 rewritten:
+16 "SECTION 3.2.(a) G.S. 131E-176, as amended by Section 3.1 of this act, reads as rewritten:
+17 "§ 131E-176. Definitions.
+18 The following definitions apply in this Article:
+19 …
+20 (9b) Health service facility. – A hospital; long-term care hospital; rehabilitation
+21 facility; nursing home facility; adult care home; kidney disease treatment
+22 center, including freestanding hemodialysis units; intermediate care facility
+23 for individuals with intellectual disabilities; home health agency office;
+24 diagnostic center; hospice office, hospice inpatient facility, hospice residential
+25 care facility; and ambulatory surgical facility. The term "health service
+26 facility" does not include a qualified urban ambulatory surgical facility.
+27 …
+28 (16) New institutional health services. – Any of the following:
+29 …
+30 b. Except with respect to qualified urban ambulatory surgical facilities
+31 and except as otherwise provided in G.S. 131E-184(e), the obligation
+32 by any person of a capital expenditure exceeding four million dollars
+33 ($4,000,000) to develop or expand a health service or a health service
+34 facility, or which relates to the provision of a health service. The cost
+35 of any studies, surveys, designs, plans, working drawings,
+36 specifications, and other activities, including staff effort and
+*S494-v-1*
+General Assembly Of North Carolina Session 2025
+1 consulting and other services, essential to the acquisition,
+2 improvement, expansion, or replacement of any plant or equipment
+3 with respect to which an expenditure is made shall be included in
+4 determining if the expenditure exceeds four million dollars
+5 ($4,000,000). Beginning September 30, 2022, and on September 30
+6 each year thereafter, the amount in this sub-subdivision shall be
+7 adjusted using the Medical Care Index component of the Consumer
+8 Price Index published by the U.S. Department of Labor for the
+9 12-month period preceding the previous September 1.
+10 …
+11 (21a) Qualified urban ambulatory surgical facility. – An ambulatory surgical facility
+12 that meets all of the following criteria:
+13 a. Is licensed by the Department to operate as an ambulatory surgical
+14 facility.
+15 b. Has a single specialty or multispecialty ambulatory surgical program.
+16 c. Is located in a county with a population greater than 125,000 according
+17 to the 2020 federal decennial census or any subsequent federal
+18 decennial census.has elected to opt out of the certificate of need
+19 requirements prescribed by this Article by obtaining a license as a
+20 qualified ambulatory surgical facility under Part 4 of Article 6 of this
+21 Chapter.
+22 …
+23 (24f) Specialty ambulatory surgical program. – A formal program for providing on
+24 a same-day basis surgical procedures of the same surgical specialty and
+25 authorized by its certificate of need, if a certificate of need is required.
+26 …."
+27 "SECTION 3.2.(b) G.S. 131E-146 is amended by adding a new subdivision to read:
+28 "(3) "Qualified urban ambulatory surgical facility" means an ambulatory surgical
+29 facility licensed under this Part that has elected to opt out of the certificate of
+30 need requirements prescribed by Article 9 of this Chapter and demonstrates to
+31 the satisfaction of the Department that the facility meets the definition of
+32 G.S. 131E-176(21a).both of the following criteria:
+33 a. Has a single specialty or multispecialty ambulatory surgical program.
+34 b. Has agreed to adhere to the charity care and reporting requirements
+35 established by G.S. 131E-147.5."
+36 "SECTION 3.2.(b1) G.S. 131E-147 reads as rewritten:
+37 "§ 131E-147. Licensure requirement.
+38 (a) No person shall operate an ambulatory surgical facility or a qualified ambulatory
+39 surgical facility without a license obtained from the Department.
+40 (b) Applications shall be available from the Department, and each application filed with
+41 the Department shall contain all necessary and reasonable information that the Department may
+42 by rule require. A license shall be granted to the applicant upon a determination by the
+43 Department that the applicant has complied with the provisions of this Part and the rules
+44 promulgated by the Commission under this Part. The Department shall charge the applicant a
+45 nonrefundable annual base license fee in the amount of eight hundred fifty dollars ($850.00) plus
+46 a nonrefundable annual per-operating room fee in the amount of seventy-five dollars ($75.00).
+47 (c) A license to operate an ambulatory surgical facility or a qualified ambulatory surgical
+48 facility shall be annually renewed upon the filing and the department's approval of a renewal
+49 application. The renewal application shall be available from the Department and shall contain all
+50 necessary and reasonable information that the Department may by rule require.
+51 …."
+Page 2 Senate Bill 494-First Edition
+General Assembly Of North Carolina Session 2025
+1 "SECTION 3.2.(c) Part 4 of Article 6 of Chapter 131E of the General Statutes is amended
+2 by adding a new section to read:
+3 "§ 131E-147.5. Charity care requirement for qualified urban ambulatory surgical
+4 facilities; annual report.
+5 (a) The percentage of each qualified urban ambulatory surgical facility's total earned
+6 revenue that is attributed to self-pay and Medicaid revenue shall be equivalent to at least four
+7 percent (4%), calculated as follows: the Medicare allowable amount for self-pay and Medicaid
+8 surgical cases minus all revenue earned from self-pay and Medicaid cases, divided by the total
+9 earned revenues for all surgical cases, divided by the total earned revenues for all surgical cases
+10 performed in the facility for procedures for which there is a Medicare allowable fee.
+11 (b) Each qualified urban ambulatory surgical facility shall annually report to the
+12 Department in the manner prescribed by the Department the percentage of the facility's earned
+13 revenue that is attributed to self-pay and Medicaid revenue, as calculated in accordance with
+14 subsection (a) of this section."
+15 "SECTION 3.2.(d) Subsections (a) through (c) of this section become effective two years
+16 from the date the Department of Health and Human Services (DHHS) issues the first directed
+17 payment in accordance with the Healthcare Access and Stabilization Program (HASP) under
+18 G.S. 108A-148.1, as enacted by Section 1.4 of this act, and applies to activities occurring on or
+19 after that date. The Secretary of Health and Human Services shall notify the Revisor of Statutes
+20 when the DHHS has issued the first directed payment in accordance with HASP and the date of
+21 issuance. If the DHHS has not made any HASP directed payments by June 30, 2025, then
+22 subsections (a) and (b) of this section shall expire on that date.
+23 "SECTION 3.2.(e) Except as otherwise provided, this section is effective when it becomes
+24 law."
+25 SECTION 3. Section 3.3 of S.L. 2023-7 is repealed.
+26 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+27 law.
+Senate Bill 494-First Edition Page 3
+[DELETED:  1 L ( S R A A A E T E O H C A B E T A T S a " T ( H d ( H S r " " T … ( H f n h f a c h k d t c f i w i d h h a o d c f a a s f T t " s f … ( N … b E a b ( f o a s s d p w d s a o a i s e a]
+[DELETED:  S  S c a o s e t t a i w a d i t e e f m d ( e y t t a i t s s b a P I p b t U D o L f t 1 … ( Q t a I f b H c I t t 2 f d c o a s f d c e t o o o t c o n r q C … ( S a s b s p o t s s s a a … " " " f n t f m G a H b H e " " ( N s ( A t b r r A l s b g t t a u a d b t D t t a h c w t p o t P a t r p n a ( A f a n …]
+[DELETED:  S  P " b " 1  C c r f q u a s f ( T r p s e p ( E q u a s f s a r t t D r s " f p G a w i I D h n m a H d p b J 3 2 t s " l S S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 494
+Short Title: Limit the Scope of Certificate of Need Laws. (Public)
+Sponsors: Senator Jarvis (Primary Sponsor).
+Referred to: Rules and Operations of the Senate
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT ENCOURAGING THE EXPANSION OF HEALTH CARE ACCESS BY
+3 ELIMINATING CERTIFICATE OF NEED LAWS IN ALL COUNTIES EXCEPT THOSE
+4 THAT HAVE A POPULATION OF LESS THAN ONE HUNDRED THOUSAND AND
+5 AT LEAST ONE FUNCTIONING HOSPITAL.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 9 of Chapter 131E of the General Statutes is amended by adding
+8 a new section to read:
+9 "§ 131E-175.5. Scope of Article.
+10 This Article applies only to counties that meet both of the following criteria:
+11 (1) Have a population of less than 100,000 according to the most recent federal
+12 decennial census.
+13 (2) Have at least one functioning hospital within the county."
+14 SECTION 2. Effective November 21, 2025, Section 3.2 of S.L. 2023-7 reads as
+15 rewritten:
+16 "SECTION 3.2.(a) G.S. 131E-176, as amended by Section 3.1 of this act, reads as rewritten:
+17 "§ 131E-176. Definitions.
+18 The following definitions apply in this Article:
+19 …
+20 (9b) Health service facility. – A hospital; long-term care hospital; rehabilitation
+21 facility; nursing home facility; adult care home; kidney disease treatment
+22 center, including freestanding hemodialysis units; intermediate care facility
+23 for individuals with intellectual disabilities; home health agency office;
+24 diagnostic center; hospice office, hospice inpatient facility, hospice residential
+25 care facility; and ambulatory surgical facility. The term "health service
+26 facility" does not include a qualified urban ambulatory surgical facility.
+27 …
+28 (16) New institutional health services. – Any of the following:
+29 …
+30 b. Except with respect to qualified urban ambulatory surgical facilities
+31 and except as otherwise provided in G.S. 131E-184(e), the obligation
+32 by any person of a capital expenditure exceeding four million dollars
+33 ($4,000,000) to develop or expand a health service or a health service
+34 facility, or which relates to the provision of a health service. The cost
+35 of any studies, surveys, designs, plans, working drawings,
+36 specifications, and other activities, including staff effort and
+*S494-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 consulting and other services, essential to the acquisition,
+2 improvement, expansion, or replacement of any plant or equipment
+3 with respect to which an expenditure is made shall be included in
+4 determining if the expenditure exceeds four million dollars
+5 ($4,000,000). Beginning September 30, 2022, and on September 30
+6 each year thereafter, the amount in this sub-subdivision shall be
+7 adjusted using the Medical Care Index component of the Consumer
+8 Price Index published by the U.S. Department of Labor for the
+9 12-month period preceding the previous September 1.
+10 …
+11 (21a) Qualified urban ambulatory surgical facility. – An ambulatory surgical facility
+12 that meets all of the following criteria:
+13 a. Is licensed by the Department to operate as an ambulatory surgical
+14 facility.
+15 b. Has a single specialty or multispecialty ambulatory surgical program.
+16 c. Is located in a county with a population greater than 125,000 according
+17 to the 2020 federal decennial census or any subsequent federal
+18 decennial census.has elected to opt out of the certificate of need
+19 requirements prescribed by this Article by obtaining a license as a
+20 qualified ambulatory surgical facility under Part 4 of Article 6 of this
+21 Chapter.
+22 …
+23 (24f) Specialty ambulatory surgical program. – A formal program for providing on
+24 a same-day basis surgical procedures of the same surgical specialty and
+25 authorized by its certificate of need, if a certificate of need is required.
+26 …."
+27 "SECTION 3.2.(b) G.S. 131E-146 is amended by adding a new subdivision to read:
+28 "(3) "Qualified urban ambulatory surgical facility" means an ambulatory surgical
+29 facility licensed under this Part that has elected to opt out of the certificate of
+30 need requirements prescribed by Article 9 of this Chapter and demonstrates to
+31 the satisfaction of the Department that the facility meets the definition of
+32 G.S. 131E-176(21a).both of the following criteria:
+33 a. Has a single specialty or multispecialty ambulatory surgical program.
+34 b. Has agreed to adhere to the charity care and reporting requirements
+35 established by G.S. 131E-147.5."
+36 "SECTION 3.2.(b1) G.S. 131E-147 reads as rewritten:
+37 "§ 131E-147. Licensure requirement.
+38 (a) No person shall operate an ambulatory surgical facility or a qualified ambulatory
+39 surgical facility without a license obtained from the Department.
+40 (b) Applications shall be available from the Department, and each application filed with
+41 the Department shall contain all necessary and reasonable information that the Department may
+42 by rule require. A license shall be granted to the applicant upon a determination by the
+43 Department that the applicant has complied with the provisions of this Part and the rules
+44 promulgated by the Commission under this Part. The Department shall charge the applicant a
+45 nonrefundable annual base license fee in the amount of eight hundred fifty dollars ($850.00) plus
+46 a nonrefundable annual per-operating room fee in the amount of seventy-five dollars ($75.00).
+47 (c) A license to operate an ambulatory surgical facility or a qualified ambulatory surgical
+48 facility shall be annually renewed upon the filing and the department's approval of a renewal
+49 application. The renewal application shall be available from the Department and shall contain all
+50 necessary and reasonable information that the Department may by rule require.
+51 …."
+Page 2 Senate Bill 494-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 "SECTION 3.2.(c) Part 4 of Article 6 of Chapter 131E of the General Statutes is amended
+2 by adding a new section to read:
+3 "§ 131E-147.5. Charity care requirement for qualified urban ambulatory surgical
+4 facilities; annual report.
+5 (a) The percentage of each qualified urban ambulatory surgical facility's total earned
+6 revenue that is attributed to self-pay and Medicaid revenue shall be equivalent to at least four
+7 percent (4%), calculated as follows: the Medicare allowable amount for self-pay and Medicaid
+8 surgical cases minus all revenue earned from self-pay and Medicaid cases, divided by the total
+9 earned revenues for all surgical cases, divided by the total earned revenues for all surgical cases
+10 performed in the facility for procedures for which there is a Medicare allowable fee.
+11 (b) Each qualified urban ambulatory surgical facility shall annually report to the
+12 Department in the manner prescribed by the Department the percentage of the facility's earned
+13 revenue that is attributed to self-pay and Medicaid revenue, as calculated in accordance with
+14 subsection (a) of this section."
+15 "SECTION 3.2.(d) Subsections (a) through (c) of this section become effective two years
+16 from the date the Department of Health and Human Services (DHHS) issues the first directed
+17 payment in accordance with the Healthcare Access and Stabilization Program (HASP) under
+18 G.S. 108A-148.1, as enacted by Section 1.4 of this act, and applies to activities occurring on or
+19 after that date. The Secretary of Health and Human Services shall notify the Revisor of Statutes
+20 when the DHHS has issued the first directed payment in accordance with HASP and the date of
+21 issuance. If the DHHS has not made any HASP directed payments by June 30, 2025, then
+22 subsections (a) and (b) of this section shall expire on that date.
+23 "SECTION 3.2.(e) Except as otherwise provided, this section is effective when it becomes
+24 law."
+25 SECTION 3. Section 3.3 of S.L. 2023-7 is repealed.
+26 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+27 law.
+Senate Bill 494-First Edition Page 3
+
+[DELETED:  1 L ( S R A A A E T E O H C A B E T A T S a " T ( H d ( H S r " " T … ( H f n h f a c h k d t c f i w i d h h a o d c f a a s f T t " s f … ( N … b E a b ( f o a s s d p w d s a o a i s e a]
+[DELETED:  S  S c a o s e t t a i w a d i t e e f m d ( e y t t a i t s s b a P I p b t U D o L f t 1 … ( Q t a I f b H c I t t 2 f d c o a s f d c e t o o o t c o n r q C … ( S a s b s p o t s s s a a … " " " f n t f m G a H b H e " " ( N s ( A t b r r A l s b g t t a u a d b t D t t a h c w t p o t P a t r p n a ( A f a n …]
+[DELETED:  S  P " b " 1  C c r f q u a s f ( T r p s e p ( E q u a s f s a r t t D r s " f p G a w i I D h n m a H d p b J 3 2 t s " l S S l]

@@ -1,0 +1,1187 @@
+Title: SENATE BILL 491
+Official Title: SENATE BILL 491
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: NC Debt Settlement Services Act. (Public)
+Sponsors: Senators Johnson, Overcash, and Jackson (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO LICENSE, EXAMINE, AND REGULATE DEBT SETTLEMENT SERVICES IN
+3 THE STATE OF NORTH CAROLINA.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 53 of the General Statutes is amended by adding a new Article
+6 to read:
+7 "Article 26.
+8 "North Carolina Debt Settlement Services Act.
+9 "§ 53-441. Title.
+10 This Article may be cited as the North Carolina Debt Settlement Services Act.
+11 "§ 53-442. Definitions.
+12 In this Article, the following definitions apply:
+13 (1) Commission. – The State Banking Commission.
+14 (2) Commissioner. – The Commissioner of Banks.
+15 (3) Consumer reporting agency. – Defined in 15 U.S.C. § 1681a(f).
+16 (4) Covered military member. – A member of the Armed Forces to which either
+17 of the following applies:
+18 a. The member is on active duty for a period of more than 30 days, as
+19 defined in 10 U.S.C. § 101(d).
+20 b. The member is on active Guard and Reserve duty, as defined in 10
+21 U.S.C. § 101(d), with a rank of E4 or below.
+22 (5) Creditor. – Includes persons that extend credit to, or persons that service loans
+23 made to, debtors. This term does not include doctors, lawyers, or other
+24 professionals who receive payment for their services in installments or
+25 persons whose only participation in a credit transaction is to honor a credit
+26 card.
+27 (6) Debt collector. – A debt collector, as defined in 15 U.S.C. § 1692a, or a
+28 collection agency, as defined in G.S. 58-70-15.
+29 (7) Debt management organization. – An organization that satisfies all of the
+30 following requirements:
+31 a. Provides individualized credit counseling and budgeting assistance to
+32 a debtor without charge prior to the debtor's enrollment in a debt
+33 management plan.
+34 b. Determines that the debtor has the financial ability to make payments
+35 to complete the debt management plan and that the plan is suitable for
+36 the debtor.
+*S491-v-1*
+General Assembly Of North Carolina Session 2025
+1 c. Disburses the debtor's funds to creditors pursuant to a debt
+2 management plan that the debtor has paid for with nominal
+3 consideration and has agreed to in a record.
+4 d. Provides to the debtor, periodically and on no less than a quarterly
+5 basis, an individualized accounting for the most recent period of all of
+6 the debtor's payments and disbursements under the debt management
+7 plan and all charges paid by the debtor.
+8 e. Does not directly or indirectly require the debtor to purchase other
+9 services or materials as a condition to participating in the debt
+10 management plan.
+11 f. Does not receive a payment, commission, or other benefit for referring
+12 the debtor to a provider of services.
+13 g. Is accredited by an accrediting organization that the Commissioner of
+14 Banks approves as being independent and nationally recognized for
+15 providing accreditation to organizations that provide credit counseling
+16 and debt management services.
+17 (8) Debt settlement services. – Any action or negotiation initiated or taken on
+18 behalf of a debtor with any creditor of the debtor for the purpose of obtaining
+19 debt forgiveness of all or a portion of the credit extended by the creditor to the
+20 debtor or a reduction of payments, charges, or fees payable by the debtor. With
+21 respect to student loan forgiveness or student loan payment reduction
+22 programs established under federal or State law and widely available to
+23 similarly situated debtors at no cost, the facilitation of enrollment in or
+24 qualification for these programs does not constitute an action or negotiation.
+25 (9) Debtor. – An individual who resides in this State or an entity registered to do
+26 business in this State. The term includes two or more individuals who are
+27 jointly or severally, or jointly and severally, indebted to a creditor.
+28 (10) Duplicate original. – An exact copy with signatures created by the same
+29 impression as the original, an exact copy bearing an original signature, or, in
+30 the case of an electronic transaction, an electronic version with electronic
+31 signatures.
+32 (11) Electronic signature. – Defined in G.S. 66-312.
+33 (12) Licensee. – A person licensed under this Article.
+34 (13) Nominal consideration. – A fee to cover the cost of administering a debt
+35 management plan not to exceed forty dollars ($40.00) for origination or setup
+36 of the debt management plan and ten percent (10%) of the monthly payment
+37 disbursed under the debt management plan, not to exceed forty dollars
+38 ($40.00) per month.
+39 (14) Principal. – A person that, directly or indirectly, owns or controls ten percent
+40 (10%) or more of the outstanding stock of a corporation or a ten percent (10%)
+41 or greater interest in a person.
+42 "§ 53-443. Rules by Commissioner.
+43 The Commissioner may make rules to implement this Article.
+44 "§ 53-444. License requirement; exceptions.
+45 (a) No person shall engage in the business of providing or offering to provide debt
+46 settlement services to any debtor, whether or not the person has an office, facility, agent, or other
+47 physical presence in the State, unless the person obtains from the Commissioner a license issued
+48 pursuant to this Article. This Article does not apply to any bank, savings institution, credit union,
+49 refund anticipation loan act licensee under Article 20 of this Chapter, trust company doing
+50 business under Chapter 53C of the General Statutes, savings and loan association doing business
+51 under Chapter 54 or 54B of the General Statutes, savings bank doing business under Chapter 54C
+Page 2 Senate Bill 491-First Edition
+General Assembly Of North Carolina Session 2025
+1 of the General Statutes, consumer finance licensee under Article 15 of this Chapter, or any person
+2 licensed to practice law in this State.
+3 (b) A debt management organization is not required to be licensed under this Article if it
+4 offers to provide or provides debt settlement services solely in connection with offering to
+5 provide or providing debt management plans. A nonprofit organization providing credit
+6 counseling services that satisfies the requirements of 26 U.S.C. § 501(q) is also not required to
+7 be licensed under this Article.
+8 (c) This Article shall be construed by the Commissioner to promote sound personal
+9 financial advice and management.
+10 "§ 53-445. Application for license; form; content; fee.
+11 (a) An application for a license under this Article shall be made in a record, under oath,
+12 and on a form provided by the Commissioner.
+13 (b) The application shall include all of the following:
+14 (1) The name and address of the applicant and the following:
+15 a. If the applicant is a partnership, firm, or association, the name and
+16 address of each partner or member.
+17 b. If the applicant is a corporation or limited liability company, the name
+18 and address of each director, member, registered agent, and principal.
+19 c. If the applicant is a business trust, the name and address of each trustee
+20 and beneficiary.
+21 (2) The name and address of each manager and officer of the applicant.
+22 (3) The address of each location of the applicant.
+23 (4) The financial statements of the applicant.
+24 (5) A current copy of the applicant's standard debt settlement services agreement.
+25 (6) The applicant's consent to a federal and State criminal history record check
+26 and a set of the applicant's fingerprints in a form acceptable to the
+27 Commissioner. In the case of an applicant that is a person other than a natural
+28 person, each individual who has control of the applicant or who is the
+29 qualifying individual or a branch manager shall consent to a federal and State
+30 criminal history record check and submit a set of that individual's fingerprints.
+31 (7) Payment of an application fee of two thousand dollars ($2,000). The
+32 application fee shall not be refundable and shall not be abated by surrender,
+33 suspension, or revocation of the license.
+34 (8) Any other information required by the Commissioner concerning the financial
+35 responsibility, background, experience, and activities of the applicant and the
+36 persons described in this section.
+37 "§ 53-446. Surety bond.
+38 (a) Applicants shall be required to post a surety bond with the Commissioner at the time
+39 of the application for licensure and each licensee shall maintain a surety bond in the amount of
+40 one million dollars ($1,000,000).
+41 (b) The surety bond shall be in a form satisfactory to the Commissioner and shall run to
+42 the State for the benefit of any claimants against the licensee to secure the faithful performance
+43 of the obligations of the licensee with respect to debt settlement engagements. The Commissioner
+44 has the discretion to require the applicant to obtain additional insurance coverage to address
+45 related cybersecurity risks inherent in the applicant's business model as it relates to debt
+46 settlement engagements and to the extent these risks are not within the scope of the required
+47 surety bond.
+48 (c) The aggregate liability of the surety in no event shall exceed the principal sum of the
+49 bond. Claimants against the licensee may themselves bring suit directly on the security bond, or
+50 the Commissioner may bring suit on behalf of claimants, either in one action or in successive
+51 actions.
+Senate Bill 491-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (d) The surety bond shall remain in effect until cancellation, which may occur only after
+2 90 days' written notice to the Commissioner. Cancellation does not affect any liability incurred
+3 or accrued during that period.
+4 (e) The surety bond shall remain in place for no less than five years after the licensee's
+5 debt settlement operations cease in this State. However, the Commissioner may permit the surety
+6 bond to be reduced or eliminated prior to that time to the extent of the amount of the licensee's
+7 outstanding enrolled debt.
+8 (f) The surety bond proceeds are deemed by operation of law to be held in trust for the
+9 benefit of the debtors in a debt settlement engagement in the event of the bankruptcy of the
+10 licensee.
+11 "§ 53-447. Qualifications.
+12 (a) After investigating an applicant, the Commissioner shall issue to the applicant a
+13 license at the locations specified in the application if the Commissioner finds all of the following:
+14 (1) The financial responsibility, character, reputation, experience, and general
+15 fitness of the applicant and its members, officers, directors, trustees, and
+16 principals warrant belief that the business will be operated efficiently and
+17 fairly, in the public interest, and in accordance with law.
+18 (2) The applicant has made acceptable provision for the avoidance of conflicts of
+19 interest.
+20 (3) No more than one-third of the board of directors or managing members are
+21 employees, officers, members, principals, trustees, directors, agents, or other
+22 representatives of organizations that grant credit to consumers.
+23 (4) The applicant is not the subject of any pending material administrative
+24 proceedings by any governmental authority and has not received a materially
+25 adverse determination in any past administrative proceedings by any
+26 governmental authority. The Commissioner has sole discretion to determine
+27 the materiality of any proceedings or determinations.
+28 (5) The applicant has complied with this Article and any rules adopted under it.
+29 (b) If the Commissioner fails to make these findings, no license shall be issued, and the
+30 Commissioner shall notify the applicant of the denial and the reasons for the denial.
+31 (c) A license shall not be issued to a creditor or debt collector.
+32 "§ 53-448. Licenses; places of business; changes.
+33 (a) Each license shall state the address or addresses at which the business is to be
+34 conducted and shall fully state the legal name of the licensee, as well as any assumed business
+35 name by which the licensee is operating in this State, whether physically or electronically. Each
+36 license shall be posted prominently in each place of business of the licensee. Licenses are not
+37 transferable or assignable, by operation of law or otherwise. No licensee shall use any name in
+38 this State other than the legal name or assumed business name set forth in the license.
+39 (b) No licensee shall open an additional office or relocate any place of business without
+40 prior approval of the Commissioner. Applications for this approval shall be made in a record on
+41 a form provided by the Commissioner and shall be accompanied by payment of a five hundred
+42 dollar ($500.00) nonrefundable application fee. The application shall be approved unless the
+43 Commissioner finds that the applicant has not conducted business under this Article efficiently,
+44 fairly, in the public interest, and in accordance with law. The application is deemed approved if
+45 notice to the contrary has not been mailed by the Commissioner to the applicant within 30 days
+46 of the date the application is received by the Commissioner; however, the Commissioner may
+47 extend this period for good cause. After approval, the applicant shall give notice in a record to
+48 the Commissioner within 20 days of the commencement of business at the additional location or
+49 relocated place of business.
+Page 4 Senate Bill 491-First Edition
+General Assembly Of North Carolina Session 2025
+1 (c) A licensee shall notify the Commissioner in a record of the closing of any business
+2 location within 20 days of the closing. A licensee shall provide any other information regarding
+3 the closing that the Commissioner requires.
+4 (d) A license shall remain in force until it has been surrendered, revoked, or suspended.
+5 The surrender, revocation, or suspension of a license does not affect any preexisting legal right
+6 or obligation of the licensee.
+7 "§ 53-449. Acquisition of control; application.
+8 (a) Except as otherwise provided in this section, no person shall acquire, directly or
+9 indirectly, twenty-five percent (25%) or more of the ownership of a licensee, or, if the licensee
+10 is a corporation, twenty-five percent (25%) of its voting shares, unless the person first does all of
+11 the following:
+12 (1) Files an application with the Commissioner in a form prescribed by the
+13 Commissioner.
+14 (2) Submits any information required by the Commissioner concerning the
+15 financial responsibility, background, experience, and activities of the person,
+16 its directors, officers, trustees, beneficiaries, principals, and members, and any
+17 proposed new directors, officers, principals, or members of the licensee.
+18 (3) Pays an application fee in an amount prescribed by the Commissioner.
+19 (b) After investigating the applicant, the Commissioner shall permit the applicant to
+20 acquire the interest in the licensee if it finds that the applicant and its directors, officers, members,
+21 trustees, beneficiaries, and principals, and any proposed new directors, officers, principals, or
+22 members of the licensee have the financial responsibility, character, reputation, experience, and
+23 general fitness to warrant belief that the business will be operated efficiently and fairly, in the
+24 public interest, and in accordance with law. The Commissioner shall grant or deny the application
+25 within 60 days from the date a completed application accompanied by the required fee is filed
+26 unless the period is extended by the Commissioner. If the Commissioner extends this period, the
+27 Commissioner shall notify the applicant of the reasons for the extension. If the application is
+28 denied, the Commissioner shall notify the applicant of the denial and the reasons for the denial.
+29 (c) This section does not apply to any of the following:
+30 (1) The acquisition of an interest in a licensee, directly or indirectly, including an
+31 acquisition by merger or consolidation, by or with another licensee.
+32 (2) The acquisition of an interest in a licensee, directly or indirectly, including an
+33 acquisition by merger or consolidation, by or with a person affiliated through
+34 common ownership with the licensee.
+35 (3) The acquisition of an interest in a licensee by a person by devise, descent,
+36 survivorship, or operation of law.
+37 (d) A person acquiring an interest in a licensee in a transaction described in subsection
+38 (c) of this section shall send written notice to the Commissioner of the acquisition within 30 days
+39 of its closing.
+40 "§ 53-450. Retention of books, accounts, and records; responding to the Commissioner.
+41 (a) A licensee shall maintain in its offices any books, accounts, and records required by
+42 the Commissioner to determine whether the licensee is complying with this Article and rules
+43 adopted under it. These books, accounts, and records shall be maintained separately from any
+44 other business in which the licensee is involved. Records relating to debt settlement services
+45 agreements shall be retained for at least three years after the debt settlement services agreements
+46 are terminated. To safeguard the privacy of debtors, records containing personal financial
+47 information shall be shredded, incinerated, or otherwise disposed of in a secure manner.
+48 Licensees may arrange for disposal from a business record destruction vendor.
+49 (b) If the Commissioner requests a response in a record from the licensee, or any books,
+50 accounts, records, or other documents from a licensee, the licensee shall submit a response in a
+51 record, along with the requested documents, within the time period specified by the
+Senate Bill 491-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 Commissioner. In determining this time period or whether to extend this time period, the
+2 Commissioner shall consider the volume and complexity of the request. If the Commissioner
+3 does not specify a time period, the licensee shall respond within 30 days of the request.
+4 (c) No person shall make any false statement or knowingly and willfully make any
+5 omission of a material fact in connection with any information or report filed with the
+6 Commissioner or another governmental agency, or in connection with any oral or written
+7 communication with the Commissioner or another governmental agency. If the information
+8 contained in any document filed with the Commissioner or at the direction of the Commissioner
+9 becomes inaccurate or incomplete in any material respect, the licensee or exempt person shall
+10 within 30 days file a correcting amendment to the information contained in the document.
+11 (d) The Commissioner may, by rule, impose terms and conditions under which the
+12 records and files of a licensee may be maintained outside this State. A principal place of business
+13 shall not be located at an individual's home or residence. A licensee shall maintain a record of
+14 the principal place of business with the Commissioner and report any change of address of the
+15 principal place of business or any branch office within 15 days after the change.
+16 "§ 53-451. Annual report.
+17 A licensee shall submit a report in a record to the Commissioner no later than 90 days after
+18 the end of each calendar year. The report shall be made under oath and shall be in a form
+19 prescribed by the Commissioner. The report shall contain any information required by the
+20 Commissioner concerning the licensee's business and operations during the prior calendar year
+21 as well as all of the following data:
+22 (1) The number of debts and the delinquency status of each debt enrolled at the
+23 time of contract enrollment for debt settlement services as follows:
+24 a. Delinquent for 60 to 89 days.
+25 b. Delinquent for 90 to 119 days.
+26 c. Delinquent for 120 to 179 days.
+27 d. Delinquent for 180 days or more.
+28 (2) The number of debtors enrolled in debt settlement services in the prior
+29 calendar year.
+30 (3) The number of debts enrolled by debtors in debt settlement services in the
+31 prior calendar year.
+32 (4) The total dollar amount of debts placed in debt settlement services with the
+33 licensee.
+34 (5) The number and dollar amount of settlements paid by debtors enrolled in debt
+35 settlement services.
+36 (6) The number of debts enrolled in debt settlement services that failed to reach
+37 settlement.
+38 (7) The number of debtors that had a contract with the licensee at some point
+39 during the prior calendar year that have filed for bankruptcy under the United
+40 States Bankruptcy Code, Title 11 of the United States Code.
+41 (8) Total dollar amount of fees for all charges to debtors enrolled in debt
+42 settlement services.
+43 "§ 53-452. Other reporting requirements.
+44 (a) Within 15 days after any of the following events, a licensee shall submit a report in a
+45 record to the Commissioner describing the event and its expected impact on its business:
+46 (1) The filing of bankruptcy, reorganization, or receivership proceedings by or
+47 against the licensee.
+48 (2) The institution of administrative proceedings against the licensee by any
+49 governmental authority.
+50 (3) The institution of an action against the licensee by the Attorney General or
+51 any other governmental authority.
+Page 6 Senate Bill 491-First Edition
+General Assembly Of North Carolina Session 2025
+1 (4) Any felony indictment of the licensee or any of its members, partners,
+2 directors, officers, trustees, beneficiaries, or principals, if known.
+3 (5) Any felony conviction of the licensee or any of its members, partners,
+4 directors, officers, trustees, beneficiaries, or principals, if known.
+5 (6) Any other event prescribed by the Commissioner by rule.
+6 (b) Within 30 days after a judgment against a licensee in a civil action relating to the debt
+7 settlement services agreement with a debtor, the licensee shall submit a report in a record to the
+8 Commissioner describing the event and its expected impact on the business of the licensee.
+9 (c) Within 10 days after receipt of a qualified audit, a licensee shall notify the
+10 Commissioner and describe what steps are being taken to address the concerns raised in the audit.
+11 "§ 53-453. Investigations; examinations.
+12 (a) The Commissioner may, as often as the Commissioner deems necessary, investigate
+13 and examine the affairs, business, premises, records, and filed complaints related to any person
+14 licensed or required to be licensed under this Article to determine whether the business complies
+15 with this Article and rules adopted under it. Examinations of licensees shall be conducted at least
+16 once every three years. During an investigation or examination, the owners, members, officers,
+17 directors, partners, trustees, beneficiaries, and employees of the person being investigated or
+18 examined shall, upon demand of the Commissioner, afford full access to all premises, books,
+19 records, and information.
+20 (b) The Commissioner may do one or more of the following pursuant to an investigation
+21 or examination under this section:
+22 (1) Issue subpoenas, including subpoenas duces tecum.
+23 (2) Compel the attendance of witnesses and the production of any documents.
+24 (3) Administer oaths, conduct hearings, and transcribe testimony.
+25 (4) Give publicity to the examination or investigation if the Commissioner deems
+26 it best for the public interest.
+27 "§ 53-454. Confidential information; shared agreements with other governmental agencies.
+28 (a) Notwithstanding any State law to the contrary, the Commissioner shall report
+29 enforcement actions under this Article and may report other relevant information.
+30 (b) The Commissioner may enter agreements or sharing arrangements with other
+31 governmental agencies, the Conference of State Bank Supervisors, or other associations
+32 representing governmental agencies and may share otherwise confidential information pursuant
+33 to these written agreements.
+34 (c) The requirements of G.S. 53C-2-7 regarding the privacy or confidentiality of any
+35 information or material provided under subsections (a) and (b) of this section, and any privilege
+36 arising under any other federal or State law with respect to the information or material, continue
+37 to apply to the information or material after it has been disclosed to an entity described in
+38 subsection (a) or (b) of this section. Information or material held by the entity is not subject to
+39 disclosure under any State law governing the disclosure to the public of information held by an
+40 officer or agency of the State. The entities described in subsections (a) and (b) of this section
+41 may share information and material with all State and federal regulatory officials with debt
+42 settlement industry oversight authority without the loss of privilege or the loss of confidentiality
+43 protections provided by State or federal law.
+44 (d) Any provision of Chapter 132 of the General Statutes relating to the disclosure of
+45 confidential supervisory information or of any information or material described in subsection
+46 (a) of this section that is inconsistent with this section is superseded by the requirements of this
+47 section.
+48 (e) The confidentiality provisions contained in subsection (c) of this section do not apply
+49 to information or material relating to the employment history of and publicly adjudicated
+50 disciplinary and enforcement actions for debt settlement service providers.
+51 "§ 53-455. Annual fees; reimbursement of travel expenses.
+Senate Bill 491-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (a) To defray the costs of the regulation of licensees, a licensee shall pay an annual fee
+2 of one thousand dollars ($1,000). A licensee shall also pay to the Commissioner an assessment
+3 not to exceed eighteen dollars ($18.00) per one hundred thousand dollars ($100,000) of debt
+4 enrolled in debt settlement services. All fees shall be assessed on or after November 1 each
+5 calendar year, and all fees shall be paid by the licensee on or before July 1 following each
+6 assessment.
+7 (b) In addition to the annual fee, if it becomes necessary to examine the books, accounts,
+8 and records of a licensee at a location outside this State, the licensee is liable for and shall pay to
+9 the Commissioner, within 30 days after the presentation of an itemized statement, the actual
+10 travel and subsistence expenses incurred on account of the Commissioner's examination, or shall
+11 pay a per diem to the Commissioner at a rate approved by the Commission.
+12 "§ 53-456. Licensees providing debt settlement services; prohibited and required business
+13 methods.
+14 A licensee engaged in the business of providing or offering to provide debt settlement
+15 services to any debtor shall comply with all of the following requirements:
+16 (1) Each debt settlement services agreement shall be in a record and shall be
+17 signed by the debtor and an individual representing the licensee. The
+18 agreement may be signed by the parties either in writing or electronically. The
+19 agreement shall set forth all of the following:
+20 a. The name and address of both the debtor and the licensee.
+21 b. A full description of all services to be performed for the debtor by the
+22 licensee.
+23 c. A clear explanation, highlighted in bold type, of the costs to the debtor.
+24 d. A statement that the debt settlement services agreement may be
+25 terminated for any reason by the debtor and that the debtor has no
+26 obligation to continue the arrangement unless satisfied with the
+27 services provided.
+28 e. An explanation of the method of dispute resolution under the
+29 agreement.
+30 f. An explanation of the obligations of the debtor and the licensee.
+31 g. Notification of privacy policies in compliance with State and federal
+32 law.
+33 h. The phone number, email, and physical address of the North Carolina
+34 Commissioner of Banks and the North Carolina Consumer Protection
+35 Division of the North Carolina Office of Justice for the purpose of
+36 filing complaints related to debt settlement services.
+37 (2) A licensee shall give to the debtor a duplicate original of the agreement
+38 executed by the debtor and licensee upon execution.
+39 (3) A licensee shall not request or receive payment or other compensation for any
+40 debt settlement services until and unless:
+41 a. The licensee has negotiated, settled, reduced, or otherwise altered the
+42 terms of at least one debt pursuant to the debt settlement services
+43 agreement.
+44 b. The debtor has made at least one payment to a creditor following the
+45 licensee's negotiation, settlement, reduction, or other alteration of at
+46 least one debt owed by the debtor to that creditor.
+47 (4) Prior to the execution of a debt settlement services agreement, a licensee shall
+48 disclose to the debtor in a record, and retain a copy of, all of the following:
+49 a. The amount of time necessary to achieve the represented results and,
+50 to the extent that the services may include a settlement offer to any of
+Page 8 Senate Bill 491-First Edition
+General Assembly Of North Carolina Session 2025
+1 the debtor's creditors or debt collectors, the time by which the licensee
+2 will make a bona fide settlement offer to each of them.
+3 b. To the extent that the services may include a settlement offer to any of
+4 the debtor's creditors or debt collectors, the amount of money or the
+5 percentage of each outstanding debt that the debtor shall accumulate
+6 before the licensee will make a bona fide settlement offer to each of
+7 them.
+8 c. To the extent that any aspect of the debt settlement services relies upon
+9 or results in the debtor's failure to make timely payments to creditors
+10 or debt collectors, that the use of the debt settlement services will
+11 likely adversely affect the debtor's creditworthiness, may result in the
+12 debtor being subject to collections or sued by creditors or debt
+13 collectors, and may increase the amount of money the debtor owes due
+14 to the accrual of fees and interest.
+15 (5) A licensee shall not require a debtor to execute a power of attorney as a
+16 condition of receiving debt settlement services.
+17 (6) A licensee shall not require a debtor to open an account with a depository
+18 institution as a condition of receiving debt settlement services. A licensee may
+19 request that a debtor open an account in connection with its provision of debt
+20 settlement services so long as all of the following apply:
+21 a. The debtor's funds are held in an account at a financial institution
+22 insured by the Federal Deposit Insurance Corporation or National
+23 Credit Union Administration.
+24 b. The debtor owns the funds held in the account and is paid accrued
+25 interest on the account, if any.
+26 c. The entity administering the account is not owned or controlled by, or
+27 in any way affiliated with, the licensee.
+28 d. The entity administering the account does not give or accept any
+29 money or other compensation in exchange for referrals of business
+30 from the licensee.
+31 e. The debtor may withdraw from the debt settlement services at any time
+32 without penalty and shall receive all funds in the account, other than
+33 the fee earned by the licensee for completed services, if any, subject
+34 to the limitations imposed by this Article.
+35 (7) A licensee, or its affiliate, subsidiary, or partner, shall not receive a gift, bonus,
+36 premium, reward, or other compensation, directly or indirectly, for advising,
+37 arranging, or assisting a debtor in connection with obtaining any extension of
+38 credit or other service from a creditor, except for educational or counseling
+39 services required in connection with a government-sponsored program.
+40 (8) A licensee shall not enroll a debtor in a debt settlement for a debt that is less
+41 than 60 days delinquent, as determined by a consumer reporting agency.
+42 (9) A licensee shall not enroll a debt for debt settlement services whose
+43 origination date is less than 180 days from the date of enrollment.
+44 (10) A licensee shall not instruct, encourage, or promote a debtor to obtain
+45 additional extensions of credit as part of the enrollment for debt settlement
+46 services.
+47 (11) A licensee shall not solicit or advise a debtor or potential customer to default
+48 on any loan.
+49 (12) A licensee shall not send a cease-and-desist notice to a creditor of a debtor to
+50 which the licensee is offering or providing debt settlement services.
+Senate Bill 491-First Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (13) A licensee shall not receive money from a debtor for transmission to a debtor's
+2 creditors or engage in the business of providing or offering to provide debt
+3 management plans to debtors unless the licensee is also licensed under Article
+4 16B of this Chapter.
+5 (14) A licensee shall not enroll a covered military member.
+6 "§ 53-457. Fee for debt settlement services.
+7 (a) If a licensee successfully reaches a settlement for a debt of a debtor, the licensee may
+8 charge the debtor a fee that does not exceed either of the following:
+9 (1) Fifteen percent (15%) of the principal amount of the debt.
+10 (2) Twenty percent (20%) of the difference between the amount of the debt at the
+11 time the licensee settles the debt and the amount to be paid by the debtor
+12 pursuant to the settlement.
+13 (b) A licensee shall not charge a debtor any other fee for providing debt settlement
+14 services.
+15 "§ 53-458. Advertising.
+16 No person licensed or required to be licensed under this Article shall use or cause to be
+17 published any advertisement that contains any false, misleading, or deceptive statement or
+18 representation or identifies the person by any name other than the name set forth on the license
+19 issued by the Commissioner.
+20 "§ 53-459. Suspension or revocation of license.
+21 (a) The Commissioner may suspend or revoke a license issued under this Article upon
+22 any of the following grounds:
+23 (1) Any ground for denial of a license under this Article.
+24 (2) Any violation of the provisions of this Article or rules adopted under it, or a
+25 violation of any other law applicable to the conduct of the licensee's business.
+26 (3) A course of conduct consisting of the failure to perform debt settlement
+27 services agreements.
+28 (4) Conviction of a felony or misdemeanor involving fraud, misrepresentation, or
+29 deceit.
+30 (5) Entry of a judgment against the licensee involving fraud, misrepresentation,
+31 or deceit.
+32 (6) Entry of a federal or State administrative order against the licensee for
+33 violation of any law related to the conduct of the licensee's business.
+34 (7) Refusal to permit an investigation or examination by the Commissioner.
+35 (8) Failure to pay any fee or assessment imposed by this Article.
+36 (9) Failure to comply with any order of the Commissioner.
+37 (10) Insolvency of the licensee.
+38 (b) For the purposes of this section, acts of any officer, director, member, trustee,
+39 beneficiary, partner, or principal are deemed acts of the licensee.
+40 (c) A licensee has the right to cancel and surrender its license, upon notification in a
+41 record to the Commissioner.
+42 "§ 53-460. Civil penalty.
+43 After notice of opportunity for a hearing, the Commissioner may impose a civil penalty upon
+44 a person that has violated any of the provisions of this Article or rules adopted under it. The civil
+45 penalty shall not exceed one thousand dollars ($1,000) per violation. The clear proceeds of civil
+46 penalties provided for in this section shall be remitted to the Civil Penalty and Forfeiture Fund
+47 in accordance with G.S. 115C-457.2.
+48 "§ 53-461. Injunctions; receivers.
+49 If the Commissioner has reasonable cause to believe that a person is violating or is threatening
+50 to violate any provision of this Article or rule adopted under it, the Commissioner may enter an
+51 order requiring the person to cease and desist from the violation. The Commissioner may also
+Page 10 Senate Bill 491-First Edition
+General Assembly Of North Carolina Session 2025
+1 seek, and a court may award, an injunction against the person. In accordance with Article 38 of
+2 Chapter 1 of the General Statutes, a court may also appoint a receiver for the property and
+3 business of the person, including any books, accounts, and records that the court deems necessary
+4 to prevent future violations.
+5 "§ 53-462. Authority of Attorney General.
+6 (a) If the Commissioner determines that a person is in violation, or has violated, any
+7 provision of this Article or rule adopted under it, the Commissioner may refer the case to the
+8 Attorney General and may request that the Attorney General investigate the violation.
+9 (b) With or without a referral, the Attorney General may seek, and a court may award, an
+10 injunction for a violation of this Article. If the Attorney General files an action for an injunction,
+11 the Attorney General shall provide notice of the action to the Commissioner. The Attorney
+12 General may also seek, and a court may award, damages and any other relief allowed by law,
+13 including restitution to debtors. The Attorney General shall identify any debtors entitled to relief
+14 within 180 days after the date of an order awarding restitution.
+15 (c) In an action brought by the Attorney General under this section, the Attorney General
+16 is entitled to reasonable attorneys' fees and costs.
+17 "§ 53-463. Hearings and appeals.
+18 (a) An administrative hearing held by the Commissioner shall be conducted in
+19 accordance with Article 3A of Chapter 150B of the General Statutes. The officer presiding at the
+20 hearing may be the Commissioner, a deputy commissioner, or another suitable person designated
+21 by the Commissioner.
+22 (b) A party may appeal a final order of the Commissioner to the State Banking
+23 Commission within 30 days after the order. The party shall give a notice of appeal to the
+24 Commissioner. The notice of appeal shall state the grounds for the appeal and set forth in
+25 numbered order the assignments of error for review by the Commission. Failure to state the
+26 grounds for the appeal and assignments of error constitutes grounds to dismiss the appeal. Failure
+27 to comply with the briefing schedule provided by the Commission also constitutes grounds to
+28 dismiss the appeal. Upon receipt of a notice of appeal, the Commissioner shall, within 30 days
+29 of the notice, certify to the Commission the record on appeal.
+30 (c) The Chair of the Commission may appoint an appellate review panel of not fewer
+31 than three members to review the record on appeal, hear oral arguments, and make a
+32 recommended decision to the Commission.
+33 (d) A party may petition the Superior Court of Wake County for judicial review of a final
+34 order of the Commission within 30 days after the order. A copy of the petition for judicial review
+35 shall be served upon the Commissioner pursuant to G.S. 150B-46. The petition shall be placed
+36 on the civil issue docket of the court and has precedence over other civil actions. Within 15 days
+37 after service of the petition for judicial review, the Commissioner shall certify the record to the
+38 Clerk of Superior Court of Wake County. The standard of review of a petition for judicial review
+39 of a final order of the Commission is as provided in G.S. 150B-51(b).
+40 "§ 53-464. Private right of action; unfair or deceptive trade practice.
+41 A person that suffers loss because of another person's violation of this Article or rule adopted
+42 under it may bring a civil action against the person. If the plaintiff prevails in the action, a court
+43 shall award reasonable attorneys' fees and any other litigation expenses incurred by bringing the
+44 action. A violation of this Article or rules adopted under it constitutes an unfair or deceptive trade
+45 practice under G.S. 75-1.1.
+46 "§ 53-465. Criminal penalty.
+47 A violation of this Article is a Class 3 misdemeanor. Each transaction in violation of this
+48 Article is a separate offense."
+49 SECTION 2. Article 56 of Chapter 14 of the General Statutes is repealed.
+50 SECTION 3. This act becomes effective January 1, 2026.
+Senate Bill 491-First Edition Page 11
+[DELETED:  1 N ( S R A A T T S t " " " T " I ( C ( C ( C ( C o a T d b T U ( C m t d T t d n i d l o o p w r p f t s i i o p c ( D c ( D a f a P a d w c p t t d e i a d m b D t t]
+[DELETED:  S  S c D t d f t c p t a d m p t t d h p f w n c d P b t p e D s o m a a c t p i t d m f D t g I B p a ( D b d d r t s l f o s l p r p e u f o S l a w a t s s d a n c t f o e i o q ( D b j ( D o – A e c w s c b t s i t s ( E ( L ( N c – A f t c c o a d m o d u t d m p n t e f d ( ( P ( o " T " ( N p s e i t b o p o o t p d s p p r a l a l u A 2 o t C t c d b u]
+[DELETED:  S  P o l ( A o t p o p d s s s i c w o t p o p d m p A n o p c c b ( T A s b c b t C t p s p f " ( A a ( T ( T a I a b I a c I a ( T ( T ( T ( A ( T a a s o t a f i a f a t t C p e i w h c o t a o w i t q c ( P o a a f o t t d ( T a s ( A r p " ( A o o ( T t o h r c r i i t a b m a i r t d s s ( T b t a]
+[DELETED:  S  S ( T 9 o ( T d b o ( T b l " ( A i a a t C s i t t a a l ( T f r c r e a g f o t a a i m o d t a p f ( T i ( N e r ( T a i n t s o a p m a p a d i a p a p b a g t ( T ( I C ( A " ( E l s s t a o a a w t b i t b c n l t t ( N p a d C f n o e t r]
+[DELETED:  S  P ( A l t ( A T o " ( E i i t ( F a a w t C i a f p b t C ( S a i r b t C c t f i p ( P ( A i t a t C s p t a t a t m g p w u C d ( T ( T a ( T a c ( T s ( A ( o " ( A t a o a a t T s t p o d r c p f i s b s i o o d o i a s m L ( I a r a w t r d w t t p s b t]
+[DELETED:  S  S C I d t t p o w t e t t p t C d ( N p s m a f s o k a w m a o o a m f i c w a i o r f w t C o a g a o i c w a o o w c w t C o a g a I t i c b w ( T C m b r i t a c u w t r s t p " A t a p b t C T r s c a i r b t C a ( T t a D b D c D d D ( T n o d e i d s s i t p c ( T p ( T l ( T s ( T s ( T d S ( T d a o f f a c t d e i d s " ( W r ( T a ( T i o a p a t l b a g ( T a]
+[DELETED:  S  P ( A f i o t l o a o i m p d ( A f c o t l o a o i m p d ( A ( W s C ( W 1 d a r o a q a a l s n t C " ( T a l w o d e r ( T o ( I ( C ( A ( G i " ( N a S l t t c t C s r e ( T C m e a o s a w o g a t C o S B S o o a r t ( T i a t t h d s d o m s p ( A c ( s ( T t i o m r t t e h o a p a d "]
+[DELETED:  S  S ( T o n e e c a ( I a t t p " m A l e i t b o p o o t p d s s ( E i s b t d a a i r t l T a a a T b A l c A d A s t t d s s a m b t o t c t a u s w t s e A e o t m o d r u t a f A g N l h T C D f ( A l s g t t d a d o o t a e ( A d a T t o l o d p t t d s s a b T l l ( P d a T t]
+[DELETED:  S  P t w b T t p b t c T o o l d b s t c o s b c o d c t ( A d a c ( A i r s a T h a f i b t F D I C o N C b T i c T i d T e a t a d n g o a a m f e T w t t ( A p a c s ( A t ( A l s n e a d f d s s w o ( A l s n i e o p a d t o a s ( A o ( A w]
+[DELETED:  S  S ( A c m 1 ( A " ( I c ( F ( T t p ( A l s n c a d a o f f p d s s " N p a a t c a f m o d s o r i " ( T a ( A ( A v ( A c o c c o t f t p d s s ( C d ( E o ( E o a f o S a o a t l f v ( R ( F ( F ( I ( F t p o t s a o a o d m t b ( A r " A a p p i " I t o]
+[DELETED:  S  P s C b t " ( I p A ( W i t G G i w ( I i " ( A a h h b t C s b c i a h b ( A p m a a f o o t C t t S B C w 3 d a t o T p s g a n o a t t C T n o a s s t g f t a a s f i n g t d o ( T t t m t r t r o a h o a a m a r ( A o s o a C o " A u s a p " A A S S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 491
+Short Title: NC Debt Settlement Services Act. (Public)
+Sponsors: Senators Johnson, Overcash, and Jackson (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+March 26, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO LICENSE, EXAMINE, AND REGULATE DEBT SETTLEMENT SERVICES IN
+3 THE STATE OF NORTH CAROLINA.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 53 of the General Statutes is amended by adding a new Article
+6 to read:
+7 "Article 26.
+8 "North Carolina Debt Settlement Services Act.
+9 "§ 53-441. Title.
+10 This Article may be cited as the North Carolina Debt Settlement Services Act.
+11 "§ 53-442. Definitions.
+12 In this Article, the following definitions apply:
+13 (1) Commission. – The State Banking Commission.
+14 (2) Commissioner. – The Commissioner of Banks.
+15 (3) Consumer reporting agency. – Defined in 15 U.S.C. § 1681a(f).
+16 (4) Covered military member. – A member of the Armed Forces to which either
+17 of the following applies:
+18 a. The member is on active duty for a period of more than 30 days, as
+19 defined in 10 U.S.C. § 101(d).
+20 b. The member is on active Guard and Reserve duty, as defined in 10
+21 U.S.C. § 101(d), with a rank of E4 or below.
+22 (5) Creditor. – Includes persons that extend credit to, or persons that service loans
+23 made to, debtors. This term does not include doctors, lawyers, or other
+24 professionals who receive payment for their services in installments or
+25 persons whose only participation in a credit transaction is to honor a credit
+26 card.
+27 (6) Debt collector. – A debt collector, as defined in 15 U.S.C. § 1692a, or a
+28 collection agency, as defined in G.S. 58-70-15.
+29 (7) Debt management organization. – An organization that satisfies all of the
+30 following requirements:
+31 a. Provides individualized credit counseling and budgeting assistance to
+32 a debtor without charge prior to the debtor's enrollment in a debt
+33 management plan.
+34 b. Determines that the debtor has the financial ability to make payments
+35 to complete the debt management plan and that the plan is suitable for
+36 the debtor.
+*S491-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 c. Disburses the debtor's funds to creditors pursuant to a debt
+2 management plan that the debtor has paid for with nominal
+3 consideration and has agreed to in a record.
+4 d. Provides to the debtor, periodically and on no less than a quarterly
+5 basis, an individualized accounting for the most recent period of all of
+6 the debtor's payments and disbursements under the debt management
+7 plan and all charges paid by the debtor.
+8 e. Does not directly or indirectly require the debtor to purchase other
+9 services or materials as a condition to participating in the debt
+10 management plan.
+11 f. Does not receive a payment, commission, or other benefit for referring
+12 the debtor to a provider of services.
+13 g. Is accredited by an accrediting organization that the Commissioner of
+14 Banks approves as being independent and nationally recognized for
+15 providing accreditation to organizations that provide credit counseling
+16 and debt management services.
+17 (8) Debt settlement services. – Any action or negotiation initiated or taken on
+18 behalf of a debtor with any creditor of the debtor for the purpose of obtaining
+19 debt forgiveness of all or a portion of the credit extended by the creditor to the
+20 debtor or a reduction of payments, charges, or fees payable by the debtor. With
+21 respect to student loan forgiveness or student loan payment reduction
+22 programs established under federal or State law and widely available to
+23 similarly situated debtors at no cost, the facilitation of enrollment in or
+24 qualification for these programs does not constitute an action or negotiation.
+25 (9) Debtor. – An individual who resides in this State or an entity registered to do
+26 business in this State. The term includes two or more individuals who are
+27 jointly or severally, or jointly and severally, indebted to a creditor.
+28 (10) Duplicate original. – An exact copy with signatures created by the same
+29 impression as the original, an exact copy bearing an original signature, or, in
+30 the case of an electronic transaction, an electronic version with electronic
+31 signatures.
+32 (11) Electronic signature. – Defined in G.S. 66-312.
+33 (12) Licensee. – A person licensed under this Article.
+34 (13) Nominal consideration. – A fee to cover the cost of administering a debt
+35 management plan not to exceed forty dollars ($40.00) for origination or setup
+36 of the debt management plan and ten percent (10%) of the monthly payment
+37 disbursed under the debt management plan, not to exceed forty dollars
+38 ($40.00) per month.
+39 (14) Principal. – A person that, directly or indirectly, owns or controls ten percent
+40 (10%) or more of the outstanding stock of a corporation or a ten percent (10%)
+41 or greater interest in a person.
+42 "§ 53-443. Rules by Commissioner.
+43 The Commissioner may make rules to implement this Article.
+44 "§ 53-444. License requirement; exceptions.
+45 (a) No person shall engage in the business of providing or offering to provide debt
+46 settlement services to any debtor, whether or not the person has an office, facility, agent, or other
+47 physical presence in the State, unless the person obtains from the Commissioner a license issued
+48 pursuant to this Article. This Article does not apply to any bank, savings institution, credit union,
+49 refund anticipation loan act licensee under Article 20 of this Chapter, trust company doing
+50 business under Chapter 53C of the General Statutes, savings and loan association doing business
+51 under Chapter 54 or 54B of the General Statutes, savings bank doing business under Chapter 54C
+Page 2 Senate Bill 491-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 of the General Statutes, consumer finance licensee under Article 15 of this Chapter, or any person
+2 licensed to practice law in this State.
+3 (b) A debt management organization is not required to be licensed under this Article if it
+4 offers to provide or provides debt settlement services solely in connection with offering to
+5 provide or providing debt management plans. A nonprofit organization providing credit
+6 counseling services that satisfies the requirements of 26 U.S.C. § 501(q) is also not required to
+7 be licensed under this Article.
+8 (c) This Article shall be construed by the Commissioner to promote sound personal
+9 financial advice and management.
+10 "§ 53-445. Application for license; form; content; fee.
+11 (a) An application for a license under this Article shall be made in a record, under oath,
+12 and on a form provided by the Commissioner.
+13 (b) The application shall include all of the following:
+14 (1) The name and address of the applicant and the following:
+15 a. If the applicant is a partnership, firm, or association, the name and
+16 address of each partner or member.
+17 b. If the applicant is a corporation or limited liability company, the name
+18 and address of each director, member, registered agent, and principal.
+19 c. If the applicant is a business trust, the name and address of each trustee
+20 and beneficiary.
+21 (2) The name and address of each manager and officer of the applicant.
+22 (3) The address of each location of the applicant.
+23 (4) The financial statements of the applicant.
+24 (5) A current copy of the applicant's standard debt settlement services agreement.
+25 (6) The applicant's consent to a federal and State criminal history record check
+26 and a set of the applicant's fingerprints in a form acceptable to the
+27 Commissioner. In the case of an applicant that is a person other than a natural
+28 person, each individual who has control of the applicant or who is the
+29 qualifying individual or a branch manager shall consent to a federal and State
+30 criminal history record check and submit a set of that individual's fingerprints.
+31 (7) Payment of an application fee of two thousand dollars ($2,000). The
+32 application fee shall not be refundable and shall not be abated by surrender,
+33 suspension, or revocation of the license.
+34 (8) Any other information required by the Commissioner concerning the financial
+35 responsibility, background, experience, and activities of the applicant and the
+36 persons described in this section.
+37 "§ 53-446. Surety bond.
+38 (a) Applicants shall be required to post a surety bond with the Commissioner at the time
+39 of the application for licensure and each licensee shall maintain a surety bond in the amount of
+40 one million dollars ($1,000,000).
+41 (b) The surety bond shall be in a form satisfactory to the Commissioner and shall run to
+42 the State for the benefit of any claimants against the licensee to secure the faithful performance
+43 of the obligations of the licensee with respect to debt settlement engagements. The Commissioner
+44 has the discretion to require the applicant to obtain additional insurance coverage to address
+45 related cybersecurity risks inherent in the applicant's business model as it relates to debt
+46 settlement engagements and to the extent these risks are not within the scope of the required
+47 surety bond.
+48 (c) The aggregate liability of the surety in no event shall exceed the principal sum of the
+49 bond. Claimants against the licensee may themselves bring suit directly on the security bond, or
+50 the Commissioner may bring suit on behalf of claimants, either in one action or in successive
+51 actions.
+Senate Bill 491-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (d) The surety bond shall remain in effect until cancellation, which may occur only after
+2 90 days' written notice to the Commissioner. Cancellation does not affect any liability incurred
+3 or accrued during that period.
+4 (e) The surety bond shall remain in place for no less than five years after the licensee's
+5 debt settlement operations cease in this State. However, the Commissioner may permit the surety
+6 bond to be reduced or eliminated prior to that time to the extent of the amount of the licensee's
+7 outstanding enrolled debt.
+8 (f) The surety bond proceeds are deemed by operation of law to be held in trust for the
+9 benefit of the debtors in a debt settlement engagement in the event of the bankruptcy of the
+10 licensee.
+11 "§ 53-447. Qualifications.
+12 (a) After investigating an applicant, the Commissioner shall issue to the applicant a
+13 license at the locations specified in the application if the Commissioner finds all of the following:
+14 (1) The financial responsibility, character, reputation, experience, and general
+15 fitness of the applicant and its members, officers, directors, trustees, and
+16 principals warrant belief that the business will be operated efficiently and
+17 fairly, in the public interest, and in accordance with law.
+18 (2) The applicant has made acceptable provision for the avoidance of conflicts of
+19 interest.
+20 (3) No more than one-third of the board of directors or managing members are
+21 employees, officers, members, principals, trustees, directors, agents, or other
+22 representatives of organizations that grant credit to consumers.
+23 (4) The applicant is not the subject of any pending material administrative
+24 proceedings by any governmental authority and has not received a materially
+25 adverse determination in any past administrative proceedings by any
+26 governmental authority. The Commissioner has sole discretion to determine
+27 the materiality of any proceedings or determinations.
+28 (5) The applicant has complied with this Article and any rules adopted under it.
+29 (b) If the Commissioner fails to make these findings, no license shall be issued, and the
+30 Commissioner shall notify the applicant of the denial and the reasons for the denial.
+31 (c) A license shall not be issued to a creditor or debt collector.
+32 "§ 53-448. Licenses; places of business; changes.
+33 (a) Each license shall state the address or addresses at which the business is to be
+34 conducted and shall fully state the legal name of the licensee, as well as any assumed business
+35 name by which the licensee is operating in this State, whether physically or electronically. Each
+36 license shall be posted prominently in each place of business of the licensee. Licenses are not
+37 transferable or assignable, by operation of law or otherwise. No licensee shall use any name in
+38 this State other than the legal name or assumed business name set forth in the license.
+39 (b) No licensee shall open an additional office or relocate any place of business without
+40 prior approval of the Commissioner. Applications for this approval shall be made in a record on
+41 a form provided by the Commissioner and shall be accompanied by payment of a five hundred
+42 dollar ($500.00) nonrefundable application fee. The application shall be approved unless the
+43 Commissioner finds that the applicant has not conducted business under this Article efficiently,
+44 fairly, in the public interest, and in accordance with law. The application is deemed approved if
+45 notice to the contrary has not been mailed by the Commissioner to the applicant within 30 days
+46 of the date the application is received by the Commissioner; however, the Commissioner may
+47 extend this period for good cause. After approval, the applicant shall give notice in a record to
+48 the Commissioner within 20 days of the commencement of business at the additional location or
+49 relocated place of business.
+Page 4 Senate Bill 491-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c) A licensee shall notify the Commissioner in a record of the closing of any business
+2 location within 20 days of the closing. A licensee shall provide any other information regarding
+3 the closing that the Commissioner requires.
+4 (d) A license shall remain in force until it has been surrendered, revoked, or suspended.
+5 The surrender, revocation, or suspension of a license does not affect any preexisting legal right
+6 or obligation of the licensee.
+7 "§ 53-449. Acquisition of control; application.
+8 (a) Except as otherwise provided in this section, no person shall acquire, directly or
+9 indirectly, twenty-five percent (25%) or more of the ownership of a licensee, or, if the licensee
+10 is a corporation, twenty-five percent (25%) of its voting shares, unless the person first does all of
+11 the following:
+12 (1) Files an application with the Commissioner in a form prescribed by the
+13 Commissioner.
+14 (2) Submits any information required by the Commissioner concerning the
+15 financial responsibility, background, experience, and activities of the person,
+16 its directors, officers, trustees, beneficiaries, principals, and members, and any
+17 proposed new directors, officers, principals, or members of the licensee.
+18 (3) Pays an application fee in an amount prescribed by the Commissioner.
+19 (b) After investigating the applicant, the Commissioner shall permit the applicant to
+20 acquire the interest in the licensee if it finds that the applicant and its directors, officers, members,
+21 trustees, beneficiaries, and principals, and any proposed new directors, officers, principals, or
+22 members of the licensee have the financial responsibility, character, reputation, experience, and
+23 general fitness to warrant belief that the business will be operated efficiently and fairly, in the
+24 public interest, and in accordance with law. The Commissioner shall grant or deny the application
+25 within 60 days from the date a completed application accompanied by the required fee is filed
+26 unless the period is extended by the Commissioner. If the Commissioner extends this period, the
+27 Commissioner shall notify the applicant of the reasons for the extension. If the application is
+28 denied, the Commissioner shall notify the applicant of the denial and the reasons for the denial.
+29 (c) This section does not apply to any of the following:
+30 (1) The acquisition of an interest in a licensee, directly or indirectly, including an
+31 acquisition by merger or consolidation, by or with another licensee.
+32 (2) The acquisition of an interest in a licensee, directly or indirectly, including an
+33 acquisition by merger or consolidation, by or with a person affiliated through
+34 common ownership with the licensee.
+35 (3) The acquisition of an interest in a licensee by a person by devise, descent,
+36 survivorship, or operation of law.
+37 (d) A person acquiring an interest in a licensee in a transaction described in subsection
+38 (c) of this section shall send written notice to the Commissioner of the acquisition within 30 days
+39 of its closing.
+40 "§ 53-450. Retention of books, accounts, and records; responding to the Commissioner.
+41 (a) A licensee shall maintain in its offices any books, accounts, and records required by
+42 the Commissioner to determine whether the licensee is complying with this Article and rules
+43 adopted under it. These books, accounts, and records shall be maintained separately from any
+44 other business in which the licensee is involved. Records relating to debt settlement services
+45 agreements shall be retained for at least three years after the debt settlement services agreements
+46 are terminated. To safeguard the privacy of debtors, records containing personal financial
+47 information shall be shredded, incinerated, or otherwise disposed of in a secure manner.
+48 Licensees may arrange for disposal from a business record destruction vendor.
+49 (b) If the Commissioner requests a response in a record from the licensee, or any books,
+50 accounts, records, or other documents from a licensee, the licensee shall submit a response in a
+51 record, along with the requested documents, within the time period specified by the
+Senate Bill 491-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 Commissioner. In determining this time period or whether to extend this time period, the
+2 Commissioner shall consider the volume and complexity of the request. If the Commissioner
+3 does not specify a time period, the licensee shall respond within 30 days of the request.
+4 (c) No person shall make any false statement or knowingly and willfully make any
+5 omission of a material fact in connection with any information or report filed with the
+6 Commissioner or another governmental agency, or in connection with any oral or written
+7 communication with the Commissioner or another governmental agency. If the information
+8 contained in any document filed with the Commissioner or at the direction of the Commissioner
+9 becomes inaccurate or incomplete in any material respect, the licensee or exempt person shall
+10 within 30 days file a correcting amendment to the information contained in the document.
+11 (d) The Commissioner may, by rule, impose terms and conditions under which the
+12 records and files of a licensee may be maintained outside this State. A principal place of business
+13 shall not be located at an individual's home or residence. A licensee shall maintain a record of
+14 the principal place of business with the Commissioner and report any change of address of the
+15 principal place of business or any branch office within 15 days after the change.
+16 "§ 53-451. Annual report.
+17 A licensee shall submit a report in a record to the Commissioner no later than 90 days after
+18 the end of each calendar year. The report shall be made under oath and shall be in a form
+19 prescribed by the Commissioner. The report shall contain any information required by the
+20 Commissioner concerning the licensee's business and operations during the prior calendar year
+21 as well as all of the following data:
+22 (1) The number of debts and the delinquency status of each debt enrolled at the
+23 time of contract enrollment for debt settlement services as follows:
+24 a. Delinquent for 60 to 89 days.
+25 b. Delinquent for 90 to 119 days.
+26 c. Delinquent for 120 to 179 days.
+27 d. Delinquent for 180 days or more.
+28 (2) The number of debtors enrolled in debt settlement services in the prior
+29 calendar year.
+30 (3) The number of debts enrolled by debtors in debt settlement services in the
+31 prior calendar year.
+32 (4) The total dollar amount of debts placed in debt settlement services with the
+33 licensee.
+34 (5) The number and dollar amount of settlements paid by debtors enrolled in debt
+35 settlement services.
+36 (6) The number of debts enrolled in debt settlement services that failed to reach
+37 settlement.
+38 (7) The number of debtors that had a contract with the licensee at some point
+39 during the prior calendar year that have filed for bankruptcy under the United
+40 States Bankruptcy Code, Title 11 of the United States Code.
+41 (8) Total dollar amount of fees for all charges to debtors enrolled in debt
+42 settlement services.
+43 "§ 53-452. Other reporting requirements.
+44 (a) Within 15 days after any of the following events, a licensee shall submit a report in a
+45 record to the Commissioner describing the event and its expected impact on its business:
+46 (1) The filing of bankruptcy, reorganization, or receivership proceedings by or
+47 against the licensee.
+48 (2) The institution of administrative proceedings against the licensee by any
+49 governmental authority.
+50 (3) The institution of an action against the licensee by the Attorney General or
+51 any other governmental authority.
+Page 6 Senate Bill 491-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Any felony indictment of the licensee or any of its members, partners,
+2 directors, officers, trustees, beneficiaries, or principals, if known.
+3 (5) Any felony conviction of the licensee or any of its members, partners,
+4 directors, officers, trustees, beneficiaries, or principals, if known.
+5 (6) Any other event prescribed by the Commissioner by rule.
+6 (b) Within 30 days after a judgment against a licensee in a civil action relating to the debt
+7 settlement services agreement with a debtor, the licensee shall submit a report in a record to the
+8 Commissioner describing the event and its expected impact on the business of the licensee.
+9 (c) Within 10 days after receipt of a qualified audit, a licensee shall notify the
+10 Commissioner and describe what steps are being taken to address the concerns raised in the audit.
+11 "§ 53-453. Investigations; examinations.
+12 (a) The Commissioner may, as often as the Commissioner deems necessary, investigate
+13 and examine the affairs, business, premises, records, and filed complaints related to any person
+14 licensed or required to be licensed under this Article to determine whether the business complies
+15 with this Article and rules adopted under it. Examinations of licensees shall be conducted at least
+16 once every three years. During an investigation or examination, the owners, members, officers,
+17 directors, partners, trustees, beneficiaries, and employees of the person being investigated or
+18 examined shall, upon demand of the Commissioner, afford full access to all premises, books,
+19 records, and information.
+20 (b) The Commissioner may do one or more of the following pursuant to an investigation
+21 or examination under this section:
+22 (1) Issue subpoenas, including subpoenas duces tecum.
+23 (2) Compel the attendance of witnesses and the production of any documents.
+24 (3) Administer oaths, conduct hearings, and transcribe testimony.
+25 (4) Give publicity to the examination or investigation if the Commissioner deems
+26 it best for the public interest.
+27 "§ 53-454. Confidential information; shared agreements with other governmental agencies.
+28 (a) Notwithstanding any State law to the contrary, the Commissioner shall report
+29 enforcement actions under this Article and may report other relevant information.
+30 (b) The Commissioner may enter agreements or sharing arrangements with other
+31 governmental agencies, the Conference of State Bank Supervisors, or other associations
+32 representing governmental agencies and may share otherwise confidential information pursuant
+33 to these written agreements.
+34 (c) The requirements of G.S. 53C-2-7 regarding the privacy or confidentiality of any
+35 information or material provided under subsections (a) and (b) of this section, and any privilege
+36 arising under any other federal or State law with respect to the information or material, continue
+37 to apply to the information or material after it has been disclosed to an entity described in
+38 subsection (a) or (b) of this section. Information or material held by the entity is not subject to
+39 disclosure under any State law governing the disclosure to the public of information held by an
+40 officer or agency of the State. The entities described in subsections (a) and (b) of this section
+41 may share information and material with all State and federal regulatory officials with debt
+42 settlement industry oversight authority without the loss of privilege or the loss of confidentiality
+43 protections provided by State or federal law.
+44 (d) Any provision of Chapter 132 of the General Statutes relating to the disclosure of
+45 confidential supervisory information or of any information or material described in subsection
+46 (a) of this section that is inconsistent with this section is superseded by the requirements of this
+47 section.
+48 (e) The confidentiality provisions contained in subsection (c) of this section do not apply
+49 to information or material relating to the employment history of and publicly adjudicated
+50 disciplinary and enforcement actions for debt settlement service providers.
+51 "§ 53-455. Annual fees; reimbursement of travel expenses.
+Senate Bill 491-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (a) To defray the costs of the regulation of licensees, a licensee shall pay an annual fee
+2 of one thousand dollars ($1,000). A licensee shall also pay to the Commissioner an assessment
+3 not to exceed eighteen dollars ($18.00) per one hundred thousand dollars ($100,000) of debt
+4 enrolled in debt settlement services. All fees shall be assessed on or after November 1 each
+5 calendar year, and all fees shall be paid by the licensee on or before July 1 following each
+6 assessment.
+7 (b) In addition to the annual fee, if it becomes necessary to examine the books, accounts,
+8 and records of a licensee at a location outside this State, the licensee is liable for and shall pay to
+9 the Commissioner, within 30 days after the presentation of an itemized statement, the actual
+10 travel and subsistence expenses incurred on account of the Commissioner's examination, or shall
+11 pay a per diem to the Commissioner at a rate approved by the Commission.
+12 "§ 53-456. Licensees providing debt settlement services; prohibited and required business
+13 methods.
+14 A licensee engaged in the business of providing or offering to provide debt settlement
+15 services to any debtor shall comply with all of the following requirements:
+16 (1) Each debt settlement services agreement shall be in a record and shall be
+17 signed by the debtor and an individual representing the licensee. The
+18 agreement may be signed by the parties either in writing or electronically. The
+19 agreement shall set forth all of the following:
+20 a. The name and address of both the debtor and the licensee.
+21 b. A full description of all services to be performed for the debtor by the
+22 licensee.
+23 c. A clear explanation, highlighted in bold type, of the costs to the debtor.
+24 d. A statement that the debt settlement services agreement may be
+25 terminated for any reason by the debtor and that the debtor has no
+26 obligation to continue the arrangement unless satisfied with the
+27 services provided.
+28 e. An explanation of the method of dispute resolution under the
+29 agreement.
+30 f. An explanation of the obligations of the debtor and the licensee.
+31 g. Notification of privacy policies in compliance with State and federal
+32 law.
+33 h. The phone number, email, and physical address of the North Carolina
+34 Commissioner of Banks and the North Carolina Consumer Protection
+35 Division of the North Carolina Office of Justice for the purpose of
+36 filing complaints related to debt settlement services.
+37 (2) A licensee shall give to the debtor a duplicate original of the agreement
+38 executed by the debtor and licensee upon execution.
+39 (3) A licensee shall not request or receive payment or other compensation for any
+40 debt settlement services until and unless:
+41 a. The licensee has negotiated, settled, reduced, or otherwise altered the
+42 terms of at least one debt pursuant to the debt settlement services
+43 agreement.
+44 b. The debtor has made at least one payment to a creditor following the
+45 licensee's negotiation, settlement, reduction, or other alteration of at
+46 least one debt owed by the debtor to that creditor.
+47 (4) Prior to the execution of a debt settlement services agreement, a licensee shall
+48 disclose to the debtor in a record, and retain a copy of, all of the following:
+49 a. The amount of time necessary to achieve the represented results and,
+50 to the extent that the services may include a settlement offer to any of
+Page 8 Senate Bill 491-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 the debtor's creditors or debt collectors, the time by which the licensee
+2 will make a bona fide settlement offer to each of them.
+3 b. To the extent that the services may include a settlement offer to any of
+4 the debtor's creditors or debt collectors, the amount of money or the
+5 percentage of each outstanding debt that the debtor shall accumulate
+6 before the licensee will make a bona fide settlement offer to each of
+7 them.
+8 c. To the extent that any aspect of the debt settlement services relies upon
+9 or results in the debtor's failure to make timely payments to creditors
+10 or debt collectors, that the use of the debt settlement services will
+11 likely adversely affect the debtor's creditworthiness, may result in the
+12 debtor being subject to collections or sued by creditors or debt
+13 collectors, and may increase the amount of money the debtor owes due
+14 to the accrual of fees and interest.
+15 (5) A licensee shall not require a debtor to execute a power of attorney as a
+16 condition of receiving debt settlement services.
+17 (6) A licensee shall not require a debtor to open an account with a depository
+18 institution as a condition of receiving debt settlement services. A licensee may
+19 request that a debtor open an account in connection with its provision of debt
+20 settlement services so long as all of the following apply:
+21 a. The debtor's funds are held in an account at a financial institution
+22 insured by the Federal Deposit Insurance Corporation or National
+23 Credit Union Administration.
+24 b. The debtor owns the funds held in the account and is paid accrued
+25 interest on the account, if any.
+26 c. The entity administering the account is not owned or controlled by, or
+27 in any way affiliated with, the licensee.
+28 d. The entity administering the account does not give or accept any
+29 money or other compensation in exchange for referrals of business
+30 from the licensee.
+31 e. The debtor may withdraw from the debt settlement services at any time
+32 without penalty and shall receive all funds in the account, other than
+33 the fee earned by the licensee for completed services, if any, subject
+34 to the limitations imposed by this Article.
+35 (7) A licensee, or its affiliate, subsidiary, or partner, shall not receive a gift, bonus,
+36 premium, reward, or other compensation, directly or indirectly, for advising,
+37 arranging, or assisting a debtor in connection with obtaining any extension of
+38 credit or other service from a creditor, except for educational or counseling
+39 services required in connection with a government-sponsored program.
+40 (8) A licensee shall not enroll a debtor in a debt settlement for a debt that is less
+41 than 60 days delinquent, as determined by a consumer reporting agency.
+42 (9) A licensee shall not enroll a debt for debt settlement services whose
+43 origination date is less than 180 days from the date of enrollment.
+44 (10) A licensee shall not instruct, encourage, or promote a debtor to obtain
+45 additional extensions of credit as part of the enrollment for debt settlement
+46 services.
+47 (11) A licensee shall not solicit or advise a debtor or potential customer to default
+48 on any loan.
+49 (12) A licensee shall not send a cease-and-desist notice to a creditor of a debtor to
+50 which the licensee is offering or providing debt settlement services.
+Senate Bill 491-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (13) A licensee shall not receive money from a debtor for transmission to a debtor's
+2 creditors or engage in the business of providing or offering to provide debt
+3 management plans to debtors unless the licensee is also licensed under Article
+4 16B of this Chapter.
+5 (14) A licensee shall not enroll a covered military member.
+6 "§ 53-457. Fee for debt settlement services.
+7 (a) If a licensee successfully reaches a settlement for a debt of a debtor, the licensee may
+8 charge the debtor a fee that does not exceed either of the following:
+9 (1) Fifteen percent (15%) of the principal amount of the debt.
+10 (2) Twenty percent (20%) of the difference between the amount of the debt at the
+11 time the licensee settles the debt and the amount to be paid by the debtor
+12 pursuant to the settlement.
+13 (b) A licensee shall not charge a debtor any other fee for providing debt settlement
+14 services.
+15 "§ 53-458. Advertising.
+16 No person licensed or required to be licensed under this Article shall use or cause to be
+17 published any advertisement that contains any false, misleading, or deceptive statement or
+18 representation or identifies the person by any name other than the name set forth on the license
+19 issued by the Commissioner.
+20 "§ 53-459. Suspension or revocation of license.
+21 (a) The Commissioner may suspend or revoke a license issued under this Article upon
+22 any of the following grounds:
+23 (1) Any ground for denial of a license under this Article.
+24 (2) Any violation of the provisions of this Article or rules adopted under it, or a
+25 violation of any other law applicable to the conduct of the licensee's business.
+26 (3) A course of conduct consisting of the failure to perform debt settlement
+27 services agreements.
+28 (4) Conviction of a felony or misdemeanor involving fraud, misrepresentation, or
+29 deceit.
+30 (5) Entry of a judgment against the licensee involving fraud, misrepresentation,
+31 or deceit.
+32 (6) Entry of a federal or State administrative order against the licensee for
+33 violation of any law related to the conduct of the licensee's business.
+34 (7) Refusal to permit an investigation or examination by the Commissioner.
+35 (8) Failure to pay any fee or assessment imposed by this Article.
+36 (9) Failure to comply with any order of the Commissioner.
+37 (10) Insolvency of the licensee.
+38 (b) For the purposes of this section, acts of any officer, director, member, trustee,
+39 beneficiary, partner, or principal are deemed acts of the licensee.
+40 (c) A licensee has the right to cancel and surrender its license, upon notification in a
+41 record to the Commissioner.
+42 "§ 53-460. Civil penalty.
+43 After notice of opportunity for a hearing, the Commissioner may impose a civil penalty upon
+44 a person that has violated any of the provisions of this Article or rules adopted under it. The civil
+45 penalty shall not exceed one thousand dollars ($1,000) per violation. The clear proceeds of civil
+46 penalties provided for in this section shall be remitted to the Civil Penalty and Forfeiture Fund
+47 in accordance with G.S. 115C-457.2.
+48 "§ 53-461. Injunctions; receivers.
+49 If the Commissioner has reasonable cause to believe that a person is violating or is threatening
+50 to violate any provision of this Article or rule adopted under it, the Commissioner may enter an
+51 order requiring the person to cease and desist from the violation. The Commissioner may also
+Page 10 Senate Bill 491-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 seek, and a court may award, an injunction against the person. In accordance with Article 38 of
+2 Chapter 1 of the General Statutes, a court may also appoint a receiver for the property and
+3 business of the person, including any books, accounts, and records that the court deems necessary
+4 to prevent future violations.
+5 "§ 53-462. Authority of Attorney General.
+6 (a) If the Commissioner determines that a person is in violation, or has violated, any
+7 provision of this Article or rule adopted under it, the Commissioner may refer the case to the
+8 Attorney General and may request that the Attorney General investigate the violation.
+9 (b) With or without a referral, the Attorney General may seek, and a court may award, an
+10 injunction for a violation of this Article. If the Attorney General files an action for an injunction,
+11 the Attorney General shall provide notice of the action to the Commissioner. The Attorney
+12 General may also seek, and a court may award, damages and any other relief allowed by law,
+13 including restitution to debtors. The Attorney General shall identify any debtors entitled to relief
+14 within 180 days after the date of an order awarding restitution.
+15 (c) In an action brought by the Attorney General under this section, the Attorney General
+16 is entitled to reasonable attorneys' fees and costs.
+17 "§ 53-463. Hearings and appeals.
+18 (a) An administrative hearing held by the Commissioner shall be conducted in
+19 accordance with Article 3A of Chapter 150B of the General Statutes. The officer presiding at the
+20 hearing may be the Commissioner, a deputy commissioner, or another suitable person designated
+21 by the Commissioner.
+22 (b) A party may appeal a final order of the Commissioner to the State Banking
+23 Commission within 30 days after the order. The party shall give a notice of appeal to the
+24 Commissioner. The notice of appeal shall state the grounds for the appeal and set forth in
+25 numbered order the assignments of error for review by the Commission. Failure to state the
+26 grounds for the appeal and assignments of error constitutes grounds to dismiss the appeal. Failure
+27 to comply with the briefing schedule provided by the Commission also constitutes grounds to
+28 dismiss the appeal. Upon receipt of a notice of appeal, the Commissioner shall, within 30 days
+29 of the notice, certify to the Commission the record on appeal.
+30 (c) The Chair of the Commission may appoint an appellate review panel of not fewer
+31 than three members to review the record on appeal, hear oral arguments, and make a
+32 recommended decision to the Commission.
+33 (d) A party may petition the Superior Court of Wake County for judicial review of a final
+34 order of the Commission within 30 days after the order. A copy of the petition for judicial review
+35 shall be served upon the Commissioner pursuant to G.S. 150B-46. The petition shall be placed
+36 on the civil issue docket of the court and has precedence over other civil actions. Within 15 days
+37 after service of the petition for judicial review, the Commissioner shall certify the record to the
+38 Clerk of Superior Court of Wake County. The standard of review of a petition for judicial review
+39 of a final order of the Commission is as provided in G.S. 150B-51(b).
+40 "§ 53-464. Private right of action; unfair or deceptive trade practice.
+41 A person that suffers loss because of another person's violation of this Article or rule adopted
+42 under it may bring a civil action against the person. If the plaintiff prevails in the action, a court
+43 shall award reasonable attorneys' fees and any other litigation expenses incurred by bringing the
+44 action. A violation of this Article or rules adopted under it constitutes an unfair or deceptive trade
+45 practice under G.S. 75-1.1.
+46 "§ 53-465. Criminal penalty.
+47 A violation of this Article is a Class 3 misdemeanor. Each transaction in violation of this
+48 Article is a separate offense."
+49 SECTION 2. Article 56 of Chapter 14 of the General Statutes is repealed.
+50 SECTION 3. This act becomes effective January 1, 2026.
+Senate Bill 491-First Edition Page 11
+
+[DELETED:  1 N ( S R A A T T S t " " " T " I ( C ( C ( C ( C o a T d b T U ( C m t d T t d n i d l o o p w r p f t s i i o p c ( D c ( D a f a P a d w c p t t d e i a d m b D t t]
+[DELETED:  S  S c D t d f t c p t a d m p t t d h p f w n c d P b t p e D s o m a a c t p i t d m f D t g I B p a ( D b d d r t s l f o s l p r p e u f o S l a w a t s s d a n c t f o e i o q ( D b j ( D o – A e c w s c b t s i t s ( E ( L ( N c – A f t c c o a d m o d u t d m p n t e f d ( ( P ( o " T " ( N p s e i t b o p o o t p d s p p r a l a l u A 2 o t C t c d b u]
+[DELETED:  S  P o l ( A o t p o p d s s s i c w o t p o p d m p A n o p c c b ( T A s b c b t C t p s p f " ( A a ( T ( T a I a b I a c I a ( T ( T ( T ( A ( T a a s o t a f i a f a t t C p e i w h c o t a o w i t q c ( P o a a f o t t d ( T a s ( A r p " ( A o o ( T t o h r c r i i t a b m a i r t d s s ( T b t a]
+[DELETED:  S  S ( T 9 o ( T d b o ( T b l " ( A i a a t C s i t t a a l ( T f r c r e a g f o t a a i m o d t a p f ( T i ( N e r ( T a i n t s o a p m a p a d i a p a p b a g t ( T ( I C ( A " ( E l s s t a o a a w t b i t b c n l t t ( N p a d C f n o e t r]
+[DELETED:  S  P ( A l t ( A T o " ( E i i t ( F a a w t C i a f p b t C ( S a i r b t C c t f i p ( P ( A i t a t C s p t a t a t m g p w u C d ( T ( T a ( T a c ( T s ( A ( o " ( A t a o a a t T s t p o d r c p f i s b s i o o d o i a s m L ( I a r a w t r d w t t p s b t]
+[DELETED:  S  S C I d t t p o w t e t t p t C d ( N p s m a f s o k a w m a o o a m f i c w a i o r f w t C o a g a o i c w a o o w c w t C o a g a I t i c b w ( T C m b r i t a c u w t r s t p " A t a p b t C T r s c a i r b t C a ( T t a D b D c D d D ( T n o d e i d s s i t p c ( T p ( T l ( T s ( T s ( T d S ( T d a o f f a c t d e i d s " ( W r ( T a ( T i o a p a t l b a g ( T a]
+[DELETED:  S  P ( A f i o t l o a o i m p d ( A f c o t l o a o i m p d ( A ( W s C ( W 1 d a r o a q a a l s n t C " ( T a l w o d e r ( T o ( I ( C ( A ( G i " ( N a S l t t c t C s r e ( T C m e a o s a w o g a t C o S B S o o a r t ( T i a t t h d s d o m s p ( A c ( s ( T t i o m r t t e h o a p a d "]
+[DELETED:  S  S ( T o n e e c a ( I a t t p " m A l e i t b o p o o t p d s s ( E i s b t d a a i r t l T a a a T b A l c A d A s t t d s s a m b t o t c t a u s w t s e A e o t m o d r u t a f A g N l h T C D f ( A l s g t t d a d o o t a e ( A d a T t o l o d p t t d s s a b T l l ( P d a T t]
+[DELETED:  S  P t w b T t p b t c T o o l d b s t c o s b c o d c t ( A d a c ( A i r s a T h a f i b t F D I C o N C b T i c T i d T e a t a d n g o a a m f e T w t t ( A p a c s ( A t ( A l s n e a d f d s s w o ( A l s n i e o p a d t o a s ( A o ( A w]
+[DELETED:  S  S ( A c m 1 ( A " ( I c ( F ( T t p ( A l s n c a d a o f f p d s s " N p a a t c a f m o d s o r i " ( T a ( A ( A v ( A c o c c o t f t p d s s ( C d ( E o ( E o a f o S a o a t l f v ( R ( F ( F ( I ( F t p o t s a o a o d m t b ( A r " A a p p i " I t o]
+[DELETED:  S  P s C b t " ( I p A ( W i t G G i w ( I i " ( A a h h b t C s b c i a h b ( A p m a a f o o t C t t S B C w 3 d a t o T p s g a n o a t t C T n o a s s t g f t a a s f i n g t d o ( T t t m t r t r o a h o a a m a r ( A o s o a C o " A u s a p " A A S S]
