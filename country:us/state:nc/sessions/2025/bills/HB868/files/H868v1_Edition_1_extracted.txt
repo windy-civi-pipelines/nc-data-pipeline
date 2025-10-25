@@ -1,0 +1,190 @@
+Title: HOUSE BILL 868
+Official Title: HOUSE BILL 868
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Due Process in LEO Field Drug Testing. (Public)
+Sponsors: Representatives Rubin and Chesser (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO GUIDE THE USE AND SUBSEQUENT ADMISSIBILITY OF
+3 COLORIMETRIC FIELD DRUG TESTS PURSUANT TO CRIMINAL
+4 INVESTIGATIONS AND PROSECUTIONS.
+5 Whereas, a study at the Quattrone Center at University of Pennsylvania Law School
+6 found that approximately 773,000 drug-related arrests nationwide involve the use of presumptive
+7 drug field tests; and
+8 Whereas, the same study finds that these tests are known to produce false positives,
+9 suggesting as many as 30,000 arrests per year of people who do not actually possess illegal
+10 substances; and
+11 Whereas, this error rate is potentially the largest contributing factor to wrongful
+12 arrests and convictions in the United States; and
+13 Whereas, any path to addressing the concerns over presumptive field tests and
+14 providing due process must still ensure law enforcement has the tools to combat the fentanyl
+15 crisis and other dangerous controlled substances; Now, therefore,
+16 The General Assembly of North Carolina enacts:
+17 SECTION 1. G.S. 90-95 reads as rewritten:
+18 "§ 90-95. Violations; penalties.
+19 (a) Except as authorized by this Article, it is unlawful for any person:
+20 …
+21 (3) To possess a controlled substance.
+22 …
+23 (f1) Unless the context requires otherwise, for purposes of this section, the following
+24 definitions shall apply:
+25 (1) Colorimetric field drug test. – A field-testing drug kit that consists of color
+26 test reagents for the preliminary identification of narcotic drugs in their pure
+27 or diluted forms. It does not apply to kits that use thin layer chromatography
+28 as the identification procedure or to kits that identify drugs in body fluids.
+29 (2) Corroborating chemical analysis. – A chemical analysis following a
+30 colorimetric field drug test used to confirm or contradict the veracity of a
+31 colorimetric field drug test, when that chemical analysis has been performed
+32 by the North Carolina State Crime Laboratory or any other crime laboratory
+33 meeting similar standards of scientific testing and court-related evidence
+34 preparation and preservation.
+*H868-v-1*
+General Assembly Of North Carolina Session 2025
+1 (f2) No later than January 1, 2026, all law enforcement agencies and prosecutorial districts
+2 in the State shall adopt policies governing the arrest and prosecution of violations of
+3 G.S. 90-95(a)(3) that ensure reliable and accurate identification of controlled substances for the
+4 purpose of maintaining the integrity of convictions for those violations. The policies adopted
+5 pursuant to this subsection shall include, at a minimum, each of the following:
+6 (1) Prior to the results of a corroborating chemical analysis, a colorimetric field
+7 drug test shall not be sufficient, by itself, for the determination of any of the
+8 following:
+9 a. Probable cause to arrest.
+10 b. Initiating charges.
+11 c. Conviction.
+12 d. Sentencing following a conviction.
+13 (2) When a colorimetric field drug test has been conducted and there has been no
+14 corroborating chemical analysis, in the absence of any conflicting statutory
+15 provision, individuals charged shall be either:
+16 a. Cited and released, when citation is permitted by law for the alleged
+17 crimes of the individual.
+18 b. Released upon the defendant's written promise to appear in court
+19 pursuant to the setting of conditions of pretrial release under
+20 G.S. 15A-534 and other applicable statutes.
+21 Criminal process issued or conditions of release set pursuant to this
+22 subdivision shall only be required for crimes charged under G.S. 90-95(a)(3)
+23 and shall not be construed to apply to the criminal process or conditions of
+24 pretrial release for any other crimes for which the individual is charged or
+25 arrested.
+26 (3) Any individual charged shall be entitled to plead to the charge and
+27 subsequently withdraw that plea and move for dismissal of the charges in the
+28 event of a corroborating chemical analysis that finds there was no controlled
+29 substance in the sample of the test at any time during the pendency of the case
+30 or subsequent entry of the plea.
+31 …."
+32 SECTION 2. Part 1 of Article 26 of Chapter 15A of the General Statutes is amended
+33 by adding a new section to read:
+34 "§ 15A-534.9. Possession of controlled substances; bail and pretrial release.
+35 When conditions of pretrial release are being determined for a defendant charged with a
+36 violation of G.S. 90-95(a)(3), the conditions of pretrial release for that specific charge shall
+37 comply with the provisions of G.S. 90-95(f2)."
+38 SECTION 3. This act becomes effective December 1, 2025, and applies to offenses
+39 committed on or after that date.
+Page 2 House Bill 868-First Edition
+[DELETED:  1 D ( R R A A A T G T U A S A O C F D T P T C I W f d W s s W t e r i p t l c f t w a W a p t a t c o p f t a p c T S " ( E … ( T … ( U d ( C t o a ( C c a – A c a f a c c b m s s o s t a c e p]
+[DELETED:  S  H ( N i t S s a p g t a a p o v o G p p ( P d f a P b I c C d S ( W c p a C c b R u t d w p t a i c p t t s o c o p r u G C p i o c o r s p t t s a p a ( A i c s b e t p t t c a s e s o … S b " W v c s c S c]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 868
+Short Title: Due Process in LEO Field Drug Testing. (Public)
+Sponsors: Representatives Rubin and Chesser (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO GUIDE THE USE AND SUBSEQUENT ADMISSIBILITY OF
+3 COLORIMETRIC FIELD DRUG TESTS PURSUANT TO CRIMINAL
+4 INVESTIGATIONS AND PROSECUTIONS.
+5 Whereas, a study at the Quattrone Center at University of Pennsylvania Law School
+6 found that approximately 773,000 drug-related arrests nationwide involve the use of presumptive
+7 drug field tests; and
+8 Whereas, the same study finds that these tests are known to produce false positives,
+9 suggesting as many as 30,000 arrests per year of people who do not actually possess illegal
+10 substances; and
+11 Whereas, this error rate is potentially the largest contributing factor to wrongful
+12 arrests and convictions in the United States; and
+13 Whereas, any path to addressing the concerns over presumptive field tests and
+14 providing due process must still ensure law enforcement has the tools to combat the fentanyl
+15 crisis and other dangerous controlled substances; Now, therefore,
+16 The General Assembly of North Carolina enacts:
+17 SECTION 1. G.S. 90-95 reads as rewritten:
+18 "§ 90-95. Violations; penalties.
+19 (a) Except as authorized by this Article, it is unlawful for any person:
+20 …
+21 (3) To possess a controlled substance.
+22 …
+23 (f1) Unless the context requires otherwise, for purposes of this section, the following
+24 definitions shall apply:
+25 (1) Colorimetric field drug test. – A field-testing drug kit that consists of color
+26 test reagents for the preliminary identification of narcotic drugs in their pure
+27 or diluted forms. It does not apply to kits that use thin layer chromatography
+28 as the identification procedure or to kits that identify drugs in body fluids.
+29 (2) Corroborating chemical analysis. – A chemical analysis following a
+30 colorimetric field drug test used to confirm or contradict the veracity of a
+31 colorimetric field drug test, when that chemical analysis has been performed
+32 by the North Carolina State Crime Laboratory or any other crime laboratory
+33 meeting similar standards of scientific testing and court-related evidence
+34 preparation and preservation.
+*H868-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (f2) No later than January 1, 2026, all law enforcement agencies and prosecutorial districts
+2 in the State shall adopt policies governing the arrest and prosecution of violations of
+3 G.S. 90-95(a)(3) that ensure reliable and accurate identification of controlled substances for the
+4 purpose of maintaining the integrity of convictions for those violations. The policies adopted
+5 pursuant to this subsection shall include, at a minimum, each of the following:
+6 (1) Prior to the results of a corroborating chemical analysis, a colorimetric field
+7 drug test shall not be sufficient, by itself, for the determination of any of the
+8 following:
+9 a. Probable cause to arrest.
+10 b. Initiating charges.
+11 c. Conviction.
+12 d. Sentencing following a conviction.
+13 (2) When a colorimetric field drug test has been conducted and there has been no
+14 corroborating chemical analysis, in the absence of any conflicting statutory
+15 provision, individuals charged shall be either:
+16 a. Cited and released, when citation is permitted by law for the alleged
+17 crimes of the individual.
+18 b. Released upon the defendant's written promise to appear in court
+19 pursuant to the setting of conditions of pretrial release under
+20 G.S. 15A-534 and other applicable statutes.
+21 Criminal process issued or conditions of release set pursuant to this
+22 subdivision shall only be required for crimes charged under G.S. 90-95(a)(3)
+23 and shall not be construed to apply to the criminal process or conditions of
+24 pretrial release for any other crimes for which the individual is charged or
+25 arrested.
+26 (3) Any individual charged shall be entitled to plead to the charge and
+27 subsequently withdraw that plea and move for dismissal of the charges in the
+28 event of a corroborating chemical analysis that finds there was no controlled
+29 substance in the sample of the test at any time during the pendency of the case
+30 or subsequent entry of the plea.
+31 …."
+32 SECTION 2. Part 1 of Article 26 of Chapter 15A of the General Statutes is amended
+33 by adding a new section to read:
+34 "§ 15A-534.9. Possession of controlled substances; bail and pretrial release.
+35 When conditions of pretrial release are being determined for a defendant charged with a
+36 violation of G.S. 90-95(a)(3), the conditions of pretrial release for that specific charge shall
+37 comply with the provisions of G.S. 90-95(f2)."
+38 SECTION 3. This act becomes effective December 1, 2025, and applies to offenses
+39 committed on or after that date.
+Page 2 House Bill 868-First Edition
+
+[DELETED:  1 D ( R R A A A T G T U A S A O C F D T P T C I W f d W s s W t e r i p t l c f t w a W a p t a t c o p f t a p c T S " ( E … ( T … ( U d ( C t o a ( C c a – A c a f a c c b m s s o s t a c e p]
+[DELETED:  S  H ( N i t S s a p g t a a p o v o G p p ( P d f a P b I c C d S ( W c p a C c b R u t d w p t a i c p t t s o c o p r u G C p i o c o r s p t t s a p a ( A i c s b e t p t t c a s e s o … S b " W v c s c S c]

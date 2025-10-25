@@ -1,0 +1,580 @@
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 735
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS35250-MCa-139A
+Short Title: AI Innovation Trust Fund. (Public)
+Sponsors: Senators Salvador, Garrett, and Murdock (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE ARTIFICIAL INTELLIGENCE INNOVATION TRUST FUND.
+3 Whereas, recognizing the rapidly evolving nature of artificial intelligence and the
+4 importance of responsible innovation, the General Assembly intends this Act to establish an
+5 exploratory, iterative approach to AI governance, inviting stakeholder input and encouraging
+6 collaborative development of appropriate and proportionate AI regulations; Now, therefore,
+7 The General Assembly of North Carolina enacts:
+8 SECTION 1. Article 10 of Chapter 143B of the General Statutes is amended by
+9 adding a new Part to read:
+10 "Part 18A. Artificial Intelligence Innovation.
+11 "§ 143B-472.83A. Artificial Intelligence Innovation Trust Fund.
+12 (a) Fund. – There is established a special, nonreverting fund to be known as the North
+13 Carolina Artificial Intelligence Innovation Trust Fund. The Secretary of Commerce shall be the
+14 trustee of the fund and shall expend money from the fund to (i) provide grants or other financial
+15 assistance to companies developing or deploying artificial intelligence models in key industry
+16 sectors or (ii) establish or promote artificial intelligence entrepreneurship programs, which may
+17 include partnerships with research institutions in the State or other entrepreneur support
+18 organizations. The fund shall consist of appropriations to the Department of Commerce to be
+19 allocated to the fund, interest earned on money in the fund, and any other grants, premiums, gifts,
+20 reimbursements or other contributions received by the State from any source for or in support of
+21 the purposes described in this subsection. Funds in the fund are hereby appropriated to the
+22 Department for the purposes set forth in this section, and, except as otherwise expressly provided,
+23 the provisions of this section apply to persons receiving a grant or assistance from the fund. Funds
+24 provided under this Part shall not support projects involving artificial intelligence intended for
+25 mass surveillance infringing constitutional rights, unlawful social scoring, discriminatory
+26 profiling based on protected characteristics, or generating deceptive digital content intended for
+27 fraudulent or electoral interference purposes.
+28 (b) Definitions. – The following definitions apply in this section:
+29 (1) Advanced persistent threat. – An adversary with sophisticated levels of
+30 expertise and significant resources that allow it, through the use of multiple
+31 different attack vectors including, but not limited to, cyber, physical or
+32 deception, to generate opportunities to achieve objectives including, but not
+33 limited to, (i) establishing or extending its presence within the information
+34 technology infrastructure of an organization for the purpose of exfiltrating
+35 information; (ii) undermining or impeding critical aspects of a mission,
+*DRS35250-MCa-139A*
+
+General Assembly Of North Carolina Session 2025
+1 program or organization; or (iii) placing itself in a position to do so in the
+2 future.
+3 (2) Artificial intelligence. – An engineered or machine-based system that varies
+4 in its level of autonomy and which may, for explicit or implicit objectives,
+5 infer from the input it receives how to generate outputs that may influence
+6 physical or virtual environments.
+7 (3) Artificial intelligence safety incident. – An incident that demonstrably
+8 increases the risk of a critical harm occurring by means of any of the
+9 following:
+10 a. A covered model or covered model derivative autonomously engaging
+11 in behavior other than at the request of a user.
+12 b. Theft, misappropriation, malicious use, inadvertent release,
+13 unauthorized access or escape of the model weights of a covered
+14 model or covered model derivative.
+15 c. The critical failure of technical or administrative controls, including
+16 controls limiting the ability to modify a covered model or covered
+17 model derivative.
+18 d. Unauthorized use of a covered model or covered model derivative to
+19 cause or materially enable critical harm.
+20 (4) Computing cluster. – A set of machines transitively connected by data center
+21 networking of over 100 gigabits per second that has a theoretical maximum
+22 computing capacity of at least 10 to the power of 20 integer or floating-point
+23 operations per second and can be used for training artificial intelligence.
+24 (4a) Covered entity. – The legally responsible organization, corporation, or entity
+25 that directly oversees and controls the development, deployment, and ongoing
+26 operations of a covered model or covered model derivative, including
+27 responsibility for compliance with obligations under this Part
+28 (5) Covered model. – An artificial intelligence model that, due to its scale,
+29 application domain, or potential impact, is identified by the Secretary as
+30 warranting proportionate regulatory oversight. Factors considered may
+31 include, but are not limited to, computing power utilized, model training cost,
+32 anticipated scope of application, and foreseeable risks to public safety or
+33 individual rights. The Secretary may establish multiple tiers of covered
+34 models with corresponding compliance frameworks scaled proportionately to
+35 identified risk levels.
+36 (6) Covered model derivative. – A copy of a covered model that: (i) is
+37 unmodified; (ii) has been subjected to post-training modifications related to
+38 fine-tuning; (iii) has been fine-tuned using a quantity of computing power not
+39 exceeding 3 times 10 to the power of 25 or floating point operations, the cost
+40 of which, as reasonably assessed by the developer, exceeds $10,000,000 if
+41 calculated using the average market price of cloud compute at the start of
+42 fine-tuning; or (iv) has been combined with other software.
+43 (7) Critical harm. – A harm caused or materially enabled by a covered model or
+44 covered model derivative including: (i) the creation or use in a manner that
+45 results in mass casualties of a chemical, biological, radiological or nuclear
+46 weapon; (ii) mass casualties or at least $500,000,000 of damage resulting from
+47 cyberattacks on critical infrastructure by a model conducting, or providing
+48 precise instructions for conducting, a cyberattack or series of cyberattacks on
+49 critical infrastructure; (iii) mass casualties or at least $500,000,000 of damage
+50 resulting from an artificial intelligence model engaging in conduct that acts
+51 with limited human oversight, intervention or supervision and results in death,
+Page 2 DRS35250-MCa-139A
+
+General Assembly Of North Carolina Session 2025
+1 great bodily injury, property damage or property loss, and would, if committed
+2 by a human, constitute a crime specified in any general or special law that
+3 requires intent, recklessness or gross negligence, or the solicitation or aiding
+4 and abetting of such a crime; or (iv) other grave harms to public safety that
+5 are of comparable severity to the harms described herein as determined by the
+6 attorney general.
+7 The term does not include harms caused or materially enabled by information
+8 that a covered model or covered model derivative outputs if the information
+9 is otherwise reasonably publicly accessible by an ordinary person from
+10 sources other than a covered model or covered model derivative; (ii) harms
+11 caused or materially enabled by a covered model combined with other
+12 software, including other models, if the covered model did not materially
+13 contribute to the other software's ability to cause or materially enable the
+14 harm; or (iii) harms that are not caused or materially enabled by the
+15 developer's creation, storage, use or release of a covered model or covered
+16 model derivative; provided further, that monetary harm thresholds established
+17 pursuant to this section shall be adjusted for inflation annually, not later than
+18 January 31, by the growth rate of the inflation index over the preceding 12
+19 months; and provided further, that the inflation index shall consist of the per
+20 cent change in inflation as measured by the per cent change in the consumer
+21 price index for all urban consumers for the Raleigh metropolitan area as
+22 determined by the bureau of labor statistics of the United States Department
+23 of Labor.
+24 (8) Critical infrastructure. – Assets, systems and networks, whether physical or
+25 virtual, the incapacitation or destruction of which would have a debilitating
+26 effect on physical security, economic security, public health or safety in the
+27 State.
+28 (8a) Department. – The Department of Commerce.
+29 (9) Developer. – A person that performs the initial training of a covered model
+30 by: (i) training a model using a sufficient quantity of computing power and
+31 cost; or (ii) fine-tuning an existing covered model or covered model derivative
+32 using a quantity of computing power and cost sufficient to qualify as a covered
+33 model.
+34 (10) Fine-tuning. – Adjusting the model weights of a trained covered model or
+35 covered model derivative by exposing such model to additional data.
+36 (11) Full shutdown. – The cessation of operation of: (i) the training of a covered
+37 model; (ii) a covered model controlled by a developer; and (iii) all covered
+38 model derivatives controlled by a developer.
+39 (11a) Fund. – The Artificial Intelligence Innovation Trust Fund, as established in
+40 this section.
+41 (12) Model weight. – A numerical parameter in an artificial intelligence model that
+42 is adjusted through training and that helps determine how inputs are
+43 transformed into outputs.
+44 (13) Person. – An individual, proprietorship, firm, partnership, joint venture,
+45 syndicate, business trust, company, corporation, limited liability company,
+46 association, committee or any other nongovernmental organization or group
+47 of persons acting in concert.
+48 (14) Post-training modification. – Modifying the capabilities of a covered model
+49 or covered model derivative by any means including, but not limited to,
+50 fine-tuning, providing such model with access to tools or data, removing
+DRS35250-MCa-139A Page 3
+
+General Assembly Of North Carolina Session 2025
+1 safeguards against hazardous misuse or misbehavior of such model or
+2 combining such model with, or integrating such model into, other software.
+3 (15) Safety and security protocol. – Documented, technical, and organizational
+4 protocols that: (i) are used to manage the risks of developing and operating
+5 covered models or covered model derivatives across their life cycle, including
+6 risks posed by causing or enabling or potentially causing or enabling the
+7 creation of covered model derivatives; and (ii) specify that compliance with
+8 such protocols is required in order to train, operate, possess or provide external
+9 access to the developer's covered model or covered model derivatives.
+10 (16) Secretary. – The Secretary of Commerce.
+11 (c) Oversight. – The Secretary may convene an AI Innovation and Safety Advisory Panel
+12 composed of representatives from industry, academia, civil liberties and consumer advocacy
+13 groups, and relevant state agencies. This Panel may provide recommendations, best practices,
+14 and advice regarding AI technologies, compliance proportionality, and ethical AI-human
+15 collaboration. Recommendations of this Panel shall be publicly accessible and may inform future
+16 regulatory proposals.
+17 (d) Standards. – The Secretary may consider relevant provisions, guidelines, frameworks,
+18 and standards established by the U.S. National Institute of Standards and Technology (NIST),
+19 and comparable frameworks, such as the EU AI Act, when developing proposals and
+20 recommendations pursuant to this Part.
+21 "§ 143B-472.83B. Requirements for developers of covered models.
+22 (a) Reserved.
+23 (b) Reserved.
+24 (c) Before beginning to train a covered model, a developer shall do all of the following:
+25 (1) Implement reasonable administrative, technical and physical cybersecurity
+26 protections to prevent unauthorized access to, misuse of or unsafe
+27 post-training modifications of the covered model and all covered model
+28 derivatives controlled by the developer that are appropriate in light of the risks
+29 associated with the covered model, including from advanced persistent threats
+30 or other sophisticated actors.
+31 (2) Implement the capability to promptly enact a full shutdown.
+32 (3) Implement a written and separate safety and security protocol that: (i)
+33 specifies protections and procedures that, if successfully implemented, would
+34 comply with the developer's duty to take reasonable care to avoid producing
+35 a covered model or covered model derivative that poses an unreasonable risk
+36 of causing or materially enabling a critical harm; (ii) states compliance
+37 requirements in an objective manner and with sufficient detail and specificity
+38 to allow the developer or a third party to readily ascertain whether the
+39 requirements of the safety and security protocol have been followed; (iii)
+40 identifies a testing procedure which takes safeguards into account as
+41 appropriate to reasonably evaluate if a covered model poses a substantial risk
+42 of causing or enabling a critical harm and if any covered model derivatives
+43 pose a substantial risk of causing or enabling a critical harm; (iv) describes in
+44 detail how the testing procedure assesses the risks associated with
+45 post-training modifications; (v) describes in detail how the testing procedure
+46 addresses the possibility that a covered model or covered model derivative
+47 may be used to make post-training modifications or create another covered
+48 model in a manner that may cause or materially enable a critical harm; (vi)
+49 describes in detail how the developer will fulfill their obligations under this
+50 chapter; (vii) describes in detail how the developer intends to implement any
+51 safeguards and requirements referenced in this section; (viii) describes in
+Page 4 DRS35250-MCa-139A
+
+General Assembly Of North Carolina Session 2025
+1 detail the conditions under which a developer would enact a full shutdown
+2 account for, as appropriate, the risk that a shutdown of the covered model, or
+3 particular covered model derivatives, may cause disruptions to critical
+4 infrastructure; and (ix) describes in detail the procedure by which the safety
+5 and security protocol may be modified.
+6 (4) Ensure that the safety and security protocol is implemented as written,
+7 including by designating senior personnel to be responsible for ensuring
+8 compliance by employees and contractors working on a covered model or any
+9 covered model derivatives controlled by the developer, monitoring and
+10 reporting on implementation.
+11 (5) Retain an unredacted copy of the safety and security protocol for not less than
+12 five years after the covered model is no longer made available for commercial,
+13 public or foreseeably public use,, including records and dates of any updates
+14 or revisions.
+15 (6) Conduct an annual review of the safety and security protocol to account for
+16 any changes to the capabilities of the covered model and industry best
+17 practices and, if necessary, make modifications to such policy.
+18 (7) Conspicuously publish a redacted copy of the safety and security protocol and
+19 transmit a copy of said redacted safety and security protocol to the attorney
+20 general; provided, however, that (i) a redaction in the safety and security
+21 protocol may be made only if the redaction is reasonably necessary to protect
+22 public safety, trade secrets, or confidential information pursuant to any
+23 general, special, or federal law; (ii) the developer shall grant to the attorney
+24 general access to the unredacted safety and security protocol upon request;
+25 (iii) a safety and security protocol disclosed to the attorney general shall not
+26 be a public record; and (iv) if the safety and security protocol is materially
+27 modified, the developer shall conspicuously publish and transmit to the
+28 attorney general an updated redacted copy of such protocol within 30 days of
+29 the modification.
+30 (8) Take reasonable care to implement other appropriate measures to prevent
+31 covered models and covered model derivatives from posing unreasonable
+32 risks of causing or materially enabling critical harms.
+33 (d) Before using a covered model or covered model derivative for a purpose not
+34 exclusively related to the training or reasonable evaluation of the covered model for compliance
+35 with State or federal law or before making a covered model or covered model derivative available
+36 for commercial, public or foreseeably public use, the developer of a covered model shall do all
+37 of the following:
+38 (1) Assess whether the covered model is reasonably capable of causing or
+39 materially enabling a critical harm.
+40 (2) Record, as and when reasonably possible, and retain for not less than five
+41 years after the covered model is no longer made available for commercial,
+42 public or foreseeably public use, information on any specific tests and test
+43 results used in said assessment which provides sufficient detail for third
+44 parties to replicate the testing procedure.
+45 (3) Take reasonable care to implement appropriate safeguards to prevent the
+46 covered model and covered model derivatives from causing or materially
+47 enabling a critical harm.
+48 (4) Take reasonable care to ensure, to the extent reasonably possible, that the
+49 covered model's actions and the actions of covered model derivatives, as well
+50 as critical harms resulting from their actions, may be accurately and reliably
+51 attributed to such model or model derivative.
+DRS35250-MCa-139A Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (e) A developer shall not use a covered model or covered model derivative for a purpose
+2 not exclusively related to the training or reasonable evaluation of the covered model for
+3 compliance with State or federal law or make a covered model or a covered model derivative
+4 available for commercial, public or foreseeably public use if there is an unreasonable risk that
+5 the covered model or covered model derivative will cause or materially enable a critical harm.
+6 (f) A developer of a covered model shall annually reevaluate the procedures, policies,
+7 protections, capabilities and safeguards implemented pursuant to this section.
+8 (g) A developer of a covered model shall annually retain a third-party that conducts
+9 investigations consistent with best practices for investigators to perform an independent
+10 investigation of compliance with the requirements of this section.
+11 (1) The investigator shall conduct investigations consistent with regulations
+12 issued by the Secretary. The investigator shall be granted access to unredacted
+13 materials as necessary to comply with the investigator's obligations contained
+14 herein. The investigator shall produce an investigation report including, but
+15 not limited to: (i) a detailed assessment of the developer's steps to comply with
+16 the requirements of this section; (ii) if applicable, any identified instances of
+17 noncompliance with the requirements of this section and any
+18 recommendations for how the developer can improve its policies and
+19 processes for ensuring compliance with the requirements of this section; (iii)
+20 a detailed assessment of the developer's internal controls, including
+21 designation and empowerment of senior personnel responsible for ensuring
+22 compliance by the developer and any employees or contractors thereof; and
+23 (iv) the signature of the lead investigator certifying the results contained
+24 within the investigation report; and provided further, that the investigator shall
+25 not knowingly make a material misrepresentation in said report.
+26 (2) Covered entities shall transmit to the Attorney General a confidential copy of
+27 any independent investigator's report conducted under this section. An
+28 executive summary outlining compliance status and risk mitigation actions
+29 shall be made publicly available, with proprietary, sensitive, or
+30 security-related information redacted as necessary.
+31 (h) A developer of a covered model shall annually, until such time that the covered model
+32 and any covered model derivatives controlled by the developer cease to be in or available for
+33 commercial or public use, submit to the attorney general a statement of compliance signed by the
+34 developer's chief technology officer, or a more senior corporate officer, that shall specify or
+35 provide, at a minimum: (i) an assessment of the nature and magnitude of critical harms that the
+36 covered model or covered model derivatives may reasonably cause or materially enable and the
+37 outcome of the assessment required by this section; (ii) an assessment of the risk that compliance
+38 with the safety and security protocol may be insufficient to prevent the covered model or covered
+39 model derivatives from causing or materially enabling critical harms; and (iii) a description of
+40 the process used by the signing officer to verify compliance with the requirements of this section,
+41 including a description of the materials reviewed by the signing officer, a description of testing
+42 or other evaluation performed to support the statement and the contact information of any third
+43 parties relied upon to validate compliance.
+44 A developer shall submit such statement to the attorney general not later than 30 days after
+45 using a covered model or covered model derivative for a purpose not exclusively related to the
+46 training or reasonable evaluation of the covered model for compliance with State or federal law
+47 or making a covered model or covered model derivative available for commercial, public or
+48 foreseeably public use; provided, however, that no such initial statement shall be required for a
+49 covered model derivative if the developer submitted a compliant initial statement and any
+50 applicable annual statements for the covered model from which the covered model derivative is
+51 derived.
+Page 6 DRS35250-MCa-139A
+
+General Assembly Of North Carolina Session 2025
+1 (i) A developer of a covered model shall report each artificial intelligence safety incident
+2 affecting the covered model or any covered model derivatives controlled by the developer to the
+3 attorney general within 72 hours of the developer learning of the artificial intelligence safety
+4 incident or facts sufficient to establish a reasonable belief that an artificial intelligence safety
+5 incident has occurred.
+6 (j) This section shall apply to the development, use or commercial or public release of a
+7 covered model or covered model derivative for any use that is not the subject of a contract with
+8 a federal government entity, even if that covered model or covered model derivative was
+9 developed, trained or used by a federal government entity; provided, however, that this section
+10 shall not apply to a product or service to the extent that compliance would strictly conflict with
+11 the terms of a contract between a federal government entity and the developer of a covered model.
+12 (k) The Secretary may develop and propose a tiered compliance framework
+13 differentiating obligations based on computing scale, intended applications, societal impact, and
+14 organizational size. This framework shall be developed through stakeholder consultations and
+15 presented to the General Assembly with recommendations for potential adoption.
+16 (l) A developer or covered entity may remain responsible for foreseeable critical harms
+17 arising from misuse or unintended use of a covered model or derivative, irrespective of whether
+18 such misuse involved fine-tuning. Covered entities may conduct and document pre-deployment
+19 risk assessments to identify and reasonably mitigate foreseeable misuse risks.
+20 (m) Covered entities funded under this Act developing AI systems that significantly
+21 impact individuals' rights or access to critical services such as employment, housing, education,
+22 or financial products may conduct exploratory algorithmic fairness assessments to detect and
+23 mitigate potential bias. These assessments may be shared with stakeholders and the Department
+24 to inform future policy development.
+25 (n) Covered entities may voluntarily explore methods for disclosing to end-users when
+26 they are interacting with an artificial intelligence system, particularly where the nature of
+27 interaction is not immediately obvious. Such entities may also explore labeling content generated
+28 by funded AI systems where there is potential for it to be mistaken for human-generated content.
+29 Findings from these explorations may be reported to the Department to inform future
+30 transparency guidelines.
+31 "§ 143B-472.83C. Requirements for computer resource operators training covered models.
+32 (a) A person that operates a computing cluster shall implement written policies and
+33 procedures to do all of the following when a customer utilizes computer resources which would
+34 be sufficient to train a covered model:
+35 (1) Obtain the prospective customer's basic identifying information and business
+36 purpose for utilizing the computing cluster including, but not limited to: (i)
+37 the identity of the prospective customer; (ii) the means and source of payment,
+38 including any associated financial institution, credit card number, account
+39 number, customer identifier, transaction identifiers or virtual currency wallet
+40 or wallet address identifier; and (iii) the email address and telephone number
+41 used to verify the prospective customer's identity.
+42 (2) Assess whether the prospective customer intends to utilize the computing
+43 cluster to train a covered model.
+44 (3) Maintain logs of significant access and administrative actions consistent with
+45 commercially reasonable cybersecurity practices.
+46 (4) Maintain for not less than seven years, and provide to the attorney general
+47 upon request, appropriate records of actions taken under this section,
+48 including policies and procedures put into effect.
+49 (5) Implement the capability to promptly enact a full shutdown of any resources
+50 being used to train or operate a covered model under the customer's control.
+DRS35250-MCa-139A Page 7
+
+General Assembly Of North Carolina Session 2025
+1 If a customer repeatedly utilizes computer resources that would be sufficient to train a
+2 covered model, the operator of the computer cluster shall validate said basic identifying
+3 information and assess whether such customer intends to utilize the computing cluster to train a
+4 covered model prior to each utilization.
+5 (b) A person that operates a computing cluster shall consider industry best practices and
+6 applicable guidance from the National Institute of Standards and Technology, including the
+7 United States Artificial Intelligence Safety Institute, and other reputable standard-setting
+8 organizations.
+9 (c) In complying with the requirements of this section, a person that operates a computing
+10 cluster may impose reasonable requirements on customers to prevent the collection or retention
+11 of personal information that the person operating such computing cluster would not otherwise
+12 collect or retain, including a requirement that a corporate customer submit corporate contact
+13 information rather than information that would identify a specific individual.
+14 "§ 143B-472.83D. Enforcement.
+15 (a) The attorney general shall have the authority to enforce the provisions of this Part.
+16 Except as specifically provided in this Part, nothing in this Part shall be construed as creating a
+17 new private right of action or serving as the basis for a private right of action that would not
+18 otherwise have had a basis under any other law but for the enactment of this Part. This Part
+19 neither relieves any party from any duties or obligations imposed nor alters any independent
+20 rights that individuals have under State or federal laws, the North Carolina Constitution or the
+21 United States Constitution.
+22 The attorney general may initiate a civil action in the superior court against an entity in the
+23 name of the State or on behalf of individuals for a violation of this chapter. The attorney general
+24 may seek:
+25 (1) Against a developer of a covered model or covered model derivative for a
+26 violation that causes death or bodily harm to another human, harm to property,
+27 theft or misappropriation of property, or that constitutes an imminent risk or
+28 threat to public safety that occurs on or after January 1, 2026, a civil penalty
+29 in an amount not exceeding (i) for a first violation, five percent (5%) of the
+30 cost of the quantity of computing power used to train the covered model to be
+31 calculated using the average market prices of cloud compute at the time of
+32 training or (ii) for any subsequent violation, 15 percent (15%) of the cost of
+33 the quantity of computing power used to train the covered model as calculated
+34 herein.
+35 (2) Against an investigator for a violation of this Part, including an investigator
+36 who intentionally or with reckless disregard violates any of such investigator's
+37 responsibilities , or for a person that operates a computing cluster in violation
+38 of this Part, a civil penalty in an amount not exceeding (i) twenty-five
+39 thousand dollars ($25,000) for a first offense; (ii) fifty thousand dollars
+40 ($50,000) for any subsequent violation; and (iii) five million dollars
+41 ($5,000,000) in the aggregate for related violations.
+42 (3) Injunctive or declaratory relief.
+43 (4) Such monetary or punitive damages as the court may allow.
+44 (5) Attorney's fees and costs.
+45 (6) Any other relief that the court deems appropriate.
+46 (b) In determining whether a developer exercised reasonable care in the creation, use, or
+47 deployment of a covered model or covered model derivative, the attorney general shall consider
+48 all of the following:
+49 (1) The quality of such developer's safety and security protocol.
+50 (2) The extent to which the developer faithfully implemented and followed its
+51 safety and security protocol.
+Page 8 DRS35250-MCa-139A
+
+General Assembly Of North Carolina Session 2025
+1 (3) Whether, in quality and implementation, the developer's safety and security
+2 protocol was comparable to those of developers of models trained using a
+3 comparable amount of compute resources.
+4 (4) The quality and rigor of the developer's investigation, documentation,
+5 evaluation and management of risks of critical harm posed by its model.
+6 (c) A provision within a contract or agreement that seeks to waive, preclude, or burden
+7 the enforcement of liability arising from a violation of this Part, or to shift such liability to any
+8 person or entity in exchange for their use or access of, or right to use or access, a developer's
+9 product or services, including by means of a contract or adhesion, shall be deemed to be against
+10 public policy and void.
+11 Notwithstanding any corporate formalities, the court shall impose joint and several liability
+12 on affiliated entities for purposes of effectuating the intent of this section to the maximum extent
+13 permitted by law if the court concludes all of the following:
+14 (1) The affiliated entities, in the development of the corporate structure among
+15 such affiliated entities, took steps to purposely and unreasonably limit or avoid
+16 liability.
+17 (2) As a result of any such steps, the corporate structure of the developer or
+18 affiliated entities would frustrate recovery of penalties, damages, or injunctive
+19 relief under this section.
+20 (d) Penalties collected pursuant to this section by the attorney general shall be deposited
+21 into the General Fund and subject to appropriation.
+22 "§ 143B-472.83E. Cooperation with Attorney General.
+23 (a) For purposes of this section, the following definitions apply:
+24 (1) Contractor or subcontractor. – A firm, corporation, partnership or association
+25 and its responsible managing officer, as well as any supervisors, managers or
+26 officers found by the attorney general or director to be personally and
+27 substantially responsible for the rights and responsibilities of employees under
+28 this section.
+29 (2) Employee. – Any person who performs services for wages or salary under a
+30 contract of employment, express or implied, for an employer, including:
+31 a. Contractors or subcontractors and unpaid advisors involved with
+32 assessing, managing or addressing the risk of critical harm from
+33 covered models or covered model derivatives.
+34 b. Corporate officers.
+35 (b) A developer of a covered model or a contractor or subcontractor of the developer shall
+36 not:
+37 (1) Prevent an employee from disclosing information to the attorney general or
+38 any other public body, including through terms and conditions of employment
+39 or seeking to enforce terms and conditions of employment, if the employee
+40 has reasonable cause to believe the information indicates that (i) the developer
+41 is out of compliance with the requirements of this section or (ii) an artificial
+42 intelligence model, including a model that is not a covered model or a covered
+43 model derivative, poses an unreasonable risk of causing or materially enabling
+44 critical harm, even if the employer is not out of compliance with any State or
+45 federal law.
+46 (2) Retaliate against an employee for disclosing such information to the attorney
+47 general or any other public body.
+48 (3) Make false or materially misleading statements related to its safety and
+49 security protocol in any manner that would constitute an unfair or deceptive
+50 trade practice.
+DRS35250-MCa-139A Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (c) An employee harmed by a violation of this section may petition the court for
+2 appropriate relief.
+3 (d) The attorney general may publicly release any complaint, or a summary of such
+4 complaint, filed pursuant to this section if the attorney general concludes that doing so will serve
+5 the public interest; provided, however, that any information that is confidential, qualifies as a
+6 trade secret, or is determined by the attorney general to likely pose an unreasonable risk to public
+7 safety if disclosed shall be redacted from the complaint prior to disclosure.
+8 (e) A developer shall provide a clear notice to all employees working on covered models
+9 and covered model derivatives of their rights and responsibilities under this section, including
+10 the rights of employees of contractors and subcontractors to utilize the developer's internal
+11 process for making protected disclosures pursuant to subsection (f). A developer is presumed to
+12 be in compliance with the requirements of this subsection if the developer:
+13 (1) At all times posts and displays within all workplaces maintained by the
+14 developer a notice to all employees of their rights and responsibilities under
+15 this section, ensures that all new employees receive equivalent notice and
+16 ensures that employees who work remotely periodically receive an equivalent
+17 notice; or
+18 (2) At least annually, provides written notice to all employees of their rights and
+19 responsibilities under this section and ensures that such notice is received and
+20 acknowledged by all of those employees.
+21 (f) A developer shall provide a reasonable internal process through which an employee,
+22 contractor, subcontractor or employee of a contractor or subcontractor working on a covered
+23 model or covered model derivative may anonymously disclose information to the developer if
+24 the employee believes, in good faith, that the developer has violated any provision of this chapter
+25 or any other general or special law, has made false or materially misleading statements related to
+26 its safety and security protocol or has failed to disclose known risks to employees. The developer
+27 shall conduct an investigation related to any information disclosed through such process and
+28 provide, at a minimum, a monthly update to the person who made the disclosure regarding the
+29 status of the developer's investigation of the disclosure and the actions taken by the developer in
+30 response to the disclosure.
+31 Any disclosure and response created pursuant to this subsection shall be maintained for not
+32 less than seven years from the date when the disclosure or response is created. Each disclosure
+33 and response shall be shared with officers and directors of the developer whose acts or omissions
+34 are not implicated by the disclosure or response not less than once per quarter. In the case of a
+35 report or disclosure regarding alleged misconduct by a contractor or subcontractor, the developer
+36 shall notify the officers and directors of the contractor or subcontractor whose acts or omissions
+37 are not implicated by the disclosure or response about the status of their investigation not less
+38 than once per quarter.
+39 "§ 143B-472.83. Reporting and regulation.
+40 The Secretary shall file an annual report not later than January 31 with the General Assembly
+41 containing: (i) statistical information on the current workforce population in the business of the
+42 development of artificial intelligence and in adjacent technology sectors; (ii) any known
+43 workforce shortages in the development or deployment of artificial intelligence; (iii) summary
+44 information related to the efficacy of existing workforce development programs in artificial
+45 intelligence and related sectors, if any; (iv) summary information related to the availability of
+46 relevant training programs available in the State, including any known gaps in such programs
+47 generally available to members of the public; and (iv) any plans, including recommendations for
+48 legislation, if any, to remedy any such known workforce shortages.
+49 The Secretary shall promulgate regulations for the implementation, administration and
+50 enforcement of this Part; provided, however, that the Secretary may convene an advisory board
+51 for the purposes of: (i) studying the impact of artificial intelligence on the State, including with
+Page 10 DRS35250-MCa-139A
+
+General Assembly Of North Carolina Session 2025
+1 respect to its employees, constituents, private business and higher education institutions; (ii)
+2 conducting outreach and collecting input from stakeholders and experts; (iii) studying current
+3 and emerging capability for critical harms made possible by artificial intelligence developed or
+4 deployed in the State; or (iv) advising the Governor and General Assembly on recommended
+5 legislation or regulations related to the growth of the artificial intelligence industry and
+6 prevention of critical harms.
+7 Not less than annually, the Secretary shall do all of the following:
+8 (1) Update, by regulation, the initial compute threshold and the fine-tuning
+9 compute threshold that an artificial intelligence model shall meet to be
+10 considered a covered model, taking into account: (i) the quantity of computing
+11 power used to train models that have been identified as being reasonably likely
+12 to cause or materially enable a critical harm; (ii) similar thresholds used in
+13 federal law, guidance or regulations for the management of artificial
+14 intelligence models with reasonable risks of causing or enabling critical
+15 harms; and (iii) input from stakeholders, including academics, industry, the
+16 open-source community and government entities.
+17 (2) Update, by regulation, binding investigation requirements applicable to
+18 investigations conducted pursuant to this Part to ensure the integrity,
+19 independence, efficiency and effectiveness of the investigation process, taking
+20 into account: (i) relevant standards or requirements imposed under federal or
+21 State law or through self-regulatory or standards-setting bodies; (ii) input from
+22 stakeholders, including academic, industry and government entities, including
+23 from the open-source community; and (iii) consistency with guidance issued
+24 by the National Institute of Standards and Technology, including the United
+25 States Artificial Intelligence Safety Institute.
+26 (3) Issue guidance for preventing unreasonable risks of covered models and
+27 covered model derivatives causing or materially enabling critical harms,
+28 including, but not limited to, more specific components of, or requirements
+29 under, the duties required under this Part. Such guidance shall be consistent
+30 with guidance issued by the National Institute of Standards and Technology,
+31 including the United States Artificial Intelligence Safety Institute."
+32 SECTION 2. There is appropriated from the General Fund to the Department of
+33 Commerce the nonrecurring sum of seven hundred fifty thousand dollars ($750,000) for the
+34 2025-2026 fiscal year to accomplish the purposes of this act.
+35 SECTION 3. This act becomes effective July 1, 2025.
+DRS35250-MCa-139A Page 11
+
+[DELETED:  D A ( S  A A W i e c T S a " " ( F C t a s i p w r i i t S o o e s o a r t p d i t s F i t f h a t t D t p m s i c r u s s d p f ( D ( A p t – A a w s l o e d a v i b n l t c p o d l t i ( u o i c a o a m]
+[DELETED:  S  D p f ( A i i p ( A i s i – A i t d i t r o a c h o b m o a o t f a A i b T m m u i r u a o e o t m w o a c m c T c m d U c ( C n c0t o ( C t o o a c m o c m d i r ( C m – A a i m t d t i s a d o p i i i b t S a w p r o F c m i a s o a a f r t p s o i r T S m e m t o c m i ( C m d – A c o a c m t ( i u f e0t o c f ( C c r w c p c r w]
+[DELETED:  S  P g b r a a a T t i o r p a b a o p f s c o m e b a c m c w o s c a h o ( h t a n c o m e b t d m p J m c p i f a u c f t R m a a d o ( C v e S ( D ( D b c u m ( F c ( F m m ( F t ( M i a t t a t h d h i a t ( P – A i p f p j v s a o ( P o c m d b a m i b n l t f p s m w a t t o d r]
+[DELETED:  S  D s a h m o m o s m o c ( S – p c r p b c o e o p c o e t c s a ( S ( O c g a a r A t c p a e A c r ( S a a c f s a t E A A w d p a r " ( R ( R ( B ( I r a t a p c p t p u a t m o o u p m o t c m a a c m d a o ( I ( I a w a s s a s p t ( s c a o c o m e a c h ( s c r t a t d o a t p t r a w t r o s a s p h b f ( i a t p w t s i a a a o p d h t t p a t r a w p a m m d c s a r r i t s ( d i]
+[DELETED:  S  P d a p c m d m c d t c i a ( E t t s a s p i i a w i b d s p t b r f e c c m d c b t d m a r ( R f p o ( C a c t t c o t c m a i b p ( C t g p h ( a r i t s a s p p s t s o c i p t a g g ( b m t d s c p a t t t a t ( T r c t i o a m t p c m a c m d f p u r ( B u a c m o c m d f a p n e w f o ( A w t c m i r c o c o m ( R y p r u i s a w p s d f t p ( T r c t i a s t p t c m a c m d f c o m e ( T c a a]
+[DELETED:  S  D ( A n e r t t t o r e o t c m f c a t ( A p ( A i c w b p f i t p a i i ( T i s c i c w r i m h n t n w t r o t s a a r f h t d c i i p a p a d a o t d i c i d c ( t s o t l i c t r c w n ( C a i i r c u t s A e s b m p a w p s o s ( A a c d p c o w m t i o p A u t o f c m d i t d s a c i s a a a d]
+[DELETED:  S  P ( A a a i i ( T c a f g e e i t c m o c m d w d s t ( T S m d a p a t c f d o p ( A a s r ( C e f u t A d A s t s i o m t ( C t a i w a a i s p w t n o i b F f t e m b r t t D t i f t " ( A p t o a c c s i w p a p b ( O p t i a a f i c c a n o u ( A w p c t u t c c ( M c ( M u r a r o a t u t s i ( I b]
+[DELETED:  S  D I a c r u c r t w b s t t a c m t o o t c c s v s b i i c ( A a I U S A I S I a o r s o ( I c o c i " ( T E n o n r U T n m ( A v t t i c c t t h ( A w r o t P a c p i a a n e ( t t d ( f a f o ( f t d ( f a s v a ( f m d ( ( I ( S ( A ( A ( I d a ( T ( T s]
+[DELETED:  S  P ( W p c ( T q a r o t d i d e ( A t p p p N o p ( T s l ( A a r o s s t c s o d o a r ( P i " ( F ( C a o f b t a g o d t b p a s t ( E c a C o s a u a i w a m o a t r o c h f c b C ( A n ( P a o h i i m c f ( R g ( M f o m m s r t i s a s t]
+[DELETED:  S  D ( A e h b a v o t s m p t c f a ( T a g m p r a c o s c t t s ( A a t r o e o c a s t u t d i p b ( A a t p a d w a w m b t d t e n ( A r a ( A c m t o i s p s r A l a a r s a t " T c d o a i a i a t s ( a k w i i r g l T S s p r f t i a a e f]
+[DELETED:  S  P r c a d l o r r t t g o t a i i a p N ( U b r t i c t a t f c t t a a i m s m t b c p t f l g o r f t m o a i m w r r o c o e c h o ( U b r b i r a t i c p t t P t e t i i i S s f b S ( I g f p u r o c m a c m d c o m e c h i u w i S C 2 S]

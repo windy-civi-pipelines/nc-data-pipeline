@@ -1,0 +1,388 @@
+Title: HOUSE BILL DRH40146-MR-60
+Official Title: HOUSE BILL DRH40146-MR-60
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+H.B. 215
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Feb 25, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Protect Charlotte Firefighters' Ret. System. (Local)
+Sponsors: Representative Clampitt.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROTECT PARTICIPANTS AND BENEFICIARIES OF THE CHARLOTTE
+3 FIREFIGHTERS' RETIREMENT SYSTEM FROM HARM RELATED TO BREACHES
+4 OF DATA.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1.(a) Section 36 of Title VI of Chapter 506 of the 1987 Session Laws, as
+7 amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads as
+8 rewritten:
+9 "Sec. 36. Employment of Professional Services.
+10 (a) The Board of Trustees shall have the authority to employ and/or utilize professional
+11 and secretarial services and to purchase and maintain such property, equipment and supplies as
+12 are deemed necessary for the proper operation of the System. All expenses, fees and/or retainers
+13 for the employment of services shall be borne by the System with the singular exception of the
+14 employment of the Actuary. All fees and expenses in connection with the employment of a
+15 qualified actuary to perform the annual evaluation of the Retirement System's financial condition
+16 shall be paid by the City of Charlotte.
+17 (a1) Actuary. The Board of Trustees shall annually request the City to employ a qualified
+18 Actuary to perform such studies and evaluations of the Charlotte Firefighters' Retirement System
+19 as may be necessary and/or desirable by the Board or City in connection with the administration
+20 of the System. Within the meaning of this subsection, a qualified Actuary shall be an associate
+21 or fellow of the Society of Actuaries and either a member of the Conference of Consulting
+22 Actuaries or a member of the American Academy of Actuaries.
+23 (b) Medical Board. The Board of Trustees shall appoint a Medical Board to be composed
+24 of one or more physicians to serve at the pleasure of the Board. The Medical Board shall arrange
+25 for and evaluate all medical examinations required under provisions of this act. The Medical
+26 Board shall also investigate and evaluate all medical evidence, statements, and certificates
+27 submitted by and on behalf of a Member in connection with an application for disability
+28 retirement. The Medical Board shall render its conclusions and recommendations in 2017
+29 Act- approved by NC Legislature Page 20 writing to the Board of Trustees in accordance with
+30 the provisions of this act.
+31 (c) Legal Counsel. The City attorney and staff shall be the legal advisor to the Board of
+32 Trustees. The Board may employ separate legal counsel as it deems necessary and beneficial for
+33 the operation of the System.
+34 (d) Auditor. The Board of Trustees shall appoint an Auditor who shall be a certified
+35 public accountant.
+*DRH40146-MR-60*
+General Assembly Of North Carolina Session 2025
+1 (e) Administrator. The Board of Trustees shall have the authority to appoint an
+2 Administrator who shall be responsible for the administration and coordination of all System
+3 operations and activities that are not otherwise specified in this act. Such administration shall be
+4 in accordance with rules and regulations of this act and the policy and direction of the Board. In
+5 the absence of an Administrator, the Secretary of the Board as specified in Section 34(b)(2) shall
+6 be responsible for the coordination of Board meetings and providing proper notice of such
+7 meetings. The Administrator shall be domiciled in this State or otherwise subject to the relevant
+8 banking and insurance laws of this State.
+9 (f) Insurance. The Board of Trustees may shall purchase and maintain that insurance
+10 coverage that is necessary for the proper operation of the System, including worker's
+11 compensation, fidelity insurance, and officers' and employees' liability coverage. coverage, and
+12 data breach and cyber liability insurance that is for the benefit of the System and Participants and
+13 Participants' Beneficiaries. All expenses incurred in purchasing or maintaining this coverage,
+14 including fees, and retainers, shall be borne by the System."
+15 SECTION 1.(b) Section 45 of Title VII of Chapter 506 of the 1987 Session Laws,
+16 as amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads
+17 as rewritten:
+18 "Sec. 45. Annual Report to City Council. An annual report of the financial and actuarial
+19 condition of the System, as of the preceding June 30, shall be prepared and forwarded to the City
+20 Council in the quarter after receipt of the System's audit report from the Auditor. Such report
+21 shall contain but shall not be limited to the Auditor's opinion, such statements contained in the
+22 Auditor's report, a summary of the annual actuarial valuation and the actuary's valuation
+23 certification. The annual report shall also include any instances of a data breach or other
+24 cybersecurity incident impacting Participants and Participants' Beneficiaries, the cost of the
+25 incident, and the steps taken in response to the incident."
+26 SECTION 1.(c) Section 49 of Title VIII of Chapter 506 of the 1987 Session Laws,
+27 as amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads
+28 as rewritten:
+29 "Sec. 49. Custody of System Assets. The Treasurer of the Retirement System shall be the
+30 custodian and responsible for the safekeeping of all funds paid into the Charlotte Firefighters'
+31 Retirement System. The Treasurer shall deposit said funds in a bank or banks otherwise subject
+32 to the relevant banking and insurance laws of this State, as designated by the Board of Trustees.
+33 The Treasurer may, with Board concurrence, use one or more nominees to facilitate transfer of
+34 the System's securities and may hold the securities in safekeeping with the Federal Reserve
+35 System, a clearing corporation, or a custodian bank which is a member of the Federal Reserve
+36 System. All payments from said funds shall be authorized by the Treasurer only upon the signed,
+37 written request of the Administrator, or the Secretary of the Board in the absence of an
+38 administrator. The Treasurer shall furnish such bond as shall be required by the Board of Trustees
+39 and premium for said bond shall be paid out of the funds of the System."
+40 SECTION 1.(d) Section 50 of Title VIII of Chapter 506 of the 1987 Session Laws,
+41 as amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads
+42 as rewritten:
+43 "Sec. 50. Investment/Reinvestment of Funds and Assets. The Board of Trustees shall be
+44 vested with the authority and responsibility and shall have full power to hold, purchase, sell,
+45 assign, transfer, lend and dispose of any of the securities and investments in which the System
+46 shall have been invested, as well as the proceeds of said investments and any monies belonging
+47 to the System. The Board of Trustees as fiduciaries shall:
+48 (1) Discharge its duties solely in the interest of the Participants and the
+49 Beneficiaries;
+50 (2) Act with the same care, skill, prudence and diligence under the circumstances
+51 then prevailing, that a prudent person acting in a similar capacity and familiar
+Page 2 DRH40146-MR-60
+General Assembly Of North Carolina Session 2025
+1 with those matters would use in the conduct of a similar enterprise with similar
+2 aims;
+3 (3) Act with due regard for the management, reputation and stability of the issuer
+4 and the character of the particular investments being considered;
+5 (4) Make investments for the exclusive purpose of providing benefits to
+6 Participants and Participants' Beneficiaries;
+7 (5) Give appropriate consideration to those facts and circumstances the Board of
+8 Trustees knows or should know are relevant to the particular investment or
+9 investment course of action involved, including the role the investment or
+10 investment course of action plays in that portion of the System's investments
+11 for which the Board of Trustees has responsibility, and shall act accordingly.
+12 Appropriate consideration shall include, but is not limited to, a determination
+13 by the Board of Trustees that a particular investment or investment course of
+14 action is reasonably designed as part of the investments of the System to
+15 further the purposes of the System taking into consideration the risk of loss
+16 and the opportunity for gain or other return associated with the investment or
+17 investment course of action; and consideration of the following factors as they
+18 relate to the investment or the investment course of action: a. The
+19 diversification of the investments of the System; b. The liquidity and current
+20 return of the investments of the System relative to the anticipated cash flow
+21 requirements of the System; and c. The projected return of the investments of
+22 the System relative to the funding 2017 Act- approved by NC Legislature Page
+23 23 objectives of the System;
+24 (6) Give appropriate consideration to investments which would enhance the
+25 general welfare of the City and its citizens if those investments offer the safety
+26 and rate of return comparable to other investments held by the System and
+27 available to the Board of Trustees at the time the investment decision is made;
+28 (7) May use a portion of income of the System to defray the cost of investing,
+29 managing and protecting the assets of the System; and System, including data
+30 breach and cyber liability insurance, and making whole a Participant or
+31 Participant's Beneficiary who was a victim of a System data breach or other
+32 cybersecurity incident.
+33 (8) May utilize the services of Investment Fiduciaries to manage the assets of the
+34 System. These Investment Fiduciaries shall be subject to the terms, conditions,
+35 and limitations provided in this section and any limitations as set forth by the
+36 Board of Trustees."
+37 SECTION 1.(e) Title VIII of Chapter 506 of the 1987 Session Laws, as amended by
+38 Chapter 1033 of the 1987 Session Laws, Chapter 248 of the 1989 Session Laws, Chapter 830 of
+39 the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, is amended by adding a new section
+40 to read:
+41 "Sec. 55.1. Participants and Beneficiary Protection Against Cybersecurity Incidents. In
+42 addition to maintaining data breach and cyber liability insurance, the Board of Trustees shall
+43 have the duty to do all of the following to protect Participants and Beneficiaries of the System,
+44 which may be delegated to the Administrator or other contracted entity:
+45 (1) Set up a reporting mechanism and grievance procedure for Participants and
+46 Beneficiaries who may be victims of a System data breach or other
+47 cybersecurity incident.
+48 (2) Investigate all reported System data breaches or other cybersecurity incidents,
+49 regardless of the source of the report.
+50 (3) Provide resources for Participants and Beneficiaries who may be victims of a
+51 System data breach or other cybersecurity incident that include actionable
+DRH40146-MR-60 Page 3
+General Assembly Of North Carolina Session 2025
+1 steps that Participants and Beneficiaries may take to protect their funds and
+2 assets from any threats related to the System data breach or other
+3 cybersecurity incident that has occurred or that may occur.
+4 (4) If a System data breach or other cybersecurity incident is found to have
+5 occurred, make whole the Participants or Beneficiaries who were victims of
+6 that System data breach or other cybersecurity incident."
+7 SECTION 2.(a) As soon as practicable, including after assessing whether the current
+8 administrator has failed to meet its obligations under the existing contract, the Board of Trustees
+9 of the Charlotte Firefighters' Retirement System (Board of Trustees) shall contract with an
+10 administrator for the Charlotte Firefighters' Retirement System (System) that meets all of the
+11 requirements under this act.
+12 SECTION 2.(b) Within 60 days of this act becoming effective, the Board of Trustees
+13 shall enter into a contract for data breach and cyber liability insurance in accordance with this
+14 act.
+15 SECTION 2.(c) Within 60 days of this act becoming effective, the Board of Trustees
+16 shall set up the reporting mechanism and grievance procedure for Participants and Beneficiaries
+17 who may have been victims of a System data breach or other cybersecurity incident required
+18 under this act.
+19 SECTION 2.(d) The Board of Trustees shall investigate any System data breaches
+20 or other cybersecurity incidents that have been reported within a year prior to the effective date
+21 of this act or after and provide the resources required under this act to Participants and
+22 Beneficiaries if any are found to have occurred on or after that date.
+23 SECTION 2.(e) The requirement under this act to make whole a Participant or
+24 Beneficiary who is a victim of a System data breach or other cybersecurity incident shall apply
+25 to incidents occurring on or after the effective date of this act.
+26 SECTION 3. This act applies only to the City of Charlotte.
+27 SECTION 4. This act is effective when it becomes law.
+Page 4 DRH40146-MR-60
+[DELETED:  D P ( R  A A F O T S a r " ( T a a f e q s ( A A a o o A ( M o f B s a i a e a m e s a c s b a o b o a M i c w a a f d r T M B s r i c a r i 2 A t ( L T t ( A p]
+[DELETED:  S  D ( A T B o T s h t a t a a A o i t b r f t c o a p p o m b ( I c t i n f t p o o t S i w c d P i S a a " c C s A r a s o t a a v a t a v c T a r s a i a i o a d b o o c i i P a P B t c o t i S a a " c R t T t S S w r o t A o t S o t B i t a o a a a S a a " v a s t ( D i d s i t i o t P a t B ( A t]
+[DELETED:  S  P w a ( A a ( M i f t e p o p b t P ( G T i i f A b a f a i r t t i o t i c o a a T d r r t 2 ( G a c t i w w e t g a a ( M m b a c l i a m w a P o P c ( M S a B S C t t " a h w ( S B w m b v o a S d b o o c ( I r ( P S]
+[DELETED:  S  D s a f a t r t t S d b o o c ( I a S d b o o c i i f t h o t S a o t C F R S ( o T s c w a a r S s a S s w u S o o t a o a a p t r r u t a t P a B S B t S S]
+
+
+================================================================================
+
+Raw Text:
+H.B. 215
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Feb 25, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40146-MR-60
+Short Title: Protect Charlotte Firefighters' Ret. System. (Local)
+Sponsors: Representative Clampitt.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROTECT PARTICIPANTS AND BENEFICIARIES OF THE CHARLOTTE
+3 FIREFIGHTERS' RETIREMENT SYSTEM FROM HARM RELATED TO BREACHES
+4 OF DATA.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1.(a) Section 36 of Title VI of Chapter 506 of the 1987 Session Laws, as
+7 amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads as
+8 rewritten:
+9 "Sec. 36. Employment of Professional Services.
+10 (a) The Board of Trustees shall have the authority to employ and/or utilize professional
+11 and secretarial services and to purchase and maintain such property, equipment and supplies as
+12 are deemed necessary for the proper operation of the System. All expenses, fees and/or retainers
+13 for the employment of services shall be borne by the System with the singular exception of the
+14 employment of the Actuary. All fees and expenses in connection with the employment of a
+15 qualified actuary to perform the annual evaluation of the Retirement System's financial condition
+16 shall be paid by the City of Charlotte.
+17 (a1) Actuary. The Board of Trustees shall annually request the City to employ a qualified
+18 Actuary to perform such studies and evaluations of the Charlotte Firefighters' Retirement System
+19 as may be necessary and/or desirable by the Board or City in connection with the administration
+20 of the System. Within the meaning of this subsection, a qualified Actuary shall be an associate
+21 or fellow of the Society of Actuaries and either a member of the Conference of Consulting
+22 Actuaries or a member of the American Academy of Actuaries.
+23 (b) Medical Board. The Board of Trustees shall appoint a Medical Board to be composed
+24 of one or more physicians to serve at the pleasure of the Board. The Medical Board shall arrange
+25 for and evaluate all medical examinations required under provisions of this act. The Medical
+26 Board shall also investigate and evaluate all medical evidence, statements, and certificates
+27 submitted by and on behalf of a Member in connection with an application for disability
+28 retirement. The Medical Board shall render its conclusions and recommendations in 2017
+29 Act- approved by NC Legislature Page 20 writing to the Board of Trustees in accordance with
+30 the provisions of this act.
+31 (c) Legal Counsel. The City attorney and staff shall be the legal advisor to the Board of
+32 Trustees. The Board may employ separate legal counsel as it deems necessary and beneficial for
+33 the operation of the System.
+34 (d) Auditor. The Board of Trustees shall appoint an Auditor who shall be a certified
+35 public accountant.
+*DRH40146-MR-60*
+
+General Assembly Of North Carolina Session 2025
+1 (e) Administrator. The Board of Trustees shall have the authority to appoint an
+2 Administrator who shall be responsible for the administration and coordination of all System
+3 operations and activities that are not otherwise specified in this act. Such administration shall be
+4 in accordance with rules and regulations of this act and the policy and direction of the Board. In
+5 the absence of an Administrator, the Secretary of the Board as specified in Section 34(b)(2) shall
+6 be responsible for the coordination of Board meetings and providing proper notice of such
+7 meetings. The Administrator shall be domiciled in this State or otherwise subject to the relevant
+8 banking and insurance laws of this State.
+9 (f) Insurance. The Board of Trustees may shall purchase and maintain that insurance
+10 coverage that is necessary for the proper operation of the System, including worker's
+11 compensation, fidelity insurance, and officers' and employees' liability coverage. coverage, and
+12 data breach and cyber liability insurance that is for the benefit of the System and Participants and
+13 Participants' Beneficiaries. All expenses incurred in purchasing or maintaining this coverage,
+14 including fees, and retainers, shall be borne by the System."
+15 SECTION 1.(b) Section 45 of Title VII of Chapter 506 of the 1987 Session Laws,
+16 as amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads
+17 as rewritten:
+18 "Sec. 45. Annual Report to City Council. An annual report of the financial and actuarial
+19 condition of the System, as of the preceding June 30, shall be prepared and forwarded to the City
+20 Council in the quarter after receipt of the System's audit report from the Auditor. Such report
+21 shall contain but shall not be limited to the Auditor's opinion, such statements contained in the
+22 Auditor's report, a summary of the annual actuarial valuation and the actuary's valuation
+23 certification. The annual report shall also include any instances of a data breach or other
+24 cybersecurity incident impacting Participants and Participants' Beneficiaries, the cost of the
+25 incident, and the steps taken in response to the incident."
+26 SECTION 1.(c) Section 49 of Title VIII of Chapter 506 of the 1987 Session Laws,
+27 as amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads
+28 as rewritten:
+29 "Sec. 49. Custody of System Assets. The Treasurer of the Retirement System shall be the
+30 custodian and responsible for the safekeeping of all funds paid into the Charlotte Firefighters'
+31 Retirement System. The Treasurer shall deposit said funds in a bank or banks otherwise subject
+32 to the relevant banking and insurance laws of this State, as designated by the Board of Trustees.
+33 The Treasurer may, with Board concurrence, use one or more nominees to facilitate transfer of
+34 the System's securities and may hold the securities in safekeeping with the Federal Reserve
+35 System, a clearing corporation, or a custodian bank which is a member of the Federal Reserve
+36 System. All payments from said funds shall be authorized by the Treasurer only upon the signed,
+37 written request of the Administrator, or the Secretary of the Board in the absence of an
+38 administrator. The Treasurer shall furnish such bond as shall be required by the Board of Trustees
+39 and premium for said bond shall be paid out of the funds of the System."
+40 SECTION 1.(d) Section 50 of Title VIII of Chapter 506 of the 1987 Session Laws,
+41 as amended by Chapter 830 of the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, reads
+42 as rewritten:
+43 "Sec. 50. Investment/Reinvestment of Funds and Assets. The Board of Trustees shall be
+44 vested with the authority and responsibility and shall have full power to hold, purchase, sell,
+45 assign, transfer, lend and dispose of any of the securities and investments in which the System
+46 shall have been invested, as well as the proceeds of said investments and any monies belonging
+47 to the System. The Board of Trustees as fiduciaries shall:
+48 (1) Discharge its duties solely in the interest of the Participants and the
+49 Beneficiaries;
+50 (2) Act with the same care, skill, prudence and diligence under the circumstances
+51 then prevailing, that a prudent person acting in a similar capacity and familiar
+Page 2 DRH40146-MR-60
+
+General Assembly Of North Carolina Session 2025
+1 with those matters would use in the conduct of a similar enterprise with similar
+2 aims;
+3 (3) Act with due regard for the management, reputation and stability of the issuer
+4 and the character of the particular investments being considered;
+5 (4) Make investments for the exclusive purpose of providing benefits to
+6 Participants and Participants' Beneficiaries;
+7 (5) Give appropriate consideration to those facts and circumstances the Board of
+8 Trustees knows or should know are relevant to the particular investment or
+9 investment course of action involved, including the role the investment or
+10 investment course of action plays in that portion of the System's investments
+11 for which the Board of Trustees has responsibility, and shall act accordingly.
+12 Appropriate consideration shall include, but is not limited to, a determination
+13 by the Board of Trustees that a particular investment or investment course of
+14 action is reasonably designed as part of the investments of the System to
+15 further the purposes of the System taking into consideration the risk of loss
+16 and the opportunity for gain or other return associated with the investment or
+17 investment course of action; and consideration of the following factors as they
+18 relate to the investment or the investment course of action: a. The
+19 diversification of the investments of the System; b. The liquidity and current
+20 return of the investments of the System relative to the anticipated cash flow
+21 requirements of the System; and c. The projected return of the investments of
+22 the System relative to the funding 2017 Act- approved by NC Legislature Page
+23 23 objectives of the System;
+24 (6) Give appropriate consideration to investments which would enhance the
+25 general welfare of the City and its citizens if those investments offer the safety
+26 and rate of return comparable to other investments held by the System and
+27 available to the Board of Trustees at the time the investment decision is made;
+28 (7) May use a portion of income of the System to defray the cost of investing,
+29 managing and protecting the assets of the System; and System, including data
+30 breach and cyber liability insurance, and making whole a Participant or
+31 Participant's Beneficiary who was a victim of a System data breach or other
+32 cybersecurity incident.
+33 (8) May utilize the services of Investment Fiduciaries to manage the assets of the
+34 System. These Investment Fiduciaries shall be subject to the terms, conditions,
+35 and limitations provided in this section and any limitations as set forth by the
+36 Board of Trustees."
+37 SECTION 1.(e) Title VIII of Chapter 506 of the 1987 Session Laws, as amended by
+38 Chapter 1033 of the 1987 Session Laws, Chapter 248 of the 1989 Session Laws, Chapter 830 of
+39 the 1991 Session Laws, S.L. 1990-100, and S.L. 2001-22, is amended by adding a new section
+40 to read:
+41 "Sec. 55.1. Participants and Beneficiary Protection Against Cybersecurity Incidents. In
+42 addition to maintaining data breach and cyber liability insurance, the Board of Trustees shall
+43 have the duty to do all of the following to protect Participants and Beneficiaries of the System,
+44 which may be delegated to the Administrator or other contracted entity:
+45 (1) Set up a reporting mechanism and grievance procedure for Participants and
+46 Beneficiaries who may be victims of a System data breach or other
+47 cybersecurity incident.
+48 (2) Investigate all reported System data breaches or other cybersecurity incidents,
+49 regardless of the source of the report.
+50 (3) Provide resources for Participants and Beneficiaries who may be victims of a
+51 System data breach or other cybersecurity incident that include actionable
+DRH40146-MR-60 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 steps that Participants and Beneficiaries may take to protect their funds and
+2 assets from any threats related to the System data breach or other
+3 cybersecurity incident that has occurred or that may occur.
+4 (4) If a System data breach or other cybersecurity incident is found to have
+5 occurred, make whole the Participants or Beneficiaries who were victims of
+6 that System data breach or other cybersecurity incident."
+7 SECTION 2.(a) As soon as practicable, including after assessing whether the current
+8 administrator has failed to meet its obligations under the existing contract, the Board of Trustees
+9 of the Charlotte Firefighters' Retirement System (Board of Trustees) shall contract with an
+10 administrator for the Charlotte Firefighters' Retirement System (System) that meets all of the
+11 requirements under this act.
+12 SECTION 2.(b) Within 60 days of this act becoming effective, the Board of Trustees
+13 shall enter into a contract for data breach and cyber liability insurance in accordance with this
+14 act.
+15 SECTION 2.(c) Within 60 days of this act becoming effective, the Board of Trustees
+16 shall set up the reporting mechanism and grievance procedure for Participants and Beneficiaries
+17 who may have been victims of a System data breach or other cybersecurity incident required
+18 under this act.
+19 SECTION 2.(d) The Board of Trustees shall investigate any System data breaches
+20 or other cybersecurity incidents that have been reported within a year prior to the effective date
+21 of this act or after and provide the resources required under this act to Participants and
+22 Beneficiaries if any are found to have occurred on or after that date.
+23 SECTION 2.(e) The requirement under this act to make whole a Participant or
+24 Beneficiary who is a victim of a System data breach or other cybersecurity incident shall apply
+25 to incidents occurring on or after the effective date of this act.
+26 SECTION 3. This act applies only to the City of Charlotte.
+27 SECTION 4. This act is effective when it becomes law.
+Page 4 DRH40146-MR-60
+
+[DELETED:  D P ( R  A A F O T S a r " ( T a a f e q s ( A A a o o A ( M o f B s a i a e a m e s a c s b a o b o a M i c w a a f d r T M B s r i c a r i 2 A t ( L T t ( A p]
+[DELETED:  S  D ( A T B o T s h t a t a a A o i t b r f t c o a p p o m b ( I c t i n f t p o o t S i w c d P i S a a " c C s A r a s o t a a v a t a v c T a r s a i a i o a d b o o c i i P a P B t c o t i S a a " c R t T t S S w r o t A o t S o t B i t a o a a a S a a " v a s t ( D i d s i t i o t P a t B ( A t]
+[DELETED:  S  P w a ( A a ( M i f t e p o p b t P ( G T i i f A b a f a i r t t i o t i c o a a T d r r t 2 ( G a c t i w w e t g a a ( M m b a c l i a m w a P o P c ( M S a B S C t t " a h w ( S B w m b v o a S d b o o c ( I r ( P S]
+[DELETED:  S  D s a f a t r t t S d b o o c ( I a S d b o o c i i f t h o t S a o t C F R S ( o T s c w a a r S s a S s w u S o o t a o a a p t r r u t a t P a B S B t S S]

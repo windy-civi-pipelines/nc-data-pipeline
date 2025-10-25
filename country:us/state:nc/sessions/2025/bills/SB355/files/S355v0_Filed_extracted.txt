@@ -1,0 +1,1331 @@
+Title: SENATE BILL DRS35135-ND-50
+Official Title: SENATE BILL DRS35135-ND-50
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 20, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 355
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Support the Dept. of Adult Correction.-AB (Public)
+Sponsors: Senators Daniel, Britt, and B. Newton (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO SUPPORT THE WORK OF THE DEPARTMENT OF ADULT CORRECTION.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. COMMUNITY SUPERVISION
+6
+7 WAIVE TUITION FOR SURVIVORS OF FALLEN PROBATION OFFICERS
+8 SECTION 1.1.(a) G.S. 115B-1 reads as rewritten:
+9 "§ 115B-1. Definitions.
+10 The following definitions apply in this Chapter:
+11 …
+12 (4) Permanently and totally disabled as a direct result of a traumatic injury
+13 sustained in the line of duty. – A person: (i) who as a law enforcement officer,
+14 correctional officer, probation officer, firefighter, volunteer firefighter, or
+15 rescue squad worker suffered a disabling injury while in active service or
+16 training for active service, (ii) who at the time of active service or training was
+17 a North Carolina resident, and (iii) who has been determined to be
+18 permanently and totally disabled for compensation purposes by the North
+19 Carolina Industrial Commission.
+20 (4c) Probation officer. – An employee of an employer who is certified as a
+21 probation officer under the provisions of Article 1 of Chapter 17C of the
+22 General Statutes.
+23 …
+24 (6) Survivor. – Any person whose parent, legal guardian, legal custodian, or
+25 spouse: (i) was a law enforcement officer, a correctional officer, a probation
+26 officer, a firefighter, a volunteer firefighter, or a rescue squad worker, (ii) was
+27 killed while in active service or training for active service or died as a result
+28 of a service-connected disability, and (iii) at the time of active service or
+29 training was a North Carolina resident. The term does not include the widow
+30 or widower of a law enforcement officer, correctional officer, probation
+31 officer, firefighter, volunteer firefighter, or a rescue squad worker if the
+32 widow or widower has remarried.
+33 …."
+34 SECTION 1.1.(b) G.S. 115B-2(a) reads as rewritten:
+*DRS35135-ND-50*
+General Assembly Of North Carolina Session 2025
+1 "(a) The constituent institutions of The University of North Carolina and the community
+2 colleges as defined in G.S. 115D-2(2) shall permit the following persons to attend classes for
+3 credit or noncredit purposes without the required payment of tuition:
+4 …
+5 (2) Any person who is the survivor of a law enforcement officer, correctional
+6 officer, probation officer, firefighter, volunteer firefighter, or rescue squad
+7 worker killed as a direct result of a traumatic injury sustained in the line of
+8 duty.
+9 (3) The spouse of a law enforcement officer, correctional officer, probation
+10 officer, firefighter, volunteer firefighter, or rescue squad worker who is
+11 permanently and totally disabled as a direct result of a traumatic injury
+12 sustained in the line of duty.
+13 (4) Any child, if the child is at least 17 years old but not yet 24 years old, whose
+14 parent, legal guardian, or legal custodian is a law enforcement officer,
+15 correctional officer, probation officer, firefighter, volunteer firefighter, or
+16 rescue squad worker who is permanently and totally disabled as a direct result
+17 of a traumatic injury sustained in the line of duty. However, a child's eligibility
+18 for a waiver of tuition under this Chapter shall not exceed: (i) 54 months, if
+19 the child is seeking a baccalaureate degree, or (ii) if the child is not seeking a
+20 baccalaureate degree, the number of months required to complete the
+21 educational program to which the child is applying.
+22 …."
+23 SECTION 1.1.(c) G.S. 115B-5(b) reads as rewritten:
+24 "(b) The officials of the institutions charged with administration of this Chapter shall
+25 require the following proof to insure that a person applying to the institution and who requests a
+26 tuition waiver under G.S. 115B-2(a)(2), (3), or (4) is eligible for the benefits provided by this
+27 Chapter.
+28 …
+29 (3) The cause of death of the law enforcement officer, correctional officer,
+30 probation officer, firefighter, volunteer firefighter, or rescue squad worker
+31 shall be verified by certification from the records of the Department of State
+32 Treasurer, the appropriate city or county law enforcement agency that
+33 employed the deceased, the administrative agency for the fire department or
+34 fire protection district recognized for funding under the Department of State
+35 Auditor, or the administrative agency having jurisdiction over any paid
+36 firefighters of all counties and cities.
+37 …."
+38 SECTION 1.1.(d) This section is effective when it becomes law and applies to
+39 waivers of tuition granted on or after that date.
+40
+41 MODIFY TECHNICAL REQUIREMENTS FOR ELECTRONIC
+42 MONITORING/SATELLITE-BASED MONITORING
+43 SECTION 1.2.(a) G.S. 15A-101.1 reads as rewritten:
+44 "§ 15A-101.1. Electronic technology in criminal process and procedure.
+45 As used in this Chapter, in Chapter 7A of the General Statutes, in Chapter 15 of the General
+46 Statutes, and in all other provisions of the General Statutes that deal with criminal process or
+47 procedure:
+48 (1) "Attach" or "attached" means, when Attach or attached. – When referring to
+49 documents existing in paper form, physical attachment by staples, clips, or
+50 other mechanical means, or managed such that neither document is stored or
+51 delivered without the other. When referring to documents stored in electronic
+Page 2 DRS35135-ND-50
+General Assembly Of North Carolina Session 2025
+1 form, the term means either storage as a single digital file or storage in a
+2 manner that a user interface for access to the documents displays clearly the
+3 logical association between them, to the exclusion of other, unassociated
+4 documents displayed with them. When referring to documents delivered in
+5 electronic form, the term means documents delivered simultaneously and via
+6 the same mechanism or medium, including, but not limited to, any of the
+7 following: (i) delivery via a single email message, (ii) delivery on a single unit
+8 of removable electronic media, or (iii) delivery in immediate,
+9 contemporaneous sequence with one another from the same source to the same
+10 recipient. It is not necessary that the relationship between documents appear
+11 on the face of the documents in order to be deemed attached.
+12 (1a) "Copy" means all Copy. – All identical versions of a document created or
+13 existing in paper or electronic form, including the original and all other
+14 identical versions of the document. Except where otherwise expressly
+15 provided by law or when authority is vested only in a certified copy, a copy
+16 of a document is equally authoritative as the original.
+17 (2) "Document" means any Document. – Any pleading, criminal process,
+18 subpoena, complaint, motion, application, notice, affidavit, commission,
+19 waiver, consent, dismissal, order, judgment, or other writing intended in a
+20 criminal or contempt proceeding to authorize or require an action, to record a
+21 decision or to communicate or record information. A document may be
+22 created and exist in paper form or in electronic form or in both forms. Each
+23 document shall contain the legible, printed name of the person who signed the
+24 document.
+25 (3) "Electronic" means relating Electronic. – Relating to technology having
+26 electrical, digital, magnetic, wireless, optical, electromagnetic, Internet, or
+27 similar capabilities.
+28 (3a) "Electronic monitoring" or "electronically monitor" or "satellite-based
+29 monitoring" means monitoring Electronic monitoring or electronically
+30 monitor or satellite-based monitoring. – Monitoring with an electronic
+31 monitoring device that is not removed from a person's body, that is utilized by
+32 the supervising agency in conjunction with a Web-based computer system that
+33 actively monitors, identifies, tracks, and records a person's location at least
+34 once every minute 24 hours a day, that has a battery life of at least 48 hours
+35 without being recharged, that timely records and reports or records the
+36 person's presence near or within a crime scene or prohibited area or the
+37 person's departure from a specified geographic location, and that has
+38 incorporated into the software the ability to automatically compare crime
+39 scene data with locations of all persons being electronically monitored so as
+40 to provide any correlation daily or in real time. In areas of the State where lack
+41 of cellular coverage requires the use of an alternative device, the supervising
+42 agency shall use an alternative device that works in concert with the software
+43 and records location and tracking data for later download and crime scene
+44 comparison.
+45 (4) "Electronic Repository" means an Electronic repository. – An automated
+46 electronic repository for criminal process created and maintained pursuant to
+47 G.S. 15A-301.1.
+48 …
+49 (6) "Entered" means signed Entered. – Signed and filed in the office of the clerk
+50 of superior court of the county in which the document is to be entered. A
+51 document may be entered in either paper form or electronic form.
+DRS35135-ND-50 Page 3
+General Assembly Of North Carolina Session 2025
+1 (7) "Filing" or "filed" means:Filing or filed. –
+2 …
+3 (8) "Issued" applies Issued. – Applies to documents in either paper form or
+4 electronic form. A document that is first created in paper form is issued when
+5 it is signed. A document that is first created in electronic form is issued when
+6 it is signed and filed in the office of the clerk of superior court of the county
+7 for which it is to be issued.
+8 (9) "Original" means:Original. –
+9 …
+10 (10) "Signature" means any Signature. – Any symbol, including, but not limited to,
+11 the name of an individual, which is executed by that individual, personally or
+12 through an authorized agent, with the intent to authenticate or to effect the
+13 issuance or entry of a document. A document may be signed by the use of any
+14 manual, mechanical or electronic means that causes the individual's signature
+15 to appear in or on the document. Any party challenging the validity of a
+16 signature shall have the burden of pleading, producing evidence, and proving
+17 that the signature was not the act of the person whose signature it appears to
+18 be."
+19 SECTION 1.2.(b) This section is effective when it becomes law and applies to an
+20 electronic monitoring device used on or after that date.
+21
+22 EXTENSION OF MAXIMUM ALLOWABLE PERIOD OF PROBATION
+23 SECTION 1.3.(a) G.S. 15A-1342(a) reads as rewritten:
+24 "(a) Period. – The court may place a convicted offender on probation for the appropriate
+25 period as specified in G.S. 15A-1343.2(d), not to exceed a maximum of five years. years, unless
+26 an extension is authorized pursuant to G.S. 15A-1344 thereby extending the maximum by one
+27 additional year. The court may place a defendant as to whom prosecution has been deferred or
+28 who receives a conditional discharge on probation for a maximum of two years. The probation
+29 remains conditional and subject to revocation during the period of probation imposed, unless
+30 terminated as provided in subsection (b) or G.S. 15A-1341(c).
+31 Extension. – In addition to G.S. 15A-1344, the court with the consent of the defendant may
+32 extend the period of probation beyond the original period (i) for the purpose of allowing the
+33 defendant to complete a program of restitution, or (ii) to allow the defendant to continue medical
+34 or psychiatric treatment ordered as a condition of the probation. The period of extension shall not
+35 exceed three years beyond the original period of probation. The special extension authorized
+36 herein may be ordered only in the last six months of the original period of probation. Any
+37 probationary judgment form provided to a defendant on supervised probation shall state that
+38 probation may be extended pursuant to this subsection."
+39 SECTION 1.3.(b) G.S. 15A-1343.2(d) reads as rewritten:
+40 "(d) Lengths of Probation Terms Under Structured Sentencing. – Unless the court makes
+41 specific findings that longer or shorter periods of probation are necessary, the length of the
+42 original period of probation for offenders sentenced under Article 81B shall be as follows:
+43 …
+44 If the court finds at the time of sentencing that a longer period of probation is necessary, that
+45 period may not exceed a maximum of five years, as specified in G.S. 15A-1342 and
+46 G.S. 15A-1351.G.S. 15A-1351, unless an extension is authorized pursuant to G.S. 15A-1344
+47 thereby extending the maximum by one additional year.
+48 Extension. – The court may with the consent of the offender extend the original period of the
+49 probation if necessary to complete a program of restitution or to complete medical or psychiatric
+50 treatment ordered as a condition of probation. This extension may be for no more than three
+51 years, and may only be ordered in the last six months of the original period of probation."
+Page 4 DRS35135-ND-50
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.3.(c) G.S. 15A-1344(d) reads as rewritten:
+2 "(d) Extension and Modification; Response to Violations. – At any time prior to the
+3 expiration or termination of the probation period or in accordance with subsection (f) of this
+4 section, the court may after notice and hearing hearing, unless the probationer waives the hearing,
+5 and for good cause shown extend the period of probation up to the maximum allowed under
+6 G.S. 15A-1342(a) and may modify the conditions of probation. probation, however, no more
+7 than one extension of any probation period may be ordered except that the court may extend the
+8 total time on probation by up to one additional year if the probationer admits the probationer has
+9 violated their conditions of probation or is found by the court to have violated the conditions of
+10 their probation. Total time on any probation term, including any extension, shall not exceed the
+11 maximum term as established in G.S. 15A-1342(a) plus one additional year if the probationer
+12 admits or the court finds that the probationer has violated their conditions of probation. A hearing
+13 extending or modifying probation may be held in the absence of a defendant who fails to appear
+14 for the hearing after a reasonable effort to notify the defendant. If a probationer violates a
+15 condition of probation at any time prior to the expiration or termination of the period of probation,
+16 the court, in accordance with the provisions of G.S. 15A-1345, may continue the defendant on
+17 probation, with or without modifying the conditions, may place the defendant on special
+18 probation as provided in subsection (e), or, if continuation, modification, or special probation is
+19 not appropriate, may revoke the probation and activate the suspended sentence imposed at the
+20 time of initial sentencing, if any, or may order that charges as to which prosecution has been
+21 deferred be brought to trial; provided that probation may not be revoked solely for conviction of
+22 a Class 3 misdemeanor. The court, before activating a sentence to imprisonment established when
+23 the defendant was placed on probation, may reduce the sentence, but the reduction shall be
+24 consistent with subsection (d1) of this section. A sentence activated upon revocation of probation
+25 commences on the day probation is revoked and runs concurrently with any other period of
+26 probation, parole, or imprisonment to which the defendant is subject during that period unless
+27 the revoking judge specifies that it is to run consecutively with the other period."
+28 SECTION 1.3.(d) This section becomes effective December 1, 2025, and applies to
+29 new terms of probation ordered on or after that date.
+30
+31 PART II. INSTITUTIONS
+32
+33 SEXUALLY VIOLENT PREDATOR DETERMINATIONS
+34 SECTION 2.1.(a) G.S. 14-208.20(b) reads as rewritten:
+35 "(b) Prior to sentencing a person as a sexually violent predator, the court shall order a
+36 presentence investigation in accordance with G.S. 15A-1332(c). However, the study of the
+37 defendant and whether the defendant is a sexually violent predator shall be conducted by a board
+38 of experts selected by the Division of Prisons of the Department of Adult Correction. The board
+39 of experts shall be composed of at least four people. Two of the board members shall be experts
+40 in the field of the behavior and treatment of sexual offenders, one of whom shall be selected from
+41 a panel of experts in those fields provided by the North Carolina Medical Society and not be
+42 employed full time with the Division of Prisons of the Department of Adult Correction or
+43 employed on a full-time basis with any other State agency. One of the board members shall be a
+44 victims' rights advocate, and one of the board members shall be a representative of law
+45 enforcement agencies."
+46 SECTION 2.1.(b) This section becomes effective December 1, 2025, and applies to
+47 boards of experts selected on or after that date.
+48
+49 EXTEND SUNSET DATE FOR USE OF SECURITY GUARDS AT STATE PRISONS
+DRS35135-ND-50 Page 5
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.2.(a) Section 4.15(c) of S.L. 2020-3, as amended by Section 2 of S.L.
+2 2020-15, Section 19D.2 of S.L. 2021-180, Section 12 of S.L. 2022-58, Section 19D.1 of S.L.
+3 2022-74, and Section 9(a) of S.L. 2023-121, reads as rewritten:
+4 "SECTION 4.15.(c) This section is effective when it becomes law and expires on June 30,
+5 2025.2027."
+6 SECTION 2.2.(b) This section is effective when it becomes law.
+7
+8 PART III. SUPPORT SERVICES
+9
+10 USE OF AVAILABLE FUNDS FOR REPAIR AND RENOVATION PURPOSES
+11 SECTION 3.1.(a) G.S. 143C-8-13 is amended by adding a new subsection to read:
+12 "(e) Notwithstanding any provision of G.S. 143C-8-7 to the contrary, the Secretary of the
+13 Department of Adult Correction may pay for projects for repairs and renovations with funds
+14 available to the agency according to the following requirements:
+15 (1) The project meets all of the following requirements:
+16 a. The total project costs do not exceed one million dollars ($1,000,000).
+17 b. The project is one of the types set forth in subdivisions (1) through
+18 (13) of subsection (a) of this section, regardless of whether the relevant
+19 facilities and related infrastructure are supported from the General
+20 Fund or the State Capital and Infrastructure Fund.
+21 (2) The Department reports on projects undertaken pursuant to this subsection to
+22 the Fiscal Research Division on a quarterly basis. The report shall include all
+23 of the following information for each project:
+24 a. The facility at which the project is being undertaken.
+25 b. The nature and scope of the project.
+26 c. The source of funds for the project.
+27 d. The category of projects set forth in subsection (a) of this section that
+28 the project falls within.
+29 (3) Any funds from a General Fund appropriation that are contractually obligated
+30 for a project pursuant to this subsection shall not revert at the end of the fiscal
+31 year but shall remain available to fund the completion of the project."
+32 SECTION 3.1.(b) This section is effective when it becomes law and applies to
+33 payments for projects for repairs and renovations occurring on or after that date.
+34
+35 REMAINING BALANCES FROM OLD INDEBTEDNESS PROJECTS
+36 SECTION 3.2.(a) Notwithstanding S.L. 2006-66 and S.L. 2015-241, the Department
+37 of Adult Correction may use up to one million six hundred twelve thousand four hundred
+38 eighty-one dollars and fourteen cents ($1,612,481.14) from the projects described in Section
+39 23.12(g) of S.L. 2006-66 and Section 31.22 of S.L. 2015-241 to finance capital facility costs of
+40 HVAC projects at State facilities. No additional special indebtedness may be issued or incurred
+41 to finance these projects. The use of funds authorized by this section shall not require further
+42 approval by the Council of State pursuant to Chapter 142 of the General Statutes.
+43 SECTION 3.2.(b) This section is effective when it becomes law.
+44
+45 PART IV. COMPREHENSIVE HEALTH SERVICES
+46
+47 TEMPORARY EMPLOYEE 31-DAY SEPARATION EXCEPTION
+48 SECTION 4.1.(a) G.S. 126-6.3 reads as rewritten:
+49 "§ 126-6.3. Temporary employment needs of Cabinet and Council of State agencies; use of
+50 the Temporary Solutions Program.
+Page 6 DRS35135-ND-50
+General Assembly Of North Carolina Session 2025
+1 (a) Use of Temporary Solutions Required for Cabinet Agencies. – Notwithstanding
+2 G.S. 126-5 or any other provision of law, all Cabinet agencies that utilize temporary employees
+3 to perform work that is not health services-related in the Department of Adult Correction and the
+4 Department of Health and Human Services or information technology-related shall employ them
+5 through the Temporary Solutions Program administered by the Office of State Human Resources
+6 (OSHR). Council of State agencies may use the Temporary Solutions Program in the discretion
+7 of the agency.
+8 …
+9 (b1) Exemption. – Notwithstanding this section and the policies and rules adopted
+10 pursuant to it, health services-related temporary employees working in the Department of Adult
+11 Correction and the Department of Health and Human Services shall be exempt from any
+12 break-in-service requirement. This exemption is only for purposes of Article 1 of Chapter 126 of
+13 the General Statutes. This subsection does not apply to the mandatory break-in-service
+14 requirement for purposes of Chapter 135 of the General Statutes.
+15 …."
+16 SECTION 4.1.(b) This section is effective when it becomes law and applies to
+17 temporary employees hired on or after that date.
+18
+19 PART V. OFFICE OF STAFF DEVELOPMENT AND TRAINING (OSDT)
+20
+21 VESTED PROBATION AND PAROLE OFFICERS MAINTAIN ELIGIBILITY FOR
+22 SUPPLEMENTAL RETIREMENT WHEN SERVING IN NONCERTIFIED ROLES
+23 SECTION 5.1.(a) G.S. 135-1 reads as rewritten:
+24 "§ 135-1. Definitions.
+25 The following words and phrases as used in this Chapter, unless a different meaning is plainly
+26 required by the context, shall have the following meanings:
+27 (1) "Accumulated contributions" shall mean the Accumulated contributions. –
+28 The sum of all the amounts deducted from the compensation of a member and
+29 accredited to his individual account in the annuity savings fund, together with
+30 regular interest thereon as provided in G.S. 135-8.
+31 (2) "Actuarial equivalent" shall mean a Actuarial equivalent. – A benefit of equal
+32 value when computed upon the basis of actuarial assumptions as shall be
+33 adopted by the Board of Trustees.
+34 (3) "Annuity" shall mean payments Annuity. – Payments for life derived from
+35 that "accumulated contribution" of a member. All annuities shall be payable
+36 in equal monthly installments.
+37 (4) "Annuity reserve" shall mean the Annuity reserve. – The present value of all
+38 payments to be made on account of any annuity or benefit in lieu of any
+39 annuity, computed upon the basis of such mortality tables as shall be adopted
+40 by the Board of Trustees, and regular interest.
+41 (4a) "Authorized Authorized representatives who are assisting the Retirement
+42 Systems Division staff" means only staff. – Only other staff of the Department
+43 of State Treasurer, staff of the Department of Justice, or persons providing
+44 internal auditing assistance required under G.S. 143-746(b).
+45 …
+46 (5) "Average Average final compensation" shall mean the compensation. – The
+47 average annual compensation of a member during the four consecutive
+48 calendar years of membership service producing the highest such average; but
+49 shall not include any compensation, as determined by the Board of Trustees,
+50 for the reimbursement of expenses or payments for housing or any other
+51 allowances whether or not classified as salary and wages. Payout of vacation
+DRS35135-ND-50 Page 7
+General Assembly Of North Carolina Session 2025
+1 leave shall be included in "average final compensation" only if the payout is
+2 received by the member during the four consecutive calendar years of
+3 membership service producing the highest average annual compensation of
+4 the member. In the event a member is or has been in receipt of a benefit under
+5 the provisions of G.S. 135-105 or G.S. 135-106, the compensation used in the
+6 calculation of "average final compensation" shall be the higher of
+7 compensation of the member under the provisions of this Article or
+8 compensation used in calculating the payment of benefits under Article 6 of
+9 this Chapter as adjusted for percentage increases in the post disability benefit.
+10 (6) "Beneficiary" shall mean any Beneficiary. – Any person in receipt of a
+11 pension, an annuity, a retirement allowance or other benefit as provided by
+12 this Chapter.
+13 (7) "Board of Trustees" shall mean the Board of Trustees. – The Board provided
+14 for in G.S. 135-6 to administer the Retirement System.
+15 (7a) a. "Compensation" shall mean all Compensation. – All salaries and wages
+16 prior to any reduction pursuant to sections 125, 401(k), 403(b), 414(h)(2), and
+17 457 of the Internal Revenue Code, not including any terminal payments for
+18 unused sick leave, derived from public funds which are earned by a member
+19 of the Retirement System for service as an employee or teacher in the unit of
+20 the Retirement System for which he is performing full-time work. In addition
+21 to the foregoing, "compensation" shall include:
+22 …
+23 (7b) "Compliance investigation" means an Compliance investigation. – An
+24 independent review or examination by Retirement Systems Division staff or
+25 authorized representatives who are assisting the Retirement Systems Division
+26 staff of records, activities, actions, or decisions by employers or other
+27 affiliated or associated entities having an impact on a Retirement System or
+28 benefits administered by the Board of Trustees. The purpose of a compliance
+29 investigation is to help detect errors and ensure compliance and full
+30 accountability in the use of pension funds.
+31 (7c) "Conduct Conduct directly related to the office or employment" shall mean
+32 conduct employment. – Conduct by the member resulting in a felony
+33 conviction that:
+34 …
+35 (7d) "Consumer Consumer Price Index" shall mean the Index. – The Consumer
+36 Price Index for All Urban Consumers (CPI-U), U.S. City Average, all items,
+37 not seasonally adjusted, standard reference base, as published by the Bureau
+38 of Labor Statistics of the U.S. Department of Labor.
+39 (8) "Creditable service" shall mean the Creditable service. – The total of "prior
+40 service" plus "membership service" plus service, both noncontributory and
+41 purchased, for which credit is allowable as provided under this Article. In no
+42 event, however, shall "creditable service" be deemed "membership service"
+43 for the purpose of determining eligibility for benefits accruing under this
+44 Article.
+45 (8a) "Duly acknowledged" means notarized, Duly acknowledged. – Notarized,
+46 including electronic notarization, or verified through an identity
+47 authentication service approved by the Department of State Treasurer.
+48 (9) "Earnable compensation" shall mean the Earnable compensation. – The full
+49 rate of the compensation that would be payable to a teacher or employee if he
+50 worked in full normal working time. In cases where compensation includes
+Page 8 DRS35135-ND-50
+General Assembly Of North Carolina Session 2025
+1 maintenance, the Board of Trustees shall fix the value of that part of the
+2 compensation not paid in money.
+3 (10) "Employee" shall mean all Employee. – All full-time employees, agents or
+4 officers of the State of North Carolina or any of its departments, bureaus and
+5 institutions other than educational, whether such employees are elected,
+6 appointed or employed: Provided that the term "employee" shall not include
+7 employees of the University of North Carolina Health Care System who are
+8 not eligible for participation under G.S. 135-5.6, employees of the East
+9 Carolina University School of Medicine or Dental School of Medicine who
+10 are not eligible for participation under G.S. 135-5.7, any person who is a
+11 member of the Consolidated Judicial Retirement System, any member of the
+12 General Assembly or any part-time or temporary employee. Notwithstanding
+13 any other provision of law, "employee" shall include all employees of the
+14 General Assembly except participants in the Legislative Intern Program,
+15 pages, and beneficiaries in receipt of a monthly retirement allowance under
+16 this Chapter who are reemployed on a temporary basis. "Employee" also
+17 includes any participant whose employment is interrupted by reason of service
+18 in the Uniformed Services, as that term is defined in section 4303(16) of the
+19 Uniformed Services Employment and Reemployment Rights Act, Public Law
+20 103-353, if that participant was an employee at the time of the interruption; if
+21 the participant does not return immediately after that service to employment
+22 with a covered employer in this System, then the participant shall be deemed
+23 "in service" until the date on which the participant was first eligible to be
+24 separated or released from his or her involuntary military service. In all cases
+25 of doubt, the Board of Trustees shall determine whether any person is an
+26 employee as defined in this Chapter. "Employee" shall also mean every
+27 full-time civilian employee of the North Carolina National Guard who is
+28 employed pursuant to section 709 of Title 32 of the United States Code and
+29 paid from federal appropriated funds, but held by the federal authorities not to
+30 be a federal employee: Provided, however, that the authority or agency paying
+31 the salaries of such employees shall deduct or cause to be deducted from each
+32 employee's salary the employee's contribution in accordance with applicable
+33 provisions of G.S. 135-8 and remit the same, either directly or indirectly, to
+34 the Retirement System; coverage of employees described in this sentence shall
+35 commence upon the first day of the calendar year or fiscal year, whichever is
+36 earlier, next following the date of execution of an agreement between the
+37 Secretary of Defense of the United States and the Adjutant General of the State
+38 acting for the Governor in behalf of the State, but no credit shall be allowed
+39 pursuant to this sentence for any service previously rendered in the
+40 above-described capacity as a civilian employee of the North Carolina
+41 National Guard: Provided, further, that the Adjutant General, in the Adjutant
+42 General's discretion, may terminate the Retirement System coverage of the
+43 above-described North Carolina National Guard employees if a federal
+44 retirement system is established for such employees and the Adjutant General
+45 elects to secure coverage of such employees under such federal retirement
+46 system. Any full-time civilian employee of the North Carolina National Guard
+47 described above who is now or hereafter may become a member of the
+48 Retirement System may secure Retirement System credit for such service as
+49 a North Carolina National Guard civilian employee for the period preceding
+50 the time when such employees became eligible for Retirement System
+51 coverage by paying to the Retirement System an amount equal to that which
+DRS35135-ND-50 Page 9
+General Assembly Of North Carolina Session 2025
+1 would have constituted employee contributions if the employee had been a
+2 member during the years of ineligibility, plus interest. Employees of State
+3 agencies, departments, institutions, boards, and commissions who are
+4 employed in permanent job positions on a recurring basis must work at least
+5 30 hours per week for nine or more months per calendar year in order to be
+6 covered by the provisions of this subdivision. On and after August 1, 2001, a
+7 person who is a nonimmigrant alien and who otherwise meets the
+8 requirements of this subdivision shall not be excluded from the definition of
+9 "employee" solely because the person holds a temporary or time-limited visa.
+10 (11) "Employer" shall mean the Employer. – The State of North Carolina, the
+11 county board of education, the city board of education, the State Board of
+12 Education, the board of trustees of the University of North Carolina, the
+13 University of North Carolina Health Care System, the board of trustees of
+14 other institutions and agencies supported and under the control of the State, or
+15 any other agency of and within the State by which a teacher or other employee
+16 is paid. For purposes of reporting under the pronouncements by the
+17 Governmental Accounting Standards Board, the Retirement System is a
+18 multi-employer plan.
+19 (11a) "Filing" when Filing. – When used in reference to an application for
+20 retirement shall mean the receipt of an acceptable application on a form
+21 provided by the Retirement System.
+22 (11b) "Fraud investigation" means an Fraud investigation. – An independent review
+23 or examination by Retirement Systems Division staff or authorized
+24 representatives who are assisting the Retirement Systems Division staff of
+25 records, activities, actions, or decisions by employers or other affiliated or
+26 associated entities having an impact on the Retirement System. The purpose
+27 of a fraud investigation is to help detect and prevent fraud and to ensure full
+28 accountability in the use of pension funds.
+29 (11c) "Law-Enforcement Officer" means a Law-Enforcement Officer. – A full-time
+30 paid employee of an employer who is actively serving in a position with
+31 assigned primary duties and responsibilities for prevention and detection of
+32 crime or the general enforcement of the criminal laws of the State of North
+33 Carolina or serving civil processes, and who possesses the power of arrest by
+34 virtue of an oath administered under the authority of the State.
+35 "Law-Enforcement Officer" also means a probation/parole officer as defined
+36 in this section with respect to any service rendered on or after July 1, 2017.
+37 (12) "Medical board" shall mean the Medical board. – The board of physicians
+38 provided for in G.S. 135-6.
+39 (13) "Member" shall mean any Member. – Any teacher or State employee included
+40 in the membership of the System as provided in G.S. 135-3 and 135-4.
+41 (14) "Membership service" shall mean service Membership service. – Service as a
+42 teacher or State employee rendered while a member of the Retirement System
+43 or membership service in a North Carolina Retirement System that has been
+44 transferred into this system.
+45 (15) "Pension reserve" shall mean the Pension reserve. – The present value of all
+46 payments to be made on account of any pension or benefit in lieu of any
+47 pension computed upon the basis of such mortality tables as shall be adopted
+48 by the Board of Trustees, and regular interest.
+49 (16) "Pensions" shall mean payments Pensions. – Payments for life derived from
+50 money provided by the State of North Carolina, and by county or city boards
+51 of education. All pensions shall be payable in equal monthly installments.
+Page 10 DRS35135-ND-50
+General Assembly Of North Carolina Session 2025
+1 (17) "Prior service" shall mean service Prior service. – Service rendered prior to
+2 the date of establishment of the Retirement System for which credit is
+3 allowable under G.S. 135-4; provided, persons now employed by the Board
+4 of Transportation shall be entitled to credit for employment in road
+5 maintenance by the various counties and road districts prior to 1931.
+6 (17a) "Probation/Parole Officer" shall mean a Probation/Parole Officer. – A
+7 full-time paid employee of the Division of Community Supervision and
+8 Reentry of the Department of Adult Correction whose duties include
+9 supervising, evaluating, or otherwise instructing offenders who have been
+10 placed on probation, parole, or post-release supervision or have been assigned
+11 to any other community-based program operated by the Division of
+12 Community Supervision and Reentry.Reentry, or a full-time paid employee
+13 of the Department of Adult Correction's Office of Staff Development and
+14 Training who is certified as a Probation/Parole Officer and works exclusively
+15 in a training role.
+16 (18) "Public school" shall mean any Public school. – Any day school conducted
+17 within the State under the authority and supervision of a duly elected or
+18 appointed city or county school board, and any educational institution
+19 supported by and under the control of the State.
+20 (19) "Regular interest" shall mean interest Regular interest. – Interest compounded
+21 annually at such a rate as shall be determined by the Board of Trustees in
+22 accordance with G.S. 135-7, subsection (b).
+23 (20) "Retirement" under Retirement. – Under this Chapter, except as otherwise
+24 provided, means the commencement of monthly retirement benefits along
+25 with termination of employment and the complete separation from active
+26 service with no intent or agreement, express or implied, to return to service.
+27 A retirement allowance under the provisions of this Chapter may only be
+28 granted upon retirement of a member. In order for a member's retirement to
+29 become effective in any month, the member must perform no work for an
+30 employer, including part-time, temporary, substitute, or contractor work, at
+31 any time during the six months immediately following the effective date of
+32 retirement. A member who is a full-time faculty member of The University of
+33 North Carolina may effect a retirement allowance under this Chapter,
+34 notwithstanding the six-month requirement above, provided the member
+35 immediately enters the University's Phased Retirement Program for Tenured
+36 Faculty as that program existed on May 25, 2011. For purposes of this
+37 subdivision, all of the following shall not be considered service or work:
+38 …
+39 (21) "Retirement allowance" shall mean the Retirement allowance. – The sum of
+40 the "annuity and the pensions," or any optional benefit payable in lieu thereof.
+41 (22) "Retirement System" shall mean the Retirement System. – The Teachers' and
+42 State Employees' Retirement System of North Carolina as defined in
+43 G.S. 135-2.
+44 (23) "Service" shall mean service Service. – Service as a teacher or State employee
+45 as described in subdivision (10) or (25) of this section.
+46 (24) "Social security breakpoint" shall mean the Social security breakpoint. – The
+47 maximum amount of taxable wages under the Federal Insurance Contributions
+48 Act as from time to time in effect.
+49 (25) "Teacher" shall mean (i) any Teacher. – Any (i) teacher, helping teacher,
+50 teacher in a job-sharing position under G.S. 115C-326.5 except for a
+51 beneficiary in that position, librarian, superintendent principal, supervisor,
+DRS35135-ND-50 Page 11
+General Assembly Of North Carolina Session 2025
+1 superintendent of public schools or any full-time employee, city or county, of
+2 public instruction, or any full-time employee of the Department of Public
+3 Instruction, president, dean or teacher, or any full-time employee in any
+4 educational institution supported by and under the control of the State; State,
+5 who (ii) who works at least 30 or more hours per week for at least nine or
+6 more months per calendar year. The term "teacher" shall not include any
+7 employee or teacher in a part-time, temporary, or substitute position, except
+8 for a teacher in a job-sharing position. The term "teacher" does not include
+9 those participating in an optional retirement program provided for in
+10 G.S. 135-5.1 or G.S. 135-5.4. In all cases of doubt, the Board of Trustees shall
+11 determine whether any person is a teacher as defined in this Chapter. On and
+12 after August 1, 2001, a person who is a nonimmigrant alien and who otherwise
+13 meets the requirements of this subdivision shall not be excluded from the
+14 definition of "teacher" solely because the person holds a temporary or
+15 time-limited visa. Notwithstanding the foregoing, the term "teacher" shall not
+16 include any nonimmigrant alien employed in elementary or secondary public
+17 schools, whether employed in a full-time, part-time, temporary, permanent, or
+18 substitute teacher position, and participating in an exchange visitor program
+19 designated by the United States Department of State pursuant to 22 C.F.R.
+20 Part 62 or by the United States Department of Homeland Security pursuant to
+21 8 C.F.R. Part 214.2(q).
+22 (26) "Year" as Year. – As used in this Article shall mean the regular fiscal year
+23 beginning July 1 and ending June 30 in the following calendar year unless
+24 otherwise defined by regulation of the Board of Trustees."
+25 SECTION 5.1.(b) This section is effective when it becomes law and applies to
+26 determinations under Article 1 of Chapter 135 of the General Statutes made on or after that date.
+27
+28 PART VI. TECHNICAL CORRECTIONS
+29
+30 POST-RELEASE SUPERVISION ELIGIBILITY AND PROCEDURE
+31 SECTION 6.1.(a) G.S. 15A-1368.2(c1) reads as rewritten:
+32 "(c1) Notwithstanding subsection (c) of this section, a person required to submit to
+33 satellite-based monitoring pursuant to G.S. 15A-1368.4(b1)(6) shall continue to participate in
+34 satellite-based monitoring beyond the period of post-release supervision until the Commission
+35 superior court in the county where the conviction occurred releases the person from that
+36 requirement pursuant to G.S. 14-208.43."
+37 SECTION 6.1.(b) This section is effective when it becomes law and applies to
+38 satellite-based monitoring releases ordered on or after that date.
+39
+40 EXCLUDE DEPARTMENT OF ADULT CORRECTION INVESTIGATIONS FROM
+41 CERTAIN INFORMATION TECHNOLOGY RESTRICTIONS
+42 SECTION 6.2.(a) G.S. 143-805(d) reads as rewritten:
+43 "(d) Subsections (a) and (b) of this section shall not apply to an official or employee that
+44 is engaged in any of the following activities in the course of that official's or employee's official
+45 duties:
+46 …
+47 (8) Investigating matters involving offenders incarcerated with, or otherwise
+48 under the supervision of, the Department of Adult Correction or matters
+49 related to the misuse of devices owned by the Department of Adult
+50 Correction."
+Page 12 DRS35135-ND-50
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.2.(b) This section is effective when it becomes law and applies to
+2 investigations occurring before, on, or after that date.
+3
+4 PART VII. SEVERABILITY AND EFFECTIVE DATE
+5
+6 SEVERABILITY CLAUSE
+7 SECTION 7.1. If any part, section, or provision of this act is declared
+8 unconstitutional or invalid by the courts, it does not affect the validity of this act as a whole or
+9 any part other than the part declared to be unconstitutional or invalid.
+10
+11 EFFECTIVE DATE
+12 SECTION 7.2. Except as otherwise provided, this act is effective when it becomes
+13 law.
+DRS35135-ND-50 Page 13
+[DELETED:  D S ( S  A A T  P  W S " T … ( P a t d a a d r o a t i s c o p o f v f o r t a N C r a ( w h b d t b p a t d f c p b t N C ( P o – A e o a e w i c a a p G … ( S – A p w p l g l c o s o k o o t o w o a l e o c o p o f v f o a r s w i t w … S]
+[DELETED:  S  D " T c c … ( A o w d ( T s o a l e o c o p o f v f o r s w w i p a t d a a d r o a t i s ( A p l g o l c i a l e o c o p o f v f o r o f t b d t n o m r t c t e … S " T r t C … ( T c o d o t l e o c o p s T t a c o c l e a t e f A o t a a h j o a p f … S w  M T R F E M S " A S p ( " d o d]
+[DELETED:  S  P f m l a b t t t e o o u d e t f o r e m o ( d i i c r o ( " e i p o e f i t o a a o i v o t d E w o e p o ( " m a D – A p c p s c m a n a c w c d o t c o r i A d m b c d d ( " m r E – R t t h e d m w o e I o s ( " m o " m o " m m m E m o e m o s m – M w a e m t a o w b r t t r a r o r t p p n o w a c s o p a o t p d f a s g l a t h i i t s t a t a c c s t o a a c ( " R m a E r – A a e G … ( " o d]
+[DELETED:  S  D ( " … ( " a I – A t d i e p f o e i i f ( " … ( " t t i m t a o t d A p c t v o s t b S e  E S " P p a a w r t E e d o e h o p p S " L s o … I p m n e a m o f y a s i G a G G t E p t y]
+[DELETED:  S  P S " E a M R t V – A a t p t t e s a G t t v t m a e f t h a a r e t n t d I a p v a c t p w o w m t c m p t d o s p n t d a t c c p t S n  P  S S " P p i i a w G H t s o t d o o i a e f t w t D o P o t D o A C o e v r a a o o t b m s b a r o l e S b  E]
+[DELETED:  S  D S 2 2 " 2 S  P  U S " N D a ( T a T b T ( f a r i a s f t G F ( T t o a T b T c T d T t ( A f y S p  R S o A C m u u t o m s h t t f h e 2 H t a S  P  T S " t]
+[DELETED:  S  P ( U o T S R f C A – N G t D t ( o … ( E – N t s a t p a r a p C a t D o H a H S s b e f a b t G S T s d n a t t m b r … S t  P  V P A P O M E F S S " T r ( " – T a r ( " v c a ( " t i ( " p a b ( " A r w a a t R S o i … ( " a a c o a m d t f c c s f t r o e o p f h o a o a]
+[DELETED:  S  D l r b t m d t f c c y o m t t c o " f c s b t h o c o t m u t p o t A o c t ( " s m a B – A p i r o a p t ( " f ( a " p 4 u o t t … ( " i m a C i – A i a s o r a a o d b e o o a b i i t h d e a e c a f a ( " c e – C b t m r i a f c … ( " P n o ( " s p e f t p o d e f b a u t A ( " a m n D a – N i e n o v t a i a ( " r w]
+[DELETED:  S  P m f c ( " o i o t e w s e a e a e n e f p u G e o t E C a n e f p u G a p w i a m G a G A e p i t L I P p t C w a r o a t b " a i i U 1 t w " s o e a d i t C " s a m e f c e o t N C N G w i e p b t e p t c e S a p t t s f a s p r i t a c a a c e o t N C N G a N C N G e i a f r e s d a w i n o h m b a m o t R a t t w s e b e f R S c]
+[DELETED:  S  D w m a d i b a c w a e 3 c p w i a n a a w o m t r " ( " t C c E t b o t o t U o N C t U o a i p F p o r u t p b t G A S B t R S i a m ( " w F – W u i r t a a f r s m t r o a a a o a f p ( " o e b R S D s o a r r a o a ( " p e o e i a s i a p w a c C v o a o a u t a o t S " i ( " p ( " i ( " t o t ( " p p b ( " m o]
+[DELETED:  S  P ( " t d o e o t R S f w c i a o T s b e t c f e i r m ( " O s m a P O – A f p e o t D o C S a R o t D o A C w d i s e o i o w h b p t a o c p o b t D o C o T i ( " w t S u t a a s o a d e o a c o c s b a a e i s ( " a a ( " p m t c o r b a w t o e a t c s f a s A g b e a r N C m e a r a u t C n t s r a p t m i F a t p e o M 2 2 F p o t s … ( " t ( " S E R S o N C a d i G ( " a ( " m A ( " ( t i a j p u G e f a b t p l s p s]
+[DELETED:  S  D s p I p d o t o a f e i a e w m m p t " s n i a e f t p i a o r p p f i G d a m d o " s b t p h a t o t i s s d P 8 ( " b o S d  P  P S " N s ( o t s a p r t s t s s s c i t c w t c o r t p f t r S s  E D O A C I F C S " S i d … ( I m i o i w o o u t s o t D o A C o m r t t m o d o b t D o A C]
+[DELETED:  S  P S i  P  S S 7  I a p s o p o t a i d u a  E S l]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 20, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 355
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS35135-ND-50
+Short Title: Support the Dept. of Adult Correction.-AB (Public)
+Sponsors: Senators Daniel, Britt, and B. Newton (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO SUPPORT THE WORK OF THE DEPARTMENT OF ADULT CORRECTION.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. COMMUNITY SUPERVISION
+6
+7 WAIVE TUITION FOR SURVIVORS OF FALLEN PROBATION OFFICERS
+8 SECTION 1.1.(a) G.S. 115B-1 reads as rewritten:
+9 "§ 115B-1. Definitions.
+10 The following definitions apply in this Chapter:
+11 …
+12 (4) Permanently and totally disabled as a direct result of a traumatic injury
+13 sustained in the line of duty. – A person: (i) who as a law enforcement officer,
+14 correctional officer, probation officer, firefighter, volunteer firefighter, or
+15 rescue squad worker suffered a disabling injury while in active service or
+16 training for active service, (ii) who at the time of active service or training was
+17 a North Carolina resident, and (iii) who has been determined to be
+18 permanently and totally disabled for compensation purposes by the North
+19 Carolina Industrial Commission.
+20 (4c) Probation officer. – An employee of an employer who is certified as a
+21 probation officer under the provisions of Article 1 of Chapter 17C of the
+22 General Statutes.
+23 …
+24 (6) Survivor. – Any person whose parent, legal guardian, legal custodian, or
+25 spouse: (i) was a law enforcement officer, a correctional officer, a probation
+26 officer, a firefighter, a volunteer firefighter, or a rescue squad worker, (ii) was
+27 killed while in active service or training for active service or died as a result
+28 of a service-connected disability, and (iii) at the time of active service or
+29 training was a North Carolina resident. The term does not include the widow
+30 or widower of a law enforcement officer, correctional officer, probation
+31 officer, firefighter, volunteer firefighter, or a rescue squad worker if the
+32 widow or widower has remarried.
+33 …."
+34 SECTION 1.1.(b) G.S. 115B-2(a) reads as rewritten:
+*DRS35135-ND-50*
+
+General Assembly Of North Carolina Session 2025
+1 "(a) The constituent institutions of The University of North Carolina and the community
+2 colleges as defined in G.S. 115D-2(2) shall permit the following persons to attend classes for
+3 credit or noncredit purposes without the required payment of tuition:
+4 …
+5 (2) Any person who is the survivor of a law enforcement officer, correctional
+6 officer, probation officer, firefighter, volunteer firefighter, or rescue squad
+7 worker killed as a direct result of a traumatic injury sustained in the line of
+8 duty.
+9 (3) The spouse of a law enforcement officer, correctional officer, probation
+10 officer, firefighter, volunteer firefighter, or rescue squad worker who is
+11 permanently and totally disabled as a direct result of a traumatic injury
+12 sustained in the line of duty.
+13 (4) Any child, if the child is at least 17 years old but not yet 24 years old, whose
+14 parent, legal guardian, or legal custodian is a law enforcement officer,
+15 correctional officer, probation officer, firefighter, volunteer firefighter, or
+16 rescue squad worker who is permanently and totally disabled as a direct result
+17 of a traumatic injury sustained in the line of duty. However, a child's eligibility
+18 for a waiver of tuition under this Chapter shall not exceed: (i) 54 months, if
+19 the child is seeking a baccalaureate degree, or (ii) if the child is not seeking a
+20 baccalaureate degree, the number of months required to complete the
+21 educational program to which the child is applying.
+22 …."
+23 SECTION 1.1.(c) G.S. 115B-5(b) reads as rewritten:
+24 "(b) The officials of the institutions charged with administration of this Chapter shall
+25 require the following proof to insure that a person applying to the institution and who requests a
+26 tuition waiver under G.S. 115B-2(a)(2), (3), or (4) is eligible for the benefits provided by this
+27 Chapter.
+28 …
+29 (3) The cause of death of the law enforcement officer, correctional officer,
+30 probation officer, firefighter, volunteer firefighter, or rescue squad worker
+31 shall be verified by certification from the records of the Department of State
+32 Treasurer, the appropriate city or county law enforcement agency that
+33 employed the deceased, the administrative agency for the fire department or
+34 fire protection district recognized for funding under the Department of State
+35 Auditor, or the administrative agency having jurisdiction over any paid
+36 firefighters of all counties and cities.
+37 …."
+38 SECTION 1.1.(d) This section is effective when it becomes law and applies to
+39 waivers of tuition granted on or after that date.
+40
+41 MODIFY TECHNICAL REQUIREMENTS FOR ELECTRONIC
+42 MONITORING/SATELLITE-BASED MONITORING
+43 SECTION 1.2.(a) G.S. 15A-101.1 reads as rewritten:
+44 "§ 15A-101.1. Electronic technology in criminal process and procedure.
+45 As used in this Chapter, in Chapter 7A of the General Statutes, in Chapter 15 of the General
+46 Statutes, and in all other provisions of the General Statutes that deal with criminal process or
+47 procedure:
+48 (1) "Attach" or "attached" means, when Attach or attached. – When referring to
+49 documents existing in paper form, physical attachment by staples, clips, or
+50 other mechanical means, or managed such that neither document is stored or
+51 delivered without the other. When referring to documents stored in electronic
+Page 2 DRS35135-ND-50
+
+General Assembly Of North Carolina Session 2025
+1 form, the term means either storage as a single digital file or storage in a
+2 manner that a user interface for access to the documents displays clearly the
+3 logical association between them, to the exclusion of other, unassociated
+4 documents displayed with them. When referring to documents delivered in
+5 electronic form, the term means documents delivered simultaneously and via
+6 the same mechanism or medium, including, but not limited to, any of the
+7 following: (i) delivery via a single email message, (ii) delivery on a single unit
+8 of removable electronic media, or (iii) delivery in immediate,
+9 contemporaneous sequence with one another from the same source to the same
+10 recipient. It is not necessary that the relationship between documents appear
+11 on the face of the documents in order to be deemed attached.
+12 (1a) "Copy" means all Copy. – All identical versions of a document created or
+13 existing in paper or electronic form, including the original and all other
+14 identical versions of the document. Except where otherwise expressly
+15 provided by law or when authority is vested only in a certified copy, a copy
+16 of a document is equally authoritative as the original.
+17 (2) "Document" means any Document. – Any pleading, criminal process,
+18 subpoena, complaint, motion, application, notice, affidavit, commission,
+19 waiver, consent, dismissal, order, judgment, or other writing intended in a
+20 criminal or contempt proceeding to authorize or require an action, to record a
+21 decision or to communicate or record information. A document may be
+22 created and exist in paper form or in electronic form or in both forms. Each
+23 document shall contain the legible, printed name of the person who signed the
+24 document.
+25 (3) "Electronic" means relating Electronic. – Relating to technology having
+26 electrical, digital, magnetic, wireless, optical, electromagnetic, Internet, or
+27 similar capabilities.
+28 (3a) "Electronic monitoring" or "electronically monitor" or "satellite-based
+29 monitoring" means monitoring Electronic monitoring or electronically
+30 monitor or satellite-based monitoring. – Monitoring with an electronic
+31 monitoring device that is not removed from a person's body, that is utilized by
+32 the supervising agency in conjunction with a Web-based computer system that
+33 actively monitors, identifies, tracks, and records a person's location at least
+34 once every minute 24 hours a day, that has a battery life of at least 48 hours
+35 without being recharged, that timely records and reports or records the
+36 person's presence near or within a crime scene or prohibited area or the
+37 person's departure from a specified geographic location, and that has
+38 incorporated into the software the ability to automatically compare crime
+39 scene data with locations of all persons being electronically monitored so as
+40 to provide any correlation daily or in real time. In areas of the State where lack
+41 of cellular coverage requires the use of an alternative device, the supervising
+42 agency shall use an alternative device that works in concert with the software
+43 and records location and tracking data for later download and crime scene
+44 comparison.
+45 (4) "Electronic Repository" means an Electronic repository. – An automated
+46 electronic repository for criminal process created and maintained pursuant to
+47 G.S. 15A-301.1.
+48 …
+49 (6) "Entered" means signed Entered. – Signed and filed in the office of the clerk
+50 of superior court of the county in which the document is to be entered. A
+51 document may be entered in either paper form or electronic form.
+DRS35135-ND-50 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (7) "Filing" or "filed" means:Filing or filed. –
+2 …
+3 (8) "Issued" applies Issued. – Applies to documents in either paper form or
+4 electronic form. A document that is first created in paper form is issued when
+5 it is signed. A document that is first created in electronic form is issued when
+6 it is signed and filed in the office of the clerk of superior court of the county
+7 for which it is to be issued.
+8 (9) "Original" means:Original. –
+9 …
+10 (10) "Signature" means any Signature. – Any symbol, including, but not limited to,
+11 the name of an individual, which is executed by that individual, personally or
+12 through an authorized agent, with the intent to authenticate or to effect the
+13 issuance or entry of a document. A document may be signed by the use of any
+14 manual, mechanical or electronic means that causes the individual's signature
+15 to appear in or on the document. Any party challenging the validity of a
+16 signature shall have the burden of pleading, producing evidence, and proving
+17 that the signature was not the act of the person whose signature it appears to
+18 be."
+19 SECTION 1.2.(b) This section is effective when it becomes law and applies to an
+20 electronic monitoring device used on or after that date.
+21
+22 EXTENSION OF MAXIMUM ALLOWABLE PERIOD OF PROBATION
+23 SECTION 1.3.(a) G.S. 15A-1342(a) reads as rewritten:
+24 "(a) Period. – The court may place a convicted offender on probation for the appropriate
+25 period as specified in G.S. 15A-1343.2(d), not to exceed a maximum of five years. years, unless
+26 an extension is authorized pursuant to G.S. 15A-1344 thereby extending the maximum by one
+27 additional year. The court may place a defendant as to whom prosecution has been deferred or
+28 who receives a conditional discharge on probation for a maximum of two years. The probation
+29 remains conditional and subject to revocation during the period of probation imposed, unless
+30 terminated as provided in subsection (b) or G.S. 15A-1341(c).
+31 Extension. – In addition to G.S. 15A-1344, the court with the consent of the defendant may
+32 extend the period of probation beyond the original period (i) for the purpose of allowing the
+33 defendant to complete a program of restitution, or (ii) to allow the defendant to continue medical
+34 or psychiatric treatment ordered as a condition of the probation. The period of extension shall not
+35 exceed three years beyond the original period of probation. The special extension authorized
+36 herein may be ordered only in the last six months of the original period of probation. Any
+37 probationary judgment form provided to a defendant on supervised probation shall state that
+38 probation may be extended pursuant to this subsection."
+39 SECTION 1.3.(b) G.S. 15A-1343.2(d) reads as rewritten:
+40 "(d) Lengths of Probation Terms Under Structured Sentencing. – Unless the court makes
+41 specific findings that longer or shorter periods of probation are necessary, the length of the
+42 original period of probation for offenders sentenced under Article 81B shall be as follows:
+43 …
+44 If the court finds at the time of sentencing that a longer period of probation is necessary, that
+45 period may not exceed a maximum of five years, as specified in G.S. 15A-1342 and
+46 G.S. 15A-1351.G.S. 15A-1351, unless an extension is authorized pursuant to G.S. 15A-1344
+47 thereby extending the maximum by one additional year.
+48 Extension. – The court may with the consent of the offender extend the original period of the
+49 probation if necessary to complete a program of restitution or to complete medical or psychiatric
+50 treatment ordered as a condition of probation. This extension may be for no more than three
+51 years, and may only be ordered in the last six months of the original period of probation."
+Page 4 DRS35135-ND-50
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.3.(c) G.S. 15A-1344(d) reads as rewritten:
+2 "(d) Extension and Modification; Response to Violations. – At any time prior to the
+3 expiration or termination of the probation period or in accordance with subsection (f) of this
+4 section, the court may after notice and hearing hearing, unless the probationer waives the hearing,
+5 and for good cause shown extend the period of probation up to the maximum allowed under
+6 G.S. 15A-1342(a) and may modify the conditions of probation. probation, however, no more
+7 than one extension of any probation period may be ordered except that the court may extend the
+8 total time on probation by up to one additional year if the probationer admits the probationer has
+9 violated their conditions of probation or is found by the court to have violated the conditions of
+10 their probation. Total time on any probation term, including any extension, shall not exceed the
+11 maximum term as established in G.S. 15A-1342(a) plus one additional year if the probationer
+12 admits or the court finds that the probationer has violated their conditions of probation. A hearing
+13 extending or modifying probation may be held in the absence of a defendant who fails to appear
+14 for the hearing after a reasonable effort to notify the defendant. If a probationer violates a
+15 condition of probation at any time prior to the expiration or termination of the period of probation,
+16 the court, in accordance with the provisions of G.S. 15A-1345, may continue the defendant on
+17 probation, with or without modifying the conditions, may place the defendant on special
+18 probation as provided in subsection (e), or, if continuation, modification, or special probation is
+19 not appropriate, may revoke the probation and activate the suspended sentence imposed at the
+20 time of initial sentencing, if any, or may order that charges as to which prosecution has been
+21 deferred be brought to trial; provided that probation may not be revoked solely for conviction of
+22 a Class 3 misdemeanor. The court, before activating a sentence to imprisonment established when
+23 the defendant was placed on probation, may reduce the sentence, but the reduction shall be
+24 consistent with subsection (d1) of this section. A sentence activated upon revocation of probation
+25 commences on the day probation is revoked and runs concurrently with any other period of
+26 probation, parole, or imprisonment to which the defendant is subject during that period unless
+27 the revoking judge specifies that it is to run consecutively with the other period."
+28 SECTION 1.3.(d) This section becomes effective December 1, 2025, and applies to
+29 new terms of probation ordered on or after that date.
+30
+31 PART II. INSTITUTIONS
+32
+33 SEXUALLY VIOLENT PREDATOR DETERMINATIONS
+34 SECTION 2.1.(a) G.S. 14-208.20(b) reads as rewritten:
+35 "(b) Prior to sentencing a person as a sexually violent predator, the court shall order a
+36 presentence investigation in accordance with G.S. 15A-1332(c). However, the study of the
+37 defendant and whether the defendant is a sexually violent predator shall be conducted by a board
+38 of experts selected by the Division of Prisons of the Department of Adult Correction. The board
+39 of experts shall be composed of at least four people. Two of the board members shall be experts
+40 in the field of the behavior and treatment of sexual offenders, one of whom shall be selected from
+41 a panel of experts in those fields provided by the North Carolina Medical Society and not be
+42 employed full time with the Division of Prisons of the Department of Adult Correction or
+43 employed on a full-time basis with any other State agency. One of the board members shall be a
+44 victims' rights advocate, and one of the board members shall be a representative of law
+45 enforcement agencies."
+46 SECTION 2.1.(b) This section becomes effective December 1, 2025, and applies to
+47 boards of experts selected on or after that date.
+48
+49 EXTEND SUNSET DATE FOR USE OF SECURITY GUARDS AT STATE PRISONS
+DRS35135-ND-50 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.2.(a) Section 4.15(c) of S.L. 2020-3, as amended by Section 2 of S.L.
+2 2020-15, Section 19D.2 of S.L. 2021-180, Section 12 of S.L. 2022-58, Section 19D.1 of S.L.
+3 2022-74, and Section 9(a) of S.L. 2023-121, reads as rewritten:
+4 "SECTION 4.15.(c) This section is effective when it becomes law and expires on June 30,
+5 2025.2027."
+6 SECTION 2.2.(b) This section is effective when it becomes law.
+7
+8 PART III. SUPPORT SERVICES
+9
+10 USE OF AVAILABLE FUNDS FOR REPAIR AND RENOVATION PURPOSES
+11 SECTION 3.1.(a) G.S. 143C-8-13 is amended by adding a new subsection to read:
+12 "(e) Notwithstanding any provision of G.S. 143C-8-7 to the contrary, the Secretary of the
+13 Department of Adult Correction may pay for projects for repairs and renovations with funds
+14 available to the agency according to the following requirements:
+15 (1) The project meets all of the following requirements:
+16 a. The total project costs do not exceed one million dollars ($1,000,000).
+17 b. The project is one of the types set forth in subdivisions (1) through
+18 (13) of subsection (a) of this section, regardless of whether the relevant
+19 facilities and related infrastructure are supported from the General
+20 Fund or the State Capital and Infrastructure Fund.
+21 (2) The Department reports on projects undertaken pursuant to this subsection to
+22 the Fiscal Research Division on a quarterly basis. The report shall include all
+23 of the following information for each project:
+24 a. The facility at which the project is being undertaken.
+25 b. The nature and scope of the project.
+26 c. The source of funds for the project.
+27 d. The category of projects set forth in subsection (a) of this section that
+28 the project falls within.
+29 (3) Any funds from a General Fund appropriation that are contractually obligated
+30 for a project pursuant to this subsection shall not revert at the end of the fiscal
+31 year but shall remain available to fund the completion of the project."
+32 SECTION 3.1.(b) This section is effective when it becomes law and applies to
+33 payments for projects for repairs and renovations occurring on or after that date.
+34
+35 REMAINING BALANCES FROM OLD INDEBTEDNESS PROJECTS
+36 SECTION 3.2.(a) Notwithstanding S.L. 2006-66 and S.L. 2015-241, the Department
+37 of Adult Correction may use up to one million six hundred twelve thousand four hundred
+38 eighty-one dollars and fourteen cents ($1,612,481.14) from the projects described in Section
+39 23.12(g) of S.L. 2006-66 and Section 31.22 of S.L. 2015-241 to finance capital facility costs of
+40 HVAC projects at State facilities. No additional special indebtedness may be issued or incurred
+41 to finance these projects. The use of funds authorized by this section shall not require further
+42 approval by the Council of State pursuant to Chapter 142 of the General Statutes.
+43 SECTION 3.2.(b) This section is effective when it becomes law.
+44
+45 PART IV. COMPREHENSIVE HEALTH SERVICES
+46
+47 TEMPORARY EMPLOYEE 31-DAY SEPARATION EXCEPTION
+48 SECTION 4.1.(a) G.S. 126-6.3 reads as rewritten:
+49 "§ 126-6.3. Temporary employment needs of Cabinet and Council of State agencies; use of
+50 the Temporary Solutions Program.
+Page 6 DRS35135-ND-50
+
+General Assembly Of North Carolina Session 2025
+1 (a) Use of Temporary Solutions Required for Cabinet Agencies. – Notwithstanding
+2 G.S. 126-5 or any other provision of law, all Cabinet agencies that utilize temporary employees
+3 to perform work that is not health services-related in the Department of Adult Correction and the
+4 Department of Health and Human Services or information technology-related shall employ them
+5 through the Temporary Solutions Program administered by the Office of State Human Resources
+6 (OSHR). Council of State agencies may use the Temporary Solutions Program in the discretion
+7 of the agency.
+8 …
+9 (b1) Exemption. – Notwithstanding this section and the policies and rules adopted
+10 pursuant to it, health services-related temporary employees working in the Department of Adult
+11 Correction and the Department of Health and Human Services shall be exempt from any
+12 break-in-service requirement. This exemption is only for purposes of Article 1 of Chapter 126 of
+13 the General Statutes. This subsection does not apply to the mandatory break-in-service
+14 requirement for purposes of Chapter 135 of the General Statutes.
+15 …."
+16 SECTION 4.1.(b) This section is effective when it becomes law and applies to
+17 temporary employees hired on or after that date.
+18
+19 PART V. OFFICE OF STAFF DEVELOPMENT AND TRAINING (OSDT)
+20
+21 VESTED PROBATION AND PAROLE OFFICERS MAINTAIN ELIGIBILITY FOR
+22 SUPPLEMENTAL RETIREMENT WHEN SERVING IN NONCERTIFIED ROLES
+23 SECTION 5.1.(a) G.S. 135-1 reads as rewritten:
+24 "§ 135-1. Definitions.
+25 The following words and phrases as used in this Chapter, unless a different meaning is plainly
+26 required by the context, shall have the following meanings:
+27 (1) "Accumulated contributions" shall mean the Accumulated contributions. –
+28 The sum of all the amounts deducted from the compensation of a member and
+29 accredited to his individual account in the annuity savings fund, together with
+30 regular interest thereon as provided in G.S. 135-8.
+31 (2) "Actuarial equivalent" shall mean a Actuarial equivalent. – A benefit of equal
+32 value when computed upon the basis of actuarial assumptions as shall be
+33 adopted by the Board of Trustees.
+34 (3) "Annuity" shall mean payments Annuity. – Payments for life derived from
+35 that "accumulated contribution" of a member. All annuities shall be payable
+36 in equal monthly installments.
+37 (4) "Annuity reserve" shall mean the Annuity reserve. – The present value of all
+38 payments to be made on account of any annuity or benefit in lieu of any
+39 annuity, computed upon the basis of such mortality tables as shall be adopted
+40 by the Board of Trustees, and regular interest.
+41 (4a) "Authorized Authorized representatives who are assisting the Retirement
+42 Systems Division staff" means only staff. – Only other staff of the Department
+43 of State Treasurer, staff of the Department of Justice, or persons providing
+44 internal auditing assistance required under G.S. 143-746(b).
+45 …
+46 (5) "Average Average final compensation" shall mean the compensation. – The
+47 average annual compensation of a member during the four consecutive
+48 calendar years of membership service producing the highest such average; but
+49 shall not include any compensation, as determined by the Board of Trustees,
+50 for the reimbursement of expenses or payments for housing or any other
+51 allowances whether or not classified as salary and wages. Payout of vacation
+DRS35135-ND-50 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 leave shall be included in "average final compensation" only if the payout is
+2 received by the member during the four consecutive calendar years of
+3 membership service producing the highest average annual compensation of
+4 the member. In the event a member is or has been in receipt of a benefit under
+5 the provisions of G.S. 135-105 or G.S. 135-106, the compensation used in the
+6 calculation of "average final compensation" shall be the higher of
+7 compensation of the member under the provisions of this Article or
+8 compensation used in calculating the payment of benefits under Article 6 of
+9 this Chapter as adjusted for percentage increases in the post disability benefit.
+10 (6) "Beneficiary" shall mean any Beneficiary. – Any person in receipt of a
+11 pension, an annuity, a retirement allowance or other benefit as provided by
+12 this Chapter.
+13 (7) "Board of Trustees" shall mean the Board of Trustees. – The Board provided
+14 for in G.S. 135-6 to administer the Retirement System.
+15 (7a) a. "Compensation" shall mean all Compensation. – All salaries and wages
+16 prior to any reduction pursuant to sections 125, 401(k), 403(b), 414(h)(2), and
+17 457 of the Internal Revenue Code, not including any terminal payments for
+18 unused sick leave, derived from public funds which are earned by a member
+19 of the Retirement System for service as an employee or teacher in the unit of
+20 the Retirement System for which he is performing full-time work. In addition
+21 to the foregoing, "compensation" shall include:
+22 …
+23 (7b) "Compliance investigation" means an Compliance investigation. – An
+24 independent review or examination by Retirement Systems Division staff or
+25 authorized representatives who are assisting the Retirement Systems Division
+26 staff of records, activities, actions, or decisions by employers or other
+27 affiliated or associated entities having an impact on a Retirement System or
+28 benefits administered by the Board of Trustees. The purpose of a compliance
+29 investigation is to help detect errors and ensure compliance and full
+30 accountability in the use of pension funds.
+31 (7c) "Conduct Conduct directly related to the office or employment" shall mean
+32 conduct employment. – Conduct by the member resulting in a felony
+33 conviction that:
+34 …
+35 (7d) "Consumer Consumer Price Index" shall mean the Index. – The Consumer
+36 Price Index for All Urban Consumers (CPI-U), U.S. City Average, all items,
+37 not seasonally adjusted, standard reference base, as published by the Bureau
+38 of Labor Statistics of the U.S. Department of Labor.
+39 (8) "Creditable service" shall mean the Creditable service. – The total of "prior
+40 service" plus "membership service" plus service, both noncontributory and
+41 purchased, for which credit is allowable as provided under this Article. In no
+42 event, however, shall "creditable service" be deemed "membership service"
+43 for the purpose of determining eligibility for benefits accruing under this
+44 Article.
+45 (8a) "Duly acknowledged" means notarized, Duly acknowledged. – Notarized,
+46 including electronic notarization, or verified through an identity
+47 authentication service approved by the Department of State Treasurer.
+48 (9) "Earnable compensation" shall mean the Earnable compensation. – The full
+49 rate of the compensation that would be payable to a teacher or employee if he
+50 worked in full normal working time. In cases where compensation includes
+Page 8 DRS35135-ND-50
+
+General Assembly Of North Carolina Session 2025
+1 maintenance, the Board of Trustees shall fix the value of that part of the
+2 compensation not paid in money.
+3 (10) "Employee" shall mean all Employee. – All full-time employees, agents or
+4 officers of the State of North Carolina or any of its departments, bureaus and
+5 institutions other than educational, whether such employees are elected,
+6 appointed or employed: Provided that the term "employee" shall not include
+7 employees of the University of North Carolina Health Care System who are
+8 not eligible for participation under G.S. 135-5.6, employees of the East
+9 Carolina University School of Medicine or Dental School of Medicine who
+10 are not eligible for participation under G.S. 135-5.7, any person who is a
+11 member of the Consolidated Judicial Retirement System, any member of the
+12 General Assembly or any part-time or temporary employee. Notwithstanding
+13 any other provision of law, "employee" shall include all employees of the
+14 General Assembly except participants in the Legislative Intern Program,
+15 pages, and beneficiaries in receipt of a monthly retirement allowance under
+16 this Chapter who are reemployed on a temporary basis. "Employee" also
+17 includes any participant whose employment is interrupted by reason of service
+18 in the Uniformed Services, as that term is defined in section 4303(16) of the
+19 Uniformed Services Employment and Reemployment Rights Act, Public Law
+20 103-353, if that participant was an employee at the time of the interruption; if
+21 the participant does not return immediately after that service to employment
+22 with a covered employer in this System, then the participant shall be deemed
+23 "in service" until the date on which the participant was first eligible to be
+24 separated or released from his or her involuntary military service. In all cases
+25 of doubt, the Board of Trustees shall determine whether any person is an
+26 employee as defined in this Chapter. "Employee" shall also mean every
+27 full-time civilian employee of the North Carolina National Guard who is
+28 employed pursuant to section 709 of Title 32 of the United States Code and
+29 paid from federal appropriated funds, but held by the federal authorities not to
+30 be a federal employee: Provided, however, that the authority or agency paying
+31 the salaries of such employees shall deduct or cause to be deducted from each
+32 employee's salary the employee's contribution in accordance with applicable
+33 provisions of G.S. 135-8 and remit the same, either directly or indirectly, to
+34 the Retirement System; coverage of employees described in this sentence shall
+35 commence upon the first day of the calendar year or fiscal year, whichever is
+36 earlier, next following the date of execution of an agreement between the
+37 Secretary of Defense of the United States and the Adjutant General of the State
+38 acting for the Governor in behalf of the State, but no credit shall be allowed
+39 pursuant to this sentence for any service previously rendered in the
+40 above-described capacity as a civilian employee of the North Carolina
+41 National Guard: Provided, further, that the Adjutant General, in the Adjutant
+42 General's discretion, may terminate the Retirement System coverage of the
+43 above-described North Carolina National Guard employees if a federal
+44 retirement system is established for such employees and the Adjutant General
+45 elects to secure coverage of such employees under such federal retirement
+46 system. Any full-time civilian employee of the North Carolina National Guard
+47 described above who is now or hereafter may become a member of the
+48 Retirement System may secure Retirement System credit for such service as
+49 a North Carolina National Guard civilian employee for the period preceding
+50 the time when such employees became eligible for Retirement System
+51 coverage by paying to the Retirement System an amount equal to that which
+DRS35135-ND-50 Page 9
+
+General Assembly Of North Carolina Session 2025
+1 would have constituted employee contributions if the employee had been a
+2 member during the years of ineligibility, plus interest. Employees of State
+3 agencies, departments, institutions, boards, and commissions who are
+4 employed in permanent job positions on a recurring basis must work at least
+5 30 hours per week for nine or more months per calendar year in order to be
+6 covered by the provisions of this subdivision. On and after August 1, 2001, a
+7 person who is a nonimmigrant alien and who otherwise meets the
+8 requirements of this subdivision shall not be excluded from the definition of
+9 "employee" solely because the person holds a temporary or time-limited visa.
+10 (11) "Employer" shall mean the Employer. – The State of North Carolina, the
+11 county board of education, the city board of education, the State Board of
+12 Education, the board of trustees of the University of North Carolina, the
+13 University of North Carolina Health Care System, the board of trustees of
+14 other institutions and agencies supported and under the control of the State, or
+15 any other agency of and within the State by which a teacher or other employee
+16 is paid. For purposes of reporting under the pronouncements by the
+17 Governmental Accounting Standards Board, the Retirement System is a
+18 multi-employer plan.
+19 (11a) "Filing" when Filing. – When used in reference to an application for
+20 retirement shall mean the receipt of an acceptable application on a form
+21 provided by the Retirement System.
+22 (11b) "Fraud investigation" means an Fraud investigation. – An independent review
+23 or examination by Retirement Systems Division staff or authorized
+24 representatives who are assisting the Retirement Systems Division staff of
+25 records, activities, actions, or decisions by employers or other affiliated or
+26 associated entities having an impact on the Retirement System. The purpose
+27 of a fraud investigation is to help detect and prevent fraud and to ensure full
+28 accountability in the use of pension funds.
+29 (11c) "Law-Enforcement Officer" means a Law-Enforcement Officer. – A full-time
+30 paid employee of an employer who is actively serving in a position with
+31 assigned primary duties and responsibilities for prevention and detection of
+32 crime or the general enforcement of the criminal laws of the State of North
+33 Carolina or serving civil processes, and who possesses the power of arrest by
+34 virtue of an oath administered under the authority of the State.
+35 "Law-Enforcement Officer" also means a probation/parole officer as defined
+36 in this section with respect to any service rendered on or after July 1, 2017.
+37 (12) "Medical board" shall mean the Medical board. – The board of physicians
+38 provided for in G.S. 135-6.
+39 (13) "Member" shall mean any Member. – Any teacher or State employee included
+40 in the membership of the System as provided in G.S. 135-3 and 135-4.
+41 (14) "Membership service" shall mean service Membership service. – Service as a
+42 teacher or State employee rendered while a member of the Retirement System
+43 or membership service in a North Carolina Retirement System that has been
+44 transferred into this system.
+45 (15) "Pension reserve" shall mean the Pension reserve. – The present value of all
+46 payments to be made on account of any pension or benefit in lieu of any
+47 pension computed upon the basis of such mortality tables as shall be adopted
+48 by the Board of Trustees, and regular interest.
+49 (16) "Pensions" shall mean payments Pensions. – Payments for life derived from
+50 money provided by the State of North Carolina, and by county or city boards
+51 of education. All pensions shall be payable in equal monthly installments.
+Page 10 DRS35135-ND-50
+
+General Assembly Of North Carolina Session 2025
+1 (17) "Prior service" shall mean service Prior service. – Service rendered prior to
+2 the date of establishment of the Retirement System for which credit is
+3 allowable under G.S. 135-4; provided, persons now employed by the Board
+4 of Transportation shall be entitled to credit for employment in road
+5 maintenance by the various counties and road districts prior to 1931.
+6 (17a) "Probation/Parole Officer" shall mean a Probation/Parole Officer. – A
+7 full-time paid employee of the Division of Community Supervision and
+8 Reentry of the Department of Adult Correction whose duties include
+9 supervising, evaluating, or otherwise instructing offenders who have been
+10 placed on probation, parole, or post-release supervision or have been assigned
+11 to any other community-based program operated by the Division of
+12 Community Supervision and Reentry.Reentry, or a full-time paid employee
+13 of the Department of Adult Correction's Office of Staff Development and
+14 Training who is certified as a Probation/Parole Officer and works exclusively
+15 in a training role.
+16 (18) "Public school" shall mean any Public school. – Any day school conducted
+17 within the State under the authority and supervision of a duly elected or
+18 appointed city or county school board, and any educational institution
+19 supported by and under the control of the State.
+20 (19) "Regular interest" shall mean interest Regular interest. – Interest compounded
+21 annually at such a rate as shall be determined by the Board of Trustees in
+22 accordance with G.S. 135-7, subsection (b).
+23 (20) "Retirement" under Retirement. – Under this Chapter, except as otherwise
+24 provided, means the commencement of monthly retirement benefits along
+25 with termination of employment and the complete separation from active
+26 service with no intent or agreement, express or implied, to return to service.
+27 A retirement allowance under the provisions of this Chapter may only be
+28 granted upon retirement of a member. In order for a member's retirement to
+29 become effective in any month, the member must perform no work for an
+30 employer, including part-time, temporary, substitute, or contractor work, at
+31 any time during the six months immediately following the effective date of
+32 retirement. A member who is a full-time faculty member of The University of
+33 North Carolina may effect a retirement allowance under this Chapter,
+34 notwithstanding the six-month requirement above, provided the member
+35 immediately enters the University's Phased Retirement Program for Tenured
+36 Faculty as that program existed on May 25, 2011. For purposes of this
+37 subdivision, all of the following shall not be considered service or work:
+38 …
+39 (21) "Retirement allowance" shall mean the Retirement allowance. – The sum of
+40 the "annuity and the pensions," or any optional benefit payable in lieu thereof.
+41 (22) "Retirement System" shall mean the Retirement System. – The Teachers' and
+42 State Employees' Retirement System of North Carolina as defined in
+43 G.S. 135-2.
+44 (23) "Service" shall mean service Service. – Service as a teacher or State employee
+45 as described in subdivision (10) or (25) of this section.
+46 (24) "Social security breakpoint" shall mean the Social security breakpoint. – The
+47 maximum amount of taxable wages under the Federal Insurance Contributions
+48 Act as from time to time in effect.
+49 (25) "Teacher" shall mean (i) any Teacher. – Any (i) teacher, helping teacher,
+50 teacher in a job-sharing position under G.S. 115C-326.5 except for a
+51 beneficiary in that position, librarian, superintendent principal, supervisor,
+DRS35135-ND-50 Page 11
+
+General Assembly Of North Carolina Session 2025
+1 superintendent of public schools or any full-time employee, city or county, of
+2 public instruction, or any full-time employee of the Department of Public
+3 Instruction, president, dean or teacher, or any full-time employee in any
+4 educational institution supported by and under the control of the State; State,
+5 who (ii) who works at least 30 or more hours per week for at least nine or
+6 more months per calendar year. The term "teacher" shall not include any
+7 employee or teacher in a part-time, temporary, or substitute position, except
+8 for a teacher in a job-sharing position. The term "teacher" does not include
+9 those participating in an optional retirement program provided for in
+10 G.S. 135-5.1 or G.S. 135-5.4. In all cases of doubt, the Board of Trustees shall
+11 determine whether any person is a teacher as defined in this Chapter. On and
+12 after August 1, 2001, a person who is a nonimmigrant alien and who otherwise
+13 meets the requirements of this subdivision shall not be excluded from the
+14 definition of "teacher" solely because the person holds a temporary or
+15 time-limited visa. Notwithstanding the foregoing, the term "teacher" shall not
+16 include any nonimmigrant alien employed in elementary or secondary public
+17 schools, whether employed in a full-time, part-time, temporary, permanent, or
+18 substitute teacher position, and participating in an exchange visitor program
+19 designated by the United States Department of State pursuant to 22 C.F.R.
+20 Part 62 or by the United States Department of Homeland Security pursuant to
+21 8 C.F.R. Part 214.2(q).
+22 (26) "Year" as Year. – As used in this Article shall mean the regular fiscal year
+23 beginning July 1 and ending June 30 in the following calendar year unless
+24 otherwise defined by regulation of the Board of Trustees."
+25 SECTION 5.1.(b) This section is effective when it becomes law and applies to
+26 determinations under Article 1 of Chapter 135 of the General Statutes made on or after that date.
+27
+28 PART VI. TECHNICAL CORRECTIONS
+29
+30 POST-RELEASE SUPERVISION ELIGIBILITY AND PROCEDURE
+31 SECTION 6.1.(a) G.S. 15A-1368.2(c1) reads as rewritten:
+32 "(c1) Notwithstanding subsection (c) of this section, a person required to submit to
+33 satellite-based monitoring pursuant to G.S. 15A-1368.4(b1)(6) shall continue to participate in
+34 satellite-based monitoring beyond the period of post-release supervision until the Commission
+35 superior court in the county where the conviction occurred releases the person from that
+36 requirement pursuant to G.S. 14-208.43."
+37 SECTION 6.1.(b) This section is effective when it becomes law and applies to
+38 satellite-based monitoring releases ordered on or after that date.
+39
+40 EXCLUDE DEPARTMENT OF ADULT CORRECTION INVESTIGATIONS FROM
+41 CERTAIN INFORMATION TECHNOLOGY RESTRICTIONS
+42 SECTION 6.2.(a) G.S. 143-805(d) reads as rewritten:
+43 "(d) Subsections (a) and (b) of this section shall not apply to an official or employee that
+44 is engaged in any of the following activities in the course of that official's or employee's official
+45 duties:
+46 …
+47 (8) Investigating matters involving offenders incarcerated with, or otherwise
+48 under the supervision of, the Department of Adult Correction or matters
+49 related to the misuse of devices owned by the Department of Adult
+50 Correction."
+Page 12 DRS35135-ND-50
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.2.(b) This section is effective when it becomes law and applies to
+2 investigations occurring before, on, or after that date.
+3
+4 PART VII. SEVERABILITY AND EFFECTIVE DATE
+5
+6 SEVERABILITY CLAUSE
+7 SECTION 7.1. If any part, section, or provision of this act is declared
+8 unconstitutional or invalid by the courts, it does not affect the validity of this act as a whole or
+9 any part other than the part declared to be unconstitutional or invalid.
+10
+11 EFFECTIVE DATE
+12 SECTION 7.2. Except as otherwise provided, this act is effective when it becomes
+13 law.
+DRS35135-ND-50 Page 13
+
+[DELETED:  D S ( S  A A T  P  W S " T … ( P a t d a a d r o a t i s c o p o f v f o r t a N C r a ( w h b d t b p a t d f c p b t N C ( P o – A e o a e w i c a a p G … ( S – A p w p l g l c o s o k o o t o w o a l e o c o p o f v f o a r s w i t w … S]
+[DELETED:  S  D " T c c … ( A o w d ( T s o a l e o c o p o f v f o r s w w i p a t d a a d r o a t i s ( A p l g o l c i a l e o c o p o f v f o r o f t b d t n o m r t c t e … S " T r t C … ( T c o d o t l e o c o p s T t a c o c l e a t e f A o t a a h j o a p f … S w  M T R F E M S " A S p ( " d o d]
+[DELETED:  S  P f m l a b t t t e o o u d e t f o r e m o ( d i i c r o ( " e i p o e f i t o a a o i v o t d E w o e p o ( " m a D – A p c p s c m a n a c w c d o t c o r i A d m b c d d ( " m r E – R t t h e d m w o e I o s ( " m o " m o " m m m E m o e m o s m – M w a e m t a o w b r t t r a r o r t p p n o w a c s o p a o t p d f a s g l a t h i i t s t a t a c c s t o a a c ( " R m a E r – A a e G … ( " o d]
+[DELETED:  S  D ( " … ( " a I – A t d i e p f o e i i f ( " … ( " t t i m t a o t d A p c t v o s t b S e  E S " P p a a w r t E e d o e h o p p S " L s o … I p m n e a m o f y a s i G a G G t E p t y]
+[DELETED:  S  P S " E a M R t V – A a t p t t e s a G t t v t m a e f t h a a r e t n t d I a p v a c t p w o w m t c m p t d o s p n t d a t c c p t S n  P  S S " P p i i a w G H t s o t d o o i a e f t w t D o P o t D o A C o e v r a a o o t b m s b a r o l e S b  E]
+[DELETED:  S  D S 2 2 " 2 S  P  U S " N D a ( T a T b T ( f a r i a s f t G F ( T t o a T b T c T d T t ( A f y S p  R S o A C m u u t o m s h t t f h e 2 H t a S  P  T S " t]
+[DELETED:  S  P ( U o T S R f C A – N G t D t ( o … ( E – N t s a t p a r a p C a t D o H a H S s b e f a b t G S T s d n a t t m b r … S t  P  V P A P O M E F S S " T r ( " – T a r ( " v c a ( " t i ( " p a b ( " A r w a a t R S o i … ( " a a c o a m d t f c c s f t r o e o p f h o a o a]
+[DELETED:  S  D l r b t m d t f c c y o m t t c o " f c s b t h o c o t m u t p o t A o c t ( " s m a B – A p i r o a p t ( " f ( a " p 4 u o t t … ( " i m a C i – A i a s o r a a o d b e o o a b i i t h d e a e c a f a ( " c e – C b t m r i a f c … ( " P n o ( " s p e f t p o d e f b a u t A ( " a m n D a – N i e n o v t a i a ( " r w]
+[DELETED:  S  P m f c ( " o i o t e w s e a e a e n e f p u G e o t E C a n e f p u G a p w i a m G a G A e p i t L I P p t C w a r o a t b " a i i U 1 t w " s o e a d i t C " s a m e f c e o t N C N G w i e p b t e p t c e S a p t t s f a s p r i t a c a a c e o t N C N G a N C N G e i a f r e s d a w i n o h m b a m o t R a t t w s e b e f R S c]
+[DELETED:  S  D w m a d i b a c w a e 3 c p w i a n a a w o m t r " ( " t C c E t b o t o t U o N C t U o a i p F p o r u t p b t G A S B t R S i a m ( " w F – W u i r t a a f r s m t r o a a a o a f p ( " o e b R S D s o a r r a o a ( " p e o e i a s i a p w a c C v o a o a u t a o t S " i ( " p ( " i ( " t o t ( " p p b ( " m o]
+[DELETED:  S  P ( " t d o e o t R S f w c i a o T s b e t c f e i r m ( " O s m a P O – A f p e o t D o C S a R o t D o A C w d i s e o i o w h b p t a o c p o b t D o C o T i ( " w t S u t a a s o a d e o a c o c s b a a e i s ( " a a ( " p m t c o r b a w t o e a t c s f a s A g b e a r N C m e a r a u t C n t s r a p t m i F a t p e o M 2 2 F p o t s … ( " t ( " S E R S o N C a d i G ( " a ( " m A ( " ( t i a j p u G e f a b t p l s p s]
+[DELETED:  S  D s p I p d o t o a f e i a e w m m p t " s n i a e f t p i a o r p p f i G d a m d o " s b t p h a t o t i s s d P 8 ( " b o S d  P  P S " N s ( o t s a p r t s t s s s c i t c w t c o r t p f t r S s  E D O A C I F C S " S i d … ( I m i o i w o o u t s o t D o A C o m r t t m o d o b t D o A C]
+[DELETED:  S  P S i  P  S S 7  I a p s o p o t a i d u a  E S l]

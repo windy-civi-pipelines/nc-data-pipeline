@@ -1,0 +1,663 @@
+Title: HOUSE BILL 922
+Official Title: HOUSE BILL 922
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: North Carolina Consumer Protection Act. (Public)
+Sponsors: Representatives Harrison, Hawkins, von Haefen, and Cervania (Primary
+Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT THAT REVISES CERTAIN DEFINITIONS IN PUBLIC UTILITY LAW AND
+3 ADDS ADDITIONAL REQUIREMENTS TO PROTECT RATEPAYERS FROM PAYING
+4 UNJUST OR UNREASONABLE FEES TO PUBLIC UTILITIES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 62-133.8 reads as rewritten:
+7 "§ 62-133.8. Clean Energy and Energy Efficiency Portfolio Standard (CEPS).
+8 (a) Definitions. – As used in this section:
+9 (1) Advertising. – Any promotional activity aimed at increasing a public utility's
+10 visibility, reputation, or profitability. This includes media campaigns, digital
+11 marketing, and other promotional materials that do not address public service
+12 issues or conservation efforts directly approved by a State or federal agency.
+13 Advertising does not include any of the following:
+14 a. Public messages that the public utility is directed to publish by a
+15 federal, State, or local agency.
+16 b. Public messages providing information on safety measures,
+17 emergency conditions, or service interruptions.
+18 (1)(1a) "Clean energy facility" means a Clean energy facility. – A renewable energy
+19 facility, a nuclear energy facility, including an uprate to a nuclear energy
+20 facility, or a fusion energy facility.
+21 (1a)(1b) "Clean energy resource" means renewable Clean energy resource. –
+22 Renewable energy resources, nuclear energy resources, including an uprate to
+23 a nuclear energy facility, and fusion energy.
+24 (1b)(1c) "Combined heat and power system" means a Combined heat and power
+25 system. – A system that uses waste heat to produce electricity or useful,
+26 measurable thermal or mechanical energy at a retail electric customer's
+27 facility.
+28 (1d) Commission. – The North Carolina Utilities Commission created under
+29 G.S. 62-10, which regulates public utilities in North Carolina.
+30 (2) "Demand-side management" means activities, Demand-side management. –
+31 Activities, programs, or initiatives undertaken by an electric power supplier
+32 or its customers to shift the timing of electricity use from peak to nonpeak
+33 demand periods. "Demand-side management" includes, but is not limited to,
+*H922-v-1*
+General Assembly Of North Carolina Session 2025
+1 load management, electric system equipment and operating controls, direct
+2 load control, and interruptible load.
+3 (3) "Electric power supplier" means a Electric power supplier. – A public utility,
+4 an electric membership corporation, or a municipality that sells electric power
+5 to retail electric power customers in the State.
+6 (3a) "Electricity demand reduction" means a Electricity demand reduction. – A
+7 measurable reduction in the electricity demand of a retail electric customer
+8 that is voluntary, under the real-time control of both the electric power
+9 supplier and the retail electric customer, and measured in real time, using
+10 two-way communications devices that communicate on the basis of standards.
+11 (4) "Energy efficiency measure" means an Energy efficiency measure. – An
+12 equipment, physical, or program change implemented after January 1, 2007,
+13 that results in less energy used to perform the same function. "Energy
+14 efficiency measure" includes, but is not limited to, energy produced from a
+15 combined heat and power system that uses non-clean energy resources.
+16 "Energy efficiency measure" does not include demand-side management.
+17 (4a) "Fusion" means a Fusion. – A reaction in which at least one heavier, more
+18 stable nucleus is produced from two lighter, less stable nuclei, typically
+19 through high temperatures and pressures, emitting energy as a result.
+20 (4b) "Fusion energy" means the Fusion energy. – The product of fusion reactions
+21 inside a fusion device, used for the purpose of generating electricity or other
+22 commercially usable forms of energy.
+23 (4c) Lobbying. – Any action undertaken to influence or attempt to influence
+24 legislative or executive action, or both, as defined under G.S. 120C-100, as
+25 well as any activity undertaken to influence regulatory matters, such as
+26 rate-making.
+27 (4c)(4d) "New clean energy facility" means:New clean energy facility. – Includes
+28 either of the following:
+29 a. A new renewable energy facility; orfacility.
+30 b. Facilities placed into service on or after January 1, 2007, which are
+31 either (i) a nuclear energy facility, including an uprate to a nuclear
+32 energy facility, or (ii) a fusion energy facility.
+33 (5) "New renewable energy facility" means a New renewable energy facility. – A
+34 renewable energy facility that either:includes one of the following:
+35 a. Was placed into service on or after January 1, 2007.
+36 b. Delivers or has delivered electric power to an electric power supplier
+37 pursuant to a contract with NC GreenPower Corporation that was
+38 entered into prior to January 1, 2007.
+39 c. Is a hydroelectric power facility with a generation capacity of 10
+40 megawatts or less that delivers electric power to an electric power
+41 supplier.
+42 (5a) Political influence activities. – Includes any of the following:
+43 a. Any activity intended to directly or indirectly affect or attempt to affect
+44 the decisions or actions of public officials, including, but not limited
+45 to, contributions or direct expenditures to political campaigns, parties,
+46 or advocacy groups.
+47 b. An activity for the purpose of directly or indirectly influencing public
+48 opinion with respect to (i) legislation, regulations, or ordinances, (ii)
+49 elections, (iii) referenda, or (iv) rate setting of electrical or gas
+50 corporations.
+Page 2 House Bill 922-First Edition
+General Assembly Of North Carolina Session 2025
+1 c. An activity for the purpose of directly or indirectly influencing either
+2 of the following:
+3 1. The possible adoption of federal, State, or local legislation,
+4 regulations, or ordinances.
+5 2. The possible repeal or modification of federal, State, or local
+6 legislation, regulations, or ordinances.
+7 d. An activity for the purpose of directly or indirectly influencing
+8 elections or referenda, or appointments of public officials.
+9 e. An activity for the purpose of directly or indirectly influencing the
+10 approval, modification, or revocation of franchises of public utilities.
+11 f. An activity undertaken in support of lobbying or legislative action,
+12 including, but not limited to, research, analysis, preparation, or
+13 planning, whether done directly or indirectly on behalf of the public
+14 utility.
+15 (5b) Public official. – A decision maker within an administrative agency or
+16 legislative body at the local, State, or federal level, and the staff that support
+17 the decision maker's policy development.
+18 (5c) Public utility. – A utility company providing services related to electricity,
+19 gas, water, or telecommunications as defined in G.S. 62-3.
+20 (5d) Rate base. – The value of a public utility's property that is used to determine
+21 its rate of return and the revenues required to cover operating costs and
+22 provide a reasonable return as defined under G.S. 62-133.
+23 (5e) Regulatory matters. – Any issues, processes, or activities directly related to
+24 the oversight, implementation, or enforcement of statutes, rules, or policies
+25 administered by government agencies or regulatory bodies such as the North
+26 Carolina Utilities Commission or Department of Environmental Quality. This
+27 includes actions involving compliance with regulatory standards, the
+28 establishment or amendment of regulations, enforcement actions, rulemaking
+29 processes, and participation in administrative or legal proceedings concerning
+30 the regulation of public utilities.
+31 (6) "Renewable energy certificate" means a Renewable energy certificate. – A
+32 tradable instrument that is equal to one megawatt hour of electricity or
+33 equivalent energy supplied by a clean energy facility, new clean energy
+34 facility, or reduced by implementation of an energy efficiency measure that is
+35 used to track and verify compliance with the requirements of this section as
+36 determined by the Commission. A "renewable energy certificate" does not
+37 include the related emission reductions, including, but not limited to,
+38 reductions of sulfur dioxide, oxides of nitrogen, mercury, or carbon dioxide.
+39 (7) "Renewable energy facility" means a Renewable energy facility. – A facility,
+40 other than a hydroelectric power facility with a generation capacity of more
+41 than 10 megawatts, that either:includes one of the following:
+42 a. Generates electric power by the use of a renewable energy resource.
+43 b. Generates useful, measurable combined heat and power derived from
+44 a renewable energy resource.
+45 c. Is a solar thermal energy facility.
+46 (8) "Renewable energy resource" means a Renewable energy resource. – A solar
+47 electric, solar thermal, wind, hydropower, geothermal, or ocean current or
+48 wave energy resource; a biomass resource, including agricultural waste,
+49 animal waste, wood waste, spent pulping liquors, combustible residues,
+50 combustible liquids, combustible gases, energy crops, or landfill methane;
+51 waste heat derived from a renewable energy resource and used to produce
+House Bill 922-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 electricity or useful, measurable thermal energy at a retail electric customer's
+2 facility; or hydrogen derived from a renewable energy resource. "Renewable
+3 energy resource" does not include peat, a fossil fuel, or nuclear energy
+4 resource.
+5 (9) Test-year method. – A method of determining the appropriate rate adjustments
+6 for public utilities based on the actual and projected costs, as outlined in
+7 G.S. 62-133.
+8 …."
+9 SECTION 2. G.S. 62-131 reads as rewritten:
+10 "§ 62-131. Rates must be just and reasonable; service efficient.
+11 (a) Every rate rate, toll, charge, schedule made, demanded or received by any public
+12 utility, or by any two or more public utilities jointly, shall be just and reasonable. Such rates,
+13 tolls, or charges will only be deemed reasonable if all of the following criteria are satisfied:
+14 (1) Revenue limits – The public utility demonstrates that the aggregate rates
+15 provide revenues that are no greater than the actual costs incurred in serving
+16 North Carolina customers, including reasonable normalization for
+17 nonrecurring costs and future adjustments as approved by the Commission,
+18 and a fair return on the public utility's rate base.
+19 (2) Prohibited costs. – The public utility demonstrates that no part of its rates,
+20 tolls, or charges includes recovery of costs related to the following:
+21 a. Advertisements if any portion of the message in an advertisement is
+22 considered advertising.
+23 b. Lobbying, grassroots lobbying, executive or legislative advocacy,
+24 regardless of whether such lobbying or advocacy is undertaken
+25 directly or indirectly on behalf of a public utility.
+26 c. Contributions or gifts to political candidates, political parties, political
+27 or legislative committees or any committee or organization working to
+28 influence legislative activities, referendum petitions, or elections.
+29 d. Membership dues, sponsorships, or contributions to any business or
+30 industry trade association, group, or tax-exempt related entity,
+31 including, but not limited to, chambers of commerce, charitable
+32 organizations, charities managed by the public utility or affiliated
+33 interest, industry groups, and organizations classified under section
+34 527 of the Internal Revenue Code.
+35 e. Political influence activities.
+36 f. Legal costs and litigation related to federal, State, or local regulations,
+37 legislation, ordinances, or regulatory proceedings, including actions
+38 against regulatory bodies or legislative decisions.
+39 g. Travel, lodging, food, and beverage expenses for the utility's board of
+40 directors, officers, or for the parent company's board or officers,
+41 including any related expenses for affiliate boards or officers.
+42 h. Any costs associated with investor relations activities, including, but
+43 not limited to, communication, reporting, or any other promotional
+44 activities intended for investors or stakeholders.
+45 i. Compensation for any employee whose time is allocated to activities
+46 related to lobbying, legislative action, political influence activities, or
+47 advertising, marketing, or communications seeking to influence public
+48 opinion.
+49 j. Entertainment or gifts.
+50 k. Leasing, owning, or chartering an aircraft for use by the public utility's
+51 board of directors or officers, or those of a parent company or affiliate.
+Page 4 House Bill 922-First Edition
+General Assembly Of North Carolina Session 2025
+1 l. Expenses related to services not regulated by the Commission.
+2 m. Any other lobbying or political activity that is conducted in support of
+3 a candidate committee, a political committee, or an inaugural
+4 committee, or in support of or opposition to a candidate for public
+5 office, regardless of whether such actions are undertaken directly or
+6 indirectly on behalf of a public utility.
+7 (3) Fair classifications. – Rates must equitably classify customer groups and
+8 ensure fairness across all categories, including residential, commercial, and
+9 industrial customers.
+10 (b) Every public utility shall furnish adequate, efficient and reasonable service.
+11 (c) In determining costs of service, the Commission may apply a test-year method of
+12 estimating revenue needs, utilizing appropriate normalization and adjustments as required.
+13 (d) The Commission may approve special rates or contracts for individual customers or
+14 customer classes if it determines that such measures are in the public interest, do not unreasonably
+15 burden other customers, and align with State emissions reductions goals."
+16 SECTION 3. Article 7 of Chapter 62 of the General Statutes is amended by adding
+17 new sections to read:
+18 "§ 62-131A. Prohibited cost recovery; annual reporting.
+19 (a) Public utilities regulated under this Chapter cannot attempt to recover in rates any
+20 costs related to the Prohibited Costs listed in G.S. 62-131(a)(2).
+21 (b) By July 1 of each year, regulated public utilities shall submit to the Commission an
+22 annual report detailing all of the following:
+23 (1) A written, itemized description of any expenses associated with prohibited
+24 activities in G.S. 62-131(a)(2).
+25 (2) For each expense, the report must include the date, the payee, the amount, and
+26 a description of the purpose of the expense.
+27 (3) Third-party expenditures for prohibited activities, with details sufficient to
+28 describe the nature of the expenditure regarding payees and purposes.
+29 (4) A list of all divisions, departments, or other organizational employee groups
+30 within the public utility that performs activities associated with
+31 G.S. 62-131(a)(2). For each organizational employee group, the public utility
+32 shall include a list of employees who work in that group. For each employee,
+33 the public utility shall include the employee's job title, a job description
+34 sufficient to describe the employee's responsibilities, each activity described
+35 in G.S. 62-131(a)(2) in which the employee engages, and a description
+36 sufficient to describe the nature of any such activity, the total annual
+37 compensation for the employee, the hours allocated to the activity, the
+38 percentage of annual compensation paid for work associated with the
+39 activities described in G.S. 62-131(a)(2), and the percentage of annual
+40 compensation recoverable from ratepayers.
+41 (5) Any additional information that the Commission deems relevant.
+42 (c) The Commission shall review the reports submitted under this section, ensuring they
+43 comply with the requirements outlined in this act. The Commission may request additional
+44 clarification or documentation to ensure compliance. If any violations are identified, the
+45 Commission shall act promptly to enforce penalties as outlined in subsection (e) of this section.
+46 (d) Public Disclosure. – A public utility shall do all of the following:
+47 (1) Clearly and conspicuously disclose in all its public messaging and advertising
+48 whether the costs of the public messaging or advertising are being paid for by
+49 the corporation's shareholders or ratepayers. A disclosure is not clear and
+50 conspicuous if the disclosure is difficult to hear or read, or if the placement of
+51 the disclosure is easily overlooked.
+House Bill 922-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (2) Publish on its publicly accessible website all materials filed with the
+2 Commission in accordance with subsection (b) of this section. The
+3 Commission shall make available the annual reports filed by public utilities in
+4 accordance with this section on its publicly accessible website with notice of
+5 the availability of the reports prominently displayed on the website.
+6 (e) The Commission shall impose penalties on public utilities that recover prohibited
+7 costs through rates, equal to the amount improperly recovered and refund them to the ratepayers.
+8 The Commission shall also satisfy all of the following:
+9 (1) In addition to any refunds that the Commission orders a public utility to pay
+10 ratepayers, the Commission shall assess a civil penalty in accordance with this
+11 section against a public utility that violates G.S. 62-131(a)(2) or fails or
+12 neglects to comply with any part or provision of any order, decision, decree,
+13 rule, direction, demand, or requirement of the Commission related to
+14 implementing G.S. 62-131(a)(2).
+15 a. This civil penalty will not be less than fifty thousand dollars ($50,000)
+16 and not more than one hundred fifty thousand dollars ($150,000) for
+17 each violation.
+18 b. Each expense improperly recorded to cost recovery through ratepayers
+19 is a separate and distinct violation. Violations are continuing
+20 violations. Each day a violation to G.S. 62-131(a)(2) occurs shall be a
+21 separate and distinct violation.
+22 c. The public utility shall not recover any penalty assessed pursuant to
+23 this section from ratepayers.
+24 (2) Three-fourths of the monies collected pursuant to any settlement or penalties
+25 collected by the Commission for violations of G.S. 62-131(a)(2) shall be
+26 deposited in the "Energy Equity Fund," which is hereby established in the
+27 State Treasury.
+28 (3) One-fourth of the monies collected pursuant to any settlement or penalties
+29 collected for violations of G.S. 62-131(a)(2) shall, upon appropriation by the
+30 General Assembly, be used by the Commission for purposes of increasing
+31 resources for the enforcement of this section.
+32 (4) Upon appropriation by the General Assembly, monies in the "Energy Equity
+33 Fund" may be allocated for purposes of disaster recovery and relief, as well
+34 as assisting low-income households in transitioning to zero-emission
+35 appliances to mitigate air quality and public health impacts of using
+36 combustion appliances.
+37 "§ 62-131B. Guidelines for special rates and alternative regulatory plans.
+38 (a) The Commission may adopt alternative regulatory mechanisms, including
+39 performance-based rates or special customer rates, provided that such measures accomplish all
+40 of the following:
+41 (1) Protect the public interest.
+42 (2) Ensure equitable treatment across customer classes.
+43 (3) Do not compromise the reliability of electric service.
+44 (b) Before approving any alternative regulatory plan, the Commission shall ensure that
+45 the plan will not increase costs for other customers beyond reasonable limits or conflict with
+46 State energy goals, including renewable energy deployment.
+47 (c) By November 1, 2025, the Commission shall initiate rulemaking to amend its rules
+48 under G.S. 62-30 to implement the requirements of this act. The Commission's rules shall not
+49 require public utilities to file more than one annual report related to advertising and political
+50 activities, except as required under G.S. 62-133.6."
+Page 6 House Bill 922-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. If any provision of this act or its application is held invalid, the
+2 invalidity does not affect other provisions or applications of this act that can be given effect
+3 without the invalid provisions or application and, to this end, the provisions of this act are
+4 severable.
+5 SECTION 5. This act is effective when it becomes law.
+House Bill 922-First Edition Page 7
+[DELETED:  1 N ( R R A A A T R C D I P U L A A U T S " ( D ( A v m i A a P m t t p u i d t p b a f b P m p i o s m e ( f a f a u f ( " e r m r C e r – R a ( " s – A s t u w h t p e o u m t o m e a a r e c f ( C – T N C U C c u G ( " A o d]
+[DELETED:  S  H l l ( " a t ( " m t i v u t r c o b t e p s t ( " e m m a E e m – A e t r i l e u t p t s f " e c h a p s t u n e r " ( " s n i p f t l l s n t t ( " i c ( L – A a u t i o a t i l w a a a u t i r m s a r ( " e a A b F e e ( " r a W b D p t a c w N G C t w e c I a h p f w a g c o 1 m s ( P a A t t o b A o e ( r o ( r s o e o g c]
+[DELETED:  S  P c A o 1 T S r 2 T l d A a f t p o d o i i e e A a f A i b n l t r a p o p u ( P o – A d m w a a a o l t ( P g ( R i r o r a t r r t c o c a p ( R t a C i a i c w r s t e p t ( " t i t i e t o m h o e o e e s b a c e f n c e f u d i t r e r i b n l t r ( " o t a G b G a c I ( " e w e r a b r i a w a w w w s p l c r c w]
+[DELETED:  S  H e f e r d n i p a f f o n e r ( T f p u b o t a a p c a o i G … S " ( E u t ( R l – T p u d t t a r p N C c i r n f n a ( P t a A c b L g l e o l a r o w s l o a i u d c C o i d M i t a g o t r e i b n l t c o c c o c m b t p u o a i 5 e P f L l a g T d o o f t p c b o o i h A n a i C r a o j E k L b]
+[DELETED:  S  P l E m A a c c a p c o a i c o i ( F c – R m e c c g a e i ( E ( I e ( T c b S n " ( P c ( B a ( A a ( F a ( T d ( A w t p u t p a a w G s t p u s i t e j t a j d s i G i w t e e a a d s t d t n o a s a t t a c f t e t h a t t a t p o a c p f w a w t a d i G a t p o a c ( A ( T c w t r o i t a T C m r a c o d t e c I a v a i t C ( P ( C w t d c c t]
+[DELETED:  S  H ( P o i p a w a m f w t C i a w s ( o t s T C a t ( T c T ( I r s a a p u t v G o f o n r d d o r o t C r t i a T a e b E i a s a d v V a c v s c T t ( T c b t C f v o G s b d S ( O c G r ( U F a a l h i t t z a t m a q a p h i o u c " ( T C m a a r m i p o ( P ( E ( D ( B t S ( B u r a]
+[DELETED:  S  P S 4  I a p o t a o i a i h i t i w t i p o a t t e t p o a a s S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 922
+Short Title: North Carolina Consumer Protection Act. (Public)
+Sponsors: Representatives Harrison, Hawkins, von Haefen, and Cervania (Primary
+Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT THAT REVISES CERTAIN DEFINITIONS IN PUBLIC UTILITY LAW AND
+3 ADDS ADDITIONAL REQUIREMENTS TO PROTECT RATEPAYERS FROM PAYING
+4 UNJUST OR UNREASONABLE FEES TO PUBLIC UTILITIES.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. G.S. 62-133.8 reads as rewritten:
+7 "§ 62-133.8. Clean Energy and Energy Efficiency Portfolio Standard (CEPS).
+8 (a) Definitions. – As used in this section:
+9 (1) Advertising. – Any promotional activity aimed at increasing a public utility's
+10 visibility, reputation, or profitability. This includes media campaigns, digital
+11 marketing, and other promotional materials that do not address public service
+12 issues or conservation efforts directly approved by a State or federal agency.
+13 Advertising does not include any of the following:
+14 a. Public messages that the public utility is directed to publish by a
+15 federal, State, or local agency.
+16 b. Public messages providing information on safety measures,
+17 emergency conditions, or service interruptions.
+18 (1)(1a) "Clean energy facility" means a Clean energy facility. – A renewable energy
+19 facility, a nuclear energy facility, including an uprate to a nuclear energy
+20 facility, or a fusion energy facility.
+21 (1a)(1b) "Clean energy resource" means renewable Clean energy resource. –
+22 Renewable energy resources, nuclear energy resources, including an uprate to
+23 a nuclear energy facility, and fusion energy.
+24 (1b)(1c) "Combined heat and power system" means a Combined heat and power
+25 system. – A system that uses waste heat to produce electricity or useful,
+26 measurable thermal or mechanical energy at a retail electric customer's
+27 facility.
+28 (1d) Commission. – The North Carolina Utilities Commission created under
+29 G.S. 62-10, which regulates public utilities in North Carolina.
+30 (2) "Demand-side management" means activities, Demand-side management. –
+31 Activities, programs, or initiatives undertaken by an electric power supplier
+32 or its customers to shift the timing of electricity use from peak to nonpeak
+33 demand periods. "Demand-side management" includes, but is not limited to,
+*H922-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 load management, electric system equipment and operating controls, direct
+2 load control, and interruptible load.
+3 (3) "Electric power supplier" means a Electric power supplier. – A public utility,
+4 an electric membership corporation, or a municipality that sells electric power
+5 to retail electric power customers in the State.
+6 (3a) "Electricity demand reduction" means a Electricity demand reduction. – A
+7 measurable reduction in the electricity demand of a retail electric customer
+8 that is voluntary, under the real-time control of both the electric power
+9 supplier and the retail electric customer, and measured in real time, using
+10 two-way communications devices that communicate on the basis of standards.
+11 (4) "Energy efficiency measure" means an Energy efficiency measure. – An
+12 equipment, physical, or program change implemented after January 1, 2007,
+13 that results in less energy used to perform the same function. "Energy
+14 efficiency measure" includes, but is not limited to, energy produced from a
+15 combined heat and power system that uses non-clean energy resources.
+16 "Energy efficiency measure" does not include demand-side management.
+17 (4a) "Fusion" means a Fusion. – A reaction in which at least one heavier, more
+18 stable nucleus is produced from two lighter, less stable nuclei, typically
+19 through high temperatures and pressures, emitting energy as a result.
+20 (4b) "Fusion energy" means the Fusion energy. – The product of fusion reactions
+21 inside a fusion device, used for the purpose of generating electricity or other
+22 commercially usable forms of energy.
+23 (4c) Lobbying. – Any action undertaken to influence or attempt to influence
+24 legislative or executive action, or both, as defined under G.S. 120C-100, as
+25 well as any activity undertaken to influence regulatory matters, such as
+26 rate-making.
+27 (4c)(4d) "New clean energy facility" means:New clean energy facility. – Includes
+28 either of the following:
+29 a. A new renewable energy facility; orfacility.
+30 b. Facilities placed into service on or after January 1, 2007, which are
+31 either (i) a nuclear energy facility, including an uprate to a nuclear
+32 energy facility, or (ii) a fusion energy facility.
+33 (5) "New renewable energy facility" means a New renewable energy facility. – A
+34 renewable energy facility that either:includes one of the following:
+35 a. Was placed into service on or after January 1, 2007.
+36 b. Delivers or has delivered electric power to an electric power supplier
+37 pursuant to a contract with NC GreenPower Corporation that was
+38 entered into prior to January 1, 2007.
+39 c. Is a hydroelectric power facility with a generation capacity of 10
+40 megawatts or less that delivers electric power to an electric power
+41 supplier.
+42 (5a) Political influence activities. – Includes any of the following:
+43 a. Any activity intended to directly or indirectly affect or attempt to affect
+44 the decisions or actions of public officials, including, but not limited
+45 to, contributions or direct expenditures to political campaigns, parties,
+46 or advocacy groups.
+47 b. An activity for the purpose of directly or indirectly influencing public
+48 opinion with respect to (i) legislation, regulations, or ordinances, (ii)
+49 elections, (iii) referenda, or (iv) rate setting of electrical or gas
+50 corporations.
+Page 2 House Bill 922-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 c. An activity for the purpose of directly or indirectly influencing either
+2 of the following:
+3 1. The possible adoption of federal, State, or local legislation,
+4 regulations, or ordinances.
+5 2. The possible repeal or modification of federal, State, or local
+6 legislation, regulations, or ordinances.
+7 d. An activity for the purpose of directly or indirectly influencing
+8 elections or referenda, or appointments of public officials.
+9 e. An activity for the purpose of directly or indirectly influencing the
+10 approval, modification, or revocation of franchises of public utilities.
+11 f. An activity undertaken in support of lobbying or legislative action,
+12 including, but not limited to, research, analysis, preparation, or
+13 planning, whether done directly or indirectly on behalf of the public
+14 utility.
+15 (5b) Public official. – A decision maker within an administrative agency or
+16 legislative body at the local, State, or federal level, and the staff that support
+17 the decision maker's policy development.
+18 (5c) Public utility. – A utility company providing services related to electricity,
+19 gas, water, or telecommunications as defined in G.S. 62-3.
+20 (5d) Rate base. – The value of a public utility's property that is used to determine
+21 its rate of return and the revenues required to cover operating costs and
+22 provide a reasonable return as defined under G.S. 62-133.
+23 (5e) Regulatory matters. – Any issues, processes, or activities directly related to
+24 the oversight, implementation, or enforcement of statutes, rules, or policies
+25 administered by government agencies or regulatory bodies such as the North
+26 Carolina Utilities Commission or Department of Environmental Quality. This
+27 includes actions involving compliance with regulatory standards, the
+28 establishment or amendment of regulations, enforcement actions, rulemaking
+29 processes, and participation in administrative or legal proceedings concerning
+30 the regulation of public utilities.
+31 (6) "Renewable energy certificate" means a Renewable energy certificate. – A
+32 tradable instrument that is equal to one megawatt hour of electricity or
+33 equivalent energy supplied by a clean energy facility, new clean energy
+34 facility, or reduced by implementation of an energy efficiency measure that is
+35 used to track and verify compliance with the requirements of this section as
+36 determined by the Commission. A "renewable energy certificate" does not
+37 include the related emission reductions, including, but not limited to,
+38 reductions of sulfur dioxide, oxides of nitrogen, mercury, or carbon dioxide.
+39 (7) "Renewable energy facility" means a Renewable energy facility. – A facility,
+40 other than a hydroelectric power facility with a generation capacity of more
+41 than 10 megawatts, that either:includes one of the following:
+42 a. Generates electric power by the use of a renewable energy resource.
+43 b. Generates useful, measurable combined heat and power derived from
+44 a renewable energy resource.
+45 c. Is a solar thermal energy facility.
+46 (8) "Renewable energy resource" means a Renewable energy resource. – A solar
+47 electric, solar thermal, wind, hydropower, geothermal, or ocean current or
+48 wave energy resource; a biomass resource, including agricultural waste,
+49 animal waste, wood waste, spent pulping liquors, combustible residues,
+50 combustible liquids, combustible gases, energy crops, or landfill methane;
+51 waste heat derived from a renewable energy resource and used to produce
+House Bill 922-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 electricity or useful, measurable thermal energy at a retail electric customer's
+2 facility; or hydrogen derived from a renewable energy resource. "Renewable
+3 energy resource" does not include peat, a fossil fuel, or nuclear energy
+4 resource.
+5 (9) Test-year method. – A method of determining the appropriate rate adjustments
+6 for public utilities based on the actual and projected costs, as outlined in
+7 G.S. 62-133.
+8 …."
+9 SECTION 2. G.S. 62-131 reads as rewritten:
+10 "§ 62-131. Rates must be just and reasonable; service efficient.
+11 (a) Every rate rate, toll, charge, schedule made, demanded or received by any public
+12 utility, or by any two or more public utilities jointly, shall be just and reasonable. Such rates,
+13 tolls, or charges will only be deemed reasonable if all of the following criteria are satisfied:
+14 (1) Revenue limits – The public utility demonstrates that the aggregate rates
+15 provide revenues that are no greater than the actual costs incurred in serving
+16 North Carolina customers, including reasonable normalization for
+17 nonrecurring costs and future adjustments as approved by the Commission,
+18 and a fair return on the public utility's rate base.
+19 (2) Prohibited costs. – The public utility demonstrates that no part of its rates,
+20 tolls, or charges includes recovery of costs related to the following:
+21 a. Advertisements if any portion of the message in an advertisement is
+22 considered advertising.
+23 b. Lobbying, grassroots lobbying, executive or legislative advocacy,
+24 regardless of whether such lobbying or advocacy is undertaken
+25 directly or indirectly on behalf of a public utility.
+26 c. Contributions or gifts to political candidates, political parties, political
+27 or legislative committees or any committee or organization working to
+28 influence legislative activities, referendum petitions, or elections.
+29 d. Membership dues, sponsorships, or contributions to any business or
+30 industry trade association, group, or tax-exempt related entity,
+31 including, but not limited to, chambers of commerce, charitable
+32 organizations, charities managed by the public utility or affiliated
+33 interest, industry groups, and organizations classified under section
+34 527 of the Internal Revenue Code.
+35 e. Political influence activities.
+36 f. Legal costs and litigation related to federal, State, or local regulations,
+37 legislation, ordinances, or regulatory proceedings, including actions
+38 against regulatory bodies or legislative decisions.
+39 g. Travel, lodging, food, and beverage expenses for the utility's board of
+40 directors, officers, or for the parent company's board or officers,
+41 including any related expenses for affiliate boards or officers.
+42 h. Any costs associated with investor relations activities, including, but
+43 not limited to, communication, reporting, or any other promotional
+44 activities intended for investors or stakeholders.
+45 i. Compensation for any employee whose time is allocated to activities
+46 related to lobbying, legislative action, political influence activities, or
+47 advertising, marketing, or communications seeking to influence public
+48 opinion.
+49 j. Entertainment or gifts.
+50 k. Leasing, owning, or chartering an aircraft for use by the public utility's
+51 board of directors or officers, or those of a parent company or affiliate.
+Page 4 House Bill 922-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 l. Expenses related to services not regulated by the Commission.
+2 m. Any other lobbying or political activity that is conducted in support of
+3 a candidate committee, a political committee, or an inaugural
+4 committee, or in support of or opposition to a candidate for public
+5 office, regardless of whether such actions are undertaken directly or
+6 indirectly on behalf of a public utility.
+7 (3) Fair classifications. – Rates must equitably classify customer groups and
+8 ensure fairness across all categories, including residential, commercial, and
+9 industrial customers.
+10 (b) Every public utility shall furnish adequate, efficient and reasonable service.
+11 (c) In determining costs of service, the Commission may apply a test-year method of
+12 estimating revenue needs, utilizing appropriate normalization and adjustments as required.
+13 (d) The Commission may approve special rates or contracts for individual customers or
+14 customer classes if it determines that such measures are in the public interest, do not unreasonably
+15 burden other customers, and align with State emissions reductions goals."
+16 SECTION 3. Article 7 of Chapter 62 of the General Statutes is amended by adding
+17 new sections to read:
+18 "§ 62-131A. Prohibited cost recovery; annual reporting.
+19 (a) Public utilities regulated under this Chapter cannot attempt to recover in rates any
+20 costs related to the Prohibited Costs listed in G.S. 62-131(a)(2).
+21 (b) By July 1 of each year, regulated public utilities shall submit to the Commission an
+22 annual report detailing all of the following:
+23 (1) A written, itemized description of any expenses associated with prohibited
+24 activities in G.S. 62-131(a)(2).
+25 (2) For each expense, the report must include the date, the payee, the amount, and
+26 a description of the purpose of the expense.
+27 (3) Third-party expenditures for prohibited activities, with details sufficient to
+28 describe the nature of the expenditure regarding payees and purposes.
+29 (4) A list of all divisions, departments, or other organizational employee groups
+30 within the public utility that performs activities associated with
+31 G.S. 62-131(a)(2). For each organizational employee group, the public utility
+32 shall include a list of employees who work in that group. For each employee,
+33 the public utility shall include the employee's job title, a job description
+34 sufficient to describe the employee's responsibilities, each activity described
+35 in G.S. 62-131(a)(2) in which the employee engages, and a description
+36 sufficient to describe the nature of any such activity, the total annual
+37 compensation for the employee, the hours allocated to the activity, the
+38 percentage of annual compensation paid for work associated with the
+39 activities described in G.S. 62-131(a)(2), and the percentage of annual
+40 compensation recoverable from ratepayers.
+41 (5) Any additional information that the Commission deems relevant.
+42 (c) The Commission shall review the reports submitted under this section, ensuring they
+43 comply with the requirements outlined in this act. The Commission may request additional
+44 clarification or documentation to ensure compliance. If any violations are identified, the
+45 Commission shall act promptly to enforce penalties as outlined in subsection (e) of this section.
+46 (d) Public Disclosure. – A public utility shall do all of the following:
+47 (1) Clearly and conspicuously disclose in all its public messaging and advertising
+48 whether the costs of the public messaging or advertising are being paid for by
+49 the corporation's shareholders or ratepayers. A disclosure is not clear and
+50 conspicuous if the disclosure is difficult to hear or read, or if the placement of
+51 the disclosure is easily overlooked.
+House Bill 922-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (2) Publish on its publicly accessible website all materials filed with the
+2 Commission in accordance with subsection (b) of this section. The
+3 Commission shall make available the annual reports filed by public utilities in
+4 accordance with this section on its publicly accessible website with notice of
+5 the availability of the reports prominently displayed on the website.
+6 (e) The Commission shall impose penalties on public utilities that recover prohibited
+7 costs through rates, equal to the amount improperly recovered and refund them to the ratepayers.
+8 The Commission shall also satisfy all of the following:
+9 (1) In addition to any refunds that the Commission orders a public utility to pay
+10 ratepayers, the Commission shall assess a civil penalty in accordance with this
+11 section against a public utility that violates G.S. 62-131(a)(2) or fails or
+12 neglects to comply with any part or provision of any order, decision, decree,
+13 rule, direction, demand, or requirement of the Commission related to
+14 implementing G.S. 62-131(a)(2).
+15 a. This civil penalty will not be less than fifty thousand dollars ($50,000)
+16 and not more than one hundred fifty thousand dollars ($150,000) for
+17 each violation.
+18 b. Each expense improperly recorded to cost recovery through ratepayers
+19 is a separate and distinct violation. Violations are continuing
+20 violations. Each day a violation to G.S. 62-131(a)(2) occurs shall be a
+21 separate and distinct violation.
+22 c. The public utility shall not recover any penalty assessed pursuant to
+23 this section from ratepayers.
+24 (2) Three-fourths of the monies collected pursuant to any settlement or penalties
+25 collected by the Commission for violations of G.S. 62-131(a)(2) shall be
+26 deposited in the "Energy Equity Fund," which is hereby established in the
+27 State Treasury.
+28 (3) One-fourth of the monies collected pursuant to any settlement or penalties
+29 collected for violations of G.S. 62-131(a)(2) shall, upon appropriation by the
+30 General Assembly, be used by the Commission for purposes of increasing
+31 resources for the enforcement of this section.
+32 (4) Upon appropriation by the General Assembly, monies in the "Energy Equity
+33 Fund" may be allocated for purposes of disaster recovery and relief, as well
+34 as assisting low-income households in transitioning to zero-emission
+35 appliances to mitigate air quality and public health impacts of using
+36 combustion appliances.
+37 "§ 62-131B. Guidelines for special rates and alternative regulatory plans.
+38 (a) The Commission may adopt alternative regulatory mechanisms, including
+39 performance-based rates or special customer rates, provided that such measures accomplish all
+40 of the following:
+41 (1) Protect the public interest.
+42 (2) Ensure equitable treatment across customer classes.
+43 (3) Do not compromise the reliability of electric service.
+44 (b) Before approving any alternative regulatory plan, the Commission shall ensure that
+45 the plan will not increase costs for other customers beyond reasonable limits or conflict with
+46 State energy goals, including renewable energy deployment.
+47 (c) By November 1, 2025, the Commission shall initiate rulemaking to amend its rules
+48 under G.S. 62-30 to implement the requirements of this act. The Commission's rules shall not
+49 require public utilities to file more than one annual report related to advertising and political
+50 activities, except as required under G.S. 62-133.6."
+Page 6 House Bill 922-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. If any provision of this act or its application is held invalid, the
+2 invalidity does not affect other provisions or applications of this act that can be given effect
+3 without the invalid provisions or application and, to this end, the provisions of this act are
+4 severable.
+5 SECTION 5. This act is effective when it becomes law.
+House Bill 922-First Edition Page 7
+
+[DELETED:  1 N ( R R A A A T R C D I P U L A A U T S " ( D ( A v m i A a P m t t p u i d t p b a f b P m p i o s m e ( f a f a u f ( " e r m r C e r – R a ( " s – A s t u w h t p e o u m t o m e a a r e c f ( C – T N C U C c u G ( " A o d]
+[DELETED:  S  H l l ( " a t ( " m t i v u t r c o b t e p s t ( " e m m a E e m – A e t r i l e u t p t s f " e c h a p s t u n e r " ( " s n i p f t l l s n t t ( " i c ( L – A a u t i o a t i l w a a a u t i r m s a r ( " e a A b F e e ( " r a W b D p t a c w N G C t w e c I a h p f w a g c o 1 m s ( P a A t t o b A o e ( r o ( r s o e o g c]
+[DELETED:  S  P c A o 1 T S r 2 T l d A a f t p o d o i i e e A a f A i b n l t r a p o p u ( P o – A d m w a a a o l t ( P g ( R i r o r a t r r t c o c a p ( R t a C i a i c w r s t e p t ( " t i t i e t o m h o e o e e s b a c e f n c e f u d i t r e r i b n l t r ( " o t a G b G a c I ( " e w e r a b r i a w a w w w s p l c r c w]
+[DELETED:  S  H e f e r d n i p a f f o n e r ( T f p u b o t a a p c a o i G … S " ( E u t ( R l – T p u d t t a r p N C c i r n f n a ( P t a A c b L g l e o l a r o w s l o a i u d c C o i d M i t a g o t r e i b n l t c o c c o c m b t p u o a i 5 e P f L l a g T d o o f t p c b o o i h A n a i C r a o j E k L b]
+[DELETED:  S  P l E m A a c c a p c o a i c o i ( F c – R m e c c g a e i ( E ( I e ( T c b S n " ( P c ( B a ( A a ( F a ( T d ( A w t p u t p a a w G s t p u s i t e j t a j d s i G i w t e e a a d s t d t n o a s a t t a c f t e t h a t t a t p o a c p f w a w t a d i G a t p o a c ( A ( T c w t r o i t a T C m r a c o d t e c I a v a i t C ( P ( C w t d c c t]
+[DELETED:  S  H ( P o i p a w a m f w t C i a w s ( o t s T C a t ( T c T ( I r s a a p u t v G o f o n r d d o r o t C r t i a T a e b E i a s a d v V a c v s c T t ( T c b t C f v o G s b d S ( O c G r ( U F a a l h i t t z a t m a q a p h i o u c " ( T C m a a r m i p o ( P ( E ( D ( B t S ( B u r a]
+[DELETED:  S  P S 4  I a p o t a o i a i h i t i w t i p o a t t e t p o a a s S]

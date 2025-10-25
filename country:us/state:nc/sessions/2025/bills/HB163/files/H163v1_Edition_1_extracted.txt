@@ -1,0 +1,883 @@
+Title: HOUSE BILL 163
+Official Title: HOUSE BILL 163
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Pharmacy Benefits Manager Provisions. (Public)
+Sponsors: Representatives Rhyne, Blackwell, Huneycutt, and Lowery (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Regulatory Reform, if favorable, Rules, Calendar, and
+Operations of the House
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REGULATE THE USE OF SPREAD PRICING AND CONCESSIONS BY
+3 PHARMACY BENEFITS MANAGERS, TO ESTABLISH UNIFORM STANDARDS FOR
+4 THE TREATMENT OF SPECIALTY PHARMACY ACCREDITATION BY PHARMACY
+5 BENEFITS MANAGERS, TO CLARIFY THE RIGHT TO A PHARMACY OF CHOICE,
+6 AND TO STRENGTHEN THE PROTECTIONS PROVIDED TO PHARMACIES
+7 DURING AUDITS.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. REGULATE THE USE OF SPREAD PRICING AND CONCESSIONS SUCH AS
+11 FEES AND REBATES BY PHARMACY BENEFITS MANAGERS AND ESTABLISH
+12 UNIFORM STANDARDS FOR THE TREATMENT OF ACCREDITING SPECIALTY
+13 PHARMACIES BY PHARMACY BENEFITS MANAGERS
+14 SECTION 1.1. Article 56A of Chapter 58 of the General Statutes is amended by
+15 adding a new section to read:
+16 "§ 58-56A-6. Protection against spread pricing.
+17 A pharmacy benefits manager shall not charge an insurer offering a health benefit plan a price
+18 for a prescription drug that differs from the amount the pharmacy benefits manager directly or
+19 indirectly pays the pharmacy or pharmacist for providing pharmacist services under that same
+20 health benefit plan."
+21 SECTION 1.2.(a) G.S. 58-56A-1 reads as rewritten:
+22 "§ 58-56A-1. Definitions.
+23 The following definitions apply in this Article:
+24 …
+25 (4a) Concession. – A reduction in the cost of a prescription drug that a pharmacy
+26 benefits manager negotiates with a drug manufacturer or wholesale
+27 distributor. A concession includes fees, discounts, rebates, or other reductions
+28 in the cost to the pharmacy benefits manager. A concession does not include
+29 a bona fide service or administrative fee.
+30 (4b) Reserved for future codification purposes.
+31 …
+32 (9a) National average drug acquisition cost. – The approximate invoice price
+33 pharmacies pay for prescription medications in the United States calculated
+34 by the federal Centers for Medicare and Medicaid Services and published
+*H163-v-1*
+General Assembly Of North Carolina Session 2025
+1 monthly on its website. If the national average drug acquisition cost is not
+2 available at the time a drug is administered or dispensed, then the national
+3 drug acquisition cost is the wholesale acquisition cost of the drug, as defined
+4 in Subchapter XIX, Chapter 7 of Title 42 of the United States Code.
+5 …
+6 (16a) Reserved for future codification purposes.
+7 (16b) Specialty drug. – Either of the following prescription medications:
+8 a. A medication that is subject to restricted distribution by the United
+9 States Food and Drug Administration.
+10 b. A medication used to treat complex or chronic conditions that requires
+11 special handling, provider coordination, or patient education.
+12 (16c) Specialty pharmacy accreditation. – Affirmation that a pharmacist or
+13 pharmacy is capable of meeting the requirements applicable to specialty drugs
+14 provided by any of the following independent bodies:
+15 a. The Utilization Review Accreditation Commission.
+16 b. Accreditation Commission for Health Care, Inc.
+17 c. The Joint Commission.
+18 …."
+19 SECTION 1.2.(b) G.S. 58-56A-3 is amended by adding a new subsection to read:
+20 "(c3) When calculating an insured's out-of-pocket cost for a covered prescription drug, a
+21 pharmacy benefits manager shall base the calculation on the net price of the prescription drug
+22 after taking into account all concessions associated with that prescription drug that the pharmacy
+23 benefits manager has received or will receive. The current retail price shall not be used when
+24 calculating an insured's out-of-pocket cost for a prescription drug if the pharmacy benefits
+25 manager has received, is receiving, or will receive any concessions associated with that particular
+26 prescription drug."
+27 SECTION 1.2.(c) G.S. 58-56A-4 reads as rewritten:
+28 "§ 58-56A-4. Pharmacy and pharmacist protections.
+29 (a) A pharmacy benefits manager may only charge fees or otherwise hold a pharmacy
+30 responsible for a fee relating to the adjudication of a claim if the fee is reported on the remittance
+31 advice of the adjudicated claim or is set out in contract between the pharmacy benefits manager
+32 and the pharmacy. No fee or adjustment for the receipt and processing of a claim, or otherwise
+33 related to the adjudication of a claim, shall be charged without a justification on the remittance
+34 advice or as set out in contract and agreed upon by the pharmacy or pharmacist for each
+35 adjustment or fee. This section shall not apply with respect to claims under an employee benefit
+36 plan under the Employee Retirement Income Security Act of 1974 or Medicare Part D.A
+37 pharmacy benefits manager shall not charge a pharmacist or pharmacy a fee related to the
+38 adjudication of a claim.
+39 (a1) A pharmacy benefits manager shall not do any of the following:
+40 (1) Reimburse a pharmacy or pharmacist for a prescription drug or pharmacy
+41 service in an amount less than the national average drug acquisition cost for
+42 the prescription drug or pharmacy service at the time the drug is administered
+43 or dispensed, plus a professional dispensing fee. For purposes of this
+44 subsection, a "professional dispensing fee" means an amount equal to or
+45 higher than the fee-for-service professional drug dispensing fee calculated
+46 using the reimbursement methodology described in the North Carolina
+47 Medicaid State Plan.
+48 (2) Reimburse a pharmacy or pharmacist for a prescription drug or pharmacy
+49 service in an amount less than the amount the pharmacy benefits manager
+50 reimburses itself or an affiliate for the same prescription drug or pharmacy.
+51 (3) Base pharmacy reimbursement on patient outcomes, scores, or metrics.
+Page 2 House Bill 163-First Edition
+General Assembly Of North Carolina Session 2025
+1 (4) Impose a point-of-sale or retroactive fee on a pharmacist, pharmacy, or
+2 insured.
+3 (5) Derive any revenue from a pharmacist, pharmacy, or insured in connection
+4 with performing pharmacy benefits management services.
+5 (6) Receive deductibles or copayments.
+6 …
+7 (c) A pharmacy or pharmacist shall not be prohibited by a pharmacy benefits manager
+8 from dispensing any prescription drug, including specialty drugs dispensed by a credentialed and
+9 accredited pharmacy, drug allowed to be dispensed under a license to practice pharmacy under
+10 Article 4A of Chapter 90 of the General Statutes.
+11 (c1) A pharmacy or pharmacist shall not be prohibited by a pharmacy benefits manager
+12 from dispensing any specialty drug allowed to be dispensed under a license to practice pharmacy
+13 under Article 4A of Chapter 90 of the General Statutes if the pharmacist or pharmacy obtains
+14 specialty pharmacy accreditation.
+15 …
+16 (e) A claim for pharmacist services may not be retroactively denied or reduced after
+17 adjudication of the claim unless any of the following apply:
+18 …
+19 (5) The adjustments were part of an attempt to limit overpayment recovery efforts
+20 by a pharmacy benefits manager.
+21 …."
+22 SECTION 1.2.(d) G.S. 58-56A-15 reads as rewritten:
+23 "§ 58-56A-15. Pharmacy benefits manager networks.
+24 (a) A pharmacy benefits manager shall not deny the right to of any properly licensed
+25 pharmacist or pharmacy to participate in a retail pharmacy network on the same terms and
+26 conditions of other similarly situated participants in the network.
+27 (a1) A pharmacy benefits manager shall not require multiple specialty pharmacy
+28 accreditations as a prerequisite for participation in a retail pharmacy network that dispenses
+29 specialty drugs and shall not deny the right of any properly licensed pharmacist or pharmacy that
+30 has a specialty drug accreditation to participate in a retail pharmacy network that includes
+31 network participants that dispense specialty drugs on the same terms and conditions of other
+32 similarly situated participants in the network.
+33 …
+34 (d) A pharmacy benefits manager shall not charge a pharmacist or pharmacy a fee related
+35 to participation in a retail pharmacy network."
+36 SECTION 1.2.(e) G.S. 58-56A-25 is amended by adding a new subsection to read:
+37 "(d) The provisions of Article 4C of Chapter 90 of the General Statutes apply to an audit
+38 of a pharmacy or pharmacist conducted by a pharmacy benefits manager, insurer, or third-party
+39 administrator and are enforceable by the Commissioner."
+40 SECTION 1.3. Article 56A of Chapter 58 of the General Statutes is amended by
+41 adding a new section to read:
+42 "§ 58-56A-22. Reporting.
+43 (a) Effective April 1, 2026, and quarterly thereafter, every pharmacy benefits manager
+44 licensed in this State shall file a report with the Commissioner that contains all of the following
+45 information for the applicable time period:
+46 (1) The aggregate wholesale acquisition costs to the pharmacy benefits manager
+47 from manufacturers or wholesale distributors for each therapeutic category of
+48 drugs covered under each health benefit plan offered by all insurers that
+49 contract with the pharmacy benefits manager, net of all concessions, direct or
+50 indirect, from all sources.
+House Bill 163-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (2) The aggregate amount of the concessions that the pharmacy benefits manager
+2 received from all drug manufacturers or wholesale distributors for each
+3 insurer contracting with the pharmacy benefits manager, detailed by each
+4 health benefit plan offered by the insurer. In reporting the aggregate amount
+5 of the rebates, the pharmacy benefits manager shall include any utilization
+6 discounts it receives from a manufacturer or wholesale distributor.
+7 (3) The aggregate amount of all concessions that the pharmacy benefits manager
+8 received.
+9 (4) All concessions received by the pharmacy benefits manager from all
+10 manufacturers or wholesale distributors that were not passed on by the
+11 pharmacy benefits manager to an insurer contracting with the pharmacy
+12 benefits manager or other clients of the pharmacy benefits manager.
+13 (b) The information contained in the report required by this section shall be confidential
+14 by law and privileged, shall not be considered a public record under either G.S. 58-2-100 or
+15 Chapter 132 of the General Statutes, shall not be subject to subpoena, and shall not be subject to
+16 discovery or admissible into evidence in any private civil action. The Commissioner is authorized
+17 to use this information in the furtherance of any regulatory or legal action brought as a part of
+18 the Commissioner's official duties.
+19 (c) Effective August 1, 2026, and annually thereafter, the Commissioner shall prepare a
+20 report based on the information received under this section. The report shall aggregate data and
+21 shall not contain information that would cause financial, competitive, or proprietary harm to any
+22 individual pharmacy benefits manager. The Commissioner shall post the report required by this
+23 subsection on the Department's website."
+24 SECTION 1.4. This Part becomes effective October 1, 2025, and applies to contracts
+25 issued, renewed, or amended on or after that date.
+26
+27 PART II. CLARIFY HEALTH BENEFIT PLAN BENEFICIARY'S RIGHT TO A
+28 PHARMACY OF CHOICE AND MAKE TECHNICAL CORRECTIONS AND
+29 UPDATES TO STATUTES DEALING WITH THESE CONSUMER PROTECTIONS
+30 SECTION 2.1. G.S. 58-51-37 reads as rewritten:
+31 "§ 58-51-37. Pharmacy of choice.
+32 (a) This section shall apply to all health benefit plans providing pharmaceutical services
+33 benefits, including prescription drugs, to any resident of North Carolina. This section shall also
+34 apply to insurance companies and health maintenance organizations that provide or administer
+35 coverages and benefits for prescription drugs. This section shall apply to pharmacy benefits
+36 managers with respect to 340B covered entities and 340B contract pharmacies, as defined in
+37 G.S. 58-56A-1. This section shall not apply to any entity that has its own facility, employs or
+38 contracts with physicians, pharmacists, nurses, and other health care personnel, and that
+39 dispenses prescription drugs from its own pharmacy to its employees and to enrollees of its health
+40 benefit plan; provided, however, this section shall apply to an entity otherwise excluded that
+41 contracts with an outside pharmacy or group of pharmacies to provide prescription drugs and
+42 services. This section shall not apply to any federal program, clinical trial program, hospital or
+43 other health care facility licensed pursuant to Chapter 131E or Chapter 122C of the General
+44 Statutes, when dispensing prescription drugs to its patients.
+45 (b) As used Definitions. – The following definitions apply in this section:
+46 (1) "Copayment" means a Copayment. – A type of cost sharing whereby insured
+47 or covered persons requiring insureds to pay a specified predetermined
+48 amount per unit of service with their the insurer paying the remainder of the
+49 charge. The copayment is incurred at the time the service is used. The
+50 copayment may be a fixed or variable amount.
+Page 4 House Bill 163-First Edition
+General Assembly Of North Carolina Session 2025
+1 (2) "Contract provider" means a Contract provider. – A pharmacy granted the
+2 right to provide prescription drugs and pharmacy services according to the
+3 terms of the insurer.
+4 (3) "Health benefit plan" is as that term is Health benefit plan. – As defined in
+5 G.S. 58-50-110(11).G.S. 58-3-167.
+6 (4) "Insurer" means any entity that provides or offers a health benefit
+7 plan.Insured. – Any individual covered by a health benefit plan.
+8 (4a) Insurer. – As defined in G.S. 58-3-167.
+9 (5) "Pharmacy" means a Pharmacy. – A pharmacy registered with the North
+10 Carolina Board of Pharmacy.
+11 (b1) Applicability. – This section applies to insurers offering health benefit plans that
+12 include prescription drug or pharmacy benefits. This section shall also apply to pharmacy benefits
+13 managers in the same way that it applies to insurers with respect to 340B covered entities and
+14 340B contract pharmacies, as defined in G.S. 58-56A-1. This section does not apply to any
+15 federal program or clinical trial program.
+16 (c) Health Benefit Plan Terms. – The terms of a health benefit plan shall not:not do any
+17 of the following:
+18 (1) Prohibit or limit a resident of this State, who is eligible for reimbursement for
+19 pharmacy services as a participant or beneficiary of a health benefit plan, an
+20 insured, from selecting a pharmacy of his or her choice when the pharmacy
+21 has agreed to participate in the health benefit plan according to the terms
+22 offered by the insurer;insurer.
+23 (2) Deny a pharmacy the opportunity to participate as a contract provider under a
+24 health benefit plan if the pharmacy agrees to provide pharmacy services that
+25 meet the terms and requirements, including terms of reimbursement, of the
+26 insurer under a that health benefit plan, provided that if plan. If the pharmacy
+27 is offered the opportunity to participate, participate as a contract provider, it
+28 must participate or no provisions of G.S. 58-51-37 this section shall
+29 apply;apply.
+30 (3) Impose upon a beneficiary of pharmacy services under a health benefit plan
+31 an insured any copayment, fee, or condition that is not equally imposed upon
+32 all beneficiaries insureds in the same benefit category, class, or copayment
+33 level under the health benefit plan when receiving services from a contract
+34 provider;provider.
+35 (4) Impose a monetary advantage or penalty under a health benefit plan that
+36 would affect a beneficiary's an insured's choice of pharmacy. Monetary
+37 advantage or penalty includes pharmacy, including a higher copayment, a
+38 reduction in reimbursement for services, or the promotion of one participating
+39 pharmacy over another by these methods.
+40 (5) Reduce allowable reimbursement for pharmacy services to a beneficiary under
+41 a health benefit plan an insured because the beneficiary insured selects a
+42 pharmacy of his or her choice, so long as that pharmacy has enrolled with the
+43 health benefit plan under the terms offered to all pharmacies in the plan
+44 coverage area; orarea.
+45 (6) Require a beneficiary, an insured, as a condition of payment or
+46 reimbursement, to purchase pharmacy products or services, including
+47 prescription drugs, exclusively through a mail-order pharmacy.
+48 (7) Impose upon an insured any copayment, amount of reimbursement, number
+49 of days of a drug supply for which reimbursement will be allowed, or any
+50 other payment or condition relating to the purchase of pharmacy services or
+51 products, including prescription drugs, from any pharmacy that is more costly
+House Bill 163-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 or more restrictive than that which would be imposed upon the insured if the
+2 same services or products were purchased from either a mail-order pharmacy
+3 or any other pharmacy that is willing to provide the same services or products
+4 for the same cost and copayment as any mail-order service.
+5 (d) Use of Agent. – A pharmacy, by or through a pharmacist acting on its behalf as its
+6 employee, agent, or owner, may not waive, discount, rebate, or distort a copayment of any
+7 insurer, policy, or plan, insurer or health benefit plan or a beneficiary's an insured's coinsurance
+8 portion of a prescription drug coverage or reimbursement and if of a prescription drug. If a
+9 pharmacy, by or through a pharmacist's acting action on its behalf as its employee, agent agent,
+10 or owner, provides a pharmacy service to an enrollee of a health benefit plan insured that meets
+11 the terms and requirements of the insurer under a health benefit plan, then the pharmacy shall
+12 provide its pharmacy services to all enrollees of individuals covered under that health benefit
+13 plan on the same terms and requirements of the insurer. A violation of this subsection shall be is
+14 a violation of the Pharmacy Practice Act subjecting the pharmacist as a licensee to disciplinary
+15 authority of the North Carolina Board of Pharmacy pursuant to G.S. 90-85.38.
+16 (e) Offer to Participate. – At least 60 days before the effective date of any health benefit
+17 plan providing reimbursement to North Carolina residents coverage for prescription drugs, which
+18 drugs that restricts pharmacy participation, the entity insurer providing the health benefit plan
+19 shall notify, in writing, provide a written notification and offer to all pharmacies within the
+20 geographical coverage area of the health benefit plan, and offer to the pharmacies plan the
+21 opportunity to participate in the health benefit plan. All pharmacies in the geographical coverage
+22 area of the plan shall be eligible to participate under identical reimbursement terms for providing
+23 pharmacy services, including prescription drugs. The entity providing the health benefit plan
+24 insurer shall, through reasonable means, on a timely basis, and on regular intervals in order to
+25 effectuate the purposes of this section, inform the beneficiaries of the plan insureds of the names
+26 and locations of pharmacies that are participating in the plan as providers of pharmacy services
+27 and prescription drugs. Additionally, participating pharmacies shall be entitled to announce their
+28 participation to their customers through a means acceptable to the pharmacy and the entity
+29 providing the health benefit plans. insurer. The pharmacy notification provisions of this section
+30 shall not apply when an individual or group is enrolled, but when the plan enters a particular
+31 county of the State.
+32 (f) Rebates and Marketing Incentives. – If rebates or marketing incentives are allowed to
+33 pharmacies or other dispensing entities providing pharmaceutical services or benefits under a
+34 health benefit plan, these rebates or marketing incentives shall be offered on an equal basis to all
+35 pharmacies and other dispensing entities providing services or benefits under a the health benefit
+36 plan when pharmacy services, including prescription drugs, are purchased in the same volume
+37 and under the same terms of payment. Nothing in this section shall prevent a pharmaceutical
+38 manufacturer or wholesale distributor of pharmaceutical products from providing special prices,
+39 marketing incentives, rebates, or discounts to different purchasers not prohibited by federal and
+40 State antitrust laws.
+41 (g) Any entity or insurer providing a health benefit plan is subject to G.S. 58-2-70.
+42 Violations of This Section. – It shall be a violation of this section for any insurer to provide any
+43 health benefit plan providing coverage for pharmaceutical services or products to residents of
+44 this State that does not conform to the provisions of this section. A violation of this section shall
+45 subject the entity providing a health benefit plan insurer to the sanctions of revocation,
+46 suspension, or refusal to renew license in the discretion of the Commissioner pursuant to
+47 G.S. 58-3-100. A violation of this section creates a civil cause of action for damages or injunctive
+48 relief in favor of any person or pharmacy aggrieved by the violation.
+49 (h) A violation of this section creates a civil cause of action for damages or injunctive
+50 relief in favor of any person or pharmacy aggrieved by the violation.
+Page 6 House Bill 163-First Edition
+General Assembly Of North Carolina Session 2025
+1 (i) Approval by Commissioner. – The Commissioner shall not approve any health benefit
+2 plan providing pharmaceutical services which that does not conform to this section.
+3 (j) Provisions to the Contrary Void. – Any provision in a health benefit plan which is
+4 executed, delivered, or renewed, or otherwise contracted for in this State that is contrary to any
+5 provision of this section shall, to the extent of the conflict, be void.
+6 (k) It shall be a violation of this section for any insurer or any person to provide any
+7 health benefit plan providing for pharmaceutical services to residents of this State that does not
+8 conform to the provisions of this section.
+9 (l) Certain Lock-In Programs. – An insurer's use of a lock-in program developed
+10 pursuant to G.S. 58-51-37.1 or G.S. 108A-68.2 is not a violation of this section."
+11 SECTION 2.2.(a) Subsection (c2) of G.S. 58-56A-3 is recodified as subdivision (4c)
+12 of G.S. 58-56A-1.
+13 SECTION 2.2.(b) G.S. 58-56A-1, as amended by Part I of this act and subsection
+14 (a) of this section, reads as rewritten:
+15 "§ 58-56A-1. Definitions.
+16 The following definitions apply in this Article:
+17 …
+18 (4c) For purposes of this section, the term "generic equivalent" means a Generic
+19 equivalent. – A drug that has meets all of the following criteria:
+20 a. Has an identical amount of the same active ingredients in the same
+21 dosage form; meets form as a non-generic drug.
+22 b. Meets applicable standards of strength, quality, and purity according
+23 to the United States Pharmacopeia or other nationally recognized
+24 compendium; and which, if compendium.
+25 c. If administered in the same amount, would provide amount as a
+26 non-generic drug, provides comparable therapeutic effects.
+27 The This term "generic equivalent" does not include a drug that is listed by
+28 the United States Food and Drug Administration as having unresolved
+29 bioequivalence concerns according to the Administration's most recent
+30 publication of approved drug products with therapeutic equivalence
+31 evaluations.
+32 …
+33 (5a) High-deductible health plan. – As defined under the Internal Revenue Code.
+34 …
+35 (16a) Section 223. – Section 223 of the Internal Revenue Code or its equivalent.
+36 …."
+37 SECTION 2.2.(c) G.S. 58-56A-3(c1) reads as rewritten:
+38 "(c1) When calculating an insured's contribution to any out-of-pocket maximum,
+39 deductible, copayment, coinsurance, or other applicable cost-sharing requirement, the insurer or
+40 pharmacy benefits manager shall include any amounts paid by the insured, or on the insured's
+41 behalf, for a prescription that is either:either of the following:
+42 (1) Without an AB-rated generic equivalent.
+43 (2) With an AB-rated generic equivalent if the insured has obtained authorization
+44 for the drug through any of the following:
+45 a. Prior authorization from the insurer or pharmacy benefits manager.
+46 b. A step therapy protocol.
+47 c. The exception or appeal process of the insurer or pharmacy benefits
+48 manager.
+49 This subsection shall not apply to an insured covered by a high deductible health plan, as that
+50 term is defined in section 223 of the Internal Revenue Code, plan if its application would render
+51 the insured ineligible for a health savings account under section 223 unless (i) the insured has
+House Bill 163-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 satisfied the minimum deductible under section 223 or (ii) the prescription qualifies as preventive
+2 care under section 223."
+3 SECTION 2.2.(d) G.S. 58-56A-3 is amended by adding a new subsection to read:
+4 "(f) A pharmacy benefits manager shall not prohibit an insured's selection of a pharmacy
+5 or pharmacist with respect to any pharmacy or pharmacist that has agreed to participate as a
+6 provider in a health benefit plan's network according to the terms offered by the insurer."
+7 SECTION 2.3. G.S. 58-56A-50(c) is repealed.
+8 SECTION 2.4. This Part becomes effective October 1, 2025, and applies to contracts
+9 issued, renewed, or amended on or after that date.
+10
+11 PART III. STRENGTHEN PHARMACY AUDIT PROTECTIONS
+12 SECTION 3.1. G.S. 90-85.50 reads as rewritten:
+13 "§ 90-85.50. Declaration of pharmacy rights during audit.
+14 (a) The following definitions apply in this Article:
+15 (1) "Pharmacy" means a Pharmacy. – A person or entity holding a valid pharmacy
+16 permit pursuant to G.S. 90-85.21 or G.S. 90-85.21A.
+17 (2) "Responsible party" means the Responsible party. – The entity responsible for
+18 payment of claims for health care services other than (i) the individual to
+19 whom the health care services were rendered or (ii) that individual's guardian
+20 or legal representative.
+21 (b) Notwithstanding any other provision of law, whenever a managed care company,
+22 insurance company, third-party payer, or any entity that represents a responsible party conducts
+23 an audit of the records of a pharmacy, the pharmacy has a right to all of the following:
+24 …
+25 (8) If an audit is conducted for a reason other than described in subdivision (6) of
+26 this subsection, the audit is limited to 100 selected prescriptions.25 total
+27 prescriptions, including refills.
+28 (9) If an audit reveals the necessity for a review of additional claims, to have then
+29 the pharmacy may request the audit be conducted on site.site and is entitled to
+30 written notice of the basis of the claims, including a specific description of
+31 any suspected fraud or abuse, at least 14 days prior to any additional audit.
+32 …."
+33 SECTION 3.2. G.S. 90-85.52 reads as rewritten:
+34 "§ 90-85.52. Pharmacy audit recoupments.
+35 …
+36 (a1) Prior to any recoupment, the entity conducting the audit shall provide the pharmacy
+37 with a summary describing the total recoupment amount and the date on which the recoupment
+38 will be assessed. This summary shall be accompanied by payment summaries or electronic
+39 remittance advices documenting any disputed funds, charges, or other penalties.
+40 …."
+41 SECTION 3.3. G.S. 90-85.53 reads as rewritten:
+42 "§ 90-85.53. Applicability.
+43 (a) This Article does not apply to any audit, review, or investigation that involves alleged
+44 Medicaid fraud, Medicaid abuse, insurance fraud, or other criminal fraud or misrepresentation.
+45 (b) This Article applies to an audit of a pharmacy or pharmacist conducted by a pharmacy
+46 benefits manager, insurer, or third-party administrator and is enforceable against these entities
+47 by the Commissioner of Insurance under G.S. 58-56A-25."
+48 SECTION 3.4. This Part becomes effective October 1, 2025, and applies to audits
+49 initiated on or after that date.
+50
+51 PART IV. RULEMAKING AUTHORITY AND EFFECTIVE DATE
+Page 8 House Bill 163-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.1.(a) The Commissioner may adopt temporary rules to implement Part
+2 I and Part II of this act.
+3 SECTION 4.1.(b) The North Carolina Board of Pharmacy may adopt temporary
+4 rules to implement Part III of this act.
+5 SECTION 4.2. Except as otherwise provided, this act is effective when it becomes
+6 law.
+House Bill 163-First Edition Page 9
+[DELETED:  1 P ( R H i f R R i f R C a A A A T R T U O S P A C B P T B A T S T P P T P D T  P F U P S a " A f i h S " T … ( C b m n w a d m o w d i a ( R … ( N a d a c – T a i p p b]
+[DELETED:  S  H m a d i … ( R ( S a A S b A s ( S p a – A t a p o p p a T b A c T … S " W p a b c a i o c f a p d i t p b m p S " ( A r a a r a o a s o i c a a u b t p o p f e a p u t E R I S A o 1 o M P D p b m s n c a p o p a f r t t a ( A ( R s t o d p a p d f F p o t s a " d f m a a e t o h u t r m d i t N C M ( R s r ( B]
+[DELETED:  S  P ( I a p o r f o a p p o i ( D w ( R … ( A f a A ( A f u s … ( A a … ( T b … S " ( A p a r t a c ( A p b m s n r m s p a s h a s d a t p i a r p n t i n s … ( A t S " T o a S a " ( E l i ( T f d c u e h b p o b a i t c i]
+[DELETED:  S  H ( T r f a d m o w d f e i c w t p b m d b e h o d ( T r ( A c r b t p b m f a m o w d t w n p o b t p b m t a i c w t p b ( T b C d t t ( E r s i s S i  P I C H B P B R T A P O C A M T C A U S " ( T b a c m G c w p p n a o h c p a t d b c s o S ( A ( " o c p r i t p a s p a c T c i i a t t t s i u T c]
+[DELETED:  S  P ( " r t ( " G ( " m a e t p o o a h b p ( I ( " m a P – A p r w t N C ( A i m 3 f ( H o ( P p i h o ( D h m i i m p o n p o G t s s a ( I a a l p ( I a m a o p u a h b p t w a a b a i c o p M a p h r p ( R a h b p a i b t b i s a p h b p u t t o t a p i t p c ( R a b a i a a c o p o r t p p p o s i p ( I o o p]
+[DELETED:  S  H o s o f ( U e a n a i p p o t p p a a ( O p d s g c a o h b p a o t p p t o a p i e a a p t t c t a m a t t p a t e p s c ( R p h p p a m m S ( A e o i p a h b p i s t G V h t s t e p a h b p i t t s o r s o r t r l i t d o t C p t G r ( A r]
+[DELETED:  S  P ( A p ( P e p ( I h c ( C L P – A i u o a l p d p S o S ( " T … ( F e a H d b M t t U S P o o n r c c I a i t s a w p a a a n T t U S F a D A a h u b c a t t A m r p o a d p w t e e … ( H … ( S … S " W c a i c t a o m d p b ( W ( W f a P b A c T m T t t]
+[DELETED:  S  H s c S " A o p S S i  P S " ( T ( " p ( " p w o ( N i a … ( I t s t a i l t 1 s p t p ( I t w a … S " … ( P w w b a T s s b a b p s o e r … S " ( T M ( T b b S i  P]
+[DELETED:  S  P S I S r S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 163
+Short Title: Pharmacy Benefits Manager Provisions. (Public)
+Sponsors: Representatives Rhyne, Blackwell, Huneycutt, and Lowery (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Regulatory Reform, if favorable, Rules, Calendar, and
+Operations of the House
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REGULATE THE USE OF SPREAD PRICING AND CONCESSIONS BY
+3 PHARMACY BENEFITS MANAGERS, TO ESTABLISH UNIFORM STANDARDS FOR
+4 THE TREATMENT OF SPECIALTY PHARMACY ACCREDITATION BY PHARMACY
+5 BENEFITS MANAGERS, TO CLARIFY THE RIGHT TO A PHARMACY OF CHOICE,
+6 AND TO STRENGTHEN THE PROTECTIONS PROVIDED TO PHARMACIES
+7 DURING AUDITS.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. REGULATE THE USE OF SPREAD PRICING AND CONCESSIONS SUCH AS
+11 FEES AND REBATES BY PHARMACY BENEFITS MANAGERS AND ESTABLISH
+12 UNIFORM STANDARDS FOR THE TREATMENT OF ACCREDITING SPECIALTY
+13 PHARMACIES BY PHARMACY BENEFITS MANAGERS
+14 SECTION 1.1. Article 56A of Chapter 58 of the General Statutes is amended by
+15 adding a new section to read:
+16 "§ 58-56A-6. Protection against spread pricing.
+17 A pharmacy benefits manager shall not charge an insurer offering a health benefit plan a price
+18 for a prescription drug that differs from the amount the pharmacy benefits manager directly or
+19 indirectly pays the pharmacy or pharmacist for providing pharmacist services under that same
+20 health benefit plan."
+21 SECTION 1.2.(a) G.S. 58-56A-1 reads as rewritten:
+22 "§ 58-56A-1. Definitions.
+23 The following definitions apply in this Article:
+24 …
+25 (4a) Concession. – A reduction in the cost of a prescription drug that a pharmacy
+26 benefits manager negotiates with a drug manufacturer or wholesale
+27 distributor. A concession includes fees, discounts, rebates, or other reductions
+28 in the cost to the pharmacy benefits manager. A concession does not include
+29 a bona fide service or administrative fee.
+30 (4b) Reserved for future codification purposes.
+31 …
+32 (9a) National average drug acquisition cost. – The approximate invoice price
+33 pharmacies pay for prescription medications in the United States calculated
+34 by the federal Centers for Medicare and Medicaid Services and published
+*H163-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 monthly on its website. If the national average drug acquisition cost is not
+2 available at the time a drug is administered or dispensed, then the national
+3 drug acquisition cost is the wholesale acquisition cost of the drug, as defined
+4 in Subchapter XIX, Chapter 7 of Title 42 of the United States Code.
+5 …
+6 (16a) Reserved for future codification purposes.
+7 (16b) Specialty drug. – Either of the following prescription medications:
+8 a. A medication that is subject to restricted distribution by the United
+9 States Food and Drug Administration.
+10 b. A medication used to treat complex or chronic conditions that requires
+11 special handling, provider coordination, or patient education.
+12 (16c) Specialty pharmacy accreditation. – Affirmation that a pharmacist or
+13 pharmacy is capable of meeting the requirements applicable to specialty drugs
+14 provided by any of the following independent bodies:
+15 a. The Utilization Review Accreditation Commission.
+16 b. Accreditation Commission for Health Care, Inc.
+17 c. The Joint Commission.
+18 …."
+19 SECTION 1.2.(b) G.S. 58-56A-3 is amended by adding a new subsection to read:
+20 "(c3) When calculating an insured's out-of-pocket cost for a covered prescription drug, a
+21 pharmacy benefits manager shall base the calculation on the net price of the prescription drug
+22 after taking into account all concessions associated with that prescription drug that the pharmacy
+23 benefits manager has received or will receive. The current retail price shall not be used when
+24 calculating an insured's out-of-pocket cost for a prescription drug if the pharmacy benefits
+25 manager has received, is receiving, or will receive any concessions associated with that particular
+26 prescription drug."
+27 SECTION 1.2.(c) G.S. 58-56A-4 reads as rewritten:
+28 "§ 58-56A-4. Pharmacy and pharmacist protections.
+29 (a) A pharmacy benefits manager may only charge fees or otherwise hold a pharmacy
+30 responsible for a fee relating to the adjudication of a claim if the fee is reported on the remittance
+31 advice of the adjudicated claim or is set out in contract between the pharmacy benefits manager
+32 and the pharmacy. No fee or adjustment for the receipt and processing of a claim, or otherwise
+33 related to the adjudication of a claim, shall be charged without a justification on the remittance
+34 advice or as set out in contract and agreed upon by the pharmacy or pharmacist for each
+35 adjustment or fee. This section shall not apply with respect to claims under an employee benefit
+36 plan under the Employee Retirement Income Security Act of 1974 or Medicare Part D.A
+37 pharmacy benefits manager shall not charge a pharmacist or pharmacy a fee related to the
+38 adjudication of a claim.
+39 (a1) A pharmacy benefits manager shall not do any of the following:
+40 (1) Reimburse a pharmacy or pharmacist for a prescription drug or pharmacy
+41 service in an amount less than the national average drug acquisition cost for
+42 the prescription drug or pharmacy service at the time the drug is administered
+43 or dispensed, plus a professional dispensing fee. For purposes of this
+44 subsection, a "professional dispensing fee" means an amount equal to or
+45 higher than the fee-for-service professional drug dispensing fee calculated
+46 using the reimbursement methodology described in the North Carolina
+47 Medicaid State Plan.
+48 (2) Reimburse a pharmacy or pharmacist for a prescription drug or pharmacy
+49 service in an amount less than the amount the pharmacy benefits manager
+50 reimburses itself or an affiliate for the same prescription drug or pharmacy.
+51 (3) Base pharmacy reimbursement on patient outcomes, scores, or metrics.
+Page 2 House Bill 163-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Impose a point-of-sale or retroactive fee on a pharmacist, pharmacy, or
+2 insured.
+3 (5) Derive any revenue from a pharmacist, pharmacy, or insured in connection
+4 with performing pharmacy benefits management services.
+5 (6) Receive deductibles or copayments.
+6 …
+7 (c) A pharmacy or pharmacist shall not be prohibited by a pharmacy benefits manager
+8 from dispensing any prescription drug, including specialty drugs dispensed by a credentialed and
+9 accredited pharmacy, drug allowed to be dispensed under a license to practice pharmacy under
+10 Article 4A of Chapter 90 of the General Statutes.
+11 (c1) A pharmacy or pharmacist shall not be prohibited by a pharmacy benefits manager
+12 from dispensing any specialty drug allowed to be dispensed under a license to practice pharmacy
+13 under Article 4A of Chapter 90 of the General Statutes if the pharmacist or pharmacy obtains
+14 specialty pharmacy accreditation.
+15 …
+16 (e) A claim for pharmacist services may not be retroactively denied or reduced after
+17 adjudication of the claim unless any of the following apply:
+18 …
+19 (5) The adjustments were part of an attempt to limit overpayment recovery efforts
+20 by a pharmacy benefits manager.
+21 …."
+22 SECTION 1.2.(d) G.S. 58-56A-15 reads as rewritten:
+23 "§ 58-56A-15. Pharmacy benefits manager networks.
+24 (a) A pharmacy benefits manager shall not deny the right to of any properly licensed
+25 pharmacist or pharmacy to participate in a retail pharmacy network on the same terms and
+26 conditions of other similarly situated participants in the network.
+27 (a1) A pharmacy benefits manager shall not require multiple specialty pharmacy
+28 accreditations as a prerequisite for participation in a retail pharmacy network that dispenses
+29 specialty drugs and shall not deny the right of any properly licensed pharmacist or pharmacy that
+30 has a specialty drug accreditation to participate in a retail pharmacy network that includes
+31 network participants that dispense specialty drugs on the same terms and conditions of other
+32 similarly situated participants in the network.
+33 …
+34 (d) A pharmacy benefits manager shall not charge a pharmacist or pharmacy a fee related
+35 to participation in a retail pharmacy network."
+36 SECTION 1.2.(e) G.S. 58-56A-25 is amended by adding a new subsection to read:
+37 "(d) The provisions of Article 4C of Chapter 90 of the General Statutes apply to an audit
+38 of a pharmacy or pharmacist conducted by a pharmacy benefits manager, insurer, or third-party
+39 administrator and are enforceable by the Commissioner."
+40 SECTION 1.3. Article 56A of Chapter 58 of the General Statutes is amended by
+41 adding a new section to read:
+42 "§ 58-56A-22. Reporting.
+43 (a) Effective April 1, 2026, and quarterly thereafter, every pharmacy benefits manager
+44 licensed in this State shall file a report with the Commissioner that contains all of the following
+45 information for the applicable time period:
+46 (1) The aggregate wholesale acquisition costs to the pharmacy benefits manager
+47 from manufacturers or wholesale distributors for each therapeutic category of
+48 drugs covered under each health benefit plan offered by all insurers that
+49 contract with the pharmacy benefits manager, net of all concessions, direct or
+50 indirect, from all sources.
+House Bill 163-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) The aggregate amount of the concessions that the pharmacy benefits manager
+2 received from all drug manufacturers or wholesale distributors for each
+3 insurer contracting with the pharmacy benefits manager, detailed by each
+4 health benefit plan offered by the insurer. In reporting the aggregate amount
+5 of the rebates, the pharmacy benefits manager shall include any utilization
+6 discounts it receives from a manufacturer or wholesale distributor.
+7 (3) The aggregate amount of all concessions that the pharmacy benefits manager
+8 received.
+9 (4) All concessions received by the pharmacy benefits manager from all
+10 manufacturers or wholesale distributors that were not passed on by the
+11 pharmacy benefits manager to an insurer contracting with the pharmacy
+12 benefits manager or other clients of the pharmacy benefits manager.
+13 (b) The information contained in the report required by this section shall be confidential
+14 by law and privileged, shall not be considered a public record under either G.S. 58-2-100 or
+15 Chapter 132 of the General Statutes, shall not be subject to subpoena, and shall not be subject to
+16 discovery or admissible into evidence in any private civil action. The Commissioner is authorized
+17 to use this information in the furtherance of any regulatory or legal action brought as a part of
+18 the Commissioner's official duties.
+19 (c) Effective August 1, 2026, and annually thereafter, the Commissioner shall prepare a
+20 report based on the information received under this section. The report shall aggregate data and
+21 shall not contain information that would cause financial, competitive, or proprietary harm to any
+22 individual pharmacy benefits manager. The Commissioner shall post the report required by this
+23 subsection on the Department's website."
+24 SECTION 1.4. This Part becomes effective October 1, 2025, and applies to contracts
+25 issued, renewed, or amended on or after that date.
+26
+27 PART II. CLARIFY HEALTH BENEFIT PLAN BENEFICIARY'S RIGHT TO A
+28 PHARMACY OF CHOICE AND MAKE TECHNICAL CORRECTIONS AND
+29 UPDATES TO STATUTES DEALING WITH THESE CONSUMER PROTECTIONS
+30 SECTION 2.1. G.S. 58-51-37 reads as rewritten:
+31 "§ 58-51-37. Pharmacy of choice.
+32 (a) This section shall apply to all health benefit plans providing pharmaceutical services
+33 benefits, including prescription drugs, to any resident of North Carolina. This section shall also
+34 apply to insurance companies and health maintenance organizations that provide or administer
+35 coverages and benefits for prescription drugs. This section shall apply to pharmacy benefits
+36 managers with respect to 340B covered entities and 340B contract pharmacies, as defined in
+37 G.S. 58-56A-1. This section shall not apply to any entity that has its own facility, employs or
+38 contracts with physicians, pharmacists, nurses, and other health care personnel, and that
+39 dispenses prescription drugs from its own pharmacy to its employees and to enrollees of its health
+40 benefit plan; provided, however, this section shall apply to an entity otherwise excluded that
+41 contracts with an outside pharmacy or group of pharmacies to provide prescription drugs and
+42 services. This section shall not apply to any federal program, clinical trial program, hospital or
+43 other health care facility licensed pursuant to Chapter 131E or Chapter 122C of the General
+44 Statutes, when dispensing prescription drugs to its patients.
+45 (b) As used Definitions. – The following definitions apply in this section:
+46 (1) "Copayment" means a Copayment. – A type of cost sharing whereby insured
+47 or covered persons requiring insureds to pay a specified predetermined
+48 amount per unit of service with their the insurer paying the remainder of the
+49 charge. The copayment is incurred at the time the service is used. The
+50 copayment may be a fixed or variable amount.
+Page 4 House Bill 163-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) "Contract provider" means a Contract provider. – A pharmacy granted the
+2 right to provide prescription drugs and pharmacy services according to the
+3 terms of the insurer.
+4 (3) "Health benefit plan" is as that term is Health benefit plan. – As defined in
+5 G.S. 58-50-110(11).G.S. 58-3-167.
+6 (4) "Insurer" means any entity that provides or offers a health benefit
+7 plan.Insured. – Any individual covered by a health benefit plan.
+8 (4a) Insurer. – As defined in G.S. 58-3-167.
+9 (5) "Pharmacy" means a Pharmacy. – A pharmacy registered with the North
+10 Carolina Board of Pharmacy.
+11 (b1) Applicability. – This section applies to insurers offering health benefit plans that
+12 include prescription drug or pharmacy benefits. This section shall also apply to pharmacy benefits
+13 managers in the same way that it applies to insurers with respect to 340B covered entities and
+14 340B contract pharmacies, as defined in G.S. 58-56A-1. This section does not apply to any
+15 federal program or clinical trial program.
+16 (c) Health Benefit Plan Terms. – The terms of a health benefit plan shall not:not do any
+17 of the following:
+18 (1) Prohibit or limit a resident of this State, who is eligible for reimbursement for
+19 pharmacy services as a participant or beneficiary of a health benefit plan, an
+20 insured, from selecting a pharmacy of his or her choice when the pharmacy
+21 has agreed to participate in the health benefit plan according to the terms
+22 offered by the insurer;insurer.
+23 (2) Deny a pharmacy the opportunity to participate as a contract provider under a
+24 health benefit plan if the pharmacy agrees to provide pharmacy services that
+25 meet the terms and requirements, including terms of reimbursement, of the
+26 insurer under a that health benefit plan, provided that if plan. If the pharmacy
+27 is offered the opportunity to participate, participate as a contract provider, it
+28 must participate or no provisions of G.S. 58-51-37 this section shall
+29 apply;apply.
+30 (3) Impose upon a beneficiary of pharmacy services under a health benefit plan
+31 an insured any copayment, fee, or condition that is not equally imposed upon
+32 all beneficiaries insureds in the same benefit category, class, or copayment
+33 level under the health benefit plan when receiving services from a contract
+34 provider;provider.
+35 (4) Impose a monetary advantage or penalty under a health benefit plan that
+36 would affect a beneficiary's an insured's choice of pharmacy. Monetary
+37 advantage or penalty includes pharmacy, including a higher copayment, a
+38 reduction in reimbursement for services, or the promotion of one participating
+39 pharmacy over another by these methods.
+40 (5) Reduce allowable reimbursement for pharmacy services to a beneficiary under
+41 a health benefit plan an insured because the beneficiary insured selects a
+42 pharmacy of his or her choice, so long as that pharmacy has enrolled with the
+43 health benefit plan under the terms offered to all pharmacies in the plan
+44 coverage area; orarea.
+45 (6) Require a beneficiary, an insured, as a condition of payment or
+46 reimbursement, to purchase pharmacy products or services, including
+47 prescription drugs, exclusively through a mail-order pharmacy.
+48 (7) Impose upon an insured any copayment, amount of reimbursement, number
+49 of days of a drug supply for which reimbursement will be allowed, or any
+50 other payment or condition relating to the purchase of pharmacy services or
+51 products, including prescription drugs, from any pharmacy that is more costly
+House Bill 163-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 or more restrictive than that which would be imposed upon the insured if the
+2 same services or products were purchased from either a mail-order pharmacy
+3 or any other pharmacy that is willing to provide the same services or products
+4 for the same cost and copayment as any mail-order service.
+5 (d) Use of Agent. – A pharmacy, by or through a pharmacist acting on its behalf as its
+6 employee, agent, or owner, may not waive, discount, rebate, or distort a copayment of any
+7 insurer, policy, or plan, insurer or health benefit plan or a beneficiary's an insured's coinsurance
+8 portion of a prescription drug coverage or reimbursement and if of a prescription drug. If a
+9 pharmacy, by or through a pharmacist's acting action on its behalf as its employee, agent agent,
+10 or owner, provides a pharmacy service to an enrollee of a health benefit plan insured that meets
+11 the terms and requirements of the insurer under a health benefit plan, then the pharmacy shall
+12 provide its pharmacy services to all enrollees of individuals covered under that health benefit
+13 plan on the same terms and requirements of the insurer. A violation of this subsection shall be is
+14 a violation of the Pharmacy Practice Act subjecting the pharmacist as a licensee to disciplinary
+15 authority of the North Carolina Board of Pharmacy pursuant to G.S. 90-85.38.
+16 (e) Offer to Participate. – At least 60 days before the effective date of any health benefit
+17 plan providing reimbursement to North Carolina residents coverage for prescription drugs, which
+18 drugs that restricts pharmacy participation, the entity insurer providing the health benefit plan
+19 shall notify, in writing, provide a written notification and offer to all pharmacies within the
+20 geographical coverage area of the health benefit plan, and offer to the pharmacies plan the
+21 opportunity to participate in the health benefit plan. All pharmacies in the geographical coverage
+22 area of the plan shall be eligible to participate under identical reimbursement terms for providing
+23 pharmacy services, including prescription drugs. The entity providing the health benefit plan
+24 insurer shall, through reasonable means, on a timely basis, and on regular intervals in order to
+25 effectuate the purposes of this section, inform the beneficiaries of the plan insureds of the names
+26 and locations of pharmacies that are participating in the plan as providers of pharmacy services
+27 and prescription drugs. Additionally, participating pharmacies shall be entitled to announce their
+28 participation to their customers through a means acceptable to the pharmacy and the entity
+29 providing the health benefit plans. insurer. The pharmacy notification provisions of this section
+30 shall not apply when an individual or group is enrolled, but when the plan enters a particular
+31 county of the State.
+32 (f) Rebates and Marketing Incentives. – If rebates or marketing incentives are allowed to
+33 pharmacies or other dispensing entities providing pharmaceutical services or benefits under a
+34 health benefit plan, these rebates or marketing incentives shall be offered on an equal basis to all
+35 pharmacies and other dispensing entities providing services or benefits under a the health benefit
+36 plan when pharmacy services, including prescription drugs, are purchased in the same volume
+37 and under the same terms of payment. Nothing in this section shall prevent a pharmaceutical
+38 manufacturer or wholesale distributor of pharmaceutical products from providing special prices,
+39 marketing incentives, rebates, or discounts to different purchasers not prohibited by federal and
+40 State antitrust laws.
+41 (g) Any entity or insurer providing a health benefit plan is subject to G.S. 58-2-70.
+42 Violations of This Section. – It shall be a violation of this section for any insurer to provide any
+43 health benefit plan providing coverage for pharmaceutical services or products to residents of
+44 this State that does not conform to the provisions of this section. A violation of this section shall
+45 subject the entity providing a health benefit plan insurer to the sanctions of revocation,
+46 suspension, or refusal to renew license in the discretion of the Commissioner pursuant to
+47 G.S. 58-3-100. A violation of this section creates a civil cause of action for damages or injunctive
+48 relief in favor of any person or pharmacy aggrieved by the violation.
+49 (h) A violation of this section creates a civil cause of action for damages or injunctive
+50 relief in favor of any person or pharmacy aggrieved by the violation.
+Page 6 House Bill 163-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (i) Approval by Commissioner. – The Commissioner shall not approve any health benefit
+2 plan providing pharmaceutical services which that does not conform to this section.
+3 (j) Provisions to the Contrary Void. – Any provision in a health benefit plan which is
+4 executed, delivered, or renewed, or otherwise contracted for in this State that is contrary to any
+5 provision of this section shall, to the extent of the conflict, be void.
+6 (k) It shall be a violation of this section for any insurer or any person to provide any
+7 health benefit plan providing for pharmaceutical services to residents of this State that does not
+8 conform to the provisions of this section.
+9 (l) Certain Lock-In Programs. – An insurer's use of a lock-in program developed
+10 pursuant to G.S. 58-51-37.1 or G.S. 108A-68.2 is not a violation of this section."
+11 SECTION 2.2.(a) Subsection (c2) of G.S. 58-56A-3 is recodified as subdivision (4c)
+12 of G.S. 58-56A-1.
+13 SECTION 2.2.(b) G.S. 58-56A-1, as amended by Part I of this act and subsection
+14 (a) of this section, reads as rewritten:
+15 "§ 58-56A-1. Definitions.
+16 The following definitions apply in this Article:
+17 …
+18 (4c) For purposes of this section, the term "generic equivalent" means a Generic
+19 equivalent. – A drug that has meets all of the following criteria:
+20 a. Has an identical amount of the same active ingredients in the same
+21 dosage form; meets form as a non-generic drug.
+22 b. Meets applicable standards of strength, quality, and purity according
+23 to the United States Pharmacopeia or other nationally recognized
+24 compendium; and which, if compendium.
+25 c. If administered in the same amount, would provide amount as a
+26 non-generic drug, provides comparable therapeutic effects.
+27 The This term "generic equivalent" does not include a drug that is listed by
+28 the United States Food and Drug Administration as having unresolved
+29 bioequivalence concerns according to the Administration's most recent
+30 publication of approved drug products with therapeutic equivalence
+31 evaluations.
+32 …
+33 (5a) High-deductible health plan. – As defined under the Internal Revenue Code.
+34 …
+35 (16a) Section 223. – Section 223 of the Internal Revenue Code or its equivalent.
+36 …."
+37 SECTION 2.2.(c) G.S. 58-56A-3(c1) reads as rewritten:
+38 "(c1) When calculating an insured's contribution to any out-of-pocket maximum,
+39 deductible, copayment, coinsurance, or other applicable cost-sharing requirement, the insurer or
+40 pharmacy benefits manager shall include any amounts paid by the insured, or on the insured's
+41 behalf, for a prescription that is either:either of the following:
+42 (1) Without an AB-rated generic equivalent.
+43 (2) With an AB-rated generic equivalent if the insured has obtained authorization
+44 for the drug through any of the following:
+45 a. Prior authorization from the insurer or pharmacy benefits manager.
+46 b. A step therapy protocol.
+47 c. The exception or appeal process of the insurer or pharmacy benefits
+48 manager.
+49 This subsection shall not apply to an insured covered by a high deductible health plan, as that
+50 term is defined in section 223 of the Internal Revenue Code, plan if its application would render
+51 the insured ineligible for a health savings account under section 223 unless (i) the insured has
+House Bill 163-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 satisfied the minimum deductible under section 223 or (ii) the prescription qualifies as preventive
+2 care under section 223."
+3 SECTION 2.2.(d) G.S. 58-56A-3 is amended by adding a new subsection to read:
+4 "(f) A pharmacy benefits manager shall not prohibit an insured's selection of a pharmacy
+5 or pharmacist with respect to any pharmacy or pharmacist that has agreed to participate as a
+6 provider in a health benefit plan's network according to the terms offered by the insurer."
+7 SECTION 2.3. G.S. 58-56A-50(c) is repealed.
+8 SECTION 2.4. This Part becomes effective October 1, 2025, and applies to contracts
+9 issued, renewed, or amended on or after that date.
+10
+11 PART III. STRENGTHEN PHARMACY AUDIT PROTECTIONS
+12 SECTION 3.1. G.S. 90-85.50 reads as rewritten:
+13 "§ 90-85.50. Declaration of pharmacy rights during audit.
+14 (a) The following definitions apply in this Article:
+15 (1) "Pharmacy" means a Pharmacy. – A person or entity holding a valid pharmacy
+16 permit pursuant to G.S. 90-85.21 or G.S. 90-85.21A.
+17 (2) "Responsible party" means the Responsible party. – The entity responsible for
+18 payment of claims for health care services other than (i) the individual to
+19 whom the health care services were rendered or (ii) that individual's guardian
+20 or legal representative.
+21 (b) Notwithstanding any other provision of law, whenever a managed care company,
+22 insurance company, third-party payer, or any entity that represents a responsible party conducts
+23 an audit of the records of a pharmacy, the pharmacy has a right to all of the following:
+24 …
+25 (8) If an audit is conducted for a reason other than described in subdivision (6) of
+26 this subsection, the audit is limited to 100 selected prescriptions.25 total
+27 prescriptions, including refills.
+28 (9) If an audit reveals the necessity for a review of additional claims, to have then
+29 the pharmacy may request the audit be conducted on site.site and is entitled to
+30 written notice of the basis of the claims, including a specific description of
+31 any suspected fraud or abuse, at least 14 days prior to any additional audit.
+32 …."
+33 SECTION 3.2. G.S. 90-85.52 reads as rewritten:
+34 "§ 90-85.52. Pharmacy audit recoupments.
+35 …
+36 (a1) Prior to any recoupment, the entity conducting the audit shall provide the pharmacy
+37 with a summary describing the total recoupment amount and the date on which the recoupment
+38 will be assessed. This summary shall be accompanied by payment summaries or electronic
+39 remittance advices documenting any disputed funds, charges, or other penalties.
+40 …."
+41 SECTION 3.3. G.S. 90-85.53 reads as rewritten:
+42 "§ 90-85.53. Applicability.
+43 (a) This Article does not apply to any audit, review, or investigation that involves alleged
+44 Medicaid fraud, Medicaid abuse, insurance fraud, or other criminal fraud or misrepresentation.
+45 (b) This Article applies to an audit of a pharmacy or pharmacist conducted by a pharmacy
+46 benefits manager, insurer, or third-party administrator and is enforceable against these entities
+47 by the Commissioner of Insurance under G.S. 58-56A-25."
+48 SECTION 3.4. This Part becomes effective October 1, 2025, and applies to audits
+49 initiated on or after that date.
+50
+51 PART IV. RULEMAKING AUTHORITY AND EFFECTIVE DATE
+Page 8 House Bill 163-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.1.(a) The Commissioner may adopt temporary rules to implement Part
+2 I and Part II of this act.
+3 SECTION 4.1.(b) The North Carolina Board of Pharmacy may adopt temporary
+4 rules to implement Part III of this act.
+5 SECTION 4.2. Except as otherwise provided, this act is effective when it becomes
+6 law.
+House Bill 163-First Edition Page 9
+
+[DELETED:  1 P ( R H i f R R i f R C a A A A T R T U O S P A C B P T B A T S T P P T P D T  P F U P S a " A f i h S " T … ( C b m n w a d m o w d i a ( R … ( N a d a c – T a i p p b]
+[DELETED:  S  H m a d i … ( R ( S a A S b A s ( S p a – A t a p o p p a T b A c T … S " W p a b c a i o c f a p d i t p b m p S " ( A r a a r a o a s o i c a a u b t p o p f e a p u t E R I S A o 1 o M P D p b m s n c a p o p a f r t t a ( A ( R s t o d p a p d f F p o t s a " d f m a a e t o h u t r m d i t N C M ( R s r ( B]
+[DELETED:  S  P ( I a p o r f o a p p o i ( D w ( R … ( A f a A ( A f u s … ( A a … ( T b … S " ( A p a r t a c ( A p b m s n r m s p a s h a s d a t p i a r p n t i n s … ( A t S " T o a S a " ( E l i ( T f d c u e h b p o b a i t c i]
+[DELETED:  S  H ( T r f a d m o w d f e i c w t p b m d b e h o d ( T r ( A c r b t p b m f a m o w d t w n p o b t p b m t a i c w t p b ( T b C d t t ( E r s i s S i  P I C H B P B R T A P O C A M T C A U S " ( T b a c m G c w p p n a o h c p a t d b c s o S ( A ( " o c p r i t p a s p a c T c i i a t t t s i u T c]
+[DELETED:  S  P ( " r t ( " G ( " m a e t p o o a h b p ( I ( " m a P – A p r w t N C ( A i m 3 f ( H o ( P p i h o ( D h m i i m p o n p o G t s s a ( I a a l p ( I a m a o p u a h b p t w a a b a i c o p M a p h r p ( R a h b p a i b t b i s a p h b p u t t o t a p i t p c ( R a b a i a a c o p o r t p p p o s i p ( I o o p]
+[DELETED:  S  H o s o f ( U e a n a i p p o t p p a a ( O p d s g c a o h b p a o t p p t o a p i e a a p t t c t a m a t t p a t e p s c ( R p h p p a m m S ( A e o i p a h b p i s t G V h t s t e p a h b p i t t s o r s o r t r l i t d o t C p t G r ( A r]
+[DELETED:  S  P ( A p ( P e p ( I h c ( C L P – A i u o a l p d p S o S ( " T … ( F e a H d b M t t U S P o o n r c c I a i t s a w p a a a n T t U S F a D A a h u b c a t t A m r p o a d p w t e e … ( H … ( S … S " W c a i c t a o m d p b ( W ( W f a P b A c T m T t t]
+[DELETED:  S  H s c S " A o p S S i  P S " ( T ( " p ( " p w o ( N i a … ( I t s t a i l t 1 s p t p ( I t w a … S " … ( P w w b a T s s b a b p s o e r … S " ( T M ( T b b S i  P]
+[DELETED:  S  P S I S r S l]

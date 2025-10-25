@@ -1,0 +1,404 @@
+Title: HOUSE BILL 814
+Official Title: HOUSE BILL 814
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Power Infrastructure Resiliency & Eff.(PIRE). (Public)
+Sponsors: Representatives K. Hall, Zenger, Gable, and T. Brown (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Energy and Public Utilities, if favorable, Commerce and Economic Development,
+if favorable, Rules, Calendar, and Operations of the House
+April 8, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT PROMOTING THE USE OF ADVANCED CONDUCTORS AND GRID
+3 ENHANCING TECHNOLOGIES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 62-2 reads as rewritten:
+6 "§ 62-2. Declaration of policy.
+7 (a) Upon investigation, it has been determined that the rates, services and operations of
+8 public utilities as defined herein, are affected with the public interest and that the availability of
+9 an adequate and reliable supply of electric power and natural gas to the people, economy and
+10 government of North Carolina is a matter of public policy. It is hereby declared to be the policy
+11 of the State of North Carolina:
+12 …
+13 (11) To promote, to the maximum extent practicable, the deployment of advanced
+14 conductors and grid enhancing technologies to transport the regulated public
+15 utilities' electric energy supply in the most efficient means practicable. To that
+16 end, to require transmission planning to be coordinated with energy planning
+17 and the fixing of rates in a manner to result in the least cost mix of generation
+18 and transmission capital expenditure that is achievable.
+19 …."
+20 SECTION 2. G.S. 62-100 reads as rewritten:
+21 "Article 5A.
+22 "Siting of Transmission Lines.
+23 "§ 62-100. Definitions.
+24 As used in this Article:
+25 (1) The term "begin to construct" includes Advanced conductors. – Any
+26 conductor that has a direct current electrical resistance at least ten percent
+27 (10%) lower than aluminum conductor steel reinforced lines of a similar
+28 diameter.
+29 (1a) Begin to construct. – Includes any clearing of land, excavation, or other action
+30 that would adversely affect the natural environment of the route of a
+31 transmission line; but that term does not include land surveys, boring to
+32 ascertain geological conditions, or similar preliminary work undertaken to
+33 determine the suitability of proposed routes for a transmission line that results
+34 in temporary changes to the land.
+*H814-v-1*
+General Assembly Of North Carolina Session 2025
+1 (2) The word "county" means any County. – Any one of the counties listed in
+2 G.S. 153A-10.
+3 (2a) Grid enhancing technology. – Any hardware or software technology that
+4 enhances the performance or improves the efficiency of a transmission
+5 system. Includes energy storage as a transmission asset, dynamic line ratings,
+6 advanced power flow control technology, topology optimization, and flexible
+7 alternating current transmission systems.
+8 (3) The word "land" means any Land. – Any real estate or any estate or interest
+9 in real estate, including water and riparian rights, regardless of the use to
+10 which it is devoted.
+11 (4) The word "lines" means distribution Lines. – Distribution lines and
+12 transmission lines collectively.
+13 (5) The word "municipality" means any Municipality. – Any incorporated
+14 community, whether designated as a city, town, or village and any area over
+15 which it exercises any of the powers granted by Chapter 160D of the General
+16 Statutes.
+17 (6) The term "public utility" means any Public utility. – Any of the following:
+18 a. A public utility, as defined in G.S. 62-3(23).
+19 b. An electric membership corporation.
+20 c. A joint municipal power agency.
+21 d. A city or county that is engaged in producing, generating, transmitting,
+22 delivering, or furnishing electricity for private or public use.
+23 (7) The term "transmission line" means an Transmission line. – An electric line
+24 designed with a capacity of at least 161 kilovolts."
+25 SECTION 3. G.S. 62-101 reads as rewritten:
+26 "§ 62-101. Certificate to construct transmission line.
+27 …
+28 (c) A certificate is not required for construction of any of the following lines:
+29 (1) A line designed to carry less than 161 kilovolts;kilovolts.
+30 (2) The replacement or expansion of an existing line with a similar line in
+31 substantially the same location, or the rebuilding, upgrading, modifying,
+32 modernizing, or reconstructing of an existing line for the purpose of increasing
+33 capacity by no greater than seventy-five percent (75%) of the existing lines or
+34 widening an existing right-of-way;right-of-way.
+35 (2a) The upgrading, modifying, modernizing, or reconstructing of an existing line
+36 for the purpose of increasing capacity solely through the deployment of
+37 advanced conductors and/or grid enhancing technologies for any of the
+38 following purposes:
+39 a. Increasing transmission capacity.
+40 b. Increasing transmission efficiency.
+41 c. Reducing system congestion.
+42 d. Reducing curtailment of energy generation resources.
+43 e. Increasing reliability.
+44 f. Increasing resiliency.
+45 g. Increasing capacity to connect new generation resources.
+46 (3) A transmission line over which the Federal Energy Regulatory Commission
+47 has licensing jurisdiction, if the Commission determines that agency has
+48 conducted a proceeding substantially equivalent to the proceeding required by
+49 this Article;Article.
+50 (4) Any transmission line for which, before March 6, 1989, a public utility or
+51 other person has surveyed a proposed route and, based on that route, has
+Page 2 House Bill 814-First Edition
+General Assembly Of North Carolina Session 2025
+1 acquired rights-of-way for it by voluntary conveyances or has filed
+2 condemnation proceedings for acquiring those rights-of-way which, together,
+3 involve twenty-five percent (25%) or more of the total length of the proposed
+4 route;route.
+5 (5) An electric membership corporation owned transmission line for which the
+6 construction or upgrading has had a proceeding conducted which the
+7 Commission determines is substantially equivalent to the proceeding required
+8 by this Article;Article.
+9 (6) Any line owned by a municipality to be constructed wholly within the
+10 corporate limits of that municipality.
+11 …."
+12 SECTION 4. G.S. 62-102 reads as rewritten:
+13 "§ 62-102. Application for certificate.
+14 (a) An applicant for the certificate described in G.S. 62-101 shall file an application with
+15 the Commission containing all of the following information:
+16 (1) The reasons the transmission line is needed;needed.
+17 (2) A description of the proposed location of the transmission line;line.
+18 (3) A description of the proposed transmission line;line.
+19 (3a) Descriptions of any advanced reconductoring and/or grid enhancing
+20 technologies to be utilized and a summary of the costs and benefits, including,
+21 but not limited to, all of the following:
+22 a. Increasing transmission capacity.
+23 b. Increasing transmission efficiency.
+24 c. Reducing system congestion.
+25 d. Reducing curtailment of energy generation resources.
+26 e. Increasing reliability.
+27 f. Increasing resiliency.
+28 g. Increasing capacity to connect new generation resources.
+29 (3b) A description of any alternatives, including alternative configurations of
+30 advanced reconductoring and/or grid enhancing technologies, evaluated but
+31 not selected for the proposed transmission line and a summary of the costs and
+32 benefits of these alternatives.
+33 (4) An environmental report setting forth:forth all of the following:
+34 a. The environmental impact of the proposed action;action.
+35 b. Any proposed mitigating measures that may minimize the
+36 environmental impact; andimpact.
+37 c. Alternatives to the proposed action.
+38 (5) A list of all necessary approvals that the applicant must obtain before it may
+39 begin to construct the transmission line; andline.
+40 (6) Any other information the Commission requires.
+41 …."
+42 SECTION 5. G.S. 62-110.9 reads as rewritten:
+43 "§ 62-110.9. Requirements concerning reductions in emissions of carbon dioxide from
+44 electric public utilities.
+45 The Utilities Commission shall take all reasonable steps to achieve a seventy percent (70%)
+46 reduction in emissions of carbon dioxide (CO2) emitted in the State from electric generating
+47 facilities owned or operated by electric public utilities from 2005 levels by the year 2030 and
+48 carbon neutrality by the year 2050. For purposes of this section, (i) "electric public utility" means
+49 any electric public utility as defined in G.S. 62-3(23) serving at least 150,000 North Carolina
+50 retail jurisdictional customers as of January 1, 2021, and (ii) "carbon neutrality" means for every
+51 ton of CO2 emitted in the State from electric generating facilities owned or operated by or on
+House Bill 814-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 behalf of electric public utilities, an equivalent amount of CO2 is reduced, removed, prevented,
+2 or offset, provided that the offsets are verifiable and do not exceed five percent (5%) of the
+3 authorized reduction goal. In achieving the authorized carbon reduction goals, the Utilities
+4 Commission shall:
+5 …
+6 (3) Ensure any generation and resource changes maintain or improve upon the
+7 adequacy and reliability of the existing grid. The Carbon Plan shall require the
+8 electric public utility to produce a report demonstrating it evaluated a range of
+9 cost-effective transmission and distribution solutions, including advanced
+10 reconductoring and/or grid enhancing technologies as defined in G.S. 62-100,
+11 joint projects with neighboring and other regional utilities, other upgrades to
+12 existing facilities, and other best practices. The report should include
+13 descriptions of any advanced reconductoring and/or grid enhancing
+14 technologies to be utilized and a summary of costs and benefits, and a
+15 description of any alternatives, including alternative configurations of
+16 advanced conductoring and/or grid enhancing technologies, evaluated but not
+17 selected in the Carbon Plan and a summary of the costs and benefits of these
+18 alternatives. The electric public utility shall also include all of the following
+19 in the report:
+20 a. Updates to the utility's transmission plan under the utility's open access
+21 transmission tariff pursuant to the federal jurisdictional planning
+22 process. In this report, the utility shall, when applicable, describe
+23 planned transmission improvements specific to siting of new resources
+24 expected to impact interconnection constraints or other operations of
+25 the systems. The utility shall also describe how it evaluated alternate
+26 transmission technologies when developing solutions for identified
+27 transmission needs for interconnecting new generation resources.
+28 b. A description of how transmission factored into the utility's evaluation
+29 of the range of future scenarios included in the 15-year time period of
+30 the utility's resource plan, including the retirement of the utility's coal
+31 generation.
+32 c. A discussion of transmission considerations for facilities included in
+33 the utility's preferred resource plan for which there are particular sites
+34 specified.
+35 …."
+36 SECTION 6. This act is effective when it becomes law.
+Page 4 House Bill 814-First Edition
+[DELETED:  1 P ( R E A A A P T U O A C A G E T S " ( U p a g o … ( T c u e a a … S " " " A ( T t " t c i A c – A c ( l t a c s r l o a s d ( B t w a a t n e o t r o a t l b t t d n i l s b t a d i]
+[DELETED:  S  H ( T G ( G e t – A h o s t t e t p o i t e o a t s a a ( T i w ( T w " m d L – D l a t ( T w " m a M – A i c w S ( T a A b A c A d A d ( T d S " … ( A ( A ( T r o e o a e l w a s l i s t s l o t r u m m c w ( T f t p o i c s t t d o a c a g e t f a o t f a I b I c R d R e I f I g I ( A h l j i t C d t a h c t ( A o a]
+[DELETED:  S  P a r f i b v c o h f c i r ( A c o u h h a p c w t C b ( A l o b a m t b c w w t c … S " ( A t ( T ( A ( A ( D o a a r a g e t b a I b I c R d R e I f I g I ( A d o a a i a c o a n b ( A a T b A p m m t m m t e c A ( A b ( A … S " e T r f c a r t]
+[DELETED:  S  H b o a r g I a t a c r g t U C … ( E a e c t a d s i a r j e f a o b p T r s i d o a a r a g e t t b u a a s o c a b a a d o a a i a c o a s a i a U t t p t t f j p p I t r t u s w a d p e t t t w d s f i t b A o t g c A t s … S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 814
+Short Title: Power Infrastructure Resiliency & Eff.(PIRE). (Public)
+Sponsors: Representatives K. Hall, Zenger, Gable, and T. Brown (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Energy and Public Utilities, if favorable, Commerce and Economic Development,
+if favorable, Rules, Calendar, and Operations of the House
+April 8, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT PROMOTING THE USE OF ADVANCED CONDUCTORS AND GRID
+3 ENHANCING TECHNOLOGIES.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 62-2 reads as rewritten:
+6 "§ 62-2. Declaration of policy.
+7 (a) Upon investigation, it has been determined that the rates, services and operations of
+8 public utilities as defined herein, are affected with the public interest and that the availability of
+9 an adequate and reliable supply of electric power and natural gas to the people, economy and
+10 government of North Carolina is a matter of public policy. It is hereby declared to be the policy
+11 of the State of North Carolina:
+12 …
+13 (11) To promote, to the maximum extent practicable, the deployment of advanced
+14 conductors and grid enhancing technologies to transport the regulated public
+15 utilities' electric energy supply in the most efficient means practicable. To that
+16 end, to require transmission planning to be coordinated with energy planning
+17 and the fixing of rates in a manner to result in the least cost mix of generation
+18 and transmission capital expenditure that is achievable.
+19 …."
+20 SECTION 2. G.S. 62-100 reads as rewritten:
+21 "Article 5A.
+22 "Siting of Transmission Lines.
+23 "§ 62-100. Definitions.
+24 As used in this Article:
+25 (1) The term "begin to construct" includes Advanced conductors. – Any
+26 conductor that has a direct current electrical resistance at least ten percent
+27 (10%) lower than aluminum conductor steel reinforced lines of a similar
+28 diameter.
+29 (1a) Begin to construct. – Includes any clearing of land, excavation, or other action
+30 that would adversely affect the natural environment of the route of a
+31 transmission line; but that term does not include land surveys, boring to
+32 ascertain geological conditions, or similar preliminary work undertaken to
+33 determine the suitability of proposed routes for a transmission line that results
+34 in temporary changes to the land.
+*H814-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (2) The word "county" means any County. – Any one of the counties listed in
+2 G.S. 153A-10.
+3 (2a) Grid enhancing technology. – Any hardware or software technology that
+4 enhances the performance or improves the efficiency of a transmission
+5 system. Includes energy storage as a transmission asset, dynamic line ratings,
+6 advanced power flow control technology, topology optimization, and flexible
+7 alternating current transmission systems.
+8 (3) The word "land" means any Land. – Any real estate or any estate or interest
+9 in real estate, including water and riparian rights, regardless of the use to
+10 which it is devoted.
+11 (4) The word "lines" means distribution Lines. – Distribution lines and
+12 transmission lines collectively.
+13 (5) The word "municipality" means any Municipality. – Any incorporated
+14 community, whether designated as a city, town, or village and any area over
+15 which it exercises any of the powers granted by Chapter 160D of the General
+16 Statutes.
+17 (6) The term "public utility" means any Public utility. – Any of the following:
+18 a. A public utility, as defined in G.S. 62-3(23).
+19 b. An electric membership corporation.
+20 c. A joint municipal power agency.
+21 d. A city or county that is engaged in producing, generating, transmitting,
+22 delivering, or furnishing electricity for private or public use.
+23 (7) The term "transmission line" means an Transmission line. – An electric line
+24 designed with a capacity of at least 161 kilovolts."
+25 SECTION 3. G.S. 62-101 reads as rewritten:
+26 "§ 62-101. Certificate to construct transmission line.
+27 …
+28 (c) A certificate is not required for construction of any of the following lines:
+29 (1) A line designed to carry less than 161 kilovolts;kilovolts.
+30 (2) The replacement or expansion of an existing line with a similar line in
+31 substantially the same location, or the rebuilding, upgrading, modifying,
+32 modernizing, or reconstructing of an existing line for the purpose of increasing
+33 capacity by no greater than seventy-five percent (75%) of the existing lines or
+34 widening an existing right-of-way;right-of-way.
+35 (2a) The upgrading, modifying, modernizing, or reconstructing of an existing line
+36 for the purpose of increasing capacity solely through the deployment of
+37 advanced conductors and/or grid enhancing technologies for any of the
+38 following purposes:
+39 a. Increasing transmission capacity.
+40 b. Increasing transmission efficiency.
+41 c. Reducing system congestion.
+42 d. Reducing curtailment of energy generation resources.
+43 e. Increasing reliability.
+44 f. Increasing resiliency.
+45 g. Increasing capacity to connect new generation resources.
+46 (3) A transmission line over which the Federal Energy Regulatory Commission
+47 has licensing jurisdiction, if the Commission determines that agency has
+48 conducted a proceeding substantially equivalent to the proceeding required by
+49 this Article;Article.
+50 (4) Any transmission line for which, before March 6, 1989, a public utility or
+51 other person has surveyed a proposed route and, based on that route, has
+Page 2 House Bill 814-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 acquired rights-of-way for it by voluntary conveyances or has filed
+2 condemnation proceedings for acquiring those rights-of-way which, together,
+3 involve twenty-five percent (25%) or more of the total length of the proposed
+4 route;route.
+5 (5) An electric membership corporation owned transmission line for which the
+6 construction or upgrading has had a proceeding conducted which the
+7 Commission determines is substantially equivalent to the proceeding required
+8 by this Article;Article.
+9 (6) Any line owned by a municipality to be constructed wholly within the
+10 corporate limits of that municipality.
+11 …."
+12 SECTION 4. G.S. 62-102 reads as rewritten:
+13 "§ 62-102. Application for certificate.
+14 (a) An applicant for the certificate described in G.S. 62-101 shall file an application with
+15 the Commission containing all of the following information:
+16 (1) The reasons the transmission line is needed;needed.
+17 (2) A description of the proposed location of the transmission line;line.
+18 (3) A description of the proposed transmission line;line.
+19 (3a) Descriptions of any advanced reconductoring and/or grid enhancing
+20 technologies to be utilized and a summary of the costs and benefits, including,
+21 but not limited to, all of the following:
+22 a. Increasing transmission capacity.
+23 b. Increasing transmission efficiency.
+24 c. Reducing system congestion.
+25 d. Reducing curtailment of energy generation resources.
+26 e. Increasing reliability.
+27 f. Increasing resiliency.
+28 g. Increasing capacity to connect new generation resources.
+29 (3b) A description of any alternatives, including alternative configurations of
+30 advanced reconductoring and/or grid enhancing technologies, evaluated but
+31 not selected for the proposed transmission line and a summary of the costs and
+32 benefits of these alternatives.
+33 (4) An environmental report setting forth:forth all of the following:
+34 a. The environmental impact of the proposed action;action.
+35 b. Any proposed mitigating measures that may minimize the
+36 environmental impact; andimpact.
+37 c. Alternatives to the proposed action.
+38 (5) A list of all necessary approvals that the applicant must obtain before it may
+39 begin to construct the transmission line; andline.
+40 (6) Any other information the Commission requires.
+41 …."
+42 SECTION 5. G.S. 62-110.9 reads as rewritten:
+43 "§ 62-110.9. Requirements concerning reductions in emissions of carbon dioxide from
+44 electric public utilities.
+45 The Utilities Commission shall take all reasonable steps to achieve a seventy percent (70%)
+46 reduction in emissions of carbon dioxide (CO2) emitted in the State from electric generating
+47 facilities owned or operated by electric public utilities from 2005 levels by the year 2030 and
+48 carbon neutrality by the year 2050. For purposes of this section, (i) "electric public utility" means
+49 any electric public utility as defined in G.S. 62-3(23) serving at least 150,000 North Carolina
+50 retail jurisdictional customers as of January 1, 2021, and (ii) "carbon neutrality" means for every
+51 ton of CO2 emitted in the State from electric generating facilities owned or operated by or on
+House Bill 814-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 behalf of electric public utilities, an equivalent amount of CO2 is reduced, removed, prevented,
+2 or offset, provided that the offsets are verifiable and do not exceed five percent (5%) of the
+3 authorized reduction goal. In achieving the authorized carbon reduction goals, the Utilities
+4 Commission shall:
+5 …
+6 (3) Ensure any generation and resource changes maintain or improve upon the
+7 adequacy and reliability of the existing grid. The Carbon Plan shall require the
+8 electric public utility to produce a report demonstrating it evaluated a range of
+9 cost-effective transmission and distribution solutions, including advanced
+10 reconductoring and/or grid enhancing technologies as defined in G.S. 62-100,
+11 joint projects with neighboring and other regional utilities, other upgrades to
+12 existing facilities, and other best practices. The report should include
+13 descriptions of any advanced reconductoring and/or grid enhancing
+14 technologies to be utilized and a summary of costs and benefits, and a
+15 description of any alternatives, including alternative configurations of
+16 advanced conductoring and/or grid enhancing technologies, evaluated but not
+17 selected in the Carbon Plan and a summary of the costs and benefits of these
+18 alternatives. The electric public utility shall also include all of the following
+19 in the report:
+20 a. Updates to the utility's transmission plan under the utility's open access
+21 transmission tariff pursuant to the federal jurisdictional planning
+22 process. In this report, the utility shall, when applicable, describe
+23 planned transmission improvements specific to siting of new resources
+24 expected to impact interconnection constraints or other operations of
+25 the systems. The utility shall also describe how it evaluated alternate
+26 transmission technologies when developing solutions for identified
+27 transmission needs for interconnecting new generation resources.
+28 b. A description of how transmission factored into the utility's evaluation
+29 of the range of future scenarios included in the 15-year time period of
+30 the utility's resource plan, including the retirement of the utility's coal
+31 generation.
+32 c. A discussion of transmission considerations for facilities included in
+33 the utility's preferred resource plan for which there are particular sites
+34 specified.
+35 …."
+36 SECTION 6. This act is effective when it becomes law.
+Page 4 House Bill 814-First Edition
+
+[DELETED:  1 P ( R E A A A P T U O A C A G E T S " ( U p a g o … ( T c u e a a … S " " " A ( T t " t c i A c – A c ( l t a c s r l o a s d ( B t w a a t n e o t r o a t l b t t d n i l s b t a d i]
+[DELETED:  S  H ( T G ( G e t – A h o s t t e t p o i t e o a t s a a ( T i w ( T w " m d L – D l a t ( T w " m a M – A i c w S ( T a A b A c A d A d ( T d S " … ( A ( A ( T r o e o a e l w a s l i s t s l o t r u m m c w ( T f t p o i c s t t d o a c a g e t f a o t f a I b I c R d R e I f I g I ( A h l j i t C d t a h c t ( A o a]
+[DELETED:  S  P a r f i b v c o h f c i r ( A c o u h h a p c w t C b ( A l o b a m t b c w w t c … S " ( A t ( T ( A ( A ( D o a a r a g e t b a I b I c R d R e I f I g I ( A d o a a i a c o a n b ( A a T b A p m m t m m t e c A ( A b ( A … S " e T r f c a r t]
+[DELETED:  S  H b o a r g I a t a c r g t U C … ( E a e c t a d s i a r j e f a o b p T r s i d o a a r a g e t t b u a a s o c a b a a d o a a i a c o a s a i a U t t p t t f j p p I t r t u s w a d p e t t t w d s f i t b A o t g c A t s … S]

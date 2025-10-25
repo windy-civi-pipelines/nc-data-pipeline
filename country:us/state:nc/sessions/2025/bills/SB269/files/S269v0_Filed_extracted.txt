@@ -1,0 +1,384 @@
+Title: SENATE BILL DRS45144-NE-52
+Official Title: SENATE BILL DRS45144-NE-52
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 12, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 269
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Insurance Guaranty Association Act Revisions.-AB (Public)
+Sponsors: Senators Johnson, Britt, and Settle (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT ENACTING REVISIONS TO THE INSURANCE GUARANTY ASSOCIATION
+3 ACT, AS RECOMMENDED BY THE DEPARTMENT OF INSURANCE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 58-48-10 reads as rewritten:
+6 "§ 58-48-10. Scope.
+7 This Article shall apply to all kinds of direct insurance, but shall not be applicable to:
+8 …
+9 (5) Insurance Other than coverages that may be set forth in a cybersecurity
+10 insurance policy, insurance of warranties or service contracts;
+11 …."
+12 SECTION 2. G.S. 58-48-20 reads as rewritten:
+13 "§ 58-48-20. Definitions.
+14 As used in this Article:
+15 …
+16 (4) Covered claim. – An unpaid claim, including one of unearned premiums,
+17 which is in excess of fifty dollars ($50.00) and arises out of and is within the
+18 coverage and not in excess of the applicable limits of an insurance policy to
+19 which this Article applies as issued by an insurer, if that insurer if the policy
+20 was issued by an insurer that becomes an insolvent insurer after the effective
+21 date of this Article and (i) the claimant or insured is a resident of this State at
+22 the time of the insured event; or (ii) the property from which the claim arises
+23 is permanently located in this State. "Covered claim" includes claim
+24 obligations that arose through the issuance of an insurance policy by a member
+25 insurer, which are later allocated, transferred, merged into, novated, assumed
+26 by, or otherwise made the sole responsibility of a member or nonmember
+27 insurer if (i) the original member insurer has no remaining obligations on the
+28 policy after the transfer, (ii) a final order of liquidation with a finding of
+29 insolvency has been entered against the insurer that assumed the member's
+30 coverage obligations by a court of competent jurisdiction in the insurer's state
+31 of domicile, (iii) the claim would have been a covered claim, as defined in this
+32 subdivision, if the claim had remained the responsibility of the original
+33 member insurer and the order of liquidation had been entered against the
+34 original member insurer, with the same claim submission date and liquidation
+35 date, and (iv) in cases where the member's coverage obligations were assumed
+36 by a nonmember insurer, the transaction received prior regulatory or judicial
+*DRS45144-NE-52*
+General Assembly Of North Carolina Session 2025
+1 approval. "Covered claim" shall not include any amount awarded (i) as
+2 punitive or exemplary damages; (ii) sought as a return of premium under any
+3 retrospective rating plan; or (iii) due any reinsurer, insurer, insurance pool, or
+4 underwriting association, as subrogation or contribution recoveries or
+5 otherwise. "Covered claim" also shall not include fines or penalties, including
+6 attorneys' fees, imposed against an insolvent insurer or its insured or claims
+7 of any claimant whose net worth exceeds fifty million dollars ($50,000,000)
+8 on December 31 of the year preceding the date the insurer becomes insolvent.
+9 (4a) Cybersecurity insurance. – Includes first and third-party coverage, in a policy
+10 or endorsement, written on a direct, admitted basis by a member insurer for
+11 losses and loss mitigation arising out of or relating to data privacy breaches,
+12 unauthorized information network security intrusions, computer viruses,
+13 ransomware, cyber extortion, identity theft, and similar exposures.
+14 …."
+15 SECTION 3. G.S. 58-48-35 reads as rewritten:
+16 "§ 58-48-35. Powers and duties of the Association.
+17 (a) The Association shall:
+18 (1) Be obligated to the extent of the covered claims existing prior to the
+19 determination of insolvency and arising within 30 days after the determination
+20 of insolvency, or before the policy expiration date if less than 30 days after
+21 the determination, or before the insured replaces the policy or causes its
+22 cancellation, if he does so within 30 days of the determination. This obligation
+23 includes only the amount of each covered claim that is in excess of fifty dollars
+24 ($50.00) and is less than five hundred thousand dollars ($500,000). However,
+25 the Association shall pay the full amount of a covered claim for benefits under
+26 a workers' compensation insurance coverage, and shall pay an amount not
+27 exceeding ten thousand dollars ($10,000) per policy for a covered claim for
+28 the return of unearned premium. In no event shall the Association be obligated
+29 to pay an amount in excess of five hundred thousand dollars ($500,000) for
+30 all first and third-party claims under a policy or endorsement providing, or
+31 that is found to provide, cybersecurity insurance coverage and arising out of
+32 or related to a single insured event, regardless of the number of claims made
+33 or the number of claimants. The Association has no obligation to pay a
+34 claimant's covered claim, except a claimant's workers' compensation claim, if:
+35 …
+36 (4) Investigate claims brought against the Association and adjust, compromise,
+37 settle, and pay covered claims to the extent of the Association's obligation and
+38 deny all other claims and may review settlements, releases and judgments to
+39 which the insolvent insurer or its insureds were parties to determine the extent
+40 to which such settlements, releases and judgments may be properly
+41 contested.claims. This requirement is subject to the following provisions:
+42 a. When investigating, adjusting, compromising, or settling claims, the
+43 Association may appoint, substitute, and direct legal counsel for the
+44 defense of covered claims and appoint and direct other service
+45 providers for covered services.
+46 b. The Association may pay in any order that it deems reasonable,
+47 including the payment of claims as they are received from the
+48 claimants or in groups or categories of claims.
+49 …
+50 (8) Have the right to review and contest settlements, releases, compromises,
+51 waivers, and judgments to which the insolvent insurer or its insureds were
+Page 2 DRS45144-NE-52
+General Assembly Of North Carolina Session 2025
+1 parties prior to the entry of the order of liquidation. This right is subject to the
+2 following provisions:
+3 a. In addition to any defenses available to the insurer, the Association
+4 may assert any statutory defenses or rights of offset against any
+5 settlement, release, compromise, or waiver executed by an insured or
+6 the insurer or any judgment taken against the insured or the insurer.
+7 b. The Association is not bound by a settlement, release, compromise, or
+8 waiver executed by an insured or the insurer or any judgment entered
+9 against an insured or the insurer by consent or through a failure to
+10 exhaust all appeals if the settlement, release, compromise, waiver, or
+11 judgment was:
+12 1. Executed or entered within 120 days prior to the entry of an
+13 order of liquidation, and the insured or the insurer did not use
+14 reasonable care in entering into the settlement, release,
+15 compromise, waiver, or judgment, or did not pursue all
+16 reasonable appeals of an adverse judgment; or
+17 2. Executed by or taken against an insured or the insurer based on
+18 default, fraud, collusion, or the insurer's failure to defend.
+19 c. If a court of competent jurisdiction finds that the Association is not
+20 bound by a settlement, release, compromise, waiver, or judgment for
+21 any of the reasons described in sub-subdivision b. of this subdivision,
+22 the settlement, release, compromise, waiver, or judgment shall be set
+23 aside, and the Association shall be permitted to defend any covered
+24 claim on the merits. The settlement, release, compromise, waiver, or
+25 judgment may not be considered as evidence of liability or damages in
+26 connection with any claim brought against the Association or any
+27 other party under this Article.
+28 d. Any covered claims arising from any judgment under any decision,
+29 verdict, or finding based on the default of the insolvent insurer or its
+30 failure to defend an insured shall, upon application and notice by the
+31 Association, be vacated and set aside by the same court in which such
+32 judgment, order, decision, verdict, or finding is entered, and the
+33 Association either on its own behalf or on behalf of any insured or an
+34 insolvent insurer shall be permitted to defend against such claim on
+35 the merits. Any party who has obtained any such judgment or order
+36 shall have the right, upon application and notice, to have the judgment
+37 or order restored if within 90 days following the entry of the judgment
+38 or order the Association has not notified such party and the court that
+39 it intends to defend the matter on the merits.
+40 …."
+41 SECTION 4. G.S. 58-48-50 reads as rewritten:
+42 "§ 58-48-50. Effect of paid claims.
+43 …
+44 (a1) The Association shall have the right to recover from the following persons the amount
+45 of any "covered claim" paid and any and all expenses incurred, including attorneys' fees and costs
+46 of defense, in connection with any claim against the person or the person's affiliate pursuant to
+47 this Article:
+48 (1) Any insured whose net worth on December 31 of the year next preceding the
+49 date the insurer becomes insolvent exceeds fifty million dollars ($50,000,000)
+50 and whose liability obligations to other persons are satisfied in whole or in
+51 part by payments under this Article; Article, provided that an insured's net
+DRS45144-NE-52 Page 3
+General Assembly Of North Carolina Session 2025
+1 worth on that date shall be deemed to include the aggregate net worth of the
+2 insured and all of its subsidiaries and affiliates as calculated on a consolidated
+3 basis; or
+4 …."
+5 SECTION 5. G.S. 58-48-85 reads as rewritten:
+6 "§ 58-48-85. Stay of proceedings; reopening of default judgments.proceedings.
+7 All proceedings in which the insolvent insurer is a party or is obligated to defend a party in
+8 any court or before any administrative agency or the North Carolina Industrial Commission shall
+9 be stayed automatically for 120 days and such additional time thereafter as may be determined
+10 by the court from the date the insolvency is determined or any ancillary proceedings are initiated
+11 in this State, whichever is later, to permit proper defense by the Association of all pending causes
+12 of action. Any party to any proceeding which is stayed pursuant to this section shall have the
+13 right, upon application and notice, to seek a vacation or modification of such stay. Any covered
+14 claims arising from any judgment under any decision, verdict or finding based on the default of
+15 the insolvent insurer or its failure to defend an insured, shall, upon application and notice by the
+16 Association be vacated and set aside by the same court in which such judgment, order, decision,
+17 verdict, or finding is entered and the Association either on its own behalf or on behalf of any
+18 insured or an insolvent insurer, shall be permitted to defend against such claim on the merits.
+19 Any party who has obtained any such judgment or order shall have the right, upon application
+20 and notice, to have the judgment or order restored if within 90 days following the entry of the
+21 judgment or order the Association has not notified such party and the court that it intends to
+22 defend the matter on the merits."
+23 SECTION 6. This act is effective when it becomes law.
+Page 4 DRS45144-NE-52
+[DELETED:  D I ( S  A E R T T I G A I O t c t m b s f i a c C c – A u c i o o p p l i t S " c i c i t c h r t r o t o t o h b e a t]
+[DELETED:  S  D " c s n i a a a ( a a a s o c r o C i n s i c v T B o t t e o t c c e p t t d o b t i r t p o c i t n o c T A h n o t p a I w s s r a j m b p W o c c a a a d o s T A m p i a o t i d r t p o c a t a r f t H t r t r a c s r c]
+[DELETED:  S  P I a a s d o r o o a a T E c i e i t s r w o j o d n p a E I w a c b a t A o a A o d v o f i e a t T A]
+[DELETED:  S  D]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 12, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 269
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45144-NE-52
+Short Title: Insurance Guaranty Association Act Revisions.-AB (Public)
+Sponsors: Senators Johnson, Britt, and Settle (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT ENACTING REVISIONS TO THE INSURANCE GUARANTY ASSOCIATION
+3 ACT, AS RECOMMENDED BY THE DEPARTMENT OF INSURANCE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 58-48-10 reads as rewritten:
+6 "§ 58-48-10. Scope.
+7 This Article shall apply to all kinds of direct insurance, but shall not be applicable to:
+8 …
+9 (5) Insurance Other than coverages that may be set forth in a cybersecurity
+10 insurance policy, insurance of warranties or service contracts;
+11 …."
+12 SECTION 2. G.S. 58-48-20 reads as rewritten:
+13 "§ 58-48-20. Definitions.
+14 As used in this Article:
+15 …
+16 (4) Covered claim. – An unpaid claim, including one of unearned premiums,
+17 which is in excess of fifty dollars ($50.00) and arises out of and is within the
+18 coverage and not in excess of the applicable limits of an insurance policy to
+19 which this Article applies as issued by an insurer, if that insurer if the policy
+20 was issued by an insurer that becomes an insolvent insurer after the effective
+21 date of this Article and (i) the claimant or insured is a resident of this State at
+22 the time of the insured event; or (ii) the property from which the claim arises
+23 is permanently located in this State. "Covered claim" includes claim
+24 obligations that arose through the issuance of an insurance policy by a member
+25 insurer, which are later allocated, transferred, merged into, novated, assumed
+26 by, or otherwise made the sole responsibility of a member or nonmember
+27 insurer if (i) the original member insurer has no remaining obligations on the
+28 policy after the transfer, (ii) a final order of liquidation with a finding of
+29 insolvency has been entered against the insurer that assumed the member's
+30 coverage obligations by a court of competent jurisdiction in the insurer's state
+31 of domicile, (iii) the claim would have been a covered claim, as defined in this
+32 subdivision, if the claim had remained the responsibility of the original
+33 member insurer and the order of liquidation had been entered against the
+34 original member insurer, with the same claim submission date and liquidation
+35 date, and (iv) in cases where the member's coverage obligations were assumed
+36 by a nonmember insurer, the transaction received prior regulatory or judicial
+*DRS45144-NE-52*
+
+General Assembly Of North Carolina Session 2025
+1 approval. "Covered claim" shall not include any amount awarded (i) as
+2 punitive or exemplary damages; (ii) sought as a return of premium under any
+3 retrospective rating plan; or (iii) due any reinsurer, insurer, insurance pool, or
+4 underwriting association, as subrogation or contribution recoveries or
+5 otherwise. "Covered claim" also shall not include fines or penalties, including
+6 attorneys' fees, imposed against an insolvent insurer or its insured or claims
+7 of any claimant whose net worth exceeds fifty million dollars ($50,000,000)
+8 on December 31 of the year preceding the date the insurer becomes insolvent.
+9 (4a) Cybersecurity insurance. – Includes first and third-party coverage, in a policy
+10 or endorsement, written on a direct, admitted basis by a member insurer for
+11 losses and loss mitigation arising out of or relating to data privacy breaches,
+12 unauthorized information network security intrusions, computer viruses,
+13 ransomware, cyber extortion, identity theft, and similar exposures.
+14 …."
+15 SECTION 3. G.S. 58-48-35 reads as rewritten:
+16 "§ 58-48-35. Powers and duties of the Association.
+17 (a) The Association shall:
+18 (1) Be obligated to the extent of the covered claims existing prior to the
+19 determination of insolvency and arising within 30 days after the determination
+20 of insolvency, or before the policy expiration date if less than 30 days after
+21 the determination, or before the insured replaces the policy or causes its
+22 cancellation, if he does so within 30 days of the determination. This obligation
+23 includes only the amount of each covered claim that is in excess of fifty dollars
+24 ($50.00) and is less than five hundred thousand dollars ($500,000). However,
+25 the Association shall pay the full amount of a covered claim for benefits under
+26 a workers' compensation insurance coverage, and shall pay an amount not
+27 exceeding ten thousand dollars ($10,000) per policy for a covered claim for
+28 the return of unearned premium. In no event shall the Association be obligated
+29 to pay an amount in excess of five hundred thousand dollars ($500,000) for
+30 all first and third-party claims under a policy or endorsement providing, or
+31 that is found to provide, cybersecurity insurance coverage and arising out of
+32 or related to a single insured event, regardless of the number of claims made
+33 or the number of claimants. The Association has no obligation to pay a
+34 claimant's covered claim, except a claimant's workers' compensation claim, if:
+35 …
+36 (4) Investigate claims brought against the Association and adjust, compromise,
+37 settle, and pay covered claims to the extent of the Association's obligation and
+38 deny all other claims and may review settlements, releases and judgments to
+39 which the insolvent insurer or its insureds were parties to determine the extent
+40 to which such settlements, releases and judgments may be properly
+41 contested.claims. This requirement is subject to the following provisions:
+42 a. When investigating, adjusting, compromising, or settling claims, the
+43 Association may appoint, substitute, and direct legal counsel for the
+44 defense of covered claims and appoint and direct other service
+45 providers for covered services.
+46 b. The Association may pay in any order that it deems reasonable,
+47 including the payment of claims as they are received from the
+48 claimants or in groups or categories of claims.
+49 …
+50 (8) Have the right to review and contest settlements, releases, compromises,
+51 waivers, and judgments to which the insolvent insurer or its insureds were
+Page 2 DRS45144-NE-52
+
+General Assembly Of North Carolina Session 2025
+1 parties prior to the entry of the order of liquidation. This right is subject to the
+2 following provisions:
+3 a. In addition to any defenses available to the insurer, the Association
+4 may assert any statutory defenses or rights of offset against any
+5 settlement, release, compromise, or waiver executed by an insured or
+6 the insurer or any judgment taken against the insured or the insurer.
+7 b. The Association is not bound by a settlement, release, compromise, or
+8 waiver executed by an insured or the insurer or any judgment entered
+9 against an insured or the insurer by consent or through a failure to
+10 exhaust all appeals if the settlement, release, compromise, waiver, or
+11 judgment was:
+12 1. Executed or entered within 120 days prior to the entry of an
+13 order of liquidation, and the insured or the insurer did not use
+14 reasonable care in entering into the settlement, release,
+15 compromise, waiver, or judgment, or did not pursue all
+16 reasonable appeals of an adverse judgment; or
+17 2. Executed by or taken against an insured or the insurer based on
+18 default, fraud, collusion, or the insurer's failure to defend.
+19 c. If a court of competent jurisdiction finds that the Association is not
+20 bound by a settlement, release, compromise, waiver, or judgment for
+21 any of the reasons described in sub-subdivision b. of this subdivision,
+22 the settlement, release, compromise, waiver, or judgment shall be set
+23 aside, and the Association shall be permitted to defend any covered
+24 claim on the merits. The settlement, release, compromise, waiver, or
+25 judgment may not be considered as evidence of liability or damages in
+26 connection with any claim brought against the Association or any
+27 other party under this Article.
+28 d. Any covered claims arising from any judgment under any decision,
+29 verdict, or finding based on the default of the insolvent insurer or its
+30 failure to defend an insured shall, upon application and notice by the
+31 Association, be vacated and set aside by the same court in which such
+32 judgment, order, decision, verdict, or finding is entered, and the
+33 Association either on its own behalf or on behalf of any insured or an
+34 insolvent insurer shall be permitted to defend against such claim on
+35 the merits. Any party who has obtained any such judgment or order
+36 shall have the right, upon application and notice, to have the judgment
+37 or order restored if within 90 days following the entry of the judgment
+38 or order the Association has not notified such party and the court that
+39 it intends to defend the matter on the merits.
+40 …."
+41 SECTION 4. G.S. 58-48-50 reads as rewritten:
+42 "§ 58-48-50. Effect of paid claims.
+43 …
+44 (a1) The Association shall have the right to recover from the following persons the amount
+45 of any "covered claim" paid and any and all expenses incurred, including attorneys' fees and costs
+46 of defense, in connection with any claim against the person or the person's affiliate pursuant to
+47 this Article:
+48 (1) Any insured whose net worth on December 31 of the year next preceding the
+49 date the insurer becomes insolvent exceeds fifty million dollars ($50,000,000)
+50 and whose liability obligations to other persons are satisfied in whole or in
+51 part by payments under this Article; Article, provided that an insured's net
+DRS45144-NE-52 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 worth on that date shall be deemed to include the aggregate net worth of the
+2 insured and all of its subsidiaries and affiliates as calculated on a consolidated
+3 basis; or
+4 …."
+5 SECTION 5. G.S. 58-48-85 reads as rewritten:
+6 "§ 58-48-85. Stay of proceedings; reopening of default judgments.proceedings.
+7 All proceedings in which the insolvent insurer is a party or is obligated to defend a party in
+8 any court or before any administrative agency or the North Carolina Industrial Commission shall
+9 be stayed automatically for 120 days and such additional time thereafter as may be determined
+10 by the court from the date the insolvency is determined or any ancillary proceedings are initiated
+11 in this State, whichever is later, to permit proper defense by the Association of all pending causes
+12 of action. Any party to any proceeding which is stayed pursuant to this section shall have the
+13 right, upon application and notice, to seek a vacation or modification of such stay. Any covered
+14 claims arising from any judgment under any decision, verdict or finding based on the default of
+15 the insolvent insurer or its failure to defend an insured, shall, upon application and notice by the
+16 Association be vacated and set aside by the same court in which such judgment, order, decision,
+17 verdict, or finding is entered and the Association either on its own behalf or on behalf of any
+18 insured or an insolvent insurer, shall be permitted to defend against such claim on the merits.
+19 Any party who has obtained any such judgment or order shall have the right, upon application
+20 and notice, to have the judgment or order restored if within 90 days following the entry of the
+21 judgment or order the Association has not notified such party and the court that it intends to
+22 defend the matter on the merits."
+23 SECTION 6. This act is effective when it becomes law.
+Page 4 DRS45144-NE-52
+
+[DELETED:  D I ( S  A E R T T I G A I O t c t m b s f i a c C c – A u c i o o p p l i t S " c i c i t c h r t r o t o t o h b e a t]
+[DELETED:  S  D " c s n i a a a ( a a a s o c r o C i n s i c v T B o t t e o t c c e p t t d o b t i r t p o c i t n o c T A h n o t p a I w s s r a j m b p W o c c a a a d o s T A m p i a o t i d r t p o c a t a r f t H t r t r a c s r c]
+[DELETED:  S  P I a a s d o r o o a a T E c i e i t s r w o j o d n p a E I w a c b a t A o a A o d v o f i e a t T A]
+[DELETED:  S  D]

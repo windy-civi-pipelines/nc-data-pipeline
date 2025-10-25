@@ -1,0 +1,1194 @@
+Title: SENATE BILL 110
+Official Title: SENATE BILL 110
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: North Carolina Work and Save. (Public)
+Sponsors: Senators Hanig, Moffitt, and Adcock (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+February 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CREATE THE SMALL BUSINESS RETIREMENT SAVINGS PROGRAM AND
+3 TO APPROPRIATE FUNDS.
+4 Whereas, the General Assembly finds that too many North Carolina citizens have no
+5 or inadequate savings for retirement, and an estimated 1.7 million North Carolina working
+6 families, including employees, independent contractors, and the self-employed, have no access
+7 to an employer-sponsored retirement plan or program or any other easy way to save at work; and
+8 Whereas, it is the policy of the State to assist the North Carolina private-sector
+9 workforce, including in particular moderate- and lower-income working households, to
+10 voluntarily save for retirement, including by facilitating saving in individual retirement accounts
+11 (IRAs) as well as by encouraging employers to adopt retirement savings and other retirement
+12 plans for employees in the State; and
+13 Whereas, more adequate, portable, low-cost, and consumer-protective retirement
+14 saving by North Carolina households will enhance their retirement security and ultimately reduce
+15 the pressure on State public assistance programs for retirees and other elderly citizens and the
+16 potential burden on North Carolina taxpayers to finance such programs; and
+17 Whereas, the General Assembly intends to establish a North Carolina Work and Save
+18 Program that will use the services of competent and qualified private-sector entities selected by
+19 the North Carolina Small Business Retirement Savings Program Board to administer the Program
+20 and manage the funds on behalf of the Program participants; and
+21 Whereas, the North Carolina 529 College Savings Program has demonstrated the
+22 feasibility of a public-private partnership that outsources investment and administration to assist
+23 private citizens of the State to save on a voluntary and cost-efficient basis; Now, therefore,
+24 The General Assembly of North Carolina enacts:
+25 SECTION 1. Article 6 of Chapter 147 of the General Statutes is amended by
+26 designating G.S. 147-65 through G.S. 147-86.6 as Part 1 with the heading "General Provisions,
+27 Powers, and Duties; Investment; and Funds."
+28 SECTION 2. Article 6 of Chapter 147 of the General Statutes is amended by adding
+29 a new Part to read:
+30 "Part 2. North Carolina Small Business Retirement Savings Program.
+31 "§ 147-86.7A. Title.
+32 This Part shall be known as the "North Carolina Small Business Retirement Savings
+33 Program" or "North Carolina Work and Save."
+34 "§ 147-86.7B. Definitions.
+35 The following definitions apply in this Part:
+*S110-v-1*
+General Assembly Of North Carolina Session 2025
+1 (1) Administrative Fund. – The North Carolina Small Business Retirement
+2 Savings Administrative Fund established in G.S. 147-86.7V.
+3 (2) Board. – The North Carolina Small Business Retirement Savings Program
+4 Board.
+5 (3) Covered employee. – An individual who is employed by a covered employer,
+6 who has wages or other compensation that is allocable to the State, and who
+7 is at least 18 years of age. A covered employee does not include any of the
+8 following:
+9 a. Any employee covered under the federal Railway Labor Act (45
+10 U.S.C. § 151).
+11 b. Any employee on whose behalf an employer makes contributions to a
+12 Taft-Hartley multiemployer pension trust fund.
+13 c. Any individual who is an employee of the federal government, the
+14 State or any other state, any county or municipal corporation, or any
+15 of the State's, any other state's, or the federal government's units or
+16 instrumentalities.
+17 (4) Covered employer. – A person or entity engaged in a business, industry,
+18 profession, trade, or other enterprise in the State, whether for-profit or not for
+19 profit, excluding the federal government, the State, any county, any
+20 municipality, or any political subdivision of the State, and provided that
+21 covered employer does not include an employer that maintains a specified
+22 tax-favored retirement plan for its employees or has done so effective in form
+23 and operation at any time within the current or two preceding calendar years.
+24 If an employer does not maintain a specified tax-favored retirement plan for a
+25 portion of a calendar year ending on or after the effective date of this Part and
+26 adopts such a plan effective for the remainder of that calendar year, the
+27 employer is exempt from covered employer status for that remainder of the
+28 year.
+29 (4a) Department. – The Department of State Treasurer.
+30 (5) ERISA. – The Employee Retirement Income Security Act of 1974, as
+31 amended (29 U.S.C. § 1001 et seq.).
+32 (6) Internal Revenue Code. – The Internal Revenue Code of 1986, as amended
+33 (Title 26 of the United States Code).
+34 (7) IRA. – A traditional or Roth individual retirement account or individual
+35 retirement annuity.
+36 (8) Participant. – An individual who is contributing to an IRA under the Program
+37 or has an IRA account balance under the Program.
+38 (9) Participating employer. – A covered employer that provides for covered
+39 employees a payroll deduction IRA provided for by this Part.
+40 (10) Payroll deduction IRA arrangement or payroll deduction IRA. – An
+41 arrangement by which an employer allows employees to contribute to an IRA
+42 by means of payroll deduction.
+43 (11) Program or North Carolina Work and Save Program. – The Small Business
+44 Retirement Savings Program established by this Part.
+45 (12) Roth IRA. – A Roth individual retirement account or individual retirement
+46 annuity under section 408A of the Internal Revenue Code.
+47 (13) Specified tax-favored retirement plan. – A retirement plan that is tax-qualified
+48 under or is described in and satisfies the requirements of subsection 401(a),
+49 401(k), 403(a), 403(b), 408(k) (Simplified Employee Pension), or 408(p)
+50 (SIMPLE-IRA) of the Internal Revenue Code.
+Page 2 Senate Bill 110-First Edition
+General Assembly Of North Carolina Session 2025
+1 (14) Total fees and expenses. – All fees, costs, and expenses, including, but not
+2 limited to, administrative expenses, investment expenses, investment advice
+3 expenses, accounting costs, actuarial costs, legal costs, marketing expenses,
+4 education expenses, trading costs, insurance annuitization costs, and other
+5 miscellaneous costs.
+6 (15) Traditional IRA. – A traditional individual retirement account or traditional
+7 individual retirement annuity under subsection 408(a) or (b) of the Internal
+8 Revenue Code.
+9 (16) Trust. – The trust in which the assets of the Program are held. Where
+10 applicable, except as may be otherwise specified, references throughout this
+11 Part to the Program generally are intended to refer also to the Trust, including
+12 the assets, facilities, costs and expenses, receipts, expenditures, activities,
+13 operations, administration, or management.
+14 "§ 147-86.7C. Establishment of Board.
+15 (a) The North Carolina Small Business Retirement Savings Board is established for
+16 administrative purposes in the Department of State Treasurer, but the Board shall exercise its
+17 powers and duties independently of the Department. The Department shall provide
+18 administrative support for the Board in carrying out its duties pursuant to this Part.
+19 (b) The Board shall consist of 12 members.
+20 (1) Ten voting members shall be appointed as follows:
+21 a. The State Treasurer shall appoint a member who has a favorable
+22 reputation for skill, knowledge, and experience in retirement
+23 investment products or retirement plan designs.
+24 b. Five members appointed by the Governor as follows:
+25 1. One member who has a favorable reputation for skill,
+26 knowledge, and experience in retirement investment products
+27 or retirement plan designs.
+28 2. One member who has a favorable reputation for skill,
+29 knowledge, and experience relating to small business or
+30 covered employers.
+31 3. One member from the Office of State Budget and Management
+32 or other designee knowledgeable about fiscal impacts.
+33 4. One member who is an employee of the Department of State
+34 Treasurer.
+35 5. One member of the public.
+36 c. Two members appointed by the General Assembly upon the
+37 recommendation of the Speaker of the House of Representatives as
+38 follows:
+39 1. One member who is a retired individual or an individual who
+40 represents persons retired to be a representative of the interests
+41 of retirees.
+42 2. One member who has a favorable reputation for skill,
+43 knowledge, and experience in the interests of employers in
+44 retirement saving.
+45 d. Two members appointed by the General Assembly upon the
+46 recommendation of the President Pro Tempore of the Senate as
+47 follows:
+48 1. One member who is a representative of an association
+49 representing employees or who has a favorable reputation for
+50 skill, knowledge, and experience in the interests of employees
+51 in retirement saving.
+Senate Bill 110-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 2. One member who has a favorable reputation for skill,
+2 knowledge, and experience in retirement investment products
+3 or retirement plan designs.
+4 (2) In addition to the 10 voting members, the President Pro Tempore of the Senate
+5 and the Speaker of the House of Representatives shall each appoint one
+6 nonvoting advisory member.
+7 (c) All initial appointments shall be made no later than October 1, 2025. Of the initial
+8 five appointments made by the Governor, two shall be appointed for four-year terms, two shall
+9 be appointed for two-year terms, and one shall be appointed for a one-year term, with all terms
+10 to begin on October 1, 2025. Of the initial two appointments made by the General Assembly
+11 upon the recommendation of the President Pro Tempore of the Senate, one shall be appointed for
+12 a four-year term and one shall be appointed for a two-year term, with both terms to begin on
+13 October 1, 2025. Of the initial two appointments made by the General Assembly upon the
+14 recommendation of the Speaker of the House of Representatives, one shall be appointed for a
+15 four-year term and one shall be appointed for a two-year term, with both terms to begin on
+16 October 1, 2025. The initial appointment by the State Treasurer shall be for a term of three years
+17 to begin on October 1, 2025. All successors shall be appointed for four-year terms. All members
+18 of the Board shall serve at the pleasure of the appointing authority.
+19 (d) Members of the Board shall serve without compensation and shall receive per diem,
+20 subsistence, and travel allowances as provided in G.S. 138-5 and G.S. 138-6 as applicable.
+21 (e) The Governor shall convene the first meeting of the Board no later than October 15,
+22 2025. A majority of the voting members of the Board constitutes a quorum. The first order of
+23 business before the Board shall be to elect a chair from among the Board's membership. A
+24 vacancy in the membership of the Board shall not impair the right of a quorum to exercise the
+25 powers and duties of the Board.
+26 "§ 147-86.7D. Powers and duties of the Board.
+27 (a) The Board shall have the following powers and duties, subject to its authority and
+28 fiduciary duty:
+29 (1) Design, develop, implement, maintain, govern, and promulgate rules with
+30 respect to a payroll deduction retirement savings program for covered
+31 employers and, to that end, may conduct market, legal, and feasibility
+32 analyses.
+33 (2) Elect a chair and other officers it deems necessary.
+34 (3) Meet as necessary to perform its duties.
+35 (4) Appoint an executive director, who shall be the chief administrative officer of
+36 the Board.
+37 (5) Retain trustees, record keepers, investment managers, investment advisors,
+38 and other administrative, professional, expert advisors and service providers,
+39 none of whom shall be members of the Board and all of whom shall serve at
+40 the pleasure of the Board, and determine their duties and compensation. The
+41 Board may authorize the executive director and other officials to oversee
+42 requests for proposals or other public competitions and enter into contracts on
+43 behalf of the Board and conduct any business necessary for the efficient
+44 operation of the Board.
+45 (6) Cause the Program, Trust, and arrangements and accounts established under
+46 the Program to be designed, established, and operated:
+47 a. In accordance with best practices for retirement saving vehicles.
+48 b. To encourage participation, saving, sound investment practices, and
+49 appropriate selection of investment options, including any default
+50 investments.
+Page 4 Senate Bill 110-First Edition
+General Assembly Of North Carolina Session 2025
+1 c. To maximize simplicity and ease of administration for covered
+2 employers.
+3 d. To arrange for collective, common, and pooled investment of assets of
+4 the Program and Trust, including investments in conjunction with
+5 other funds with which these assets are permitted by law to be
+6 collectively invested, with a view to achieving economies of scale and
+7 other efficiencies designed to minimize costs for the Program and its
+8 participants, to promote portability of benefits.
+9 e. To avoid preemption of the Program by federal law (Employee
+10 Retirement Income Security Act of 1974, 29 U.S.C. § 1001 et seq.).
+11 (7) Develop and implement an investment policy that defines the Program's
+12 investment objectives, consistent with the objectives of the Program, and that
+13 provides for policies and procedures consistent with those investment
+14 objectives. The Board shall designate appropriate default investments that
+15 include a mix of asset classes, such as target date and balanced funds. The
+16 Board shall seek to minimize participant fees and expenses of investment and
+17 administration. The Board shall strive to design and implement investment
+18 options available to holders of accounts established as part of the Program and
+19 other Program features that are intended to achieve maximum possible income
+20 replacement balanced with an appropriate level of risk in an IRA-based
+21 environment consistent with the investment objectives under the policy. The
+22 investment options may encompass a range of risk and return opportunities
+23 and allow for a rate of return commensurate with an appropriate level of risk
+24 in view of the investment objectives under the policy. The menu of investment
+25 options shall be determined taking into account the nature and objectives of
+26 the Program, the desirability based on behavioral research findings of limiting
+27 investment choices under the Program to a reasonable number, and the
+28 extensive investment choices available to participants in the event that they
+29 roll over to an IRA outside the Program.
+30 (8) Set and collect necessary fees from covered employees for application,
+31 account, or administrative processing and accept any grants, gifts, legislative
+32 appropriations, loans, and other moneys from the State, any unit of federal,
+33 State, or local government, or any other person, firm, or entity to defray the
+34 costs of administering and operating the Program.
+35 (9) If necessary, determine the eligibility of an employer, employee, or other
+36 individual to participate in the Program.
+37 (10) Adopt rules it deems necessary or advisable for the implementation of this
+38 Part and the administration and operation of the Program.
+39 (11) Cause expenses incurred to initiate, implement, maintain, and administer the
+40 Program to be paid from contributions to, or investment returns or assets of,
+41 the Program or other money collected by or for the Program or pursuant to
+42 arrangements established under the Program to the extent permitted under
+43 federal and State law.
+44 (12) Invest and reinvest its funds in the Administrative Fund in accordance with
+45 applicable State and federal laws.
+46 (13) Make and enter into competitively procured contracts, agreements,
+47 memoranda of understanding, partnerships, or other arrangements, to
+48 collaborate and cooperate with, and to retain, employ, and contract with or for
+49 any of the following to the extent necessary or desirable, for the effective and
+50 efficient design, implementation, and administration of the Program
+Senate Bill 110-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 consistent with the purposes set forth in this Part and to maximize outreach to
+2 covered employers and covered employees:
+3 a. Services of private and public financial institutions, depositories,
+4 consultants, actuaries, counsel, auditors, investment advisors,
+5 investment administrators, investment management firms, other
+6 investment firms, third-party administrators, other professionals and
+7 service providers, and State public retirement systems.
+8 b. Research, technical, financial, administrative, and other services.
+9 c. Services of other State agencies to assist the Board in the exercise of
+10 its powers and duties.
+11 (14) The Board may enter into an intergovernmental agreement or memorandum
+12 of understanding with the State and any agency of the State to receive
+13 outreach, technical assistance, enforcement and compliance services,
+14 collection or dissemination of information pertinent to the Program subject to
+15 such obligations of confidentiality as may be agreed to or required by law, or
+16 other services or assistance. The State and any agencies of the State that enter
+17 into such agreements or memoranda of understanding shall collaborate to
+18 provide the outreach, assistance, information, and compliance or other
+19 services or assistance to the Board. The memoranda of understanding may
+20 cover the sharing of costs incurred in gathering and disseminating information
+21 and the reimbursement of costs for any enforcement activities or assistance.
+22 (15) Make and enter into contracts, agreements, memoranda of understanding,
+23 arrangements, partnerships, or other arrangements to collaborate, cooperate,
+24 coordinate, contract, or combine resources, investments, or administrative
+25 functions with other governmental entities, including other states or their
+26 agencies or instrumentalities that maintain or are establishing retirement
+27 savings programs compatible with the Program, including collective,
+28 common, or pooled investments with other funds of other states' programs
+29 with which the assets of the Program and Trust are permitted by law to be
+30 collectively invested, to the extent necessary or desirable for the effective and
+31 efficient design, administration, and implementation of the Program
+32 consistent with the purposes set forth in this Part, including the purpose of
+33 achieving economies of scale and other efficiencies designed to minimize
+34 costs for the Program.
+35 (16) Develop and implement an education and outreach plan to gain input and
+36 disseminate information regarding the North Carolina Work and Save
+37 Program and retirement savings and financial literacy in general.
+38 (17) Establish procedures for the timely and fair resolution of participant and other
+39 disputes related to accounts or Program operation.
+40 (18) Evaluate the need for, and procure if and as deemed necessary, pooled private
+41 insurance against any and all loss in connection with the property, assets, or
+42 activities of the Program.
+43 (19) Borrow from the State, any unit of federal, State, or local government, or any
+44 other person, firm, partnership, corporation, or other entity working capital
+45 funds and other funds as may be necessary for this purpose, provided that such
+46 funds are borrowed in the name of the Program and Board only and that any
+47 such borrowings shall be payable solely from the revenues of the Program.
+48 (20) Enter into long-term procurement contracts with one or more financial
+49 providers that provide a fee structure that would assist the Program in avoiding
+50 or minimizing the need to borrow or to rely upon general assets of the State.
+Page 6 Senate Bill 110-First Edition
+General Assembly Of North Carolina Session 2025
+1 (b) In addition to the applicable prohibitions contained in Article 4 of Chapter 138A of
+2 the General Statutes, a Board member, executive director, and other staff of the Board shall not
+3 do any of the following:
+4 (1) Directly or indirectly have any interest in the making of any investment under
+5 the Program or in gains or profits accruing from any such investment.
+6 (2) Borrow any Program-related funds or deposits or use any such funds or
+7 deposits in any manner, for himself or herself or as an agent or partner of
+8 others.
+9 (3) Become an endorser, surety, or obligor on investments made under the
+10 Program.
+11 "§ 147-86.7G. Standard of conduct; fiduciary duty.
+12 The Board, individual members of the Board, all persons serving as staff to the Program, and
+13 any other agents appointed or engaged shall discharge their duties for the exclusive purpose of
+14 providing benefits to the Program participants and administering the Program with discharge of
+15 its duties and shall:
+16 (1) Defray reasonable expenses in the administration of the Program.
+17 (2) Govern Program investors with the care, skill, prudence, and diligence as a
+18 prudent person acting in a like capacity would.
+19 (3) Comply with all State ethics laws and regulations.
+20 "§ 147-86.7J. Requirements for the North Carolina Small Business Retirement Savings
+21 Program.
+22 The Program developed and established by the Board shall:
+23 (1) Provide a process to facilitate voluntary enrollment into the Program for
+24 covered employers, covered employees, and self-employed persons.
+25 (2) Provide that the IRA to which contributions are made will be a Roth IRA,
+26 except that the Board shall have the authority at any time to add an option for
+27 all participants to affirmatively elect to contribute to a traditional IRA as an
+28 alternative to the Roth IRA.
+29 (3) Provide that the standard package shall be a Roth IRA with a target date fund
+30 investment, and a contribution rate that begins at five percent (5%) of salary
+31 or wages; provided, however, that the covered employee can choose to stop
+32 participation altogether, to use a traditional IRA and a different investment
+33 from among the options available, and to contribute at a higher or lower
+34 contribution rate, subject to the IRA contribution dollar limits applicable
+35 under the Internal Revenue Code.
+36 (4) Provide on a uniform basis, if and when the Board so determines, in its
+37 discretion, for annual increases of each participant's contribution rate, by not
+38 more than one percent (1%) of salary or wages per year up to a maximum of
+39 eight percent (8%). Any such increases shall apply to participants, as
+40 determined by the Board, by default or only if initiated by affirmative
+41 participant election included as part of the standard package, in either case
+42 subject to the IRA contribution limits applicable under the Internal Revenue
+43 Code.
+44 (5) Allow a covered employer to withhold payroll deductions from a covered
+45 employee's paycheck for the express purpose of making a covered employee
+46 contribution to the Program funds.
+47 (6) Include a process for direct deposit of contributions into covered employee
+48 investments in the Program.
+49 (7) Covered employers are not allowed to make employer contributions to the
+50 covered employee's accounts.
+Senate Bill 110-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (8) Allow for covered employees to make non-payroll contributions into an
+2 account in addition to the covered employer payroll deducted amounts.
+3 (9) Include an account reporting system that requires separate records and
+4 accounting for each covered employer and covered employee enrolled.
+5 (10) Include an account status notification process for covered employees to be
+6 notified about and track their investments pursuant to this Part.
+7 (11) Allow portability of benefits, including the ability to make tax-free rollovers
+8 or transfers from accounts under the Program to other non-Program retirement
+9 accounts or to tax-qualified plans that accept such rollovers or transfers
+10 provided any rollover is initiated by the employee.
+11 (12) Establish rules and procedures governing the distribution of funds from the
+12 Program, including such distributions as may be permitted or required by the
+13 Program and any applicable provisions of tax laws, with the objectives of
+14 maximizing financial security in retirement, helping to protect spousal rights,
+15 and assisting participants with the challenges of decumulation of savings. The
+16 Board shall have the authority, in its discretion, to provide for one or more
+17 reasonably priced distribution options to provide a source of fixed retirement
+18 income, including income for life or for the participant's life expectancy (or
+19 for joint lives and life expectancies, as applicable).
+20 (13) Pool accounts as necessary under the Program for optimum investment
+21 opportunity and return on investment outcomes.
+22 (14) Be professionally managed.
+23 (15) Provide a report on the status of each Program participant's account to each
+24 Program participant at least annually.
+25 (16) Provide that each Program participant owns the contributions to and earnings
+26 on amounts contributed to the participant's account under this Part and that the
+27 State, the Board, and covered employers have no proprietary interest, whether
+28 legal or equitable, in those contributions or earnings.
+29 (17) Keep total fees and expenses as low as practicable and in any event each year
+30 not in excess of 100 basis points of the total assets of the Program, except that
+31 this limit shall not apply during a start-up period of three years beginning with
+32 the initial implementation of the Program.
+33 (18) Be designed and implemented in a manner consistent with federal law,
+34 including favorable federal tax treatment, to the extent that it applies and is
+35 consistent with the Program not being preempted by ERISA.
+36 (19) Ensure that the North Carolina Small Business Retirement Savings Program
+37 is designed to be financially self-sustaining over time.
+38 (20) Provide that, if a covered employer fails to transmit a payroll deduction
+39 contribution to the Program on the earliest date the amount withheld from the
+40 covered employee's compensation can reasonably be segregated from the
+41 covered employer's assets, but not later than the fifteenth day of the month
+42 following the month in which the covered employee's contribution amounts
+43 are withheld from his or her paycheck, the failure to remit such contributions
+44 on a timely basis shall be subject to the same sanctions as employer
+45 misappropriation of employee wage withholdings and to penalties.
+46 "§ 147-86.7M. Rules for the North Carolina Work and Save Program.
+47 The Board shall adopt rules to implement the Program that:
+48 (1) Establish the processes for enrollment and contributions to Payroll Deduction
+49 IRAs under the Program, including elections by covered employees,
+50 withholding by covered employers of employee payroll deduction
+51 contributions from wages and remittance for deposit to IRAs, and voluntary
+Page 8 Senate Bill 110-First Edition
+General Assembly Of North Carolina Session 2025
+1 enrollment and contributions by others, including self-employed individuals
+2 and independent contractors, through payroll deduction or otherwise.
+3 (2) Establish the processes for withdrawals, rollovers, and direct transfers from
+4 IRAs under the Program in the interest of facilitating portability and
+5 maximization of benefits.
+6 (3) Establish processes for phasing in enrollment of eligible individuals.
+7 (4) Conduct outreach to individuals, employers, other stakeholders, and the public
+8 regarding the Program. Specify the contents, frequency, timing, and means of
+9 required disclosures from the Program to covered employees, participants,
+10 other individuals eligible to participate in the Program, covered employers,
+11 and other interested parties. These disclosures shall include, but need not be
+12 limited to:
+13 a. The benefits associated with tax-favored retirement saving.
+14 b. The potential advantages and disadvantages associated with
+15 contributing to Roth IRAs and, if applicable, traditional IRAs under
+16 the Program.
+17 c. The eligibility rules for Roth IRAs and, if applicable, traditional IRAs.
+18 d. That the individual and not the employer, the State, the Board, any
+19 Board member or other State official, or the Program will be solely
+20 responsible for determining whether and, if so, how much the
+21 individual is eligible to contribute on a tax-favored basis to an IRA.
+22 e. The penalty for excess contributions to IRAs and the method of
+23 correcting excess contributions.
+24 f. Instructions for enrolling, making elections to contribute or to decline
+25 to contribute, and making elections regarding contribution rates, type
+26 of IRA, and investments.
+27 g. Instructions for implementing and for changing the elections.
+28 h. The potential availability of a saver's tax credit, including the
+29 eligibility conditions for the credit and instructions on how to claim it.
+30 i. That employees seeking tax, investment, or other financial advice
+31 should contact appropriate professional advisors, and that covered
+32 employers are not in a position to provide such advice and are not
+33 liable for decisions individuals make in relation to the Program.
+34 j. That the payroll deduction IRAs are intended not to be
+35 employer-sponsored retirement plans and that the Program is not an
+36 employer-sponsored retirement plan.
+37 k. The potential implications of account balances under the Program for
+38 the application of asset limits under certain public assistance
+39 programs.
+40 l. That the account owner is solely responsible for investment
+41 performance, including market gains and losses, and that IRA
+42 accounts and rates of return are not guaranteed by any employer, the
+43 State, the Board, any Board member or State official, or the Program.
+44 m. Additional information about retirement and saving and other
+45 information designed to promote financial literacy and capability
+46 which may take the form of links to, or explanations of how to obtain,
+47 such information.
+48 n. How to obtain additional information about the Program.
+49 "§ 147-86.7P. Protection from liability for covered employers.
+50 (a) A covered employer or other employer is not and shall not be liable for or bear
+51 responsibility for any of the following:
+Senate Bill 110-First Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (1) An employee's decision to participate in or not to participate in the Program
+2 or a participant's specific elections under the Program.
+3 (2) Participants' or the Board's investment decisions.
+4 (3) The administration, investment, investment returns, or investment
+5 performance of the Program, including, without limitation, any interest rate or
+6 other rate of return on any contribution or account balance, provided they play
+7 no role.
+8 (4) The Program design or the benefits paid to participants.
+9 (5) Individuals' awareness of or compliance with the conditions and other
+10 provisions of the tax laws that determine which individuals are eligible to
+11 make tax-favored contributions to IRAs, in what amount, and in what time
+12 frame and manner.
+13 (6) Any loss, failure to realize any gain, or any other adverse consequences,
+14 including, without limitation, any adverse tax consequences or loss of
+15 favorable tax treatment, public assistance, or other benefits, incurred by any
+16 person as a result of participating in the Program.
+17 (b) No covered employer or other employer shall be, or shall be considered to be, a
+18 fiduciary in relation to the Program or Trust or any other arrangement under the Program.
+19 "§ 147-86.7R. Protection from liability for the State.
+20 The State has no duty or liability to any party for the payment of any retirement savings
+21 benefits accrued by any individual under the Program. The State, the Board, each member of the
+22 Board, and the Program:
+23 (1) Shall have no responsibility for compliance by individuals with the conditions
+24 and other provisions of the Internal Revenue Code that determine which
+25 individuals are eligible to make tax-favored contributions to IRAs, in what
+26 amount, and in what time frame and manner.
+27 (2) Shall have no duty, responsibility, or liability to any party for the payment of
+28 any benefits under the Program, regardless of whether sufficient funds are
+29 available under the Program to pay such benefits.
+30 (3) Do not and shall not guarantee any interest rate or other rate of return on or
+31 investment performance of any contribution or account balance.
+32 (4) Shall have no liability or responsibility for any loss, deficiency, failure to
+33 realize any gain, or any other adverse consequences incurred by any person as
+34 a result of participating in the Program.
+35 "§ 147-86.7T. Confidentiality of participant and account information.
+36 Individual account information relating to accounts under the Program and relating to
+37 individual participants, including, but not limited to, names, addresses, telephone numbers, email
+38 addresses, personal identification information, investments, contributions, and earnings, is
+39 confidential, is not a public record as defined in G.S. 132-1, and may not be disclosed except as
+40 follows:
+41 (1) To the extent necessary to administer the Program in a manner consistent with
+42 this Part, the tax laws of this State, and the Internal Revenue Code; or
+43 (2) To the extent that the individual who provides the information or is the subject
+44 of the information expressly agrees in writing to the disclosure of the
+45 information.
+46 "§ 147-86.7V. Funding of Program.
+47 The North Carolina Small Business Retirement Savings Administrative Fund is established,
+48 to be held in trust separate and distinct from the General Fund. Interest earned by the
+49 Administrative Fund shall be credited to the Administrative Fund. Moneys in the Administrative
+50 Fund are continuously appropriated to the Board. The Administrative Fund consists of:
+51 (1) Moneys appropriated to the Administrative Fund by the General Assembly.
+Page 10 Senate Bill 110-First Edition
+General Assembly Of North Carolina Session 2025
+1 (2) Moneys transferred to the Administrative Fund from the federal government,
+2 other State agencies, or local governments.
+3 (3) Moneys from the payment of application, account, administrative, or other
+4 fees and the payment of other moneys due the Board.
+5 (4) Any gifts, donations, or grants made to the State for deposit in the
+6 Administrative Fund.
+7 (5) Earnings on moneys in the Administrative Fund.
+8 "§ 147-86.7X. Annual report.
+9 (a) The Board shall cause an accurate account of all of the Program's, Trust's, and Board's
+10 activities, operations, receipts, and expenditures to be maintained. By October 1 of each year, the
+11 Board shall submit to the Governor and the Joint Legislative Commission on Governmental
+12 Operations a report detailing the activities, operations, receipts, and expenditures of the Program
+13 and Board during the preceding calendar year. The report shall also include projected activities
+14 of the Program for the current calendar year and any necessary statutory recommendations and
+15 appropriations.
+16 (b) Each year, a full audit of the books and accounts of the Board pertaining to those
+17 activities, operations, receipts and expenditures, personnel, services, or facilities shall be
+18 conducted by a certified public accountant and shall include, but not be limited to, direct and
+19 indirect costs attributable to the use of outside consultants, independent contractors, and any other
+20 persons who are not State employees for the administration of the Program. For the purposes of
+21 the audit, the auditors shall have access to the properties and records of the Program and Board
+22 and may prescribe methods of accounting and the rendering of periodic reports in relation to
+23 projects undertaken by the Program.
+24 "§ 147-86.7Z. Implementation.
+25 (a) The Board shall establish the Program so that individuals can begin contributing
+26 under the Program not later than July 1, 2027.
+27 (b) The Board shall not implement the Program if and to the extent the Board determines
+28 that the Program is preempted by ERISA. Accordingly, the Board shall implement the Program
+29 in a severable fashion to the extent practicable if and to the extent that the Board determines:
+30 (1) That a portion or aspect of the Program is preempted by ERISA, in which
+31 event the Board shall not implement that portion or aspect of the Program but
+32 shall proceed to implement the remainder of the Program to the extent
+33 practicable; or
+34 (2) That some but not all of the payroll deduction IRA arrangements or other
+35 arrangements under the Program are or would be employee benefit plans
+36 under ERISA, in which event the Board shall proceed to implement the
+37 Program with respect to the other arrangements under the Program to the
+38 extent practicable."
+39 SECTION 3. There is appropriated from the General Fund to the Department of
+40 State Treasurer the sum of four hundred thousand dollars ($400,000) in nonrecurring funds for
+41 the 2025-2026 fiscal year and the sum of six hundred thousand dollars ($600,000) in nonrecurring
+42 funds for the 2026-2027 fiscal year. The Department shall allocate the funds to the North Carolina
+43 Small Business Retirement Savings Program Board (Board) to be used for the following:
+44 (1) To enable or facilitate the start-up and continuing operation, maintenance,
+45 administration, and management of the North Carolina Small Business
+46 Retirement Savings Program (Program) until the Program accumulates
+47 sufficient balances and can generate sufficient funding through fees assessed
+48 on Program accounts for the Program to become financially self-sustaining.
+49 (2) To hire an individual to serve as the initial executive director pursuant to
+50 G.S. 147-86.7D(a)(4). The position shall be filled on a time-limited basis, and
+51 the individual filling the position shall not be considered a State employee.
+Senate Bill 110-First Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act becomes effective July 1, 2025.
+Page 12 Senate Bill 110-First Edition
+[DELETED:  1 N ( S R A A T W o i s f r a a e 1 m N C w f t W i i t p o t S t a t N C p w i i p m a l w h t v ( p W m a p l a c r s t p W P t a W f p T S 1  A 6 o C 1 o t G S i a b d P S b a " " T P s b k a t "N C R P " T]
+[DELETED:  S  S ( A F – T N C S B R S ( B B ( C w i f a A e c u t f R L A ( U b A T c A S o i ( C e – A p o e e i a b i p p e t f g t S a c a m o a p s o t S a p t c t a I p a s a p e f t r o t c y t e y ( D ( E – T E R I S A o 1 a a ( I ( ( I – A t o R i r a o i r ( P o ( P e – A c e t p f c e ( P d I a o p d I – A a b ( P R ( R a ( S u 4 4 4 4 ( E P o 4 (]
+[DELETED:  S  P ( T l e e m ( T i R ( T – T t i w t a o t P a h W a P t a f c a e r e a o " ( T N C S B R S B i e f a p a d i o t D T D s p a ( T ( T a T S T s a a m w h a f r f s k a e i r i b F 1 O m w h a f r f s k o 2 O m w h a f r f s k a e r t s b o c 3 O o 4 O T 5 O c T m a b t G A u t r f 1 O r o 2 O m w h a f r f s k a e i t i o e i r d T m a b t G A u t r o t P P T o t S a f 1 O m w i a r o a a r s i]
+[DELETED:  S  S 2 O m w h a f r f s k o ( I a t S o t H o R s e a o n ( A f b t u a O 1 2 O t i t a m b t G A u t r f O t o ( M s ( T 2 b v p " ( T f ( D d i m g a p r w r t a p d r s p f c e a t t e m c m l a f a ( E ( M ( A t ( R a n t B m a t e d a o o t o r b o t B a c a b n f t e o ( C t a I b T a s o i o i a d i]
+[DELETED:  S  P c T m s a e o a f c e d T t P a T i i i c w o f w w t a a p b l t b c o p e T a p o t P b f l ( R ( D a i a i p t d t P i p f p a p c w t i o T B d a d i t i B a o o r b w a a l o r i a I e i a i o t i c u t P t a r n a t e r ( S a c n f f c e f a a a S c ( I d t e o e o i ( A P ( C P t a f ( I a ( M a e i c p c a m o u p o o a t c a e d i a a o t P]
+[DELETED:  S  S c c a S o p a p f i d c a c a i a i a i m f o i s b R c S i ( T o u w t S a a a o t S t r o t a e a c s c s o i s a o m o s c t p t o a i a c o o s c a ( M a e i c a m o u a c c o c r i o a f w o g e i o s o t a o i t m o a e r s p c w t P i c c w c e d a a i o t P c a c ( D d i r t N C W a S P ( E d ( E i a ( B o f f s ( E i l p c w o o m f p o]
+[DELETED:  S  P ( I t d ( D t ( B a P f o d o u a s f o d o ( B a e s o o o i m u t P " T a p i ( D ( G p ( C " P T ( P a p t f v e i t P f c ( P e a a ( P i o p f a t o a a t c a a h o l c r s t t I c d l a u ( P o a u b i a w t B s d i i d m e p ( A s i s a t p a d b t B b d o o i i b a p s C ( A e c ( I i ( C c]
+[DELETED:  S  S ( A f c e t m n c i a a ( I a a r s t r s r a a ( I n ( A o a o t t p t a s r o t p ( E P P m a B r i f ( P a a n u t P f o i o ( B ( P P ( P o S l ( K n t t ( B d a i i a m c w f l i c ( E i ( P t i a c e f t t a p d c c e c c r b s f t c f a o a t b s b s t t s s a e m " T ( E I u t P i e b c e w b c e o e p d c]
+[DELETED:  S  P e a ( E I u t P i t i o f p a m ( E ( C r r o a l a T b T p a a d a w c t c T d T B r f d w a i s h m t i e T p f e c t I a t m o c f I t o g I h T p a o a s t c i t e i T e s t i o o f a s c a p a a t c e l j T t p d I a i n t b e e k T t a o a l u c p a p l T t a o i s r f i p i m g a l a t I a S m A i a r a s a o i d t p f l a c w s n H " ( A r]
+[DELETED:  S  S ( A o ( P ( T a i i r o i p o n ( T ( I a o o c w t c a o p m f ( A l f t r a g o a o a c i w l a a t c o l o f p ( N f " T b B ( S a o p o t I R C t d w i a ( S a a ( D i ( S f r a " I a i r t a u t P a r t i a p i i i c a e i c f ( T t ( T o t i e a i w t t d o t i " T t b h i t s a d f t G F I e b t A F ( M]
+[DELETED:  S  P ( M o ( M f ( A g d o g m t t S f d i t A ( E " ( T a B o O a o a ( E a o r a e p s o f s b c i p t a p " ( T t u ( T t i ( T e s p t i t r o t P t t e p ( T a u t P a o w b e b p u E i w e t B s p t i t P e S S t f S ( T a a m o t N C S B R S P ( u t P a s o ( T G t]
+[DELETED:  S  S S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 110
+Short Title: North Carolina Work and Save. (Public)
+Sponsors: Senators Hanig, Moffitt, and Adcock (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+February 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO CREATE THE SMALL BUSINESS RETIREMENT SAVINGS PROGRAM AND
+3 TO APPROPRIATE FUNDS.
+4 Whereas, the General Assembly finds that too many North Carolina citizens have no
+5 or inadequate savings for retirement, and an estimated 1.7 million North Carolina working
+6 families, including employees, independent contractors, and the self-employed, have no access
+7 to an employer-sponsored retirement plan or program or any other easy way to save at work; and
+8 Whereas, it is the policy of the State to assist the North Carolina private-sector
+9 workforce, including in particular moderate- and lower-income working households, to
+10 voluntarily save for retirement, including by facilitating saving in individual retirement accounts
+11 (IRAs) as well as by encouraging employers to adopt retirement savings and other retirement
+12 plans for employees in the State; and
+13 Whereas, more adequate, portable, low-cost, and consumer-protective retirement
+14 saving by North Carolina households will enhance their retirement security and ultimately reduce
+15 the pressure on State public assistance programs for retirees and other elderly citizens and the
+16 potential burden on North Carolina taxpayers to finance such programs; and
+17 Whereas, the General Assembly intends to establish a North Carolina Work and Save
+18 Program that will use the services of competent and qualified private-sector entities selected by
+19 the North Carolina Small Business Retirement Savings Program Board to administer the Program
+20 and manage the funds on behalf of the Program participants; and
+21 Whereas, the North Carolina 529 College Savings Program has demonstrated the
+22 feasibility of a public-private partnership that outsources investment and administration to assist
+23 private citizens of the State to save on a voluntary and cost-efficient basis; Now, therefore,
+24 The General Assembly of North Carolina enacts:
+25 SECTION 1. Article 6 of Chapter 147 of the General Statutes is amended by
+26 designating G.S. 147-65 through G.S. 147-86.6 as Part 1 with the heading "General Provisions,
+27 Powers, and Duties; Investment; and Funds."
+28 SECTION 2. Article 6 of Chapter 147 of the General Statutes is amended by adding
+29 a new Part to read:
+30 "Part 2. North Carolina Small Business Retirement Savings Program.
+31 "§ 147-86.7A. Title.
+32 This Part shall be known as the "North Carolina Small Business Retirement Savings
+33 Program" or "North Carolina Work and Save."
+34 "§ 147-86.7B. Definitions.
+35 The following definitions apply in this Part:
+*S110-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (1) Administrative Fund. – The North Carolina Small Business Retirement
+2 Savings Administrative Fund established in G.S. 147-86.7V.
+3 (2) Board. – The North Carolina Small Business Retirement Savings Program
+4 Board.
+5 (3) Covered employee. – An individual who is employed by a covered employer,
+6 who has wages or other compensation that is allocable to the State, and who
+7 is at least 18 years of age. A covered employee does not include any of the
+8 following:
+9 a. Any employee covered under the federal Railway Labor Act (45
+10 U.S.C. § 151).
+11 b. Any employee on whose behalf an employer makes contributions to a
+12 Taft-Hartley multiemployer pension trust fund.
+13 c. Any individual who is an employee of the federal government, the
+14 State or any other state, any county or municipal corporation, or any
+15 of the State's, any other state's, or the federal government's units or
+16 instrumentalities.
+17 (4) Covered employer. – A person or entity engaged in a business, industry,
+18 profession, trade, or other enterprise in the State, whether for-profit or not for
+19 profit, excluding the federal government, the State, any county, any
+20 municipality, or any political subdivision of the State, and provided that
+21 covered employer does not include an employer that maintains a specified
+22 tax-favored retirement plan for its employees or has done so effective in form
+23 and operation at any time within the current or two preceding calendar years.
+24 If an employer does not maintain a specified tax-favored retirement plan for a
+25 portion of a calendar year ending on or after the effective date of this Part and
+26 adopts such a plan effective for the remainder of that calendar year, the
+27 employer is exempt from covered employer status for that remainder of the
+28 year.
+29 (4a) Department. – The Department of State Treasurer.
+30 (5) ERISA. – The Employee Retirement Income Security Act of 1974, as
+31 amended (29 U.S.C. § 1001 et seq.).
+32 (6) Internal Revenue Code. – The Internal Revenue Code of 1986, as amended
+33 (Title 26 of the United States Code).
+34 (7) IRA. – A traditional or Roth individual retirement account or individual
+35 retirement annuity.
+36 (8) Participant. – An individual who is contributing to an IRA under the Program
+37 or has an IRA account balance under the Program.
+38 (9) Participating employer. – A covered employer that provides for covered
+39 employees a payroll deduction IRA provided for by this Part.
+40 (10) Payroll deduction IRA arrangement or payroll deduction IRA. – An
+41 arrangement by which an employer allows employees to contribute to an IRA
+42 by means of payroll deduction.
+43 (11) Program or North Carolina Work and Save Program. – The Small Business
+44 Retirement Savings Program established by this Part.
+45 (12) Roth IRA. – A Roth individual retirement account or individual retirement
+46 annuity under section 408A of the Internal Revenue Code.
+47 (13) Specified tax-favored retirement plan. – A retirement plan that is tax-qualified
+48 under or is described in and satisfies the requirements of subsection 401(a),
+49 401(k), 403(a), 403(b), 408(k) (Simplified Employee Pension), or 408(p)
+50 (SIMPLE-IRA) of the Internal Revenue Code.
+Page 2 Senate Bill 110-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (14) Total fees and expenses. – All fees, costs, and expenses, including, but not
+2 limited to, administrative expenses, investment expenses, investment advice
+3 expenses, accounting costs, actuarial costs, legal costs, marketing expenses,
+4 education expenses, trading costs, insurance annuitization costs, and other
+5 miscellaneous costs.
+6 (15) Traditional IRA. – A traditional individual retirement account or traditional
+7 individual retirement annuity under subsection 408(a) or (b) of the Internal
+8 Revenue Code.
+9 (16) Trust. – The trust in which the assets of the Program are held. Where
+10 applicable, except as may be otherwise specified, references throughout this
+11 Part to the Program generally are intended to refer also to the Trust, including
+12 the assets, facilities, costs and expenses, receipts, expenditures, activities,
+13 operations, administration, or management.
+14 "§ 147-86.7C. Establishment of Board.
+15 (a) The North Carolina Small Business Retirement Savings Board is established for
+16 administrative purposes in the Department of State Treasurer, but the Board shall exercise its
+17 powers and duties independently of the Department. The Department shall provide
+18 administrative support for the Board in carrying out its duties pursuant to this Part.
+19 (b) The Board shall consist of 12 members.
+20 (1) Ten voting members shall be appointed as follows:
+21 a. The State Treasurer shall appoint a member who has a favorable
+22 reputation for skill, knowledge, and experience in retirement
+23 investment products or retirement plan designs.
+24 b. Five members appointed by the Governor as follows:
+25 1. One member who has a favorable reputation for skill,
+26 knowledge, and experience in retirement investment products
+27 or retirement plan designs.
+28 2. One member who has a favorable reputation for skill,
+29 knowledge, and experience relating to small business or
+30 covered employers.
+31 3. One member from the Office of State Budget and Management
+32 or other designee knowledgeable about fiscal impacts.
+33 4. One member who is an employee of the Department of State
+34 Treasurer.
+35 5. One member of the public.
+36 c. Two members appointed by the General Assembly upon the
+37 recommendation of the Speaker of the House of Representatives as
+38 follows:
+39 1. One member who is a retired individual or an individual who
+40 represents persons retired to be a representative of the interests
+41 of retirees.
+42 2. One member who has a favorable reputation for skill,
+43 knowledge, and experience in the interests of employers in
+44 retirement saving.
+45 d. Two members appointed by the General Assembly upon the
+46 recommendation of the President Pro Tempore of the Senate as
+47 follows:
+48 1. One member who is a representative of an association
+49 representing employees or who has a favorable reputation for
+50 skill, knowledge, and experience in the interests of employees
+51 in retirement saving.
+Senate Bill 110-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 2. One member who has a favorable reputation for skill,
+2 knowledge, and experience in retirement investment products
+3 or retirement plan designs.
+4 (2) In addition to the 10 voting members, the President Pro Tempore of the Senate
+5 and the Speaker of the House of Representatives shall each appoint one
+6 nonvoting advisory member.
+7 (c) All initial appointments shall be made no later than October 1, 2025. Of the initial
+8 five appointments made by the Governor, two shall be appointed for four-year terms, two shall
+9 be appointed for two-year terms, and one shall be appointed for a one-year term, with all terms
+10 to begin on October 1, 2025. Of the initial two appointments made by the General Assembly
+11 upon the recommendation of the President Pro Tempore of the Senate, one shall be appointed for
+12 a four-year term and one shall be appointed for a two-year term, with both terms to begin on
+13 October 1, 2025. Of the initial two appointments made by the General Assembly upon the
+14 recommendation of the Speaker of the House of Representatives, one shall be appointed for a
+15 four-year term and one shall be appointed for a two-year term, with both terms to begin on
+16 October 1, 2025. The initial appointment by the State Treasurer shall be for a term of three years
+17 to begin on October 1, 2025. All successors shall be appointed for four-year terms. All members
+18 of the Board shall serve at the pleasure of the appointing authority.
+19 (d) Members of the Board shall serve without compensation and shall receive per diem,
+20 subsistence, and travel allowances as provided in G.S. 138-5 and G.S. 138-6 as applicable.
+21 (e) The Governor shall convene the first meeting of the Board no later than October 15,
+22 2025. A majority of the voting members of the Board constitutes a quorum. The first order of
+23 business before the Board shall be to elect a chair from among the Board's membership. A
+24 vacancy in the membership of the Board shall not impair the right of a quorum to exercise the
+25 powers and duties of the Board.
+26 "§ 147-86.7D. Powers and duties of the Board.
+27 (a) The Board shall have the following powers and duties, subject to its authority and
+28 fiduciary duty:
+29 (1) Design, develop, implement, maintain, govern, and promulgate rules with
+30 respect to a payroll deduction retirement savings program for covered
+31 employers and, to that end, may conduct market, legal, and feasibility
+32 analyses.
+33 (2) Elect a chair and other officers it deems necessary.
+34 (3) Meet as necessary to perform its duties.
+35 (4) Appoint an executive director, who shall be the chief administrative officer of
+36 the Board.
+37 (5) Retain trustees, record keepers, investment managers, investment advisors,
+38 and other administrative, professional, expert advisors and service providers,
+39 none of whom shall be members of the Board and all of whom shall serve at
+40 the pleasure of the Board, and determine their duties and compensation. The
+41 Board may authorize the executive director and other officials to oversee
+42 requests for proposals or other public competitions and enter into contracts on
+43 behalf of the Board and conduct any business necessary for the efficient
+44 operation of the Board.
+45 (6) Cause the Program, Trust, and arrangements and accounts established under
+46 the Program to be designed, established, and operated:
+47 a. In accordance with best practices for retirement saving vehicles.
+48 b. To encourage participation, saving, sound investment practices, and
+49 appropriate selection of investment options, including any default
+50 investments.
+Page 4 Senate Bill 110-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 c. To maximize simplicity and ease of administration for covered
+2 employers.
+3 d. To arrange for collective, common, and pooled investment of assets of
+4 the Program and Trust, including investments in conjunction with
+5 other funds with which these assets are permitted by law to be
+6 collectively invested, with a view to achieving economies of scale and
+7 other efficiencies designed to minimize costs for the Program and its
+8 participants, to promote portability of benefits.
+9 e. To avoid preemption of the Program by federal law (Employee
+10 Retirement Income Security Act of 1974, 29 U.S.C. § 1001 et seq.).
+11 (7) Develop and implement an investment policy that defines the Program's
+12 investment objectives, consistent with the objectives of the Program, and that
+13 provides for policies and procedures consistent with those investment
+14 objectives. The Board shall designate appropriate default investments that
+15 include a mix of asset classes, such as target date and balanced funds. The
+16 Board shall seek to minimize participant fees and expenses of investment and
+17 administration. The Board shall strive to design and implement investment
+18 options available to holders of accounts established as part of the Program and
+19 other Program features that are intended to achieve maximum possible income
+20 replacement balanced with an appropriate level of risk in an IRA-based
+21 environment consistent with the investment objectives under the policy. The
+22 investment options may encompass a range of risk and return opportunities
+23 and allow for a rate of return commensurate with an appropriate level of risk
+24 in view of the investment objectives under the policy. The menu of investment
+25 options shall be determined taking into account the nature and objectives of
+26 the Program, the desirability based on behavioral research findings of limiting
+27 investment choices under the Program to a reasonable number, and the
+28 extensive investment choices available to participants in the event that they
+29 roll over to an IRA outside the Program.
+30 (8) Set and collect necessary fees from covered employees for application,
+31 account, or administrative processing and accept any grants, gifts, legislative
+32 appropriations, loans, and other moneys from the State, any unit of federal,
+33 State, or local government, or any other person, firm, or entity to defray the
+34 costs of administering and operating the Program.
+35 (9) If necessary, determine the eligibility of an employer, employee, or other
+36 individual to participate in the Program.
+37 (10) Adopt rules it deems necessary or advisable for the implementation of this
+38 Part and the administration and operation of the Program.
+39 (11) Cause expenses incurred to initiate, implement, maintain, and administer the
+40 Program to be paid from contributions to, or investment returns or assets of,
+41 the Program or other money collected by or for the Program or pursuant to
+42 arrangements established under the Program to the extent permitted under
+43 federal and State law.
+44 (12) Invest and reinvest its funds in the Administrative Fund in accordance with
+45 applicable State and federal laws.
+46 (13) Make and enter into competitively procured contracts, agreements,
+47 memoranda of understanding, partnerships, or other arrangements, to
+48 collaborate and cooperate with, and to retain, employ, and contract with or for
+49 any of the following to the extent necessary or desirable, for the effective and
+50 efficient design, implementation, and administration of the Program
+Senate Bill 110-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 consistent with the purposes set forth in this Part and to maximize outreach to
+2 covered employers and covered employees:
+3 a. Services of private and public financial institutions, depositories,
+4 consultants, actuaries, counsel, auditors, investment advisors,
+5 investment administrators, investment management firms, other
+6 investment firms, third-party administrators, other professionals and
+7 service providers, and State public retirement systems.
+8 b. Research, technical, financial, administrative, and other services.
+9 c. Services of other State agencies to assist the Board in the exercise of
+10 its powers and duties.
+11 (14) The Board may enter into an intergovernmental agreement or memorandum
+12 of understanding with the State and any agency of the State to receive
+13 outreach, technical assistance, enforcement and compliance services,
+14 collection or dissemination of information pertinent to the Program subject to
+15 such obligations of confidentiality as may be agreed to or required by law, or
+16 other services or assistance. The State and any agencies of the State that enter
+17 into such agreements or memoranda of understanding shall collaborate to
+18 provide the outreach, assistance, information, and compliance or other
+19 services or assistance to the Board. The memoranda of understanding may
+20 cover the sharing of costs incurred in gathering and disseminating information
+21 and the reimbursement of costs for any enforcement activities or assistance.
+22 (15) Make and enter into contracts, agreements, memoranda of understanding,
+23 arrangements, partnerships, or other arrangements to collaborate, cooperate,
+24 coordinate, contract, or combine resources, investments, or administrative
+25 functions with other governmental entities, including other states or their
+26 agencies or instrumentalities that maintain or are establishing retirement
+27 savings programs compatible with the Program, including collective,
+28 common, or pooled investments with other funds of other states' programs
+29 with which the assets of the Program and Trust are permitted by law to be
+30 collectively invested, to the extent necessary or desirable for the effective and
+31 efficient design, administration, and implementation of the Program
+32 consistent with the purposes set forth in this Part, including the purpose of
+33 achieving economies of scale and other efficiencies designed to minimize
+34 costs for the Program.
+35 (16) Develop and implement an education and outreach plan to gain input and
+36 disseminate information regarding the North Carolina Work and Save
+37 Program and retirement savings and financial literacy in general.
+38 (17) Establish procedures for the timely and fair resolution of participant and other
+39 disputes related to accounts or Program operation.
+40 (18) Evaluate the need for, and procure if and as deemed necessary, pooled private
+41 insurance against any and all loss in connection with the property, assets, or
+42 activities of the Program.
+43 (19) Borrow from the State, any unit of federal, State, or local government, or any
+44 other person, firm, partnership, corporation, or other entity working capital
+45 funds and other funds as may be necessary for this purpose, provided that such
+46 funds are borrowed in the name of the Program and Board only and that any
+47 such borrowings shall be payable solely from the revenues of the Program.
+48 (20) Enter into long-term procurement contracts with one or more financial
+49 providers that provide a fee structure that would assist the Program in avoiding
+50 or minimizing the need to borrow or to rely upon general assets of the State.
+Page 6 Senate Bill 110-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) In addition to the applicable prohibitions contained in Article 4 of Chapter 138A of
+2 the General Statutes, a Board member, executive director, and other staff of the Board shall not
+3 do any of the following:
+4 (1) Directly or indirectly have any interest in the making of any investment under
+5 the Program or in gains or profits accruing from any such investment.
+6 (2) Borrow any Program-related funds or deposits or use any such funds or
+7 deposits in any manner, for himself or herself or as an agent or partner of
+8 others.
+9 (3) Become an endorser, surety, or obligor on investments made under the
+10 Program.
+11 "§ 147-86.7G. Standard of conduct; fiduciary duty.
+12 The Board, individual members of the Board, all persons serving as staff to the Program, and
+13 any other agents appointed or engaged shall discharge their duties for the exclusive purpose of
+14 providing benefits to the Program participants and administering the Program with discharge of
+15 its duties and shall:
+16 (1) Defray reasonable expenses in the administration of the Program.
+17 (2) Govern Program investors with the care, skill, prudence, and diligence as a
+18 prudent person acting in a like capacity would.
+19 (3) Comply with all State ethics laws and regulations.
+20 "§ 147-86.7J. Requirements for the North Carolina Small Business Retirement Savings
+21 Program.
+22 The Program developed and established by the Board shall:
+23 (1) Provide a process to facilitate voluntary enrollment into the Program for
+24 covered employers, covered employees, and self-employed persons.
+25 (2) Provide that the IRA to which contributions are made will be a Roth IRA,
+26 except that the Board shall have the authority at any time to add an option for
+27 all participants to affirmatively elect to contribute to a traditional IRA as an
+28 alternative to the Roth IRA.
+29 (3) Provide that the standard package shall be a Roth IRA with a target date fund
+30 investment, and a contribution rate that begins at five percent (5%) of salary
+31 or wages; provided, however, that the covered employee can choose to stop
+32 participation altogether, to use a traditional IRA and a different investment
+33 from among the options available, and to contribute at a higher or lower
+34 contribution rate, subject to the IRA contribution dollar limits applicable
+35 under the Internal Revenue Code.
+36 (4) Provide on a uniform basis, if and when the Board so determines, in its
+37 discretion, for annual increases of each participant's contribution rate, by not
+38 more than one percent (1%) of salary or wages per year up to a maximum of
+39 eight percent (8%). Any such increases shall apply to participants, as
+40 determined by the Board, by default or only if initiated by affirmative
+41 participant election included as part of the standard package, in either case
+42 subject to the IRA contribution limits applicable under the Internal Revenue
+43 Code.
+44 (5) Allow a covered employer to withhold payroll deductions from a covered
+45 employee's paycheck for the express purpose of making a covered employee
+46 contribution to the Program funds.
+47 (6) Include a process for direct deposit of contributions into covered employee
+48 investments in the Program.
+49 (7) Covered employers are not allowed to make employer contributions to the
+50 covered employee's accounts.
+Senate Bill 110-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (8) Allow for covered employees to make non-payroll contributions into an
+2 account in addition to the covered employer payroll deducted amounts.
+3 (9) Include an account reporting system that requires separate records and
+4 accounting for each covered employer and covered employee enrolled.
+5 (10) Include an account status notification process for covered employees to be
+6 notified about and track their investments pursuant to this Part.
+7 (11) Allow portability of benefits, including the ability to make tax-free rollovers
+8 or transfers from accounts under the Program to other non-Program retirement
+9 accounts or to tax-qualified plans that accept such rollovers or transfers
+10 provided any rollover is initiated by the employee.
+11 (12) Establish rules and procedures governing the distribution of funds from the
+12 Program, including such distributions as may be permitted or required by the
+13 Program and any applicable provisions of tax laws, with the objectives of
+14 maximizing financial security in retirement, helping to protect spousal rights,
+15 and assisting participants with the challenges of decumulation of savings. The
+16 Board shall have the authority, in its discretion, to provide for one or more
+17 reasonably priced distribution options to provide a source of fixed retirement
+18 income, including income for life or for the participant's life expectancy (or
+19 for joint lives and life expectancies, as applicable).
+20 (13) Pool accounts as necessary under the Program for optimum investment
+21 opportunity and return on investment outcomes.
+22 (14) Be professionally managed.
+23 (15) Provide a report on the status of each Program participant's account to each
+24 Program participant at least annually.
+25 (16) Provide that each Program participant owns the contributions to and earnings
+26 on amounts contributed to the participant's account under this Part and that the
+27 State, the Board, and covered employers have no proprietary interest, whether
+28 legal or equitable, in those contributions or earnings.
+29 (17) Keep total fees and expenses as low as practicable and in any event each year
+30 not in excess of 100 basis points of the total assets of the Program, except that
+31 this limit shall not apply during a start-up period of three years beginning with
+32 the initial implementation of the Program.
+33 (18) Be designed and implemented in a manner consistent with federal law,
+34 including favorable federal tax treatment, to the extent that it applies and is
+35 consistent with the Program not being preempted by ERISA.
+36 (19) Ensure that the North Carolina Small Business Retirement Savings Program
+37 is designed to be financially self-sustaining over time.
+38 (20) Provide that, if a covered employer fails to transmit a payroll deduction
+39 contribution to the Program on the earliest date the amount withheld from the
+40 covered employee's compensation can reasonably be segregated from the
+41 covered employer's assets, but not later than the fifteenth day of the month
+42 following the month in which the covered employee's contribution amounts
+43 are withheld from his or her paycheck, the failure to remit such contributions
+44 on a timely basis shall be subject to the same sanctions as employer
+45 misappropriation of employee wage withholdings and to penalties.
+46 "§ 147-86.7M. Rules for the North Carolina Work and Save Program.
+47 The Board shall adopt rules to implement the Program that:
+48 (1) Establish the processes for enrollment and contributions to Payroll Deduction
+49 IRAs under the Program, including elections by covered employees,
+50 withholding by covered employers of employee payroll deduction
+51 contributions from wages and remittance for deposit to IRAs, and voluntary
+Page 8 Senate Bill 110-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 enrollment and contributions by others, including self-employed individuals
+2 and independent contractors, through payroll deduction or otherwise.
+3 (2) Establish the processes for withdrawals, rollovers, and direct transfers from
+4 IRAs under the Program in the interest of facilitating portability and
+5 maximization of benefits.
+6 (3) Establish processes for phasing in enrollment of eligible individuals.
+7 (4) Conduct outreach to individuals, employers, other stakeholders, and the public
+8 regarding the Program. Specify the contents, frequency, timing, and means of
+9 required disclosures from the Program to covered employees, participants,
+10 other individuals eligible to participate in the Program, covered employers,
+11 and other interested parties. These disclosures shall include, but need not be
+12 limited to:
+13 a. The benefits associated with tax-favored retirement saving.
+14 b. The potential advantages and disadvantages associated with
+15 contributing to Roth IRAs and, if applicable, traditional IRAs under
+16 the Program.
+17 c. The eligibility rules for Roth IRAs and, if applicable, traditional IRAs.
+18 d. That the individual and not the employer, the State, the Board, any
+19 Board member or other State official, or the Program will be solely
+20 responsible for determining whether and, if so, how much the
+21 individual is eligible to contribute on a tax-favored basis to an IRA.
+22 e. The penalty for excess contributions to IRAs and the method of
+23 correcting excess contributions.
+24 f. Instructions for enrolling, making elections to contribute or to decline
+25 to contribute, and making elections regarding contribution rates, type
+26 of IRA, and investments.
+27 g. Instructions for implementing and for changing the elections.
+28 h. The potential availability of a saver's tax credit, including the
+29 eligibility conditions for the credit and instructions on how to claim it.
+30 i. That employees seeking tax, investment, or other financial advice
+31 should contact appropriate professional advisors, and that covered
+32 employers are not in a position to provide such advice and are not
+33 liable for decisions individuals make in relation to the Program.
+34 j. That the payroll deduction IRAs are intended not to be
+35 employer-sponsored retirement plans and that the Program is not an
+36 employer-sponsored retirement plan.
+37 k. The potential implications of account balances under the Program for
+38 the application of asset limits under certain public assistance
+39 programs.
+40 l. That the account owner is solely responsible for investment
+41 performance, including market gains and losses, and that IRA
+42 accounts and rates of return are not guaranteed by any employer, the
+43 State, the Board, any Board member or State official, or the Program.
+44 m. Additional information about retirement and saving and other
+45 information designed to promote financial literacy and capability
+46 which may take the form of links to, or explanations of how to obtain,
+47 such information.
+48 n. How to obtain additional information about the Program.
+49 "§ 147-86.7P. Protection from liability for covered employers.
+50 (a) A covered employer or other employer is not and shall not be liable for or bear
+51 responsibility for any of the following:
+Senate Bill 110-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (1) An employee's decision to participate in or not to participate in the Program
+2 or a participant's specific elections under the Program.
+3 (2) Participants' or the Board's investment decisions.
+4 (3) The administration, investment, investment returns, or investment
+5 performance of the Program, including, without limitation, any interest rate or
+6 other rate of return on any contribution or account balance, provided they play
+7 no role.
+8 (4) The Program design or the benefits paid to participants.
+9 (5) Individuals' awareness of or compliance with the conditions and other
+10 provisions of the tax laws that determine which individuals are eligible to
+11 make tax-favored contributions to IRAs, in what amount, and in what time
+12 frame and manner.
+13 (6) Any loss, failure to realize any gain, or any other adverse consequences,
+14 including, without limitation, any adverse tax consequences or loss of
+15 favorable tax treatment, public assistance, or other benefits, incurred by any
+16 person as a result of participating in the Program.
+17 (b) No covered employer or other employer shall be, or shall be considered to be, a
+18 fiduciary in relation to the Program or Trust or any other arrangement under the Program.
+19 "§ 147-86.7R. Protection from liability for the State.
+20 The State has no duty or liability to any party for the payment of any retirement savings
+21 benefits accrued by any individual under the Program. The State, the Board, each member of the
+22 Board, and the Program:
+23 (1) Shall have no responsibility for compliance by individuals with the conditions
+24 and other provisions of the Internal Revenue Code that determine which
+25 individuals are eligible to make tax-favored contributions to IRAs, in what
+26 amount, and in what time frame and manner.
+27 (2) Shall have no duty, responsibility, or liability to any party for the payment of
+28 any benefits under the Program, regardless of whether sufficient funds are
+29 available under the Program to pay such benefits.
+30 (3) Do not and shall not guarantee any interest rate or other rate of return on or
+31 investment performance of any contribution or account balance.
+32 (4) Shall have no liability or responsibility for any loss, deficiency, failure to
+33 realize any gain, or any other adverse consequences incurred by any person as
+34 a result of participating in the Program.
+35 "§ 147-86.7T. Confidentiality of participant and account information.
+36 Individual account information relating to accounts under the Program and relating to
+37 individual participants, including, but not limited to, names, addresses, telephone numbers, email
+38 addresses, personal identification information, investments, contributions, and earnings, is
+39 confidential, is not a public record as defined in G.S. 132-1, and may not be disclosed except as
+40 follows:
+41 (1) To the extent necessary to administer the Program in a manner consistent with
+42 this Part, the tax laws of this State, and the Internal Revenue Code; or
+43 (2) To the extent that the individual who provides the information or is the subject
+44 of the information expressly agrees in writing to the disclosure of the
+45 information.
+46 "§ 147-86.7V. Funding of Program.
+47 The North Carolina Small Business Retirement Savings Administrative Fund is established,
+48 to be held in trust separate and distinct from the General Fund. Interest earned by the
+49 Administrative Fund shall be credited to the Administrative Fund. Moneys in the Administrative
+50 Fund are continuously appropriated to the Board. The Administrative Fund consists of:
+51 (1) Moneys appropriated to the Administrative Fund by the General Assembly.
+Page 10 Senate Bill 110-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) Moneys transferred to the Administrative Fund from the federal government,
+2 other State agencies, or local governments.
+3 (3) Moneys from the payment of application, account, administrative, or other
+4 fees and the payment of other moneys due the Board.
+5 (4) Any gifts, donations, or grants made to the State for deposit in the
+6 Administrative Fund.
+7 (5) Earnings on moneys in the Administrative Fund.
+8 "§ 147-86.7X. Annual report.
+9 (a) The Board shall cause an accurate account of all of the Program's, Trust's, and Board's
+10 activities, operations, receipts, and expenditures to be maintained. By October 1 of each year, the
+11 Board shall submit to the Governor and the Joint Legislative Commission on Governmental
+12 Operations a report detailing the activities, operations, receipts, and expenditures of the Program
+13 and Board during the preceding calendar year. The report shall also include projected activities
+14 of the Program for the current calendar year and any necessary statutory recommendations and
+15 appropriations.
+16 (b) Each year, a full audit of the books and accounts of the Board pertaining to those
+17 activities, operations, receipts and expenditures, personnel, services, or facilities shall be
+18 conducted by a certified public accountant and shall include, but not be limited to, direct and
+19 indirect costs attributable to the use of outside consultants, independent contractors, and any other
+20 persons who are not State employees for the administration of the Program. For the purposes of
+21 the audit, the auditors shall have access to the properties and records of the Program and Board
+22 and may prescribe methods of accounting and the rendering of periodic reports in relation to
+23 projects undertaken by the Program.
+24 "§ 147-86.7Z. Implementation.
+25 (a) The Board shall establish the Program so that individuals can begin contributing
+26 under the Program not later than July 1, 2027.
+27 (b) The Board shall not implement the Program if and to the extent the Board determines
+28 that the Program is preempted by ERISA. Accordingly, the Board shall implement the Program
+29 in a severable fashion to the extent practicable if and to the extent that the Board determines:
+30 (1) That a portion or aspect of the Program is preempted by ERISA, in which
+31 event the Board shall not implement that portion or aspect of the Program but
+32 shall proceed to implement the remainder of the Program to the extent
+33 practicable; or
+34 (2) That some but not all of the payroll deduction IRA arrangements or other
+35 arrangements under the Program are or would be employee benefit plans
+36 under ERISA, in which event the Board shall proceed to implement the
+37 Program with respect to the other arrangements under the Program to the
+38 extent practicable."
+39 SECTION 3. There is appropriated from the General Fund to the Department of
+40 State Treasurer the sum of four hundred thousand dollars ($400,000) in nonrecurring funds for
+41 the 2025-2026 fiscal year and the sum of six hundred thousand dollars ($600,000) in nonrecurring
+42 funds for the 2026-2027 fiscal year. The Department shall allocate the funds to the North Carolina
+43 Small Business Retirement Savings Program Board (Board) to be used for the following:
+44 (1) To enable or facilitate the start-up and continuing operation, maintenance,
+45 administration, and management of the North Carolina Small Business
+46 Retirement Savings Program (Program) until the Program accumulates
+47 sufficient balances and can generate sufficient funding through fees assessed
+48 on Program accounts for the Program to become financially self-sustaining.
+49 (2) To hire an individual to serve as the initial executive director pursuant to
+50 G.S. 147-86.7D(a)(4). The position shall be filled on a time-limited basis, and
+51 the individual filling the position shall not be considered a State employee.
+Senate Bill 110-First Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act becomes effective July 1, 2025.
+Page 12 Senate Bill 110-First Edition
+
+[DELETED:  1 N ( S R A A T W o i s f r a a e 1 m N C w f t W i i t p o t S t a t N C p w i i p m a l w h t v ( p W m a p l a c r s t p W P t a W f p T S 1  A 6 o C 1 o t G S i a b d P S b a " " T P s b k a t "N C R P " T]
+[DELETED:  S  S ( A F – T N C S B R S ( B B ( C w i f a A e c u t f R L A ( U b A T c A S o i ( C e – A p o e e i a b i p p e t f g t S a c a m o a p s o t S a p t c t a I p a s a p e f t r o t c y t e y ( D ( E – T E R I S A o 1 a a ( I ( ( I – A t o R i r a o i r ( P o ( P e – A c e t p f c e ( P d I a o p d I – A a b ( P R ( R a ( S u 4 4 4 4 ( E P o 4 (]
+[DELETED:  S  P ( T l e e m ( T i R ( T – T t i w t a o t P a h W a P t a f c a e r e a o " ( T N C S B R S B i e f a p a d i o t D T D s p a ( T ( T a T S T s a a m w h a f r f s k a e i r i b F 1 O m w h a f r f s k o 2 O m w h a f r f s k a e r t s b o c 3 O o 4 O T 5 O c T m a b t G A u t r f 1 O r o 2 O m w h a f r f s k a e i t i o e i r d T m a b t G A u t r o t P P T o t S a f 1 O m w i a r o a a r s i]
+[DELETED:  S  S 2 O m w h a f r f s k o ( I a t S o t H o R s e a o n ( A f b t u a O 1 2 O t i t a m b t G A u t r f O t o ( M s ( T 2 b v p " ( T f ( D d i m g a p r w r t a p d r s p f c e a t t e m c m l a f a ( E ( M ( A t ( R a n t B m a t e d a o o t o r b o t B a c a b n f t e o ( C t a I b T a s o i o i a d i]
+[DELETED:  S  P c T m s a e o a f c e d T t P a T i i i c w o f w w t a a p b l t b c o p e T a p o t P b f l ( R ( D a i a i p t d t P i p f p a p c w t i o T B d a d i t i B a o o r b w a a l o r i a I e i a i o t i c u t P t a r n a t e r ( S a c n f f c e f a a a S c ( I d t e o e o i ( A P ( C P t a f ( I a ( M a e i c p c a m o u p o o a t c a e d i a a o t P]
+[DELETED:  S  S c c a S o p a p f i d c a c a i a i a i m f o i s b R c S i ( T o u w t S a a a o t S t r o t a e a c s c s o i s a o m o s c t p t o a i a c o o s c a ( M a e i c a m o u a c c o c r i o a f w o g e i o s o t a o i t m o a e r s p c w t P i c c w c e d a a i o t P c a c ( D d i r t N C W a S P ( E d ( E i a ( B o f f s ( E i l p c w o o m f p o]
+[DELETED:  S  P ( I t d ( D t ( B a P f o d o u a s f o d o ( B a e s o o o i m u t P " T a p i ( D ( G p ( C " P T ( P a p t f v e i t P f c ( P e a a ( P i o p f a t o a a t c a a h o l c r s t t I c d l a u ( P o a u b i a w t B s d i i d m e p ( A s i s a t p a d b t B b d o o i i b a p s C ( A e c ( I i ( C c]
+[DELETED:  S  S ( A f c e t m n c i a a ( I a a r s t r s r a a ( I n ( A o a o t t p t a s r o t p ( E P P m a B r i f ( P a a n u t P f o i o ( B ( P P ( P o S l ( K n t t ( B d a i i a m c w f l i c ( E i ( P t i a c e f t t a p d c c e c c r b s f t c f a o a t b s b s t t s s a e m " T ( E I u t P i e b c e w b c e o e p d c]
+[DELETED:  S  P e a ( E I u t P i t i o f p a m ( E ( C r r o a l a T b T p a a d a w c t c T d T B r f d w a i s h m t i e T p f e c t I a t m o c f I t o g I h T p a o a s t c i t e i T e s t i o o f a s c a p a a t c e l j T t p d I a i n t b e e k T t a o a l u c p a p l T t a o i s r f i p i m g a l a t I a S m A i a r a s a o i d t p f l a c w s n H " ( A r]
+[DELETED:  S  S ( A o ( P ( T a i i r o i p o n ( T ( I a o o c w t c a o p m f ( A l f t r a g o a o a c i w l a a t c o l o f p ( N f " T b B ( S a o p o t I R C t d w i a ( S a a ( D i ( S f r a " I a i r t a u t P a r t i a p i i i c a e i c f ( T t ( T o t i e a i w t t d o t i " T t b h i t s a d f t G F I e b t A F ( M]
+[DELETED:  S  P ( M o ( M f ( A g d o g m t t S f d i t A ( E " ( T a B o O a o a ( E a o r a e p s o f s b c i p t a p " ( T t u ( T t i ( T e s p t i t r o t P t t e p ( T a u t P a o w b e b p u E i w e t B s p t i t P e S S t f S ( T a a m o t N C S B R S P ( u t P a s o ( T G t]
+[DELETED:  S  S S]

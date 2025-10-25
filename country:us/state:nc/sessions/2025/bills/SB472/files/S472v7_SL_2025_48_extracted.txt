@@ -1,0 +1,638 @@
+Title: SENATE BILL 472
+Official Title: SENATE BILL 472
+Number of Sections: 10
+Source: versions - SL 2025-48
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2025-48
+AN ACT TO MAKE VARIOUS CHANGES TO THE PROCESS FOR 401 WATER QUALITY
+CERTIFICATIONS ISSUED BY THE DEPARTMENT OF ENVIRONMENTAL
+QUALITY, TO REFORM PERMITTING RELATED TO UPLAND BASIN MARINAS,
+AND TO CLARIFY THAT CERTAIN MAN-MADE DITCHES ARE NOT COVERED
+UNDER THE COASTAL AREA MANAGEMENT ACT.
+The General Assembly of North Carolina enacts:
+
+Section 2:
+SECTION 1.(a) G.S. 143-214.1A reads as rewritten:
+"§ 143-214.1A. Water quality certification requirements for certain projects.
+(a) The following requirements shall govern applications for certification filed with the
+Department pursuant to section 401 of the Clean Water Act, 33 U.S.C. § 1341(a)(1), for (i)
+maintenance dredging projects partially funded by the Shallow Draft Navigation Channel
+Dredging and Aquatic Weed Fund and Fund, (ii) projects involving the distribution or
+transmission of energy or fuel, including natural gas, diesel, petroleum, or electricity:electricity,
+and (iii) projects involving construction of an upland basin marina, as defined in
+G.S. 113A-129.11:
+…
+(c) For projects that are eligible for a Nationwide Permit or Regional General Permit
+issued by the United States Army Corps of Engineers, which are not subject to subsection (a) of
+this section, and are required or elect to be covered under an Individual Water Quality
+Certification, the Department shall perform a review of an application pursuant to all of the
+following requirements:
+(1) On receipt of such application, the Department shall notify the applicant of
+any required fee within five business days. If the Department does not send
+the applicant a fee request within five business days of receipt of an
+application, the fee is waived. The Department's review period shall begin on
+the date the application fee is paid or on the sixth business day from receipt
+when the application fee has been waived pursuant to this subdivision. For
+application fees that are paid via interagency batch payment, the review period
+shall start on receipt of the application by the Division of Water Resources.
+The Department shall additionally post any public notice required under the
+federal Clean Water Act within five business days of receipt of an application.
+(2) Within 30 business days of the beginning of the review period, the Department
+shall (i) determine whether or not the application is complete and notify the
+applicant accordingly and, (ii) if the Department determines an application is
+incomplete, specify all such deficiencies in a notice to the applicant. The
+applicant may file an amended application or supplemental information to
+cure the deficiencies identified by the Department for the Department's
+review. Review of amended applications or supplemental information
+responses provided by the applicant shall occur within 20 business days of
+receipt. An application may be deemed incomplete only if it does not provide
+*S472-v-7*
+sufficient information necessary for the Department to determine if the
+proposed discharges into navigable waters will comply with State water
+quality requirements. If the Department fails to issue a notice that the
+application is incomplete within the requisite initial 30-day period, or the
+supplemental 20-day review period, the application shall be deemed complete.
+As used in this section, "State water quality requirements" means water quality
+standards approved by the United States Environmental Protection Agency
+pursuant to 33 U.S.C. § 1313(c)(3).
+(3) If the Department determines that a public hearing is necessary pursuant to
+applicable requirements, the Department shall notify the applicant within the
+review period outlined in subdivision (2) of this subsection. If the hearing
+officer determines that additional information is required from the applicant
+at the conclusion of the public hearing comment period, the Department shall
+notify the applicant within 15 business days of the conclusion of the comment
+period and the supplemental information shall be subject to the review time
+lines laid out in subdivision (2) of this subsection.
+(4) The Department shall either approve or deny an application within (i) 10
+business days of the date the application is deemed complete if no public
+hearing is held or (ii) 15 business days of the close of the record if a public
+hearing is held and no additional information is required. Failure of the
+Department to approve or deny the application within the requisite time
+period, as applicable, shall result in a waiver of the certification requirement
+by the State, unless the applicant agrees, in writing, to an extension of time,
+which shall not exceed one year from the State's receipt of the application for
+certification.
+(5) The Department shall issue a certification, with or without conditions or
+limitations, upon determining that the proposed discharges into navigable
+waters subject to the federal Clean Water Act will comply with State water
+quality requirements. The Department may include as conditions or
+limitations in a certification any effluent limitations or other limitations
+necessary to assure the proposed discharges into navigable waters subject to
+the federal Clean Water Act will comply with State water quality
+requirements. The Department shall not impose any other conditions or
+limitations in a certification.
+(6) The Department shall deny a certification application only if it determines that
+no reasonable conditions or limitations would provide assurance that the
+proposed discharges into navigable waters subject to the federal Clean Water
+Act will comply with State water quality requirements. The denial shall
+include a statement explaining why the Department determined the proposed
+discharges into navigable waters subject to the federal Clean Water Act will
+not comply with the State water quality requirements.
+(7) The Department may grant, deny, or waive certification but shall not require
+an applicant to withdraw an application.
+(d) On receipt of any application for certification filed with the Department pursuant to
+
+Section 3:
+section 401 of the Clean Water Act, 33 U.S.C. § 1341(a)(1), the Department shall notify the
+applicant of any required fee within five business days. If the Department does not send the
+applicant a fee request within five business days of receipt of an application, the fee is waived."
+
+Section 4:
+SECTION 1.(b) This section becomes effective October 1, 2025, and applies to
+applications for section 401 certification pending or submitted on or after that date.
+
+Section 5:
+SECTION 2. Article 7 of Chapter 113A of the General Statutes is amended by
+adding a new Part to read:
+Page 2 Session Law 2025-48 Senate Bill 472
+"Part 5A. Upland Basin Marinas.
+"§ 113A-129.10. Legislative findings; broad construction.
+(a) The General Assembly finds that development of properly sited and planned upland
+basin marinas to accommodate vessels promotes the public welfare for a number of reasons,
+including all of the following:
+(1) Increasing riparian property owner access to the State's public trust waters.
+(2) Expanding the total area of the State's public trust waters.
+(3) Reducing and confining potential storm debris.
+(4) Reducing the need for additional onshore impervious surfaces associated with
+parking.
+(5) Promoting the use of innovative technologies.
+(6) Promoting the collection of site-specific data designed to assure compliance
+with applicable water quality standards.
+(7) Maintaining or improving overall water quality when sited, designed,
+constructed, and operated in conformance with the provisions of this Part.
+(b) Accordingly, it is the intent of the General Assembly that this Part be broadly
+construed to further the general purposes stated in this Part.
+"§ 113A-129.11. Definitions.
+As used in this Part, the following definitions apply:
+(1) AEC or Area of Environmental Concern. – An area designated by the Coastal
+Resources Commission pursuant to G.S. 113A-113.
+(2) Boat slip. – Any structure adjoining, attached to, or part of a pier which has
+the capacity to store one boat.
+(3) Upland basin marina. – A marina constructed by excavating or dredging lands
+of elevations above the current mean or ordinary high-water mark and
+designed to accommodate more than 10 vessels or boat slips. Upland basin
+marinas shall be considered a water-dependent use for purposes of general use
+standards adopted by the Coastal Resources Commission.
+"§ 113A-129.12. Upland basin marina permitting and development.
+(a) Unless the Director of the Division of Water Resources or the Director of the Division
+of Coastal Management makes a finding, based on site-specific technical information, that the
+applicant cannot comply with one or more of the criteria listed in subsection (b) of this section,
+the Division of Water Resources and the Division of Coastal Management shall approve an
+application for the development of an upland basin marina project, within 60 days after the
+applicant submits a completed application or supplemental information requested by the
+Department to demonstrate compliance with all of the criteria set forth in subsection (b) of this
+
+Section 6:
+section. The Department may make one written request for any supplemental information
+necessary to make its finding within 30 days after the applicant submits a complete application,
+and the permit may be conditioned upon measures that are necessary to ensure that the applicant
+complies with all of the criteria set forth in subsection (b) of this section. When the Department
+requests supplemental information, the 60-day review period restarts upon receipt of the
+supplemental information requested by the Department. If the Department fails to act on an
+application for the development of an upland basin marina project within the 60-day review period,
+the application shall be deemed approved.
+(b) The criteria with which an upland basin marina shall comply to qualify for permitting
+pursuant to subsection (a) of this section are all of the following:
+(1) The upland basin marina is designed to accommodate 10 or more vessels,
+including individual homeowner boat slips, boat lifts, or dry stack storage.
+(2) The waters contained in the upland basin marina have a dissolved oxygen
+content equal to or greater than the dissolved oxygen content of the water
+located 50 feet plus or minus 5 feet from the entrance to the upland basin
+Senate Bill 472 Session Law 2025-48 Page 3
+marina before development. As part of the application, an applicant shall
+provide to the Division of Water Resources and the Division of Coastal
+Management site-specific sampling data documenting pre-project dissolved
+oxygen levels of the water located 50 feet plus or minus 5 feet from each
+proposed entrance to the proposed upland basin marina. Waters located within
+the upland basin marina shall be classified the same as the waters in the
+immediate vicinity of any entrance to the upland basin marina.
+(3) The project has a bond or set-aside funds for the long-term operation and
+maintenance of any technology required to meet or exceed then-applicable
+water quality standards. The applicant shall provide an estimate of annual
+operation and maintenance costs, and the bond or set-aside funds shall be equal
+to five years of the estimated annual operation and maintenance costs.
+(4) Construction of the upland basin marina impacts or removes a total area of
+coastal wetlands that is no more than five percent (5%) of the total area of the
+proposed upland basin marina waters.
+(5) Construction of the upland basin marina impacts or removes a total linear
+footage of coastal wetlands fringe that is no more than ten percent (10%) of
+the total linear footage of existing coastal wetlands along the shoreline of the
+property or properties of the permit applicant.
+(6) The proposed upland basin marina project complies with specific use
+standards adopted by the Coastal Resources Commission for navigation
+channels, canals, and boat basins. An upland basin marina project shall not be
+considered a "finger canal" or "finger canal system" if the project does not
+contain right angle corners.
+(7) The upland basin marina has a 30-foot vegetated buffer or buffers along the
+post-project shoreline, excluding any newly created inside shorelines, if
+required by the Department.
+(8) The proposed upland basin marina project complies with specific use
+standards adopted by the Coastal Resources Commission for marinas, except
+that a stormwater management system may be located within the 30-foot
+buffer area described in subdivision (7) of this subsection.
+(9) The project includes mitigation or has mitigation credits for wetland impacts
+caused by excavation or construction of entrances, exits, and upland vessel
+accommodation areas, where such entrances, exits, and upland vessel
+accommodation areas exceed 125 linear feet of shoreline in total.
+(10) The upland basin marina is sited and designed to avoid significant adverse
+impacts to the productivity and biologic integrity of coastal wetlands, shellfish
+beds, submerged aquatic vegetation, water quality, and spawning and primary
+nursery areas. Compliance with subdivisions (1) through (10) of this
+subsection shall create a presumption that the project has avoided significant
+adverse impacts to the productivity and biologic integrity of coastal wetlands,
+non-coastal wetlands, shellfish beds, submerged aquatic vegetation, water
+quality, spawning areas, and primary nursery areas and to have complied with
+State water quality antidegradation requirements. Compliance constitutes
+appropriate avoidance of significant adverse environmental impacts,
+including those identified in this Part.
+(c) The submission of a Major Development Coastal Area Management Act (CAMA)
+permit application for an upland basin marina project shall constitute a complete application for
+purposes of water quality certification review by the Division of Water Resources. Unless the
+Director of the Division of Water Resources or the Director of the Division of Coastal
+Management objects in writing or requests additional information necessary to evaluate
+Page 4 Session Law 2025-48 Senate Bill 472
+compliance with water quality standards as provided in subsection (a) of this section, no further
+information shall be required by the Department for purposes of evaluating whether the upland
+basin marina project will comply with water quality standards or CAMA use standards referenced
+in this Part. Compliance with the Major Development CAMA permitting process shall also
+constitute compliance with all relevant provisions of Article 1 of this Chapter.
+(d) The Department shall allow an applicant for an upland basin marina project to use
+innovative technology to maintain dissolved oxygen levels or improve dissolved oxygen above
+pre-project ambient dissolved oxygen levels in the immediate vicinity of the entrance to the
+upland basin marina. If the applicant proposes the use of innovative technology, the Department
+shall require the permit holder to provide financial assurance, in the form of a bond or set-aside
+funds, for long-term operation and maintenance of the innovative technology, in accordance with
+subdivision (b)(3) of this section. If the applicant provides a certification from a North Carolina
+licensed professional engineer that the proposed innovative technology is capable of attaining
+required dissolved oxygen levels within the proposed upland basin marina, the Department shall
+not require any additional information.
+(e) In the absence of site-specific technical concerns provided to the applicant by the
+Director of the Division of Water Resources or the Director of the Division of Coastal
+Management based on information provided during the permit review process, an upland basin
+marina project that satisfies the criteria provided in subsection (b) of this section shall be deemed
+to satisfy all of the following:
+(1) CAMA management objectives and relevant use standards of the estuarine
+and ocean system AECs.
+(2) CAMA management objectives and use standards of the coastal wetlands
+AEC.
+(3) The policy goals stated in G.S. 113-102(b).
+(f) Nothing in this section shall be construed to abrogate the Department's authority to
+ensure long-term compliance with applicable water quality standards in light of the goals and
+requirements set forth in this Part. If data collected as part of the requirements of this Part, or
+otherwise, indicate noncompliance with applicable water quality standards in the waters within
+the upland basin marina or adjacent waters within the vicinity of each entrance to the upland
+basin marina, the Department may require the owner of the upland basin marina development at
+the time of the noncompliance to bring the waters within the upland basin marina and adjacent
+waters into compliance with applicable water quality standards, in light of the overall goals and
+policies set forth in this Part to promote the construction and use of upland basin marinas.
+(g) Nothing in this section shall obviate the need for an applicant to obtain all relevant
+federal permits required for the upland basin marina project."
+
+Section 7:
+SECTION 3.(a) G.S. 113A-103 is amended by adding a new subdivision to read:
+"(8a) "Man-made ditches" mean constructed, altered, or excavated features used to
+convey water, including, but not limited to, artificial ponds, culverts, canals,
+swales, storm channels, minor-drainage features, and roadside ditches. For
+purposes of this subdivision, the term "altered" does not include the alteration
+of a natural shoreline, natural stream, or natural wetland, and the term
+"excavated" does not include submerged lands that have been dredged for the
+purpose of navigation."
+
+Section 8:
+SECTION 3.(b) G.S. 113A-113 reads as rewritten:
+"§ 113A-113. Areas of environmental concern; in general.
+…
+(b) The Commission may designate as areas of environmental concern any one or more
+of the following, singly or in combination:
+…
+Senate Bill 472 Session Law 2025-48 Page 5
+(2) Estuarine waters, that is, all the water of the Atlantic Ocean within the
+boundary of North Carolina and all the waters of the bays, sounds, rivers, and
+tributaries tributaries, excluding man-made ditches under G.S. 113A-103(8a),
+thereto seaward of the dividing line between coastal fishing waters and inland
+fishing waters, as set forth in the most recent official published agreement
+adopted by the Wildlife Resources Commission and the Department of
+Environmental Quality;
+…
+(5) Areas such as waterways and lands under or flowed by tidal waters or
+navigable waters, excluding man-made ditches under G.S. 113A-103(8a), to
+which the public may have rights of access or public trust rights, and areas
+which the State of North Carolina may be authorized to preserve, conserve, or
+protect under Article XIV, Sec. 5 of the North Carolina Constitution;
+…
+(b1) The Commission may not designate man-made ditches, as defined under
+G.S. 113A-103(8a), as areas of environmental concern.
+…."
+
+Section 9:
+SECTION 3.(c) G.S. 113-229(n)(3) reads as rewritten:
+"(3) "Marshland" means any salt marsh or other marsh subject to regular or
+occasional flooding by tides, including wind tides (whether or not the
+tidewaters reach the marshland areas through natural or artificial
+watercourses), provided this shall not include hurricane or tropical storm tides.
+Salt marshland or other marsh shall be those areas upon which grow some,
+but not necessarily all, of the following salt marsh and marsh plant species:
+Smooth or salt water Cordgrass (Spartina alterniflora), Black Needlerush
+(Juncus roemerianus), Glasswort (Salicornia spp.), Salt Grass (Distichlis
+spicata), Sea Lavender (Limonium spp.), Bulrush (Scirpus spp.), Saw Grass
+(Cladium jamaicense), Cattail (Typha spp.), Salt-Meadow Grass(Spartina
+patens), and Salt Reed-Grass (Spartina cynosuroides). A marshland shall not
+include any area contained within a man-made ditch, as defined under
+G.S. 113A-103(8a)."
+
+Section 10:
+SECTION 4. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 26th day of June, 2025.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 12:38 p.m. this 2nd day of July, 2025
+Page 6 Session Law 2025-48 Senate Bill 472
+[DELETED:  I B T D O E T d p p f b t S D N C a A W F a F ( p i t d o ( p i c o a u b m a d i F s a a r o e t b c u a I W Q D s p a r o a a p O a a f r w f b d o r o a W s a s d i a n t t a T t d i b t D f t D R o a a o s i]
+[DELETED:  S S i n f t D t d i t d i n w w c w S w r I t D f t i a n t t i i w t r i 3 p o I T D s e o a a w ( 1 i h a n a i i r F o t t a o d t a w t r t T D s i a c w o w c o u d t t p d i n r T D m i a c o i a c a e l o o l f C W A w c w S w q T D s n i a o c o T r c o l w p a t t w c w S w q r T d s T O]
+[DELETED:  S P T I E R R P P M o i o w q w s d A i i t i o t G A t t P b b A B U e a t c m o o h m a U s a c a o s i r b t T D m m o w r f a s i s i t 6 r p r u r o t i r b t D I t D f t a o a T T T]
+[DELETED:  S S b d A p o t a a a s t t D o W R a t D o C u b m s b c t s a t w i t T q s T a s p a e o C C T p u b m p c w s u a b t C R C f n T s e a n c i s i T p u b m p c w s u a s m s m b l w t 3 T a w s e e a u v T a C w s ( t ( o t w s b s a v w w q a r C c a o s a e i T o t D o W R o t D o t D o C o i w o r a i n t e]
+[DELETED:  S P t P C w t M D C p p s a T I o t D o W R o t D o t D o C C C m o a u s o c w T N N " a n s n s o n w a t t T]
+[DELETED:  S S E w t i a t w o t A O w t b t W R C a t D o A s a w a l u o f b t w o T C m n d m d a d u " m a s m o o m s t r o f b t i w t ( o n t r t m a t n o a o s w C ( a B N r G ( s S G ( j C ( s S G a a c w a m d a d u6 s s s 2 ]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2025-48
+SENATE BILL 472
+AN ACT TO MAKE VARIOUS CHANGES TO THE PROCESS FOR 401 WATER QUALITY
+CERTIFICATIONS ISSUED BY THE DEPARTMENT OF ENVIRONMENTAL
+QUALITY, TO REFORM PERMITTING RELATED TO UPLAND BASIN MARINAS,
+AND TO CLARIFY THAT CERTAIN MAN-MADE DITCHES ARE NOT COVERED
+UNDER THE COASTAL AREA MANAGEMENT ACT.
+The General Assembly of North Carolina enacts:
+SECTION 1.(a) G.S. 143-214.1A reads as rewritten:
+"§ 143-214.1A. Water quality certification requirements for certain projects.
+(a) The following requirements shall govern applications for certification filed with the
+Department pursuant to section 401 of the Clean Water Act, 33 U.S.C. § 1341(a)(1), for (i)
+maintenance dredging projects partially funded by the Shallow Draft Navigation Channel
+Dredging and Aquatic Weed Fund and Fund, (ii) projects involving the distribution or
+transmission of energy or fuel, including natural gas, diesel, petroleum, or electricity:electricity,
+and (iii) projects involving construction of an upland basin marina, as defined in
+G.S. 113A-129.11:
+…
+(c) For projects that are eligible for a Nationwide Permit or Regional General Permit
+issued by the United States Army Corps of Engineers, which are not subject to subsection (a) of
+this section, and are required or elect to be covered under an Individual Water Quality
+Certification, the Department shall perform a review of an application pursuant to all of the
+following requirements:
+(1) On receipt of such application, the Department shall notify the applicant of
+any required fee within five business days. If the Department does not send
+the applicant a fee request within five business days of receipt of an
+application, the fee is waived. The Department's review period shall begin on
+the date the application fee is paid or on the sixth business day from receipt
+when the application fee has been waived pursuant to this subdivision. For
+application fees that are paid via interagency batch payment, the review period
+shall start on receipt of the application by the Division of Water Resources.
+The Department shall additionally post any public notice required under the
+federal Clean Water Act within five business days of receipt of an application.
+(2) Within 30 business days of the beginning of the review period, the Department
+shall (i) determine whether or not the application is complete and notify the
+applicant accordingly and, (ii) if the Department determines an application is
+incomplete, specify all such deficiencies in a notice to the applicant. The
+applicant may file an amended application or supplemental information to
+cure the deficiencies identified by the Department for the Department's
+review. Review of amended applications or supplemental information
+responses provided by the applicant shall occur within 20 business days of
+receipt. An application may be deemed incomplete only if it does not provide
+*S472-v-7*
+
+sufficient information necessary for the Department to determine if the
+proposed discharges into navigable waters will comply with State water
+quality requirements. If the Department fails to issue a notice that the
+application is incomplete within the requisite initial 30-day period, or the
+supplemental 20-day review period, the application shall be deemed complete.
+As used in this section, "State water quality requirements" means water quality
+standards approved by the United States Environmental Protection Agency
+pursuant to 33 U.S.C. § 1313(c)(3).
+(3) If the Department determines that a public hearing is necessary pursuant to
+applicable requirements, the Department shall notify the applicant within the
+review period outlined in subdivision (2) of this subsection. If the hearing
+officer determines that additional information is required from the applicant
+at the conclusion of the public hearing comment period, the Department shall
+notify the applicant within 15 business days of the conclusion of the comment
+period and the supplemental information shall be subject to the review time
+lines laid out in subdivision (2) of this subsection.
+(4) The Department shall either approve or deny an application within (i) 10
+business days of the date the application is deemed complete if no public
+hearing is held or (ii) 15 business days of the close of the record if a public
+hearing is held and no additional information is required. Failure of the
+Department to approve or deny the application within the requisite time
+period, as applicable, shall result in a waiver of the certification requirement
+by the State, unless the applicant agrees, in writing, to an extension of time,
+which shall not exceed one year from the State's receipt of the application for
+certification.
+(5) The Department shall issue a certification, with or without conditions or
+limitations, upon determining that the proposed discharges into navigable
+waters subject to the federal Clean Water Act will comply with State water
+quality requirements. The Department may include as conditions or
+limitations in a certification any effluent limitations or other limitations
+necessary to assure the proposed discharges into navigable waters subject to
+the federal Clean Water Act will comply with State water quality
+requirements. The Department shall not impose any other conditions or
+limitations in a certification.
+(6) The Department shall deny a certification application only if it determines that
+no reasonable conditions or limitations would provide assurance that the
+proposed discharges into navigable waters subject to the federal Clean Water
+Act will comply with State water quality requirements. The denial shall
+include a statement explaining why the Department determined the proposed
+discharges into navigable waters subject to the federal Clean Water Act will
+not comply with the State water quality requirements.
+(7) The Department may grant, deny, or waive certification but shall not require
+an applicant to withdraw an application.
+(d) On receipt of any application for certification filed with the Department pursuant to
+section 401 of the Clean Water Act, 33 U.S.C. § 1341(a)(1), the Department shall notify the
+applicant of any required fee within five business days. If the Department does not send the
+applicant a fee request within five business days of receipt of an application, the fee is waived."
+SECTION 1.(b) This section becomes effective October 1, 2025, and applies to
+applications for section 401 certification pending or submitted on or after that date.
+SECTION 2. Article 7 of Chapter 113A of the General Statutes is amended by
+adding a new Part to read:
+Page 2 Session Law 2025-48 Senate Bill 472
+
+"Part 5A. Upland Basin Marinas.
+"§ 113A-129.10. Legislative findings; broad construction.
+(a) The General Assembly finds that development of properly sited and planned upland
+basin marinas to accommodate vessels promotes the public welfare for a number of reasons,
+including all of the following:
+(1) Increasing riparian property owner access to the State's public trust waters.
+(2) Expanding the total area of the State's public trust waters.
+(3) Reducing and confining potential storm debris.
+(4) Reducing the need for additional onshore impervious surfaces associated with
+parking.
+(5) Promoting the use of innovative technologies.
+(6) Promoting the collection of site-specific data designed to assure compliance
+with applicable water quality standards.
+(7) Maintaining or improving overall water quality when sited, designed,
+constructed, and operated in conformance with the provisions of this Part.
+(b) Accordingly, it is the intent of the General Assembly that this Part be broadly
+construed to further the general purposes stated in this Part.
+"§ 113A-129.11. Definitions.
+As used in this Part, the following definitions apply:
+(1) AEC or Area of Environmental Concern. – An area designated by the Coastal
+Resources Commission pursuant to G.S. 113A-113.
+(2) Boat slip. – Any structure adjoining, attached to, or part of a pier which has
+the capacity to store one boat.
+(3) Upland basin marina. – A marina constructed by excavating or dredging lands
+of elevations above the current mean or ordinary high-water mark and
+designed to accommodate more than 10 vessels or boat slips. Upland basin
+marinas shall be considered a water-dependent use for purposes of general use
+standards adopted by the Coastal Resources Commission.
+"§ 113A-129.12. Upland basin marina permitting and development.
+(a) Unless the Director of the Division of Water Resources or the Director of the Division
+of Coastal Management makes a finding, based on site-specific technical information, that the
+applicant cannot comply with one or more of the criteria listed in subsection (b) of this section,
+the Division of Water Resources and the Division of Coastal Management shall approve an
+application for the development of an upland basin marina project, within 60 days after the
+applicant submits a completed application or supplemental information requested by the
+Department to demonstrate compliance with all of the criteria set forth in subsection (b) of this
+section. The Department may make one written request for any supplemental information
+necessary to make its finding within 30 days after the applicant submits a complete application,
+and the permit may be conditioned upon measures that are necessary to ensure that the applicant
+complies with all of the criteria set forth in subsection (b) of this section. When the Department
+requests supplemental information, the 60-day review period restarts upon receipt of the
+supplemental information requested by the Department. If the Department fails to act on an
+application for the development of an upland basin marina project within the 60-day review period,
+the application shall be deemed approved.
+(b) The criteria with which an upland basin marina shall comply to qualify for permitting
+pursuant to subsection (a) of this section are all of the following:
+(1) The upland basin marina is designed to accommodate 10 or more vessels,
+including individual homeowner boat slips, boat lifts, or dry stack storage.
+(2) The waters contained in the upland basin marina have a dissolved oxygen
+content equal to or greater than the dissolved oxygen content of the water
+located 50 feet plus or minus 5 feet from the entrance to the upland basin
+Senate Bill 472 Session Law 2025-48 Page 3
+
+marina before development. As part of the application, an applicant shall
+provide to the Division of Water Resources and the Division of Coastal
+Management site-specific sampling data documenting pre-project dissolved
+oxygen levels of the water located 50 feet plus or minus 5 feet from each
+proposed entrance to the proposed upland basin marina. Waters located within
+the upland basin marina shall be classified the same as the waters in the
+immediate vicinity of any entrance to the upland basin marina.
+(3) The project has a bond or set-aside funds for the long-term operation and
+maintenance of any technology required to meet or exceed then-applicable
+water quality standards. The applicant shall provide an estimate of annual
+operation and maintenance costs, and the bond or set-aside funds shall be equal
+to five years of the estimated annual operation and maintenance costs.
+(4) Construction of the upland basin marina impacts or removes a total area of
+coastal wetlands that is no more than five percent (5%) of the total area of the
+proposed upland basin marina waters.
+(5) Construction of the upland basin marina impacts or removes a total linear
+footage of coastal wetlands fringe that is no more than ten percent (10%) of
+the total linear footage of existing coastal wetlands along the shoreline of the
+property or properties of the permit applicant.
+(6) The proposed upland basin marina project complies with specific use
+standards adopted by the Coastal Resources Commission for navigation
+channels, canals, and boat basins. An upland basin marina project shall not be
+considered a "finger canal" or "finger canal system" if the project does not
+contain right angle corners.
+(7) The upland basin marina has a 30-foot vegetated buffer or buffers along the
+post-project shoreline, excluding any newly created inside shorelines, if
+required by the Department.
+(8) The proposed upland basin marina project complies with specific use
+standards adopted by the Coastal Resources Commission for marinas, except
+that a stormwater management system may be located within the 30-foot
+buffer area described in subdivision (7) of this subsection.
+(9) The project includes mitigation or has mitigation credits for wetland impacts
+caused by excavation or construction of entrances, exits, and upland vessel
+accommodation areas, where such entrances, exits, and upland vessel
+accommodation areas exceed 125 linear feet of shoreline in total.
+(10) The upland basin marina is sited and designed to avoid significant adverse
+impacts to the productivity and biologic integrity of coastal wetlands, shellfish
+beds, submerged aquatic vegetation, water quality, and spawning and primary
+nursery areas. Compliance with subdivisions (1) through (10) of this
+subsection shall create a presumption that the project has avoided significant
+adverse impacts to the productivity and biologic integrity of coastal wetlands,
+non-coastal wetlands, shellfish beds, submerged aquatic vegetation, water
+quality, spawning areas, and primary nursery areas and to have complied with
+State water quality antidegradation requirements. Compliance constitutes
+appropriate avoidance of significant adverse environmental impacts,
+including those identified in this Part.
+(c) The submission of a Major Development Coastal Area Management Act (CAMA)
+permit application for an upland basin marina project shall constitute a complete application for
+purposes of water quality certification review by the Division of Water Resources. Unless the
+Director of the Division of Water Resources or the Director of the Division of Coastal
+Management objects in writing or requests additional information necessary to evaluate
+Page 4 Session Law 2025-48 Senate Bill 472
+
+compliance with water quality standards as provided in subsection (a) of this section, no further
+information shall be required by the Department for purposes of evaluating whether the upland
+basin marina project will comply with water quality standards or CAMA use standards referenced
+in this Part. Compliance with the Major Development CAMA permitting process shall also
+constitute compliance with all relevant provisions of Article 1 of this Chapter.
+(d) The Department shall allow an applicant for an upland basin marina project to use
+innovative technology to maintain dissolved oxygen levels or improve dissolved oxygen above
+pre-project ambient dissolved oxygen levels in the immediate vicinity of the entrance to the
+upland basin marina. If the applicant proposes the use of innovative technology, the Department
+shall require the permit holder to provide financial assurance, in the form of a bond or set-aside
+funds, for long-term operation and maintenance of the innovative technology, in accordance with
+subdivision (b)(3) of this section. If the applicant provides a certification from a North Carolina
+licensed professional engineer that the proposed innovative technology is capable of attaining
+required dissolved oxygen levels within the proposed upland basin marina, the Department shall
+not require any additional information.
+(e) In the absence of site-specific technical concerns provided to the applicant by the
+Director of the Division of Water Resources or the Director of the Division of Coastal
+Management based on information provided during the permit review process, an upland basin
+marina project that satisfies the criteria provided in subsection (b) of this section shall be deemed
+to satisfy all of the following:
+(1) CAMA management objectives and relevant use standards of the estuarine
+and ocean system AECs.
+(2) CAMA management objectives and use standards of the coastal wetlands
+AEC.
+(3) The policy goals stated in G.S. 113-102(b).
+(f) Nothing in this section shall be construed to abrogate the Department's authority to
+ensure long-term compliance with applicable water quality standards in light of the goals and
+requirements set forth in this Part. If data collected as part of the requirements of this Part, or
+otherwise, indicate noncompliance with applicable water quality standards in the waters within
+the upland basin marina or adjacent waters within the vicinity of each entrance to the upland
+basin marina, the Department may require the owner of the upland basin marina development at
+the time of the noncompliance to bring the waters within the upland basin marina and adjacent
+waters into compliance with applicable water quality standards, in light of the overall goals and
+policies set forth in this Part to promote the construction and use of upland basin marinas.
+(g) Nothing in this section shall obviate the need for an applicant to obtain all relevant
+federal permits required for the upland basin marina project."
+SECTION 3.(a) G.S. 113A-103 is amended by adding a new subdivision to read:
+"(8a) "Man-made ditches" mean constructed, altered, or excavated features used to
+convey water, including, but not limited to, artificial ponds, culverts, canals,
+swales, storm channels, minor-drainage features, and roadside ditches. For
+purposes of this subdivision, the term "altered" does not include the alteration
+of a natural shoreline, natural stream, or natural wetland, and the term
+"excavated" does not include submerged lands that have been dredged for the
+purpose of navigation."
+SECTION 3.(b) G.S. 113A-113 reads as rewritten:
+"§ 113A-113. Areas of environmental concern; in general.
+…
+(b) The Commission may designate as areas of environmental concern any one or more
+of the following, singly or in combination:
+…
+Senate Bill 472 Session Law 2025-48 Page 5
+
+(2) Estuarine waters, that is, all the water of the Atlantic Ocean within the
+boundary of North Carolina and all the waters of the bays, sounds, rivers, and
+tributaries tributaries, excluding man-made ditches under G.S. 113A-103(8a),
+thereto seaward of the dividing line between coastal fishing waters and inland
+fishing waters, as set forth in the most recent official published agreement
+adopted by the Wildlife Resources Commission and the Department of
+Environmental Quality;
+…
+(5) Areas such as waterways and lands under or flowed by tidal waters or
+navigable waters, excluding man-made ditches under G.S. 113A-103(8a), to
+which the public may have rights of access or public trust rights, and areas
+which the State of North Carolina may be authorized to preserve, conserve, or
+protect under Article XIV, Sec. 5 of the North Carolina Constitution;
+…
+(b1) The Commission may not designate man-made ditches, as defined under
+G.S. 113A-103(8a), as areas of environmental concern.
+…."
+SECTION 3.(c) G.S. 113-229(n)(3) reads as rewritten:
+"(3) "Marshland" means any salt marsh or other marsh subject to regular or
+occasional flooding by tides, including wind tides (whether or not the
+tidewaters reach the marshland areas through natural or artificial
+watercourses), provided this shall not include hurricane or tropical storm tides.
+Salt marshland or other marsh shall be those areas upon which grow some,
+but not necessarily all, of the following salt marsh and marsh plant species:
+Smooth or salt water Cordgrass (Spartina alterniflora), Black Needlerush
+(Juncus roemerianus), Glasswort (Salicornia spp.), Salt Grass (Distichlis
+spicata), Sea Lavender (Limonium spp.), Bulrush (Scirpus spp.), Saw Grass
+(Cladium jamaicense), Cattail (Typha spp.), Salt-Meadow Grass(Spartina
+patens), and Salt Reed-Grass (Spartina cynosuroides). A marshland shall not
+include any area contained within a man-made ditch, as defined under
+G.S. 113A-103(8a)."
+SECTION 4. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 26th day of June, 2025.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 12:38 p.m. this 2nd day of July, 2025
+Page 6 Session Law 2025-48 Senate Bill 472
+
+[DELETED:  I B T D O E T d p p f b t S D N C a A W F a F ( p i t d o ( p i c o a u b m a d i F s a a r o e t b c u a I W Q D s p a r o a a p O a a f r w f b d o r o a W s a s d i a n t t a T t d i b t D f t D R o a a o s i]
+[DELETED:  S S i n f t D t d i t d i n w w c w S w r I t D f t i a n t t i i w t r i 3 p o I T D s e o a a w ( 1 i h a n a i i r F o t t a o d t a w t r t T D s i a c w o w c o u d t t p d i n r T D m i a c o i a c a e l o o l f C W A w c w S w q T D s n i a o c o T r c o l w p a t t w c w S w q r T d s T O]
+[DELETED:  S P T I E R R P P M o i o w q w s d A i i t i o t G A t t P b b A B U e a t c m o o h m a U s a c a o s i r b t T D m m o w r f a s i s i t 6 r p r u r o t i r b t D I t D f t a o a T T T]
+[DELETED:  S S b d A p o t a a a s t t D o W R a t D o C u b m s b c t s a t w i t T q s T a s p a e o C C T p u b m p c w s u a b t C R C f n T s e a n c i s i T p u b m p c w s u a s m s m b l w t 3 T a w s e e a u v T a C w s ( t ( o t w s b s a v w w q a r C c a o s a e i T o t D o W R o t D o t D o C o i w o r a i n t e]
+[DELETED:  S P t P C w t M D C p p s a T I o t D o W R o t D o t D o C C C m o a u s o c w T N N " a n s n s o n w a t t T]
+[DELETED:  S S E w t i a t w o t A O w t b t W R C a t D o A s a w a l u o f b t w o T C m n d m d a d u " m a s m o o m s t r o f b t i w t ( o n t r t m a t n o a o s w C ( a B N r G ( s S G ( j C ( s S G a a c w a m d a d u6 s s s 2 ]

@@ -1,0 +1,253 @@
+Title: HOUSE BILL DRH40322-ML-67
+Official Title: HOUSE BILL DRH40322-ML-67
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+H.B. 608
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Mar 31, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Protect Health and Gov't Personnel Info. (Public)
+Sponsors: Representative Rubin.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE ADDITIONAL PROTECTIONS FOR PROTECTED HEALTH
+3 INFORMATION AND GOVERNMENT EMPLOYEE PERSONNEL INFORMATION.
+4 Whereas, people throughout North Carolina provide sensitive health information to
+5 their doctors, hospitals, and other health care providers, and they often provide sensitive health
+6 information as part of key government programs like Medicare and Medicaid; and
+7 Whereas, federal, State, and local government employees are frequently required to
+8 provide sensitive personal information to the government as part of their hiring and employment,
+9 and this sensitive information is entrusted to the government to care for in accordance with strict
+10 procedures; and
+11 Whereas, unauthorized copying of these sensitive forms of data can lead to lasting
+12 injury to those affected; and
+13 Whereas, North Carolina's Computer Trespass offense criminalizes unauthorized
+14 copying of computer data but lacks an automatic minimum amount of damages for
+15 misappropriation of protected health information or government personnel files; Now, therefore,
+16 The General Assembly of North Carolina enacts:
+17 SECTION 1. G.S. 14-458 reads as rewritten:
+18 "§ 14-458. Computer trespass; penalty.
+19 (a) Except as otherwise made unlawful by this Article, it shall be unlawful for any person
+20 to use a computer or computer network without authority and with the intent to do any of the
+21 following:
+22 (1) Temporarily or permanently remove, halt, or otherwise disable any computer
+23 data, computer programs, or computer software from a computer or computer
+24 network.
+25 (2) Cause a computer to malfunction, regardless of how long the malfunction
+26 persists.
+27 (3) Alter or erase any computer data, computer programs, or computer software.
+28 (4) Cause physical injury to the property of another.
+29 (5) Make or cause to be made an unauthorized copy, in any form, including, but
+30 not limited to, any printed or electronic form of computer data, computer
+31 programs, or computer software residing in, communicated by, or produced
+32 by a computer or computer network.
+33 (6) Falsely identify with the intent to deceive or defraud the recipient or forge
+34 commercial electronic mail transmission information or other routing
+35 information in any manner in connection with the transmission of unsolicited
+*DRH40322-ML-67*
+General Assembly Of North Carolina Session 2025
+1 bulk commercial electronic mail through or into the computer network of an
+2 electronic mail service provider or its subscribers.
+3 For purposes of this subsection, a person is "without authority" when (i) the person has no
+4 right or permission of the owner to use a computer, or the person uses a computer in a manner
+5 exceeding the right or permission, or (ii) the person uses a computer or computer network, or the
+6 computer services of an electronic mail service provider to transmit unsolicited bulk commercial
+7 electronic mail in contravention of the authority granted by or in violation of the policies set by
+8 the electronic mail service provider.provider, or (iii) in the case of computer data that is in a
+9 personnel file of a local, State, or federal government employee, the person has no authority
+10 under local, State, or federal law to view or otherwise access that information or has willfully
+11 failed to follow the requirements of the local, State, or federal law granting such authority. For
+12 purposes of this subsection, the term "personnel file" is as defined in G.S. 1-539.2A.
+13 (b) Any person who violates this section shall be guilty of computer trespass, which
+14 offense shall be punishable as a Class 3 misdemeanor. If there is damage to the property of
+15 another and the damage is valued at less than two thousand five hundred dollars ($2,500) caused
+16 by the person's act in violation of this section, the offense shall be punished as a Class 1
+17 misdemeanor. If there is damage to the property of another valued at two thousand five hundred
+18 dollars ($2,500) or more caused by the person's act in violation of this section, the offense shall
+19 be punished as a Class I felony.
+20 (c) Any person whose property or person is injured by reason of a violation of this section
+21 may sue for and recover any damages sustained and the costs of the suit pursuant to
+22 G.S. 1-539.2A.
+23 (d) It is not a violation of this section for a person to act pursuant to Chapter 36F of the
+24 General Statutes."
+25 SECTION 2. G.S. 1-539.2A reads as rewritten:
+26 "§ 1-539.2A. Damages for computer trespass.
+27 (a) Any person whose property or person is injured by reason of a violation of
+28 G.S. 14-458 may sue for and recover any damages sustained and the costs of the suit. Without
+29 limiting the general of the term, "damages" shall include loss of profits. If the injury arises from
+30 the transmission of unsolicited bulk commercial electronic mail, the injured person, other than
+31 an electronic mail service provider, may also recover attorneys' fees and may elect, in lieu of
+32 actual damages, to recover the lesser of ten dollars ($10.00) for each and every unsolicited bulk
+33 commercial electronic mail message transmitted in violation of this section, or twenty-five
+34 thousand dollars ($25,000) per day. The injured person shall not have a cause of action against
+35 the electronic mail service provider which merely transmits the unsolicited bulk commercial
+36 electronic mail over its computer network. If the injury arises from the transmission of unsolicited
+37 bulk commercial electronic mail, an injured electronic mail service provider may also recover
+38 attorneys' fees and costs and may elect, in lieu of actual damages, to recover the greater of ten
+39 dollars ($10.00) for each and every unsolicited bulk commercial electronic mail message
+40 transmitted in violation of this section, or twenty-five thousand dollars ($25,000) per day.
+41 (a1) If the injury arises from a violation of G.S. 14-458 involving trespass to computer
+42 data that is protected health information, the injured person may sue and recover for each
+43 violation the greater of the damages sustained or five thousand dollars ($5,000) and the costs of
+44 the suit.
+45 (a2) If the injury arises from a violation of G.S. 14-458 involving trespass to computer
+46 data that is in the personnel file of a local, State, or federal employee, the injured person may sue
+47 and recover for each violation the greater of the damages sustained or five thousand dollars
+48 ($5,000) and the costs of the suit.
+49 (b) A civil action under this section shall be commenced before expiration of the time
+50 period prescribed in G.S. 1-54. In actions alleging injury arising from the transmission of
+Page 2 DRH40322-ML-67
+General Assembly Of North Carolina Session 2025
+1 unsolicited bulk commercial electronic mail, personal jurisdiction may be exercised pursuant to
+2 G.S. 1-75.4.
+3 (c) The following definitions apply in this section:
+4 (1) Damages. – Includes loss of profits.
+5 (2) Personnel file. – Any employment-related or personal information gathered
+6 by an employer about its employee. Employment-related information includes
+7 information related to an individual's application, selection, promotion,
+8 demotion, transfer, leave, salary, contract for employment, benefits,
+9 suspension, performance evaluation, disciplinary actions, and termination.
+10 Personal information includes an individual's home address, social security
+11 number, medical history, personal financial data, marital status, dependents,
+12 and beneficiaries.
+13 (3) Protected health information. – As defined in 45 C.F.R. § 160.103."
+14 SECTION 3. This act becomes effective July 1, 2025, and applies to offenses
+15 committed on or after that date.
+DRH40322-ML-67 Page 3
+[DELETED:  D P ( R  A A A T P A P F P H I W t i W p a p W i W N C C T o c u c o c d b l a a m a o d f m T S " ( E t f ( T d n ( C p ( A ( C ( M n p b ( F c e m t i o o r i]
+[DELETED:  S  D b e F r e c e t p u f p ( A o a b t p a i v o t s t o s b p a a C 1 m d b ( A m s f a r a d s a t c o t s p t G ( I G S " ( A p w p o p i i b r o a v o G l t a a c e m m t i v o t s o t t t e b a d ( f e a e u b c e m m t ( I d t i p h i t i p m s a r f e v t ( I d a ( ( A p p i G I a a i a f t t o]
+[DELETED:  S  P u G ( T ( D ( P b i r t a i a s p d t l s c f e b s p e d a a t P n a ( P S 3  T a b e J 1 2 a a t o c]
+
+
+================================================================================
+
+Raw Text:
+H.B. 608
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Mar 31, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40322-ML-67
+Short Title: Protect Health and Gov't Personnel Info. (Public)
+Sponsors: Representative Rubin.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE ADDITIONAL PROTECTIONS FOR PROTECTED HEALTH
+3 INFORMATION AND GOVERNMENT EMPLOYEE PERSONNEL INFORMATION.
+4 Whereas, people throughout North Carolina provide sensitive health information to
+5 their doctors, hospitals, and other health care providers, and they often provide sensitive health
+6 information as part of key government programs like Medicare and Medicaid; and
+7 Whereas, federal, State, and local government employees are frequently required to
+8 provide sensitive personal information to the government as part of their hiring and employment,
+9 and this sensitive information is entrusted to the government to care for in accordance with strict
+10 procedures; and
+11 Whereas, unauthorized copying of these sensitive forms of data can lead to lasting
+12 injury to those affected; and
+13 Whereas, North Carolina's Computer Trespass offense criminalizes unauthorized
+14 copying of computer data but lacks an automatic minimum amount of damages for
+15 misappropriation of protected health information or government personnel files; Now, therefore,
+16 The General Assembly of North Carolina enacts:
+17 SECTION 1. G.S. 14-458 reads as rewritten:
+18 "§ 14-458. Computer trespass; penalty.
+19 (a) Except as otherwise made unlawful by this Article, it shall be unlawful for any person
+20 to use a computer or computer network without authority and with the intent to do any of the
+21 following:
+22 (1) Temporarily or permanently remove, halt, or otherwise disable any computer
+23 data, computer programs, or computer software from a computer or computer
+24 network.
+25 (2) Cause a computer to malfunction, regardless of how long the malfunction
+26 persists.
+27 (3) Alter or erase any computer data, computer programs, or computer software.
+28 (4) Cause physical injury to the property of another.
+29 (5) Make or cause to be made an unauthorized copy, in any form, including, but
+30 not limited to, any printed or electronic form of computer data, computer
+31 programs, or computer software residing in, communicated by, or produced
+32 by a computer or computer network.
+33 (6) Falsely identify with the intent to deceive or defraud the recipient or forge
+34 commercial electronic mail transmission information or other routing
+35 information in any manner in connection with the transmission of unsolicited
+*DRH40322-ML-67*
+
+General Assembly Of North Carolina Session 2025
+1 bulk commercial electronic mail through or into the computer network of an
+2 electronic mail service provider or its subscribers.
+3 For purposes of this subsection, a person is "without authority" when (i) the person has no
+4 right or permission of the owner to use a computer, or the person uses a computer in a manner
+5 exceeding the right or permission, or (ii) the person uses a computer or computer network, or the
+6 computer services of an electronic mail service provider to transmit unsolicited bulk commercial
+7 electronic mail in contravention of the authority granted by or in violation of the policies set by
+8 the electronic mail service provider.provider, or (iii) in the case of computer data that is in a
+9 personnel file of a local, State, or federal government employee, the person has no authority
+10 under local, State, or federal law to view or otherwise access that information or has willfully
+11 failed to follow the requirements of the local, State, or federal law granting such authority. For
+12 purposes of this subsection, the term "personnel file" is as defined in G.S. 1-539.2A.
+13 (b) Any person who violates this section shall be guilty of computer trespass, which
+14 offense shall be punishable as a Class 3 misdemeanor. If there is damage to the property of
+15 another and the damage is valued at less than two thousand five hundred dollars ($2,500) caused
+16 by the person's act in violation of this section, the offense shall be punished as a Class 1
+17 misdemeanor. If there is damage to the property of another valued at two thousand five hundred
+18 dollars ($2,500) or more caused by the person's act in violation of this section, the offense shall
+19 be punished as a Class I felony.
+20 (c) Any person whose property or person is injured by reason of a violation of this section
+21 may sue for and recover any damages sustained and the costs of the suit pursuant to
+22 G.S. 1-539.2A.
+23 (d) It is not a violation of this section for a person to act pursuant to Chapter 36F of the
+24 General Statutes."
+25 SECTION 2. G.S. 1-539.2A reads as rewritten:
+26 "§ 1-539.2A. Damages for computer trespass.
+27 (a) Any person whose property or person is injured by reason of a violation of
+28 G.S. 14-458 may sue for and recover any damages sustained and the costs of the suit. Without
+29 limiting the general of the term, "damages" shall include loss of profits. If the injury arises from
+30 the transmission of unsolicited bulk commercial electronic mail, the injured person, other than
+31 an electronic mail service provider, may also recover attorneys' fees and may elect, in lieu of
+32 actual damages, to recover the lesser of ten dollars ($10.00) for each and every unsolicited bulk
+33 commercial electronic mail message transmitted in violation of this section, or twenty-five
+34 thousand dollars ($25,000) per day. The injured person shall not have a cause of action against
+35 the electronic mail service provider which merely transmits the unsolicited bulk commercial
+36 electronic mail over its computer network. If the injury arises from the transmission of unsolicited
+37 bulk commercial electronic mail, an injured electronic mail service provider may also recover
+38 attorneys' fees and costs and may elect, in lieu of actual damages, to recover the greater of ten
+39 dollars ($10.00) for each and every unsolicited bulk commercial electronic mail message
+40 transmitted in violation of this section, or twenty-five thousand dollars ($25,000) per day.
+41 (a1) If the injury arises from a violation of G.S. 14-458 involving trespass to computer
+42 data that is protected health information, the injured person may sue and recover for each
+43 violation the greater of the damages sustained or five thousand dollars ($5,000) and the costs of
+44 the suit.
+45 (a2) If the injury arises from a violation of G.S. 14-458 involving trespass to computer
+46 data that is in the personnel file of a local, State, or federal employee, the injured person may sue
+47 and recover for each violation the greater of the damages sustained or five thousand dollars
+48 ($5,000) and the costs of the suit.
+49 (b) A civil action under this section shall be commenced before expiration of the time
+50 period prescribed in G.S. 1-54. In actions alleging injury arising from the transmission of
+Page 2 DRH40322-ML-67
+
+General Assembly Of North Carolina Session 2025
+1 unsolicited bulk commercial electronic mail, personal jurisdiction may be exercised pursuant to
+2 G.S. 1-75.4.
+3 (c) The following definitions apply in this section:
+4 (1) Damages. – Includes loss of profits.
+5 (2) Personnel file. – Any employment-related or personal information gathered
+6 by an employer about its employee. Employment-related information includes
+7 information related to an individual's application, selection, promotion,
+8 demotion, transfer, leave, salary, contract for employment, benefits,
+9 suspension, performance evaluation, disciplinary actions, and termination.
+10 Personal information includes an individual's home address, social security
+11 number, medical history, personal financial data, marital status, dependents,
+12 and beneficiaries.
+13 (3) Protected health information. – As defined in 45 C.F.R. § 160.103."
+14 SECTION 3. This act becomes effective July 1, 2025, and applies to offenses
+15 committed on or after that date.
+DRH40322-ML-67 Page 3
+
+[DELETED:  D P ( R  A A A T P A P F P H I W t i W p a p W i W N C C T o c u c o c d b l a a m a o d f m T S " ( E t f ( T d n ( C p ( A ( C ( M n p b ( F c e m t i o o r i]
+[DELETED:  S  D b e F r e c e t p u f p ( A o a b t p a i v o t s t o s b p a a C 1 m d b ( A m s f a r a d s a t c o t s p t G ( I G S " ( A p w p o p i i b r o a v o G l t a a c e m m t i v o t s o t t t e b a d ( f e a e u b c e m m t ( I d t i p h i t i p m s a r f e v t ( I d a ( ( A p p i G I a a i a f t t o]
+[DELETED:  S  P u G ( T ( D ( P b i r t a i a s p d t l s c f e b s p e d a a t P n a ( P S 3  T a b e J 1 2 a a t o c]

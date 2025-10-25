@@ -1,0 +1,198 @@
+Title: HOUSE BILL DRH40497-NO-60A
+Official Title: HOUSE BILL DRH40497-NO-60A
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+H.B. 970
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 10, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Preventing Algorithmic Rent Fixing. (Public)
+Sponsors: Representative Longest.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PREVENT ALGORITHMIC RENT FIXING IN THE RENTAL HOUSING
+3 MARKET.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 42 of the General Statutes is amended by adding a new Article
+6 to read:
+7 "Article 8.
+8 "Prevention of Algorithmic Rent Fixing.
+9 "§ 42-80. Definitions.
+10 The following definitions apply in this Article:
+11 (1) Coordinate or coordinating function. – Any of the following with respect to a
+12 service provider:
+13 a. Collecting of historical or contemporaneous prices, price changes,
+14 supply levels, occupancy rates, or lease or rental contract termination
+15 and renewal dates of residential dwelling units from two or more real
+16 estate lessors or from public databases.
+17 b. Analyzing or processing of the information described in
+18 sub-subdivision a. of this subdivision using a system, software, or
+19 process that uses computation.
+20 c. Recommending rental prices, lease terms, or occupancy levels to a real
+21 estate lessor.
+22 d. Using a pricing algorithm that uses, incorporates, or was trained with
+23 nonpublic competitor data to set the amount of rent for a residential
+24 dwelling unit or any other commercial term contained within a
+25 residential rental agreement.
+26 (2) Nonpublic competitor data. – Nonpublic data that is derived from or otherwise
+27 provided by another person that competes in the same market as a person, or
+28 a related market. This term does not include information distributed, reported,
+29 or otherwise communicated in a way that does not reveal any underlying data
+30 from a competitor, such as narrative industry reports, news reports, business
+31 commentaries, or generalized industry survey results.
+32 (3) Nonpublic data. – Information that is not widely available or easily accessible
+33 to the public, including information about price, commercial terms, and
+34 related products or services, regardless of whether the data is attributable to a
+35 specific competitor or anonymized.
+36 (4) Person. – As defined in G.S. 12-3.
+*DRH40497-NO-60A*
+General Assembly Of North Carolina Session 2025
+1 (5) Pre-dispute arbitration agreement. – An agreement to arbitrate a dispute that
+2 has not yet arisen at the time of the making of the agreement.
+3 (6) Pre-dispute joint-action waiver. – An agreement, whether or not part of a
+4 pre-dispute arbitration agreement that would prohibit, or waive the right of,
+5 one of the parties to the agreement to participate in a joint, class, or collective
+6 action in a judicial, arbitral, administrative, or other forum, concerning a
+7 dispute that has not yet arisen at the time of the making of the agreement.
+8 (7) Pricing algorithm. – Any process using calculations that analyzes data for the
+9 purpose of recommending or setting prices or commercial terms, including
+10 processes that utilize machine learning or other artificial intelligence
+11 techniques.
+12 (8) Real estate lessor. – Any individual, corporation, partnership, association,
+13 joint-stock company, trust, or unincorporated organization that owns and
+14 leases real property or any portion thereof in the form of a residential dwelling
+15 unit.
+16 (9) Residential dwelling unit. – Any house, apartment, accessory unit, or other
+17 housing unit intended to be used as a person's primary residence. This term
+18 does not include inpatient medical care, licensed long-term care, or detention
+19 or correctional facilities.
+20 (10) Service provider. – A person that provides a coordinating function for a real
+21 estate lessor.
+22 "§ 42-81. Unlawful coordination.
+23 (a) It is unlawful for any real estate lessor, or any agent or subcontractor of a real estate
+24 lessor, within North Carolina to subscribe to, contract for, or otherwise exchange anything of
+25 value in return for coordinating functions.
+26 (b) It is unlawful for any service provider to facilitate an agreement to not compete among
+27 real estate lessors with respect to residential dwelling units within the State of North Carolina.
+28 "§ 42-82. Enforcement.
+29 (a) A violation of any provision of this Article constitutes an unfair or deceptive trade
+30 practice under G.S. 75-1.1. Any party aggrieved by a violation of this Article may bring a cause
+31 of action against the real estate lessor or service provider, as appropriate, and is entitled to the
+32 relief available in Chapter 75 of the General Statutes. The Attorney General is hereby empowered
+33 to enforce this Article as allowed by Chapter 75 of the General Statutes.
+34 (b) Notwithstanding any other provision of law, at the election of the person alleging
+35 conduct constituting a violation of this section, or the named representative of a class in a
+36 collective action alleging such conduct, no pre-dispute arbitration agreement or pre-dispute
+37 joint-action waiver shall be valid or enforceable with respect to a case which relates to a violation
+38 of this Article."
+39 SECTION 2. This act becomes effective October 1, 2025, and applies to acts or
+40 omissions occurring on or after that date.
+Page 2 DRH40497-NO-60A
+[DELETED:  D P ( R  A A A T P A R F I T R H M T S t " " " T ( C s a C o h o c p p c s a e b A o p o t i d i s a o s u a s s o p c R e d U n d u o a o c t c w a r ( N p a o f c ( N t t p i i a p c t a r s ( P]
+[DELETED:  S  D ( P h ( P p o a i a j a a o o f c a d ( P p p t u m l o o a i t ( R e l – A i c p a j c t o u o t o a l u ( R h d o ( S e " ( I l v ( I r " ( A p o r t ( N c c a v o t s o t n r o a c i a c a a s c n p a a o p j o S o]
+
+
+================================================================================
+
+Raw Text:
+H.B. 970
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 10, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40497-NO-60A
+Short Title: Preventing Algorithmic Rent Fixing. (Public)
+Sponsors: Representative Longest.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PREVENT ALGORITHMIC RENT FIXING IN THE RENTAL HOUSING
+3 MARKET.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 42 of the General Statutes is amended by adding a new Article
+6 to read:
+7 "Article 8.
+8 "Prevention of Algorithmic Rent Fixing.
+9 "§ 42-80. Definitions.
+10 The following definitions apply in this Article:
+11 (1) Coordinate or coordinating function. – Any of the following with respect to a
+12 service provider:
+13 a. Collecting of historical or contemporaneous prices, price changes,
+14 supply levels, occupancy rates, or lease or rental contract termination
+15 and renewal dates of residential dwelling units from two or more real
+16 estate lessors or from public databases.
+17 b. Analyzing or processing of the information described in
+18 sub-subdivision a. of this subdivision using a system, software, or
+19 process that uses computation.
+20 c. Recommending rental prices, lease terms, or occupancy levels to a real
+21 estate lessor.
+22 d. Using a pricing algorithm that uses, incorporates, or was trained with
+23 nonpublic competitor data to set the amount of rent for a residential
+24 dwelling unit or any other commercial term contained within a
+25 residential rental agreement.
+26 (2) Nonpublic competitor data. – Nonpublic data that is derived from or otherwise
+27 provided by another person that competes in the same market as a person, or
+28 a related market. This term does not include information distributed, reported,
+29 or otherwise communicated in a way that does not reveal any underlying data
+30 from a competitor, such as narrative industry reports, news reports, business
+31 commentaries, or generalized industry survey results.
+32 (3) Nonpublic data. – Information that is not widely available or easily accessible
+33 to the public, including information about price, commercial terms, and
+34 related products or services, regardless of whether the data is attributable to a
+35 specific competitor or anonymized.
+36 (4) Person. – As defined in G.S. 12-3.
+*DRH40497-NO-60A*
+
+General Assembly Of North Carolina Session 2025
+1 (5) Pre-dispute arbitration agreement. – An agreement to arbitrate a dispute that
+2 has not yet arisen at the time of the making of the agreement.
+3 (6) Pre-dispute joint-action waiver. – An agreement, whether or not part of a
+4 pre-dispute arbitration agreement that would prohibit, or waive the right of,
+5 one of the parties to the agreement to participate in a joint, class, or collective
+6 action in a judicial, arbitral, administrative, or other forum, concerning a
+7 dispute that has not yet arisen at the time of the making of the agreement.
+8 (7) Pricing algorithm. – Any process using calculations that analyzes data for the
+9 purpose of recommending or setting prices or commercial terms, including
+10 processes that utilize machine learning or other artificial intelligence
+11 techniques.
+12 (8) Real estate lessor. – Any individual, corporation, partnership, association,
+13 joint-stock company, trust, or unincorporated organization that owns and
+14 leases real property or any portion thereof in the form of a residential dwelling
+15 unit.
+16 (9) Residential dwelling unit. – Any house, apartment, accessory unit, or other
+17 housing unit intended to be used as a person's primary residence. This term
+18 does not include inpatient medical care, licensed long-term care, or detention
+19 or correctional facilities.
+20 (10) Service provider. – A person that provides a coordinating function for a real
+21 estate lessor.
+22 "§ 42-81. Unlawful coordination.
+23 (a) It is unlawful for any real estate lessor, or any agent or subcontractor of a real estate
+24 lessor, within North Carolina to subscribe to, contract for, or otherwise exchange anything of
+25 value in return for coordinating functions.
+26 (b) It is unlawful for any service provider to facilitate an agreement to not compete among
+27 real estate lessors with respect to residential dwelling units within the State of North Carolina.
+28 "§ 42-82. Enforcement.
+29 (a) A violation of any provision of this Article constitutes an unfair or deceptive trade
+30 practice under G.S. 75-1.1. Any party aggrieved by a violation of this Article may bring a cause
+31 of action against the real estate lessor or service provider, as appropriate, and is entitled to the
+32 relief available in Chapter 75 of the General Statutes. The Attorney General is hereby empowered
+33 to enforce this Article as allowed by Chapter 75 of the General Statutes.
+34 (b) Notwithstanding any other provision of law, at the election of the person alleging
+35 conduct constituting a violation of this section, or the named representative of a class in a
+36 collective action alleging such conduct, no pre-dispute arbitration agreement or pre-dispute
+37 joint-action waiver shall be valid or enforceable with respect to a case which relates to a violation
+38 of this Article."
+39 SECTION 2. This act becomes effective October 1, 2025, and applies to acts or
+40 omissions occurring on or after that date.
+Page 2 DRH40497-NO-60A
+
+[DELETED:  D P ( R  A A A T P A R F I T R H M T S t " " " T ( C s a C o h o c p p c s a e b A o p o t i d i s a o s u a s s o p c R e d U n d u o a o c t c w a r ( N p a o f c ( N t t p i i a p c t a r s ( P]
+[DELETED:  S  D ( P h ( P p o a i a j a a o o f c a d ( P p p t u m l o o a i t ( R e l – A i c p a j c t o u o t o a l u ( R h d o ( S e " ( I l v ( I r " ( A p o r t ( N c c a v o t s o t n r o a c i a c a a s c n p a a o p j o S o]
