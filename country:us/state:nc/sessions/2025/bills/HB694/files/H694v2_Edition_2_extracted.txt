@@ -1,0 +1,378 @@
+Title: HOUSE BILL 694
+Official Title: HOUSE BILL 694
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Senate Agriculture, Energy, and Environment Committee Substitute Adopted 6/4/25
+Short Title: Reg'l Water Study/IBT Subbasin/TMDL. (Public)
+Sponsors:
+Referred to:
+April 3, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO DIRECT THE ENVIRONMENTAL FINANCE CENTER AT THE SCHOOL OF
+3 GOVERNMENT AT THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL
+4 TO STUDY WATER AND WASTEWATER REGIONALIZATION, TO ELIMINATE
+5 CERTAIN SUBBASIN DESIGNATIONS AND REMOVE THE REQUIREMENT FOR
+6 AN INTERBASIN TRANSFER CERTIFICATE FOR WATER TRANSFERS BETWEEN
+7 THOSE CERTAIN SUBBASINS WITHIN THE SAME MAJOR RIVER BASIN, AND TO
+8 REVISE 2020 FARM ACT TMDL TRANSPORT FACTOR CALCULATION
+9 APPLICABILITY.
+10 The General Assembly of North Carolina enacts:
+11
+12 STUDY WATER/WASTEWATER REGIONALIZATION
+13 SECTION 1.(a) Legislative Findings. ‒ The General Assembly makes the following
+14 findings:
+15 (1) North Carolina has a significant number of distressed water and wastewater
+16 systems, defined as systems that fail to generate sufficient revenues to
+17 adequately fund management and operations, personnel, appropriate levels of
+18 maintenance, and reinvestment that facilitate the provision of reliable water
+19 or wastewater services.
+20 (2) Significant factors contributing to distressed systems include service
+21 populations too small or too geographically dispersed, or the closure of major
+22 industrial or commercial customers, which results in systems much larger and
+23 more expensive to operate than is needed for the population they serve.
+24 (3) Competition among local governments to capture large industrial or
+25 commercial customers can lead to unnecessary facility duplication and result
+26 in short-term decisions that do not reflect a responsible and prudent approach
+27 to long-term infrastructure needs.
+28 (4) North Carolina's funding programs for water and wastewater infrastructure
+29 demonstrate preferences for regionalization of water and wastewater
+30 infrastructure solutions in order to create or sustain financial viability for
+31 systems with significant maintenance or upgrade needs or serving high
+32 poverty areas of the State.
+33 (5) There continue to be information gaps and lack of awareness on the part of
+34 local government officials and policymakers of the benefits and obstacles to
+35 regionalization and the information these officials and policymakers need to
+36 guide local decisions on regionalization and other infrastructure decisions,
+*H694-v-2*
+General Assembly Of North Carolina Session 2025
+1 particularly with regard to economic development and growth-related
+2 infrastructure needs, water system efficiency measures, and costs related to
+3 the development of new water sources.
+4 SECTION 1.(b) Study. – The Environmental Finance Center at the University of
+5 North Carolina at Chapel Hill School of Government (EFC) shall study and report on the benefits,
+6 costs, and financial, statutory, or regulatory obstacles to regionalization of water and wastewater
+7 services across the State. In the report, the EFC shall provide recommendations regarding all of
+8 the following:
+9 (1) Legislative or regulatory changes in financial, auditing, or oversight
+10 requirements imposed on public water and wastewater systems that will lead
+11 to more informed decision making on financial stability of those systems, and
+12 the potential of various regionalization measures to address financial
+13 instability.
+14 (2) Particular public water or wastewater systems in the State that would benefit
+15 significantly from various regionalization measures.
+16 SECTION 1.(c) Consultation. – In compiling its report and recommendations, the
+17 EFC shall consult with the State Water Infrastructure Authority, the Local Government
+18 Commission, the North Carolina League of Municipalities, the North Carolina Association of
+19 County Commissioners, and any other entity the EFC finds relevant to the issues it is studying.
+20 SECTION 1.(d) Report. – The EFC shall report its findings and recommendations
+21 no later than April 1, 2026, to the chairs of the House Oversight Committee, the chairs of the
+22 Senate Committee on Regulatory Reform, and the Joint Legislative Commission on
+23 Governmental Operations.
+24 SECTION 1.(e) Definitions. – For the purposes of this section, "public water system"
+25 has the same meaning as in G.S. 130A-313 and "wastewater system" has the same meaning as in
+26 G.S. 159G-20.
+27
+28 ELIMINATE SUBBASIN DESIGNATIONS FOR IBT PROCESS
+29 SECTION 2.(a) Legislative Findings. – The General Assembly makes the following
+30 findings with respect to eliminating the Haw River, Deep River, and Contentnea Creek subbasin
+31 designations:
+32 (1) These subbasins serve rapidly growing areas facing urgent water supply and
+33 economic development pressures.
+34 (2) Flexibility in intrabasin transfers within the Neuse and Cape Fear major river
+35 basins strengthens drought resilience and supports emergency water
+36 management.
+37 (3) Reducing unnecessary regulatory barriers allows municipalities and utilities
+38 in these subbasins to better plan and finance regional water infrastructure,
+39 improving affordability for consumers.
+40 (4) Existing watershed planning and management systems within the Cape Fear
+41 River and Neuse River major river basins mitigate potential environmental
+42 impacts caused by intrabasin transfers.
+43 SECTION 2.(b) G.S. 143-215.22G reads as rewritten:
+44 "§ 143-215.22G. Definitions.
+45 In addition to the definitions set forth in G.S. 143-212 and G.S. 143-213, the following
+46 definitions apply to this Part.
+47 …
+48 (1b) "River basin" means any of the following river basins designated on the map
+49 entitled "Major River Basins and Sub-basins in North Carolina" and filed in
+50 the Office of the Secretary of State on 16 April 1991. The term "river basin"
+51 includes any portion of the river basin that extends into another state. Any area
+Page 2 House Bill 694-Second Edition
+General Assembly Of North Carolina Session 2025
+1 outside North Carolina that is not included in one of the river basins listed in
+2 this subdivision comprises a separate river basin.
+3 a. 1-1 Broad River.
+4 b. 2-1 Haw River.
+5 c. 2-2 Deep River.
+6 d. 2-3 Cape Fear River.River, which includes Haw
+7 River (2-1) and Deep River (2-2).
+8 e. 2-4 South River.
+9 f. 2-5 Northeast Cape Fear River.
+10 g. 2-6 New River.
+11 h. 3-1 Catawba River.
+12 i. 3-2 South Fork Catawba River.
+13 j. 4-1 Chowan River.
+14 k. 4-2 Meherrin River.
+15 l. 5-1 Nolichucky River.
+16 m. 5-2 French Broad River.
+17 n. 5-3 Pigeon River.
+18 o. 6-1 Hiwassee River.
+19 p. 7-1 Little Tennessee River.
+20 q. 7-2 Tuskasegee (Tuckasegee) River.
+21 r. 8-1 Savannah River.
+22 s. 9-1 Lumber River.
+23 t. 9-2 Big Shoe Heel Creek.
+24 u. 9-3 Waccamaw River.
+25 v. 9-4 Shallotte River.
+26 w. 10-1 Neuse River.River, which includes
+27 Contentnea Creek (10-2).
+28 x. 10-2 Contentnea Creek.
+29 y. 10-3 Trent River.
+30 z. 11-1 New River.
+31 aa. 12-1 Albemarle Sound.
+32 bb. 13-1 Ocoee River.
+33 cc. 14-1 Roanoke River.
+34 dd. 15-1 Tar River.
+35 ee. 15-2 Fishing Creek.
+36 ff. 15-3 Pamlico River and Sound.
+37 gg. 16-1 Watauga River.
+38 hh. 17-1 White Oak River.
+39 ii. 18-1 Yadkin (Yadkin-Pee Dee) River.
+40 jj. 18-2 South Yadkin River.
+41 kk. 18-3 Uwharrie River.
+42 ll. 18-4 Rocky River.
+43 …."
+44 SECTION 2.(c) This section is effective when it becomes law and applies to water
+45 withdrawals or transfers initiated or modified on or after that date.
+46
+47 REVISE 2020 FARM ACT TMDL TRANSPORT FACTOR CALCULATION
+48 APPLICABILITY
+49 SECTION 3. Section 15 of S.L. 2020-18, as amended by Section 14 of S.L.
+50 2023-137, reads as rewritten:
+House Bill 694-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 "SECTION 15.(a) Notwithstanding 15A NCAC 02B .0701 (Nutrient Strategies
+2 Definitions), 15A NCAC 02B .0703 (Nutrient Offset Credit Trading), and 15A NCAC 02B .0713
+3 (Neuse Nutrient Strategy: Wastewater Discharge Requirements), nutrient offset credits shall be
+4 applied to a wastewater permit by applying the TMDL transport factor to the permitted
+5 wastewater discharge and to the nutrient offset credits as specified in the 1999 Phase I TMDL.
+6 "SECTION 15.(b) Subsection (a) of this section applies only to wastewater discharge permit
+7 applications for a local government located in the Neuse River Basin with a customer base of
+8 fewer than 15,000 connections.Basin.
+9 "SECTION 15.(c) The Department of Environmental Quality, in conjunction with affected
+10 parties, may begin the modeling necessary to determine new transport zones and delivery factors
+11 for the Neuse River Basin for point source discharges and nutrient offset credits. Once the
+12 Department has completed the watershed modeling, it shall provide the Environmental
+13 Management Commission a list of qualified professionals from which the Commission shall
+14 select at least two to validate the modeling. If each of the professionals selected by the
+15 Commission validate the model, the Commission may use the modeling and other information
+16 provided during the public comment period to adopt new transport zones and delivery factors, if
+17 warranted, by rule.
+18 "SECTION 15.(d) This section is effective when it becomes law. Subsection (a) of this
+19 section shall expire when the rule required by subsection (c) of this section becomes effective."
+20
+21 EFFECTIVE DATE
+22 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+23 law.
+Page 4 House Bill 694-Second Edition
+[DELETED:  2 R (   A A G T S W A W R T E C D F A T R 2 F A T T F C A T  S S f ( N s d a s t f t g s r t a m o ( S f c t d s i s p i m ( C a l g t c l i o c i t ( N d p f r o w a w i s i o t c o s f v f s w s m o u n o s h p ( T l r g]
+[DELETED:  S  H p w r t e d a g i t S N c s t ( L o r c i f a o o r t t p o v r m t a f i ( P s S E s c w t S W I A t L G C C S n S C o R R a t J L C o G S h G  E S f d ( T e ( F b s d r a s e w m ( R i i ( E R i S " I a t t d s f i G a G t f d … ( " e t i]
+[DELETED:  S  P o t a 1 B b 2 H c 2 D d 2 C R e 2 S f 2 N g 2 N h 3 C i 3 S j 4 C k 4 M l 5 N m 5 F n 5 P o 6 H p 7 L q 7 T r 8 S s 9 L t 9 B u 9 W v 9 S w 1 N R w i C x 1 C y 1 T z 1 N a 1 A b 1 O c 1 R d 1 T e 1 F f 1 P g 1 W h 1 W i 1 Y j 1 S k 1 U l 1 R … S w  R 2 F A T T F C A S 3  S 1 o S 2 a a b S 1 o S 2]
+[DELETED:  S  H " 1  N 1 N 0 . ( S D ( a t a w p b a t T t f t t p w " a f " p f t N R B f p s d a n o c O t D h c t w m i s p t E M s a l t t v t m I e o t p s b t C p w " s  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 694
+Senate Agriculture, Energy, and Environment Committee Substitute Adopted 6/4/25
+Short Title: Reg'l Water Study/IBT Subbasin/TMDL. (Public)
+Sponsors:
+Referred to:
+April 3, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO DIRECT THE ENVIRONMENTAL FINANCE CENTER AT THE SCHOOL OF
+3 GOVERNMENT AT THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL
+4 TO STUDY WATER AND WASTEWATER REGIONALIZATION, TO ELIMINATE
+5 CERTAIN SUBBASIN DESIGNATIONS AND REMOVE THE REQUIREMENT FOR
+6 AN INTERBASIN TRANSFER CERTIFICATE FOR WATER TRANSFERS BETWEEN
+7 THOSE CERTAIN SUBBASINS WITHIN THE SAME MAJOR RIVER BASIN, AND TO
+8 REVISE 2020 FARM ACT TMDL TRANSPORT FACTOR CALCULATION
+9 APPLICABILITY.
+10 The General Assembly of North Carolina enacts:
+11
+12 STUDY WATER/WASTEWATER REGIONALIZATION
+13 SECTION 1.(a) Legislative Findings. ‒ The General Assembly makes the following
+14 findings:
+15 (1) North Carolina has a significant number of distressed water and wastewater
+16 systems, defined as systems that fail to generate sufficient revenues to
+17 adequately fund management and operations, personnel, appropriate levels of
+18 maintenance, and reinvestment that facilitate the provision of reliable water
+19 or wastewater services.
+20 (2) Significant factors contributing to distressed systems include service
+21 populations too small or too geographically dispersed, or the closure of major
+22 industrial or commercial customers, which results in systems much larger and
+23 more expensive to operate than is needed for the population they serve.
+24 (3) Competition among local governments to capture large industrial or
+25 commercial customers can lead to unnecessary facility duplication and result
+26 in short-term decisions that do not reflect a responsible and prudent approach
+27 to long-term infrastructure needs.
+28 (4) North Carolina's funding programs for water and wastewater infrastructure
+29 demonstrate preferences for regionalization of water and wastewater
+30 infrastructure solutions in order to create or sustain financial viability for
+31 systems with significant maintenance or upgrade needs or serving high
+32 poverty areas of the State.
+33 (5) There continue to be information gaps and lack of awareness on the part of
+34 local government officials and policymakers of the benefits and obstacles to
+35 regionalization and the information these officials and policymakers need to
+36 guide local decisions on regionalization and other infrastructure decisions,
+*H694-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 particularly with regard to economic development and growth-related
+2 infrastructure needs, water system efficiency measures, and costs related to
+3 the development of new water sources.
+4 SECTION 1.(b) Study. – The Environmental Finance Center at the University of
+5 North Carolina at Chapel Hill School of Government (EFC) shall study and report on the benefits,
+6 costs, and financial, statutory, or regulatory obstacles to regionalization of water and wastewater
+7 services across the State. In the report, the EFC shall provide recommendations regarding all of
+8 the following:
+9 (1) Legislative or regulatory changes in financial, auditing, or oversight
+10 requirements imposed on public water and wastewater systems that will lead
+11 to more informed decision making on financial stability of those systems, and
+12 the potential of various regionalization measures to address financial
+13 instability.
+14 (2) Particular public water or wastewater systems in the State that would benefit
+15 significantly from various regionalization measures.
+16 SECTION 1.(c) Consultation. – In compiling its report and recommendations, the
+17 EFC shall consult with the State Water Infrastructure Authority, the Local Government
+18 Commission, the North Carolina League of Municipalities, the North Carolina Association of
+19 County Commissioners, and any other entity the EFC finds relevant to the issues it is studying.
+20 SECTION 1.(d) Report. – The EFC shall report its findings and recommendations
+21 no later than April 1, 2026, to the chairs of the House Oversight Committee, the chairs of the
+22 Senate Committee on Regulatory Reform, and the Joint Legislative Commission on
+23 Governmental Operations.
+24 SECTION 1.(e) Definitions. – For the purposes of this section, "public water system"
+25 has the same meaning as in G.S. 130A-313 and "wastewater system" has the same meaning as in
+26 G.S. 159G-20.
+27
+28 ELIMINATE SUBBASIN DESIGNATIONS FOR IBT PROCESS
+29 SECTION 2.(a) Legislative Findings. – The General Assembly makes the following
+30 findings with respect to eliminating the Haw River, Deep River, and Contentnea Creek subbasin
+31 designations:
+32 (1) These subbasins serve rapidly growing areas facing urgent water supply and
+33 economic development pressures.
+34 (2) Flexibility in intrabasin transfers within the Neuse and Cape Fear major river
+35 basins strengthens drought resilience and supports emergency water
+36 management.
+37 (3) Reducing unnecessary regulatory barriers allows municipalities and utilities
+38 in these subbasins to better plan and finance regional water infrastructure,
+39 improving affordability for consumers.
+40 (4) Existing watershed planning and management systems within the Cape Fear
+41 River and Neuse River major river basins mitigate potential environmental
+42 impacts caused by intrabasin transfers.
+43 SECTION 2.(b) G.S. 143-215.22G reads as rewritten:
+44 "§ 143-215.22G. Definitions.
+45 In addition to the definitions set forth in G.S. 143-212 and G.S. 143-213, the following
+46 definitions apply to this Part.
+47 …
+48 (1b) "River basin" means any of the following river basins designated on the map
+49 entitled "Major River Basins and Sub-basins in North Carolina" and filed in
+50 the Office of the Secretary of State on 16 April 1991. The term "river basin"
+51 includes any portion of the river basin that extends into another state. Any area
+Page 2 House Bill 694-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 outside North Carolina that is not included in one of the river basins listed in
+2 this subdivision comprises a separate river basin.
+3 a. 1-1 Broad River.
+4 b. 2-1 Haw River.
+5 c. 2-2 Deep River.
+6 d. 2-3 Cape Fear River.River, which includes Haw
+7 River (2-1) and Deep River (2-2).
+8 e. 2-4 South River.
+9 f. 2-5 Northeast Cape Fear River.
+10 g. 2-6 New River.
+11 h. 3-1 Catawba River.
+12 i. 3-2 South Fork Catawba River.
+13 j. 4-1 Chowan River.
+14 k. 4-2 Meherrin River.
+15 l. 5-1 Nolichucky River.
+16 m. 5-2 French Broad River.
+17 n. 5-3 Pigeon River.
+18 o. 6-1 Hiwassee River.
+19 p. 7-1 Little Tennessee River.
+20 q. 7-2 Tuskasegee (Tuckasegee) River.
+21 r. 8-1 Savannah River.
+22 s. 9-1 Lumber River.
+23 t. 9-2 Big Shoe Heel Creek.
+24 u. 9-3 Waccamaw River.
+25 v. 9-4 Shallotte River.
+26 w. 10-1 Neuse River.River, which includes
+27 Contentnea Creek (10-2).
+28 x. 10-2 Contentnea Creek.
+29 y. 10-3 Trent River.
+30 z. 11-1 New River.
+31 aa. 12-1 Albemarle Sound.
+32 bb. 13-1 Ocoee River.
+33 cc. 14-1 Roanoke River.
+34 dd. 15-1 Tar River.
+35 ee. 15-2 Fishing Creek.
+36 ff. 15-3 Pamlico River and Sound.
+37 gg. 16-1 Watauga River.
+38 hh. 17-1 White Oak River.
+39 ii. 18-1 Yadkin (Yadkin-Pee Dee) River.
+40 jj. 18-2 South Yadkin River.
+41 kk. 18-3 Uwharrie River.
+42 ll. 18-4 Rocky River.
+43 …."
+44 SECTION 2.(c) This section is effective when it becomes law and applies to water
+45 withdrawals or transfers initiated or modified on or after that date.
+46
+47 REVISE 2020 FARM ACT TMDL TRANSPORT FACTOR CALCULATION
+48 APPLICABILITY
+49 SECTION 3. Section 15 of S.L. 2020-18, as amended by Section 14 of S.L.
+50 2023-137, reads as rewritten:
+House Bill 694-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 "SECTION 15.(a) Notwithstanding 15A NCAC 02B .0701 (Nutrient Strategies
+2 Definitions), 15A NCAC 02B .0703 (Nutrient Offset Credit Trading), and 15A NCAC 02B .0713
+3 (Neuse Nutrient Strategy: Wastewater Discharge Requirements), nutrient offset credits shall be
+4 applied to a wastewater permit by applying the TMDL transport factor to the permitted
+5 wastewater discharge and to the nutrient offset credits as specified in the 1999 Phase I TMDL.
+6 "SECTION 15.(b) Subsection (a) of this section applies only to wastewater discharge permit
+7 applications for a local government located in the Neuse River Basin with a customer base of
+8 fewer than 15,000 connections.Basin.
+9 "SECTION 15.(c) The Department of Environmental Quality, in conjunction with affected
+10 parties, may begin the modeling necessary to determine new transport zones and delivery factors
+11 for the Neuse River Basin for point source discharges and nutrient offset credits. Once the
+12 Department has completed the watershed modeling, it shall provide the Environmental
+13 Management Commission a list of qualified professionals from which the Commission shall
+14 select at least two to validate the modeling. If each of the professionals selected by the
+15 Commission validate the model, the Commission may use the modeling and other information
+16 provided during the public comment period to adopt new transport zones and delivery factors, if
+17 warranted, by rule.
+18 "SECTION 15.(d) This section is effective when it becomes law. Subsection (a) of this
+19 section shall expire when the rule required by subsection (c) of this section becomes effective."
+20
+21 EFFECTIVE DATE
+22 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+23 law.
+Page 4 House Bill 694-Second Edition
+
+[DELETED:  2 R (   A A G T S W A W R T E C D F A T R 2 F A T T F C A T  S S f ( N s d a s t f t g s r t a m o ( S f c t d s i s p i m ( C a l g t c l i o c i t ( N d p f r o w a w i s i o t c o s f v f s w s m o u n o s h p ( T l r g]
+[DELETED:  S  H p w r t e d a g i t S N c s t ( L o r c i f a o o r t t p o v r m t a f i ( P s S E s c w t S W I A t L G C C S n S C o R R a t J L C o G S h G  E S f d ( T e ( F b s d r a s e w m ( R i i ( E R i S " I a t t d s f i G a G t f d … ( " e t i]
+[DELETED:  S  P o t a 1 B b 2 H c 2 D d 2 C R e 2 S f 2 N g 2 N h 3 C i 3 S j 4 C k 4 M l 5 N m 5 F n 5 P o 6 H p 7 L q 7 T r 8 S s 9 L t 9 B u 9 W v 9 S w 1 N R w i C x 1 C y 1 T z 1 N a 1 A b 1 O c 1 R d 1 T e 1 F f 1 P g 1 W h 1 W i 1 Y j 1 S k 1 U l 1 R … S w  R 2 F A T T F C A S 3  S 1 o S 2 a a b S 1 o S 2]
+[DELETED:  S  H " 1  N 1 N 0 . ( S D ( a t a w p b a t T t f t t p w " a f " p f t N R B f p s d a n o c O t D h c t w m i s p t E M s a l t t v t m I e o t p s b t C p w " s  E S l]

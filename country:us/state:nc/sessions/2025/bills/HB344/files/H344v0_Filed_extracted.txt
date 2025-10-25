@@ -1,0 +1,911 @@
+Title: HOUSE BILL DRH30136-MHa-55
+Official Title: HOUSE BILL DRH30136-MHa-55
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+H.B. 344
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Mar 10, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Litter Reduction Act of 2025. (Public)
+Sponsors: Representative K. Brown.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REDUCE ROADSIDE AND OTHER LITTERING AND TO ENCOURAGE
+3 RECYCLING BY REQUIRING A DEPOSIT ON BEVERAGE CONTAINERS AND
+4 REQUIRING REDEMPTION CENTERS TO ACCEPT RETURNED BEVERAGE
+5 CONTAINERS AND REFUND THE DEPOSITS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 9 of Chapter 130A of the General Statutes is amended by
+8 adding a new Part to read:
+9 "Part 2K. Beverage Container Deposits and Refunds.
+10 "§ 130A-309.245. Findings; intent.
+11 (a) The General Assembly finds that:
+12 (1) Beverage containers constitute a major source of nondegradable litter and
+13 solid waste in this State.
+14 (2) Litter remains a large problem in North Carolina despite other efforts to
+15 discourage littering and to establish criminal penalties under G.S. 14-399 for
+16 first-time and subsequent offenses of littering.
+17 (3) The collection and disposal of litter imposes a great financial burden on the
+18 citizens of North Carolina.
+19 (4) A more concerted effort to reduce litter is needed in North Carolina.
+20 (5) Beverage containers should be reused or recycled.
+21 (6) Other states' experience shows that beverage container deposit legislation is
+22 successful in reducing litter and increasing recycling of discarded beverage
+23 containers.
+24 (7) Beverage container deposit legislation is consistent with the State's policy, set
+25 forth in G.S. 130A-309.04, to promote methods of solid waste management
+26 that are alternatives to disposal in landfills.
+27 (8) The program under this Part will contribute significantly to the reduction of
+28 the beverage container component of the litter in this State.
+29 (b) It is the intent of the General Assembly to address the blight that litter imposes on the
+30 highways and lands of this State, while creating incentives for manufacturers, distributors,
+31 retailers, and consumers of beverages in beverage containers to recycle and reuse beverage
+32 containers.
+33 "§ 130A-309.246. Definitions.
+34 Unless a different meaning is required by the context, the following definitions apply
+35 throughout this Part:
+*DRH30136-MHa-55*
+General Assembly Of North Carolina Session 2025
+1 (1) Beverage. – Any ready-to-drink liquid intended for human oral consumption.
+2 Beverage includes any malt beverage; spirituous liquor; fortified wine;
+3 unfortified wine; wine cooler; soda or noncarbonated water; and any
+4 nonalcoholic carbonated or noncarbonated drink in liquid form. The term does
+5 not include any drug regulated under the federal Food, Drug, and Cosmetic
+6 Act (Title 21 U.S.C. § 301 et seq.; 52 Stat. 1040 et seq.), infant formula, meal
+7 replacement liquids, or dairy products derived from animal milk.
+8 (2) Beverage container. – A prepackaged container designed to hold a beverage
+9 that is made of any material, including glass, plastic, and metal. Beverage
+10 container does not include cartons, pouches, or aseptic packaging such as a
+11 drink box.
+12 (3) Consumer. – An individual who purchases a beverage in a beverage container
+13 for his or her use or consumption with no intent to resell the beverage.
+14 Consumer includes a lodging, eating, or drinking establishment.
+15 (4) Contracted agent. – A public or private company or individual who enters into
+16 an agreement with a distributor or deposit initiator to pick up empty beverage
+17 containers from redemption centers and dealers.
+18 (5) Curbside recycling program. – A recycling program that meets all of the
+19 following criteria:
+20 a. The program picks up recyclables from individual residences.
+21 b. The program is operated by, or pursuant to a contract with, a city,
+22 county, or other public agency.
+23 c. The program accepts empty beverage containers from consumers with
+24 the intent to recycle them.
+25 (6) Curbside recycling program entity. – A material recovery facility or any other
+26 person or establishment contracted to receive beverage containers collected
+27 through a curbside recycling program for the purposes of processing, sorting,
+28 or preparation for recycling.
+29 (7) Dealer. – A person who sells beverages in beverage containers, including
+30 beverage containers sold through vending machines, to a consumer at the
+31 retail level. Dealer does not include any of the following:
+32 a. Establishments who sell less than 250,000 beverage containers in a
+33 calendar year.
+34 b. Establishments that provide on-premises consumption of beverages in
+35 beverage containers, such as hotels, restaurants, or bars.
+36 (8) Deposit initiator. – The first distributor to collect the deposit on beverage
+37 containers sold to any person within the State.
+38 (9) Distributor. – A person who engages in the sale of beverages in beverage
+39 containers to a dealer in this State. A manufacturer of beverages who also
+40 engages in the sale of beverages is also a distributor.
+41 (10) Downcycling. – Methods of sorting, processing, and aggregating materials
+42 from solid waste that do not preserve the original material quality and, as a
+43 result, render the aggregated material no longer usable for manufacturing into
+44 the same or a substantially similar product.
+45 (11) Environmental justice community. – A community determined by the
+46 Department to include a concentration of low-income households, people of
+47 color – including indigenous peoples, or households lacking English language
+48 proficiency.
+49 (12) Processing payment. – The amount of money paid by a distributor to a
+50 curbside recycling entity as determined by the Department pursuant to
+51 G.S. 130A-309.255.
+Page 2 DRH30136-MHa-55
+General Assembly Of North Carolina Session 2025
+1 (13) Producer responsibility organization. – A nonprofit organization organized
+2 under section 501(c) or section 501(d) of the Internal Revenue Code (26
+3 U.S.C. § 501(c), § 501(d)) and created by a group of distributors to fulfill their
+4 obligations under this Part.
+5 (14) Recyclable. – With respect to beverage containers, a type of beverage
+6 container that can be technically recycled in current United States market
+7 conditions without the consumer needing to remove an attached component
+8 of the beverage container, such as a shrink sleeve, label, or filter.
+9 (15) Recycle, recycling, or recycled. – The series of activities by which a covered
+10 product is collected, sorted, processed, and converted into a raw material with
+11 minimal loss in material quality for use in the production of a new product,
+12 including a new version of the covered product. These terms do not include
+13 any of the following:
+14 a. Downcycling.
+15 b. The use of materials as fuel, a fuel substitute, or for energy production.
+16 c. The use of materials for repurposing into infrastructure or
+17 construction, including, but not limited to, pavement for streets,
+18 sidewalks, or roads, building materials, or other infrastructure
+19 products, as the Department may specify by rule.
+20 d. The disposal of materials within a solid waste disposal facility or the
+21 use of materials for alternative daily cover for a solid waste disposal
+22 facility.
+23 e. The processing of materials through advanced recycling, chemical
+24 recycling, combustion, gasification, incineration, pyrolysis,
+25 solvolysis, thermal desorption, waste-to-energy, waste-to-fuel, or any
+26 other chemical or molecular conversion process.
+27 (16) Recycling rate. – With respect to a category of beverage container, the
+28 percentage of that category of beverage container that is recycled.
+29 (17) Redeemer. – Any person other than a dealer who demands the refund value
+30 provided for herein in exchange for an empty beverage container.
+31 (18) Redemption center. – An operation certified by the Department that engages
+32 in any of the following activities:
+33 a. Accepts empty beverage containers from consumers of beverages and
+34 pays, or provides the refund value, for empty beverage containers.
+35 b. Collects and sorts empty beverage containers from dealers.
+36 (19) Redemption location. – A place, mobile unit, reverse vending machine, or
+37 other device where a certified redemption center accepts one or more types of
+38 empty beverage containers from consumers and pays, or provides the refund
+39 value, for one or more types of empty beverage containers.
+40 (20) Retailer. – A person who sells or offers for sale in this State to consumers a
+41 beverage in a beverage container, including an operator of a vending machine
+42 containing a beverage in a beverage container.
+43 (21) Reusable. – With respect to beverage containers, means that the container is
+44 capable of being refilled a number of times that the Department shall establish
+45 by rule under current market conditions in the United States.
+46 (22) Reverse vending machine. – An automated device that can accurately
+47 recognize the universal product code on containers to determine if the
+48 container is redeemable and accumulates information regarding containers
+49 redeemed, including the number of such containers redeemed, thereby
+50 enabling the device to accept containers from redeemers, issue a receipt for
+DRH30136-MHa-55 Page 3
+General Assembly Of North Carolina Session 2025
+1 their refund value, transmit data for reconciliation, sort, and compact the
+2 container to cancel it.
+3 (23) Single-use beverage container. – A beverage container that is not designed or
+4 placed in commerce to be reusable.
+5 (24) Supermarket. – A full-line, self-service retail store with gross annual sales of
+6 two million dollars ($2,000,000) or more that sells dry goods, canned goods,
+7 nonfood items, and perishable items.
+8 (25) Universal product code (UPC). – A standard for encoding a set of lines and
+9 spaces that can be scanned and interpreted into numbers to identify a product.
+10 Universal product code includes any industry accepted barcode used for
+11 product identification purposes in a manner similar to a UPC, such as a
+12 European Article Number.
+13 (26) Use or consumption. – The exercise of any right or power over a beverage
+14 incident to the ownership thereof, other than the sale, storage, or retention for
+15 the purposes of sale of a beverage.
+16 "§ 130A-309.247. Department to administer program; adoption of rules.
+17 (a) The Department shall administer this Part.
+18 (b) The Department and the Commission for Health Services may adopt any rules
+19 necessary or useful to implement this Part, and the Department may adopt any rules necessary or
+20 useful to carry out any of its duties imposed under this Part. The Department shall determine, by
+21 rule, all of the following:
+22 (1) The method for calculating the redemption rate and recycling rate for beverage
+23 containers.
+24 (2) The method for calculating the amount of reusable beverage containers sold
+25 or refilled.
+26 (3) The process for information collection necessary to ensure distributor and
+27 dealer compliance with the requirements of this Part.
+28 (4) The method for determining compliance with the performance standards set
+29 forth in G.S. 130A-309.256.
+30 (5) The designation of environmental justice communities in this State.
+31 (6) The number of cycles for a beverage container to qualify as reusable.
+32 (7) The process for determining the handling fee payable to dealers and
+33 redemption centers under G.S. 130A-309.254 and the applicable processing
+34 payment under G.S. 130A-309.255.
+35 (8) The process for licensing of redemption centers.
+36 (9) The process for soliciting, reviewing, and awarding grants from the
+37 Unredeemed Beverage Container Deposits Account established in
+38 G.S. 130A-309.257(c).
+39 "§ 130A-309.248. Deposit and refund value; requirements concerning beverage containers.
+40 (a) Every consumer who purchases a beverage in a beverage container shall pay a deposit
+41 equal to the refund value under subsection (b) of this section.
+42 (b) Subject to the adjustment set forth in subsection (d) of this section, every beverage
+43 container sold or offered for sale to a consumer in this State that has a volume which is not less
+44 than 50 milliliters nor greater than 3 liters of a beverage shall have a refund value of ten cents
+45 (10¢).
+46 (c) Every beverage container that contains a beverage that is sold or offered for sale in
+47 this State shall (i) clearly indicate by embossing or imprinting on the normal product label, or in
+48 the case of metal beverage containers, on the top of the container the words "North Carolina" or
+49 the initials "N.C." and the refund value of the container in not less than 1/4 inch type size and (ii)
+50 include a UPC barcode to identify and validate participation in the refund program as set forth in
+51 this section.
+Page 4 DRH30136-MHa-55
+General Assembly Of North Carolina Session 2025
+1 (d) Every five years, beginning July 1, 2028, the Department shall do all of the following:
+2 (1) Determine the percentages of each category of beverage containers, based on
+3 the composition of the container: aluminum, nonaluminum metal, glass,
+4 plastic, or other materials or combination of materials, that are being returned.
+5 If the Department finds that the return rate for any category is less than
+6 seventy-five percent (75%), the Department may increase the deposit value
+7 for that category of beverage containers by five cents (5¢).
+8 (2) Update the deposit value to reflect changes in the Consumer Price Index
+9 computed by the United States Bureau of Labor Statistics over the previous
+10 five years.
+11 "§ 130A-309.249. Duties of retailers.
+12 (a) Every retailer shall pay to the distributor deposits equal to the value of the refunds
+13 under G.S. 130A-309.248 when the retailer purchases beverages from a distributor and shall
+14 receive deposits from consumers at the time of sale.
+15 (b) Every retailer shall identify, by a clear and conspicuous sign at the retailer's place of
+16 business, the address of at least the redemption center or redemption location nearest to the
+17 retailer that redeems all types of empty beverage containers at one location during at least 30
+18 hours per week with a minimum of five hours of operation occurring during periods other than
+19 from Monday to Friday, from 9:00 A.M. to 5:00 P.M.
+20 "§ 130A-309.250. Regulation and reporting requirements for distributors of beverage
+21 containers.
+22 (a) No distributor shall sell a beverage container in the State without the distributor
+23 registering the beverage container with the Department prior to the sale. This registration shall
+24 take place on a form provided by the Department and include all of the following:
+25 (1) The name and principal business address of the distributor.
+26 (2) The name of the beverage and the container size.
+27 (3) The material type of the beverage container.
+28 (4) Documentation of the presence and type of UPC on the beverage container.
+29 (5) Methods the distributor intends to use to prevent the fraudulent sale and
+30 redemption of beverage containers not sold within the State.
+31 (6) The name of the person picking up the empty beverage containers from
+32 dealers, redemption centers, and curbside recycling entities, if that person is
+33 different from the distributor.
+34 (7) Any other information required by the Department to enforce the provisions
+35 of this Part.
+36 (b) The Department may request that a distributor provide a copy of the container label,
+37 or a picture of any beverage container sold or offered for sale in the State on which it initiates a
+38 deposit.
+39 (c) A distributor shall place a deposit as determined by G.S. 130A-309.248 on all
+40 beverage containers sold, offered for sale, or distributed into the sale.
+41 "§ 130A-309.251. Establishment of redemption centers.
+42 (a) The Department shall allow for the establishment, operation, and licensure of
+43 redemption centers. Redemption centers shall accept all types of beverage containers.
+44 (b) These redemption centers shall supplement, but not supplant, the return of beverage
+45 containers to dealers as required by G.S. 130A-309.252.
+46 "§ 130A-309.252. Acceptance of beverage containers by dealers.
+47 (a) A dealer shall accept at their place of business from a redeemer any empty beverage
+48 container during any period that the dealer is open for business, regardless of whether the specific
+49 beverage container was sold by the dealer, as long as the beverage container is made of the same
+50 type of material as the beverage containers sold by the dealer. The dealer shall pay to the
+51 redeemer the deposit value for each beverage container redeemed.
+DRH30136-MHa-55 Page 5
+General Assembly Of North Carolina Session 2025
+1 (b) A dealer or redemption center may refuse to accept from a redeemer any empty
+2 beverage container that is not clean, is broken, or contains foreign material or other contaminants.
+3 (c) Redemptions of the deposit value must be in legal tender, or a script or receipt from
+4 a reverse vending machine, providing that the script or receipt can be exchanged for legal tender
+5 for a period of not less than 60 days without requiring the purchase of other goods. The use or
+6 presence of a reverse vending machine shall not relieve a dealer of any obligation imposed
+7 pursuant to this Part. If a dealer utilizes a reverse vending machine to redeem containers, the
+8 dealer shall provide for redemption of beverage containers when the reverse vending machine is
+9 full, broken, under repair, or does not accept a type of beverage container material sold or offered
+10 for sale by such dealer.
+11 (d) Each dealer shall establish and maintain a dedicated area within their place of business
+12 to accept beverage containers for redemption.
+13 "§ 130A-309.253. Acceptance of beverage containers by distributors.
+14 (a) A distributor shall accept from a dealer or redemption center any empty beverage
+15 containers of the design, shape, size, color, composition, and brand sold, distributed, or offered
+16 for sale by the distributor in the State and shall pay the dealer or redemption center a handling
+17 fee as established by the Department pursuant to G.S. 130A-309.254 for each such beverage
+18 container.
+19 (b) A distributor shall accept and redeem all such empty beverage containers from a
+20 dealer or redemption center.
+21 (c) A distributor's failure to pick up empty beverage containers, including containers
+22 processed in a reverse vending machine, from a redemption center, dealer, or the operator of a
+23 reverse vending machine shall be a violation of this Part.
+24 (d) A group of distributors may elect to create or appoint a producer responsibility
+25 organization to fulfill their obligations under this Part. The Department shall not delegate to any
+26 producer responsibility organization the authority to oversee, enforce, or manage the
+27 requirements of this Part.
+28 "§ 130A-309.254. Handling fee.
+29 (a) A dealer or redemption center who redeems beverage containers shall be reimbursed
+30 by the distributor of such beverage containers a handling fee set by the Department.
+31 (b) The Department shall set the handling fee to be paid by distributors to dealers or
+32 redemption centers in a manner that covers the costs of collecting, sorting, processing, and
+33 transporting empty beverage containers for recycling, reuse, or refilling.
+34 (c) The Department shall update the handling fee every five years to reflect changes in
+35 the Consumer Price Index computed by the United States Bureau of Labor Statistics over the
+36 previous five years.
+37 (d) Beginning three years after the effective date of this act, the Department shall increase
+38 the handling fee by one cent (1¢) if there is less than one point of redemption for every 3,000
+39 persons in each county within the State or there is less than one point of redemption for every
+40 3,000 persons in an environmental justice community. For purposes of this subsection, a point of
+41 redemption is either a dealer or redemption center redeeming beverage containers.
+42 "§ 130A-309.255. Curbside collection of beverage containers.
+43 (a) The Department may approve procedures allowing for curbside recycling entities to
+44 be paid a processing payment for beverage containers collected, processed, sorted, and delivered
+45 to distributors for recycling, so long as the beverage containers collected are clean, sorted, and
+46 baled. The processing payment shall not exceed the value of the handling fee set by the
+47 Department pursuant to G.S. 130A-309.254.
+48 (b) Beverage containers collected, processed, sorted, and delivered to distributors by
+49 entities that collect curbside recycling shall not be included in the calculations of the performance
+50 requirements set in G.S. 130A-309.256.
+51 "§ 130A-309.256. Performance standards.
+Page 6 DRH30136-MHa-55
+General Assembly Of North Carolina Session 2025
+1 (a) The following performance standards apply with respect to redemption of beverage
+2 containers:
+3 (1) Beginning July 1, 2027, at least eighty percent (80%) of beverage containers
+4 sold in the State shall be redeemed.
+5 (2) Beginning July 1, 2029, at least ninety percent (90%) of beverage containers
+6 sold in the State shall be redeemed.
+7 (3) Beginning July 1, 2031, at least ninety-five percent (95%) of beverage
+8 containers sold in the State shall be redeemed.
+9 (b) The following performance standards apply with respect to recycling of single-use
+10 containers:
+11 (1) Beginning July 1, 2027, at least seventy percent (70%) of single-use beverage
+12 containers sold in the State shall be recycled.
+13 (2) Beginning July 1, 2029, at least eighty percent (80%) of single-use beverage
+14 containers sold in the State shall be recycled.
+15 (3) Beginning July 1, 2031, at least eighty-five percent (85%) of single-use
+16 beverage containers sold in the State shall be recycled.
+17 (c) The Department shall require each distributor, and any producer responsibility
+18 organization, to work with dealers within the State to develop a plan that ensures that the
+19 distributor and any producer responsibility organization meet the following standards for reuse
+20 and refilling:
+21 (1) Beginning July 1, 2029, at least ten percent (10%) of all beverage containers
+22 sold by the distributor or the distributors that are members of the producer
+23 responsibility organization are returned and refilled.
+24 (2) Beginning July 1, 2031, at least twenty percent (20%) of all beverage
+25 containers sold by the distributor or the distributors that are members of the
+26 producer responsibility organization are returned and refilled.
+27 "§ 130A-309.257. Management of deposits.
+28 (a) Each deposit initiator who received deposits under this act shall segregate the deposits
+29 in a deposit transaction fund maintained separately from all other revenues. Each deposit initiator
+30 shall place in the fund each deposit for all beverage containers the deposit initiator sells.
+31 (b) The revenue in the deposit transaction fund may only be expended to pay the refund
+32 to consumers for the return of an empty beverage container.
+33 (c) At the end of each month, any amounts that are or should be in the deposit initiator's
+34 deposit transaction fund that are in excess of the sum of (i) interest income earned on amounts in
+35 the fund during that month and (ii) the total amount of refund values received by the deposit
+36 initiator for beverage containers that month and the two preceding months shall be deemed to
+37 constitute unredeemed deposits.
+38 (d) No later than the tenth day of each month, each deposit initiator shall remit to the
+39 Department from its deposit transaction fund any deposit amounts deemed to be unredeemed at
+40 the close of the preceding month, pursuant to subsection (c) of this section.
+41 (e) If in any month the authorized payments from the deposit transaction fund by a
+42 deposit initiator exceed the funds that are or should be in the deposit transaction fund, the
+43 Department shall reimburse the deposit initiator the amount of excess funds remitted to it under
+44 this section.
+45 "§ 130A-309.258. Beverage Container Litter Reduction Account.
+46 (a) The Beverage Container Litter Reduction Account is created in the Department, to be
+47 administered by the Department. The Beverage Container Litter Reduction Account is a
+48 nonreverting fund that consists of unredeemed refund values remitted by distributors to the
+49 Department under G.S. 130A-309.257 and credited to the account. Interest earned shall accrue
+50 to the account.
+DRH30136-MHa-55 Page 7
+General Assembly Of North Carolina Session 2025
+1 (b) The Beverage Container Litter Reduction Account shall be used to fund the
+2 following:
+3 (1) The costs to the Department for administering this Part.
+4 (2) A reserve for contingencies in a reasonable and prudent amount determined
+5 by the Department, not to exceed one million dollars ($1,000,000).
+6 (c) The Unredeemed Beverage Container Deposits Account is created in the Department,
+7 to be administered by the Department. After all expenditures under subsection (b) of this section
+8 have been made, the balance remaining in the Beverage Container Litter Reduction Account shall
+9 be credited to the Unredeemed Beverage Container Deposits Account. The Unredeemed
+10 Beverage Container Deposits Account may be used by the Department to provide grants for all
+11 of the following purposes:
+12 (1) For urban, rural, and recreational litter abatement and recycling activities.
+13 (2) For recycling information, education, and promotion.
+14 (3) For incentive payments to encourage the establishment of redemption centers
+15 in environmental justice communities or rural areas.
+16 (4) For public education programs directed at reducing litter.
+17 "§ 130A-309.259. Additional penalties.
+18 (a) A person may be assessed a civil penalty not to exceed one thousand dollars ($1,000)
+19 per violation if the person does any of the following:
+20 (1) Sells or offers for sale beverages in containers not labeled in accordance with
+21 G.S. 130A-309.248 or registered under G.S. 130A-309.250.
+22 (2) Makes a report pursuant to G.S. 130A-309.260 that is false.
+23 (b) The Department may examine the accounts and records of deposit initiators and may
+24 assess a penalty of ten percent (10%) per year, plus interest, for underpayments of the refund
+25 value for beverage containers to be credited to the Beverage Container Litter Reduction Account.
+26 The Department may also impose a civil penalty of fifteen percent (15%) of the amount due for
+27 payments up to a month late and a five percent (5%) additional penalty for each month the
+28 payments continue to be unremitted.
+29 "§ 130A-309.260. Reports.
+30 (a) Every distributor who sells or offers for sale in this State beverage containers or
+31 beverages in beverage containers shall report to the Department no later than April 15, 2026, and
+32 quarterly thereafter, the number of beverage containers sold, categorized by material type and
+33 size and weight, by whether the container is reusable or single-use, and by any other manner
+34 prescribed by the Department.
+35 (b) No later than July 1, 2026, and annually thereafter, the Department shall determine
+36 and shall include in its report to the Environmental Review Commission all of the following:
+37 (1) A summary of the information contained in the distributors' reports under
+38 subsection (a) of this section.
+39 (2) The status of beverage container recycling opportunities throughout the State,
+40 together with any recommendations on methods to enhance the opportunities
+41 for all consumers in every region of the State to return empty beverage
+42 containers conveniently, efficiently, and economically.
+43 (3) An analysis of the total amount of funds used for program administration and
+44 for reimbursement payments to redemption centers, nonprofit drop-off
+45 programs, and curbside programs and an analysis of how funds in the
+46 Unredeemed Beverage Container Deposits Account are distributed and used
+47 under G.S. 130A-309.258(c).
+48 (4) The economic impact of this Part on North Carolina retailers, distributors, and
+49 manufacturers of beverages and their containers.
+50 (5) The problems, if any, incurred in the distribution, sale, and return of beverage
+51 containers attributed to the enactment of this Part.
+Page 8 DRH30136-MHa-55
+General Assembly Of North Carolina Session 2025
+1 (6) The effectiveness of this Part in reducing the proportion of empty beverage
+2 containers in litter found along the State's roads and highways and along its
+3 streams and rivers.
+4 (7) The effectiveness of this Part in increasing recycling or reuse of beverage
+5 containers.
+6 (8) The costs incurred in the administration of this Part.
+7 (9) Any recommendations or administrative or legislative proposals considered
+8 appropriate to improving the effectiveness of this Part in achieving its
+9 purposes.
+10 (10) Any other information the Department determines is pertinent to achieving
+11 the purposes of this Part.
+12 (c) The Department may require any retailer, distributor, or certified redemption center
+13 to provide that information concerning its compliance with this Part that will enable the
+14 Department to prepare its report under this section."
+15 SECTION 2. G.S. 130A-309.247, 130A-309.248(c), 130A-309.250(a), and
+16 130A-309.258(a), as enacted in Section 1 of this act, become effective April 1, 2026. The
+17 remainder of this act becomes effective January 1, 2026, and applies to beverage containers sold
+18 or offered for sale on or after that date.
+DRH30136-MHa-55 Page 9
+[DELETED:  D L ( R  A A A T R R A O L A T E R B R A D O B C A R R C T A R B C T S a " " ( T ( B s ( L r a l p i N C d o e t d f ( T c ( A ( B ( O s c ( B f t ( T t ( I h a l o t S w c i f m d r a c o i b c t r a r b c " U a d m i r b t c t f d a t]
+[DELETED:  S  D ( B B i a m b s l f w u w w c s o n w a a n n A r ( B t c d ( C f h o h u o c w n i t r t b C ( C a c ( C r p – A r p t m a o t f a T b T c c T t ( C p t o ( D b r a E c b E b ( D c ( D c e ( D f r t ( E j c – A c d b t D c p ( P p – T a o m p b a d t a c r e a d b t D p t G]
+[DELETED:  S  P ( P u s 5 o s 5 o t I R C ( U o ( R – W r t b c a t o b c c o ( R p m i a a D b T c T u o m f r i i o c i b n l t p f s s o r b m o o i p d T u f e T p o m t a r c r c g i p s o ( R r – W r t a c o b c t p ( R p ( R i a A p b C ( R o e v ( R b c ( R c b ( R v m – A a d t c a r t u p c o c t d i t c a r i t n o s c r t e]
+[DELETED:  S  D t r v t d f r s a c t c ( S p ( S t n ( U s U p c i a i a b u f p i p i a m s t a U s a a E ( U i t " ( T ( T D a t C f H S m a a r n u r ( T c ( T o ( T d ( T f ( T ( T ( T p f d t h f p t d a r p ( T ( T p f s r a a g f t U B C D A e i G " ( E e ( S c t ( ( E t t t i t]
+[DELETED:  S  P ( E ( D t c o t c a n m g p I t D f t t r r f a c i l t s f ( U t d v t r c i t C P I c f " ( E u r ( E b r h f " 1  R a r r f d o b c ( N d s s a b c t S w t d r t ( T ( T ( T ( D ( M t d i t u t p t f s a r ( T n o t p p u t e b c f d d ( A o ( T o d ( A d s p a d a d b G o a b " ( T D s a f t e o a l o r ( T c " ( A c b t o m a t b c s b t d T d s p t t r]
+[DELETED:  S  D ( A r a a a b ( R a f p p d f f ( E t " ( A c f f c ( A d ( A p r ( A g o d m e t c o a a p r o p r o t a t o e o m t r " ( A b ( T r c i a m c t c o s p a t ( T t p ( B t p 3 r " ( T b t b T p p s n e t v o t h f s b t D ( B c c p s a d t d b e r "]
+[DELETED:  S  P ( T c ( B s ( B s ( B J 1 2 a l n p ( o b c ( T c ( B c ( B c ( B J 1 2 a l e p ( o s b ( T D s r e d a a p r o t w w d w t S t d a p t e t t d a ( B s r ( B J 1 2 a l t p ( o a b c p " ( E i s ( T t ( A d t i c ( N D t ( I i a m t a p f t d t f b a d i e t f t a o s b i t d t f t D t " ( T a b t D T B C L R A i a n f c o u r r b d t t D t]
+[DELETED:  S  D ( T B C L R A s b u t f t f ( T ( A b ( T t h b c t t U B C D A T U B o ( F ( F ( F i ( F " ( A p ( S G ( M ( T a v T p p " ( E b b q s p ( N a ( A s ( T t f a c i e r o t S t r e b c ( A f r p t r c n d p a c p a a a o h f i t U u ( T m ( T c]
+[DELETED:  S  P ( T c s ( T c ( T ( A a t i t e o t P i a i p ( A t ( T t p t i c i c w t P t w e t D S 2  G 1 1 a 1 a e i S 1 o t a b e A 1 2 T r o]
+
+
+================================================================================
+
+Raw Text:
+H.B. 344
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Mar 10, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH30136-MHa-55
+Short Title: Litter Reduction Act of 2025. (Public)
+Sponsors: Representative K. Brown.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REDUCE ROADSIDE AND OTHER LITTERING AND TO ENCOURAGE
+3 RECYCLING BY REQUIRING A DEPOSIT ON BEVERAGE CONTAINERS AND
+4 REQUIRING REDEMPTION CENTERS TO ACCEPT RETURNED BEVERAGE
+5 CONTAINERS AND REFUND THE DEPOSITS.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1. Article 9 of Chapter 130A of the General Statutes is amended by
+8 adding a new Part to read:
+9 "Part 2K. Beverage Container Deposits and Refunds.
+10 "§ 130A-309.245. Findings; intent.
+11 (a) The General Assembly finds that:
+12 (1) Beverage containers constitute a major source of nondegradable litter and
+13 solid waste in this State.
+14 (2) Litter remains a large problem in North Carolina despite other efforts to
+15 discourage littering and to establish criminal penalties under G.S. 14-399 for
+16 first-time and subsequent offenses of littering.
+17 (3) The collection and disposal of litter imposes a great financial burden on the
+18 citizens of North Carolina.
+19 (4) A more concerted effort to reduce litter is needed in North Carolina.
+20 (5) Beverage containers should be reused or recycled.
+21 (6) Other states' experience shows that beverage container deposit legislation is
+22 successful in reducing litter and increasing recycling of discarded beverage
+23 containers.
+24 (7) Beverage container deposit legislation is consistent with the State's policy, set
+25 forth in G.S. 130A-309.04, to promote methods of solid waste management
+26 that are alternatives to disposal in landfills.
+27 (8) The program under this Part will contribute significantly to the reduction of
+28 the beverage container component of the litter in this State.
+29 (b) It is the intent of the General Assembly to address the blight that litter imposes on the
+30 highways and lands of this State, while creating incentives for manufacturers, distributors,
+31 retailers, and consumers of beverages in beverage containers to recycle and reuse beverage
+32 containers.
+33 "§ 130A-309.246. Definitions.
+34 Unless a different meaning is required by the context, the following definitions apply
+35 throughout this Part:
+*DRH30136-MHa-55*
+
+General Assembly Of North Carolina Session 2025
+1 (1) Beverage. – Any ready-to-drink liquid intended for human oral consumption.
+2 Beverage includes any malt beverage; spirituous liquor; fortified wine;
+3 unfortified wine; wine cooler; soda or noncarbonated water; and any
+4 nonalcoholic carbonated or noncarbonated drink in liquid form. The term does
+5 not include any drug regulated under the federal Food, Drug, and Cosmetic
+6 Act (Title 21 U.S.C. § 301 et seq.; 52 Stat. 1040 et seq.), infant formula, meal
+7 replacement liquids, or dairy products derived from animal milk.
+8 (2) Beverage container. – A prepackaged container designed to hold a beverage
+9 that is made of any material, including glass, plastic, and metal. Beverage
+10 container does not include cartons, pouches, or aseptic packaging such as a
+11 drink box.
+12 (3) Consumer. – An individual who purchases a beverage in a beverage container
+13 for his or her use or consumption with no intent to resell the beverage.
+14 Consumer includes a lodging, eating, or drinking establishment.
+15 (4) Contracted agent. – A public or private company or individual who enters into
+16 an agreement with a distributor or deposit initiator to pick up empty beverage
+17 containers from redemption centers and dealers.
+18 (5) Curbside recycling program. – A recycling program that meets all of the
+19 following criteria:
+20 a. The program picks up recyclables from individual residences.
+21 b. The program is operated by, or pursuant to a contract with, a city,
+22 county, or other public agency.
+23 c. The program accepts empty beverage containers from consumers with
+24 the intent to recycle them.
+25 (6) Curbside recycling program entity. – A material recovery facility or any other
+26 person or establishment contracted to receive beverage containers collected
+27 through a curbside recycling program for the purposes of processing, sorting,
+28 or preparation for recycling.
+29 (7) Dealer. – A person who sells beverages in beverage containers, including
+30 beverage containers sold through vending machines, to a consumer at the
+31 retail level. Dealer does not include any of the following:
+32 a. Establishments who sell less than 250,000 beverage containers in a
+33 calendar year.
+34 b. Establishments that provide on-premises consumption of beverages in
+35 beverage containers, such as hotels, restaurants, or bars.
+36 (8) Deposit initiator. – The first distributor to collect the deposit on beverage
+37 containers sold to any person within the State.
+38 (9) Distributor. – A person who engages in the sale of beverages in beverage
+39 containers to a dealer in this State. A manufacturer of beverages who also
+40 engages in the sale of beverages is also a distributor.
+41 (10) Downcycling. – Methods of sorting, processing, and aggregating materials
+42 from solid waste that do not preserve the original material quality and, as a
+43 result, render the aggregated material no longer usable for manufacturing into
+44 the same or a substantially similar product.
+45 (11) Environmental justice community. – A community determined by the
+46 Department to include a concentration of low-income households, people of
+47 color – including indigenous peoples, or households lacking English language
+48 proficiency.
+49 (12) Processing payment. – The amount of money paid by a distributor to a
+50 curbside recycling entity as determined by the Department pursuant to
+51 G.S. 130A-309.255.
+Page 2 DRH30136-MHa-55
+
+General Assembly Of North Carolina Session 2025
+1 (13) Producer responsibility organization. – A nonprofit organization organized
+2 under section 501(c) or section 501(d) of the Internal Revenue Code (26
+3 U.S.C. § 501(c), § 501(d)) and created by a group of distributors to fulfill their
+4 obligations under this Part.
+5 (14) Recyclable. – With respect to beverage containers, a type of beverage
+6 container that can be technically recycled in current United States market
+7 conditions without the consumer needing to remove an attached component
+8 of the beverage container, such as a shrink sleeve, label, or filter.
+9 (15) Recycle, recycling, or recycled. – The series of activities by which a covered
+10 product is collected, sorted, processed, and converted into a raw material with
+11 minimal loss in material quality for use in the production of a new product,
+12 including a new version of the covered product. These terms do not include
+13 any of the following:
+14 a. Downcycling.
+15 b. The use of materials as fuel, a fuel substitute, or for energy production.
+16 c. The use of materials for repurposing into infrastructure or
+17 construction, including, but not limited to, pavement for streets,
+18 sidewalks, or roads, building materials, or other infrastructure
+19 products, as the Department may specify by rule.
+20 d. The disposal of materials within a solid waste disposal facility or the
+21 use of materials for alternative daily cover for a solid waste disposal
+22 facility.
+23 e. The processing of materials through advanced recycling, chemical
+24 recycling, combustion, gasification, incineration, pyrolysis,
+25 solvolysis, thermal desorption, waste-to-energy, waste-to-fuel, or any
+26 other chemical or molecular conversion process.
+27 (16) Recycling rate. – With respect to a category of beverage container, the
+28 percentage of that category of beverage container that is recycled.
+29 (17) Redeemer. – Any person other than a dealer who demands the refund value
+30 provided for herein in exchange for an empty beverage container.
+31 (18) Redemption center. – An operation certified by the Department that engages
+32 in any of the following activities:
+33 a. Accepts empty beverage containers from consumers of beverages and
+34 pays, or provides the refund value, for empty beverage containers.
+35 b. Collects and sorts empty beverage containers from dealers.
+36 (19) Redemption location. – A place, mobile unit, reverse vending machine, or
+37 other device where a certified redemption center accepts one or more types of
+38 empty beverage containers from consumers and pays, or provides the refund
+39 value, for one or more types of empty beverage containers.
+40 (20) Retailer. – A person who sells or offers for sale in this State to consumers a
+41 beverage in a beverage container, including an operator of a vending machine
+42 containing a beverage in a beverage container.
+43 (21) Reusable. – With respect to beverage containers, means that the container is
+44 capable of being refilled a number of times that the Department shall establish
+45 by rule under current market conditions in the United States.
+46 (22) Reverse vending machine. – An automated device that can accurately
+47 recognize the universal product code on containers to determine if the
+48 container is redeemable and accumulates information regarding containers
+49 redeemed, including the number of such containers redeemed, thereby
+50 enabling the device to accept containers from redeemers, issue a receipt for
+DRH30136-MHa-55 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 their refund value, transmit data for reconciliation, sort, and compact the
+2 container to cancel it.
+3 (23) Single-use beverage container. – A beverage container that is not designed or
+4 placed in commerce to be reusable.
+5 (24) Supermarket. – A full-line, self-service retail store with gross annual sales of
+6 two million dollars ($2,000,000) or more that sells dry goods, canned goods,
+7 nonfood items, and perishable items.
+8 (25) Universal product code (UPC). – A standard for encoding a set of lines and
+9 spaces that can be scanned and interpreted into numbers to identify a product.
+10 Universal product code includes any industry accepted barcode used for
+11 product identification purposes in a manner similar to a UPC, such as a
+12 European Article Number.
+13 (26) Use or consumption. – The exercise of any right or power over a beverage
+14 incident to the ownership thereof, other than the sale, storage, or retention for
+15 the purposes of sale of a beverage.
+16 "§ 130A-309.247. Department to administer program; adoption of rules.
+17 (a) The Department shall administer this Part.
+18 (b) The Department and the Commission for Health Services may adopt any rules
+19 necessary or useful to implement this Part, and the Department may adopt any rules necessary or
+20 useful to carry out any of its duties imposed under this Part. The Department shall determine, by
+21 rule, all of the following:
+22 (1) The method for calculating the redemption rate and recycling rate for beverage
+23 containers.
+24 (2) The method for calculating the amount of reusable beverage containers sold
+25 or refilled.
+26 (3) The process for information collection necessary to ensure distributor and
+27 dealer compliance with the requirements of this Part.
+28 (4) The method for determining compliance with the performance standards set
+29 forth in G.S. 130A-309.256.
+30 (5) The designation of environmental justice communities in this State.
+31 (6) The number of cycles for a beverage container to qualify as reusable.
+32 (7) The process for determining the handling fee payable to dealers and
+33 redemption centers under G.S. 130A-309.254 and the applicable processing
+34 payment under G.S. 130A-309.255.
+35 (8) The process for licensing of redemption centers.
+36 (9) The process for soliciting, reviewing, and awarding grants from the
+37 Unredeemed Beverage Container Deposits Account established in
+38 G.S. 130A-309.257(c).
+39 "§ 130A-309.248. Deposit and refund value; requirements concerning beverage containers.
+40 (a) Every consumer who purchases a beverage in a beverage container shall pay a deposit
+41 equal to the refund value under subsection (b) of this section.
+42 (b) Subject to the adjustment set forth in subsection (d) of this section, every beverage
+43 container sold or offered for sale to a consumer in this State that has a volume which is not less
+44 than 50 milliliters nor greater than 3 liters of a beverage shall have a refund value of ten cents
+45 (10¢).
+46 (c) Every beverage container that contains a beverage that is sold or offered for sale in
+47 this State shall (i) clearly indicate by embossing or imprinting on the normal product label, or in
+48 the case of metal beverage containers, on the top of the container the words "North Carolina" or
+49 the initials "N.C." and the refund value of the container in not less than 1/4 inch type size and (ii)
+50 include a UPC barcode to identify and validate participation in the refund program as set forth in
+51 this section.
+Page 4 DRH30136-MHa-55
+
+General Assembly Of North Carolina Session 2025
+1 (d) Every five years, beginning July 1, 2028, the Department shall do all of the following:
+2 (1) Determine the percentages of each category of beverage containers, based on
+3 the composition of the container: aluminum, nonaluminum metal, glass,
+4 plastic, or other materials or combination of materials, that are being returned.
+5 If the Department finds that the return rate for any category is less than
+6 seventy-five percent (75%), the Department may increase the deposit value
+7 for that category of beverage containers by five cents (5¢).
+8 (2) Update the deposit value to reflect changes in the Consumer Price Index
+9 computed by the United States Bureau of Labor Statistics over the previous
+10 five years.
+11 "§ 130A-309.249. Duties of retailers.
+12 (a) Every retailer shall pay to the distributor deposits equal to the value of the refunds
+13 under G.S. 130A-309.248 when the retailer purchases beverages from a distributor and shall
+14 receive deposits from consumers at the time of sale.
+15 (b) Every retailer shall identify, by a clear and conspicuous sign at the retailer's place of
+16 business, the address of at least the redemption center or redemption location nearest to the
+17 retailer that redeems all types of empty beverage containers at one location during at least 30
+18 hours per week with a minimum of five hours of operation occurring during periods other than
+19 from Monday to Friday, from 9:00 A.M. to 5:00 P.M.
+20 "§ 130A-309.250. Regulation and reporting requirements for distributors of beverage
+21 containers.
+22 (a) No distributor shall sell a beverage container in the State without the distributor
+23 registering the beverage container with the Department prior to the sale. This registration shall
+24 take place on a form provided by the Department and include all of the following:
+25 (1) The name and principal business address of the distributor.
+26 (2) The name of the beverage and the container size.
+27 (3) The material type of the beverage container.
+28 (4) Documentation of the presence and type of UPC on the beverage container.
+29 (5) Methods the distributor intends to use to prevent the fraudulent sale and
+30 redemption of beverage containers not sold within the State.
+31 (6) The name of the person picking up the empty beverage containers from
+32 dealers, redemption centers, and curbside recycling entities, if that person is
+33 different from the distributor.
+34 (7) Any other information required by the Department to enforce the provisions
+35 of this Part.
+36 (b) The Department may request that a distributor provide a copy of the container label,
+37 or a picture of any beverage container sold or offered for sale in the State on which it initiates a
+38 deposit.
+39 (c) A distributor shall place a deposit as determined by G.S. 130A-309.248 on all
+40 beverage containers sold, offered for sale, or distributed into the sale.
+41 "§ 130A-309.251. Establishment of redemption centers.
+42 (a) The Department shall allow for the establishment, operation, and licensure of
+43 redemption centers. Redemption centers shall accept all types of beverage containers.
+44 (b) These redemption centers shall supplement, but not supplant, the return of beverage
+45 containers to dealers as required by G.S. 130A-309.252.
+46 "§ 130A-309.252. Acceptance of beverage containers by dealers.
+47 (a) A dealer shall accept at their place of business from a redeemer any empty beverage
+48 container during any period that the dealer is open for business, regardless of whether the specific
+49 beverage container was sold by the dealer, as long as the beverage container is made of the same
+50 type of material as the beverage containers sold by the dealer. The dealer shall pay to the
+51 redeemer the deposit value for each beverage container redeemed.
+DRH30136-MHa-55 Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (b) A dealer or redemption center may refuse to accept from a redeemer any empty
+2 beverage container that is not clean, is broken, or contains foreign material or other contaminants.
+3 (c) Redemptions of the deposit value must be in legal tender, or a script or receipt from
+4 a reverse vending machine, providing that the script or receipt can be exchanged for legal tender
+5 for a period of not less than 60 days without requiring the purchase of other goods. The use or
+6 presence of a reverse vending machine shall not relieve a dealer of any obligation imposed
+7 pursuant to this Part. If a dealer utilizes a reverse vending machine to redeem containers, the
+8 dealer shall provide for redemption of beverage containers when the reverse vending machine is
+9 full, broken, under repair, or does not accept a type of beverage container material sold or offered
+10 for sale by such dealer.
+11 (d) Each dealer shall establish and maintain a dedicated area within their place of business
+12 to accept beverage containers for redemption.
+13 "§ 130A-309.253. Acceptance of beverage containers by distributors.
+14 (a) A distributor shall accept from a dealer or redemption center any empty beverage
+15 containers of the design, shape, size, color, composition, and brand sold, distributed, or offered
+16 for sale by the distributor in the State and shall pay the dealer or redemption center a handling
+17 fee as established by the Department pursuant to G.S. 130A-309.254 for each such beverage
+18 container.
+19 (b) A distributor shall accept and redeem all such empty beverage containers from a
+20 dealer or redemption center.
+21 (c) A distributor's failure to pick up empty beverage containers, including containers
+22 processed in a reverse vending machine, from a redemption center, dealer, or the operator of a
+23 reverse vending machine shall be a violation of this Part.
+24 (d) A group of distributors may elect to create or appoint a producer responsibility
+25 organization to fulfill their obligations under this Part. The Department shall not delegate to any
+26 producer responsibility organization the authority to oversee, enforce, or manage the
+27 requirements of this Part.
+28 "§ 130A-309.254. Handling fee.
+29 (a) A dealer or redemption center who redeems beverage containers shall be reimbursed
+30 by the distributor of such beverage containers a handling fee set by the Department.
+31 (b) The Department shall set the handling fee to be paid by distributors to dealers or
+32 redemption centers in a manner that covers the costs of collecting, sorting, processing, and
+33 transporting empty beverage containers for recycling, reuse, or refilling.
+34 (c) The Department shall update the handling fee every five years to reflect changes in
+35 the Consumer Price Index computed by the United States Bureau of Labor Statistics over the
+36 previous five years.
+37 (d) Beginning three years after the effective date of this act, the Department shall increase
+38 the handling fee by one cent (1¢) if there is less than one point of redemption for every 3,000
+39 persons in each county within the State or there is less than one point of redemption for every
+40 3,000 persons in an environmental justice community. For purposes of this subsection, a point of
+41 redemption is either a dealer or redemption center redeeming beverage containers.
+42 "§ 130A-309.255. Curbside collection of beverage containers.
+43 (a) The Department may approve procedures allowing for curbside recycling entities to
+44 be paid a processing payment for beverage containers collected, processed, sorted, and delivered
+45 to distributors for recycling, so long as the beverage containers collected are clean, sorted, and
+46 baled. The processing payment shall not exceed the value of the handling fee set by the
+47 Department pursuant to G.S. 130A-309.254.
+48 (b) Beverage containers collected, processed, sorted, and delivered to distributors by
+49 entities that collect curbside recycling shall not be included in the calculations of the performance
+50 requirements set in G.S. 130A-309.256.
+51 "§ 130A-309.256. Performance standards.
+Page 6 DRH30136-MHa-55
+
+General Assembly Of North Carolina Session 2025
+1 (a) The following performance standards apply with respect to redemption of beverage
+2 containers:
+3 (1) Beginning July 1, 2027, at least eighty percent (80%) of beverage containers
+4 sold in the State shall be redeemed.
+5 (2) Beginning July 1, 2029, at least ninety percent (90%) of beverage containers
+6 sold in the State shall be redeemed.
+7 (3) Beginning July 1, 2031, at least ninety-five percent (95%) of beverage
+8 containers sold in the State shall be redeemed.
+9 (b) The following performance standards apply with respect to recycling of single-use
+10 containers:
+11 (1) Beginning July 1, 2027, at least seventy percent (70%) of single-use beverage
+12 containers sold in the State shall be recycled.
+13 (2) Beginning July 1, 2029, at least eighty percent (80%) of single-use beverage
+14 containers sold in the State shall be recycled.
+15 (3) Beginning July 1, 2031, at least eighty-five percent (85%) of single-use
+16 beverage containers sold in the State shall be recycled.
+17 (c) The Department shall require each distributor, and any producer responsibility
+18 organization, to work with dealers within the State to develop a plan that ensures that the
+19 distributor and any producer responsibility organization meet the following standards for reuse
+20 and refilling:
+21 (1) Beginning July 1, 2029, at least ten percent (10%) of all beverage containers
+22 sold by the distributor or the distributors that are members of the producer
+23 responsibility organization are returned and refilled.
+24 (2) Beginning July 1, 2031, at least twenty percent (20%) of all beverage
+25 containers sold by the distributor or the distributors that are members of the
+26 producer responsibility organization are returned and refilled.
+27 "§ 130A-309.257. Management of deposits.
+28 (a) Each deposit initiator who received deposits under this act shall segregate the deposits
+29 in a deposit transaction fund maintained separately from all other revenues. Each deposit initiator
+30 shall place in the fund each deposit for all beverage containers the deposit initiator sells.
+31 (b) The revenue in the deposit transaction fund may only be expended to pay the refund
+32 to consumers for the return of an empty beverage container.
+33 (c) At the end of each month, any amounts that are or should be in the deposit initiator's
+34 deposit transaction fund that are in excess of the sum of (i) interest income earned on amounts in
+35 the fund during that month and (ii) the total amount of refund values received by the deposit
+36 initiator for beverage containers that month and the two preceding months shall be deemed to
+37 constitute unredeemed deposits.
+38 (d) No later than the tenth day of each month, each deposit initiator shall remit to the
+39 Department from its deposit transaction fund any deposit amounts deemed to be unredeemed at
+40 the close of the preceding month, pursuant to subsection (c) of this section.
+41 (e) If in any month the authorized payments from the deposit transaction fund by a
+42 deposit initiator exceed the funds that are or should be in the deposit transaction fund, the
+43 Department shall reimburse the deposit initiator the amount of excess funds remitted to it under
+44 this section.
+45 "§ 130A-309.258. Beverage Container Litter Reduction Account.
+46 (a) The Beverage Container Litter Reduction Account is created in the Department, to be
+47 administered by the Department. The Beverage Container Litter Reduction Account is a
+48 nonreverting fund that consists of unredeemed refund values remitted by distributors to the
+49 Department under G.S. 130A-309.257 and credited to the account. Interest earned shall accrue
+50 to the account.
+DRH30136-MHa-55 Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (b) The Beverage Container Litter Reduction Account shall be used to fund the
+2 following:
+3 (1) The costs to the Department for administering this Part.
+4 (2) A reserve for contingencies in a reasonable and prudent amount determined
+5 by the Department, not to exceed one million dollars ($1,000,000).
+6 (c) The Unredeemed Beverage Container Deposits Account is created in the Department,
+7 to be administered by the Department. After all expenditures under subsection (b) of this section
+8 have been made, the balance remaining in the Beverage Container Litter Reduction Account shall
+9 be credited to the Unredeemed Beverage Container Deposits Account. The Unredeemed
+10 Beverage Container Deposits Account may be used by the Department to provide grants for all
+11 of the following purposes:
+12 (1) For urban, rural, and recreational litter abatement and recycling activities.
+13 (2) For recycling information, education, and promotion.
+14 (3) For incentive payments to encourage the establishment of redemption centers
+15 in environmental justice communities or rural areas.
+16 (4) For public education programs directed at reducing litter.
+17 "§ 130A-309.259. Additional penalties.
+18 (a) A person may be assessed a civil penalty not to exceed one thousand dollars ($1,000)
+19 per violation if the person does any of the following:
+20 (1) Sells or offers for sale beverages in containers not labeled in accordance with
+21 G.S. 130A-309.248 or registered under G.S. 130A-309.250.
+22 (2) Makes a report pursuant to G.S. 130A-309.260 that is false.
+23 (b) The Department may examine the accounts and records of deposit initiators and may
+24 assess a penalty of ten percent (10%) per year, plus interest, for underpayments of the refund
+25 value for beverage containers to be credited to the Beverage Container Litter Reduction Account.
+26 The Department may also impose a civil penalty of fifteen percent (15%) of the amount due for
+27 payments up to a month late and a five percent (5%) additional penalty for each month the
+28 payments continue to be unremitted.
+29 "§ 130A-309.260. Reports.
+30 (a) Every distributor who sells or offers for sale in this State beverage containers or
+31 beverages in beverage containers shall report to the Department no later than April 15, 2026, and
+32 quarterly thereafter, the number of beverage containers sold, categorized by material type and
+33 size and weight, by whether the container is reusable or single-use, and by any other manner
+34 prescribed by the Department.
+35 (b) No later than July 1, 2026, and annually thereafter, the Department shall determine
+36 and shall include in its report to the Environmental Review Commission all of the following:
+37 (1) A summary of the information contained in the distributors' reports under
+38 subsection (a) of this section.
+39 (2) The status of beverage container recycling opportunities throughout the State,
+40 together with any recommendations on methods to enhance the opportunities
+41 for all consumers in every region of the State to return empty beverage
+42 containers conveniently, efficiently, and economically.
+43 (3) An analysis of the total amount of funds used for program administration and
+44 for reimbursement payments to redemption centers, nonprofit drop-off
+45 programs, and curbside programs and an analysis of how funds in the
+46 Unredeemed Beverage Container Deposits Account are distributed and used
+47 under G.S. 130A-309.258(c).
+48 (4) The economic impact of this Part on North Carolina retailers, distributors, and
+49 manufacturers of beverages and their containers.
+50 (5) The problems, if any, incurred in the distribution, sale, and return of beverage
+51 containers attributed to the enactment of this Part.
+Page 8 DRH30136-MHa-55
+
+General Assembly Of North Carolina Session 2025
+1 (6) The effectiveness of this Part in reducing the proportion of empty beverage
+2 containers in litter found along the State's roads and highways and along its
+3 streams and rivers.
+4 (7) The effectiveness of this Part in increasing recycling or reuse of beverage
+5 containers.
+6 (8) The costs incurred in the administration of this Part.
+7 (9) Any recommendations or administrative or legislative proposals considered
+8 appropriate to improving the effectiveness of this Part in achieving its
+9 purposes.
+10 (10) Any other information the Department determines is pertinent to achieving
+11 the purposes of this Part.
+12 (c) The Department may require any retailer, distributor, or certified redemption center
+13 to provide that information concerning its compliance with this Part that will enable the
+14 Department to prepare its report under this section."
+15 SECTION 2. G.S. 130A-309.247, 130A-309.248(c), 130A-309.250(a), and
+16 130A-309.258(a), as enacted in Section 1 of this act, become effective April 1, 2026. The
+17 remainder of this act becomes effective January 1, 2026, and applies to beverage containers sold
+18 or offered for sale on or after that date.
+DRH30136-MHa-55 Page 9
+
+[DELETED:  D L ( R  A A A T R R A O L A T E R B R A D O B C A R R C T A R B C T S a " " ( T ( B s ( L r a l p i N C d o e t d f ( T c ( A ( B ( O s c ( B f t ( T t ( I h a l o t S w c i f m d r a c o i b c t r a r b c " U a d m i r b t c t f d a t]
+[DELETED:  S  D ( B B i a m b s l f w u w w c s o n w a a n n A r ( B t c d ( C f h o h u o c w n i t r t b C ( C a c ( C r p – A r p t m a o t f a T b T c c T t ( C p t o ( D b r a E c b E b ( D c ( D c e ( D f r t ( E j c – A c d b t D c p ( P p – T a o m p b a d t a c r e a d b t D p t G]
+[DELETED:  S  P ( P u s 5 o s 5 o t I R C ( U o ( R – W r t b c a t o b c c o ( R p m i a a D b T c T u o m f r i i o c i b n l t p f s s o r b m o o i p d T u f e T p o m t a r c r c g i p s o ( R r – W r t a c o b c t p ( R p ( R i a A p b C ( R o e v ( R b c ( R c b ( R v m – A a d t c a r t u p c o c t d i t c a r i t n o s c r t e]
+[DELETED:  S  D t r v t d f r s a c t c ( S p ( S t n ( U s U p c i a i a b u f p i p i a m s t a U s a a E ( U i t " ( T ( T D a t C f H S m a a r n u r ( T c ( T o ( T d ( T f ( T ( T ( T p f d t h f p t d a r p ( T ( T p f s r a a g f t U B C D A e i G " ( E e ( S c t ( ( E t t t i t]
+[DELETED:  S  P ( E ( D t c o t c a n m g p I t D f t t r r f a c i l t s f ( U t d v t r c i t C P I c f " ( E u r ( E b r h f " 1  R a r r f d o b c ( N d s s a b c t S w t d r t ( T ( T ( T ( D ( M t d i t u t p t f s a r ( T n o t p p u t e b c f d d ( A o ( T o d ( A d s p a d a d b G o a b " ( T D s a f t e o a l o r ( T c " ( A c b t o m a t b c s b t d T d s p t t r]
+[DELETED:  S  D ( A r a a a b ( R a f p p d f f ( E t " ( A c f f c ( A d ( A p r ( A g o d m e t c o a a p r o p r o t a t o e o m t r " ( A b ( T r c i a m c t c o s p a t ( T t p ( B t p 3 r " ( T b t b T p p s n e t v o t h f s b t D ( B c c p s a d t d b e r "]
+[DELETED:  S  P ( T c ( B s ( B s ( B J 1 2 a l n p ( o b c ( T c ( B c ( B c ( B J 1 2 a l e p ( o s b ( T D s r e d a a p r o t w w d w t S t d a p t e t t d a ( B s r ( B J 1 2 a l t p ( o a b c p " ( E i s ( T t ( A d t i c ( N D t ( I i a m t a p f t d t f b a d i e t f t a o s b i t d t f t D t " ( T a b t D T B C L R A i a n f c o u r r b d t t D t]
+[DELETED:  S  D ( T B C L R A s b u t f t f ( T ( A b ( T t h b c t t U B C D A T U B o ( F ( F ( F i ( F " ( A p ( S G ( M ( T a v T p p " ( E b b q s p ( N a ( A s ( T t f a c i e r o t S t r e b c ( A f r p t r c n d p a c p a a a o h f i t U u ( T m ( T c]
+[DELETED:  S  P ( T c s ( T c ( T ( A a t i t e o t P i a i p ( A t ( T t p t i c i c w t P t w e t D S 2  G 1 1 a 1 a e i S 1 o t a b e A 1 2 T r o]

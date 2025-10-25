@@ -1,0 +1,156 @@
+H.B. 938
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 10, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH40498-NH-167
+Short Title: Right to Repair Digital Electronics Act. (Public)
+Sponsors: Representative Longest.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT ESTABLISHING FAIR REPAIR REQUIREMENTS FOR MANUFACTURERS OF
+3 DIGITAL ELECTRONIC PRODUCTS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 75 of the General Statutes is amended by adding a new Article
+6 to read:
+7 "Article 9.
+8 "Fair Repair Requirements Act.
+9 "§ 75-150. Definitions.
+10 The following definitions apply in this Article:
+11 (1) Authorized repair provider. – An oral or written arrangement for a definite or
+12 indefinite period in which a manufacturer or distributor transfers to a separate
+13 business organization or individual license to use a trade name, service mark,
+14 or relative characteristic for the purposes of offering repair services under the
+15 name of the manufacturer.
+16 (2) Digital electronic product. – A part or machine containing a microprocessor
+17 originally manufactured for distribution and sale in the United States.
+18 (3) Documentation. – Manuals, diagrams, reporting output, or service code
+19 descriptions provided to the authorized repair provider for the purposes of
+20 repair.
+21 (4) Embedded software. – Programmable instructions provided on firmware
+22 delivered with the digital electronic product for the purposes of product
+23 operation, including all relevant patches and fixes made by the manufacturer
+24 for this purpose, including, but not limited to, "basic internal operating
+25 system," "internal operating system," "machine code," "assembly code," "root
+26 code," and "microcode."
+27 (5) Fair and reasonable terms. – An equitable price in light of relevant factors,
+28 including all of the following:
+29 a. The net cost to the authorized repair provider for similar parts obtained
+30 from manufacturers, less any discounts, rebates, or other incentive
+31 programs.
+32 b. The cost to the manufacturer for preparing and distributing the parts
+33 or product, excluding any research and development costs incurred in
+34 designing and implementing, upgrading, or altering the product, but
+35 including amortized capital costs for the preparation and distribution
+36 of the parts.
+*DRH40498-NH-167*
+
+General Assembly Of North Carolina Session 2025
+1 c. The price charged by other manufacturers for similar parts or products.
+2 (6) Independent repair provider. – An individual or business operating in the State
+3 that is not affiliated with a manufacturer or a manufacturer's authorized dealer
+4 of a digital electronic product that is engaged in the diagnosis, service,
+5 maintenance, or repair of a digital electronic product. A manufacturer's
+6 authorized dealer shall be considered an independent repair provider when the
+7 dealer engages in the diagnosis, service, maintenance, or repair of a digital
+8 electronic product that is not affiliated with the manufacturer.
+9 (7) Manufacturer. – An individual or business who, in the ordinary course of its
+10 business, is engaged in the business of selling or leasing new digital electronic
+11 products to consumers or other end users and is engaged in the diagnosis,
+12 service, maintenance, or repair of that product.
+13 (8) Owner. – An individual or business who lawfully acquires a digital electronic
+14 product purchased or used in the State.
+15 (9) Remote diagnostics. – A remote data transfer function between a digital
+16 electronic product and a provider of repair services, including for purposes of
+17 diagnostics, settings controls, or location identification.
+18 (10) Service parts. – Replacement parts, either new or used, made available by the
+19 manufacturer to the authorized repair provider for the purposes of repair.
+20 (11) Trade secret. – Anything tangible or intangible or electronically stored or kept
+21 that constitutes, represents, evidences, or records intellectual property,
+22 including secret or confidentially held designs, processes, procedures,
+23 formulas, inventions or improvements or secrets of confidentially held
+24 scientific, technical, merchandising, production, financial, business or
+25 management information, or anything within the definition of 18 U.S.C. §
+26 1839(3).
+27 "§ 75-151. Fair repair requirements.
+28 (a) Manufacturers of digital electronic products sold or used in this State are required to
+29 do all of the following:
+30 (1) Make available to independent repair facilities or owners of products
+31 manufactured by the manufacturer diagnostic and repair information,
+32 including repair technical updates, diagnostic software, service access
+33 passwords, updates and corrections to firmware, and related documentation,
+34 free of charge and in the same manner the manufacturer makes available to its
+35 authorized repair providers.
+36 (2) Make available for purchase by the product owner, or the authorized agent of
+37 the owner, service parts, including updates to the firmware of the parts, for
+38 purchase upon fair and reasonable terms. Nothing in this section requires the
+39 manufacturer to sell service parts if the service parts are no longer available
+40 to the manufacturer or the authorized repair channel of the manufacturer.
+41 (b) Manufacturers that sell diagnostic, service, or repair information to an independent
+42 repair provider or a third-party provider in a format that is standardized with other manufacturers,
+43 and on terms and conditions more favorable than the manner and the terms and conditions
+44 pursuant to which an authorized repair provider obtains the same diagnostic, service, or repair
+45 information, are prohibited from requiring an authorized repair provider to continue purchasing
+46 diagnostic, service, or repair information in a proprietary format, unless the proprietary format
+47 includes diagnostic, service, repair, or dealership operations information or functionality that is
+48 not available in a standardized format.
+49 (c) Manufacturers of digital electronic products sold or used in this State shall make
+50 available for purchase by owners and independent repair facilities all diagnostic repair tools,
+51 incorporating the same diagnostic repair and remote diagnostic capabilities that the manufacturer
+Page 2 DRH40498-NH-167
+
+General Assembly Of North Carolina Session 2025
+1 makes available to its own repair or engineering staff or any authorized repair providers, upon
+2 fair and reasonable terms.
+3 (d) Manufacturers that provide repair information to aftermarket tool, diagnostics, or
+4 third-party service information publications and systems have fully satisfied their obligations
+5 under this section and thereafter are not responsible for the content and functionality of
+6 aftermarket diagnostic tools or service information systems.
+7 (e) Manufacturers of digital electronic products sold or used in the State for the purposes
+8 of providing security-related functions may not exclude diagnostic, service, and repair
+9 information necessary to reset a security-related electronic function from information provided
+10 to owners and independent repair facilities. If necessary for security purposes, manufacturers
+11 may provide information necessary to reset and unlock system or security-related electronic
+12 modules to owners and independent repair facilities through an appropriate secure data release
+13 system.
+14 "§ 75-152. No requirement to divulge trade secret.
+15 This Article does not require the manufacturer to divulge a trade secret.
+16 "§ 75-153. No abrogation of contract.
+17 This Article shall not be interpreted or construed to abrogate, interfere with, contradict, or
+18 alter the terms of an agreement executed between an authorized repair provider and a
+19 manufacturer, including, but not limited to, performing warranty or recall repair work by an
+20 authorized repair provider on behalf of a manufacturer pursuant to the authorized repair
+21 agreement. Except in the case of a dispute arising between a manufacturer and its authorized
+22 repair provider related to either party's compliance with an existing repair agreement, an
+23 authorized repair provider has all of the rights and remedies provided in this section.
+24 "§ 75-154. No access to certain information.
+25 This Article does not require manufacturers or authorized repair providers to provide an
+26 owner or independent repair provider access to nondiagnostic and nonrepair information
+27 provided by a manufacturer to an authorized repair provider pursuant to the terms of an
+28 authorizing agreement.
+29 "§ 75-155. Right to cure.
+30 (a) An independent repair provider or owner who believes that a manufacturer has failed
+31 to provide information, including documentation, updates to firmware, safety and security
+32 corrections, diagnostics, documentation, or a tool required by this section, must notify the
+33 manufacturer in writing and give the manufacturer 30 days from the time the manufacturer
+34 receives the complaint to cure the failure. If the manufacturer cures the complaint within 30 days,
+35 damages are limited to actual damages in any subsequent litigation.
+36 (b) If the manufacturer fails to respond to the notice provided in subsection (a) of this
+37 section, or if an independent repair facility or owner is not satisfied with the manufacturer's cure,
+38 the independent repair facility or owner may file a complaint in district court. The complaint
+39 must include all of the following:
+40 (1) Written information confirming that the complainant has attempted to acquire
+41 and use, through the then-available standard support function provided by the
+42 manufacturer, all relevant diagnostics, tools, service parts, documentation,
+43 and updates to embedded software, including communication with customer
+44 assistance via the manufacturer's then-standard process, if made available by
+45 the manufacturer.
+46 (2) Evidence of manufacturer notification as required in subsection (a) of this
+47 section."
+48 SECTION 2. This act becomes effective October 1, 2025.
+DRH40498-NH-167 Page 3
+
+[DELETED:  D R ( R  A A D T S t " " " T ( A i b o n ( D o ( D – M d r o o s c d r ( E s – P i p o f d w t d e p f t p o p o f t p i b n l t " i o s c ( F i a T f m l a d r o i p b T o d i o]
+[DELETED:  S  D c T ( I t o a d e p t i e i t d s m o r o a d e p A m a d e ( M b p s ( O p ( R d – A r d t f b a d e d ( S m ( T t c r e o r i p i s o c h d p p f i o i o s o c h s t m p f b o m 1 " ( M d ( M a t i r f o o o p m b t m d a r i i r t u d s s a p f a ( M t p m t ( M r a o t a c m f t t m t t a c p i d i n ( M a i]
+[DELETED:  S  P m f ( M t u t s a t a n r f t c a f o a ( M o p s f m n e d s a r i t m m s " T " T a t t o a a e b a a r p a a m a r p o b o a m p t t a r a r p r t e p c w a e r a a a " T o o i r p a t n a n i p b a m t a a r p p t t t o a a " ( A t p i i d u t f s a s c d d o a t r b t s m n t m w r d ( I s t m ( W a m r d t s p d a a t ( E s S]

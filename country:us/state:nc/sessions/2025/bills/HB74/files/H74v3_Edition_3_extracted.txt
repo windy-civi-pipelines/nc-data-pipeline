@@ -1,0 +1,2621 @@
+Title: HOUSE BILL 74
+Official Title: HOUSE BILL 74
+Number of Sections: 1
+Source: versions - Edition 3
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+Committee Substitute Favorable 3/3/25
+Senate Appropriations/Base Budget Committee Substitute Adopted 4/29/25
+Short Title: House Budget Technical Corrections. (Public)
+Sponsors:
+Referred to:
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS TECHNICAL AND CLARIFYING CHANGES TO THE
+3 CURRENT OPERATIONS APPROPRIATIONS ACT OF 2023 AND TO OTHER ACTS.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. GENERAL PROVISIONS
+7
+8 EXTEND THE TIME LINE FOR CERTAIN DIRECTED GRANTS TO NON-STATE
+9 ENTITIES
+10 SECTION 1.1.(a) This section applies to any directed grants appropriated as
+11 nonrecurring funds in S.L. 2022-74 for the 2022-2023 fiscal year that (i) remain unexpended as
+12 of the effective date of this section and (ii) are subject to reversion on December 31, 2024, as set
+13 forth in Section 1 of S.L. 2024-40. Notwithstanding any provision of law to the contrary, the
+14 grants described by this section shall not revert on December 31, 2024, but shall remain available
+15 for expenditure for the purpose for which the funds were appropriated until the earlier of the date
+16 the funds are expended or the date the funds revert pursuant to subsection (b) of this section.
+17 SECTION 1.1.(b) Any funds described in subsection (a) of this section that remain
+18 unexpended as of December 31, 2024, shall revert to the appropriate fund at the end of the
+19 2025-2026 fiscal year.
+20 SECTION 1.1.(c) This section is effective retroactively to December 31, 2024.
+21
+22 PART IA. DISASTER RELIEF RELATED PROVISIONS
+23
+24 NCORR FUNDS TRANSFER CORRECTION
+25 SECTION 1A.1. Section 2B.2(a1) of S.L. 2025-2 reads as rewritten:
+26 "SECTION 2B.2.(a1) Additional Transfer. – The State Controller shall transfer all funds
+27 remaining in the Hurricane Florence Disaster Recovery Fund that remain unexpended
+28 unencumbered as of the date this act becomes law to the Savings Reserve."
+29
+30 AGRICULTURAL DISASTER CROP LOSS PROGRAM CORRECTION
+31 SECTION 1A.2.(a) Section 2D.2(b) of S.L. 2025-2 reads as rewritten:
+32 "SECTION 2D.2.(b) Verification of Loss. – A person seeking financial assistance for losses
+33 of agricultural commodities under the Program shall submit to the Department a Form 578 on
+34 file with the USDA Farm Service Agency or a form provided by the Department for reporting
+35 acreage or plantings of crops or reporting infrastructure damage or loss that is not typically
+*H74-v-3*
+General Assembly Of North Carolina Session 2025
+1 reported on Form 578, along with any other documentation deemed appropriate by the
+2 Department, no later than 45 60 days after this section becomes effective. For nursery crops,
+3 fruit-bearing trees and bushes, and specialty crops where the survival level is not immediately
+4 known, the Department may extend this deadline by an additional 45 60 days, upon written
+5 request by the person received no later than 45 60 days after this subpart becomes effective and
+6 upon approval by the Department. A person receiving assistance under this Program must provide
+7 a signed affidavit, under penalty of perjury, certifying that each fact of the loss presented by the
+8 person is accurate."
+9 SECTION 1A.2.(b) Section 2D.2(c) of S.L. 2025-2 reads as rewritten:
+10 "SECTION 2D.2.(c) Criteria. – The Department shall administer the financial assistance
+11 program authorized by this subpart in accordance with the following criteria:
+12 …
+13 (2) The Department shall gather all claim information, except from those
+14 applicants granted a deadline extension, no later than 45 60 days after this
+15 subpart becomes law. The Department shall, as closely as possible, estimate
+16 the amount of the funds needed to be held in reserve for payments related to
+17 losses of nursery, bush, tree, and specialty crops for which losses will not be
+18 fully known or calculated. The Department shall set aside funds as it deems
+19 appropriate based on the estimated percentage of these losses.
+20 …."
+21
+22 LOCAL GOVERNMENT FEMA LOAN REIMBURSEMENT FROM PREVIOUS
+23 DISASTERS
+24 SECTION 1A.3. Units of local governments that received loan funds under Section
+25 1.5(1) of S.L. 2018-138 or Section 1.2(3)a. of S.L. 2019-250 to assist with cashflow management
+26 while awaiting federal reimbursement, may apply to the Department of Public Safety, Office of
+27 Recovery and Resiliency, for forgiveness of any portion, in whole or in part, of the outstanding
+28 principal and interest of each loan received if all of the following conditions apply:
+29 (1) The unit of local government applied for Public Assistance reimbursement
+30 from the Federal Emergency Management Agency (FEMA) and that
+31 application was denied, in whole or in part.
+32 (2) The unit of local government does not have any active appeals or active
+33 arbitrations for Public Assistance reimbursement from FEMA.
+34 (3) The project worksheet has been closed.
+35
+36 PART II. EDUCATION
+37
+38 REVISE DEADLINE FOR UNC REPORT ON STATE BUDGET ALLOCATIONS AND
+39 POLICIES
+40 SECTION 2.1. G.S. 116-11(9b) reads as rewritten:
+41 "(9b) The Board of Governors shall report by February 1 March 1 of each year to
+42 the Joint Legislative Education Oversight Committee, the Senate
+43 Appropriations Committee on Education/Higher Education, the House of
+44 Representatives Appropriations Subcommittee on Education, and the Fiscal
+45 Research Division on the actions and adjustments necessary to its budgetary
+46 policies, regulations, and standards resulting from the Current Operations
+47 Appropriations Act for the administration and operation of The University of
+48 North Carolina and the distribution of State and federal funds to constituent
+49 institutions. The report shall include at least the following information for
+50 each constituent institution:
+Page 2 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 a. Guidelines related to State salaries of University of North Carolina
+2 employees, including range, median, and mean of faculty salaries at
+3 the institution.
+4 b. Budget allocations and reductions, including for operating expenses
+5 and specific programs.
+6 c. Distribution of additional State allocations for enrollment funding.
+7 d. Use of State funds and budget flexibility.
+8 e. Availability of federal funds.
+9 f. Tuition and fees.
+10 g. Composition of the student population at the institution, including
+11 headcount enrollment and full-time student enrollment for both
+12 undergraduate and graduate students, and aggregate data on residency
+13 status, median household income, gender, race, and ethnicity.
+14 h. Student retention and graduation rates.
+15 i. Postsecondary educational attainment rate at the institution, including
+16 comparison to statewide data.
+17 j. A comparison to prior fiscal year expenditures and appropriations.
+18 k. The total amount of mandatory student fee revenue collected by
+19 institution and fee type.
+20 l. Any source of student auxiliary revenue that represents greater than
+21 ten percent (10%) of the overall student auxiliary revenue by
+22 institution and revenue type.
+23 m. Any source of sales revenue that represents greater than ten percent
+24 (10%) of the overall sales revenue by institution and sales revenue
+25 type."
+26
+27 UNC BOARD OF GOVERNORS TEMPORARY EMPLOYMENT AUTHORITY
+28 SECTION 2.2.(a) G.S. 126-5(c1)(8) reads as rewritten:
+29 "(8) Employees of The University of North Carolina who are exempt from the
+30 minimum wage and overtime compensation provisions of the Fair Labor
+31 Standards Act, including instructional and research staff, student-oriented
+32 professionals, finance professionals, business office professionals, auditor
+33 professionals, information technology professionals, physicians, dentists,
+34 pilots, and the faculty of the North Carolina School of Science and
+35 Mathematics. Mathematics, and all temporary employees. The Board of
+36 Governors of The University of North Carolina shall have the authority to
+37 establish positions under this subdivision to be exempt from this Chapter
+38 without further review or approval by any other State agency."
+39 SECTION 2.2.(b) This section becomes effective January 1, 2026.
+40
+41 REQUIRE THE OFFICE OF THE STATE FIRE MARSHAL TO MAINTAIN THE
+42 ONLINE REPORTING PORTAL ON THE STORAGE AND DEPLOYMENT OF
+43 AQUEOUS FILM-FORMING FOAMS
+44 SECTION 2.3.(a) G.S. 58-82B-10 reads as rewritten:
+45 "§ 58-82B-10. Duties of Office of the State Fire Marshal.
+46 The Office of the State Fire Marshal (OSFM) shall do all of the following:
+47 …
+48 (2) Assist the North Carolina Collaboratory, established under G.S. 116-255, in
+49 the development of Develop and maintain, with the assistance of the North
+50 Carolina Collaboratory established under G.S. 116-255, an online reporting
+51 portal for fire departments operated, regulated, or managed by one or more
+House Bill 74-Third Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 units of State and local government, including those located at or serving
+2 public airports, with the requirements of this Article.
+3 …."
+4 SECTION 2.3.(b) G.S. 116-255(b)(6) reads as rewritten:
+5 "(6) Maintain an online reporting portal, in partnership with Assist the Office of
+6 State Fire Marshal, Marshal in the maintenance of the online reporting portal
+7 on the storage and deployment of Aqueous Film-Forming Foams (AFFF) as
+8 required by G.S. 58-82B-10."
+9 SECTION 2.3.(c) Subsection (i) of Section 8.10 of S.L. 2021-180 reads as rewritten:
+10 "SECTION 8.10.(i) The Collaboratory, in partnership with the The Office of the State Fire
+11 Marshal (OSFM) (OSFM), in partnership with the Collaboratory and any unit of State and local
+12 government deemed relevant by the Collaboratory, OSFM, shall develop and maintain the online
+13 reporting portal as required by G.S. 58-82B-10, as enacted by subsection (h) of this section, and
+14 G.S. 116-255(b)(6), as enacted by Section 8.8 of this act. The portal shall consist of an online
+15 reporting tool and related database that captures the storage and deployment of Aqueous
+16 Film-Forming Foams (AFFF) by fire departments in the State that are operated, managed, or
+17 overseen by units of local government, including those located at or serving public airports. The
+18 reporting tool shall be easily accessible to firefighters and fire department personnel to upload
+19 the data. The required inventory data shall include, at a minimum, the following:
+20 …."
+21
+22 NORTH CAROLINA COLLABORATORY MAY USE CYANOBACTERIAL ALGAL
+23 BLOOM TREATMENT PILOT PROJECT FUNDS FOR OTHER RESEARCH
+24 PROJECTS
+25 SECTION 2.4. Section 8.18(c) of S.L. 2021-180 reads as rewritten:
+26 "SECTION 8.18.(c) The nonrecurring funds appropriated in this act for the 2021-2022 fiscal
+27 year to the Board of Governors of The University of North Carolina and allocated to the
+28 Collaboratory for the study of a cyanobacterial algal bloom treatment provided in subsection (b)
+29 of this section shall not revert to the General Fund at the end of the 2021-2022 fiscal year but
+30 shall remain available until expended. If these funds are not fully expended after the
+31 Collaboratory completes the evaluation required by this section, the Collaboratory may in its
+32 discretion use these funds for other research projects related to the study, analysis, and
+33 improvement of surface water quality in the State, including research projects related to
+34 nutrient-impaired coastal waters."
+35
+36 PART III. HEALTH AND HUMAN SERVICES [RESERVED]
+37
+38 PART IV. AGRICULTURE AND NATURAL AND ECONOMIC RESOURCES
+39
+40 REALLOCATE WATER INFRASTRUCTURE FUNDS
+41 SECTION 4.1.(a) Notwithstanding any provision of S.L. 2023-134 or the
+42 Committee Report referenced in Section 43.2 of that act to the contrary, three million dollars
+43 ($3,000,000) of the funds allocated to the City of Oxford for the Kerr Lake Regional Water
+44 project by Section 12.2(e)(136) of S.L. 2023-134 shall instead be allocated to the South Granville
+45 Water and Sewer Authority for one or more water or wastewater infrastructure projects.
+46 SECTION 4.1.(b) Notwithstanding any provision of S.L. 2023-134 or the
+47 Committee Report referenced in Section 43.2 of that act to the contrary, seven million dollars
+48 ($7,000,000) of the funds allocated to the City of Oxford for the Kerr Lake Regional Water
+49 project by Section 12.2(e)(136) of S.L. 2023-134 shall be transferred to the Office of State Budget
+50 and Management to provide grants to the following local governments and purposes:
+Page 4 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (1) Three million dollars ($3,000,000) to Franklin County for an infrastructure
+2 project.
+3 (2) One million dollars ($1,000,000) to Catawba County for a wastewater
+4 infrastructure project.
+5 (3) Three million dollars ($3,000,000) to Hertford County for a water or
+6 wastewater infrastructure project.
+7 SECTION 4.1.(c) Notwithstanding any provision of S.L. 2023-134 or the Committee
+8 Report referenced in Section 43.2 of that act to the contrary, four million dollars ($4,000,000) of
+9 the funds allocated by Section 12.2(e)(139) of S.L. 2023-134 shall be transferred to the Office of
+10 State Budget and Management to provide grants in the following amounts for the following
+11 purposes:
+12 (1) Three million two hundred thousand dollars ($3,200,000) to Stokesdale Fire
+13 District, Inc., a nonprofit corporation, for a new building.
+14 (2) Seven hundred thousand dollars ($700,000) to Rockingham County to be
+15 distributed by the County as fire department grants.
+16 (3) One hundred thousand dollars ($100,000) to the Alamance County Sheriff's
+17 Department for equipment.
+18 SECTION 4.1.(d) Funds provided to the City of Archdale, the City of Asheboro, the
+19 City of Randleman, Randolph County, and the City of Trinity (local governments) by Section
+20 12.2(e) of S.L. 2023-134 shall, notwithstanding any provision of law to the contrary, be
+21 transferred to the Office of State Budget and Management to provide grants in the same amounts
+22 to the same local governments for water and wastewater projects.
+23 SECTION 4.1.(e) Notwithstanding any provision of S.L. 2023-134 or the Committee
+24 Report referenced in Section 43.2 of that act to the contrary, funds allocated to the City of
+25 Claremont for the Lyle Creek Sewer project by Section 12.2(e)(39) of S.L. 2023-134 shall instead
+26 be used by the City of Claremont for any regional wastewater infrastructure improvements.
+27
+28 REVISE MEGASITES READINESS PROGRAM
+29 SECTION 4.2. Section 11.11 of S.L. 2022-74, as amended by Section 11.11 of S.L.
+30 2023-134, reads as rewritten:
+31 "SECTION 11.11.(a) Purpose. – It is in the best economic and developmental interests of
+32 the State to support the development of megasites to ensure the State's ongoing competitiveness
+33 for major manufacturing opportunities, including, but not limited to, the aerospace, automotive,
+34 clean energy, food processing, semiconductor, and life science industries. The purpose of this
+35 section is to establish a competitive grant program serving to do the following:
+36 (1) Identify and evaluate up to seven megasites for preferred development and
+37 marketing.
+38 (2) Assist local governments or a partnership of local governments in the
+39 acquisition of a newly identified or existing megasite.
+40 (3) Support local governments or a partnership of local governments to analyze,
+41 plan, install, or upgrade public infrastructure, including publicly owned water,
+42 gas, and sewer systems, transportation infrastructure, and the electrical utility
+43 lines electric infrastructure necessary to meet the needs of prospective
+44 employers for megasites.
+45 (4) Support local governments or a partnership of local governments to fund
+46 on-site preparation, including clearing, grading, or other related expenses for
+47 megasites.
+48 (4a) Support local governments or a partnership of local governments in
+49 conducting due diligence, including, but not limited to, the following: site
+50 characteristics, preliminary engineering reports for water and wastewater
+House Bill 74-Third Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 provision to the site, assessments related to road and highway infrastructure
+2 to serve the site, and other assessments as needed.
+3 (5) Facilitate coordination between the economic development entities, the North
+4 Carolina Department of Environmental Quality, and the North Carolina
+5 Department of Transportation to expedite needs related to timely site
+6 development.
+7 …
+8 "SECTION 11.11.(c) Definitions. – The following definitions apply in this section:
+9 …
+10 (4) Government partnership. – Either (i) a North Carolina nonprofit entity that is
+11 tax exempt under section 501(c)(3) or 501(c)(12) of the Internal Revenue
+12 Code in partnership with one or more local governments or (ii) a group of
+13 local governments.
+14 …
+15 "SECTION 11.11.(d) Allocation. – EDPNC shall allocate monies in the Fund on the
+16 following basis:
+17 …
+18 (2) All other funds appropriated to the Fund for local government grants for the
+19 acquisition of megasites determined pursuant to subdivision (1) of this
+20 subsection. purposes described in subsection (a) of this section. A grant for
+21 the acquisition of a megasite is limited to eighty-five percent (85%) of the
+22 lesser of the property's purchase price or tax value. The percentage actually
+23 provided in the grant shall be determined by EDPNC based on total
+24 development needs for the megasite, prior investment in the megasite by one
+25 or more local governments, the ability of one or more local governments to
+26 invest in the megasite, and the ability and level of participation promised by
+27 the local government in exchange for a grant from the Fund. Monies may only
+28 be granted for, and used to acquire, a megasite for which (i) one or more local
+29 governments have a binding option or offer to purchase and (ii) all basic due
+30 diligence must be complete, including, but not limited to, boundary surveys,
+31 title searches, State Historic Preservation Office reviews, and wetlands
+32 delineation.
+33 …
+34 "SECTION 11.11.(f) Agreements Required. – Monies may shall be disbursed from the Fund
+35 to EDPNC on a quarterly basis in four equal installments per year. EDPNC may use funds only
+36 in accordance with agreements that are (i) entered into between EDPNC and a local government
+37 or a government partnership and (ii) approved by the Economic Investment Committee
+38 established pursuant to G.S. 143B-437.54. The agreement must include all of the performance
+39 criteria, remedies, and other safeguards required to secure the assistance provided to ready the
+40 megasite for a major employer and must require EDPNC to recapture a proportionate amount of
+41 assistance provided under this section for failure by a local government or government
+42 partnership to meet and maintain the megasite for availability for the purposes for which the
+43 assistance was provided.
+44 …."
+45
+46 SELECTSITE MODIFICATIONS
+47 SECTION 4.3.(a) Notwithstanding any provision of law to the contrary, funds
+48 transferred to the North Carolina Selectsite Fund by Section 11.12(a) of S.L. 2023-134 for
+49 purposes consistent with Section 11.12(e)(1) of that act, that remain unspent as of April 1, 2025,
+50 shall not be used for those purposes but shall instead be used for engaging a national site selection
+51 firm through a competitive bid process to produce a report identifying and evaluating up to five
+Page 6 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 and not less than three selectsites located in a county declared a major disaster by the President
+2 of the United States, on September 28, 2024, under the Stafford Act (P.L. 93-288) as a result of
+3 Hurricane Helene.
+4 SECTION 4.3.(b) Section 11.12 of S.L. 2023-134 reads as rewritten:
+5 "SECTION 11.12.(a) Funds appropriated by Section 11.4 of S.L. 2022-74 to the Department
+6 of Commerce (Department) and allocated to the nonprofit corporation with which the
+7 Department contracts pursuant to G.S. 143B-431.01(b) that remain unspent as of June 30, 2023,
+8 shall be transferred to the North Carolina Selectsite Fund established in subsection (c) of this
+9 section to be used for purposes consistent with subdivision (e)(1) of this section. Of the funds
+10 appropriated from the Economic Development Project Reserve established in Section 2.2 of this
+11 act to the Department to be allocated to the nonprofit corporation with which the Department
+12 contracts pursuant to G.S. 143B-431.01(b), the sum of ten million dollars ($10,000,000) in
+13 nonrecurring funds for the 2024-2025 fiscal year shall be used to support local governments or a
+14 partnership of local governments in conducting due diligence as the activities described in
+15 subdivision subdivisions (b)(2), (b)(3), (b)(4), and (b)(5) of this section.
+16 "SECTION 11.12.(b) Purpose. – It is in the best economic and developmental interests of
+17 the State to support the development of selectsites to ensure the State's ongoing competitiveness
+18 for major manufacturing opportunities, including, but not limited to, the aerospace, automotive,
+19 clean energy, food processing, semiconductor, and life science industries. The purpose of this
+20 section is to establish a competitive grant program serving to do the following:
+21 (1) Identify and evaluate up to 15 20 selectsites of less than 1,000 acres for
+22 preferred development and marketing.
+23 (2) Assist local governments or a partnership of local governments in the
+24 acquisition of a newly identified or existing selectsite.
+25 (3) Support local governments or a partnership of local governments to analyze,
+26 plan, install, or upgrade public infrastructure, including publicly owned water,
+27 gas, and sewer systems; transportation infrastructure; and the electrical utility
+28 lines electric infrastructure necessary to meet the needs of prospective
+29 employers for selectsites.
+30 (4) Support local governments or a partnership of local governments to fund
+31 on-site preparation, including clearing, grading, or other related expenses for
+32 selectsites.
+33 (5) Support local governments or a partnership of local governments in
+34 conducting due diligence, including, but not limited to, the following: site
+35 characteristics, preliminary engineering reports for water and wastewater
+36 provision to the site, assessments related to road and highway infrastructure
+37 to serve the site, and other assessments as needed.
+38 (6) Facilitate coordination between the economic development entities and the
+39 North Carolina Department of Environmental Quality and the North Carolina
+40 Department of Transportation to expedite needs related to timely site
+41 development.
+42 …
+43 "SECTION 11.12.(d) Definitions. – The definitions in Section 11.11(c) of S.L. 2022-74
+44 apply in this section. For purposes of this section, a "selectsite" is a parcel of contiguous property
+45 consisting of less than 1,000 acres that is viable for industrial development and listed in the report
+46 pursuant to subsection (h) (e) of this section. For purposes of this section, "Fund" is the North
+47 Carolina Selectsite Fund.
+48 "SECTION 11.12.(e) Allocation. – EDPNC shall allocate monies in the Fund on the
+49 following basis:
+50 (1) Unspent funds transferred pursuant to subsection (a) of this section shall be
+51 used for engaging a national site selection firm through a competitive bid
+House Bill 74-Third Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 process to produce a report identifying and evaluating 15 selectsites for
+2 preferred development and marketing, of which seven must be less than 500
+3 acres and of which an additional two must be less than 100 acres.
+4 (2) Funds appropriated to the Fund for local government grants shall be allocated
+5 for the purposes outlined in subdivisions (b)(2), (b)(3), (b)(4), and (b)(5) of
+6 this section for selectsites determined pursuant to subdivision (1) of this
+7 subsection. subsection or through a similar selectsite site selection process
+8 authorized by the General Assembly. EDPNC shall prioritize local
+9 government grants that have the greatest potential to reduce the time for site
+10 readiness and reduce the risk of unforeseen conditions that could affect the
+11 site viability for advanced manufacturing projects. EDPNC shall base the
+12 grant amount on total development needs for the selectsite, prior investment
+13 in the selectsite by one or more local governments, the ability of one or more
+14 local governments to invest in the selectsite, and the ability and level of
+15 participation promised by the local government in exchange for a grant from
+16 the Fund. Monies may only be granted for, and used to acquire, a selectsite
+17 for which (i) one or more local governments have a binding option or offer to
+18 purchase and (ii) all basic due diligence has been completed, including, but
+19 not limited to, boundary surveys, title searches, State Historic Preservation
+20 Office reviews, and wetlands delineation.
+21 …
+22 "SECTION 11.12.(g) Agreements Required. – Monies may shall be disbursed from the Fund
+23 to EDPNC on a quarterly basis in four equal installments per year. EDPNC may use funds only
+24 in accordance with agreements entered into between EDPNC and a local government or a
+25 government partnership. The agreement must include all of the performance criteria, remedies,
+26 and other safeguards required to secure the assistance provided to ready the selectsite for a major
+27 employer and must require EDPNC to recapture a proportionate amount of assistance provided
+28 under this section for failure by a local government or government partnership to meet and
+29 maintain the selectsite for availability for the purposes for which the assistance was provided.
+30 …."
+31
+32 PART V. JUSTICE AND PUBLIC SAFETY
+33
+34 TRANSFER NORTH CAROLINA CENTER FOR MISSING PERSONS TO THE STATE
+35 HIGHWAY PATROL
+36 SECTION 5.1.(a) All functions, powers, duties, and obligations vested in the North
+37 Carolina Center for Missing Persons in the Department of Public Safety are transferred to, vested
+38 in, and consolidated within the State Highway Patrol by a Type I transfer, as defined in
+39 G.S. 143A-6.
+40 SECTION 5.1.(b) Article 17 of Chapter 143B of the General Statutes, as enacted by
+41 S.L. 2024-57, is amended by adding a new Part 4 to be entitled "North Carolina Center for
+42 Missing Persons."
+43 SECTION 5.1.(c) Subpart B of Part 5 of Article 13 of Chapter 143B of the General
+44 Statutes is recodified as Part 4 of Article 17 of Chapter 143B of the General Statutes, as enacted
+45 by S.L. 2024-57, as follows:
+46 Former Citation Recodified Citation
+47 143B-1010 143B-1760
+48 143B-1011 143B-1761
+49 143B-1012 143B-1762
+50 143B-1013 143B-1763
+51 143B-1014 143B-1764
+Page 8 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 143B-1015 143B-1765
+2 143B-1016 143B-1766
+3 143B-1017 143B-1767
+4 143B-1018 143B-1768
+5 143B-1019 143B-1769
+6 143B-1020 143B-1770
+7 143B-1021 143B-1771
+8 143B-1022 143B-1772
+9 143B-1023 143B-1773
+10 SECTION 5.1.(d) Part 4 of Article 17 of Chapter 143B of the General Statutes, as
+11 recodified by subsection (c) of this section, reads as rewritten:
+12 "Part 4. North Carolina Center for Missing Persons.
+13 "§ 143B-1760. North Carolina Center for Missing Persons established.
+14 There is established within the Department of Public Safety State Highway Patrol the North
+15 Carolina Center for Missing Persons, which shall be organized and staffed in accordance with
+16 applicable laws. The purpose of the Center is to serve as a central repository for information
+17 regarding missing persons and missing children, with special emphasis on missing children. The
+18 Center may utilize the Federal Bureau of Investigation/National Crime Information Center's
+19 missing person computerized file (hereinafter referred to as FBI/NCIC) through the use of the
+20 Police Information Network in the North Carolina Department of Justice.
+21 …
+22 "§ 143B-1762. Control of the Center.
+23 The Center is under the direction of the Secretary of the Department of Public Safety
+24 Commander of the State Highway Patrol and may be organized and structured in a manner as the
+25 Secretary deems appropriate to ensure that the objectives of the Center are achieved. The
+26 Secretary Commander may employ those Center personnel as the General Assembly may
+27 authorize and provide funding for.
+28 "§ 143B-1763. Secretary Commander to adopt rules.
+29 The Secretary Commander of the State Highway Patrol shall adopt rules prescribing all of
+30 the following:
+31 (1) Procedures for accepting and disseminating information maintained at the
+32 Center.
+33 (2) The confidentiality of the data and information, including the missing person
+34 report, maintained by the Center.
+35 (3) The proper disposition of all obsolete data, including the missing person
+36 report; provided, data for an individual who has reached the age of 18 and
+37 remains missing must be preserved.
+38 (4) Procedures allowing a communication link with the Police Information
+39 Network and the FBI/NCIC's missing person file to ensure compliance with
+40 FBI/NCIC policies.
+41 (5) Forms, including but not limited to a missing person report, considered
+42 necessary for the efficient and proper operation of the Center.
+43 …
+44 "§ 143B-1765. Dissemination of missing persons data by law-enforcement agencies.
+45 …
+46 If the report involves a missing child and the report meets the criteria established in
+47 G.S. 143B-1021(b), G.S. 143B-1771(b), as soon as practicable after receipt of the report, the law
+48 enforcement agency shall notify the Center and the National Center for Missing and Exploited
+49 Children of the relevant data about the missing child.
+50 …
+51 "§ 143B-1766. Responsibilities of Center.
+House Bill 74-Third Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 The Center shall do all of the following:
+2 …
+3 (9) Maintain a directory of existing public and private agencies, groups, and
+4 individuals that provide effective assistance to families in the areas of
+5 prevention of child abduction, location of missing children and missing
+6 persons, and follow-up services to the child or person and family, as
+7 determined by the Secretary of Public Safety.Commander of the State
+8 Highway Patrol.
+9 …
+10 (13) Perform such other activities that the Secretary of Public Safety Commander
+11 of the State Highway Patrol considers necessary to carry out the intent of its
+12 mandate.
+13 …
+14 "§ 143B-1768. Release of information by Center.
+15 The following may make inquiries of, and receive data or information from, the Center:
+16 …
+17 (4) Any person engaged in bona fide research when approved by the Secretary;
+18 Commander of the State Highway Patrol; provided, no names or addresses
+19 may be supplied to this person.
+20 (5) Any other person authorized by the Secretary of the Department of Public
+21 Safety Commander of the State Highway Patrol pursuant to
+22 G.S. 143B-1013.G.S. 143B-1763.
+23 "§ 143B-1769. Provision of toll-free service; instructions to callers; communication with
+24 law-enforcement agencies.
+25 The Center shall provide a toll-free telephone line for anyone to report the disappearance of
+26 any individual or the sighting of any missing child or missing person. The Center personnel shall
+27 instruct the caller, in the case of a report concerning the disappearance of an individual, of the
+28 requirements contained in G.S. 143B-1014 G.S. 143B-1764 of first having to submit a missing
+29 person report on the individual to the law-enforcement agency having jurisdiction of the area in
+30 which the individual became or is believed to have become missing. Any law-enforcement
+31 agency may retrieve information imparted to the Center by means of this phone line. The Center
+32 shall directly communicate any report of a sighting of a missing person or a missing child to the
+33 law-enforcement agency having jurisdiction in the area of disappearance or sighting.
+34 "§ 143B-1770. Improper release of information; penalty.
+35 Any person working under the supervision of the Director of Victims and Justice Services
+36 who knowingly and willfully releases, or authorizes the release of, any data, information, or
+37 records maintained or possessed by the Center to any agency, entity, or person other than as
+38 specifically permitted by Subpart B this Part or in violation of any rule adopted by the Secretary
+39 Commander of the State Highway Patrol is guilty of a Class 2 misdemeanor.
+40 "§ 143B-1771. North Carolina AMBER Alert System established.
+41 (a) There is established within the North Carolina Center for Missing Persons the
+42 AMBER Alert System. The purpose of AMBER Alert is to provide a statewide system for the
+43 rapid dissemination of information regarding abducted children.
+44 (b) The AMBER Alert System shall make every effort to disseminate information on
+45 missing children as quickly as possible when all of the following criteria are met:
+46 (1) The child is 17 years of age or younger;younger.
+47 (2) The If abduction is not known or suspected to be by a parent of the child,
+48 unless the child's life is must be suspected to be in imminent danger of serious
+49 injury or death;death.
+50 (3) The child is believed:believed (i) to have been abducted and (ii) to be in danger
+51 of injury or death.
+Page 10 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 a. To have been abducted, or
+2 b. To be in danger of injury or death;
+3 (4) The child is not a runaway or voluntarily missing; andmissing.
+4 (5) The abduction has been reported to and investigated by a law enforcement
+5 agency.
+6 If the abduction of the child is known or suspected to be by a parent of the child, the Center,
+7 in its discretion, may disseminate information through the AMBER Alert System if the child is
+8 believed to be in danger of injury or death.
+9 …
+10 (f) The Department of Public Safety, State Highway Patrol, on behalf of the Center, may
+11 accept grants, contributions, devises, and gifts, which shall be kept in a separate fund, which shall
+12 be nonreverting, and shall be used to fund the operations of the Center and the AMBER Alert
+13 System.
+14 "§ 143B-1772. North Carolina Missing Endangered System Silver Alert established.
+15 (a) There is established within the North Carolina Center for Missing Persons the Missing
+16 Endangered System. Silver Alert. The purpose of the Missing Endangered System Silver Alert
+17 is to provide a statewide system for the rapid dissemination of information regarding a missing
+18 person or missing child aged 65 or older who is believed to be suffering from dementia,
+19 Alzheimer's disease, or a cognitive impairment that, in light of the person's or child's missing
+20 status, requires the person or child to be protected from potential abuse or other physical harm,
+21 neglect, or exploitation.that causes an irreversible deterioration of intellectual faculties that
+22 makes them unable to meet their own needs or to seek help without assistance.
+23 (b) If the Center or a law enforcement agency receives a request that involves a missing
+24 person or missing child as described in subsection (a) of this section, and at the time of receipt
+25 no more than 72 hours have passed since the person or child went missing, the Center or law
+26 enforcement agency shall issue an alert providing for rapid dissemination of information
+27 statewide regarding the missing person or missing child. person. The Center or law enforcement
+28 agency shall make every effort to disseminate the information as quickly as possible when the
+29 person's or child's status as missing has been reported to a law enforcement agency.agency,
+30 including procedures for the use of the Wireless Emergency Alert.
+31 (c) The Center and all law enforcement agencies shall adopt guidelines and develop
+32 procedures for issuing an a 90-day alert for missing persons and missing children as described in
+33 subsection (a) of this section and shall provide education and training to encourage radio and
+34 television broadcasters to participate in the alert. The guidelines and procedures shall ensure that
+35 specific health information about the missing person or missing child is not made public through
+36 the alert or otherwise.
+37 (d) The Center and all law enforcement agencies shall consult with the Department of
+38 Transportation and develop a procedure for the use of overhead permanent changeable message
+39 signs to provide information on the missing person or missing child meeting the criteria of this
+40 section when information is available that would enable motorists to assist in the recovery of the
+41 missing person or missing child. person. The Center and the Department of Transportation shall
+42 develop guidelines for the content, length, and frequency of any message to be placed on an
+43 overhead permanent changeable message sign.
+44 "§ 143B-1773. North Carolina Blue Alert System established.
+45 …
+46 (c) The Center shall adopt guidelines and develop procedures for the statewide
+47 implementation of the Blue Alert System and shall provide education and training to encourage
+48 radio and television broadcasters to participate in the alert.alert, including procedures for the use
+49 of the Emergency Alert System and the Wireless Emergency Alert.
+50 …
+51 "§ 143B-1774. North Carolina Missing Endangered Alert established.
+House Bill 74-Third Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 (a) There is established within the North Carolina Center for Missing Persons the Missing
+2 Endangered Alert. The purpose of the Missing Endangered Alert is to provide a statewide system
+3 for the rapid dissemination of information regarding a missing person, aged 64 or younger, or
+4 missing child who is believed to be suffering from dementia, Alzheimer's disease, or a cognitive
+5 impairment that causes an irreversible deterioration of intellectual faculties that makes them
+6 unable to meet their own needs or to seek help without assistance and that is not a risk to the
+7 general public.
+8 (b) If the Center receives a request that involves a missing person or missing child as
+9 described in subsection (a) of this section, and at the time of receipt no more than 72 hours have
+10 passed since the person or child went missing, the Center shall issue an alert providing for rapid
+11 dissemination of information statewide regarding the missing person or missing child. The Center
+12 shall make every effort to disseminate the information as quickly as possible when the person's
+13 or child's status as missing has been reported to a law enforcement agency, including procedures
+14 for the use of the Wireless Emergency Alert.
+15 (c) The Center shall adopt guidelines and develop procedures for issuing a 90-day alert
+16 for missing persons and missing children as described in subsection (a) of this section and shall
+17 provide education and training to encourage radio and television broadcasters to participate in
+18 the alert. The guidelines and procedures shall ensure that specific health information about the
+19 missing person or missing child is not made public through the alert or otherwise.
+20 (d) The Center shall consult with the Department of Transportation and develop a
+21 procedure for the use of overhead permanent changeable message signs to provide information
+22 on the missing person or missing child meeting the criteria of this section when information is
+23 available that would enable motorists to assist in the recovery of the missing person or missing
+24 child. The Center and the Department of Transportation shall develop guidelines for the content,
+25 length, and frequency of any message to be placed on an overhead permanent changeable
+26 message sign.
+27 "§ 143B-1775. North Carolina Ashanti Alert established.
+28 (a) There is established within the North Carolina Center for Missing Persons the Ashanti
+29 Alert. The purpose of the Ashanti Alert is to provide a statewide system for the rapid
+30 dissemination of information regarding a missing person over 18 years of age that is suspected
+31 to have been abducted and there is both abductor and vehicle information available.
+32 (b) If the Center receives a request that involves a missing person as described in
+33 subsection (a) of this section, and at the time of receipt no more than 72 hours have passed since
+34 the person went missing, the Center shall issue an alert providing for rapid dissemination of
+35 information statewide regarding the missing person. The Center shall make every effort to
+36 disseminate the information as quickly as possible when the person's status as missing has been
+37 reported to a law enforcement agency, including procedures for the use of the Emergency Alert
+38 System and the Wireless Emergency Alert.
+39 (c) The Center shall adopt guidelines and develop procedures for issuing a 24-hour alert
+40 for missing persons as described in subsection (a) of this section and shall provide education and
+41 training to encourage radio and television broadcasters to participate in the alert.
+42 (d) The Center shall consult with the Department of Transportation and develop a
+43 procedure for the use of overhead permanent changeable message signs to provide information
+44 on the missing person or missing child meeting the criteria of this section when information is
+45 available that would enable motorists to assist in the recovery of the missing person or missing
+46 child. The Center and the Department of Transportation shall develop guidelines for the content,
+47 length, and frequency of any message to be placed on an overhead permanent changeable
+48 message sign.
+49 "§ 143B-1776. North Carolina Missing – Weather Alert established.
+50 (a) There is established within the North Carolina Center for Missing Persons the Missing
+51 – Weather Alert. The purpose of the Missing – Weather Alert is to provide a statewide system
+Page 12 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 for the rapid dissemination of information regarding a missing person or child that is missing
+2 during times of extreme heat or cold and is not in a vehicle, or immediately following a significant
+3 weather event.
+4 (b) If the Center receives a request that involves a missing person as described in
+5 subsection (a) of this section, and at the time of receipt no more than 72 hours have passed since
+6 the person went missing, the Center shall issue an alert providing for rapid dissemination of
+7 information statewide regarding the missing person. The Center shall make every effort to
+8 disseminate the information as quickly as possible, including procedures for the use of the
+9 Wireless Emergency Alert.
+10 (c) The Center shall adopt guidelines and develop procedures for issuing a 30-day alert
+11 for missing persons as described in subsection (a) of this section and shall provide education and
+12 training to encourage radio and television broadcasters to participate in the alert."
+13 SECTION 5.1.(e) The State Highway Patrol shall adopt rules, or amendments to
+14 rules, consistent with the provisions of this section. The State Highway Patrol may use the
+15 procedure set forth in G.S. 150B-21.1 to adopt or amend any rules as required under this section.
+16
+17 CLARIFICATION ON SAFE SURRENDER OF INFANTS
+18 SECTION 5.4. G.S. 14-318.2 reads as rewritten:
+19 "§ 14-318.2. Child abuse a misdemeanor.
+20 (a) Any parent of a child less than 16 years of age, or any other person providing care to
+21 or supervision of such child, who inflicts physical injury, or who allows physical injury to be
+22 inflicted, or who creates or allows to be created a substantial risk of physical injury, upon or to
+23 such child by other than accidental means is guilty of the Class A1 misdemeanor of child abuse.
+24 (b) The Class A1 misdemeanor of child abuse is an offense additional to other civil and
+25 criminal provisions and is not intended to repeal or preclude any other sanctions or remedies.
+26 (c) A parent who abandons an infant less than seven 30 days of age pursuant to
+27 G.S. 14-322.3 shall not be prosecuted under this section for any acts or omissions related to the
+28 care of that infant."
+29
+30 PART VI. GENERAL GOVERNMENT
+31
+32 VARIOUS DIRECTED GRANT REVISIONS
+33 SECTION 6.1. Section 6.1(a) of S.L. 2024-1, as amended by Section 2E.1(a) of S.L.
+34 2024-57, reads as rewritten:
+35 "SECTION 6.1.(a) Notwithstanding any provision of S.L. 2023-134 or the Committee
+36 Report referenced in Section 43.2 of that act to the contrary, the following directed grants to be
+37 allocated by the Office of State Budget and Management – Special Appropriations for the
+38 2023-2024 fiscal year are amended as follows:
+39 …
+40 (2) The directed grant to the Banner American Legion Auxiliary Unit #109, Inc.,
+41 in the sum of one hundred twenty-five thousand dollars ($125,000) in
+42 nonrecurring funds for the 2023-2024 fiscal year shall instead not be provided
+43 to Banner Post 109, Incorporated.Incorporated, but shall be provided to
+44 Banner American Legion Auxiliary Unit #109, Inc., as provided in S.L.
+45 2023-134.
+46 …
+47 (37) Budgeted receipts from the ARPA Temporary Savings Fund to provide
+48 additional funds to Wake Forest Institute for Regenerative Medicine in the
+49 sum of five million dollars ($5,000,000) in nonrecurring funds for each fiscal
+50 year of the 2023-2025 fiscal biennium shall instead not be provided to
+51 RegenMed Development Organization, a 501(c)3 organization.organization
+House Bill 74-Third Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 but shall be provided to Wake Forest Institute for Regenerative Medicine as
+2 provided in S.L. 2023-134.
+3 …
+4 (48) The directed grant to Greater Rocky Mount Family Medical Center, Inc., in
+5 the sum of three hundred fifty thousand dollars ($350,000) in nonrecurring
+6 funds for the 2023-2024 fiscal year to expand dental and behavioral health
+7 services shall instead be provided to the Opportunities Industrialization
+8 Center, Incorporated, of Rocky Mount.
+9 (49) The directed grant to Open Door Ministries of High Point Foundation, Inc., in
+10 the sum of five hundred thousand dollars ($500,000) in nonrecurring funds for
+11 the 2023-2024 fiscal year shall instead be provided to Open Door Ministries
+12 of High Point, Inc.
+13 (50) The directed grant to the Union County Schools in the sum of eight million
+14 dollars ($8,000,000) in nonrecurring funds for the 2023-2024 fiscal year for
+15 an athletic facility and related equipment shall not revert on June 30, 2026,
+16 but shall remain available until June 30, 2028.
+17 (51) The directed grant to the Gray's Creek Ruritan Club 516 in the sum of two
+18 hundred forty-five thousand dollars ($245,000) in nonrecurring funds for the
+19 2023-2024 fiscal year to support its mission of community improvement shall
+20 not be provided to the Gray's Creek Ruritan Club 516 but instead shall be
+21 provided as follows:
+22 a. Sixty-five thousand dollars ($65,000) to the Kidsville News! Literacy
+23 and Education Foundation, Inc., for the Summer Reading, Literacy,
+24 and Education Program.
+25 b. One hundred eighty thousand dollars ($180,000) to the North Carolina
+26 Human Trafficking Commission for the WORTH Court to support
+27 mental health and substance abuse services for human trafficking
+28 survivors in Cumberland County."
+29
+30 UNDERINSURED MOTORIST INSURANCE AMENDMENT EFFECTIVE DATE
+31 TECHNICAL CORRECTION
+32 SECTION 6.2. Section 8 of S.L. 2024-29 is amended by adding a new subsection to
+33 read:
+34 "SECTION 8.(d) Subsection (a) of this section becomes effective July 1, 2025, and applies
+35 to policies issued or renewed on or after that date."
+36
+37 NORTH CAROLINA STATE BAR GRIEVANCE REVIEW COMMITTEE
+38 SECTION 6.4. Section 27.11(e) of S.L. 2023-134 reads as rewritten:
+39 "SECTION 27.11.(e) Report. Expiration. – By April 1, 2024, the Committee shall submit a
+40 report to the Joint Legislative Commission on Governmental Operations containing any
+41 legislative recommendations to address and alleviate the concerns listed in subsection (c) of this
+42 section of the grievance review process. The report shall also contain any potential improvements
+43 and changes in oversight of the North Carolina State Bar. The Committee shall expire upon
+44 submitting the report under this subsection.The Committee shall expire on December 31, 2026."
+45
+46 PART VII. STATEWIDE
+47
+48 SCIF GRANT CHANGES
+49 SECTION 7.1.(a) Section 40.8(a) of S.L. 2023-134, as enacted by Section 9.1(a) of
+50 S.L. 2024-1, is amended by adding a new subdivision to read:
+Page 14 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 "(4) The funding allocated to the City of Charlotte in the sum of seventeen million
+2 five hundred thousand dollars ($17,500,000) for the 2023-2024 fiscal year and
+3 the sum of two million five hundred thousand dollars ($2,500,000) for the
+4 2024-2025 fiscal year shall instead be used to provide grants to the following
+5 entities and purposes:
+6 a. Five million dollars ($5,000,000) to Appalachian State University to
+7 be used for the renovation project at Edwin Duncan Hall.
+8 b. One million five hundred thousand dollars ($1,500,000) to
+9 Appalachian State University to be used for the renovation project at
+10 Wey Hall.
+11 c. Two million five hundred thousand dollars ($2,500,000) to
+12 Appalachian State University to be used for the addition and
+13 renovation project at Peacock Hall, with a total project authorization
+14 increase of two million five hundred thousand dollars ($2,500,000)
+15 from the previously authorized amount.
+16 d. Four million one hundred thousand dollars ($4,100,000) to Wayne
+17 County for a capital project at Rosewood Middle School.
+18 e. Two hundred fifty thousand dollars ($250,000) to The Hudson
+19 Volunteer Fire Department, Inc., to be used for capital improvements
+20 and equipment.
+21 f. Two million dollars ($2,000,000) to North Catawba Fire-Rescue
+22 Department, Inc., to be used for capital improvements and equipment.
+23 g. Three hundred twenty-five thousand dollars ($325,000) to Grace
+24 Chapel Volunteer Fire Department, Inc., to be used for capital
+25 improvements and equipment.
+26 h. Two million dollars ($2,000,000) to the City of Lenoir to be used for
+27 Harpers Avenue Area infrastructure improvements.
+28 i. One hundred ten thousand dollars ($110,000) to King's Creek
+29 Volunteer Fire Department, Inc., to be used for capital improvements
+30 and equipment.
+31 j. Two hundred thousand dollars ($200,000) to The Gamewell Volunteer
+32 Fire Department, Inc., to be used for capital improvements and
+33 equipment.
+34 k. Two hundred seventy-five thousand dollars ($275,000) to Caldwell
+35 County to be used for a new ambulance.
+36 l. One hundred forty thousand dollars ($140,000) to Collettsville
+37 Volunteer Fire Department, Inc., to be used for capital improvements
+38 and equipment.
+39 m. Six hundred thousand dollars ($600,000) to Patterson Fire-Rescue
+40 Department, Inc., to be used for capital improvements and equipment.
+41 n. One million dollars ($1,000,000) to the Town of Hudson for
+42 downtown infrastructure improvements."
+43 SECTION 7.1.(b) Section 40.17(a) of S.L. 2021-180, as enacted by Section 9.1(d)
+44 of S.L. 2021-189 and amended by Section 18.1 of S.L. 2022-6, Section 16 of S.L. 2022-11,
+45 Section 40.2 of S.L. 2022-74, Section 40.5(n) of S.L. 2023-134, and Section 9.1(c) of S.L.
+46 2024-1, reads as rewritten:
+47 "SECTION 40.17.(a) Notwithstanding any provision of law or the Committee Report
+48 referenced in Section 43.2 of this act to the contrary, the following grants and funds allocated
+49 from the State Capital and Infrastructure Fund are amended as follows
+50 …
+House Bill 74-Third Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 (18) The funds to the Department of Natural and Cultural Resources for Charlotte
+2 Hawkins Brown in the sum of one million dollars ($1,000,000) for the
+3 2021-2022 fiscal year shall be used for the purchase and development of
+4 approximately 100 acres adjacent to the Charlotte Hawkins Brown State
+5 Historic Site in Guilford County to be added to the Historic Site.County.
+6 …
+7 (82) The remaining amount of funding allocated to Clay County in the sum of two
+8 million dollars ($2,000,000) in nonrecurring funds for the 2021-2022 fiscal
+9 year for a new 911 call center may also be used for capital costs and equipment
+10 associated with the construction of a farmers market."
+11
+12 UNC SCHOOL OF THE ARTS BUILDING PURCHASE
+13 SECTION 7.2.(a) Notwithstanding G.S. 143C-5-2 and Article 6 of Chapter 146 of
+14 the General Statutes, there is appropriated from the funds available in the OSBM Flexibility
+15 Funds established in S.L. 2021-180 and described under project code FLEX21 to the University
+16 of North Carolina School of the Arts Foundation the sum of four million five hundred thousand
+17 dollars ($4,500,000) in nonrecurring funds for the 2025-2026 fiscal year to be used to purchase
+18 certain real property, and improvements thereon, adjacent to the Stevens Center, located at 411
+19 W. 4th Street in Winston-Salem and for a new loading dock.
+20 SECTION 7.2.(b) This section becomes effective July 1, 2025.
+21
+22 WRC/SETZER HATCHERY
+23 SECTION 7.3. Section 40.1(l) of S.L. 2023-134 reads as rewritten:
+24 "SECTION 40.1.(l) For project code WRC23-1, the Wildlife Resources Commission is
+25 authorized to spend up to thirty-nine million seven hundred thousand dollars ($39,700,000) on
+26 the project but shall commit to providing funding of at least nineteen million seven hundred
+27 thousand dollars ($19,700,000) in non-State funds from the Commission's endowment
+28 endowment, and other available receipts, as a match to the intended State allocations totaling
+29 twenty million dollars ($20,000,000) for the project. The Commission shall use the endowment
+30 funds described in this subsection on the project prior to expending any State funds."
+31
+32 PART VIII. TRANSPORTATION
+33
+34 BRIDGE NAMING CLARIFICATION
+35 SECTION 8.1. Section 41.7 of S.L. 2023-134 reads as rewritten:
+36 "SECTION 41.7. Notwithstanding any provision of law to the contrary, the Department of
+37 Transportation shall designate as follows:
+38 …
+39 (3) The bridge on U.S. Highway 74 that crosses over the Catawba River at the
+40 Mecklenburg County and Gaston County line and is numbered 350091 by the
+41 Department as the "Representative Dana Bumgardner Bridge."
+42 …."
+43
+44 CLARIFICATION ON USE OF CITY OF CONCORD AIRPORT FUNDS
+45 SECTION 8.2. Notwithstanding any provision of law or the Committee Report
+46 described in Section 43.2 of S.L. 2023-134 to the contrary, the sum of five million dollars
+47 ($5,000,000) in nonrecurring funds for the 2023-2024 fiscal year allocated to the City of Concord
+48 for the Concord-Padgett Regional Airport may be used by the city for any capital improvement
+49 at the airport.
+50
+51 PART IX. FINANCE
+Page 16 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1
+2 VARIOUS CLARIFYING CHANGES TO THE CONSERVATION TAX CREDIT
+3 SECTION 9.1.(a) G.S. 105-130.34, as enacted by Section 15 of S.L. 2024-32, is
+4 recodified as G.S. 105-130.34A and reads as rewritten:
+5 "§ 105-130.34A. Credit for certain real property donations.
+6 (a) Credit. Credit; Limitation. – Subject to the limitations in this section, a C Corporation
+7 that makes a qualified donation of real property located in North Carolina during the taxable year
+8 that is useful (i) for forestland or farmland preservation, (ii) for fish and wildlife conservation,
+9 (iii) as a buffer to limit land use activities that would restrict, impede, or interfere with military
+10 training, testing, or operations on a military installation or training area or otherwise be
+11 incompatible with the mission of the installation, (iv) for floodplain protection in a county that,
+12 in the five years preceding the donation, was the subject of a Type II or Type III gubernatorial
+13 disaster declaration, as provided in G.S. 166A-19.21, as a result of a natural disaster, (v) for
+14 historic landscape conservation, or (vi) for public trails or access to public trails is allowed a
+15 credit against the tax imposed by this Part equal to twenty-five percent (25%) of the fair market
+16 value of the donated property. qualified donation. The aggregate amount of credit allowed to a
+17 corporation in a taxable year under this section for under this subsection may not exceed five
+18 hundred thousand dollars ($500,000), whether the corporation makes, directly or indirectly as an
+19 owner of a pass-through entity, one or more qualified donations made during the taxable year,
+20 whether made directly or indirectly as an owner of a pass-through entity, may not exceed five
+21 hundred thousand dollars ($500,000). calendar year. The credit may not be taken for the year in
+22 which the qualified donation is made but may be taken for the taxable year beginning during in
+23 the calendar year in which the application for the credit becomes effective as provided in
+24 subsection (a2) (c) of this section.
+25 (a1)(b) Definitions. – The following definitions apply in this section:
+26 (1) Allocated credit. – A requested credit minus the reduction required under
+27 subsection (h) of this section.
+28 (2) Cap remainder. – The amount that is the difference between the maximum
+29 amount and the amount of prioritized credit requests allowed.
+30 (3) Maximum amount. – The amount set out in subsection (h) of this section that
+31 is the total aggregate amount of all credits allowed to taxpayers under this
+32 section and G.S. 105-153.11 for qualified donations made in a calendar year.
+33 (4) Nonprioritized credit request. – A credit request under this section or
+34 G.S. 105-153.11 that is for a qualified donation for a use other than forestland
+35 or farmland preservation.
+36 (5) Prioritized amount. – The amount set out in subsection (h) of this section that
+37 is for prioritized credit requests.
+38 (6) Prioritized credit request. – A credit requested under this section or
+39 G.S. 105-153.11 that is for a qualified donation for forestland or farmland
+40 preservation.
+41 (7) Qualified Donation. donation. – A qualified donation of real property is a
+42 donation of a qualified real property interest located in North Carolina that
+43 meets all of the following conditions:
+44 (1)a. The real property It is donated in perpetuity for one of the qualifying
+45 following uses listed in subsection (a) of this section and is accepted
+46 in perpetuity for the qualifying use for which the qualified real
+47 property interest is donated.donated:
+48 1. Forestland or farmland preservation.
+49 2. Fish or wildlife conservation.
+50 3. A buffer to limit land use activities that would restrict, impede,
+51 or interfere with military training, testing, or operations on a
+House Bill 74-Third Edition Page 17
+General Assembly Of North Carolina Session 2025
+1 military installation or training area or otherwise be
+2 incompatible with the mission of the installation.
+3 4. Floodplain protection in a county that, in the five years
+4 preceding the donation, was the subject of a Type II or Type
+5 III gubernatorial disaster declaration, as provided in
+6 G.S. 166A-19.21, as a result of a natural disaster.
+7 5. Historic landscape conservation.
+8 6. Public trails or access to public trails.
+9 (2)b. The person to whom the property It is donated must be to the State, a
+10 local government, or a body that is both organized to receive and
+11 administer lands for conservation purposes and qualified to receive
+12 charitable contributions pursuant to G.S. 105-130.9. Lands required to
+13 be dedicated pursuant to local governmental regulation or ordinance
+14 and dedications made to increase building density levels permitted
+15 under a regulation or ordinance are not eligible for this credit.
+16 (8) Qualified real property interest. – As defined in section 170(h)(2) of the Code.
+17 (9) Total allocated credits. – Total requested credits less any reduction required
+18 under subsection (h) of this section and G.S. 105-153.11(l).
+19 (10) Total requested credits. – The sum of nonprioritized credit requests and
+20 prioritized credit requests.
+21 (a2)(c) Application. – To claim the credit provided in this section, a corporation A C
+22 Corporation must file an application with the Secretary for the credit. to request the credit allowed
+23 under subsection (a) of this section. The application must be filed on or before April 15 of the
+24 year following the calendar year in which the donation was made. An application is effective for
+25 the year in which it is timely filed. The Secretary may not accept late applications under this
+26 subsection. applications. The application must be on a form prescribed by the Secretary and
+27 include any information required by the Secretary demonstrating that the donation has met the
+28 conditions for qualifying to qualify for the credit, including the following items:
+29 (1) A copy of the certification by the Department of Natural and Cultural
+30 Resources that identifies identifying which of the valid public benefits listed
+31 in subdivision (7) of subsection (a1) (b) of this section for which the donated
+32 qualified real property interest is suitable.
+33 (2) A self-contained appraisal report or summary appraisal report as defined in
+34 Standards Rule 2-2 in the latest edition of the Uniform Standards of
+35 Professional Appraisal Practice as promulgated by the Appraisal Foundation
+36 for the donated property. qualified real property interest. For fee simple
+37 absolute donations of real property, a corporation C Corporation may submit
+38 documentation of the county's appraised value of the donated property,
+39 qualified real property interest, as adjusted by the sales assessment ratio, in
+40 lieu of an appraisal report.
+41 (a3)(d) Substantiation. – A corporation claiming a credit under this section C Corporation
+42 must maintain and make available for inspection by the Secretary any records the Secretary
+43 considers necessary to determine and verify the amount of the credit to which the corporation is
+44 entitled. allowed under subsection (a) of this section. The burden of proving eligibility for the
+45 credit and the amount of the credit rests upon the corporation, taxpayer, and no credit may be
+46 allowed to a corporation taxpayer that fails to maintain adequate records or to make them
+47 available for inspection.
+48 (b)(e) Limitation. Cap. – The allocated credit allowed by this section may not exceed the
+49 amount of the tax imposed by this Part against which it is claimed for the taxable year reduced
+50 by the sum of all credits allowed, except payments of tax made by or on behalf of the
+51 corporation.C Corporation.
+Page 18 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (c)(f) Carryforward. – Any If the allocated credit exceeds the cap in subsection (e) of this
+2 section, any unused portion of this the allocated credit may be carried forward for the next
+3 succeeding five years.
+4 (d) No Double Benefit. – That portion of a qualifying donation that is the basis for a credit
+5 allowed under this section is not eligible for deduction as a charitable contribution under
+6 G.S. 105-130.9.
+7 (g) Transferability. – An allocated credit allowed under subsection (a) of this section may
+8 not be transferred.
+9 (e)(h) Ceiling; Use; Allocation. – The total aggregate amount of all total allocated credits
+10 allowed to taxpayers under this section and G.S. 105-153.11 for donations made in a taxable year
+11 may not exceed five million dollars ($5,000,000), of which three million two hundred fifty
+12 thousand dollars ($3,250,000) is reserved for credits to taxpayers that have made a qualified
+13 donation of real property for forestland or farmland conservation. If funds reserved for credits
+14 for qualified donations of real property for forestland or farmland conservation remain after
+15 disposition of all timely filed applications for that type of credit, the Secretary shall allocate any
+16 funds remaining to credits for other types of qualified donations under this section. The Secretary
+17 shall, first, fully fund any prorated credits in accordance with subsection (f) of this section and,
+18 second, if funds remain after fully funding prorated credits, reopen the application period for
+19 credits under this section for which funds have become available. If the Secretary reopens the
+20 application period and notwithstanding the application deadline in subsection (a2) of this section,
+21 the additional applications must be filed with the Secretary on or before October 15 of the year
+22 following the calendar year in which the donation was made. The Secretary may not accept late
+23 additional applications permitted under this subsection. The Secretary's determinations based on
+24 additional applications timely filed in accordance with this subsection are final.a prioritized
+25 amount. If the total requested credits are equal to or less than the maximum amount, the Secretary
+26 shall allow the total requested credits. If the total requested credits are greater than the maximum
+27 amount, the Secretary shall allocate the total requested credits in accordance with this subsection.
+28 (f)(i) Reduction. – The Secretary shall calculate the total amount of credits claimed from
+29 applications timely filed under subsection (a2) of this section. If the total amount of requested
+30 credits claimed for donations made in a calendar year exceeds this exceed the maximum amount,
+31 the Secretary shall allow a portion of prorate the total requested credits claimed by allocating the
+32 maximum amount in credits in proportion to the size of the credit claimed by each taxpayer. in
+33 accordance with this subsection. If a requested credit claimed under this section is reduced as
+34 provided in this subsection, the Secretary shall notify the corporation C Corporation of the
+35 amount of the reduction of the credit on or before December 31 of the year following the calendar
+36 year in which the qualified donation was made. The Secretary's allocations based on applications
+37 filed under subsection (a2) (c) of this section are final and shall not be adjusted to account for
+38 credits applied for requested but not claimed.reduced under this subsection. The total requested
+39 credits shall be reduced as follows:
+40 (1) If the total requested credits are (i) all prioritized credit requests or (ii) all
+41 nonprioritized credit requests, then the Secretary shall prorate the total
+42 requested credits based on the proportion of each requested credit to the total
+43 requested credits.
+44 (2) If the total requested credits are (i) a combination of prioritized credit requests
+45 and nonprioritized credit requests and (ii) the amount of prioritized credit
+46 requests is equal to or less than the prioritized amount, the Secretary shall first
+47 allow the prioritized credit requests. The Secretary shall then prorate the cap
+48 remainder based on the proportion of each of the remaining requested credits
+49 to the total requested credits less the prioritized amount.
+50 (3) If the total amount of requested credits is (i) a combination of prioritized credit
+51 requests and nonprioritized credit requests and (ii) the amount of prioritized
+House Bill 74-Third Edition Page 19
+General Assembly Of North Carolina Session 2025
+1 credit requests is greater than the prioritized amount, the Secretary shall first
+2 prorate the prioritized credit requests based on the proportion of each
+3 prioritized credit request to the prioritized amount. The Secretary shall then
+4 prorate the cap remainder, including the remainder of any prioritized credit
+5 requests, based on the proportion of each of the remaining requested credits
+6 to the total requested credits less the prioritized amount.
+7 (g)(j) Report. – The Department must include in the economic incentives report required by
+8 G.S. 105-256 the following information:
+9 (1) The number of C Corporations that took requested the credit allowed under
+10 this section.subsection (a) of this section.
+11 (2) The total amount of allocated credits claimed by conservation
+12 purpose.identified by public benefit as listed in subdivision (7) of subsection
+13 (b) of this section.
+14 (3) The total amount of credits carried forward.
+15 (4) The total cost to the General Fund of the credits taken.
+16 (5) The total amount of qualified donations."
+17 SECTION 9.1.(b) G.S. 105-130.9(4) reads as rewritten:
+18 "(4) The amount of a contribution for which the taxpayer claimed a tax credit
+19 pursuant to G.S. 105-130.34 G.S. 105-130.34A shall not be eligible for a
+20 deduction under this section. The amount of the credit claimed with respect to
+21 the contribution is not, however, required to be added to income under
+22 G.S. 105-130.5(a)(10)."
+23 SECTION 9.1.(c) G.S. 105-153.11, as enacted by Section 15 of S.L. 2024-32, reads
+24 as rewritten:
+25 "§ 105-153.11. Credit for certain real property donations.
+26 (a) Credit. Credit; Limitation. – Subject to the limitations in this section, an individual or
+27 a pass-through entity that makes a qualified donation of real property located in North Carolina
+28 during the taxable year that is useful (i) for forestland or farmland preservation, (ii) for fish and
+29 wildlife conservation, (iii) as a buffer to limit land use activities that would restrict, impede, or
+30 interfere with military training, testing, or operations on a military installation or training area or
+31 otherwise be incompatible with the mission of the installation, (iv) for floodplain protection in a
+32 county that, in the five years preceding the donation, was the subject of a Type II or Type III
+33 gubernatorial disaster declaration, as provided in G.S. 166A-19.21, as a result of a natural
+34 disaster, (v) for historic landscape conservation, or (vi) for public trails or access to public trails
+35 is allowed a credit against the tax imposed by this Part equal to twenty-five percent (25%) of the
+36 fair market value of the donated property. qualified donation. A pass-through entity must pass
+37 through the credit to its owners as required under subsection (f) of this section. The amount of
+38 credit allowed to an individual or pass-through entity may not exceed the limitations provided
+39 under subsections (e) and (f) of this section. The credit may not be taken for the year in which
+40 the qualified donation is made but may be taken for the taxable year beginning during in the
+41 calendar year in which the application for the credit becomes effective as provided in subsection
+42 (c) of this section.
+43 (b) Definitions. – The following definitions apply in this section:
+44 (1) Allocated credit. – A requested credit minus the reduction required under
+45 subsection (l) of this section.
+46 (2) Cap remainder. – The amount that is the difference between the maximum
+47 amount and the amount of prioritized credit requests allowed.
+48 (3) Maximum amount. – The amount set out in subsection (l) of this section that
+49 is the total aggregate amount of all credits allowed to taxpayers under this
+50 section and G.S. 105-130.34A for qualified donations made in a calendar year.
+Page 20 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (4) Nonprioritized credit request. – A credit request under this section or
+2 G.S. 105-130.34A that is for a qualified donation for a use other than
+3 forestland or farmland preservation.
+4 (5) Pass-through entity. – As defined in G.S. 105-228.90(b)(21).
+5 (6) Prioritized amount. – The amount set out in subsection (l) of this section that
+6 is for prioritized credit requests.
+7 (7) Prioritized credit request. – A credit requested under this section or
+8 G.S. 105-130.34A that is for a qualified donation for forestland or farmland
+9 preservation.
+10 (8) Qualified Donation. donation. – A qualified donation of real property is a
+11 donation of a qualified real property interest located in North Carolina that
+12 meets all of the following conditions:
+13 (1)a. The property It is donated in perpetuity for one of the qualifying
+14 following uses listed in subsection (a) of this section and is accepted
+15 in perpetuity for the qualifying use for which the qualified real
+16 property interest is donated.donated:
+17 1. Forestland or farmland preservation.
+18 2. Fish or wildlife conservation.
+19 3. A buffer to limit land-use activities that would restrict, impede,
+20 or interfere with military training, testing, or operations on a
+21 military installation or training area or otherwise be
+22 incompatible with the mission of the installation.
+23 4. Floodplain protection in a county that, in the five years
+24 preceding the donation, was the subject of a Type II or Type
+25 III gubernatorial disaster declaration, as provided in
+26 G.S. 166A-19.21, as a result of a natural disaster.
+27 5. Historic landscape conservation.
+28 6. Public trails or access to public trails.
+29 (2)b. The person to whom the property It is donated must be to the State, a
+30 local government, or a body that is both organized to receive and
+31 administer lands for conservation purposes and qualified to receive
+32 charitable contributions under the Code. Lands required to be
+33 dedicated pursuant to local governmental regulation or ordinance and
+34 dedications made to increase building density levels permitted under a
+35 regulation or ordinance are not eligible for this credit.
+36 (9) Qualified real property interest. – As defined in section 170(h)(2) of the Code.
+37 (10) Total allocated credits. – Total requested credits less any reduction required
+38 under subsection (l) of this section and G.S. 105-130.34A(h).
+39 (11) Taxed pass-through entity. – As defined in G.S. 105-153.3.
+40 (12) Total requested credits. – The sum of nonprioritized credit requests and
+41 prioritized credit requests.
+42 (c) Application. – To claim a credit allowed under this section, an An individual or a
+43 pass-through entity must file an application with the Secretary for the credit. to request the credit
+44 allowed under subsection (a) of this section. The application must be filed on or before April 15
+45 of the year following the calendar year in which the donation was made. An application is
+46 effective for the year in which it is timely filed. The Secretary may not accept late applications
+47 under this subsection. applications. The application must be on a form prescribed by the Secretary
+48 and include any information required by the Secretary demonstrating that the donation has met
+49 the conditions for qualifying to qualify for the credit, including the following items:
+50 (1) A copy of the certification by the Department of Natural and Cultural
+51 Resources that identifies identifying which of the valid public benefits listed
+House Bill 74-Third Edition Page 21
+General Assembly Of North Carolina Session 2025
+1 in subdivision (8) of subsection (a) (b) of this section for which the donated
+2 qualified real property interest is suitable. The certification for a qualified
+3 donation made by a pass-through entity must be filed by the pass-through
+4 entity.
+5 (2) A self-contained or summary appraisal report as defined in Standards Rule
+6 2-2 in the latest edition of the Uniform Standards of Professional Appraisal
+7 Practice as promulgated by the Appraisal Foundation for the donated property.
+8 qualified real property interest. For fee simple absolute donations of real
+9 property, an individual or pass-through entity may submit documentation of
+10 the county's appraised value of the donated property, qualified real property
+11 interest, as adjusted by the sales assessment ratio, in lieu of an appraisal report.
+12 (d) Substantiation. – An individual or pass-through entity claiming a credit under this
+13 section must maintain and make available for inspection by the Secretary any records the
+14 Secretary considers necessary to determine and verify the amount of the credit to which the
+15 taxpayer is entitled. allowed under subsection (a) of this section. The burden of proving eligibility
+16 for the credit and the amount of the credit rests upon the individual or pass-through entity,
+17 taxpayer, and no credit may be allowed to an individual or pass-through entity a taxpayer that
+18 fails to maintain adequate records or to make them available for inspection.
+19 (e) Limitation for Individuals. – The aggregate amount of allocated credit allowed to an
+20 individual in a taxable year under this section for under subsection (a) of this section may not
+21 exceed two hundred fifty thousand dollars ($250,000), whether the individual makes, directly or
+22 indirectly as an owner of a pass-through entity, one or more qualified donations made during the
+23 taxable year, whether made directly or indirectly as owner of a pass-through entity, may not
+24 exceed two hundred fifty thousand dollars ($250,000). calendar year. In the case of property
+25 owned by a married couple, if both spouses are required to file North Carolina income tax returns,
+26 the credit allowed by under subsection (a) of this section may be claimed only if the spouses file
+27 a joint return. The aggregate amount of allocated credit allowed to a married couple filing a on
+28 the joint tax return may not exceed five hundred thousand dollars ($500,000). If only one spouse
+29 is required to file a North Carolina income tax return, the allocated credit to that spouse may
+30 claim the credit allowed by this section on a separate return.not exceed two hundred fifty
+31 thousand dollars ($250,000).
+32 (f) Limitation for Pass-Through Entity. Entities. – The aggregate amount of allocated
+33 credit allowed to a pass-through entity in a taxable year under this section for under subsection
+34 (a) of this section may not exceed five hundred thousand dollars ($500,000), whether the
+35 pass-through entity makes, directly or indirectly as an owner of another pass-through entity, one
+36 or more qualified donations made during the taxable year, whether made directly or indirectly as
+37 owner of another pass-through entity, may not exceed five hundred thousand dollars ($500,000).
+38 Each individual who is an owner of a pass-through entity is allowed as a credit an amount equal
+39 to the owner's allocated share of the credit to which the pass-through entity is eligible under this
+40 subsection, not to exceed two hundred fifty thousand dollars ($250,000). Each corporation that
+41 is an owner of a pass-through entity is allowed as a credit an amount equal to the owner's allocated
+42 share of the credit to which the pass-through entity is eligible under this subsection, not to exceed
+43 five hundred thousand dollars ($500,000). calendar year. The pass-through entity must pass
+44 through to each of its owners the owner's distributive share of the credit for which the
+45 pass-through entity qualifies, not to exceed the amounts listed in this subsection. The
+46 pass-through entity may allocate the credit only to an owner that was an owner of the
+47 pass-through entity as of the last day of the calendar year in which the credit was allocated. If an
+48 owner's share of the pass-through entity's credit is limited due to the maximum allowable credit
+49 under this section subsection for a taxable year, the pass-through entity and its owners may not
+50 reallocate the unused credit among the other owners. The maximum allowable credit amounts
+51 are:
+Page 22 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 (1) Two hundred fifty thousand dollars ($250,000) to an owner who is an
+2 individual.
+3 (2) Five hundred thousand dollars ($500,000) to an owner that is a C Corporation
+4 or a pass-through entity.
+5 (g) Taxed Pass-Through Entity. Entities. – A taxed pass-through entity that engages in
+6 an activity that makes it eligible for a credit under subsection (a) of this section as an entity may
+7 not take the credit at the entity level but must pass through to each of its owners the owner's
+8 distributive share of the credit for which the taxed pass-through entity qualifies. Maximum dollar
+9 limits The maximum allowable credit amounts and other limitations that apply in determining
+10 the amount of credit available to an owner of a pass-through entity apply to the same extent in
+11 determining the amount of a credit for which the taxed pass-through entity qualifies. For purposes
+12 of this subsection, the term "taxed pass-through entity" is as defined in G.S. 105-153.3.
+13 (h) Limitation. Cap. – The allocated credit allowed by this section may not exceed the
+14 amount of the tax imposed by this Part against which it is claimed for the taxable year reduced
+15 by the sum of all credits allowed, except payments of tax made by or on behalf of the
+16 taxpayer.individual or pass-through entity.
+17 (i) Carryforward. – Any If the allocated credit exceeds the cap under subsection (h) of
+18 this section, any unused portion of this the allocated credit may be carried forward for the next
+19 succeeding five years.
+20 (j) No Double Benefit. – That portion of a qualifying donation that is the basis for a credit
+21 allowed under this section is not eligible for deduction as a charitable contribution under
+22 G.S. 105-153.5(a)(2)a.
+23 (k) Transferability. – Except as otherwise provided in this subsection, an allocated credit
+24 allowed under subsection (a) of this section may not be transferred. A taxpayer that is allowed,
+25 but has not used, an allocated credit under subsection (a) of this section may provide through a
+26 will, bequest, or other instrument of transfer that, upon the taxpayer's death, the unused allowable
+27 credit shall be transferred to a designated beneficiary. If a taxpayer that is allowed, but has not
+28 used, an allocated credit under subsection (a) of this section dies without a will, the unused
+29 allowable credit shall be transferred to the next person who is eligible to receive according to the
+30 rules of intestate succession as described in Chapter 29 of the General Statutes. The carryover
+31 period for credits transferred under this subdivision are subject to the original carryover period
+32 provided in subsection (i) of this section and shall not be extended.
+33 (g)(l) Ceiling; Use; Allocation. – The total aggregate amount of all tax total allocated credits
+34 allowed to taxpayers under this section and G.S. 105-130.4 for donations made in
+35 G.S. 105-130.34A for a taxable year may not exceed five million dollars ($5,000,000), of which
+36 three million two hundred fifty thousand dollars ($3,250,000) is reserved for credits to taxpayers
+37 that have made a qualified donation of real property for forestland or farmland conservation. If
+38 funds reserved for credits for qualified donations of real property for forestland or farmland
+39 conservation remain after disposition of all timely filed applications for that type of credit, the
+40 Secretary shall allocate any funds remaining to credits for other types of qualified donations
+41 under this section. The Secretary shall, first, fully fund any prorated credits in accordance with
+42 subsection (f) of this section and, second, if funds remain after fully funding prorated credits,
+43 reopen the application period for credits under this section for which funds have become
+44 available. If the Secretary reopens the application period and notwithstanding the application
+45 deadline in subsection (a2) of this section, the additional applications must be filed with the
+46 Secretary on or before October 15 of the year following the calendar year in which the donation
+47 was made. The Secretary may not accept late additional applications permitted under this
+48 subsection. The Secretary's determinations based on additional applications timely filed in
+49 accordance with this subsection are final.a prioritized amount. If the total requested credits are
+50 equal to or less than the maximum amount, the Secretary shall allow the total requested credits.
+House Bill 74-Third Edition Page 23
+General Assembly Of North Carolina Session 2025
+1 If the total requested credits are greater than the maximum amount, the Secretary shall allocate
+2 the total requested credits in accordance with this subsection.
+3 (l)(m) Reduction. – The Secretary of Revenue shall calculate the total amount of credits
+4 claimed from applications timely filed under subsection (c) of this section. If the total amount of
+5 requested credits claimed for donations made in a calendar year exceeds this exceed the
+6 maximum amount, the Secretary shall allow a portion of prorate the total requested credits
+7 claimed by allocating the maximum amount in tax credits in proportion to the size of the credit
+8 claimed by each individual or pass-through entity. in accordance with this subsection. If a
+9 requested credit claimed under this section is reduced as provided in this subsection, the Secretary
+10 shall notify the individuals or pass-through entities of the amount of the reduction of the credit
+11 on or before December 31 of the year following the calendar year in which the qualified donation
+12 was made. The Secretary's allocations based on applications filed under subsection (c) of this
+13 section are final and shall not be adjusted to account for credits applied for requested but not
+14 claimed.reduced under this subsection. The total requested credits shall be reduced as follows:
+15 (1) If the total requested credits are (i) all prioritized credit requests or (ii) all
+16 nonprioritized credit requests, then the Secretary shall prorate the total
+17 requested credits based on the proportion of each requested credit to the total
+18 requested credits.
+19 (2) If the total requested credits are (i) a combination of prioritized credit requests
+20 and nonprioritized credit requests and (ii) the amount of prioritized credit
+21 requests is equal to or less than the prioritized amount, the Secretary shall first
+22 allow the prioritized credit requests. The Secretary shall then prorate the cap
+23 remainder based on the proportion of each of the remaining requested credits
+24 to the total requested credits less the prioritized amount.
+25 (3) If the total amount of requested credits is (i) a combination of prioritized credit
+26 requests and nonprioritized credit requests and (ii) the amount of prioritized
+27 credit requests is greater than the prioritized amount, the Secretary shall first
+28 prorate the prioritized credit requests based on the proportion of each
+29 prioritized credit request to the prioritized amount. The Secretary shall then
+30 prorate the cap remainder, including the remainder of any prioritized credit
+31 requests, based on the proportion of each of the remaining requested credits
+32 to the total requested credits less the prioritized amount.
+33 (m)(n) Report. – The Department must include in the economic incentives report required by
+34 G.S. 105-256 the following information:
+35 (1) The number of individuals and pass-through entities that took requested the
+36 credit allowed under subsection (a) of this section.
+37 (2) The total amount of allocated credits claimed by conservation
+38 purpose.identified by public benefit as listed in subdivision (8) of subsection
+39 (b) of this section.
+40 (3) The total amount of credits carried forward.
+41 (4) The total cost to the General Fund of the credits taken.
+42 (5) The total amount of qualified donations."
+43 SECTION 9.1.(d) G.S. 105-153.5(a)(2)a. reads as rewritten:
+44 "a. Charitable Contribution. – The amount allowed as a deduction for
+45 charitable contributions under section 170 of the Code for that taxable
+46 year, subject to the following provisions:
+47 …
+48 3. Certain Real Property Donations. – A qualified donation that
+49 is the basis for an allocated credit under G.S. 105-153.11 is not
+50 eligible for a deduction under this subdivision."
+Page 24 House Bill 74-Third Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 9.1.(e) This section is effective for taxable years beginning on or after
+2 January 1, 2025, for donations made on or after January 1, 2025, and expires for taxable years
+3 beginning on or after January 1, 2027, for donations made on or after January 1, 2027.
+4
+5 PART X. EFFECTIVE DATE
+6 SECTION 10.1. Except as otherwise provided, this act is effective when it becomes
+7 law.
+House Bill 74-Third Edition Page 25
+[DELETED:  3 H (   A A A T M V T A C C T T C T  P  E E S 1  T s a t a d g a a n o f g f t S u 2 S  P  N S " r i t H F D R F t r u u  A S " o f a]
+[DELETED:  S  H r o F 5 a w a o d d a b t D f k r u a p S " p … ( T D s g a c i e f t a s t l f a …  L G F L R F P D S 1 w R p ( T f t F E M A ( a t a ( T u o l g d n h a a a o a a ( T  P  R P S " T t J L E O C t S A C o E E t H o R R p r a s r f t C O A N i e]
+[DELETED:  S  P a G e t b B a c D d U e A f T g C o t s p a t i i h e a f s e f b u s h S i P c j A k T t a o m s f r c b i l A t p ( o t o s a r b i m A ( t  U S " E m w a o c p o t F L S A i i a r s s p f p b o p a p i t p p d p a t f o t N C S o S a M M a a t e T B o G e p u s t b e f t C w S  R T O O T S F M T M T O R P O T S A D O A S " T … ( A t C p]
+[DELETED:  S  H u l p … S " M S o r S " M g r G r t a r d t c t s a d o A F o r t …  N B T P P F F O R P S " y t t B o G o T U o N C a a t t C o s r a u e I t f a n f e a t C d u t f f o r p r t t s a a i o s w q i t S i r p r t n  P  P  R S 4  N a p o S 2 o t C ( p W S 4  N a p o S 2 o t C ( p a]
+[DELETED:  S  P ( T p ( O m d ( t C C f a w i ( T m d ( t H C f a w o w S R t S p ( T D ( S h t d ( t R C t b d ( O D S C 1 o S 2 s n a p o l t t c b t t S R C b  R S 2 " t f c s ( I m ( A l g o a p o l g i t a ( S p g l e i n t m t n o p e ( S l g o a p o l g t f o m ( S l g o a p o l g i c c p e r f w a w]
+[DELETED:  S  H p t ( F C D o E Q a t N C D o T t e n r t t s d … " … ( G t o I C l … " 1  A – E s a m i t F o t f … ( A a o m d p t s ( o t s t l p i t g s b d b E b o t d o i t b g d t s S H P O r a w d … " t i o a g p a ( a b t E I C e c m a p u t s f f b a l g o g p a …  S S 4  N a p o l t t c f t t t N C S F b S 1 o S 2 f p s f]
+[DELETED:  S  P a o H S " o C ( a a t t n c w w t D s s a a c p t G t s o t m d ( i n p o l g i c d d a t a d i s " t f c s ( I a e u t 1 2 s o l t 1 a f p ( A l g o a p o l g i t a ( S p g l e i n t m t n o p e ( S l g o a p o l g t f o s ( S l g o a p o l g i c c p e r f w a w p t ( F N D o T t e n r t t s d … " a c p C " 1  A – E s a m i t F o t f ( U u]
+[DELETED:  S  H p t p a r i a e 1 s f p a ( F f t s f s d p t s ( o t s a b t G A E s p l g r s v f a m p E s b t g i l g t i i t s a t a a l o p t f p n O … " t i a w a e i b E a a l g o a g a e u m …  P  T H S C i a c w t S H P b a T I t a d i G S S M S S b  F R  1 1  1 1  1 1  1 1  1 1]
+[DELETED:  S  P  1 1  1 1  1 1  1 1  1 1  1 1  1 1  1 1  1 1 S r " " T C a r C F B I I m P … " T C i u t d o t S o t D o P S C S d a t e t t o o t C a a T S C m e t C p a t G A m a " T t ( P f a a d i m a t C ( T r ( T p d o a o d i t m p r r ( P a a c l w t P I N F ( F i b n l t a m p r c n … " … I t r i a m c a t r m t c e i G e C … "]
+[DELETED:  S  H T … ( M a d o e p a p a g a i t p e a t f i t a o p o c a l o m c a m p a f s t t c o p a f a d b t S o P S o t S H … ( P o m … " T … ( A C m ( A S C o t S H P p t G " l T a i r p w t i b o i b t h b m A l a s l " A w r s C " ( T i e w t N C C f M P t A r ( T m ( T ( T u i ( T o]
+[DELETED:  S  P a T b T ( T ( T a I i b … ( T a b S " ( T E i p o m c a 6 o o w i b t b s f d A s n o e c a i d o i f t m ( I p n e a s i a a p f r d o i s a p a i ( T a e s p s t s t ( T T s s m d o " … ( T C s a g a d p f t s i r o … "]
+[DELETED:  S  H ( T E f m i u g ( I d p d s o f ( T f p t m ( T C s c w t D o T a d a p o a c l a f o a m t b p o a o p c m " ( T A T p o t A A i t p a s s f t r d t ( I t C r a r t i a m p a d i s t i s r t m p T C s m e e t d r S ( T f t ( T C s c w t D o T a d a p o a c l a f o a m t b p o a o p c m " ( T –]
+[DELETED:  S  P f d w ( I t C r a r t i a m p a d i s t i s r t m p T C s m e e t d t i a q a p i p f t u o t W ( T f t S r H p  C S " ( A o i s ( T c ( A p w a a i l t s 3 d o a p t G c  P  V S 2 " 6  N a p o 2 o t C R a b t O o S B a M – S A f t 2 … ( T i t s o o h t t d ( i n t B P 1 I b s b p t B A L A U # I a p i S 2 … ( B r f t A T S F t p a s y o t 2 f b s i n b p t R]
+[DELETED:  S  H b p … ( T t f s s i b p t t O I C ( T t t o ( T d a b ( T h 2 n p a S a a b O H m h a s a s f h t s  U M I A E D T S r " t  N S " r t t J L C o G O c a l s a s  P  S S S]
+[DELETED:  S  P " T f t 2 e a F b b O m f h t d ( t A W c T m f h t d ( t A S U t b u f t a a r i f d F C e T h f t d ( t T H V a f T m d ( t N C F D g T h t t d ( t G C V F D I t b u f c i h T H i O h t t d ( t K C V a j T F D I t b u f c i a e k T C l O h f t d ( t C V a m S h t d ( t P F D n O m d ( t t T o H f d S o S 2 " 4  N a p o l o t C R r f …]
+[DELETED:  S  H ( T H B i t s o o m d ( f t 2 f y b u f t p a d o a 1 a a t t C H B S H … ( T m y a  U S t F o d c W S  W S " a t t d ( i n f f t C e e t f  P  B S " T … ( T M D …  C S d i S 4 o 2 t t c t s o m d ( f a  P]
+[DELETED:  S  P  V S r " ( C t t ( t t o o o a m i o t a o o b i i d h c v c h o w h w t c y i w t a f t c b e a p i s ( ( A s ( C a ( M i s ( N c r – A c r u t s o G o ( P i ( P c r – A c r u t s o G p ( Q d m ( T f i p f t q u f w t q r p 1 F 2 F 3 A o]
+[DELETED:  S  H m i o t a o o b i 4 F p i a c t i t f y p I g d d a p i G 5 H 6 P ( T l g o a b t i b o t r a a c b a l u ( Q ( T u ( T r c – T s o n c r a p ( – T c t c p i t s a c A C C u y t s i c ( A c o t c b t D o N a C R i q ( A S R 2 i t l e o t U S o P f t d p q r p i F f s a d o t c a v o t d p q l ( m c e c a t a c t t f t m a r o t m t a ( L a b t s o a c a e p o t m b o o b o t c]
+[DELETED:  S  P ( C s s ( N a u t s i n e f d a a c c u G ( T n ( C a m n t d f d f s s c a t f a a f a a a s a ( R a c t m a p i t s t S s n t c C C o a y f c c ( I n c r t t S s p t t r r ( I a c r a r t ( I r]
+[DELETED:  S  H c p t p c r b o t p o e p p r t ( R G ( T t ( T t a o a c c b c p ( ( T ( T ( T S " T p t G G s n b e f a d t c i n h r t b a t i u G S a " ( C a d w i o c g d d a p i G a a r o a n d i f t c u t c ( ( D ( A s ( C a ( M i s]
+[DELETED:  S  P ( N c r – A c r u t s o G t i f a q d f a u o t f ( P ( P i ( P c r – A c r u t s o G p ( Q d m ( T p I i d i p f o o t q f i p f t q u f w t q r p 1 F 2 F 3 A o m i o t a o o b i 4 F p i a c t i t f y p I g d d a p i G 5 H 6 P ( T l g o a b t i b o t r a a c c u t C L r t b d d r ( Q ( T u ( T ( T r c – T s o n c r a p ( A p a o y y e u a t ( A c o t c b t D o N a C R]
+[DELETED:  S  H i q d e ( A 2 P q r p i F f s a d o r p t i ( S s m m a m a f i b t S a r t S t f i t f ( L i e i t e o t a t i c t c a b t s o a s r e t h f t ( L c ( o t s m n e f h t d ( w t p o o E t s i s f c y e t t e o i o t o d s o t c f w t p e q n t e t a l i t s T p e m a t c o t a o t w a o o t p o u r a]
+[DELETED:  S  P ( T h f t d ( t a o w i a i ( F o ( T a n d l t d o ( L a b t s o a c a e p o t m b o o b o t t ( C t s ( N a u t s i n e f d a a c c u G ( T a b w c u a r p p ( C a t t u t s a G f d m i G t t f c S u s r t a p f c u t s f w f h b a d S w m T S m n a l a a p u t s T S d b o a a t f i a e]
+[DELETED:  S  H I t ( R c r c c f d m i a c y e t e t m a t S s a a p o p t t r c c c b e i o p e i a w t s I a r s o w s c ( I n c r t t S s p t t r r ( I a r a r t ( I r c p t p c r b o t p o e p p r t ( G ( T c ( T t a o a c c b c p ( ( T ( T ( T S " C C – T a a a a d f c y … 3 C i e]
+[DELETED:  S  P S J b  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 3
+HOUSE BILL 74
+Committee Substitute Favorable 3/3/25
+Senate Appropriations/Base Budget Committee Substitute Adopted 4/29/25
+Short Title: House Budget Technical Corrections. (Public)
+Sponsors:
+Referred to:
+February 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS TECHNICAL AND CLARIFYING CHANGES TO THE
+3 CURRENT OPERATIONS APPROPRIATIONS ACT OF 2023 AND TO OTHER ACTS.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. GENERAL PROVISIONS
+7
+8 EXTEND THE TIME LINE FOR CERTAIN DIRECTED GRANTS TO NON-STATE
+9 ENTITIES
+10 SECTION 1.1.(a) This section applies to any directed grants appropriated as
+11 nonrecurring funds in S.L. 2022-74 for the 2022-2023 fiscal year that (i) remain unexpended as
+12 of the effective date of this section and (ii) are subject to reversion on December 31, 2024, as set
+13 forth in Section 1 of S.L. 2024-40. Notwithstanding any provision of law to the contrary, the
+14 grants described by this section shall not revert on December 31, 2024, but shall remain available
+15 for expenditure for the purpose for which the funds were appropriated until the earlier of the date
+16 the funds are expended or the date the funds revert pursuant to subsection (b) of this section.
+17 SECTION 1.1.(b) Any funds described in subsection (a) of this section that remain
+18 unexpended as of December 31, 2024, shall revert to the appropriate fund at the end of the
+19 2025-2026 fiscal year.
+20 SECTION 1.1.(c) This section is effective retroactively to December 31, 2024.
+21
+22 PART IA. DISASTER RELIEF RELATED PROVISIONS
+23
+24 NCORR FUNDS TRANSFER CORRECTION
+25 SECTION 1A.1. Section 2B.2(a1) of S.L. 2025-2 reads as rewritten:
+26 "SECTION 2B.2.(a1) Additional Transfer. – The State Controller shall transfer all funds
+27 remaining in the Hurricane Florence Disaster Recovery Fund that remain unexpended
+28 unencumbered as of the date this act becomes law to the Savings Reserve."
+29
+30 AGRICULTURAL DISASTER CROP LOSS PROGRAM CORRECTION
+31 SECTION 1A.2.(a) Section 2D.2(b) of S.L. 2025-2 reads as rewritten:
+32 "SECTION 2D.2.(b) Verification of Loss. – A person seeking financial assistance for losses
+33 of agricultural commodities under the Program shall submit to the Department a Form 578 on
+34 file with the USDA Farm Service Agency or a form provided by the Department for reporting
+35 acreage or plantings of crops or reporting infrastructure damage or loss that is not typically
+*H74-v-3*
+
+General Assembly Of North Carolina Session 2025
+1 reported on Form 578, along with any other documentation deemed appropriate by the
+2 Department, no later than 45 60 days after this section becomes effective. For nursery crops,
+3 fruit-bearing trees and bushes, and specialty crops where the survival level is not immediately
+4 known, the Department may extend this deadline by an additional 45 60 days, upon written
+5 request by the person received no later than 45 60 days after this subpart becomes effective and
+6 upon approval by the Department. A person receiving assistance under this Program must provide
+7 a signed affidavit, under penalty of perjury, certifying that each fact of the loss presented by the
+8 person is accurate."
+9 SECTION 1A.2.(b) Section 2D.2(c) of S.L. 2025-2 reads as rewritten:
+10 "SECTION 2D.2.(c) Criteria. – The Department shall administer the financial assistance
+11 program authorized by this subpart in accordance with the following criteria:
+12 …
+13 (2) The Department shall gather all claim information, except from those
+14 applicants granted a deadline extension, no later than 45 60 days after this
+15 subpart becomes law. The Department shall, as closely as possible, estimate
+16 the amount of the funds needed to be held in reserve for payments related to
+17 losses of nursery, bush, tree, and specialty crops for which losses will not be
+18 fully known or calculated. The Department shall set aside funds as it deems
+19 appropriate based on the estimated percentage of these losses.
+20 …."
+21
+22 LOCAL GOVERNMENT FEMA LOAN REIMBURSEMENT FROM PREVIOUS
+23 DISASTERS
+24 SECTION 1A.3. Units of local governments that received loan funds under Section
+25 1.5(1) of S.L. 2018-138 or Section 1.2(3)a. of S.L. 2019-250 to assist with cashflow management
+26 while awaiting federal reimbursement, may apply to the Department of Public Safety, Office of
+27 Recovery and Resiliency, for forgiveness of any portion, in whole or in part, of the outstanding
+28 principal and interest of each loan received if all of the following conditions apply:
+29 (1) The unit of local government applied for Public Assistance reimbursement
+30 from the Federal Emergency Management Agency (FEMA) and that
+31 application was denied, in whole or in part.
+32 (2) The unit of local government does not have any active appeals or active
+33 arbitrations for Public Assistance reimbursement from FEMA.
+34 (3) The project worksheet has been closed.
+35
+36 PART II. EDUCATION
+37
+38 REVISE DEADLINE FOR UNC REPORT ON STATE BUDGET ALLOCATIONS AND
+39 POLICIES
+40 SECTION 2.1. G.S. 116-11(9b) reads as rewritten:
+41 "(9b) The Board of Governors shall report by February 1 March 1 of each year to
+42 the Joint Legislative Education Oversight Committee, the Senate
+43 Appropriations Committee on Education/Higher Education, the House of
+44 Representatives Appropriations Subcommittee on Education, and the Fiscal
+45 Research Division on the actions and adjustments necessary to its budgetary
+46 policies, regulations, and standards resulting from the Current Operations
+47 Appropriations Act for the administration and operation of The University of
+48 North Carolina and the distribution of State and federal funds to constituent
+49 institutions. The report shall include at least the following information for
+50 each constituent institution:
+Page 2 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 a. Guidelines related to State salaries of University of North Carolina
+2 employees, including range, median, and mean of faculty salaries at
+3 the institution.
+4 b. Budget allocations and reductions, including for operating expenses
+5 and specific programs.
+6 c. Distribution of additional State allocations for enrollment funding.
+7 d. Use of State funds and budget flexibility.
+8 e. Availability of federal funds.
+9 f. Tuition and fees.
+10 g. Composition of the student population at the institution, including
+11 headcount enrollment and full-time student enrollment for both
+12 undergraduate and graduate students, and aggregate data on residency
+13 status, median household income, gender, race, and ethnicity.
+14 h. Student retention and graduation rates.
+15 i. Postsecondary educational attainment rate at the institution, including
+16 comparison to statewide data.
+17 j. A comparison to prior fiscal year expenditures and appropriations.
+18 k. The total amount of mandatory student fee revenue collected by
+19 institution and fee type.
+20 l. Any source of student auxiliary revenue that represents greater than
+21 ten percent (10%) of the overall student auxiliary revenue by
+22 institution and revenue type.
+23 m. Any source of sales revenue that represents greater than ten percent
+24 (10%) of the overall sales revenue by institution and sales revenue
+25 type."
+26
+27 UNC BOARD OF GOVERNORS TEMPORARY EMPLOYMENT AUTHORITY
+28 SECTION 2.2.(a) G.S. 126-5(c1)(8) reads as rewritten:
+29 "(8) Employees of The University of North Carolina who are exempt from the
+30 minimum wage and overtime compensation provisions of the Fair Labor
+31 Standards Act, including instructional and research staff, student-oriented
+32 professionals, finance professionals, business office professionals, auditor
+33 professionals, information technology professionals, physicians, dentists,
+34 pilots, and the faculty of the North Carolina School of Science and
+35 Mathematics. Mathematics, and all temporary employees. The Board of
+36 Governors of The University of North Carolina shall have the authority to
+37 establish positions under this subdivision to be exempt from this Chapter
+38 without further review or approval by any other State agency."
+39 SECTION 2.2.(b) This section becomes effective January 1, 2026.
+40
+41 REQUIRE THE OFFICE OF THE STATE FIRE MARSHAL TO MAINTAIN THE
+42 ONLINE REPORTING PORTAL ON THE STORAGE AND DEPLOYMENT OF
+43 AQUEOUS FILM-FORMING FOAMS
+44 SECTION 2.3.(a) G.S. 58-82B-10 reads as rewritten:
+45 "§ 58-82B-10. Duties of Office of the State Fire Marshal.
+46 The Office of the State Fire Marshal (OSFM) shall do all of the following:
+47 …
+48 (2) Assist the North Carolina Collaboratory, established under G.S. 116-255, in
+49 the development of Develop and maintain, with the assistance of the North
+50 Carolina Collaboratory established under G.S. 116-255, an online reporting
+51 portal for fire departments operated, regulated, or managed by one or more
+House Bill 74-Third Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 units of State and local government, including those located at or serving
+2 public airports, with the requirements of this Article.
+3 …."
+4 SECTION 2.3.(b) G.S. 116-255(b)(6) reads as rewritten:
+5 "(6) Maintain an online reporting portal, in partnership with Assist the Office of
+6 State Fire Marshal, Marshal in the maintenance of the online reporting portal
+7 on the storage and deployment of Aqueous Film-Forming Foams (AFFF) as
+8 required by G.S. 58-82B-10."
+9 SECTION 2.3.(c) Subsection (i) of Section 8.10 of S.L. 2021-180 reads as rewritten:
+10 "SECTION 8.10.(i) The Collaboratory, in partnership with the The Office of the State Fire
+11 Marshal (OSFM) (OSFM), in partnership with the Collaboratory and any unit of State and local
+12 government deemed relevant by the Collaboratory, OSFM, shall develop and maintain the online
+13 reporting portal as required by G.S. 58-82B-10, as enacted by subsection (h) of this section, and
+14 G.S. 116-255(b)(6), as enacted by Section 8.8 of this act. The portal shall consist of an online
+15 reporting tool and related database that captures the storage and deployment of Aqueous
+16 Film-Forming Foams (AFFF) by fire departments in the State that are operated, managed, or
+17 overseen by units of local government, including those located at or serving public airports. The
+18 reporting tool shall be easily accessible to firefighters and fire department personnel to upload
+19 the data. The required inventory data shall include, at a minimum, the following:
+20 …."
+21
+22 NORTH CAROLINA COLLABORATORY MAY USE CYANOBACTERIAL ALGAL
+23 BLOOM TREATMENT PILOT PROJECT FUNDS FOR OTHER RESEARCH
+24 PROJECTS
+25 SECTION 2.4. Section 8.18(c) of S.L. 2021-180 reads as rewritten:
+26 "SECTION 8.18.(c) The nonrecurring funds appropriated in this act for the 2021-2022 fiscal
+27 year to the Board of Governors of The University of North Carolina and allocated to the
+28 Collaboratory for the study of a cyanobacterial algal bloom treatment provided in subsection (b)
+29 of this section shall not revert to the General Fund at the end of the 2021-2022 fiscal year but
+30 shall remain available until expended. If these funds are not fully expended after the
+31 Collaboratory completes the evaluation required by this section, the Collaboratory may in its
+32 discretion use these funds for other research projects related to the study, analysis, and
+33 improvement of surface water quality in the State, including research projects related to
+34 nutrient-impaired coastal waters."
+35
+36 PART III. HEALTH AND HUMAN SERVICES [RESERVED]
+37
+38 PART IV. AGRICULTURE AND NATURAL AND ECONOMIC RESOURCES
+39
+40 REALLOCATE WATER INFRASTRUCTURE FUNDS
+41 SECTION 4.1.(a) Notwithstanding any provision of S.L. 2023-134 or the
+42 Committee Report referenced in Section 43.2 of that act to the contrary, three million dollars
+43 ($3,000,000) of the funds allocated to the City of Oxford for the Kerr Lake Regional Water
+44 project by Section 12.2(e)(136) of S.L. 2023-134 shall instead be allocated to the South Granville
+45 Water and Sewer Authority for one or more water or wastewater infrastructure projects.
+46 SECTION 4.1.(b) Notwithstanding any provision of S.L. 2023-134 or the
+47 Committee Report referenced in Section 43.2 of that act to the contrary, seven million dollars
+48 ($7,000,000) of the funds allocated to the City of Oxford for the Kerr Lake Regional Water
+49 project by Section 12.2(e)(136) of S.L. 2023-134 shall be transferred to the Office of State Budget
+50 and Management to provide grants to the following local governments and purposes:
+Page 4 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) Three million dollars ($3,000,000) to Franklin County for an infrastructure
+2 project.
+3 (2) One million dollars ($1,000,000) to Catawba County for a wastewater
+4 infrastructure project.
+5 (3) Three million dollars ($3,000,000) to Hertford County for a water or
+6 wastewater infrastructure project.
+7 SECTION 4.1.(c) Notwithstanding any provision of S.L. 2023-134 or the Committee
+8 Report referenced in Section 43.2 of that act to the contrary, four million dollars ($4,000,000) of
+9 the funds allocated by Section 12.2(e)(139) of S.L. 2023-134 shall be transferred to the Office of
+10 State Budget and Management to provide grants in the following amounts for the following
+11 purposes:
+12 (1) Three million two hundred thousand dollars ($3,200,000) to Stokesdale Fire
+13 District, Inc., a nonprofit corporation, for a new building.
+14 (2) Seven hundred thousand dollars ($700,000) to Rockingham County to be
+15 distributed by the County as fire department grants.
+16 (3) One hundred thousand dollars ($100,000) to the Alamance County Sheriff's
+17 Department for equipment.
+18 SECTION 4.1.(d) Funds provided to the City of Archdale, the City of Asheboro, the
+19 City of Randleman, Randolph County, and the City of Trinity (local governments) by Section
+20 12.2(e) of S.L. 2023-134 shall, notwithstanding any provision of law to the contrary, be
+21 transferred to the Office of State Budget and Management to provide grants in the same amounts
+22 to the same local governments for water and wastewater projects.
+23 SECTION 4.1.(e) Notwithstanding any provision of S.L. 2023-134 or the Committee
+24 Report referenced in Section 43.2 of that act to the contrary, funds allocated to the City of
+25 Claremont for the Lyle Creek Sewer project by Section 12.2(e)(39) of S.L. 2023-134 shall instead
+26 be used by the City of Claremont for any regional wastewater infrastructure improvements.
+27
+28 REVISE MEGASITES READINESS PROGRAM
+29 SECTION 4.2. Section 11.11 of S.L. 2022-74, as amended by Section 11.11 of S.L.
+30 2023-134, reads as rewritten:
+31 "SECTION 11.11.(a) Purpose. – It is in the best economic and developmental interests of
+32 the State to support the development of megasites to ensure the State's ongoing competitiveness
+33 for major manufacturing opportunities, including, but not limited to, the aerospace, automotive,
+34 clean energy, food processing, semiconductor, and life science industries. The purpose of this
+35 section is to establish a competitive grant program serving to do the following:
+36 (1) Identify and evaluate up to seven megasites for preferred development and
+37 marketing.
+38 (2) Assist local governments or a partnership of local governments in the
+39 acquisition of a newly identified or existing megasite.
+40 (3) Support local governments or a partnership of local governments to analyze,
+41 plan, install, or upgrade public infrastructure, including publicly owned water,
+42 gas, and sewer systems, transportation infrastructure, and the electrical utility
+43 lines electric infrastructure necessary to meet the needs of prospective
+44 employers for megasites.
+45 (4) Support local governments or a partnership of local governments to fund
+46 on-site preparation, including clearing, grading, or other related expenses for
+47 megasites.
+48 (4a) Support local governments or a partnership of local governments in
+49 conducting due diligence, including, but not limited to, the following: site
+50 characteristics, preliminary engineering reports for water and wastewater
+House Bill 74-Third Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 provision to the site, assessments related to road and highway infrastructure
+2 to serve the site, and other assessments as needed.
+3 (5) Facilitate coordination between the economic development entities, the North
+4 Carolina Department of Environmental Quality, and the North Carolina
+5 Department of Transportation to expedite needs related to timely site
+6 development.
+7 …
+8 "SECTION 11.11.(c) Definitions. – The following definitions apply in this section:
+9 …
+10 (4) Government partnership. – Either (i) a North Carolina nonprofit entity that is
+11 tax exempt under section 501(c)(3) or 501(c)(12) of the Internal Revenue
+12 Code in partnership with one or more local governments or (ii) a group of
+13 local governments.
+14 …
+15 "SECTION 11.11.(d) Allocation. – EDPNC shall allocate monies in the Fund on the
+16 following basis:
+17 …
+18 (2) All other funds appropriated to the Fund for local government grants for the
+19 acquisition of megasites determined pursuant to subdivision (1) of this
+20 subsection. purposes described in subsection (a) of this section. A grant for
+21 the acquisition of a megasite is limited to eighty-five percent (85%) of the
+22 lesser of the property's purchase price or tax value. The percentage actually
+23 provided in the grant shall be determined by EDPNC based on total
+24 development needs for the megasite, prior investment in the megasite by one
+25 or more local governments, the ability of one or more local governments to
+26 invest in the megasite, and the ability and level of participation promised by
+27 the local government in exchange for a grant from the Fund. Monies may only
+28 be granted for, and used to acquire, a megasite for which (i) one or more local
+29 governments have a binding option or offer to purchase and (ii) all basic due
+30 diligence must be complete, including, but not limited to, boundary surveys,
+31 title searches, State Historic Preservation Office reviews, and wetlands
+32 delineation.
+33 …
+34 "SECTION 11.11.(f) Agreements Required. – Monies may shall be disbursed from the Fund
+35 to EDPNC on a quarterly basis in four equal installments per year. EDPNC may use funds only
+36 in accordance with agreements that are (i) entered into between EDPNC and a local government
+37 or a government partnership and (ii) approved by the Economic Investment Committee
+38 established pursuant to G.S. 143B-437.54. The agreement must include all of the performance
+39 criteria, remedies, and other safeguards required to secure the assistance provided to ready the
+40 megasite for a major employer and must require EDPNC to recapture a proportionate amount of
+41 assistance provided under this section for failure by a local government or government
+42 partnership to meet and maintain the megasite for availability for the purposes for which the
+43 assistance was provided.
+44 …."
+45
+46 SELECTSITE MODIFICATIONS
+47 SECTION 4.3.(a) Notwithstanding any provision of law to the contrary, funds
+48 transferred to the North Carolina Selectsite Fund by Section 11.12(a) of S.L. 2023-134 for
+49 purposes consistent with Section 11.12(e)(1) of that act, that remain unspent as of April 1, 2025,
+50 shall not be used for those purposes but shall instead be used for engaging a national site selection
+51 firm through a competitive bid process to produce a report identifying and evaluating up to five
+Page 6 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 and not less than three selectsites located in a county declared a major disaster by the President
+2 of the United States, on September 28, 2024, under the Stafford Act (P.L. 93-288) as a result of
+3 Hurricane Helene.
+4 SECTION 4.3.(b) Section 11.12 of S.L. 2023-134 reads as rewritten:
+5 "SECTION 11.12.(a) Funds appropriated by Section 11.4 of S.L. 2022-74 to the Department
+6 of Commerce (Department) and allocated to the nonprofit corporation with which the
+7 Department contracts pursuant to G.S. 143B-431.01(b) that remain unspent as of June 30, 2023,
+8 shall be transferred to the North Carolina Selectsite Fund established in subsection (c) of this
+9 section to be used for purposes consistent with subdivision (e)(1) of this section. Of the funds
+10 appropriated from the Economic Development Project Reserve established in Section 2.2 of this
+11 act to the Department to be allocated to the nonprofit corporation with which the Department
+12 contracts pursuant to G.S. 143B-431.01(b), the sum of ten million dollars ($10,000,000) in
+13 nonrecurring funds for the 2024-2025 fiscal year shall be used to support local governments or a
+14 partnership of local governments in conducting due diligence as the activities described in
+15 subdivision subdivisions (b)(2), (b)(3), (b)(4), and (b)(5) of this section.
+16 "SECTION 11.12.(b) Purpose. – It is in the best economic and developmental interests of
+17 the State to support the development of selectsites to ensure the State's ongoing competitiveness
+18 for major manufacturing opportunities, including, but not limited to, the aerospace, automotive,
+19 clean energy, food processing, semiconductor, and life science industries. The purpose of this
+20 section is to establish a competitive grant program serving to do the following:
+21 (1) Identify and evaluate up to 15 20 selectsites of less than 1,000 acres for
+22 preferred development and marketing.
+23 (2) Assist local governments or a partnership of local governments in the
+24 acquisition of a newly identified or existing selectsite.
+25 (3) Support local governments or a partnership of local governments to analyze,
+26 plan, install, or upgrade public infrastructure, including publicly owned water,
+27 gas, and sewer systems; transportation infrastructure; and the electrical utility
+28 lines electric infrastructure necessary to meet the needs of prospective
+29 employers for selectsites.
+30 (4) Support local governments or a partnership of local governments to fund
+31 on-site preparation, including clearing, grading, or other related expenses for
+32 selectsites.
+33 (5) Support local governments or a partnership of local governments in
+34 conducting due diligence, including, but not limited to, the following: site
+35 characteristics, preliminary engineering reports for water and wastewater
+36 provision to the site, assessments related to road and highway infrastructure
+37 to serve the site, and other assessments as needed.
+38 (6) Facilitate coordination between the economic development entities and the
+39 North Carolina Department of Environmental Quality and the North Carolina
+40 Department of Transportation to expedite needs related to timely site
+41 development.
+42 …
+43 "SECTION 11.12.(d) Definitions. – The definitions in Section 11.11(c) of S.L. 2022-74
+44 apply in this section. For purposes of this section, a "selectsite" is a parcel of contiguous property
+45 consisting of less than 1,000 acres that is viable for industrial development and listed in the report
+46 pursuant to subsection (h) (e) of this section. For purposes of this section, "Fund" is the North
+47 Carolina Selectsite Fund.
+48 "SECTION 11.12.(e) Allocation. – EDPNC shall allocate monies in the Fund on the
+49 following basis:
+50 (1) Unspent funds transferred pursuant to subsection (a) of this section shall be
+51 used for engaging a national site selection firm through a competitive bid
+House Bill 74-Third Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 process to produce a report identifying and evaluating 15 selectsites for
+2 preferred development and marketing, of which seven must be less than 500
+3 acres and of which an additional two must be less than 100 acres.
+4 (2) Funds appropriated to the Fund for local government grants shall be allocated
+5 for the purposes outlined in subdivisions (b)(2), (b)(3), (b)(4), and (b)(5) of
+6 this section for selectsites determined pursuant to subdivision (1) of this
+7 subsection. subsection or through a similar selectsite site selection process
+8 authorized by the General Assembly. EDPNC shall prioritize local
+9 government grants that have the greatest potential to reduce the time for site
+10 readiness and reduce the risk of unforeseen conditions that could affect the
+11 site viability for advanced manufacturing projects. EDPNC shall base the
+12 grant amount on total development needs for the selectsite, prior investment
+13 in the selectsite by one or more local governments, the ability of one or more
+14 local governments to invest in the selectsite, and the ability and level of
+15 participation promised by the local government in exchange for a grant from
+16 the Fund. Monies may only be granted for, and used to acquire, a selectsite
+17 for which (i) one or more local governments have a binding option or offer to
+18 purchase and (ii) all basic due diligence has been completed, including, but
+19 not limited to, boundary surveys, title searches, State Historic Preservation
+20 Office reviews, and wetlands delineation.
+21 …
+22 "SECTION 11.12.(g) Agreements Required. – Monies may shall be disbursed from the Fund
+23 to EDPNC on a quarterly basis in four equal installments per year. EDPNC may use funds only
+24 in accordance with agreements entered into between EDPNC and a local government or a
+25 government partnership. The agreement must include all of the performance criteria, remedies,
+26 and other safeguards required to secure the assistance provided to ready the selectsite for a major
+27 employer and must require EDPNC to recapture a proportionate amount of assistance provided
+28 under this section for failure by a local government or government partnership to meet and
+29 maintain the selectsite for availability for the purposes for which the assistance was provided.
+30 …."
+31
+32 PART V. JUSTICE AND PUBLIC SAFETY
+33
+34 TRANSFER NORTH CAROLINA CENTER FOR MISSING PERSONS TO THE STATE
+35 HIGHWAY PATROL
+36 SECTION 5.1.(a) All functions, powers, duties, and obligations vested in the North
+37 Carolina Center for Missing Persons in the Department of Public Safety are transferred to, vested
+38 in, and consolidated within the State Highway Patrol by a Type I transfer, as defined in
+39 G.S. 143A-6.
+40 SECTION 5.1.(b) Article 17 of Chapter 143B of the General Statutes, as enacted by
+41 S.L. 2024-57, is amended by adding a new Part 4 to be entitled "North Carolina Center for
+42 Missing Persons."
+43 SECTION 5.1.(c) Subpart B of Part 5 of Article 13 of Chapter 143B of the General
+44 Statutes is recodified as Part 4 of Article 17 of Chapter 143B of the General Statutes, as enacted
+45 by S.L. 2024-57, as follows:
+46 Former Citation Recodified Citation
+47 143B-1010 143B-1760
+48 143B-1011 143B-1761
+49 143B-1012 143B-1762
+50 143B-1013 143B-1763
+51 143B-1014 143B-1764
+Page 8 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 143B-1015 143B-1765
+2 143B-1016 143B-1766
+3 143B-1017 143B-1767
+4 143B-1018 143B-1768
+5 143B-1019 143B-1769
+6 143B-1020 143B-1770
+7 143B-1021 143B-1771
+8 143B-1022 143B-1772
+9 143B-1023 143B-1773
+10 SECTION 5.1.(d) Part 4 of Article 17 of Chapter 143B of the General Statutes, as
+11 recodified by subsection (c) of this section, reads as rewritten:
+12 "Part 4. North Carolina Center for Missing Persons.
+13 "§ 143B-1760. North Carolina Center for Missing Persons established.
+14 There is established within the Department of Public Safety State Highway Patrol the North
+15 Carolina Center for Missing Persons, which shall be organized and staffed in accordance with
+16 applicable laws. The purpose of the Center is to serve as a central repository for information
+17 regarding missing persons and missing children, with special emphasis on missing children. The
+18 Center may utilize the Federal Bureau of Investigation/National Crime Information Center's
+19 missing person computerized file (hereinafter referred to as FBI/NCIC) through the use of the
+20 Police Information Network in the North Carolina Department of Justice.
+21 …
+22 "§ 143B-1762. Control of the Center.
+23 The Center is under the direction of the Secretary of the Department of Public Safety
+24 Commander of the State Highway Patrol and may be organized and structured in a manner as the
+25 Secretary deems appropriate to ensure that the objectives of the Center are achieved. The
+26 Secretary Commander may employ those Center personnel as the General Assembly may
+27 authorize and provide funding for.
+28 "§ 143B-1763. Secretary Commander to adopt rules.
+29 The Secretary Commander of the State Highway Patrol shall adopt rules prescribing all of
+30 the following:
+31 (1) Procedures for accepting and disseminating information maintained at the
+32 Center.
+33 (2) The confidentiality of the data and information, including the missing person
+34 report, maintained by the Center.
+35 (3) The proper disposition of all obsolete data, including the missing person
+36 report; provided, data for an individual who has reached the age of 18 and
+37 remains missing must be preserved.
+38 (4) Procedures allowing a communication link with the Police Information
+39 Network and the FBI/NCIC's missing person file to ensure compliance with
+40 FBI/NCIC policies.
+41 (5) Forms, including but not limited to a missing person report, considered
+42 necessary for the efficient and proper operation of the Center.
+43 …
+44 "§ 143B-1765. Dissemination of missing persons data by law-enforcement agencies.
+45 …
+46 If the report involves a missing child and the report meets the criteria established in
+47 G.S. 143B-1021(b), G.S. 143B-1771(b), as soon as practicable after receipt of the report, the law
+48 enforcement agency shall notify the Center and the National Center for Missing and Exploited
+49 Children of the relevant data about the missing child.
+50 …
+51 "§ 143B-1766. Responsibilities of Center.
+House Bill 74-Third Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 The Center shall do all of the following:
+2 …
+3 (9) Maintain a directory of existing public and private agencies, groups, and
+4 individuals that provide effective assistance to families in the areas of
+5 prevention of child abduction, location of missing children and missing
+6 persons, and follow-up services to the child or person and family, as
+7 determined by the Secretary of Public Safety.Commander of the State
+8 Highway Patrol.
+9 …
+10 (13) Perform such other activities that the Secretary of Public Safety Commander
+11 of the State Highway Patrol considers necessary to carry out the intent of its
+12 mandate.
+13 …
+14 "§ 143B-1768. Release of information by Center.
+15 The following may make inquiries of, and receive data or information from, the Center:
+16 …
+17 (4) Any person engaged in bona fide research when approved by the Secretary;
+18 Commander of the State Highway Patrol; provided, no names or addresses
+19 may be supplied to this person.
+20 (5) Any other person authorized by the Secretary of the Department of Public
+21 Safety Commander of the State Highway Patrol pursuant to
+22 G.S. 143B-1013.G.S. 143B-1763.
+23 "§ 143B-1769. Provision of toll-free service; instructions to callers; communication with
+24 law-enforcement agencies.
+25 The Center shall provide a toll-free telephone line for anyone to report the disappearance of
+26 any individual or the sighting of any missing child or missing person. The Center personnel shall
+27 instruct the caller, in the case of a report concerning the disappearance of an individual, of the
+28 requirements contained in G.S. 143B-1014 G.S. 143B-1764 of first having to submit a missing
+29 person report on the individual to the law-enforcement agency having jurisdiction of the area in
+30 which the individual became or is believed to have become missing. Any law-enforcement
+31 agency may retrieve information imparted to the Center by means of this phone line. The Center
+32 shall directly communicate any report of a sighting of a missing person or a missing child to the
+33 law-enforcement agency having jurisdiction in the area of disappearance or sighting.
+34 "§ 143B-1770. Improper release of information; penalty.
+35 Any person working under the supervision of the Director of Victims and Justice Services
+36 who knowingly and willfully releases, or authorizes the release of, any data, information, or
+37 records maintained or possessed by the Center to any agency, entity, or person other than as
+38 specifically permitted by Subpart B this Part or in violation of any rule adopted by the Secretary
+39 Commander of the State Highway Patrol is guilty of a Class 2 misdemeanor.
+40 "§ 143B-1771. North Carolina AMBER Alert System established.
+41 (a) There is established within the North Carolina Center for Missing Persons the
+42 AMBER Alert System. The purpose of AMBER Alert is to provide a statewide system for the
+43 rapid dissemination of information regarding abducted children.
+44 (b) The AMBER Alert System shall make every effort to disseminate information on
+45 missing children as quickly as possible when all of the following criteria are met:
+46 (1) The child is 17 years of age or younger;younger.
+47 (2) The If abduction is not known or suspected to be by a parent of the child,
+48 unless the child's life is must be suspected to be in imminent danger of serious
+49 injury or death;death.
+50 (3) The child is believed:believed (i) to have been abducted and (ii) to be in danger
+51 of injury or death.
+Page 10 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 a. To have been abducted, or
+2 b. To be in danger of injury or death;
+3 (4) The child is not a runaway or voluntarily missing; andmissing.
+4 (5) The abduction has been reported to and investigated by a law enforcement
+5 agency.
+6 If the abduction of the child is known or suspected to be by a parent of the child, the Center,
+7 in its discretion, may disseminate information through the AMBER Alert System if the child is
+8 believed to be in danger of injury or death.
+9 …
+10 (f) The Department of Public Safety, State Highway Patrol, on behalf of the Center, may
+11 accept grants, contributions, devises, and gifts, which shall be kept in a separate fund, which shall
+12 be nonreverting, and shall be used to fund the operations of the Center and the AMBER Alert
+13 System.
+14 "§ 143B-1772. North Carolina Missing Endangered System Silver Alert established.
+15 (a) There is established within the North Carolina Center for Missing Persons the Missing
+16 Endangered System. Silver Alert. The purpose of the Missing Endangered System Silver Alert
+17 is to provide a statewide system for the rapid dissemination of information regarding a missing
+18 person or missing child aged 65 or older who is believed to be suffering from dementia,
+19 Alzheimer's disease, or a cognitive impairment that, in light of the person's or child's missing
+20 status, requires the person or child to be protected from potential abuse or other physical harm,
+21 neglect, or exploitation.that causes an irreversible deterioration of intellectual faculties that
+22 makes them unable to meet their own needs or to seek help without assistance.
+23 (b) If the Center or a law enforcement agency receives a request that involves a missing
+24 person or missing child as described in subsection (a) of this section, and at the time of receipt
+25 no more than 72 hours have passed since the person or child went missing, the Center or law
+26 enforcement agency shall issue an alert providing for rapid dissemination of information
+27 statewide regarding the missing person or missing child. person. The Center or law enforcement
+28 agency shall make every effort to disseminate the information as quickly as possible when the
+29 person's or child's status as missing has been reported to a law enforcement agency.agency,
+30 including procedures for the use of the Wireless Emergency Alert.
+31 (c) The Center and all law enforcement agencies shall adopt guidelines and develop
+32 procedures for issuing an a 90-day alert for missing persons and missing children as described in
+33 subsection (a) of this section and shall provide education and training to encourage radio and
+34 television broadcasters to participate in the alert. The guidelines and procedures shall ensure that
+35 specific health information about the missing person or missing child is not made public through
+36 the alert or otherwise.
+37 (d) The Center and all law enforcement agencies shall consult with the Department of
+38 Transportation and develop a procedure for the use of overhead permanent changeable message
+39 signs to provide information on the missing person or missing child meeting the criteria of this
+40 section when information is available that would enable motorists to assist in the recovery of the
+41 missing person or missing child. person. The Center and the Department of Transportation shall
+42 develop guidelines for the content, length, and frequency of any message to be placed on an
+43 overhead permanent changeable message sign.
+44 "§ 143B-1773. North Carolina Blue Alert System established.
+45 …
+46 (c) The Center shall adopt guidelines and develop procedures for the statewide
+47 implementation of the Blue Alert System and shall provide education and training to encourage
+48 radio and television broadcasters to participate in the alert.alert, including procedures for the use
+49 of the Emergency Alert System and the Wireless Emergency Alert.
+50 …
+51 "§ 143B-1774. North Carolina Missing Endangered Alert established.
+House Bill 74-Third Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 (a) There is established within the North Carolina Center for Missing Persons the Missing
+2 Endangered Alert. The purpose of the Missing Endangered Alert is to provide a statewide system
+3 for the rapid dissemination of information regarding a missing person, aged 64 or younger, or
+4 missing child who is believed to be suffering from dementia, Alzheimer's disease, or a cognitive
+5 impairment that causes an irreversible deterioration of intellectual faculties that makes them
+6 unable to meet their own needs or to seek help without assistance and that is not a risk to the
+7 general public.
+8 (b) If the Center receives a request that involves a missing person or missing child as
+9 described in subsection (a) of this section, and at the time of receipt no more than 72 hours have
+10 passed since the person or child went missing, the Center shall issue an alert providing for rapid
+11 dissemination of information statewide regarding the missing person or missing child. The Center
+12 shall make every effort to disseminate the information as quickly as possible when the person's
+13 or child's status as missing has been reported to a law enforcement agency, including procedures
+14 for the use of the Wireless Emergency Alert.
+15 (c) The Center shall adopt guidelines and develop procedures for issuing a 90-day alert
+16 for missing persons and missing children as described in subsection (a) of this section and shall
+17 provide education and training to encourage radio and television broadcasters to participate in
+18 the alert. The guidelines and procedures shall ensure that specific health information about the
+19 missing person or missing child is not made public through the alert or otherwise.
+20 (d) The Center shall consult with the Department of Transportation and develop a
+21 procedure for the use of overhead permanent changeable message signs to provide information
+22 on the missing person or missing child meeting the criteria of this section when information is
+23 available that would enable motorists to assist in the recovery of the missing person or missing
+24 child. The Center and the Department of Transportation shall develop guidelines for the content,
+25 length, and frequency of any message to be placed on an overhead permanent changeable
+26 message sign.
+27 "§ 143B-1775. North Carolina Ashanti Alert established.
+28 (a) There is established within the North Carolina Center for Missing Persons the Ashanti
+29 Alert. The purpose of the Ashanti Alert is to provide a statewide system for the rapid
+30 dissemination of information regarding a missing person over 18 years of age that is suspected
+31 to have been abducted and there is both abductor and vehicle information available.
+32 (b) If the Center receives a request that involves a missing person as described in
+33 subsection (a) of this section, and at the time of receipt no more than 72 hours have passed since
+34 the person went missing, the Center shall issue an alert providing for rapid dissemination of
+35 information statewide regarding the missing person. The Center shall make every effort to
+36 disseminate the information as quickly as possible when the person's status as missing has been
+37 reported to a law enforcement agency, including procedures for the use of the Emergency Alert
+38 System and the Wireless Emergency Alert.
+39 (c) The Center shall adopt guidelines and develop procedures for issuing a 24-hour alert
+40 for missing persons as described in subsection (a) of this section and shall provide education and
+41 training to encourage radio and television broadcasters to participate in the alert.
+42 (d) The Center shall consult with the Department of Transportation and develop a
+43 procedure for the use of overhead permanent changeable message signs to provide information
+44 on the missing person or missing child meeting the criteria of this section when information is
+45 available that would enable motorists to assist in the recovery of the missing person or missing
+46 child. The Center and the Department of Transportation shall develop guidelines for the content,
+47 length, and frequency of any message to be placed on an overhead permanent changeable
+48 message sign.
+49 "§ 143B-1776. North Carolina Missing – Weather Alert established.
+50 (a) There is established within the North Carolina Center for Missing Persons the Missing
+51 – Weather Alert. The purpose of the Missing – Weather Alert is to provide a statewide system
+Page 12 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 for the rapid dissemination of information regarding a missing person or child that is missing
+2 during times of extreme heat or cold and is not in a vehicle, or immediately following a significant
+3 weather event.
+4 (b) If the Center receives a request that involves a missing person as described in
+5 subsection (a) of this section, and at the time of receipt no more than 72 hours have passed since
+6 the person went missing, the Center shall issue an alert providing for rapid dissemination of
+7 information statewide regarding the missing person. The Center shall make every effort to
+8 disseminate the information as quickly as possible, including procedures for the use of the
+9 Wireless Emergency Alert.
+10 (c) The Center shall adopt guidelines and develop procedures for issuing a 30-day alert
+11 for missing persons as described in subsection (a) of this section and shall provide education and
+12 training to encourage radio and television broadcasters to participate in the alert."
+13 SECTION 5.1.(e) The State Highway Patrol shall adopt rules, or amendments to
+14 rules, consistent with the provisions of this section. The State Highway Patrol may use the
+15 procedure set forth in G.S. 150B-21.1 to adopt or amend any rules as required under this section.
+16
+17 CLARIFICATION ON SAFE SURRENDER OF INFANTS
+18 SECTION 5.4. G.S. 14-318.2 reads as rewritten:
+19 "§ 14-318.2. Child abuse a misdemeanor.
+20 (a) Any parent of a child less than 16 years of age, or any other person providing care to
+21 or supervision of such child, who inflicts physical injury, or who allows physical injury to be
+22 inflicted, or who creates or allows to be created a substantial risk of physical injury, upon or to
+23 such child by other than accidental means is guilty of the Class A1 misdemeanor of child abuse.
+24 (b) The Class A1 misdemeanor of child abuse is an offense additional to other civil and
+25 criminal provisions and is not intended to repeal or preclude any other sanctions or remedies.
+26 (c) A parent who abandons an infant less than seven 30 days of age pursuant to
+27 G.S. 14-322.3 shall not be prosecuted under this section for any acts or omissions related to the
+28 care of that infant."
+29
+30 PART VI. GENERAL GOVERNMENT
+31
+32 VARIOUS DIRECTED GRANT REVISIONS
+33 SECTION 6.1. Section 6.1(a) of S.L. 2024-1, as amended by Section 2E.1(a) of S.L.
+34 2024-57, reads as rewritten:
+35 "SECTION 6.1.(a) Notwithstanding any provision of S.L. 2023-134 or the Committee
+36 Report referenced in Section 43.2 of that act to the contrary, the following directed grants to be
+37 allocated by the Office of State Budget and Management – Special Appropriations for the
+38 2023-2024 fiscal year are amended as follows:
+39 …
+40 (2) The directed grant to the Banner American Legion Auxiliary Unit #109, Inc.,
+41 in the sum of one hundred twenty-five thousand dollars ($125,000) in
+42 nonrecurring funds for the 2023-2024 fiscal year shall instead not be provided
+43 to Banner Post 109, Incorporated.Incorporated, but shall be provided to
+44 Banner American Legion Auxiliary Unit #109, Inc., as provided in S.L.
+45 2023-134.
+46 …
+47 (37) Budgeted receipts from the ARPA Temporary Savings Fund to provide
+48 additional funds to Wake Forest Institute for Regenerative Medicine in the
+49 sum of five million dollars ($5,000,000) in nonrecurring funds for each fiscal
+50 year of the 2023-2025 fiscal biennium shall instead not be provided to
+51 RegenMed Development Organization, a 501(c)3 organization.organization
+House Bill 74-Third Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 but shall be provided to Wake Forest Institute for Regenerative Medicine as
+2 provided in S.L. 2023-134.
+3 …
+4 (48) The directed grant to Greater Rocky Mount Family Medical Center, Inc., in
+5 the sum of three hundred fifty thousand dollars ($350,000) in nonrecurring
+6 funds for the 2023-2024 fiscal year to expand dental and behavioral health
+7 services shall instead be provided to the Opportunities Industrialization
+8 Center, Incorporated, of Rocky Mount.
+9 (49) The directed grant to Open Door Ministries of High Point Foundation, Inc., in
+10 the sum of five hundred thousand dollars ($500,000) in nonrecurring funds for
+11 the 2023-2024 fiscal year shall instead be provided to Open Door Ministries
+12 of High Point, Inc.
+13 (50) The directed grant to the Union County Schools in the sum of eight million
+14 dollars ($8,000,000) in nonrecurring funds for the 2023-2024 fiscal year for
+15 an athletic facility and related equipment shall not revert on June 30, 2026,
+16 but shall remain available until June 30, 2028.
+17 (51) The directed grant to the Gray's Creek Ruritan Club 516 in the sum of two
+18 hundred forty-five thousand dollars ($245,000) in nonrecurring funds for the
+19 2023-2024 fiscal year to support its mission of community improvement shall
+20 not be provided to the Gray's Creek Ruritan Club 516 but instead shall be
+21 provided as follows:
+22 a. Sixty-five thousand dollars ($65,000) to the Kidsville News! Literacy
+23 and Education Foundation, Inc., for the Summer Reading, Literacy,
+24 and Education Program.
+25 b. One hundred eighty thousand dollars ($180,000) to the North Carolina
+26 Human Trafficking Commission for the WORTH Court to support
+27 mental health and substance abuse services for human trafficking
+28 survivors in Cumberland County."
+29
+30 UNDERINSURED MOTORIST INSURANCE AMENDMENT EFFECTIVE DATE
+31 TECHNICAL CORRECTION
+32 SECTION 6.2. Section 8 of S.L. 2024-29 is amended by adding a new subsection to
+33 read:
+34 "SECTION 8.(d) Subsection (a) of this section becomes effective July 1, 2025, and applies
+35 to policies issued or renewed on or after that date."
+36
+37 NORTH CAROLINA STATE BAR GRIEVANCE REVIEW COMMITTEE
+38 SECTION 6.4. Section 27.11(e) of S.L. 2023-134 reads as rewritten:
+39 "SECTION 27.11.(e) Report. Expiration. – By April 1, 2024, the Committee shall submit a
+40 report to the Joint Legislative Commission on Governmental Operations containing any
+41 legislative recommendations to address and alleviate the concerns listed in subsection (c) of this
+42 section of the grievance review process. The report shall also contain any potential improvements
+43 and changes in oversight of the North Carolina State Bar. The Committee shall expire upon
+44 submitting the report under this subsection.The Committee shall expire on December 31, 2026."
+45
+46 PART VII. STATEWIDE
+47
+48 SCIF GRANT CHANGES
+49 SECTION 7.1.(a) Section 40.8(a) of S.L. 2023-134, as enacted by Section 9.1(a) of
+50 S.L. 2024-1, is amended by adding a new subdivision to read:
+Page 14 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 "(4) The funding allocated to the City of Charlotte in the sum of seventeen million
+2 five hundred thousand dollars ($17,500,000) for the 2023-2024 fiscal year and
+3 the sum of two million five hundred thousand dollars ($2,500,000) for the
+4 2024-2025 fiscal year shall instead be used to provide grants to the following
+5 entities and purposes:
+6 a. Five million dollars ($5,000,000) to Appalachian State University to
+7 be used for the renovation project at Edwin Duncan Hall.
+8 b. One million five hundred thousand dollars ($1,500,000) to
+9 Appalachian State University to be used for the renovation project at
+10 Wey Hall.
+11 c. Two million five hundred thousand dollars ($2,500,000) to
+12 Appalachian State University to be used for the addition and
+13 renovation project at Peacock Hall, with a total project authorization
+14 increase of two million five hundred thousand dollars ($2,500,000)
+15 from the previously authorized amount.
+16 d. Four million one hundred thousand dollars ($4,100,000) to Wayne
+17 County for a capital project at Rosewood Middle School.
+18 e. Two hundred fifty thousand dollars ($250,000) to The Hudson
+19 Volunteer Fire Department, Inc., to be used for capital improvements
+20 and equipment.
+21 f. Two million dollars ($2,000,000) to North Catawba Fire-Rescue
+22 Department, Inc., to be used for capital improvements and equipment.
+23 g. Three hundred twenty-five thousand dollars ($325,000) to Grace
+24 Chapel Volunteer Fire Department, Inc., to be used for capital
+25 improvements and equipment.
+26 h. Two million dollars ($2,000,000) to the City of Lenoir to be used for
+27 Harpers Avenue Area infrastructure improvements.
+28 i. One hundred ten thousand dollars ($110,000) to King's Creek
+29 Volunteer Fire Department, Inc., to be used for capital improvements
+30 and equipment.
+31 j. Two hundred thousand dollars ($200,000) to The Gamewell Volunteer
+32 Fire Department, Inc., to be used for capital improvements and
+33 equipment.
+34 k. Two hundred seventy-five thousand dollars ($275,000) to Caldwell
+35 County to be used for a new ambulance.
+36 l. One hundred forty thousand dollars ($140,000) to Collettsville
+37 Volunteer Fire Department, Inc., to be used for capital improvements
+38 and equipment.
+39 m. Six hundred thousand dollars ($600,000) to Patterson Fire-Rescue
+40 Department, Inc., to be used for capital improvements and equipment.
+41 n. One million dollars ($1,000,000) to the Town of Hudson for
+42 downtown infrastructure improvements."
+43 SECTION 7.1.(b) Section 40.17(a) of S.L. 2021-180, as enacted by Section 9.1(d)
+44 of S.L. 2021-189 and amended by Section 18.1 of S.L. 2022-6, Section 16 of S.L. 2022-11,
+45 Section 40.2 of S.L. 2022-74, Section 40.5(n) of S.L. 2023-134, and Section 9.1(c) of S.L.
+46 2024-1, reads as rewritten:
+47 "SECTION 40.17.(a) Notwithstanding any provision of law or the Committee Report
+48 referenced in Section 43.2 of this act to the contrary, the following grants and funds allocated
+49 from the State Capital and Infrastructure Fund are amended as follows
+50 …
+House Bill 74-Third Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 (18) The funds to the Department of Natural and Cultural Resources for Charlotte
+2 Hawkins Brown in the sum of one million dollars ($1,000,000) for the
+3 2021-2022 fiscal year shall be used for the purchase and development of
+4 approximately 100 acres adjacent to the Charlotte Hawkins Brown State
+5 Historic Site in Guilford County to be added to the Historic Site.County.
+6 …
+7 (82) The remaining amount of funding allocated to Clay County in the sum of two
+8 million dollars ($2,000,000) in nonrecurring funds for the 2021-2022 fiscal
+9 year for a new 911 call center may also be used for capital costs and equipment
+10 associated with the construction of a farmers market."
+11
+12 UNC SCHOOL OF THE ARTS BUILDING PURCHASE
+13 SECTION 7.2.(a) Notwithstanding G.S. 143C-5-2 and Article 6 of Chapter 146 of
+14 the General Statutes, there is appropriated from the funds available in the OSBM Flexibility
+15 Funds established in S.L. 2021-180 and described under project code FLEX21 to the University
+16 of North Carolina School of the Arts Foundation the sum of four million five hundred thousand
+17 dollars ($4,500,000) in nonrecurring funds for the 2025-2026 fiscal year to be used to purchase
+18 certain real property, and improvements thereon, adjacent to the Stevens Center, located at 411
+19 W. 4th Street in Winston-Salem and for a new loading dock.
+20 SECTION 7.2.(b) This section becomes effective July 1, 2025.
+21
+22 WRC/SETZER HATCHERY
+23 SECTION 7.3. Section 40.1(l) of S.L. 2023-134 reads as rewritten:
+24 "SECTION 40.1.(l) For project code WRC23-1, the Wildlife Resources Commission is
+25 authorized to spend up to thirty-nine million seven hundred thousand dollars ($39,700,000) on
+26 the project but shall commit to providing funding of at least nineteen million seven hundred
+27 thousand dollars ($19,700,000) in non-State funds from the Commission's endowment
+28 endowment, and other available receipts, as a match to the intended State allocations totaling
+29 twenty million dollars ($20,000,000) for the project. The Commission shall use the endowment
+30 funds described in this subsection on the project prior to expending any State funds."
+31
+32 PART VIII. TRANSPORTATION
+33
+34 BRIDGE NAMING CLARIFICATION
+35 SECTION 8.1. Section 41.7 of S.L. 2023-134 reads as rewritten:
+36 "SECTION 41.7. Notwithstanding any provision of law to the contrary, the Department of
+37 Transportation shall designate as follows:
+38 …
+39 (3) The bridge on U.S. Highway 74 that crosses over the Catawba River at the
+40 Mecklenburg County and Gaston County line and is numbered 350091 by the
+41 Department as the "Representative Dana Bumgardner Bridge."
+42 …."
+43
+44 CLARIFICATION ON USE OF CITY OF CONCORD AIRPORT FUNDS
+45 SECTION 8.2. Notwithstanding any provision of law or the Committee Report
+46 described in Section 43.2 of S.L. 2023-134 to the contrary, the sum of five million dollars
+47 ($5,000,000) in nonrecurring funds for the 2023-2024 fiscal year allocated to the City of Concord
+48 for the Concord-Padgett Regional Airport may be used by the city for any capital improvement
+49 at the airport.
+50
+51 PART IX. FINANCE
+Page 16 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1
+2 VARIOUS CLARIFYING CHANGES TO THE CONSERVATION TAX CREDIT
+3 SECTION 9.1.(a) G.S. 105-130.34, as enacted by Section 15 of S.L. 2024-32, is
+4 recodified as G.S. 105-130.34A and reads as rewritten:
+5 "§ 105-130.34A. Credit for certain real property donations.
+6 (a) Credit. Credit; Limitation. – Subject to the limitations in this section, a C Corporation
+7 that makes a qualified donation of real property located in North Carolina during the taxable year
+8 that is useful (i) for forestland or farmland preservation, (ii) for fish and wildlife conservation,
+9 (iii) as a buffer to limit land use activities that would restrict, impede, or interfere with military
+10 training, testing, or operations on a military installation or training area or otherwise be
+11 incompatible with the mission of the installation, (iv) for floodplain protection in a county that,
+12 in the five years preceding the donation, was the subject of a Type II or Type III gubernatorial
+13 disaster declaration, as provided in G.S. 166A-19.21, as a result of a natural disaster, (v) for
+14 historic landscape conservation, or (vi) for public trails or access to public trails is allowed a
+15 credit against the tax imposed by this Part equal to twenty-five percent (25%) of the fair market
+16 value of the donated property. qualified donation. The aggregate amount of credit allowed to a
+17 corporation in a taxable year under this section for under this subsection may not exceed five
+18 hundred thousand dollars ($500,000), whether the corporation makes, directly or indirectly as an
+19 owner of a pass-through entity, one or more qualified donations made during the taxable year,
+20 whether made directly or indirectly as an owner of a pass-through entity, may not exceed five
+21 hundred thousand dollars ($500,000). calendar year. The credit may not be taken for the year in
+22 which the qualified donation is made but may be taken for the taxable year beginning during in
+23 the calendar year in which the application for the credit becomes effective as provided in
+24 subsection (a2) (c) of this section.
+25 (a1)(b) Definitions. – The following definitions apply in this section:
+26 (1) Allocated credit. – A requested credit minus the reduction required under
+27 subsection (h) of this section.
+28 (2) Cap remainder. – The amount that is the difference between the maximum
+29 amount and the amount of prioritized credit requests allowed.
+30 (3) Maximum amount. – The amount set out in subsection (h) of this section that
+31 is the total aggregate amount of all credits allowed to taxpayers under this
+32 section and G.S. 105-153.11 for qualified donations made in a calendar year.
+33 (4) Nonprioritized credit request. – A credit request under this section or
+34 G.S. 105-153.11 that is for a qualified donation for a use other than forestland
+35 or farmland preservation.
+36 (5) Prioritized amount. – The amount set out in subsection (h) of this section that
+37 is for prioritized credit requests.
+38 (6) Prioritized credit request. – A credit requested under this section or
+39 G.S. 105-153.11 that is for a qualified donation for forestland or farmland
+40 preservation.
+41 (7) Qualified Donation. donation. – A qualified donation of real property is a
+42 donation of a qualified real property interest located in North Carolina that
+43 meets all of the following conditions:
+44 (1)a. The real property It is donated in perpetuity for one of the qualifying
+45 following uses listed in subsection (a) of this section and is accepted
+46 in perpetuity for the qualifying use for which the qualified real
+47 property interest is donated.donated:
+48 1. Forestland or farmland preservation.
+49 2. Fish or wildlife conservation.
+50 3. A buffer to limit land use activities that would restrict, impede,
+51 or interfere with military training, testing, or operations on a
+House Bill 74-Third Edition Page 17
+
+General Assembly Of North Carolina Session 2025
+1 military installation or training area or otherwise be
+2 incompatible with the mission of the installation.
+3 4. Floodplain protection in a county that, in the five years
+4 preceding the donation, was the subject of a Type II or Type
+5 III gubernatorial disaster declaration, as provided in
+6 G.S. 166A-19.21, as a result of a natural disaster.
+7 5. Historic landscape conservation.
+8 6. Public trails or access to public trails.
+9 (2)b. The person to whom the property It is donated must be to the State, a
+10 local government, or a body that is both organized to receive and
+11 administer lands for conservation purposes and qualified to receive
+12 charitable contributions pursuant to G.S. 105-130.9. Lands required to
+13 be dedicated pursuant to local governmental regulation or ordinance
+14 and dedications made to increase building density levels permitted
+15 under a regulation or ordinance are not eligible for this credit.
+16 (8) Qualified real property interest. – As defined in section 170(h)(2) of the Code.
+17 (9) Total allocated credits. – Total requested credits less any reduction required
+18 under subsection (h) of this section and G.S. 105-153.11(l).
+19 (10) Total requested credits. – The sum of nonprioritized credit requests and
+20 prioritized credit requests.
+21 (a2)(c) Application. – To claim the credit provided in this section, a corporation A C
+22 Corporation must file an application with the Secretary for the credit. to request the credit allowed
+23 under subsection (a) of this section. The application must be filed on or before April 15 of the
+24 year following the calendar year in which the donation was made. An application is effective for
+25 the year in which it is timely filed. The Secretary may not accept late applications under this
+26 subsection. applications. The application must be on a form prescribed by the Secretary and
+27 include any information required by the Secretary demonstrating that the donation has met the
+28 conditions for qualifying to qualify for the credit, including the following items:
+29 (1) A copy of the certification by the Department of Natural and Cultural
+30 Resources that identifies identifying which of the valid public benefits listed
+31 in subdivision (7) of subsection (a1) (b) of this section for which the donated
+32 qualified real property interest is suitable.
+33 (2) A self-contained appraisal report or summary appraisal report as defined in
+34 Standards Rule 2-2 in the latest edition of the Uniform Standards of
+35 Professional Appraisal Practice as promulgated by the Appraisal Foundation
+36 for the donated property. qualified real property interest. For fee simple
+37 absolute donations of real property, a corporation C Corporation may submit
+38 documentation of the county's appraised value of the donated property,
+39 qualified real property interest, as adjusted by the sales assessment ratio, in
+40 lieu of an appraisal report.
+41 (a3)(d) Substantiation. – A corporation claiming a credit under this section C Corporation
+42 must maintain and make available for inspection by the Secretary any records the Secretary
+43 considers necessary to determine and verify the amount of the credit to which the corporation is
+44 entitled. allowed under subsection (a) of this section. The burden of proving eligibility for the
+45 credit and the amount of the credit rests upon the corporation, taxpayer, and no credit may be
+46 allowed to a corporation taxpayer that fails to maintain adequate records or to make them
+47 available for inspection.
+48 (b)(e) Limitation. Cap. – The allocated credit allowed by this section may not exceed the
+49 amount of the tax imposed by this Part against which it is claimed for the taxable year reduced
+50 by the sum of all credits allowed, except payments of tax made by or on behalf of the
+51 corporation.C Corporation.
+Page 18 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c)(f) Carryforward. – Any If the allocated credit exceeds the cap in subsection (e) of this
+2 section, any unused portion of this the allocated credit may be carried forward for the next
+3 succeeding five years.
+4 (d) No Double Benefit. – That portion of a qualifying donation that is the basis for a credit
+5 allowed under this section is not eligible for deduction as a charitable contribution under
+6 G.S. 105-130.9.
+7 (g) Transferability. – An allocated credit allowed under subsection (a) of this section may
+8 not be transferred.
+9 (e)(h) Ceiling; Use; Allocation. – The total aggregate amount of all total allocated credits
+10 allowed to taxpayers under this section and G.S. 105-153.11 for donations made in a taxable year
+11 may not exceed five million dollars ($5,000,000), of which three million two hundred fifty
+12 thousand dollars ($3,250,000) is reserved for credits to taxpayers that have made a qualified
+13 donation of real property for forestland or farmland conservation. If funds reserved for credits
+14 for qualified donations of real property for forestland or farmland conservation remain after
+15 disposition of all timely filed applications for that type of credit, the Secretary shall allocate any
+16 funds remaining to credits for other types of qualified donations under this section. The Secretary
+17 shall, first, fully fund any prorated credits in accordance with subsection (f) of this section and,
+18 second, if funds remain after fully funding prorated credits, reopen the application period for
+19 credits under this section for which funds have become available. If the Secretary reopens the
+20 application period and notwithstanding the application deadline in subsection (a2) of this section,
+21 the additional applications must be filed with the Secretary on or before October 15 of the year
+22 following the calendar year in which the donation was made. The Secretary may not accept late
+23 additional applications permitted under this subsection. The Secretary's determinations based on
+24 additional applications timely filed in accordance with this subsection are final.a prioritized
+25 amount. If the total requested credits are equal to or less than the maximum amount, the Secretary
+26 shall allow the total requested credits. If the total requested credits are greater than the maximum
+27 amount, the Secretary shall allocate the total requested credits in accordance with this subsection.
+28 (f)(i) Reduction. – The Secretary shall calculate the total amount of credits claimed from
+29 applications timely filed under subsection (a2) of this section. If the total amount of requested
+30 credits claimed for donations made in a calendar year exceeds this exceed the maximum amount,
+31 the Secretary shall allow a portion of prorate the total requested credits claimed by allocating the
+32 maximum amount in credits in proportion to the size of the credit claimed by each taxpayer. in
+33 accordance with this subsection. If a requested credit claimed under this section is reduced as
+34 provided in this subsection, the Secretary shall notify the corporation C Corporation of the
+35 amount of the reduction of the credit on or before December 31 of the year following the calendar
+36 year in which the qualified donation was made. The Secretary's allocations based on applications
+37 filed under subsection (a2) (c) of this section are final and shall not be adjusted to account for
+38 credits applied for requested but not claimed.reduced under this subsection. The total requested
+39 credits shall be reduced as follows:
+40 (1) If the total requested credits are (i) all prioritized credit requests or (ii) all
+41 nonprioritized credit requests, then the Secretary shall prorate the total
+42 requested credits based on the proportion of each requested credit to the total
+43 requested credits.
+44 (2) If the total requested credits are (i) a combination of prioritized credit requests
+45 and nonprioritized credit requests and (ii) the amount of prioritized credit
+46 requests is equal to or less than the prioritized amount, the Secretary shall first
+47 allow the prioritized credit requests. The Secretary shall then prorate the cap
+48 remainder based on the proportion of each of the remaining requested credits
+49 to the total requested credits less the prioritized amount.
+50 (3) If the total amount of requested credits is (i) a combination of prioritized credit
+51 requests and nonprioritized credit requests and (ii) the amount of prioritized
+House Bill 74-Third Edition Page 19
+
+General Assembly Of North Carolina Session 2025
+1 credit requests is greater than the prioritized amount, the Secretary shall first
+2 prorate the prioritized credit requests based on the proportion of each
+3 prioritized credit request to the prioritized amount. The Secretary shall then
+4 prorate the cap remainder, including the remainder of any prioritized credit
+5 requests, based on the proportion of each of the remaining requested credits
+6 to the total requested credits less the prioritized amount.
+7 (g)(j) Report. – The Department must include in the economic incentives report required by
+8 G.S. 105-256 the following information:
+9 (1) The number of C Corporations that took requested the credit allowed under
+10 this section.subsection (a) of this section.
+11 (2) The total amount of allocated credits claimed by conservation
+12 purpose.identified by public benefit as listed in subdivision (7) of subsection
+13 (b) of this section.
+14 (3) The total amount of credits carried forward.
+15 (4) The total cost to the General Fund of the credits taken.
+16 (5) The total amount of qualified donations."
+17 SECTION 9.1.(b) G.S. 105-130.9(4) reads as rewritten:
+18 "(4) The amount of a contribution for which the taxpayer claimed a tax credit
+19 pursuant to G.S. 105-130.34 G.S. 105-130.34A shall not be eligible for a
+20 deduction under this section. The amount of the credit claimed with respect to
+21 the contribution is not, however, required to be added to income under
+22 G.S. 105-130.5(a)(10)."
+23 SECTION 9.1.(c) G.S. 105-153.11, as enacted by Section 15 of S.L. 2024-32, reads
+24 as rewritten:
+25 "§ 105-153.11. Credit for certain real property donations.
+26 (a) Credit. Credit; Limitation. – Subject to the limitations in this section, an individual or
+27 a pass-through entity that makes a qualified donation of real property located in North Carolina
+28 during the taxable year that is useful (i) for forestland or farmland preservation, (ii) for fish and
+29 wildlife conservation, (iii) as a buffer to limit land use activities that would restrict, impede, or
+30 interfere with military training, testing, or operations on a military installation or training area or
+31 otherwise be incompatible with the mission of the installation, (iv) for floodplain protection in a
+32 county that, in the five years preceding the donation, was the subject of a Type II or Type III
+33 gubernatorial disaster declaration, as provided in G.S. 166A-19.21, as a result of a natural
+34 disaster, (v) for historic landscape conservation, or (vi) for public trails or access to public trails
+35 is allowed a credit against the tax imposed by this Part equal to twenty-five percent (25%) of the
+36 fair market value of the donated property. qualified donation. A pass-through entity must pass
+37 through the credit to its owners as required under subsection (f) of this section. The amount of
+38 credit allowed to an individual or pass-through entity may not exceed the limitations provided
+39 under subsections (e) and (f) of this section. The credit may not be taken for the year in which
+40 the qualified donation is made but may be taken for the taxable year beginning during in the
+41 calendar year in which the application for the credit becomes effective as provided in subsection
+42 (c) of this section.
+43 (b) Definitions. – The following definitions apply in this section:
+44 (1) Allocated credit. – A requested credit minus the reduction required under
+45 subsection (l) of this section.
+46 (2) Cap remainder. – The amount that is the difference between the maximum
+47 amount and the amount of prioritized credit requests allowed.
+48 (3) Maximum amount. – The amount set out in subsection (l) of this section that
+49 is the total aggregate amount of all credits allowed to taxpayers under this
+50 section and G.S. 105-130.34A for qualified donations made in a calendar year.
+Page 20 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (4) Nonprioritized credit request. – A credit request under this section or
+2 G.S. 105-130.34A that is for a qualified donation for a use other than
+3 forestland or farmland preservation.
+4 (5) Pass-through entity. – As defined in G.S. 105-228.90(b)(21).
+5 (6) Prioritized amount. – The amount set out in subsection (l) of this section that
+6 is for prioritized credit requests.
+7 (7) Prioritized credit request. – A credit requested under this section or
+8 G.S. 105-130.34A that is for a qualified donation for forestland or farmland
+9 preservation.
+10 (8) Qualified Donation. donation. – A qualified donation of real property is a
+11 donation of a qualified real property interest located in North Carolina that
+12 meets all of the following conditions:
+13 (1)a. The property It is donated in perpetuity for one of the qualifying
+14 following uses listed in subsection (a) of this section and is accepted
+15 in perpetuity for the qualifying use for which the qualified real
+16 property interest is donated.donated:
+17 1. Forestland or farmland preservation.
+18 2. Fish or wildlife conservation.
+19 3. A buffer to limit land-use activities that would restrict, impede,
+20 or interfere with military training, testing, or operations on a
+21 military installation or training area or otherwise be
+22 incompatible with the mission of the installation.
+23 4. Floodplain protection in a county that, in the five years
+24 preceding the donation, was the subject of a Type II or Type
+25 III gubernatorial disaster declaration, as provided in
+26 G.S. 166A-19.21, as a result of a natural disaster.
+27 5. Historic landscape conservation.
+28 6. Public trails or access to public trails.
+29 (2)b. The person to whom the property It is donated must be to the State, a
+30 local government, or a body that is both organized to receive and
+31 administer lands for conservation purposes and qualified to receive
+32 charitable contributions under the Code. Lands required to be
+33 dedicated pursuant to local governmental regulation or ordinance and
+34 dedications made to increase building density levels permitted under a
+35 regulation or ordinance are not eligible for this credit.
+36 (9) Qualified real property interest. – As defined in section 170(h)(2) of the Code.
+37 (10) Total allocated credits. – Total requested credits less any reduction required
+38 under subsection (l) of this section and G.S. 105-130.34A(h).
+39 (11) Taxed pass-through entity. – As defined in G.S. 105-153.3.
+40 (12) Total requested credits. – The sum of nonprioritized credit requests and
+41 prioritized credit requests.
+42 (c) Application. – To claim a credit allowed under this section, an An individual or a
+43 pass-through entity must file an application with the Secretary for the credit. to request the credit
+44 allowed under subsection (a) of this section. The application must be filed on or before April 15
+45 of the year following the calendar year in which the donation was made. An application is
+46 effective for the year in which it is timely filed. The Secretary may not accept late applications
+47 under this subsection. applications. The application must be on a form prescribed by the Secretary
+48 and include any information required by the Secretary demonstrating that the donation has met
+49 the conditions for qualifying to qualify for the credit, including the following items:
+50 (1) A copy of the certification by the Department of Natural and Cultural
+51 Resources that identifies identifying which of the valid public benefits listed
+House Bill 74-Third Edition Page 21
+
+General Assembly Of North Carolina Session 2025
+1 in subdivision (8) of subsection (a) (b) of this section for which the donated
+2 qualified real property interest is suitable. The certification for a qualified
+3 donation made by a pass-through entity must be filed by the pass-through
+4 entity.
+5 (2) A self-contained or summary appraisal report as defined in Standards Rule
+6 2-2 in the latest edition of the Uniform Standards of Professional Appraisal
+7 Practice as promulgated by the Appraisal Foundation for the donated property.
+8 qualified real property interest. For fee simple absolute donations of real
+9 property, an individual or pass-through entity may submit documentation of
+10 the county's appraised value of the donated property, qualified real property
+11 interest, as adjusted by the sales assessment ratio, in lieu of an appraisal report.
+12 (d) Substantiation. – An individual or pass-through entity claiming a credit under this
+13 section must maintain and make available for inspection by the Secretary any records the
+14 Secretary considers necessary to determine and verify the amount of the credit to which the
+15 taxpayer is entitled. allowed under subsection (a) of this section. The burden of proving eligibility
+16 for the credit and the amount of the credit rests upon the individual or pass-through entity,
+17 taxpayer, and no credit may be allowed to an individual or pass-through entity a taxpayer that
+18 fails to maintain adequate records or to make them available for inspection.
+19 (e) Limitation for Individuals. – The aggregate amount of allocated credit allowed to an
+20 individual in a taxable year under this section for under subsection (a) of this section may not
+21 exceed two hundred fifty thousand dollars ($250,000), whether the individual makes, directly or
+22 indirectly as an owner of a pass-through entity, one or more qualified donations made during the
+23 taxable year, whether made directly or indirectly as owner of a pass-through entity, may not
+24 exceed two hundred fifty thousand dollars ($250,000). calendar year. In the case of property
+25 owned by a married couple, if both spouses are required to file North Carolina income tax returns,
+26 the credit allowed by under subsection (a) of this section may be claimed only if the spouses file
+27 a joint return. The aggregate amount of allocated credit allowed to a married couple filing a on
+28 the joint tax return may not exceed five hundred thousand dollars ($500,000). If only one spouse
+29 is required to file a North Carolina income tax return, the allocated credit to that spouse may
+30 claim the credit allowed by this section on a separate return.not exceed two hundred fifty
+31 thousand dollars ($250,000).
+32 (f) Limitation for Pass-Through Entity. Entities. – The aggregate amount of allocated
+33 credit allowed to a pass-through entity in a taxable year under this section for under subsection
+34 (a) of this section may not exceed five hundred thousand dollars ($500,000), whether the
+35 pass-through entity makes, directly or indirectly as an owner of another pass-through entity, one
+36 or more qualified donations made during the taxable year, whether made directly or indirectly as
+37 owner of another pass-through entity, may not exceed five hundred thousand dollars ($500,000).
+38 Each individual who is an owner of a pass-through entity is allowed as a credit an amount equal
+39 to the owner's allocated share of the credit to which the pass-through entity is eligible under this
+40 subsection, not to exceed two hundred fifty thousand dollars ($250,000). Each corporation that
+41 is an owner of a pass-through entity is allowed as a credit an amount equal to the owner's allocated
+42 share of the credit to which the pass-through entity is eligible under this subsection, not to exceed
+43 five hundred thousand dollars ($500,000). calendar year. The pass-through entity must pass
+44 through to each of its owners the owner's distributive share of the credit for which the
+45 pass-through entity qualifies, not to exceed the amounts listed in this subsection. The
+46 pass-through entity may allocate the credit only to an owner that was an owner of the
+47 pass-through entity as of the last day of the calendar year in which the credit was allocated. If an
+48 owner's share of the pass-through entity's credit is limited due to the maximum allowable credit
+49 under this section subsection for a taxable year, the pass-through entity and its owners may not
+50 reallocate the unused credit among the other owners. The maximum allowable credit amounts
+51 are:
+Page 22 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) Two hundred fifty thousand dollars ($250,000) to an owner who is an
+2 individual.
+3 (2) Five hundred thousand dollars ($500,000) to an owner that is a C Corporation
+4 or a pass-through entity.
+5 (g) Taxed Pass-Through Entity. Entities. – A taxed pass-through entity that engages in
+6 an activity that makes it eligible for a credit under subsection (a) of this section as an entity may
+7 not take the credit at the entity level but must pass through to each of its owners the owner's
+8 distributive share of the credit for which the taxed pass-through entity qualifies. Maximum dollar
+9 limits The maximum allowable credit amounts and other limitations that apply in determining
+10 the amount of credit available to an owner of a pass-through entity apply to the same extent in
+11 determining the amount of a credit for which the taxed pass-through entity qualifies. For purposes
+12 of this subsection, the term "taxed pass-through entity" is as defined in G.S. 105-153.3.
+13 (h) Limitation. Cap. – The allocated credit allowed by this section may not exceed the
+14 amount of the tax imposed by this Part against which it is claimed for the taxable year reduced
+15 by the sum of all credits allowed, except payments of tax made by or on behalf of the
+16 taxpayer.individual or pass-through entity.
+17 (i) Carryforward. – Any If the allocated credit exceeds the cap under subsection (h) of
+18 this section, any unused portion of this the allocated credit may be carried forward for the next
+19 succeeding five years.
+20 (j) No Double Benefit. – That portion of a qualifying donation that is the basis for a credit
+21 allowed under this section is not eligible for deduction as a charitable contribution under
+22 G.S. 105-153.5(a)(2)a.
+23 (k) Transferability. – Except as otherwise provided in this subsection, an allocated credit
+24 allowed under subsection (a) of this section may not be transferred. A taxpayer that is allowed,
+25 but has not used, an allocated credit under subsection (a) of this section may provide through a
+26 will, bequest, or other instrument of transfer that, upon the taxpayer's death, the unused allowable
+27 credit shall be transferred to a designated beneficiary. If a taxpayer that is allowed, but has not
+28 used, an allocated credit under subsection (a) of this section dies without a will, the unused
+29 allowable credit shall be transferred to the next person who is eligible to receive according to the
+30 rules of intestate succession as described in Chapter 29 of the General Statutes. The carryover
+31 period for credits transferred under this subdivision are subject to the original carryover period
+32 provided in subsection (i) of this section and shall not be extended.
+33 (g)(l) Ceiling; Use; Allocation. – The total aggregate amount of all tax total allocated credits
+34 allowed to taxpayers under this section and G.S. 105-130.4 for donations made in
+35 G.S. 105-130.34A for a taxable year may not exceed five million dollars ($5,000,000), of which
+36 three million two hundred fifty thousand dollars ($3,250,000) is reserved for credits to taxpayers
+37 that have made a qualified donation of real property for forestland or farmland conservation. If
+38 funds reserved for credits for qualified donations of real property for forestland or farmland
+39 conservation remain after disposition of all timely filed applications for that type of credit, the
+40 Secretary shall allocate any funds remaining to credits for other types of qualified donations
+41 under this section. The Secretary shall, first, fully fund any prorated credits in accordance with
+42 subsection (f) of this section and, second, if funds remain after fully funding prorated credits,
+43 reopen the application period for credits under this section for which funds have become
+44 available. If the Secretary reopens the application period and notwithstanding the application
+45 deadline in subsection (a2) of this section, the additional applications must be filed with the
+46 Secretary on or before October 15 of the year following the calendar year in which the donation
+47 was made. The Secretary may not accept late additional applications permitted under this
+48 subsection. The Secretary's determinations based on additional applications timely filed in
+49 accordance with this subsection are final.a prioritized amount. If the total requested credits are
+50 equal to or less than the maximum amount, the Secretary shall allow the total requested credits.
+House Bill 74-Third Edition Page 23
+
+General Assembly Of North Carolina Session 2025
+1 If the total requested credits are greater than the maximum amount, the Secretary shall allocate
+2 the total requested credits in accordance with this subsection.
+3 (l)(m) Reduction. – The Secretary of Revenue shall calculate the total amount of credits
+4 claimed from applications timely filed under subsection (c) of this section. If the total amount of
+5 requested credits claimed for donations made in a calendar year exceeds this exceed the
+6 maximum amount, the Secretary shall allow a portion of prorate the total requested credits
+7 claimed by allocating the maximum amount in tax credits in proportion to the size of the credit
+8 claimed by each individual or pass-through entity. in accordance with this subsection. If a
+9 requested credit claimed under this section is reduced as provided in this subsection, the Secretary
+10 shall notify the individuals or pass-through entities of the amount of the reduction of the credit
+11 on or before December 31 of the year following the calendar year in which the qualified donation
+12 was made. The Secretary's allocations based on applications filed under subsection (c) of this
+13 section are final and shall not be adjusted to account for credits applied for requested but not
+14 claimed.reduced under this subsection. The total requested credits shall be reduced as follows:
+15 (1) If the total requested credits are (i) all prioritized credit requests or (ii) all
+16 nonprioritized credit requests, then the Secretary shall prorate the total
+17 requested credits based on the proportion of each requested credit to the total
+18 requested credits.
+19 (2) If the total requested credits are (i) a combination of prioritized credit requests
+20 and nonprioritized credit requests and (ii) the amount of prioritized credit
+21 requests is equal to or less than the prioritized amount, the Secretary shall first
+22 allow the prioritized credit requests. The Secretary shall then prorate the cap
+23 remainder based on the proportion of each of the remaining requested credits
+24 to the total requested credits less the prioritized amount.
+25 (3) If the total amount of requested credits is (i) a combination of prioritized credit
+26 requests and nonprioritized credit requests and (ii) the amount of prioritized
+27 credit requests is greater than the prioritized amount, the Secretary shall first
+28 prorate the prioritized credit requests based on the proportion of each
+29 prioritized credit request to the prioritized amount. The Secretary shall then
+30 prorate the cap remainder, including the remainder of any prioritized credit
+31 requests, based on the proportion of each of the remaining requested credits
+32 to the total requested credits less the prioritized amount.
+33 (m)(n) Report. – The Department must include in the economic incentives report required by
+34 G.S. 105-256 the following information:
+35 (1) The number of individuals and pass-through entities that took requested the
+36 credit allowed under subsection (a) of this section.
+37 (2) The total amount of allocated credits claimed by conservation
+38 purpose.identified by public benefit as listed in subdivision (8) of subsection
+39 (b) of this section.
+40 (3) The total amount of credits carried forward.
+41 (4) The total cost to the General Fund of the credits taken.
+42 (5) The total amount of qualified donations."
+43 SECTION 9.1.(d) G.S. 105-153.5(a)(2)a. reads as rewritten:
+44 "a. Charitable Contribution. – The amount allowed as a deduction for
+45 charitable contributions under section 170 of the Code for that taxable
+46 year, subject to the following provisions:
+47 …
+48 3. Certain Real Property Donations. – A qualified donation that
+49 is the basis for an allocated credit under G.S. 105-153.11 is not
+50 eligible for a deduction under this subdivision."
+Page 24 House Bill 74-Third Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 9.1.(e) This section is effective for taxable years beginning on or after
+2 January 1, 2025, for donations made on or after January 1, 2025, and expires for taxable years
+3 beginning on or after January 1, 2027, for donations made on or after January 1, 2027.
+4
+5 PART X. EFFECTIVE DATE
+6 SECTION 10.1. Except as otherwise provided, this act is effective when it becomes
+7 law.
+House Bill 74-Third Edition Page 25
+
+[DELETED:  3 H (   A A A T M V T A C C T T C T  P  E E S 1  T s a t a d g a a n o f g f t S u 2 S  P  N S " r i t H F D R F t r u u  A S " o f a]
+[DELETED:  S  H r o F 5 a w a o d d a b t D f k r u a p S " p … ( T D s g a c i e f t a s t l f a …  L G F L R F P D S 1 w R p ( T f t F E M A ( a t a ( T u o l g d n h a a a o a a ( T  P  R P S " T t J L E O C t S A C o E E t H o R R p r a s r f t C O A N i e]
+[DELETED:  S  P a G e t b B a c D d U e A f T g C o t s p a t i i h e a f s e f b u s h S i P c j A k T t a o m s f r c b i l A t p ( o t o s a r b i m A ( t  U S " E m w a o c p o t F L S A i i a r s s p f p b o p a p i t p p d p a t f o t N C S o S a M M a a t e T B o G e p u s t b e f t C w S  R T O O T S F M T M T O R P O T S A D O A S " T … ( A t C p]
+[DELETED:  S  H u l p … S " M S o r S " M g r G r t a r d t c t s a d o A F o r t …  N B T P P F F O R P S " y t t B o G o T U o N C a a t t C o s r a u e I t f a n f e a t C d u t f f o r p r t t s a a i o s w q i t S i r p r t n  P  P  R S 4  N a p o S 2 o t C ( p W S 4  N a p o S 2 o t C ( p a]
+[DELETED:  S  P ( T p ( O m d ( t C C f a w i ( T m d ( t H C f a w o w S R t S p ( T D ( S h t d ( t R C t b d ( O D S C 1 o S 2 s n a p o l t t c b t t S R C b  R S 2 " t f c s ( I m ( A l g o a p o l g i t a ( S p g l e i n t m t n o p e ( S l g o a p o l g t f o m ( S l g o a p o l g i c c p e r f w a w]
+[DELETED:  S  H p t ( F C D o E Q a t N C D o T t e n r t t s d … " … ( G t o I C l … " 1  A – E s a m i t F o t f … ( A a o m d p t s ( o t s t l p i t g s b d b E b o t d o i t b g d t s S H P O r a w d … " t i o a g p a ( a b t E I C e c m a p u t s f f b a l g o g p a …  S S 4  N a p o l t t c f t t t N C S F b S 1 o S 2 f p s f]
+[DELETED:  S  P a o H S " o C ( a a t t n c w w t D s s a a c p t G t s o t m d ( i n p o l g i c d d a t a d i s " t f c s ( I a e u t 1 2 s o l t 1 a f p ( A l g o a p o l g i t a ( S p g l e i n t m t n o p e ( S l g o a p o l g t f o s ( S l g o a p o l g i c c p e r f w a w p t ( F N D o T t e n r t t s d … " a c p C " 1  A – E s a m i t F o t f ( U u]
+[DELETED:  S  H p t p a r i a e 1 s f p a ( F f t s f s d p t s ( o t s a b t G A E s p l g r s v f a m p E s b t g i l g t i i t s a t a a l o p t f p n O … " t i a w a e i b E a a l g o a g a e u m …  P  T H S C i a c w t S H P b a T I t a d i G S S M S S b  F R  1 1  1 1  1 1  1 1  1 1]
+[DELETED:  S  P  1 1  1 1  1 1  1 1  1 1  1 1  1 1  1 1  1 1 S r " " T C a r C F B I I m P … " T C i u t d o t S o t D o P S C S d a t e t t o o t C a a T S C m e t C p a t G A m a " T t ( P f a a d i m a t C ( T r ( T p d o a o d i t m p r r ( P a a c l w t P I N F ( F i b n l t a m p r c n … " … I t r i a m c a t r m t c e i G e C … "]
+[DELETED:  S  H T … ( M a d o e p a p a g a i t p e a t f i t a o p o c a l o m c a m p a f s t t c o p a f a d b t S o P S o t S H … ( P o m … " T … ( A C m ( A S C o t S H P p t G " l T a i r p w t i b o i b t h b m A l a s l " A w r s C " ( T i e w t N C C f M P t A r ( T m ( T ( T u i ( T o]
+[DELETED:  S  P a T b T ( T ( T a I i b … ( T a b S " ( T E i p o m c a 6 o o w i b t b s f d A s n o e c a i d o i f t m ( I p n e a s i a a p f r d o i s a p a i ( T a e s p s t s t ( T T s s m d o " … ( T C s a g a d p f t s i r o … "]
+[DELETED:  S  H ( T E f m i u g ( I d p d s o f ( T f p t m ( T C s c w t D o T a d a p o a c l a f o a m t b p o a o p c m " ( T A T p o t A A i t p a s s f t r d t ( I t C r a r t i a m p a d i s t i s r t m p T C s m e e t d r S ( T f t ( T C s c w t D o T a d a p o a c l a f o a m t b p o a o p c m " ( T –]
+[DELETED:  S  P f d w ( I t C r a r t i a m p a d i s t i s r t m p T C s m e e t d t i a q a p i p f t u o t W ( T f t S r H p  C S " ( A o i s ( T c ( A p w a a i l t s 3 d o a p t G c  P  V S 2 " 6  N a p o 2 o t C R a b t O o S B a M – S A f t 2 … ( T i t s o o h t t d ( i n t B P 1 I b s b p t B A L A U # I a p i S 2 … ( B r f t A T S F t p a s y o t 2 f b s i n b p t R]
+[DELETED:  S  H b p … ( T t f s s i b p t t O I C ( T t t o ( T d a b ( T h 2 n p a S a a b O H m h a s a s f h t s  U M I A E D T S r " t  N S " r t t J L C o G O c a l s a s  P  S S S]
+[DELETED:  S  P " T f t 2 e a F b b O m f h t d ( t A W c T m f h t d ( t A S U t b u f t a a r i f d F C e T h f t d ( t T H V a f T m d ( t N C F D g T h t t d ( t G C V F D I t b u f c i h T H i O h t t d ( t K C V a j T F D I t b u f c i a e k T C l O h f t d ( t C V a m S h t d ( t P F D n O m d ( t t T o H f d S o S 2 " 4  N a p o l o t C R r f …]
+[DELETED:  S  H ( T H B i t s o o m d ( f t 2 f y b u f t p a d o a 1 a a t t C H B S H … ( T m y a  U S t F o d c W S  W S " a t t d ( i n f f t C e e t f  P  B S " T … ( T M D …  C S d i S 4 o 2 t t c t s o m d ( f a  P]
+[DELETED:  S  P  V S r " ( C t t ( t t o o o a m i o t a o o b i i d h c v c h o w h w t c y i w t a f t c b e a p i s ( ( A s ( C a ( M i s ( N c r – A c r u t s o G o ( P i ( P c r – A c r u t s o G p ( Q d m ( T f i p f t q u f w t q r p 1 F 2 F 3 A o]
+[DELETED:  S  H m i o t a o o b i 4 F p i a c t i t f y p I g d d a p i G 5 H 6 P ( T l g o a b t i b o t r a a c b a l u ( Q ( T u ( T r c – T s o n c r a p ( – T c t c p i t s a c A C C u y t s i c ( A c o t c b t D o N a C R i q ( A S R 2 i t l e o t U S o P f t d p q r p i F f s a d o t c a v o t d p q l ( m c e c a t a c t t f t m a r o t m t a ( L a b t s o a c a e p o t m b o o b o t c]
+[DELETED:  S  P ( C s s ( N a u t s i n e f d a a c c u G ( T n ( C a m n t d f d f s s c a t f a a f a a a s a ( R a c t m a p i t s t S s n t c C C o a y f c c ( I n c r t t S s p t t r r ( I a c r a r t ( I r]
+[DELETED:  S  H c p t p c r b o t p o e p p r t ( R G ( T t ( T t a o a c c b c p ( ( T ( T ( T S " T p t G G s n b e f a d t c i n h r t b a t i u G S a " ( C a d w i o c g d d a p i G a a r o a n d i f t c u t c ( ( D ( A s ( C a ( M i s]
+[DELETED:  S  P ( N c r – A c r u t s o G t i f a q d f a u o t f ( P ( P i ( P c r – A c r u t s o G p ( Q d m ( T p I i d i p f o o t q f i p f t q u f w t q r p 1 F 2 F 3 A o m i o t a o o b i 4 F p i a c t i t f y p I g d d a p i G 5 H 6 P ( T l g o a b t i b o t r a a c c u t C L r t b d d r ( Q ( T u ( T ( T r c – T s o n c r a p ( A p a o y y e u a t ( A c o t c b t D o N a C R]
+[DELETED:  S  H i q d e ( A 2 P q r p i F f s a d o r p t i ( S s m m a m a f i b t S a r t S t f i t f ( L i e i t e o t a t i c t c a b t s o a s r e t h f t ( L c ( o t s m n e f h t d ( w t p o o E t s i s f c y e t t e o i o t o d s o t c f w t p e q n t e t a l i t s T p e m a t c o t a o t w a o o t p o u r a]
+[DELETED:  S  P ( T h f t d ( t a o w i a i ( F o ( T a n d l t d o ( L a b t s o a c a e p o t m b o o b o t t ( C t s ( N a u t s i n e f d a a c c u G ( T a b w c u a r p p ( C a t t u t s a G f d m i G t t f c S u s r t a p f c u t s f w f h b a d S w m T S m n a l a a p u t s T S d b o a a t f i a e]
+[DELETED:  S  H I t ( R c r c c f d m i a c y e t e t m a t S s a a p o p t t r c c c b e i o p e i a w t s I a r s o w s c ( I n c r t t S s p t t r r ( I a r a r t ( I r c p t p c r b o t p o e p p r t ( G ( T c ( T t a o a c c b c p ( ( T ( T ( T S " C C – T a a a a d f c y … 3 C i e]
+[DELETED:  S  P S J b  P S l]

@@ -1,0 +1,550 @@
+Title: SENATE BILL 261
+Official Title: SENATE BILL 261
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Energy Security and Affordability Act. (Public)
+Sponsors: Senators Berger, P. Newton, and Barnes (Primary Sponsors).
+Referred to: Agriculture, Energy, and Environment
+March 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ELIMINATE THE INTERIM DATE FOR CARBON REDUCTION BY
+3 CERTAIN ELECTRIC PUBLIC UTILITIES AND TO ALLOW AN ALTERNATIVE
+4 COST RECOVERY MECHANISM FOR CONSTRUCTION WORK IN PROGRESS FOR
+5 BASELOAD ELECTRIC GENERATING FACILITIES.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1.(a) G.S. 62-110.9 reads as rewritten:
+8 "§ 62-110.9. Requirements concerning reductions in emissions of carbon dioxide from
+9 electric public utilities.
+10 The Utilities Commission shall take all reasonable steps to achieve a seventy percent (70%)
+11 reduction in emissions of carbon dioxide (CO2) emitted in the State from electric generating
+12 facilities owned or operated by electric public utilities from 2005 levels by the year 2030 and that
+13 result in carbon neutrality by the year 2050. For purposes of this section, (i) "electric public
+14 utility" means any electric public utility as defined in G.S. 62-3(23) serving at least 150,000
+15 North Carolina retail jurisdictional customers as of January 1, 2021, and (ii) "carbon neutrality"
+16 means for every ton of CO2 emitted in the State from electric generating facilities owned or
+17 operated by or on behalf of electric public utilities, an equivalent amount of CO2 is reduced,
+18 removed, prevented, or offset, provided that the offsets are verifiable and do not exceed five
+19 percent (5%) of the authorized reduction goal. In achieving the authorized carbon reduction
+20 goals, goal, the Utilities Commission shall:
+21 (1) Develop a plan, no later than December 31, 2022, 2026, with the electric
+22 public utilities, including stakeholder input, for the utilities to achieve the
+23 authorized reduction goals, goal of carbon neutrality by the year 2050, which
+24 may, at a minimum, consider power generation, transmission and distribution,
+25 grid modernization, storage, energy efficiency measures, demand-side
+26 management, and the latest technological breakthroughs to achieve the least
+27 cost path consistent with this section to achieve compliance with the
+28 authorized carbon reduction goals goal (the "Carbon Plan"). The Carbon Plan
+29 shall be reviewed every two years and may be adjusted as necessary in the
+30 determination of the Commission and the electric public utilities.
+31 (2) Comply with current law and practice with respect to the least cost planning
+32 for generation, pursuant to G.S. 62-2(a)(3a), in achieving the authorized
+33 carbon reduction goals goal and determining generation and resource mix for
+34 the future. Any new generation facilities or other resources selected by the
+35 Commission in order to achieve the authorized reduction goals goal for
+*S261-v-1*
+General Assembly Of North Carolina Session 2025
+1 electric public utilities shall be owned and recovered on a cost of service basis
+2 by the applicable electric public utility except that:
+3 a. Existing law shall apply with respect to energy efficiency measures
+4 and demand-side management.
+5 b. To the extent that new solar generation is selected by the Commission,
+6 in adherence with least cost requirements, the solar generation selected
+7 shall be subject to the following: (i) forty-five percent (45%) of the
+8 total megawatts alternating current (MW AC) of any solar energy
+9 facilities established pursuant to this section shall be supplied through
+10 the execution of power purchase agreements with third parties
+11 pursuant to which the electric public utility purchases solar energy,
+12 capacity, and environmental and renewable attributes from solar
+13 energy facilities owned and operated by third parties that are 80 MW
+14 AC or less that commit to allow the procuring electric public utility
+15 rights to dispatch, operate, and control the solicited solar energy
+16 facilities in the same manner as the utility's own generating resources
+17 and (ii) fifty-five percent (55%) of the total MW AC of any solar
+18 energy facilities established pursuant to this section shall be supplied
+19 from solar energy facilities that are utility-built or purchased by the
+20 utility from third parties and owned and operated and recovered on a
+21 cost of service basis by the soliciting electric public utility. These
+22 ownership requirements shall be applicable to solar energy facilities
+23 (i) paired with energy storage and (ii) procured in connection with any
+24 voluntary customer program.
+25 (3) Ensure any generation and resource changes maintain or improve upon the
+26 adequacy and reliability of the existing grid.
+27 (4) Retain discretion to determine optimal timing and generation and
+28 resource-mix to achieve the least cost path to compliance with the authorized
+29 carbon reduction goals, goal, including discretion in achieving the authorized
+30 carbon reduction goals goal by the dates date specified in order to allow for
+31 implementation of solutions that would have a more significant and material
+32 impact on carbon reduction; provided, however, the Commission shall not
+33 exceed the dates date specified to achieve the authorized carbon reduction
+34 goals goal by more than two years, except in the event the Commission
+35 authorizes construction of a nuclear facility or wind energy facility that would
+36 require additional time for completion due to technical, legal, logistical, or
+37 other factors beyond the control of the electric public utility, or in the event
+38 necessary to maintain the adequacy and reliability of the existing grid. In
+39 making such determinations, the Utilities Commission shall receive and
+40 consider stakeholder input."
+41 SECTION 1.(b) G.S. 62-110.1 reads as rewritten:
+42 "§ 62-110.1. Certificate for construction of generating facility; analysis of long-range needs
+43 for expansion of facilities; ongoing review of construction costs; inclusion of
+44 approved construction costs in rates.
+45 …
+46 (e) As a condition for receiving a certificate, the applicant shall file an estimate of
+47 construction costs in such detail as the Commission may require. The Commission shall hold a
+48 public hearing on each application and no certificate shall be granted unless the Commission has
+49 approved the estimated construction costs and made a finding that construction will be consistent
+50 with the Commission's plan for expansion of electric generating capacity. A certificate for the
+51 construction of generating facility by an electric public utility, as that term is defined by
+Page 2 Senate Bill 261-First Edition
+General Assembly Of North Carolina Session 2025
+1 G.S. 62-110.9, shall be granted only if the applicant demonstrates and the Commission finds that
+2 the facility is part of the least cost path to achieve compliance with the authorized carbon
+3 reduction goals goal in G.S. 62-110.9, will maintain or improve upon the adequacy and reliability
+4 of the existing grid, and that the construction and operation of the facility is in the public interest.
+5 In making its determination, the Commission shall consider resource and fuel diversity and
+6 reasonably anticipated future operating costs. Once the Commission grants a certificate, no
+7 public utility shall cancel construction of a generating unit or facility without approval from the
+8 Commission based upon a finding that the construction is no longer in the public interest.
+9 …."
+10 SECTION 2.(a) G.S. 62-133 reads as rewritten:
+11 "§ 62-133. How rates fixed.
+12 (a) In fixing the rates for any public utility subject to the provisions of this Chapter, other
+13 than bus companies, motor carriers and certain water and sewer utilities, the Commission shall
+14 fix such rates as shall be fair both to the public utilities and to the consumer.
+15 (b) In fixing such rates, the Commission shall:
+16 (1) Ascertain the reasonable original cost or the fair value under G.S. 62-133.1A
+17 of the public utility's property used and useful, or to be used and useful within
+18 a reasonable time after the test period, in providing the service rendered to the
+19 public within the State, less that portion of the cost that has been consumed
+20 by previous use recovered by depreciation expense. In addition, construction
+21 work in progress may be included in the cost of the public utility's property
+22 under any of the following circumstances:
+23 a. To the extent the Commission considers inclusion in the public interest
+24 and necessary to the financial stability of the utility in question,
+25 reasonable and prudent expenditures for construction work in progress
+26 may be included, subject to the provisions of subdivision (4a) of this
+27 subsection.
+28 b. For baseload electric generating facilities, reasonable and prudent
+29 expenditures shall be included pursuant to subdivisions (2) or (3) of
+30 G.S. 62-110.1(f1), whichever applies, subject to the provisions of
+31 subdivision (4a) of this subsection.
+32 c. For baseload electric generating facilities, if the Commission
+33 determines there is an overall cost-savings for customers over the life
+34 of the generating facility and a baseload electric generating facility has
+35 been subject to an annual ongoing review process pursuant to
+36 G.S. 62-110.1(f), the Commission shall, upon determining through the
+37 ongoing review process that the expenditures were reasonably and
+38 prudently incurred, allow an increase in base rates outside of the
+39 rate-making processes established under this section or
+40 G.S. 62-133.16 to reflect solely the inclusion of such construction
+41 work in progress in the rate base, with the increase being effective 30
+42 days after the Commission's order finding that the expenditures were
+43 reasonable and prudent.
+44 …
+45 (4a) Require each public utility to discontinue capitalization of the composite
+46 carrying cost of capital funds used to finance construction (allowance for
+47 funds) on the construction work in progress included in its rate based upon the
+48 effective date of the first and each subsequent general rate order issued with
+49 respect to it after the effective date of this subsection; allowance for funds may
+50 be capitalized with respect to expenditures for construction work in progress
+51 not included in the utility's property upon which the rates were fixed. In
+Senate Bill 261-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 determining net operating income for return, the Commission shall not include
+2 any capitalized allowance for funds used during construction on the
+3 construction work in progress included in the utility's rate base.
+4 …
+5 (c) The original cost of the public utility's property, including its construction work in
+6 progress, shall be determined as of the end of the test period used in the hearing and the probable
+7 future revenues and expenses shall be based on the plant and equipment in operation at that time.
+8 If the public utility elects to establish rate base using fair value, the fair value determination of
+9 the public utility's property shall be made as provided in G.S. 62-133.1A, and the probable future
+10 revenues and expenses shall be based on the plant and equipment in operation at the end of the
+11 test period. The test period shall consist of 12 months' historical operating experience prior to the
+12 date the rates are proposed to become effective, but the Commission shall consider such relevant,
+13 material and competent evidence as may be offered by any party to the proceeding tending to
+14 show actual changes in costs, revenues or the cost of the public utility's property used and useful,
+15 or to be used and useful within a reasonable time after the test period, in providing the service
+16 rendered to the public within this State, including its construction work in progress, which is
+17 based upon circumstances and events occurring up to the time the hearing is closed.
+18 …."
+19 SECTION 2.(b) G.S. 62-110.1 reads as rewritten:
+20 "§ 62-110.1. Certificate for construction of generating facility; analysis of long-range needs
+21 for expansion of facilities; ongoing review of construction costs; inclusion of
+22 approved construction costs in rates.
+23 …
+24 (f1) The Except as provided in G.S. 62-133(b)(1)c., the public utility shall recover through
+25 rates in a general rate case conducted pursuant to G.S. 62-133 the actual costs it has incurred in
+26 constructing a generating facility in reliance on a certificate issued under this section as provided
+27 in this subsection, unless new evidence is discovered (i) that could not have been discovered by
+28 due diligence at an earlier time and (ii) that reasonably tends to show that a previous
+29 determination by the Commission that a material item of cost was just and reasonable and
+30 prudently incurred was erroneous. If the Commission determines that evidence has been
+31 submitted that meets the requirements of this subsection, the public utility shall have the burden
+32 of proof to demonstrate that the material item of cost was in fact just and reasonable and prudently
+33 incurred.
+34 (1) When a facility has been completed, and the construction of the facility has
+35 been subject to ongoing review under subsection (f) of this section, the
+36 reasonable and prudent costs of construction approved by the Commission
+37 during the ongoing review shall be included in the public utility's rate base
+38 without further review by the Commission.
+39 (2) If a facility has not been completed, and the construction of the facility has
+40 been subject to ongoing review under subsection (f) of this section, the
+41 reasonable and prudent costs of construction approved by the Commission
+42 during the ongoing review shall be included in the public utility's rate base
+43 without further review by the Commission.
+44 (3) If a facility is under construction or has been completed and the construction
+45 of the facility has not been subject to ongoing review under subsection (f) of
+46 this section, the costs of construction shall be included in the public utility's
+47 rate base if the Commission finds that the incurrence of these costs is
+48 reasonable and prudent.
+49 (f2) If the construction of a facility is cancelled, including cancellation as a result of
+50 modification or revocation of the certificate under subsection (e1) of this section, and the
+51 construction of the facility has been subject to ongoing review under subsection (f), absent newly
+Page 4 Senate Bill 261-First Edition
+General Assembly Of North Carolina Session 2025
+1 discovered evidence (i) that could not have been discovered by due diligence at an earlier time
+2 and (ii) that reasonably tends to show that a previous determination by the Commission that a
+3 material item of cost was just and reasonable and prudently incurred was erroneous, the public
+4 utility shall recover through rates in a general rate case conducted pursuant to G.S. 62-133 or as
+5 provided in G.S. 62-133(b)(1)c., the costs of construction approved by the Commission during
+6 the ongoing review that were actually incurred prior to cancellation, amortized over a reasonable
+7 time as determined by the Commission. In the general rate case, case, or a proceeding under
+8 G.S. 62-133(b)(1)c., the Commission shall make any adjustment that may be required because
+9 costs of construction previously added to the utility's rate base pursuant to subsection (f1) of this
+10 section are removed from the rate base and recovered in accordance with this subsection. Any
+11 costs of construction actually incurred, but not previously approved by the Commission, shall be
+12 recovered only if they are found by the Commission to be reasonable and prudent. If the
+13 Commission determines that evidence has been submitted that meets the requirements of this
+14 subsection, the public utility shall have the burden of proof to demonstrate that the material item
+15 of cost was just and reasonable and prudently incurred.
+16 …."
+17 SECTION 2.(c) G.S. 62-110.6 reads as rewritten:
+18 "§ 62-110.6. Rate recovery for construction costs of out-of-state electric generating
+19 facilities.
+20 (a) The Commission shall, upon petition of a public utility, determine the need for and,
+21 if need is established, approve an estimate of the construction costs and construction schedule
+22 for an electric generating facility in another state that is intended to serve retail customers in this
+23 State.
+24 (b) The petition may be filed at any time after an application for a certificate or license
+25 for the construction of the facility has been filed in the state in which the facility will be sited.
+26 The petition shall contain a showing of need for the facility, an estimate of the construction costs,
+27 and the proposed construction schedule for the facility.
+28 (c) The Commission shall conduct a public hearing to consider and determine the need
+29 for the facility and the reasonableness of the construction cost estimate and proposed construction
+30 schedule. If the Commission finds that the construction will be needed to assure the provision of
+31 adequate public utility service within North Carolina, the Commission shall approve a
+32 construction cost estimate and a construction schedule for the facility. In making its
+33 determinations under this section, the Commission may consider whether the state in which the
+34 facility will be sited has issued a certificate or license for construction of the facility and approved
+35 a construction cost estimate and construction schedule for the facility. The Commission shall
+36 issue its order not later than 180 days after the public utility files its petition.
+37 (d) G.S. 62-110.1(f) shall apply to the construction cost estimate determined by the
+38 Commission to be appropriate, and the actual costs the public utility incurs in constructing the
+39 facility shall be recoverable through rates in a general rate case pursuant to G.S. 62-133 as
+40 provided in G.S. 62-110.1(f1).G.S. 62-110.1(f1), or as provided in G.S. 62-133(b)(1)c.
+41 (e) If the construction of a facility is cancelled, the public utility shall recover through
+42 rates in a general rate case conducted pursuant to G.S. 62-133 G.S. 62-133, or as provided in
+43 G.S. 62-133(b)(1)c., the costs of construction that were actually incurred prior to the cancellation
+44 and are found by the Commission to be reasonable and prudent, as provided in subsections (f2)
+45 and (f3) of G.S. 62-110.1."
+46 SECTION 3. If any provision of this act or the application thereof to any person or
+47 circumstances is held invalid, such invalidity shall not affect other provisions or applications of
+48 this section that can be given effect without the invalid provision or application and, to this end,
+49 the provisions of this section are declared to be severable.
+Senate Bill 261-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act is effective when it becomes law, and Section 2 of this act
+2 applies to petitions for an increase to rates based on construction work in progress filed on or
+3 after that date.
+Page 6 Senate Bill 261-First Edition
+[DELETED:  1 E ( S A A A A T E T I D F C R B C E P U A T A A A C B T S " e T r f r u N m o r p g ( D p a m g m s e e m d m c p c w t s t a c w t a s d ( C f g p t G i a t a c t C i o t a t a r g g f]
+[DELETED:  S  S e b a E a b T i s t m a c ( A o a s e f t e o p p a w t p p c a e a r a f s e A r t d o a c t s s e f a e f u c o b b t s e p u T o ( v ( E a ( R d t d o t a g a r c c i i e g g b m t t y e i t e t C a r o n m s d t U C s r a c S " f e o o r o c i o a … ( A a c f r a c t a s f a e o c p a w c o g f b a e p u a t t i d b]
+[DELETED:  S  P G t f i p o t l c p t a c w t a c r o I r a f o c O t C g a c n p C … S " ( I t f ( I ( A o a p b w u a T a n t t f s o t u i q r m s b F b e g f r a p e G w a s t t p o s c F b e g f i t C d o b s t a a o r p p t G o r p t t e w r a p i a a i i b r o o t r p e u t s o G t r s t i o s c w d r … ( R e p u t d c o t c c c o c f u t f c ( f f e r b n i i t u p u w t r w f I]
+[DELETED:  S  S d a c a f f u d c o t c … ( T p f I t r t d m s o r b … S " f e o o r o c i o a … ( T r c i d d a a e t a ( t r t t s t a p d b t C t a m i o c w j a r a p i w e I t C d t e h b s o i ( W b s t o r u s ( o t s t r d w ( I b s t o r u s ( o t s t r d w ( I o t r b i t C f t t i o t c i r ( I f m o r o t c u s ( o t s a t c]
+[DELETED:  S  P d a m u p t t G c s c r o i t a f b t C t b r a p I t C s o … S " 6  R r f c c o o e g f ( T i f S ( T f T a ( T f s a p u s w N C t C s a a c c e a a c s f t f I m i d f a i ( G s a t t c c e d b t C f r a g p ( I r G a a S c t t]
+[DELETED:  S  S S a a]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 261
+Short Title: Energy Security and Affordability Act. (Public)
+Sponsors: Senators Berger, P. Newton, and Barnes (Primary Sponsors).
+Referred to: Agriculture, Energy, and Environment
+March 11, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ELIMINATE THE INTERIM DATE FOR CARBON REDUCTION BY
+3 CERTAIN ELECTRIC PUBLIC UTILITIES AND TO ALLOW AN ALTERNATIVE
+4 COST RECOVERY MECHANISM FOR CONSTRUCTION WORK IN PROGRESS FOR
+5 BASELOAD ELECTRIC GENERATING FACILITIES.
+6 The General Assembly of North Carolina enacts:
+7 SECTION 1.(a) G.S. 62-110.9 reads as rewritten:
+8 "§ 62-110.9. Requirements concerning reductions in emissions of carbon dioxide from
+9 electric public utilities.
+10 The Utilities Commission shall take all reasonable steps to achieve a seventy percent (70%)
+11 reduction in emissions of carbon dioxide (CO2) emitted in the State from electric generating
+12 facilities owned or operated by electric public utilities from 2005 levels by the year 2030 and that
+13 result in carbon neutrality by the year 2050. For purposes of this section, (i) "electric public
+14 utility" means any electric public utility as defined in G.S. 62-3(23) serving at least 150,000
+15 North Carolina retail jurisdictional customers as of January 1, 2021, and (ii) "carbon neutrality"
+16 means for every ton of CO2 emitted in the State from electric generating facilities owned or
+17 operated by or on behalf of electric public utilities, an equivalent amount of CO2 is reduced,
+18 removed, prevented, or offset, provided that the offsets are verifiable and do not exceed five
+19 percent (5%) of the authorized reduction goal. In achieving the authorized carbon reduction
+20 goals, goal, the Utilities Commission shall:
+21 (1) Develop a plan, no later than December 31, 2022, 2026, with the electric
+22 public utilities, including stakeholder input, for the utilities to achieve the
+23 authorized reduction goals, goal of carbon neutrality by the year 2050, which
+24 may, at a minimum, consider power generation, transmission and distribution,
+25 grid modernization, storage, energy efficiency measures, demand-side
+26 management, and the latest technological breakthroughs to achieve the least
+27 cost path consistent with this section to achieve compliance with the
+28 authorized carbon reduction goals goal (the "Carbon Plan"). The Carbon Plan
+29 shall be reviewed every two years and may be adjusted as necessary in the
+30 determination of the Commission and the electric public utilities.
+31 (2) Comply with current law and practice with respect to the least cost planning
+32 for generation, pursuant to G.S. 62-2(a)(3a), in achieving the authorized
+33 carbon reduction goals goal and determining generation and resource mix for
+34 the future. Any new generation facilities or other resources selected by the
+35 Commission in order to achieve the authorized reduction goals goal for
+*S261-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 electric public utilities shall be owned and recovered on a cost of service basis
+2 by the applicable electric public utility except that:
+3 a. Existing law shall apply with respect to energy efficiency measures
+4 and demand-side management.
+5 b. To the extent that new solar generation is selected by the Commission,
+6 in adherence with least cost requirements, the solar generation selected
+7 shall be subject to the following: (i) forty-five percent (45%) of the
+8 total megawatts alternating current (MW AC) of any solar energy
+9 facilities established pursuant to this section shall be supplied through
+10 the execution of power purchase agreements with third parties
+11 pursuant to which the electric public utility purchases solar energy,
+12 capacity, and environmental and renewable attributes from solar
+13 energy facilities owned and operated by third parties that are 80 MW
+14 AC or less that commit to allow the procuring electric public utility
+15 rights to dispatch, operate, and control the solicited solar energy
+16 facilities in the same manner as the utility's own generating resources
+17 and (ii) fifty-five percent (55%) of the total MW AC of any solar
+18 energy facilities established pursuant to this section shall be supplied
+19 from solar energy facilities that are utility-built or purchased by the
+20 utility from third parties and owned and operated and recovered on a
+21 cost of service basis by the soliciting electric public utility. These
+22 ownership requirements shall be applicable to solar energy facilities
+23 (i) paired with energy storage and (ii) procured in connection with any
+24 voluntary customer program.
+25 (3) Ensure any generation and resource changes maintain or improve upon the
+26 adequacy and reliability of the existing grid.
+27 (4) Retain discretion to determine optimal timing and generation and
+28 resource-mix to achieve the least cost path to compliance with the authorized
+29 carbon reduction goals, goal, including discretion in achieving the authorized
+30 carbon reduction goals goal by the dates date specified in order to allow for
+31 implementation of solutions that would have a more significant and material
+32 impact on carbon reduction; provided, however, the Commission shall not
+33 exceed the dates date specified to achieve the authorized carbon reduction
+34 goals goal by more than two years, except in the event the Commission
+35 authorizes construction of a nuclear facility or wind energy facility that would
+36 require additional time for completion due to technical, legal, logistical, or
+37 other factors beyond the control of the electric public utility, or in the event
+38 necessary to maintain the adequacy and reliability of the existing grid. In
+39 making such determinations, the Utilities Commission shall receive and
+40 consider stakeholder input."
+41 SECTION 1.(b) G.S. 62-110.1 reads as rewritten:
+42 "§ 62-110.1. Certificate for construction of generating facility; analysis of long-range needs
+43 for expansion of facilities; ongoing review of construction costs; inclusion of
+44 approved construction costs in rates.
+45 …
+46 (e) As a condition for receiving a certificate, the applicant shall file an estimate of
+47 construction costs in such detail as the Commission may require. The Commission shall hold a
+48 public hearing on each application and no certificate shall be granted unless the Commission has
+49 approved the estimated construction costs and made a finding that construction will be consistent
+50 with the Commission's plan for expansion of electric generating capacity. A certificate for the
+51 construction of generating facility by an electric public utility, as that term is defined by
+Page 2 Senate Bill 261-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 G.S. 62-110.9, shall be granted only if the applicant demonstrates and the Commission finds that
+2 the facility is part of the least cost path to achieve compliance with the authorized carbon
+3 reduction goals goal in G.S. 62-110.9, will maintain or improve upon the adequacy and reliability
+4 of the existing grid, and that the construction and operation of the facility is in the public interest.
+5 In making its determination, the Commission shall consider resource and fuel diversity and
+6 reasonably anticipated future operating costs. Once the Commission grants a certificate, no
+7 public utility shall cancel construction of a generating unit or facility without approval from the
+8 Commission based upon a finding that the construction is no longer in the public interest.
+9 …."
+10 SECTION 2.(a) G.S. 62-133 reads as rewritten:
+11 "§ 62-133. How rates fixed.
+12 (a) In fixing the rates for any public utility subject to the provisions of this Chapter, other
+13 than bus companies, motor carriers and certain water and sewer utilities, the Commission shall
+14 fix such rates as shall be fair both to the public utilities and to the consumer.
+15 (b) In fixing such rates, the Commission shall:
+16 (1) Ascertain the reasonable original cost or the fair value under G.S. 62-133.1A
+17 of the public utility's property used and useful, or to be used and useful within
+18 a reasonable time after the test period, in providing the service rendered to the
+19 public within the State, less that portion of the cost that has been consumed
+20 by previous use recovered by depreciation expense. In addition, construction
+21 work in progress may be included in the cost of the public utility's property
+22 under any of the following circumstances:
+23 a. To the extent the Commission considers inclusion in the public interest
+24 and necessary to the financial stability of the utility in question,
+25 reasonable and prudent expenditures for construction work in progress
+26 may be included, subject to the provisions of subdivision (4a) of this
+27 subsection.
+28 b. For baseload electric generating facilities, reasonable and prudent
+29 expenditures shall be included pursuant to subdivisions (2) or (3) of
+30 G.S. 62-110.1(f1), whichever applies, subject to the provisions of
+31 subdivision (4a) of this subsection.
+32 c. For baseload electric generating facilities, if the Commission
+33 determines there is an overall cost-savings for customers over the life
+34 of the generating facility and a baseload electric generating facility has
+35 been subject to an annual ongoing review process pursuant to
+36 G.S. 62-110.1(f), the Commission shall, upon determining through the
+37 ongoing review process that the expenditures were reasonably and
+38 prudently incurred, allow an increase in base rates outside of the
+39 rate-making processes established under this section or
+40 G.S. 62-133.16 to reflect solely the inclusion of such construction
+41 work in progress in the rate base, with the increase being effective 30
+42 days after the Commission's order finding that the expenditures were
+43 reasonable and prudent.
+44 …
+45 (4a) Require each public utility to discontinue capitalization of the composite
+46 carrying cost of capital funds used to finance construction (allowance for
+47 funds) on the construction work in progress included in its rate based upon the
+48 effective date of the first and each subsequent general rate order issued with
+49 respect to it after the effective date of this subsection; allowance for funds may
+50 be capitalized with respect to expenditures for construction work in progress
+51 not included in the utility's property upon which the rates were fixed. In
+Senate Bill 261-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 determining net operating income for return, the Commission shall not include
+2 any capitalized allowance for funds used during construction on the
+3 construction work in progress included in the utility's rate base.
+4 …
+5 (c) The original cost of the public utility's property, including its construction work in
+6 progress, shall be determined as of the end of the test period used in the hearing and the probable
+7 future revenues and expenses shall be based on the plant and equipment in operation at that time.
+8 If the public utility elects to establish rate base using fair value, the fair value determination of
+9 the public utility's property shall be made as provided in G.S. 62-133.1A, and the probable future
+10 revenues and expenses shall be based on the plant and equipment in operation at the end of the
+11 test period. The test period shall consist of 12 months' historical operating experience prior to the
+12 date the rates are proposed to become effective, but the Commission shall consider such relevant,
+13 material and competent evidence as may be offered by any party to the proceeding tending to
+14 show actual changes in costs, revenues or the cost of the public utility's property used and useful,
+15 or to be used and useful within a reasonable time after the test period, in providing the service
+16 rendered to the public within this State, including its construction work in progress, which is
+17 based upon circumstances and events occurring up to the time the hearing is closed.
+18 …."
+19 SECTION 2.(b) G.S. 62-110.1 reads as rewritten:
+20 "§ 62-110.1. Certificate for construction of generating facility; analysis of long-range needs
+21 for expansion of facilities; ongoing review of construction costs; inclusion of
+22 approved construction costs in rates.
+23 …
+24 (f1) The Except as provided in G.S. 62-133(b)(1)c., the public utility shall recover through
+25 rates in a general rate case conducted pursuant to G.S. 62-133 the actual costs it has incurred in
+26 constructing a generating facility in reliance on a certificate issued under this section as provided
+27 in this subsection, unless new evidence is discovered (i) that could not have been discovered by
+28 due diligence at an earlier time and (ii) that reasonably tends to show that a previous
+29 determination by the Commission that a material item of cost was just and reasonable and
+30 prudently incurred was erroneous. If the Commission determines that evidence has been
+31 submitted that meets the requirements of this subsection, the public utility shall have the burden
+32 of proof to demonstrate that the material item of cost was in fact just and reasonable and prudently
+33 incurred.
+34 (1) When a facility has been completed, and the construction of the facility has
+35 been subject to ongoing review under subsection (f) of this section, the
+36 reasonable and prudent costs of construction approved by the Commission
+37 during the ongoing review shall be included in the public utility's rate base
+38 without further review by the Commission.
+39 (2) If a facility has not been completed, and the construction of the facility has
+40 been subject to ongoing review under subsection (f) of this section, the
+41 reasonable and prudent costs of construction approved by the Commission
+42 during the ongoing review shall be included in the public utility's rate base
+43 without further review by the Commission.
+44 (3) If a facility is under construction or has been completed and the construction
+45 of the facility has not been subject to ongoing review under subsection (f) of
+46 this section, the costs of construction shall be included in the public utility's
+47 rate base if the Commission finds that the incurrence of these costs is
+48 reasonable and prudent.
+49 (f2) If the construction of a facility is cancelled, including cancellation as a result of
+50 modification or revocation of the certificate under subsection (e1) of this section, and the
+51 construction of the facility has been subject to ongoing review under subsection (f), absent newly
+Page 4 Senate Bill 261-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 discovered evidence (i) that could not have been discovered by due diligence at an earlier time
+2 and (ii) that reasonably tends to show that a previous determination by the Commission that a
+3 material item of cost was just and reasonable and prudently incurred was erroneous, the public
+4 utility shall recover through rates in a general rate case conducted pursuant to G.S. 62-133 or as
+5 provided in G.S. 62-133(b)(1)c., the costs of construction approved by the Commission during
+6 the ongoing review that were actually incurred prior to cancellation, amortized over a reasonable
+7 time as determined by the Commission. In the general rate case, case, or a proceeding under
+8 G.S. 62-133(b)(1)c., the Commission shall make any adjustment that may be required because
+9 costs of construction previously added to the utility's rate base pursuant to subsection (f1) of this
+10 section are removed from the rate base and recovered in accordance with this subsection. Any
+11 costs of construction actually incurred, but not previously approved by the Commission, shall be
+12 recovered only if they are found by the Commission to be reasonable and prudent. If the
+13 Commission determines that evidence has been submitted that meets the requirements of this
+14 subsection, the public utility shall have the burden of proof to demonstrate that the material item
+15 of cost was just and reasonable and prudently incurred.
+16 …."
+17 SECTION 2.(c) G.S. 62-110.6 reads as rewritten:
+18 "§ 62-110.6. Rate recovery for construction costs of out-of-state electric generating
+19 facilities.
+20 (a) The Commission shall, upon petition of a public utility, determine the need for and,
+21 if need is established, approve an estimate of the construction costs and construction schedule
+22 for an electric generating facility in another state that is intended to serve retail customers in this
+23 State.
+24 (b) The petition may be filed at any time after an application for a certificate or license
+25 for the construction of the facility has been filed in the state in which the facility will be sited.
+26 The petition shall contain a showing of need for the facility, an estimate of the construction costs,
+27 and the proposed construction schedule for the facility.
+28 (c) The Commission shall conduct a public hearing to consider and determine the need
+29 for the facility and the reasonableness of the construction cost estimate and proposed construction
+30 schedule. If the Commission finds that the construction will be needed to assure the provision of
+31 adequate public utility service within North Carolina, the Commission shall approve a
+32 construction cost estimate and a construction schedule for the facility. In making its
+33 determinations under this section, the Commission may consider whether the state in which the
+34 facility will be sited has issued a certificate or license for construction of the facility and approved
+35 a construction cost estimate and construction schedule for the facility. The Commission shall
+36 issue its order not later than 180 days after the public utility files its petition.
+37 (d) G.S. 62-110.1(f) shall apply to the construction cost estimate determined by the
+38 Commission to be appropriate, and the actual costs the public utility incurs in constructing the
+39 facility shall be recoverable through rates in a general rate case pursuant to G.S. 62-133 as
+40 provided in G.S. 62-110.1(f1).G.S. 62-110.1(f1), or as provided in G.S. 62-133(b)(1)c.
+41 (e) If the construction of a facility is cancelled, the public utility shall recover through
+42 rates in a general rate case conducted pursuant to G.S. 62-133 G.S. 62-133, or as provided in
+43 G.S. 62-133(b)(1)c., the costs of construction that were actually incurred prior to the cancellation
+44 and are found by the Commission to be reasonable and prudent, as provided in subsections (f2)
+45 and (f3) of G.S. 62-110.1."
+46 SECTION 3. If any provision of this act or the application thereof to any person or
+47 circumstances is held invalid, such invalidity shall not affect other provisions or applications of
+48 this section that can be given effect without the invalid provision or application and, to this end,
+49 the provisions of this section are declared to be severable.
+Senate Bill 261-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. This act is effective when it becomes law, and Section 2 of this act
+2 applies to petitions for an increase to rates based on construction work in progress filed on or
+3 after that date.
+Page 6 Senate Bill 261-First Edition
+
+[DELETED:  1 E ( S A A A A T E T I D F C R B C E P U A T A A A C B T S " e T r f r u N m o r p g ( D p a m g m s e e m d m c p c w t s t a c w t a s d ( C f g p t G i a t a c t C i o t a t a r g g f]
+[DELETED:  S  S e b a E a b T i s t m a c ( A o a s e f t e o p p a w t p p c a e a r a f s e A r t d o a c t s s e f a e f u c o b b t s e p u T o ( v ( E a ( R d t d o t a g a r c c i i e g g b m t t y e i t e t C a r o n m s d t U C s r a c S " f e o o r o c i o a … ( A a c f r a c t a s f a e o c p a w c o g f b a e p u a t t i d b]
+[DELETED:  S  P G t f i p o t l c p t a c w t a c r o I r a f o c O t C g a c n p C … S " ( I t f ( I ( A o a p b w u a T a n t t f s o t u i q r m s b F b e g f r a p e G w a s t t p o s c F b e g f i t C d o b s t a a o r p p t G o r p t t e w r a p i a a i i b r o o t r p e u t s o G t r s t i o s c w d r … ( R e p u t d c o t c c c o c f u t f c ( f f e r b n i i t u p u w t r w f I]
+[DELETED:  S  S d a c a f f u d c o t c … ( T p f I t r t d m s o r b … S " f e o o r o c i o a … ( T r c i d d a a e t a ( t r t t s t a p d b t C t a m i o c w j a r a p i w e I t C d t e h b s o i ( W b s t o r u s ( o t s t r d w ( I b s t o r u s ( o t s t r d w ( I o t r b i t C f t t i o t c i r ( I f m o r o t c u s ( o t s a t c]
+[DELETED:  S  P d a m u p t t G c s c r o i t a f b t C t b r a p I t C s o … S " 6  R r f c c o o e g f ( T i f S ( T f T a ( T f s a p u s w N C t C s a a c c e a a c s f t f I m i d f a i ( G s a t t c c e d b t C f r a g p ( I r G a a S c t t]
+[DELETED:  S  S S a a]
