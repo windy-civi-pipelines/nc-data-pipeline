@@ -1,0 +1,1924 @@
+Title: HOUSE BILL 999
+Official Title: HOUSE BILL 999
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Regulation of Video Gaming Terminals. (Public)
+Sponsors: Representatives Warren and Loftis (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AUTHORIZE REGULATED PLAY OF VIDEO GAMING TERMINALS IN
+3 THIS STATE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 18C of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 11.
+8 "Video Gaming Terminals.
+9 "Part 1. General Provisions.
+10 "§ 18C-1100. Definitions.
+11 In addition to the definitions in Article 1 of this Chapter, the following definitions apply in
+12 this Article:
+13 (1) Associated equipment. – Any hardware that is connected to the video gaming
+14 terminal or to the central monitoring system for the purpose of
+15 communication, validation, play, or other functions of the video gaming
+16 terminal.
+17 (2) Central monitoring system. – The system that maintains on a real-time basis
+18 the financial, integrity, and security controls on video gaming terminals and
+19 associated equipment and provides administrative services for its operation.
+20 (3) Independent testing laboratory. – A nationally recognized testing laboratory
+21 that is not otherwise subject to control by others and is approved by the
+22 Commission for use in testing whether a video gaming game or video gaming
+23 terminal complies with the standards set forth in this Article.
+24 (4) Local law enforcement. – A municipal police department, a county police
+25 department, or a sheriff's office.
+26 (5) Manufacturer. – A person licensed by the Commission who manufactures,
+27 assembles, services, or produces video gaming terminals or associated
+28 equipment.
+29 (6) Net machine revenue. – Gross revenue minus prizes actually paid per
+30 machine. For purposes of this subdivision, prizes do not include a player
+31 reward system, player tracking system, marketing, or promotional prizes or
+32 credits. Unclaimed prizes shall not be included in the calculation of net
+33 machine revenue unless redeemed by the player.
+*H999-v-1*
+General Assembly Of North Carolina Session 2025
+1 (7) Off-premises ABC permit. – An off-premises malt beverage permit, or
+2 off-premises unfortified or fortified wine permit issued pursuant to Chapter
+3 18B of the General Statutes.
+4 (8) On-premises ABC permit. – An on-premises malt beverage permit,
+5 on-premises unfortified or fortified wine permit, or mixed beverages permit
+6 issued pursuant to Chapter 18B of the General Statutes.
+7 (9) Operator. – A person licensed by the Commission who owns, leases, or
+8 otherwise controls a video gaming terminal for which a video gaming terminal
+9 permit has been issued by the Commission.
+10 (10) Video gaming games. – Electronically simulated games of chance approved
+11 by the Commission that are displayed and played on permitted video gaming
+12 terminals.
+13 (11) Video gaming merchant. – A person that meets all of the following criteria:
+14 a. Is not primarily engaged in the business of offering video gaming
+15 terminals.
+16 b. Holds a valid on-premises or an off-premises ABC permit issued by
+17 the Alcohol Beverage Commission, or a certificate of authority issued
+18 by the Commission under Article 5 of this Chapter for areas that have
+19 not approved the issuance of permits under Chapter 18B of the General
+20 Statutes.
+21 c. Is licensed by the Commission under this Article.
+22 d. With whom an operator has contracted to do the following:
+23 1. Provide video gaming terminals for the placing of wagers and
+24 payment of winnings in accordance with this Article.
+25 2. Pay cash prizes for video gaming games in accordance with
+26 this Article.
+27 (12) Video gaming terminal. – A device operated under the authority of the
+28 Commission that shall be exempt under G.S. 14-306.1A and is any electronic
+29 computerized video game machine that, upon the insertion of cash or a lottery
+30 share, is available to play a video gaming game authorized by the Commission
+31 and which uses a video display and microprocessors in which, by chance, the
+32 player may receive free games or credits that can be redeemed for cash. The
+33 term does not include a device that directly dispenses coins, cash, or tokens.
+34 (13) Video gaming terminal permit. – A permanently affixed tag or other device
+35 issued to a licensed operator for each video gaming terminal approved by and
+36 registered with the Commission.
+37 (14) Wager. – A sum of cash, or a redeemable share, risked on an uncertain
+38 occurrence on any video gaming game.
+39 "§ 18C-1101. Reserved for future codification purposes.
+40 "§ 18C-1102. Video gaming.
+41 (a) The Commission shall determine that video gaming games are a type of lottery game
+42 in this State and shall license operators and video gaming merchants to operate video gaming
+43 games for play by the public. Play of video gaming games shall be deemed a share for purposes
+44 of this Chapter, shall be exempt from G.S. 18C-131(c), and shall be played only on video gaming
+45 terminals with a valid video gaming terminal permit. Except as otherwise provided in this Article,
+46 the provisions of this Chapter shall apply to operation and play of video gaming games in this
+47 State.
+48 (b) No video gaming terminals may be placed on any property owned or controlled by a
+49 governmental entity.
+50 (c) Video gaming terminals and associated equipment shall be connected to a central
+51 monitoring system at all times during play and as otherwise determined by the Commission.
+Page 2 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 (d) The Commission shall allow each video gaming operator to operate up to three video
+2 gaming terminals per location and may allow up to an additional three video gaming terminals
+3 per location based upon a net machine revenue benchmark established by the Commission.
+4 Nothing in this subsection shall limit the Commission from reducing the number of video gaming
+5 terminals allowed based upon the net machine revenue benchmark.
+6 (e) Each video gaming terminal for the placing of wagers and payment of winnings shall
+7 comply with all of the following:
+8 (1) Have affixed a valid video gaming terminal permit.
+9 (2) Be located in a building that is more than 1,000 feet of any of the following:
+10 a. A church.
+11 b. A public school.
+12 c. Any nonpublic school as defined by Part 1 or 2 of Article 39 of Chapter
+13 115C of the General Statutes.
+14 (3) Be located in plain view of the following:
+15 a. Other patrons and customers of the video gaming merchant.
+16 b. A surveillance camera that is operated continuously.
+17 (4) Be located within the premises of the video gaming merchant as identified in
+18 their ABC license.
+19 (f) Subdivision (e)(2) of this section shall not apply if the church, public school, or
+20 nonpublic school locates within 1,000 feet of the video gaming merchant after the video gaming
+21 merchant began using the premises for video gaming terminals.
+22 (g) Operators placing video gaming terminals for play in this State may only do the
+23 following:
+24 (1) Purchase, lease, or otherwise obtain video gaming terminals and associated
+25 equipment from manufacturers licensed under this Article.
+26 (2) Contract with licensed video gaming merchants for placement of video
+27 gaming terminals for play by the public with the contract being in a form
+28 approved by the Commission.
+29 (h) Prizes for play of video gaming terminals shall be issued by a share that is redeemable
+30 in accordance with the contract between the operator and the video gaming merchant.
+31 "§ 18C-1103. Allocation of revenues.
+32 The Commission shall determine the procedures for the monitoring, collecting, and remitting
+33 of net machine revenues from video gaming terminals. The portion of net machine revenues
+34 allocated to the Commission in subdivisions (1) and (2) of this section shall be transferred before
+35 any other allocations are made from the net machine revenues and deposited into an account as
+36 directed by the Commission. The net machine revenues shall be distributed by the Commission
+37 in conformity with the following:
+38 (1) Thirty-two percent (32%) of the total net machine revenues shall be
+39 transferred to the Commission. The Commission shall transfer amounts
+40 allocated under this subdivision to the North Carolina Video Gaming Fund
+41 established under G.S. 18C-1104.
+42 (2) Eight percent (8%) of the total net revenues shall be transferred to the
+43 Commission to be credited in the following priority:
+44 a. Costs of the Commission associated with administering this Article.
+45 b. Costs associated with the central monitoring system.
+46 c. Costs of the Department of Public Safety, Alcohol Law Enforcement
+47 Division, associated with enforcement of this Article, which shall
+48 include a transfer of at least three million dollars ($3,000,000)
+49 annually.
+50 d. One million dollars ($1,000,000) annually to the Department of Public
+51 Safety for grants to local law enforcement to combat illegal gaming,
+House Bill 999-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 to be awarded upon recommendation by the Governor's Crime
+2 Commission.
+3 e. Two hundred twenty-five thousand dollars ($225,000) annually to the
+4 Conference of District Attorneys for an attorney position dedicated to
+5 the prosecution of illegal gambling activities.
+6 f Remaining proceeds to the North Carolina Video Gaming Fund
+7 established under G.S. 18C-1104.
+8 (3) Thirty percent (30%) of the net machine revenues shall be allocated to
+9 operators.
+10 (4) Thirty percent (30%) of the net machine revenues shall be allocated to video
+11 gaming merchants.
+12 "§ 18C-1104. North Carolina Video Gaming Fund.
+13 (a) An enterprise fund, to be known as the North Carolina Video Gaming Fund, is created
+14 within the State treasury consisting of the transfer of net machine revenues by the Commission
+15 under this Article, unclaimed prizes deemed abandoned under G.S. 18C-1115(e), licensing fees
+16 collected by the Commission under this Article, and any interest earned on those funds.
+17 (b) The General Assembly shall appropriate the monies in the North Carolina Video
+18 Gaming Fund annually in the Current Operations Appropriations Act based upon estimates of
+19 the net machine revenue from video gaming terminals to the North Carolina Video Gaming Fund.
+20 (c) A security interest shall not be granted in any funds appropriated pursuant to this
+21 section.
+22 (d) Unclaimed prizes deemed abandoned under G.S. 18C-1115(e) shall be transferred to
+23 the Commission who shall transfer the amount to the North Carolina Video Gaming Fund.
+24 Unclaimed prize money allocated to the North Carolina Video Gaming Fund under this
+25 subsection shall be considered separate from, and shall not reduce, the allocations made to the
+26 Commission under G.S. 18C-1103.
+27 "§§ 18C-1105 through 18C-1109. Reserved for future codification purposes.
+28 "Part 2. Licenses and Permits.
+29 "§ 18C-1110. Video gaming permit required on video gaming terminals.
+30 (a) Every video gaming terminal shall have affixed to it a video gaming terminal permit
+31 prior to play in the manner set forth by the Commission. The placement of the video gaming
+32 terminal permit represents that the machine has been registered, inspected, and approved for
+33 operation in the State.
+34 (b) The Commission shall issue the video gaming terminal permit based on the number
+35 of approved video gaming terminals registered with the Commission. The initial video gaming
+36 terminal permit issued for each machine shall be valid for two years, and each successive permit
+37 shall be issued annually thereafter.
+38 (c) It shall be unlawful for a person other than authorized Commission personnel to affix
+39 or remove a video gaming permit. No video gaming terminal may be transported out of this State
+40 until the video gaming permit has been removed.
+41 (d) Operators and video gaming merchants must make video gaming terminals and
+42 associated equipment available for inspection by the Commission. No video gaming terminal
+43 shall be issued a video gaming permit unless the software and hardware of the video gaming
+44 terminal and associated equipment are compatible with the Commission's central monitoring
+45 system and all games installed on the video gaming terminal are approved by the Commission.
+46 (e) Any video gaming terminal that does not display a current and valid video gaming
+47 terminal permit as required by this Article is subject to G.S. 14-298.
+48 "§§ 18C-1111 through 18C-1113. Reserved for future codification purposes.
+49 "§ 18C-1114. Minimum qualifications for all licensees.
+50 (a) Except as provided in subsection (b) of this section, an applicant whom the
+51 Commission determines is qualified to receive a license under this Article shall be issued a
+Page 4 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 license. A person shall not engage in the manufacture, operation, service, or placement for play
+2 by the public of any video gaming terminal without a license issued by the Commission under
+3 this Article.
+4 (b) The Commission shall not approve an applicant for licensure if any of the following
+5 apply at the time of license:
+6 (1) The applicant meets one or more of the following:
+7 a. Has been convicted of a felony in any state or federal court of the
+8 United States within 10 years of issuance of the license.
+9 b. Employs officers or directors who have been convicted of a felony in
+10 any state or federal court of the United States within 10 years of
+11 issuance of the license.
+12 c. Has completed a sentence for a felony in any state or federal court of
+13 the United States within 10 years of issuance of the license.
+14 d. Employs officers or directors who have completed a sentence for a
+15 felony in any state or federal court of the United States within 10 years
+16 of issuance of the license.
+17 (2) The applicant is less than 21 years of age.
+18 (3) The applicant has falsified the application.
+19 (4) The applicant is not current in filing all applicable tax returns to the State and
+20 in payment of all taxes, interest, and penalties owed to the State, excluding
+21 items under formal appeal under applicable statutes. Upon request of the
+22 Director, the Department of Revenue shall provide this information about a
+23 specific person to the Commission.
+24 (5) The applicant fails to provide all information and documentation requested by
+25 the Commission.
+26 (6) The Commission is not satisfied that the applicant is all of the following:
+27 a. A person of good character, honesty, and integrity.
+28 b. A person whose background, including criminal record, reputation,
+29 and associations, does not pose a threat to the public interest of the
+30 State or to the security and integrity of the Commission.
+31 c. A person who, either individually or through employees, demonstrates
+32 business ability and experience to establish, operate, and maintain the
+33 business for the type of license for which the application is made.
+34 d. A person who demonstrates adequate financing for the business
+35 proposed under the type of license for which the application is made.
+36 (7) The applicant resides in the same household as a member or employee of the
+37 Commission.
+38 (8) The applicant is an employee, director, officer, partner, or proprietor of
+39 another manufacturer, operator, or video gaming merchant.
+40 (c) The applicant shall furnish all information, documents, certifications, consents,
+41 waivers, individual history forms, and other materials required or requested by the Commission
+42 for purposes of determining qualification for that type of license. If the applicant is a public
+43 company, the applicant shall file with the Commission a copy of any disclosure statement
+44 involving ownership of the public company required to be filed with the United States Securities
+45 and Exchange Commission.
+46 (d) The applicant shall submit to a background investigation, including each partner,
+47 director, officer, and all stockholders of five percent (5%) or more of any business entity, except
+48 for institutional investors. The application shall be accompanied by a fee to cover the cost of the
+49 criminal and financial record check conducted by the Commission.
+50 (e) The burden of proof for establishing qualification under this section shall be on the
+51 applicant.
+House Bill 999-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (f) An operator shall not give anything of value, including a loan or a financing
+2 arrangement, to any video gaming merchant as an incentive or inducement to locate video gaming
+3 terminals in a specific location. The Commission shall adopt additional rules governing the
+4 exchange of gifts, loans and other financing arrangements, gratuities, special discounts, favors,
+5 hospitality, or service between licensees.
+6 (g) In addition to the requirements provided in subsection (b) of this section, the
+7 Commission shall not approve an application for an operator's license unless at least one of the
+8 following applies:
+9 (1) If an individual, the applicant has been (i) a resident of this State and (ii) an
+10 amusement or game operator in this State for at least two years immediately
+11 preceding the application, without interruption.
+12 (2) If a business entity, the applicant meets all of the following criteria:
+13 a. The applicant has (i) maintained a physical office location and (ii) has
+14 legally been an amusement or game operator in this State for at least
+15 two years immediately preceding the application, without interruption.
+16 b. The applicant has been either of the following:
+17 1. Incorporated or organized in this State for at least two years
+18 immediately preceding the application, without interruption.
+19 2. Registered to do business in this State for at least two years
+20 immediately preceding the application, without interruption.
+21 (h) In addition to the requirements provided in subsection (g) of this section, the
+22 Commission shall not approve an application for an operator's license if, within two years of
+23 submitting an application, a change of control of the applicant has occurred such that a foreign
+24 individual or foreign business entity acquired a majority ownership of the applicant or otherwise
+25 gained effective control of the applicant. For the purposes of this subsection, the term "foreign
+26 individual" means an individual who does not meet the requirements of subdivision (1) of
+27 subsection (g) of this section and the term "foreign business entity" means a business entity that
+28 does not meet the requirements of subdivision (2) of subsection (g) of this section.
+29 (i) The Commission, for cause, may revoke any license issued under this Article. For
+30 purposes of this section, for cause includes any change in circumstances that would have resulted
+31 in the licensee being ineligible for approval of a license at the time of application.
+32 "§ 18C-1115. Advertising, marketing, and prizes.
+33 (a) All advertisement of video gaming games and video gaming terminals is prohibited.
+34 This prohibition includes:
+35 (1) The placement of signage on a building advertising that video gaming
+36 terminals are located within the building.
+37 (2) Websites, social media posts, or other internet-based statements by a licensee.
+38 (3) Online ads.
+39 (4) Television, radio, satellite television, cable television, or any similar
+40 mediums.
+41 (5) Mailings, emails, texts, phone calls, or other direct contact methods, unless
+42 the individual has explicitly consented to the contact.
+43 (6) Any other advertising medium.
+44 (b) Notwithstanding subsection (a) of this section, every video gaming merchant shall
+45 post a sign visible prior to entry that video gaming terminals are at the location. The Commission
+46 shall provide a standard sign to be used by all video gaming merchants and shall establish policies
+47 regarding posting of the standard sign.
+48 (c) Each video gaming merchant must make gaming materials readily available to players
+49 and other patrons within the building where video gaming terminals are located. The materials
+50 shall provide information about, or links to, resources for responsible gaming and gambling
+51 addiction and prevention.
+Page 6 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 (d) The payment of winnings from the placing of wagers on video gaming games shall
+2 be a paid to the player winning the prize by either of the following means:
+3 (1) Cash at the location of the video gaming terminal generating the prize.
+4 (2) A redeemable share that may be inserted into video gaming terminals at the
+5 same location of the video gaming terminal generating the prize for credits for
+6 the play of video gaming games. Such share shall be used by the player
+7 winning the prize only.
+8 (e) No cash award on any individual wager shall exceed one thousand one hundred
+9 ninety-nine dollars ($1,199).
+10 (f) For the purposes of marketing, promotional credits may be issued solely to be used
+11 on a lawful video gaming terminal.
+12 (g) All winnings are subject to the State income tax.
+13 "§§ 18C-1116 through 18C-1119. Reserved for future codification purposes.
+14 "§ 18C-1120. Fees.
+15 (a) All applications for licensure under this section shall be accompanied by an
+16 application fee of two hundred fifty dollars ($250.00) plus any cost determined by the
+17 Commission for the criminal and financial record checks required under this Article. The
+18 Commission shall use the fees collected under this subsection to cover the costs associated with
+19 reviewing the application.
+20 (b) The Commission shall charge fees for an initial license as follows:
+21 (1) Manufacturers. – One hundred fifty thousand dollars ($150,000).
+22 (2) Operators. – Two hundred fifty thousand dollars ($250,000), plus one hundred
+23 fifty dollars ($150.00) per video gaming terminal in each retail location.
+24 (3) Video gaming merchants. – One thousand five hundred dollars ($1,500) per
+25 retail location.
+26 (c) The Commission shall charge fees for renewal of a license as follows:
+27 (1) Manufacturers. – One hundred thousand dollars ($100,000).
+28 (2) Operators. – One hundred thousand dollars ($100,000), plus one hundred fifty
+29 dollars ($150.00) per video gaming terminal in each retail location.
+30 (3) Video gaming merchants. – One thousand dollars ($1,000) per retail location.
+31 (d) The initial license issued by the Commission shall be valid for two years unless the
+32 license is canceled or terminated. All renewals shall be valid for one year.
+33 (e) A license issued by the Commission may be transferred or assigned, provided the new
+34 license holder submits a new application and associated fees required under subsection (a) of this
+35 section and is approved for licensure by the Commission.
+36 (f) All license fees collected pursuant to this section shall be transferred to the North
+37 Carolina Video Gaming Fund established under G.S. 18C-1104.
+38 "§ 18C-1121. Reserved for future codification purposes.
+39 "§ 18C-1122. Multiple types of licenses.
+40 (a) A manufacturer, or any affiliate company, employee, beneficiary, stockholder,
+41 officer, director, member, partner, or immediate family member of a manufacturer, shall be
+42 ineligible for a license to be a video gaming merchant or operator. An operator, or any affiliate
+43 company, employee, beneficiary, stockholder, officer, director, member, partner, or immediate
+44 family member of an operator, shall be ineligible for a license to be a manufacturer or video
+45 gaming merchant. A video gaming merchant, or any affiliate company, employee, beneficiary,
+46 stockholder, officer, director, member, partner, or immediate family member of a video gaming
+47 merchant, shall be ineligible for a license to be a manufacturer or operator.
+48 (b) When contracting for a central monitoring system under Part 3 of this Article, the
+49 Commission may contract with a manufacturer if the Commission is satisfied that the
+50 manufacturer shall not use any knowledge or control of the central monitoring system to
+House Bill 999-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 advantage that manufacturer, an operator associated with that manufacturer, or a video gaming
+2 merchant with whom that manufacturer's video gaming terminals are placed.
+3 (c) The Commission shall strive to have (i) no fewer than five manufacturers licensed in
+4 this State at all times and (ii) no fewer than 12 operators licensed in this State at all times.
+5 "§ 18C-1123. Reserved for future codification purposes.
+6 "§ 18C-1124. General duties of licensees.
+7 All licensees under this Article shall do all of the following:
+8 (1) Promptly report to the Commission any factors or circumstances related to
+9 video gaming games operated under this Article that constitute a violation of
+10 this Article or any other State or federal law.
+11 (2) Promptly report to the Commission if the licensee or any of the licensee's
+12 officers or directors have been convicted of a felony or any gambling offense
+13 in any state or federal court of the United States at any time following
+14 submission of an application or receipt of a license under this Article.
+15 (3) Conduct all video gaming activities and functions in a manner that does not
+16 pose a threat to the public health, safety, or welfare of the citizens of this State
+17 and that does not adversely affect the security and integrity of the lottery or
+18 harm video gaming games.
+19 (4) Hold the Commission and the State of North Carolina harmless from and
+20 defend and pay for the defense of any and all claims that may be asserted
+21 against a license holder, this State, or the Commission and its employees
+22 arising from the license holder's participation in or operation of video gaming
+23 games.
+24 (5) Assist the Commission in maximizing video gaming games revenue to the
+25 State.
+26 (6) Maintain all records required by the Commission.
+27 (7) Keep current in all payments and obligations to the Commission.
+28 (8) Provide access to the Commission and law enforcement officers when
+29 required under Part 4 of this Article.
+30 "§§ 18C-1125 through 18C-1129. Reserved for future codification purposes.
+31 "Part 3. Video Gaming Terminals.
+32 "§ 18C-1130. Possession; permitting.
+33 (a) Every video gaming terminal shall have a video gaming terminal permit prior to play
+34 in this State and shall be placed with a video gaming merchant for play.
+35 (b) Operators shall file with the Commission the location of each permitted video gaming
+36 terminal and the name and address of the video gaming merchant where each video gaming
+37 terminal for public play is located.
+38 (c) No video gaming terminal shall be issued a permit unless the game software is
+39 certified by an independent testing laboratory. The game software, and any other component
+40 required by the Commission, for all video gaming terminals shall be submitted by the
+41 manufacturer to an independent testing laboratory to test for compliance with Commission rules
+42 and regulations, which shall include compatibility with the central monitoring system.
+43 (d) Any alterations made to the game software shall receive prior approval from the
+44 Commission and recertification from the independent testing laboratory prior to being made.
+45 Failure to receive prior approval of any alterations from the Commission and recertification from
+46 the independent testing laboratory is grounds for revocation of licensure.
+47 (e) The Commission shall not limit licensure or connection to the central monitoring
+48 system to one type of video gaming terminal, one manufacturer, or one operator.
+49 "§ 18C-1131. Reserved for future codification purposes.
+50 "§ 18C-1132. Central monitoring system.
+Page 8 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 The Commission shall contract for a central monitoring system from a supplier of central
+2 monitoring systems. All of the following shall apply to the central monitoring system used by
+3 the Commission for video gaming terminals:
+4 (1) The central monitoring system shall be linked by a communications network
+5 through which all video gaming terminals shall connect to a single point of
+6 commerce.
+7 (2) All video gaming terminals shall be linked by a communications network to
+8 the central monitoring system for purposes of monitoring and reading device
+9 activities as provided in this section.
+10 (3) The Commission shall routinely assess and inspect the operation of the central
+11 monitoring system and shall notify licensees of any deficiencies.
+12 (4) The video gaming terminal shall comply with the standards adopted by the
+13 Commission with regard to the hardware and software requirements of the
+14 central monitoring system.
+15 (5) The central monitoring system shall be designed and operated to allow the
+16 monitoring and reading of video gaming terminals for all of the following:
+17 a. Compliance play.
+18 b. Revenues to the State.
+19 (6) The Commission may contract for the administration of the central monitoring
+20 system but shall be responsible for oversight of that administration.
+21 (7) The central monitoring system shall not provide for the monitoring or reading
+22 of personal or financial information concerning patrons of video gaming
+23 terminals.
+24 "§ 18C-1133. Reserved for future codification purposes.
+25 "§ 18C-1134. Play and posting of odds.
+26 (a) Notwithstanding G.S. 18C-131(d), no person shall sell a share for play of a video
+27 gaming terminal to a person under the age of 21 years. No person under the age of 21 years shall
+28 purchase a share for play of a video gaming terminal or otherwise play a video gaming terminal.
+29 (b) Video gaming terminals shall not allow more than the amount established by the
+30 Commission to be played on a single wager. The odds of winning each video gaming game shall
+31 be posted on or near each video gaming terminal. The manner in which the odds are calculated
+32 and how the odds are posted shall be established by the Commission.
+33 "§ 18C-1135. Voluntary exclusion program for video gaming.
+34 (a) The Commission shall establish a voluntary exclusion program for any individual to
+35 voluntarily exclude themselves from playing video gaming games. Licensees under this Article
+36 shall use reasonable means to comply with the exclusion of individuals participating in the
+37 voluntary exclusion program by the Commission.
+38 (b) The voluntary exclusion program shall be exempt from Chapter 132 of the General
+39 Statutes and shall be treated as confidential by each licensee under this Article. Licensees under
+40 this Article conducting video gaming games in another state may share the information provided
+41 under this section with its agents and affiliates in other states for excluding individuals
+42 participating in the voluntary exclusion program.
+43 "§ 18C-1136. Transportation between licensed video gaming merchant's establishments in
+44 the State.
+45 Any person transporting a video gaming terminal from one video gaming merchant's
+46 establishment to another location, other than for servicing or repair, shall notify the Commission,
+47 in the manner and form established by the Commission, prior to the transportation of the video
+48 gaming terminal.
+49 "§§ 18C-1137 through 18C-1139. Reserved for future codification purposes.
+50 "Part 4. Enforcement.
+51 "§ 18C-1140. Enforcement.
+House Bill 999-First Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (a) The Commission shall have sole regulatory and administrative authority. The
+2 Department of Public Safety, Alcohol Law Enforcement Division, and local law enforcement
+3 shall provide criminal enforcement under this Article.
+4 (b) The Commission shall coordinate with the Department of Public Safety, Alcohol Law
+5 Enforcement Division, and local law enforcement to establish the confidential searchable
+6 database required by G.S. 18C-114(d). The Commission shall strive to provide timely notices to
+7 local law enforcement of convictions, arrests, and other charges against licensees in their
+8 respective jurisdictions.
+9 "§ 18C-1141. Inspection of premises, records, activities.
+10 (a) The Commission, or designated Commission staff, may inspect any video gaming
+11 merchant, operator, or manufacturer. The inspection may include the examination of records,
+12 equipment, and proceeds related to the video gaming games.
+13 (b) In addition to any authority under G.S. 18B-502, the Department of Public Safety,
+14 Alcohol Law Enforcement Division, and local law enforcement shall have authority to
+15 investigate the operation of each licensee under this Article, to make inspections that include
+16 viewing the entire premises, and to examine the books and records of the licensee to procure
+17 evidence of violations of this Chapter or Chapter 18B of the General Statutes. After each
+18 inspection, a report shall be submitted to the Commission, on a form developed by the
+19 Commission, detailing the results of the inspection and any potential violations noted during the
+20 inspection.
+21 (c) Refusal by a licensee or by any employee of a licensee to permit law enforcement
+22 officers or Commission staff to enter the premises to make an inspection authorized by this
+23 section shall be cause for revocation, suspension, or other action against the licensee.
+24 (d) Every video gaming merchant and operator shall provide access to any law
+25 enforcement officer or Commission staff requesting access to the surveillance camera footage of
+26 any video gaming terminal. The Commission shall establish policies regarding custody, security,
+27 and the length of time the surveillance camera footage shall be kept.
+28 (e) Inspections authorized by this section may be made at any time it reasonably appears
+29 that someone is on the premises.
+30 "§ 18C-1142. Criminal offenses.
+31 (a) A person is guilty of a Class 1 misdemeanor for the first offense, a Class H felony for
+32 a second offense, and a Class G felony for a third or subsequent offense for any of the following:
+33 (1) Possession of a video gaming terminal not explicitly authorized by this
+34 Article.
+35 (2) Tampering with a video gaming terminal, software, or associated equipment
+36 with intent to interfere with the proper operation of the video gaming terminal.
+37 (b) A person is guilty of a Class G felony for the first offense and a Class F felony for
+38 any subsequent offense for any of the following:
+39 (1) Intent to manipulate the outcome, payoff, or operation of a video gaming
+40 terminal by physical tampering or any other means.
+41 (2) Falsely reporting, or failing to report, the amount due as required by the
+42 Commission, as a video gaming merchant or operator.
+43 (3) Payment or acceptance of any incentive or inducement prohibited by rule or
+44 policy of the Commission.
+45 (c) Any video gaming merchant who pays a prize to any person in the amount less than
+46 the specified prize won is guilty of a Class G felony.
+47 (d) A person is guilty of a Class 2 misdemeanor for resisting, obstructing, or delaying an
+48 officer attempting to make a lawful inspection under G.S. 18C-1141.
+49 (e) It shall be unlawful to do any of the following:
+50 (1) Sell a redeemable share.
+Page 10 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 (2) Sell a share for play of a video gaming terminal to a person under the age of
+2 21 in violation of G.S. 18C-1134(a).
+3 (3) Purchase a share for play of a video gaming terminal, or otherwise play a video
+4 gaming terminal, by a person under the age of 21 in violation of
+5 G.S. 18C-1134(a).
+6 (4) Substitute in-kind merchandise, goods, services, or other thing of value for the
+7 payment of prizes or winnings under this Article.
+8 (5) Cheat while playing or operating a video gaming terminal.
+9 (6) Claim, collect, or take, or attempt to claim, collect, or take money or anything
+10 of value in or from a video gaming game, with intent to defraud, without
+11 having made a wager contingent on winning the video gaming game.
+12 (7) Claim, collect, or take an amount of money or thing of value greater than the
+13 amount won on a lawfully placed wager on a video gaming terminal.
+14 (8) Possess any key or device designed for the purpose of opening, entering, or
+15 affecting the operation of a video gaming terminal, or an electronic or
+16 mechanical device connected with the video gaming terminal or for the
+17 removing wagers or other contents of a video gaming terminal. This
+18 subdivision shall not apply to a licensee under this Article or an employee of
+19 a licensee under this Article acting in furtherance of the employee's
+20 employment.
+21 (f) Unless a different punishment is otherwise expressly stated, any person who violates
+22 any provision of this Article shall be guilty of a Class 1 misdemeanor. The Commission may
+23 terminate any license issued under this Chapter upon conviction of any crime under this Chapter
+24 or Article 37 of Chapter 14 of the General Statutes.
+25 "§ 18C-1143. Conduct on licensed premises.
+26 (a) It shall be unlawful for a licensee or any employee of the licensee to knowingly allow
+27 any of the following conduct to occur on the licensed premises:
+28 (1) Any violation of this Chapter.
+29 (2) Any violation of Chapter 14 of the General Statutes.
+30 (3) Any violation of Chapter 90 of the General Statutes.
+31 (4) Any other unlawful act.
+32 (b) It shall be unlawful for a licensee to fail to superintend the business for which a license
+33 is issued in person or through an employee of the licensee."
+34 SECTION 2.(a) G.S. 18C-103(4) reads as rewritten:
+35 "(4) "Game" or "lottery game" means any procedure or amusement authorized by
+36 the Commission where prizes are distributed among persons who have paid,
+37 or unconditionally agreed to pay, for tickets or shares that provide the
+38 opportunity to win those prizes and does not utilize a video gaming machine
+39 as defined in G.S. 14-306.1(c).prizes."
+40 SECTION 2.(b) G.S. 18C-113(b) reads as rewritten:
+41 "(b) Records of the Commission shall be open and available to the public in accordance
+42 with Chapter 132 of the General Statutes, except as provided in this Article Chapter or unless
+43 disclosure could be used to potentially (i) provide an unfair advantage to a player or (ii) impair
+44 or adversely impact the security or integrity of the operation of the Lottery, any of its games,
+45 games or gaming activities regulated by the Commission under this Chapter, or investigations
+46 into lottery contractors, potential contractors, licensees, or applicants for licensure under this
+47 Chapter, or potentially fraudulent or other activities in violations of any laws, Lottery laws or
+48 Commission rules, regulations, and policies."
+49 SECTION 2.(c) G.S. 18C-114 reads as rewritten:
+50 "§ 18C-114. Powers and duties of the Commission.
+51 (a) The Commission shall have the following powers and duties:
+House Bill 999-First Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 …
+2 (8) To charge a fee of potential contractors, of lottery contractors, of lottery
+3 retailers, and of licensees and potential licensees and their key persons not to
+4 exceed the cost of the criminal history record check.check, credit check, and
+5 other background checks.
+6 …
+7 (15) To establish requirements for linking all video gaming terminals under a
+8 central monitoring system in accordance with Article 11 of this Chapter,
+9 including creating and maintaining a central monitoring system, which shall
+10 accommodate connection to the central monitoring system by video gaming
+11 terminals of each manufacturer.
+12 (16) To establish criteria for information systems, operating procedures, reporting,
+13 and accounting criteria for video gaming games consistent with Article 11 of
+14 this Chapter.
+15 (17) To establish dispute resolution policies for all licensees under Articles 9, 10,
+16 and 11 of this Chapter, which shall be exhausted prior to any claim being filed
+17 in the courts.
+18 …
+19 (c) The Commission and the Department of Revenue may agree to exchange any data
+20 necessary to enforce and administer Articles 9 and 10 9, 10, and 11 of this Chapter and Article
+21 2E of Chapter 105 of the General Statutes, including information deemed necessary to perform
+22 an audit of a licensee or taxpayer under those Articles."
+23 SECTION 2.(d) G.S. 18C-120(b) reads as rewritten:
+24 "(b) The Director shall have the following powers and duties, under the supervision of the
+25 Commission:
+26 …
+27 (7) To confer with the Commission on the operation and administration of the
+28 Lottery this Chapter and make available for inspection by the Commission all
+29 books, records, files, documents, and other information of the
+30 Lottery.maintained under this Chapter.
+31 …
+32 (12) To engage an independent firm experienced in security procedures, including
+33 computer security and systems security, to conduct a comprehensive study
+34 and evaluation of all aspects of security in the operation of the video gaming
+35 terminals. At a minimum, such a security assessment is to include a review of
+36 network vulnerability, application vulnerability, application code review,
+37 wireless security, security policy and processes, security and privacy program
+38 management, technology infrastructure and security controls, security
+39 organization and governance, and operational effectiveness."
+40 SECTION 2.(e) G.S. 18C-161(3) reads as rewritten:
+41 "(3) All other funds credited or appropriated to the Commission from any source,
+42 except as provided in Articles 9 and 10 9, 10, and 11 of this Chapter."
+43 SECTION 3.(a) Article 2 of Chapter 18C of the General Statutes is amended by
+44 adding a new section to read:
+45 "§ 18C-117. Gifts.
+46 (a) A prohibited giver shall not pay, give, or make any economic opportunity, gift, loan,
+47 gratuity, special discount, favor, hospitality, or service, including food and beverages, having an
+48 aggregate value not exceeding one hundred dollars ($100.00) in any calendar year to the Director,
+49 to any member or employee of the Commission or any member of the immediate family residing
+50 in the same household as one of these individuals.
+Page 12 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 (b) The Director, any member or employee of the Commission, or any member of the
+2 immediate family residing in the same household as one of these individuals shall not accept the
+3 offer of any economic opportunity, gift, loan, gratuity, special discount, favor, hospitality, or
+4 service, including food and beverages having an aggregate value not exceeding one hundred
+5 dollars ($100.00) in any calendar year from a prohibited giver.
+6 (c) For purposes of this section, a prohibited giver is any of the following:
+7 (1) A lottery retailer.
+8 (2) A licensee or applicant to be a licensee under this Chapter.
+9 (3) A lottery contractor or potential contractor.
+10 (4) A lottery supplier."
+11 SECTION 3.(b) G.S. 18C-143(e) is repealed.
+12 SECTION 3.(c) G.S. 18C-151(f) is repealed.
+13 SECTION 4.(a) Chapter 105 of the General Statutes is amended by adding a new
+14 Article to read:
+15 "Article 2F.
+16 "Unauthorized Gaming Machine Tax.
+17 "§ 105-113.150. Purpose.
+18 The purpose of this Article is to levy an excise tax to generate revenue for State and local law
+19 enforcement agencies and for the General Fund. Nothing in this Article may in any manner
+20 provide immunity from criminal prosecution for a person who possesses an illegal gaming
+21 machine.
+22 "§ 105-113.151. Definitions.
+23 The following definitions apply in this Article:
+24 (1) Operator. – A person who places an unauthorized gaming machine for play
+25 by the public or who owns an establishment where an unauthorized gaming
+26 machine is placed for play by the public.
+27 (2) Unauthorized gaming machine. – Any of the following:
+28 a. A video gaming terminal without a valid video gaming terminal permit
+29 under Article 11 of Chapter 18C of the General Statutes.
+30 b. A gaming table prohibited to be used by G.S. 14-289 through
+31 G.S. 14-300.
+32 c. Any illegal punchboard or illegal slot machine.
+33 d. Any video game machine prohibited to be used by G.S. 14-306 or
+34 G.S. 14-306.1A.
+35 e. Any game terminal described in G.S. 14-306.3(b).
+36 f. Any electronic machine or device using an entertaining display in
+37 violation of G.S. 14-306.4.
+38 "§ 105-113.152. Excise tax on unauthorized gaming machines.
+39 (a) Tax. – An excise tax is levied on each unauthorized gaming machine at a rate of ten
+40 thousand dollars ($10,000) per machine.
+41 (b) Payment of Tax. – The tax imposed by this Article is payable by an operator on each
+42 unauthorized gaming machine in this State for which the tax has not been paid, as evidenced by
+43 a stamp. The tax is payable within 48 hours after a non-tax-paid unauthorized gaming machine
+44 is placed by the operator for play by the public, exclusive of Saturdays, Sundays, and legal
+45 holidays of this State, in which case the tax is payable on the next working day. Upon payment
+46 of the tax, the operator shall permanently affix the appropriate stamps to the unauthorized gaming
+47 machine. Once the tax due on an unauthorized gaming machine has been paid, no additional tax
+48 is due under this Article even though the unauthorized gaming machine may be handled by other
+49 operators.
+50 "§ 105-113.153. Revenue stamps; reports.
+House Bill 999-First Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 (a) Revenue Stamps. – The Secretary shall issue stamps to affix to unauthorized gaming
+2 machines to indicate payment of the tax required by this Article. Operators shall report the taxes
+3 payable under this Article at the time and on the return prescribed by the Secretary.
+4 Notwithstanding any other provision of law, operators are not required to give their name,
+5 address, social security number, or other identifying information on the return, and the return is
+6 not required to be verified by oath or affirmation. Upon payment of the tax, the Secretary shall
+7 issue stamps in an amount equal to the amount of the tax paid. Taxes may be paid and stamps
+8 may be issued either by mail or in person.
+9 (b) Reports. – Every local law enforcement agency and every State law enforcement
+10 agency must report to the Department within 48 hours of charging an operator for a violation
+11 related to an unauthorized gaming machine upon which a valid revenue stamp has not been
+12 affixed or seizing an unauthorized gaming machine upon which a valid revenue stamp has not
+13 been affixed. The report must be in the form prescribed by the Secretary, and it must include the
+14 time and place of the charge or seizure, the amount and location of the unauthorized gaming
+15 machines, the identification of any operators charged or associated with the seizure and their
+16 social security numbers, and any other information prescribed by the Secretary. The report must
+17 be made when the charge or seizure involves an unauthorized gaming machine upon which a
+18 stamp has not been affixed as required by this Article.
+19 "§ 105-113.154. Assessments.
+20 Notwithstanding any other provision of law, an assessment against an operator for an
+21 unauthorized gaming machine to which a stamp has not been affixed as required by this Article
+22 shall be made as provided in this section. The Secretary shall assess a tax, applicable penalties,
+23 and interest based on personal knowledge or information available to the Secretary. The Secretary
+24 shall notify the operator in writing of the amount of the tax, penalty, and interest due and demand
+25 its immediate payment. The notice and demand shall be either mailed to the operator at the
+26 operator's last known address or served on the operator in person. If the operator does not pay
+27 the tax, penalty, and interest immediately upon receipt of the notice and demand, the Secretary
+28 shall collect the tax, penalty, and interest pursuant to the jeopardy collection procedures in
+29 G.S. 105-241.23 or the general collection procedures in G.S. 105-242, including causing
+30 execution to be issued immediately against the personal property of the operator, unless the
+31 operator files with the Secretary a bond in the amount of the asserted liability for the tax, penalty,
+32 and interest. The Secretary shall use all means available to collect the tax, penalty, and interest
+33 from any property in which the operator has a legal, equitable, or beneficial interest. The operator
+34 may seek review of the assessment as provided in Article 9 of this Chapter. If the Secretary
+35 assesses more than one operator for the tax on an unauthorized gaming machine, each operator
+36 assessed is jointly and severally liable for the tax.
+37 "§ 105-113.155. Confidentiality of information.
+38 (a) Information obtained by the Department in the course of administering the tax
+39 imposed by this Article, including information on whether the Department has issued a revenue
+40 stamp to a person, is confidential tax information and is subject to the provisions of G.S. 105-259.
+41 (b) Information obtained by the Department from the taxpayer in the course of
+42 administering the tax imposed by this Article, including information on whether the Department
+43 has issued a revenue stamp to a person, may not be used as evidence, as defined in G.S. 15A-971,
+44 by a prosecutor in a criminal prosecution of the taxpayer for an offense related to the possession
+45 or operation of the unauthorized gaming machine. Under this prohibition, no officer, employee,
+46 or agent of the Department may testify about this information in a criminal prosecution of the
+47 taxpayer for an offense related to the possession or operation of the unauthorized gaming
+48 machine. This subsection implements the protections against double jeopardy and
+49 self-incrimination set out in Amendment V of the United States Constitution and the restrictions
+50 in it apply regardless of whether information may be disclosed under G.S. 105-259. An officer,
+Page 14 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 employee, or agent of the Department who provides evidence or testifies in violation of this
+2 subsection is guilty of a Class 1 misdemeanor.
+3 "§ 105-113.156. Use of tax proceeds.
+4 (a) Special Account. – The Unauthorized Gaming Machine Tax Account is established
+5 as a special nonreverting account. The Secretary shall credit the proceeds of the tax levied by this
+6 Article to the Account.
+7 (b) Distribution. – The Secretary shall distribute unencumbered tax proceeds in the
+8 Unauthorized Gaming Machine Tax Account on a quarterly or more frequent basis. Tax proceeds
+9 in the Account are unencumbered when they are collectible under G.S. 105-241.22. The
+10 Secretary shall distribute seventy-five percent (75%) of the unencumbered tax proceeds in the
+11 Account that were collected by assessment to the State or local law enforcement agency that
+12 conducted the investigation of an operator that led to the assessment. If more than one State or
+13 local law enforcement agency conducted the investigation, the Secretary shall determine the
+14 equitable share for each agency based on the contribution each agency made to the investigation.
+15 The Secretary shall credit the remaining unencumbered tax proceeds in the Account to the
+16 General Fund.
+17 (c) Refunds. – The refund of a tax that has already been distributed shall be drawn
+18 initially from the Unauthorized Gaming Machine Tax Account. The amount of refunded taxes
+19 that were distributed to a law enforcement agency under this section and any interest shall be
+20 subtracted from succeeding distributions from the Account to that law enforcement agency. The
+21 amount of refunded taxes that were credited to the General Fund under this section and any
+22 interest shall be subtracted from succeeding credits to the General Fund from the Account.
+23 (d) Use. – Funds provided to State and local law enforcement agencies pursuant to this
+24 section shall be used for expenses incurred by the agency for enforcing the laws of this State and
+25 carrying out other duties set by law. Such funds are supplemental to, and shall not supplant, local
+26 or State funding received by the law enforcement agency."
+27 SECTION 4.(b) This section becomes effective December 1, 2025, and applies to
+28 taxes due on unauthorized gaming machines on or after that date.
+29 SECTION 5. G.S. 14-306.1A is amended by adding a new subsection to read:
+30 "(g) Nothing in this section shall be construed to make illegal any activity conducted
+31 pursuant to Article 11 of Chapter 18C of the General Statutes."
+32 SECTION 6. G.S. 14-306.4 is amended by adding a new subsection to read:
+33 "(d1) Nothing in this section shall be construed to make illegal any activity conducted
+34 pursuant to Article 11 of Chapter 18C of the General Statutes."
+35 SECTION 7. G.S. 105-259(b)(33) reads as rewritten:
+36 "(33) To provide to the North Carolina State Lottery Commission the information
+37 required under G.S. 18C-141 and G.S. 18C-1114 or agreed upon under
+38 G.S. 18C-114(c)."
+39 SECTION 8.(a) G.S. 14-298 reads as rewritten:
+40 "§ 14-298. Seizure of illegal gaming items.
+41 Upon a determination that probable cause exists to believe that any gaming table prohibited
+42 to be used by G.S. 14-289 through G.S. 14-300, any illegal punchboard or illegal slot machine,
+43 any video game machine prohibited to be used by G.S. 14-306 or G.S. 14-306.1A, any game
+44 terminal described in G.S. 14-306.3(b), or any electronic machine or device using an entertaining
+45 display in violation of G.S. 14-306.4 is in the illegal possession or use of any person within the
+46 limits of their jurisdiction, all sheriffs and law enforcement officers are authorized to seize the
+47 items in accordance with applicable State law. Any law enforcement agency in possession of that
+48 item shall retain the item pending a disposition order from a district or superior court judge. Upon
+49 application by the law enforcement agency, district attorney, or owner, and after notice and
+50 opportunity to be heard by all parties, if the court determines that the item is unlawful to possess,
+51 it shall enter an order releasing the item to the law enforcement agency for destruction or for
+House Bill 999-First Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 training purposes. purposes and shall order the owner to pay the reasonable costs of storage and
+2 disposal incurred by the seizing law enforcement agency. If the item was seized for use as
+3 evidence in a criminal action or proceeding against the owner of the item, upon any plea of guilty
+4 or nolo contendere in that action or proceeding by the owner of the item, the court shall order the
+5 owner to pay the reasonable costs of storage and disposal incurred by the seizing law enforcement
+6 agency. If the court determines that the item is not unlawful to possess and will not be used in
+7 violation of the law, the item shall be ordered released to its owner upon satisfactory proof of
+8 ownership. The foregoing procedures for release shall not apply, however, with respect to an
+9 item seized for use as evidence in any criminal action or proceeding until after entry of final
+10 judgment."
+11 SECTION 8.(b) G.S. 14-299 reads as rewritten:
+12 "§ 14-299. Property exhibited by gamblers to be seized; disposition of same.
+13 Except as provided in Chapter 18C of the General Statutes or in G.S. 14-292, all moneys or
+14 other property or thing of value exhibited for the purpose of alluring persons to bet on any game,
+15 or used in the conduct of any such game, including any motor vehicle (i) used in the conduct of
+16 a lottery within the purview of G.S. 14-291.1, G.S. 14-291.1 or (ii) used to transport any video
+17 game machine prohibited by G.S. 14-306 or G.S. 14-306.1A, or any electronic machine or device
+18 prohibited by G.S. 14-306.4, shall be liable to be seized by any court of competent jurisdiction
+19 or by any person acting under its warrant. Moneys so seized shall be turned over to and paid to
+20 the treasurer of the county wherein they are seized, and placed in the general fund of the county.
+21 Any property seized which is used for and is suitable only for gambling shall be destroyed, and
+22 all other property so seized shall be sold in the manner provided for the sale of personal property
+23 by execution, and the proceeds derived from said sale shall (after deducting the expenses of
+24 keeping the property and the costs of the sale and after paying, according to their priorities all
+25 known prior, bona fide liens which were created without the lienor having knowledge or notice
+26 that the motor vehicle or other property was being used or to be used in connection with the
+27 conduct of such game or lottery) be turned over and paid to the treasurer of the county wherein
+28 the property was seized, to be placed by said treasurer in the general fund of the county."
+29 SECTION 8.(c) G.S. 14-306(a) reads as rewritten:
+30 "(a) Any machine, apparatus or device is a slot machine or device within the provisions
+31 of G.S. 14-296 through 14-309, if it is one that is adapted, or may be readily converted into one
+32 that is adapted, for use in such a way that, as a result of the payment of any piece of money or
+33 coin or token or any credit card, debit card, prepaid card, or any other method that requires
+34 payment to activate play, whether directly into the slot machine or device or resulting in remote
+35 activation, such machine or device is caused to operate or may be operated in such manner that
+36 the user may receive or become entitled to receive any piece of money, credit, allowance or thing
+37 of value, or any check, slug, token or memorandum, whether of value or otherwise, or which may
+38 be exchanged for any money, credit, allowance or any thing of value, or which may be given in
+39 trade, or the user may secure additional chances or rights to use such machine, apparatus or
+40 device; or any other machine or device designed and manufactured primarily for use in
+41 connection with gambling and which machine or device is classified by the United States as
+42 requiring a federal gaming device tax stamp under applicable provisions of the Internal Revenue
+43 Code. This definition is intended to embrace all slot machines and similar devices except slot
+44 machines in which is kept any article to be purchased by depositing any coin or thing of value,
+45 and for which may be had any article of merchandise which makes the same return or returns of
+46 equal value each and every time it is operated, or any machine wherein may be seen any pictures
+47 or heard any music by depositing therein any coin or thing of value, or any slot weighing machine
+48 or any machine for making stencils by the use of contrivances operated by depositing in the
+49 machine any coin or thing of value, or any lock operated by slot wherein money or thing of value
+50 is to be deposited, where such slot machines make the same return or returns of equal value each
+51 and every time the same is operated and does not at any time it is operated offer the user or
+Page 16 House Bill 999-First Edition
+General Assembly Of North Carolina Session 2025
+1 operator any additional money, credit, allowance, or thing of value, or check, slug, token or
+2 memorandum, whether of value or otherwise, which may be exchanged for money, credit,
+3 allowance or thing of value or which may be given in trade or by which the user may secure
+4 additional chances or rights to use such machine, apparatus, or device, or in the playing of which
+5 the operator does not have a chance to make varying scores or tallies. Each game console, play
+6 station, or other access point allowing a person to operate a slot machine shall constitute a
+7 separate machine or device."
+8 SECTION 8.(d) This section becomes effective December 1, 2025, and applies to
+9 offenses committed on or after that date.
+10 SECTION 9. The North Carolina State Lottery Commission shall use sufficient
+11 funds from the North Carolina State Lottery Fund to cover initial operating expenses of the
+12 Commission to implement Article 9 of Chapter 18C of the General Statutes, as enacted by this
+13 act, except that the total amount borrowed by the Commission shall not exceed fourteen million
+14 dollars ($14,000,000). Of the borrowed funds, three million dollars ($3,000,000) shall be
+15 transferred to the Department of Public Safety, Alcohol Law Enforcement Division, for
+16 enforcement of this act; one million dollars ($1,000,000) shall be transferred to the Department
+17 of Public Safety for grants to local law enforcement agencies to combat illegal gaming, to be
+18 awarded upon recommendation by the Governor's Crime Commission; and the remainder shall
+19 be available for expenditure for the purposes set forth in this act without further action by the
+20 General Assembly. The Commission shall repay any funds used out of the North Carolina State
+21 Lottery Fund pursuant to this section from amounts allocated to the Commission under
+22 G.S. 18C-1103(1), as enacted by this act, within 24 months after the effective date of this act.
+23 SECTION 10.(a) G.S. 18C-1103, as enacted by this act, reads as rewritten:
+24 "§ 18C-1103. Allocation of revenues.
+25 (a) The Commission shall determine the procedures for the monitoring, collection, and
+26 distribution of net machine revenues from video gaming terminals. The portion of net machine
+27 revenues allocated to the Commission in subdivisions (1) and (2) of this section shall be
+28 transferred before any other allocations are made from the net machine revenues and deposited
+29 into an account as directed by the Commission. The net machine revenues shall be distributed by
+30 the Commission in conformity with the following:
+31 (1) Thirty-two percent (32%) of the total net machine revenues shall be
+32 transferred to the Commission. The Commission shall transfer amounts
+33 allocated under this subdivision to the North Carolina Video Gaming Fund
+34 established under G.S. 18C-1104.
+35 (2) Eight percent (8%) of the total net revenues shall be transferred to the
+36 Commission to be credited as required under this this subdivision. The
+37 revenues allocated under this subdivision shall be credited in the following
+38 priority:
+39 a. Costs to the Commission associated with administering this Article.
+40 b. Costs associated with the central monitoring system.
+41 c. Costs associated with the Department of Public Safety, Alcohol Law
+42 Enforcement Division, associated with enforcement of this Article,
+43 which shall include a transfer of at least three million dollars
+44 ($3,000,000) annually.
+45 d. One million dollars ($1,000,000) annually to the Department of Public
+46 Safety for grants to counties for sheriffs and municipal police
+47 departments to combat illegal gaming, to be awarded upon
+48 recommendation by the Governor's Crime Commission.
+49 e. Two hundred twenty-five thousand dollars ($225,000) annually to the
+50 Conference of District Attorneys for an attorney position dedicated to
+51 the prosecution of illegal gambling activities.
+House Bill 999-First Edition Page 17
+General Assembly Of North Carolina Session 2025
+1 e1. Two million dollars ($2,000,000) in each fiscal year to each of the
+2 following institutions for improving graduation rates and student
+3 success or sustainability of the institution:
+4 1. Elizabeth City State University.
+5 2. Fayetteville State University.
+6 3. North Carolina Agricultural and Technical State University.
+7 4. North Carolina Central University.
+8 5. Winston-Salem State University.
+9 6. University of North Carolina at Pembroke.
+10 f. Remaining proceeds to the North Carolina Video Gaming Fund
+11 established under G.S. 18C-1104.
+12 (3) Thirty percent (30%) of the net machine revenues shall be allocated to
+13 operators.
+14 (4) Thirty percent (30%) of the net machine revenues shall be allocated to video
+15 gaming merchants.
+16 (b) Each of the constituent institutions receiving distributions or a grant under this section
+17 shall annually report to the Joint Legislative Education Oversight Committee as to how that
+18 institution has used the funds from the prior fiscal year, including the measures by which that
+19 institution is gauging success of the programs and other uses of the funds."
+20 SECTION 10.(b) This section becomes effective July 1, 2027, and applies to
+21 transfers made on or after that date.
+22 SECTION 11.(a) The North Carolina State Lottery Commission shall identify a date
+23 upon which video gaming terminal play is authorized in this State and shall do all of the following
+24 at least 90 days in advance of that date:
+25 (1) Publish that date in the North Carolina Registry.
+26 (2) Report that date to the Joint Lottery Oversight Committee.
+27 SECTION 11.(b) The North Carolina State Lottery Commission may adopt rules to
+28 facilitate the licensure authorized in this act prior to the date published in the North Carolina
+29 Registry of the date identified by the North Carolina Lottery Commission under this section;
+30 however, no rule may become effective until on or after that date. The Commission may accept
+31 and issue applications for licensure in accordance with Article 11 of Chapter 18C of the General
+32 Statutes, as enacted by this act, prior to the date published in the North Carolina Registry of the
+33 date identified by the North Carolina Lottery Commission under this section, in order that
+34 licensees may begin operations on that date; however, no license issued by the Commission shall
+35 become effective prior to the date published in the North Carolina Registry of the date identified
+36 by the North Carolina Lottery Commission under this section.
+37 SECTION 12. Sections 1, 2, 3, 5, 6, and 7 of this act become effective December 1,
+38 2025, and, except as otherwise provided, the remainder of this act is effective when it becomes
+39 law. The Lottery Commission may initiate requests for proposals for the central monitoring
+40 system, as required by G.S. 18C-1132, as enacted by this act, prior to December 1, 2025, but may
+41 not award any contract prior to that date.
+Page 18 House Bill 999-First Edition
+[DELETED:  1 R ( R R A A T T S A " " " " I t ( A t o t t c m s f t p o c v p o o f o t v g t ( C t a ( I t i n o s t c b o a i a b t C t ( L d ( M a s o p v g t o a e ( N m r – G r m p a p p m F o s p d n i a p r c U p s n b i i t c o n m]
+[DELETED:  S  H ( O A p – A o m b p o o 1 ( O A p – A o m b p o i ( O – A p l b t C w o l o o p ( V b t ( V a I n p e i t b o v g t b H t b n S c I d W 1 P p 2 P t ( V g t – A d o u t a o t C c s a p t ( V i r ( W – A s o c o a r s r o a u o " " ( T i g o t t S ( N g ( V m]
+[DELETED:  S  P ( T g p b u a n m r b e b t C N t ( E c ( H ( B a A b A c A 1 ( B a O b A ( B t ( S i s n m ( O f ( P e ( C w l v g m f p o v g a ( P i " T o a a d i ( T p ( o t t n m r s b t t t C T C s t a a e ( E p ( o t t n r s b t t t C a C b C c C D a w e o t A w s i a t o a l t m d ( a d O S]
+[DELETED:  S  H t b a u r b t G C C e T C t f R p t t N C V G F e ( T p ( o t n m r s b a t o ( T g " ( A w u c ( T G t ( A s ( U t C w s t a t t N C V G F U p m a t t N C V G F u t s C " " " ( E p t o ( T o t s ( I o u ( O a v g m m m v g t a a s t s ( A t " " ( E a p i s ( o t s a a w t C A]
+[DELETED:  S  P l b t ( T a ( T a H U b E a s o f c o t U S w 1 y o i c H t d E f o ( T ( T ( T i i u f a u a s U r o t D s ( T t ( T a A b A a S c A b b d A p w d a f f t b p ( T C ( T a i a e d o p o p o a ( T a s f a i d c c w f c t a s f w t C a c o a d s i a ( T d f c ( T a]
+[DELETED:  S  H ( A o s n g a o v i a l o a f a t s g e h ( I a t t r p i s ( o t s t C f ( I a p ( I a T l t b T 1 I i 2 R i ( I a t t r p i s ( o t s t C s i g i m a i w d n m t r o s ( o s d ( T p i " ( A T ( T p o s o a b a t v g t ( W ( O ( T r s t c t o a s m ( M t ( A ( N p s r ( E a s a]
+[DELETED:  S  P ( T b ( C ( A s t p o v g g S s s b u b t p w ( N c a a i w e o t o h n ( F o ( A " " ( A a f l u t s s b a b a a f o t h f d ( p a c d b t C f t c a f r c r u t A T C r ( T ( M ( O f ( V r ( T ( M ( O d ( V ( T l ( A l s ( A C " " ( A m o a a c e b s o i c f g s m ( W C m c w a m i t C i s t t m s n u a k o c o t c m s t]
+[DELETED:  S  H a m ( T t " " A ( P v t ( P o i a s o f c o t U S a a t f s ( C p a h ( H d a a l h t o a i e a g ( A S ( M ( K ( P a t t C a l e o w r " " " ( E i ( O t t ( N v g t s b i a p u t g s i c r b t C f a v g t s b s b t m a ( A C F t ( T s " "]
+[DELETED:  S  P T m t ( T t c ( A t a ( T m ( T C c ( T m a C b R ( T s ( T o p o f i c p o v g t " " ( N g p ( V C b a " ( T v s u r m t c w t e o p i t v ( T S t u t s w i a a a i o s f e i p " t A p t a v g t f o v g m e i g " " "]
+[DELETED:  S  H ( T C s h s r a a a T D s ( T E D a l l e t e t c s d l l e o c a a o c a l i t r " ( T m e ( I A L E D a l l e s h a t i v e o v o t C o C 1 o t G S A e i a r s b s t t C o a f d b t C i ( R o b s ( E v g m a o s p a t a l e a a ( I t " ( A a ( P o a v g t n e a b t A ( T w ( A a ( I g t ( F r o f t r t a d a r b t C ( P p ( A t ( A o ( I ( S]
+[DELETED:  S  P ( S 2 ( P g t b a p u t a o 2 i v o G ( S p ( C ( C o h ( C a ( P a t o o a v g t o a e o m d c w t v g t o f t r w o o c o a v g t T s a l u t A a i f o t e e ( U a t o " ( I a ( A ( A ( A ( A ( I i S " " t o u a t p f t o s t p t o a S " R w d o g i C C S " ( T]
+[DELETED:  S  H … ( T c a f o p c o l c o l r e o … ( T e r f l a v g t u a c m s i a w A 1 o t C i a t ( T a t ( T a i … ( T n 2 a S " T C … ( T L b r f d a o i o t L … ( T c a t n v a v a c r w m t i a s c s o S " A e S a " ( A g a t i]
+[DELETED:  S  P ( T i o s d ( F ( A ( A ( A ( A S S S A " " " T e p i f c p f a p w p a i g m " T ( O b m ( U a A u b A g t p t b u b G t G c A d A G G e A f A e m o d u a e d i v " ( T t ( P u a i h o m i o "]
+[DELETED:  S  H ( R m p u t A a t t a o t r p b t S N a o p o l o a n r t g t n a n i m ( R a r a b t m s b s " N a o p o l a a a a o f a u s a s i o t s c t t p a i p t t j c p i G o t g c p i G i c e o o a f m a a " ( I o b t D i t c o a t t i s ( I o b t D f t t i t c o a h b o o t f a o r t t p o o o t u g m T s i t p a d j a s i]
+[DELETED:  S  P e s " ( S a A ( D – T S s d u t p i t U i t A a u w t a c u G T S A c l e T S s c t r u t p i t A t t G ( R – T r o t t h a b d s b d i t s a i ( U s c o S t S " N c p S " N c p S " T r u G a G o a u u G S " U t a t d l i i a o i]
+[DELETED:  S  H t d s I a e o o a v o i j S " E o o a g p o t A a b k k t c t S " A o t c p a t o b t d o a o m o d d a m p f u i c r C m a e o o m i a]
+[DELETED:  S  P o m w o v o o w m b e f m c a a t s p a s S o S f C a d ( O t b f t m d ( s b t t t D o P S A L E D f e o a b G L F p t t s f a a t t C u G S " ( T d r a t t C i s ( a ( o t s s b t i t ( T p ( o t t n m r s b t t t C T C s t a a e ( E p ( o t t n r s b t t t C t b c a r u t t s T r p a C b C c C E w s i a t o a l t m d ( d O S f g t c f s a m p d t c i g t b a u r e T C t]
+[DELETED:  S  H e T f i f i g r a s s 1 E 2 F 3 N 4 N 5 W 6 U f R p t t N C V G F e ( T p ( o t n m r s b a t o ( T g ( E s i i S 1  T s b e J 1 2 a a t t S u a ( P ( R S f R h a S d i b t N C L C u t s i o t l b b S 2 l s n]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 999
+Short Title: Regulation of Video Gaming Terminals. (Public)
+Sponsors: Representatives Warren and Loftis (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AUTHORIZE REGULATED PLAY OF VIDEO GAMING TERMINALS IN
+3 THIS STATE.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 18C of the General Statutes is amended by adding a new
+6 Article to read:
+7 "Article 11.
+8 "Video Gaming Terminals.
+9 "Part 1. General Provisions.
+10 "§ 18C-1100. Definitions.
+11 In addition to the definitions in Article 1 of this Chapter, the following definitions apply in
+12 this Article:
+13 (1) Associated equipment. – Any hardware that is connected to the video gaming
+14 terminal or to the central monitoring system for the purpose of
+15 communication, validation, play, or other functions of the video gaming
+16 terminal.
+17 (2) Central monitoring system. – The system that maintains on a real-time basis
+18 the financial, integrity, and security controls on video gaming terminals and
+19 associated equipment and provides administrative services for its operation.
+20 (3) Independent testing laboratory. – A nationally recognized testing laboratory
+21 that is not otherwise subject to control by others and is approved by the
+22 Commission for use in testing whether a video gaming game or video gaming
+23 terminal complies with the standards set forth in this Article.
+24 (4) Local law enforcement. – A municipal police department, a county police
+25 department, or a sheriff's office.
+26 (5) Manufacturer. – A person licensed by the Commission who manufactures,
+27 assembles, services, or produces video gaming terminals or associated
+28 equipment.
+29 (6) Net machine revenue. – Gross revenue minus prizes actually paid per
+30 machine. For purposes of this subdivision, prizes do not include a player
+31 reward system, player tracking system, marketing, or promotional prizes or
+32 credits. Unclaimed prizes shall not be included in the calculation of net
+33 machine revenue unless redeemed by the player.
+*H999-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 (7) Off-premises ABC permit. – An off-premises malt beverage permit, or
+2 off-premises unfortified or fortified wine permit issued pursuant to Chapter
+3 18B of the General Statutes.
+4 (8) On-premises ABC permit. – An on-premises malt beverage permit,
+5 on-premises unfortified or fortified wine permit, or mixed beverages permit
+6 issued pursuant to Chapter 18B of the General Statutes.
+7 (9) Operator. – A person licensed by the Commission who owns, leases, or
+8 otherwise controls a video gaming terminal for which a video gaming terminal
+9 permit has been issued by the Commission.
+10 (10) Video gaming games. – Electronically simulated games of chance approved
+11 by the Commission that are displayed and played on permitted video gaming
+12 terminals.
+13 (11) Video gaming merchant. – A person that meets all of the following criteria:
+14 a. Is not primarily engaged in the business of offering video gaming
+15 terminals.
+16 b. Holds a valid on-premises or an off-premises ABC permit issued by
+17 the Alcohol Beverage Commission, or a certificate of authority issued
+18 by the Commission under Article 5 of this Chapter for areas that have
+19 not approved the issuance of permits under Chapter 18B of the General
+20 Statutes.
+21 c. Is licensed by the Commission under this Article.
+22 d. With whom an operator has contracted to do the following:
+23 1. Provide video gaming terminals for the placing of wagers and
+24 payment of winnings in accordance with this Article.
+25 2. Pay cash prizes for video gaming games in accordance with
+26 this Article.
+27 (12) Video gaming terminal. – A device operated under the authority of the
+28 Commission that shall be exempt under G.S. 14-306.1A and is any electronic
+29 computerized video game machine that, upon the insertion of cash or a lottery
+30 share, is available to play a video gaming game authorized by the Commission
+31 and which uses a video display and microprocessors in which, by chance, the
+32 player may receive free games or credits that can be redeemed for cash. The
+33 term does not include a device that directly dispenses coins, cash, or tokens.
+34 (13) Video gaming terminal permit. – A permanently affixed tag or other device
+35 issued to a licensed operator for each video gaming terminal approved by and
+36 registered with the Commission.
+37 (14) Wager. – A sum of cash, or a redeemable share, risked on an uncertain
+38 occurrence on any video gaming game.
+39 "§ 18C-1101. Reserved for future codification purposes.
+40 "§ 18C-1102. Video gaming.
+41 (a) The Commission shall determine that video gaming games are a type of lottery game
+42 in this State and shall license operators and video gaming merchants to operate video gaming
+43 games for play by the public. Play of video gaming games shall be deemed a share for purposes
+44 of this Chapter, shall be exempt from G.S. 18C-131(c), and shall be played only on video gaming
+45 terminals with a valid video gaming terminal permit. Except as otherwise provided in this Article,
+46 the provisions of this Chapter shall apply to operation and play of video gaming games in this
+47 State.
+48 (b) No video gaming terminals may be placed on any property owned or controlled by a
+49 governmental entity.
+50 (c) Video gaming terminals and associated equipment shall be connected to a central
+51 monitoring system at all times during play and as otherwise determined by the Commission.
+Page 2 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (d) The Commission shall allow each video gaming operator to operate up to three video
+2 gaming terminals per location and may allow up to an additional three video gaming terminals
+3 per location based upon a net machine revenue benchmark established by the Commission.
+4 Nothing in this subsection shall limit the Commission from reducing the number of video gaming
+5 terminals allowed based upon the net machine revenue benchmark.
+6 (e) Each video gaming terminal for the placing of wagers and payment of winnings shall
+7 comply with all of the following:
+8 (1) Have affixed a valid video gaming terminal permit.
+9 (2) Be located in a building that is more than 1,000 feet of any of the following:
+10 a. A church.
+11 b. A public school.
+12 c. Any nonpublic school as defined by Part 1 or 2 of Article 39 of Chapter
+13 115C of the General Statutes.
+14 (3) Be located in plain view of the following:
+15 a. Other patrons and customers of the video gaming merchant.
+16 b. A surveillance camera that is operated continuously.
+17 (4) Be located within the premises of the video gaming merchant as identified in
+18 their ABC license.
+19 (f) Subdivision (e)(2) of this section shall not apply if the church, public school, or
+20 nonpublic school locates within 1,000 feet of the video gaming merchant after the video gaming
+21 merchant began using the premises for video gaming terminals.
+22 (g) Operators placing video gaming terminals for play in this State may only do the
+23 following:
+24 (1) Purchase, lease, or otherwise obtain video gaming terminals and associated
+25 equipment from manufacturers licensed under this Article.
+26 (2) Contract with licensed video gaming merchants for placement of video
+27 gaming terminals for play by the public with the contract being in a form
+28 approved by the Commission.
+29 (h) Prizes for play of video gaming terminals shall be issued by a share that is redeemable
+30 in accordance with the contract between the operator and the video gaming merchant.
+31 "§ 18C-1103. Allocation of revenues.
+32 The Commission shall determine the procedures for the monitoring, collecting, and remitting
+33 of net machine revenues from video gaming terminals. The portion of net machine revenues
+34 allocated to the Commission in subdivisions (1) and (2) of this section shall be transferred before
+35 any other allocations are made from the net machine revenues and deposited into an account as
+36 directed by the Commission. The net machine revenues shall be distributed by the Commission
+37 in conformity with the following:
+38 (1) Thirty-two percent (32%) of the total net machine revenues shall be
+39 transferred to the Commission. The Commission shall transfer amounts
+40 allocated under this subdivision to the North Carolina Video Gaming Fund
+41 established under G.S. 18C-1104.
+42 (2) Eight percent (8%) of the total net revenues shall be transferred to the
+43 Commission to be credited in the following priority:
+44 a. Costs of the Commission associated with administering this Article.
+45 b. Costs associated with the central monitoring system.
+46 c. Costs of the Department of Public Safety, Alcohol Law Enforcement
+47 Division, associated with enforcement of this Article, which shall
+48 include a transfer of at least three million dollars ($3,000,000)
+49 annually.
+50 d. One million dollars ($1,000,000) annually to the Department of Public
+51 Safety for grants to local law enforcement to combat illegal gaming,
+House Bill 999-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 to be awarded upon recommendation by the Governor's Crime
+2 Commission.
+3 e. Two hundred twenty-five thousand dollars ($225,000) annually to the
+4 Conference of District Attorneys for an attorney position dedicated to
+5 the prosecution of illegal gambling activities.
+6 f Remaining proceeds to the North Carolina Video Gaming Fund
+7 established under G.S. 18C-1104.
+8 (3) Thirty percent (30%) of the net machine revenues shall be allocated to
+9 operators.
+10 (4) Thirty percent (30%) of the net machine revenues shall be allocated to video
+11 gaming merchants.
+12 "§ 18C-1104. North Carolina Video Gaming Fund.
+13 (a) An enterprise fund, to be known as the North Carolina Video Gaming Fund, is created
+14 within the State treasury consisting of the transfer of net machine revenues by the Commission
+15 under this Article, unclaimed prizes deemed abandoned under G.S. 18C-1115(e), licensing fees
+16 collected by the Commission under this Article, and any interest earned on those funds.
+17 (b) The General Assembly shall appropriate the monies in the North Carolina Video
+18 Gaming Fund annually in the Current Operations Appropriations Act based upon estimates of
+19 the net machine revenue from video gaming terminals to the North Carolina Video Gaming Fund.
+20 (c) A security interest shall not be granted in any funds appropriated pursuant to this
+21 section.
+22 (d) Unclaimed prizes deemed abandoned under G.S. 18C-1115(e) shall be transferred to
+23 the Commission who shall transfer the amount to the North Carolina Video Gaming Fund.
+24 Unclaimed prize money allocated to the North Carolina Video Gaming Fund under this
+25 subsection shall be considered separate from, and shall not reduce, the allocations made to the
+26 Commission under G.S. 18C-1103.
+27 "§§ 18C-1105 through 18C-1109. Reserved for future codification purposes.
+28 "Part 2. Licenses and Permits.
+29 "§ 18C-1110. Video gaming permit required on video gaming terminals.
+30 (a) Every video gaming terminal shall have affixed to it a video gaming terminal permit
+31 prior to play in the manner set forth by the Commission. The placement of the video gaming
+32 terminal permit represents that the machine has been registered, inspected, and approved for
+33 operation in the State.
+34 (b) The Commission shall issue the video gaming terminal permit based on the number
+35 of approved video gaming terminals registered with the Commission. The initial video gaming
+36 terminal permit issued for each machine shall be valid for two years, and each successive permit
+37 shall be issued annually thereafter.
+38 (c) It shall be unlawful for a person other than authorized Commission personnel to affix
+39 or remove a video gaming permit. No video gaming terminal may be transported out of this State
+40 until the video gaming permit has been removed.
+41 (d) Operators and video gaming merchants must make video gaming terminals and
+42 associated equipment available for inspection by the Commission. No video gaming terminal
+43 shall be issued a video gaming permit unless the software and hardware of the video gaming
+44 terminal and associated equipment are compatible with the Commission's central monitoring
+45 system and all games installed on the video gaming terminal are approved by the Commission.
+46 (e) Any video gaming terminal that does not display a current and valid video gaming
+47 terminal permit as required by this Article is subject to G.S. 14-298.
+48 "§§ 18C-1111 through 18C-1113. Reserved for future codification purposes.
+49 "§ 18C-1114. Minimum qualifications for all licensees.
+50 (a) Except as provided in subsection (b) of this section, an applicant whom the
+51 Commission determines is qualified to receive a license under this Article shall be issued a
+Page 4 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 license. A person shall not engage in the manufacture, operation, service, or placement for play
+2 by the public of any video gaming terminal without a license issued by the Commission under
+3 this Article.
+4 (b) The Commission shall not approve an applicant for licensure if any of the following
+5 apply at the time of license:
+6 (1) The applicant meets one or more of the following:
+7 a. Has been convicted of a felony in any state or federal court of the
+8 United States within 10 years of issuance of the license.
+9 b. Employs officers or directors who have been convicted of a felony in
+10 any state or federal court of the United States within 10 years of
+11 issuance of the license.
+12 c. Has completed a sentence for a felony in any state or federal court of
+13 the United States within 10 years of issuance of the license.
+14 d. Employs officers or directors who have completed a sentence for a
+15 felony in any state or federal court of the United States within 10 years
+16 of issuance of the license.
+17 (2) The applicant is less than 21 years of age.
+18 (3) The applicant has falsified the application.
+19 (4) The applicant is not current in filing all applicable tax returns to the State and
+20 in payment of all taxes, interest, and penalties owed to the State, excluding
+21 items under formal appeal under applicable statutes. Upon request of the
+22 Director, the Department of Revenue shall provide this information about a
+23 specific person to the Commission.
+24 (5) The applicant fails to provide all information and documentation requested by
+25 the Commission.
+26 (6) The Commission is not satisfied that the applicant is all of the following:
+27 a. A person of good character, honesty, and integrity.
+28 b. A person whose background, including criminal record, reputation,
+29 and associations, does not pose a threat to the public interest of the
+30 State or to the security and integrity of the Commission.
+31 c. A person who, either individually or through employees, demonstrates
+32 business ability and experience to establish, operate, and maintain the
+33 business for the type of license for which the application is made.
+34 d. A person who demonstrates adequate financing for the business
+35 proposed under the type of license for which the application is made.
+36 (7) The applicant resides in the same household as a member or employee of the
+37 Commission.
+38 (8) The applicant is an employee, director, officer, partner, or proprietor of
+39 another manufacturer, operator, or video gaming merchant.
+40 (c) The applicant shall furnish all information, documents, certifications, consents,
+41 waivers, individual history forms, and other materials required or requested by the Commission
+42 for purposes of determining qualification for that type of license. If the applicant is a public
+43 company, the applicant shall file with the Commission a copy of any disclosure statement
+44 involving ownership of the public company required to be filed with the United States Securities
+45 and Exchange Commission.
+46 (d) The applicant shall submit to a background investigation, including each partner,
+47 director, officer, and all stockholders of five percent (5%) or more of any business entity, except
+48 for institutional investors. The application shall be accompanied by a fee to cover the cost of the
+49 criminal and financial record check conducted by the Commission.
+50 (e) The burden of proof for establishing qualification under this section shall be on the
+51 applicant.
+House Bill 999-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (f) An operator shall not give anything of value, including a loan or a financing
+2 arrangement, to any video gaming merchant as an incentive or inducement to locate video gaming
+3 terminals in a specific location. The Commission shall adopt additional rules governing the
+4 exchange of gifts, loans and other financing arrangements, gratuities, special discounts, favors,
+5 hospitality, or service between licensees.
+6 (g) In addition to the requirements provided in subsection (b) of this section, the
+7 Commission shall not approve an application for an operator's license unless at least one of the
+8 following applies:
+9 (1) If an individual, the applicant has been (i) a resident of this State and (ii) an
+10 amusement or game operator in this State for at least two years immediately
+11 preceding the application, without interruption.
+12 (2) If a business entity, the applicant meets all of the following criteria:
+13 a. The applicant has (i) maintained a physical office location and (ii) has
+14 legally been an amusement or game operator in this State for at least
+15 two years immediately preceding the application, without interruption.
+16 b. The applicant has been either of the following:
+17 1. Incorporated or organized in this State for at least two years
+18 immediately preceding the application, without interruption.
+19 2. Registered to do business in this State for at least two years
+20 immediately preceding the application, without interruption.
+21 (h) In addition to the requirements provided in subsection (g) of this section, the
+22 Commission shall not approve an application for an operator's license if, within two years of
+23 submitting an application, a change of control of the applicant has occurred such that a foreign
+24 individual or foreign business entity acquired a majority ownership of the applicant or otherwise
+25 gained effective control of the applicant. For the purposes of this subsection, the term "foreign
+26 individual" means an individual who does not meet the requirements of subdivision (1) of
+27 subsection (g) of this section and the term "foreign business entity" means a business entity that
+28 does not meet the requirements of subdivision (2) of subsection (g) of this section.
+29 (i) The Commission, for cause, may revoke any license issued under this Article. For
+30 purposes of this section, for cause includes any change in circumstances that would have resulted
+31 in the licensee being ineligible for approval of a license at the time of application.
+32 "§ 18C-1115. Advertising, marketing, and prizes.
+33 (a) All advertisement of video gaming games and video gaming terminals is prohibited.
+34 This prohibition includes:
+35 (1) The placement of signage on a building advertising that video gaming
+36 terminals are located within the building.
+37 (2) Websites, social media posts, or other internet-based statements by a licensee.
+38 (3) Online ads.
+39 (4) Television, radio, satellite television, cable television, or any similar
+40 mediums.
+41 (5) Mailings, emails, texts, phone calls, or other direct contact methods, unless
+42 the individual has explicitly consented to the contact.
+43 (6) Any other advertising medium.
+44 (b) Notwithstanding subsection (a) of this section, every video gaming merchant shall
+45 post a sign visible prior to entry that video gaming terminals are at the location. The Commission
+46 shall provide a standard sign to be used by all video gaming merchants and shall establish policies
+47 regarding posting of the standard sign.
+48 (c) Each video gaming merchant must make gaming materials readily available to players
+49 and other patrons within the building where video gaming terminals are located. The materials
+50 shall provide information about, or links to, resources for responsible gaming and gambling
+51 addiction and prevention.
+Page 6 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (d) The payment of winnings from the placing of wagers on video gaming games shall
+2 be a paid to the player winning the prize by either of the following means:
+3 (1) Cash at the location of the video gaming terminal generating the prize.
+4 (2) A redeemable share that may be inserted into video gaming terminals at the
+5 same location of the video gaming terminal generating the prize for credits for
+6 the play of video gaming games. Such share shall be used by the player
+7 winning the prize only.
+8 (e) No cash award on any individual wager shall exceed one thousand one hundred
+9 ninety-nine dollars ($1,199).
+10 (f) For the purposes of marketing, promotional credits may be issued solely to be used
+11 on a lawful video gaming terminal.
+12 (g) All winnings are subject to the State income tax.
+13 "§§ 18C-1116 through 18C-1119. Reserved for future codification purposes.
+14 "§ 18C-1120. Fees.
+15 (a) All applications for licensure under this section shall be accompanied by an
+16 application fee of two hundred fifty dollars ($250.00) plus any cost determined by the
+17 Commission for the criminal and financial record checks required under this Article. The
+18 Commission shall use the fees collected under this subsection to cover the costs associated with
+19 reviewing the application.
+20 (b) The Commission shall charge fees for an initial license as follows:
+21 (1) Manufacturers. – One hundred fifty thousand dollars ($150,000).
+22 (2) Operators. – Two hundred fifty thousand dollars ($250,000), plus one hundred
+23 fifty dollars ($150.00) per video gaming terminal in each retail location.
+24 (3) Video gaming merchants. – One thousand five hundred dollars ($1,500) per
+25 retail location.
+26 (c) The Commission shall charge fees for renewal of a license as follows:
+27 (1) Manufacturers. – One hundred thousand dollars ($100,000).
+28 (2) Operators. – One hundred thousand dollars ($100,000), plus one hundred fifty
+29 dollars ($150.00) per video gaming terminal in each retail location.
+30 (3) Video gaming merchants. – One thousand dollars ($1,000) per retail location.
+31 (d) The initial license issued by the Commission shall be valid for two years unless the
+32 license is canceled or terminated. All renewals shall be valid for one year.
+33 (e) A license issued by the Commission may be transferred or assigned, provided the new
+34 license holder submits a new application and associated fees required under subsection (a) of this
+35 section and is approved for licensure by the Commission.
+36 (f) All license fees collected pursuant to this section shall be transferred to the North
+37 Carolina Video Gaming Fund established under G.S. 18C-1104.
+38 "§ 18C-1121. Reserved for future codification purposes.
+39 "§ 18C-1122. Multiple types of licenses.
+40 (a) A manufacturer, or any affiliate company, employee, beneficiary, stockholder,
+41 officer, director, member, partner, or immediate family member of a manufacturer, shall be
+42 ineligible for a license to be a video gaming merchant or operator. An operator, or any affiliate
+43 company, employee, beneficiary, stockholder, officer, director, member, partner, or immediate
+44 family member of an operator, shall be ineligible for a license to be a manufacturer or video
+45 gaming merchant. A video gaming merchant, or any affiliate company, employee, beneficiary,
+46 stockholder, officer, director, member, partner, or immediate family member of a video gaming
+47 merchant, shall be ineligible for a license to be a manufacturer or operator.
+48 (b) When contracting for a central monitoring system under Part 3 of this Article, the
+49 Commission may contract with a manufacturer if the Commission is satisfied that the
+50 manufacturer shall not use any knowledge or control of the central monitoring system to
+House Bill 999-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 advantage that manufacturer, an operator associated with that manufacturer, or a video gaming
+2 merchant with whom that manufacturer's video gaming terminals are placed.
+3 (c) The Commission shall strive to have (i) no fewer than five manufacturers licensed in
+4 this State at all times and (ii) no fewer than 12 operators licensed in this State at all times.
+5 "§ 18C-1123. Reserved for future codification purposes.
+6 "§ 18C-1124. General duties of licensees.
+7 All licensees under this Article shall do all of the following:
+8 (1) Promptly report to the Commission any factors or circumstances related to
+9 video gaming games operated under this Article that constitute a violation of
+10 this Article or any other State or federal law.
+11 (2) Promptly report to the Commission if the licensee or any of the licensee's
+12 officers or directors have been convicted of a felony or any gambling offense
+13 in any state or federal court of the United States at any time following
+14 submission of an application or receipt of a license under this Article.
+15 (3) Conduct all video gaming activities and functions in a manner that does not
+16 pose a threat to the public health, safety, or welfare of the citizens of this State
+17 and that does not adversely affect the security and integrity of the lottery or
+18 harm video gaming games.
+19 (4) Hold the Commission and the State of North Carolina harmless from and
+20 defend and pay for the defense of any and all claims that may be asserted
+21 against a license holder, this State, or the Commission and its employees
+22 arising from the license holder's participation in or operation of video gaming
+23 games.
+24 (5) Assist the Commission in maximizing video gaming games revenue to the
+25 State.
+26 (6) Maintain all records required by the Commission.
+27 (7) Keep current in all payments and obligations to the Commission.
+28 (8) Provide access to the Commission and law enforcement officers when
+29 required under Part 4 of this Article.
+30 "§§ 18C-1125 through 18C-1129. Reserved for future codification purposes.
+31 "Part 3. Video Gaming Terminals.
+32 "§ 18C-1130. Possession; permitting.
+33 (a) Every video gaming terminal shall have a video gaming terminal permit prior to play
+34 in this State and shall be placed with a video gaming merchant for play.
+35 (b) Operators shall file with the Commission the location of each permitted video gaming
+36 terminal and the name and address of the video gaming merchant where each video gaming
+37 terminal for public play is located.
+38 (c) No video gaming terminal shall be issued a permit unless the game software is
+39 certified by an independent testing laboratory. The game software, and any other component
+40 required by the Commission, for all video gaming terminals shall be submitted by the
+41 manufacturer to an independent testing laboratory to test for compliance with Commission rules
+42 and regulations, which shall include compatibility with the central monitoring system.
+43 (d) Any alterations made to the game software shall receive prior approval from the
+44 Commission and recertification from the independent testing laboratory prior to being made.
+45 Failure to receive prior approval of any alterations from the Commission and recertification from
+46 the independent testing laboratory is grounds for revocation of licensure.
+47 (e) The Commission shall not limit licensure or connection to the central monitoring
+48 system to one type of video gaming terminal, one manufacturer, or one operator.
+49 "§ 18C-1131. Reserved for future codification purposes.
+50 "§ 18C-1132. Central monitoring system.
+Page 8 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 The Commission shall contract for a central monitoring system from a supplier of central
+2 monitoring systems. All of the following shall apply to the central monitoring system used by
+3 the Commission for video gaming terminals:
+4 (1) The central monitoring system shall be linked by a communications network
+5 through which all video gaming terminals shall connect to a single point of
+6 commerce.
+7 (2) All video gaming terminals shall be linked by a communications network to
+8 the central monitoring system for purposes of monitoring and reading device
+9 activities as provided in this section.
+10 (3) The Commission shall routinely assess and inspect the operation of the central
+11 monitoring system and shall notify licensees of any deficiencies.
+12 (4) The video gaming terminal shall comply with the standards adopted by the
+13 Commission with regard to the hardware and software requirements of the
+14 central monitoring system.
+15 (5) The central monitoring system shall be designed and operated to allow the
+16 monitoring and reading of video gaming terminals for all of the following:
+17 a. Compliance play.
+18 b. Revenues to the State.
+19 (6) The Commission may contract for the administration of the central monitoring
+20 system but shall be responsible for oversight of that administration.
+21 (7) The central monitoring system shall not provide for the monitoring or reading
+22 of personal or financial information concerning patrons of video gaming
+23 terminals.
+24 "§ 18C-1133. Reserved for future codification purposes.
+25 "§ 18C-1134. Play and posting of odds.
+26 (a) Notwithstanding G.S. 18C-131(d), no person shall sell a share for play of a video
+27 gaming terminal to a person under the age of 21 years. No person under the age of 21 years shall
+28 purchase a share for play of a video gaming terminal or otherwise play a video gaming terminal.
+29 (b) Video gaming terminals shall not allow more than the amount established by the
+30 Commission to be played on a single wager. The odds of winning each video gaming game shall
+31 be posted on or near each video gaming terminal. The manner in which the odds are calculated
+32 and how the odds are posted shall be established by the Commission.
+33 "§ 18C-1135. Voluntary exclusion program for video gaming.
+34 (a) The Commission shall establish a voluntary exclusion program for any individual to
+35 voluntarily exclude themselves from playing video gaming games. Licensees under this Article
+36 shall use reasonable means to comply with the exclusion of individuals participating in the
+37 voluntary exclusion program by the Commission.
+38 (b) The voluntary exclusion program shall be exempt from Chapter 132 of the General
+39 Statutes and shall be treated as confidential by each licensee under this Article. Licensees under
+40 this Article conducting video gaming games in another state may share the information provided
+41 under this section with its agents and affiliates in other states for excluding individuals
+42 participating in the voluntary exclusion program.
+43 "§ 18C-1136. Transportation between licensed video gaming merchant's establishments in
+44 the State.
+45 Any person transporting a video gaming terminal from one video gaming merchant's
+46 establishment to another location, other than for servicing or repair, shall notify the Commission,
+47 in the manner and form established by the Commission, prior to the transportation of the video
+48 gaming terminal.
+49 "§§ 18C-1137 through 18C-1139. Reserved for future codification purposes.
+50 "Part 4. Enforcement.
+51 "§ 18C-1140. Enforcement.
+House Bill 999-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (a) The Commission shall have sole regulatory and administrative authority. The
+2 Department of Public Safety, Alcohol Law Enforcement Division, and local law enforcement
+3 shall provide criminal enforcement under this Article.
+4 (b) The Commission shall coordinate with the Department of Public Safety, Alcohol Law
+5 Enforcement Division, and local law enforcement to establish the confidential searchable
+6 database required by G.S. 18C-114(d). The Commission shall strive to provide timely notices to
+7 local law enforcement of convictions, arrests, and other charges against licensees in their
+8 respective jurisdictions.
+9 "§ 18C-1141. Inspection of premises, records, activities.
+10 (a) The Commission, or designated Commission staff, may inspect any video gaming
+11 merchant, operator, or manufacturer. The inspection may include the examination of records,
+12 equipment, and proceeds related to the video gaming games.
+13 (b) In addition to any authority under G.S. 18B-502, the Department of Public Safety,
+14 Alcohol Law Enforcement Division, and local law enforcement shall have authority to
+15 investigate the operation of each licensee under this Article, to make inspections that include
+16 viewing the entire premises, and to examine the books and records of the licensee to procure
+17 evidence of violations of this Chapter or Chapter 18B of the General Statutes. After each
+18 inspection, a report shall be submitted to the Commission, on a form developed by the
+19 Commission, detailing the results of the inspection and any potential violations noted during the
+20 inspection.
+21 (c) Refusal by a licensee or by any employee of a licensee to permit law enforcement
+22 officers or Commission staff to enter the premises to make an inspection authorized by this
+23 section shall be cause for revocation, suspension, or other action against the licensee.
+24 (d) Every video gaming merchant and operator shall provide access to any law
+25 enforcement officer or Commission staff requesting access to the surveillance camera footage of
+26 any video gaming terminal. The Commission shall establish policies regarding custody, security,
+27 and the length of time the surveillance camera footage shall be kept.
+28 (e) Inspections authorized by this section may be made at any time it reasonably appears
+29 that someone is on the premises.
+30 "§ 18C-1142. Criminal offenses.
+31 (a) A person is guilty of a Class 1 misdemeanor for the first offense, a Class H felony for
+32 a second offense, and a Class G felony for a third or subsequent offense for any of the following:
+33 (1) Possession of a video gaming terminal not explicitly authorized by this
+34 Article.
+35 (2) Tampering with a video gaming terminal, software, or associated equipment
+36 with intent to interfere with the proper operation of the video gaming terminal.
+37 (b) A person is guilty of a Class G felony for the first offense and a Class F felony for
+38 any subsequent offense for any of the following:
+39 (1) Intent to manipulate the outcome, payoff, or operation of a video gaming
+40 terminal by physical tampering or any other means.
+41 (2) Falsely reporting, or failing to report, the amount due as required by the
+42 Commission, as a video gaming merchant or operator.
+43 (3) Payment or acceptance of any incentive or inducement prohibited by rule or
+44 policy of the Commission.
+45 (c) Any video gaming merchant who pays a prize to any person in the amount less than
+46 the specified prize won is guilty of a Class G felony.
+47 (d) A person is guilty of a Class 2 misdemeanor for resisting, obstructing, or delaying an
+48 officer attempting to make a lawful inspection under G.S. 18C-1141.
+49 (e) It shall be unlawful to do any of the following:
+50 (1) Sell a redeemable share.
+Page 10 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) Sell a share for play of a video gaming terminal to a person under the age of
+2 21 in violation of G.S. 18C-1134(a).
+3 (3) Purchase a share for play of a video gaming terminal, or otherwise play a video
+4 gaming terminal, by a person under the age of 21 in violation of
+5 G.S. 18C-1134(a).
+6 (4) Substitute in-kind merchandise, goods, services, or other thing of value for the
+7 payment of prizes or winnings under this Article.
+8 (5) Cheat while playing or operating a video gaming terminal.
+9 (6) Claim, collect, or take, or attempt to claim, collect, or take money or anything
+10 of value in or from a video gaming game, with intent to defraud, without
+11 having made a wager contingent on winning the video gaming game.
+12 (7) Claim, collect, or take an amount of money or thing of value greater than the
+13 amount won on a lawfully placed wager on a video gaming terminal.
+14 (8) Possess any key or device designed for the purpose of opening, entering, or
+15 affecting the operation of a video gaming terminal, or an electronic or
+16 mechanical device connected with the video gaming terminal or for the
+17 removing wagers or other contents of a video gaming terminal. This
+18 subdivision shall not apply to a licensee under this Article or an employee of
+19 a licensee under this Article acting in furtherance of the employee's
+20 employment.
+21 (f) Unless a different punishment is otherwise expressly stated, any person who violates
+22 any provision of this Article shall be guilty of a Class 1 misdemeanor. The Commission may
+23 terminate any license issued under this Chapter upon conviction of any crime under this Chapter
+24 or Article 37 of Chapter 14 of the General Statutes.
+25 "§ 18C-1143. Conduct on licensed premises.
+26 (a) It shall be unlawful for a licensee or any employee of the licensee to knowingly allow
+27 any of the following conduct to occur on the licensed premises:
+28 (1) Any violation of this Chapter.
+29 (2) Any violation of Chapter 14 of the General Statutes.
+30 (3) Any violation of Chapter 90 of the General Statutes.
+31 (4) Any other unlawful act.
+32 (b) It shall be unlawful for a licensee to fail to superintend the business for which a license
+33 is issued in person or through an employee of the licensee."
+34 SECTION 2.(a) G.S. 18C-103(4) reads as rewritten:
+35 "(4) "Game" or "lottery game" means any procedure or amusement authorized by
+36 the Commission where prizes are distributed among persons who have paid,
+37 or unconditionally agreed to pay, for tickets or shares that provide the
+38 opportunity to win those prizes and does not utilize a video gaming machine
+39 as defined in G.S. 14-306.1(c).prizes."
+40 SECTION 2.(b) G.S. 18C-113(b) reads as rewritten:
+41 "(b) Records of the Commission shall be open and available to the public in accordance
+42 with Chapter 132 of the General Statutes, except as provided in this Article Chapter or unless
+43 disclosure could be used to potentially (i) provide an unfair advantage to a player or (ii) impair
+44 or adversely impact the security or integrity of the operation of the Lottery, any of its games,
+45 games or gaming activities regulated by the Commission under this Chapter, or investigations
+46 into lottery contractors, potential contractors, licensees, or applicants for licensure under this
+47 Chapter, or potentially fraudulent or other activities in violations of any laws, Lottery laws or
+48 Commission rules, regulations, and policies."
+49 SECTION 2.(c) G.S. 18C-114 reads as rewritten:
+50 "§ 18C-114. Powers and duties of the Commission.
+51 (a) The Commission shall have the following powers and duties:
+House Bill 999-First Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 …
+2 (8) To charge a fee of potential contractors, of lottery contractors, of lottery
+3 retailers, and of licensees and potential licensees and their key persons not to
+4 exceed the cost of the criminal history record check.check, credit check, and
+5 other background checks.
+6 …
+7 (15) To establish requirements for linking all video gaming terminals under a
+8 central monitoring system in accordance with Article 11 of this Chapter,
+9 including creating and maintaining a central monitoring system, which shall
+10 accommodate connection to the central monitoring system by video gaming
+11 terminals of each manufacturer.
+12 (16) To establish criteria for information systems, operating procedures, reporting,
+13 and accounting criteria for video gaming games consistent with Article 11 of
+14 this Chapter.
+15 (17) To establish dispute resolution policies for all licensees under Articles 9, 10,
+16 and 11 of this Chapter, which shall be exhausted prior to any claim being filed
+17 in the courts.
+18 …
+19 (c) The Commission and the Department of Revenue may agree to exchange any data
+20 necessary to enforce and administer Articles 9 and 10 9, 10, and 11 of this Chapter and Article
+21 2E of Chapter 105 of the General Statutes, including information deemed necessary to perform
+22 an audit of a licensee or taxpayer under those Articles."
+23 SECTION 2.(d) G.S. 18C-120(b) reads as rewritten:
+24 "(b) The Director shall have the following powers and duties, under the supervision of the
+25 Commission:
+26 …
+27 (7) To confer with the Commission on the operation and administration of the
+28 Lottery this Chapter and make available for inspection by the Commission all
+29 books, records, files, documents, and other information of the
+30 Lottery.maintained under this Chapter.
+31 …
+32 (12) To engage an independent firm experienced in security procedures, including
+33 computer security and systems security, to conduct a comprehensive study
+34 and evaluation of all aspects of security in the operation of the video gaming
+35 terminals. At a minimum, such a security assessment is to include a review of
+36 network vulnerability, application vulnerability, application code review,
+37 wireless security, security policy and processes, security and privacy program
+38 management, technology infrastructure and security controls, security
+39 organization and governance, and operational effectiveness."
+40 SECTION 2.(e) G.S. 18C-161(3) reads as rewritten:
+41 "(3) All other funds credited or appropriated to the Commission from any source,
+42 except as provided in Articles 9 and 10 9, 10, and 11 of this Chapter."
+43 SECTION 3.(a) Article 2 of Chapter 18C of the General Statutes is amended by
+44 adding a new section to read:
+45 "§ 18C-117. Gifts.
+46 (a) A prohibited giver shall not pay, give, or make any economic opportunity, gift, loan,
+47 gratuity, special discount, favor, hospitality, or service, including food and beverages, having an
+48 aggregate value not exceeding one hundred dollars ($100.00) in any calendar year to the Director,
+49 to any member or employee of the Commission or any member of the immediate family residing
+50 in the same household as one of these individuals.
+Page 12 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (b) The Director, any member or employee of the Commission, or any member of the
+2 immediate family residing in the same household as one of these individuals shall not accept the
+3 offer of any economic opportunity, gift, loan, gratuity, special discount, favor, hospitality, or
+4 service, including food and beverages having an aggregate value not exceeding one hundred
+5 dollars ($100.00) in any calendar year from a prohibited giver.
+6 (c) For purposes of this section, a prohibited giver is any of the following:
+7 (1) A lottery retailer.
+8 (2) A licensee or applicant to be a licensee under this Chapter.
+9 (3) A lottery contractor or potential contractor.
+10 (4) A lottery supplier."
+11 SECTION 3.(b) G.S. 18C-143(e) is repealed.
+12 SECTION 3.(c) G.S. 18C-151(f) is repealed.
+13 SECTION 4.(a) Chapter 105 of the General Statutes is amended by adding a new
+14 Article to read:
+15 "Article 2F.
+16 "Unauthorized Gaming Machine Tax.
+17 "§ 105-113.150. Purpose.
+18 The purpose of this Article is to levy an excise tax to generate revenue for State and local law
+19 enforcement agencies and for the General Fund. Nothing in this Article may in any manner
+20 provide immunity from criminal prosecution for a person who possesses an illegal gaming
+21 machine.
+22 "§ 105-113.151. Definitions.
+23 The following definitions apply in this Article:
+24 (1) Operator. – A person who places an unauthorized gaming machine for play
+25 by the public or who owns an establishment where an unauthorized gaming
+26 machine is placed for play by the public.
+27 (2) Unauthorized gaming machine. – Any of the following:
+28 a. A video gaming terminal without a valid video gaming terminal permit
+29 under Article 11 of Chapter 18C of the General Statutes.
+30 b. A gaming table prohibited to be used by G.S. 14-289 through
+31 G.S. 14-300.
+32 c. Any illegal punchboard or illegal slot machine.
+33 d. Any video game machine prohibited to be used by G.S. 14-306 or
+34 G.S. 14-306.1A.
+35 e. Any game terminal described in G.S. 14-306.3(b).
+36 f. Any electronic machine or device using an entertaining display in
+37 violation of G.S. 14-306.4.
+38 "§ 105-113.152. Excise tax on unauthorized gaming machines.
+39 (a) Tax. – An excise tax is levied on each unauthorized gaming machine at a rate of ten
+40 thousand dollars ($10,000) per machine.
+41 (b) Payment of Tax. – The tax imposed by this Article is payable by an operator on each
+42 unauthorized gaming machine in this State for which the tax has not been paid, as evidenced by
+43 a stamp. The tax is payable within 48 hours after a non-tax-paid unauthorized gaming machine
+44 is placed by the operator for play by the public, exclusive of Saturdays, Sundays, and legal
+45 holidays of this State, in which case the tax is payable on the next working day. Upon payment
+46 of the tax, the operator shall permanently affix the appropriate stamps to the unauthorized gaming
+47 machine. Once the tax due on an unauthorized gaming machine has been paid, no additional tax
+48 is due under this Article even though the unauthorized gaming machine may be handled by other
+49 operators.
+50 "§ 105-113.153. Revenue stamps; reports.
+House Bill 999-First Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (a) Revenue Stamps. – The Secretary shall issue stamps to affix to unauthorized gaming
+2 machines to indicate payment of the tax required by this Article. Operators shall report the taxes
+3 payable under this Article at the time and on the return prescribed by the Secretary.
+4 Notwithstanding any other provision of law, operators are not required to give their name,
+5 address, social security number, or other identifying information on the return, and the return is
+6 not required to be verified by oath or affirmation. Upon payment of the tax, the Secretary shall
+7 issue stamps in an amount equal to the amount of the tax paid. Taxes may be paid and stamps
+8 may be issued either by mail or in person.
+9 (b) Reports. – Every local law enforcement agency and every State law enforcement
+10 agency must report to the Department within 48 hours of charging an operator for a violation
+11 related to an unauthorized gaming machine upon which a valid revenue stamp has not been
+12 affixed or seizing an unauthorized gaming machine upon which a valid revenue stamp has not
+13 been affixed. The report must be in the form prescribed by the Secretary, and it must include the
+14 time and place of the charge or seizure, the amount and location of the unauthorized gaming
+15 machines, the identification of any operators charged or associated with the seizure and their
+16 social security numbers, and any other information prescribed by the Secretary. The report must
+17 be made when the charge or seizure involves an unauthorized gaming machine upon which a
+18 stamp has not been affixed as required by this Article.
+19 "§ 105-113.154. Assessments.
+20 Notwithstanding any other provision of law, an assessment against an operator for an
+21 unauthorized gaming machine to which a stamp has not been affixed as required by this Article
+22 shall be made as provided in this section. The Secretary shall assess a tax, applicable penalties,
+23 and interest based on personal knowledge or information available to the Secretary. The Secretary
+24 shall notify the operator in writing of the amount of the tax, penalty, and interest due and demand
+25 its immediate payment. The notice and demand shall be either mailed to the operator at the
+26 operator's last known address or served on the operator in person. If the operator does not pay
+27 the tax, penalty, and interest immediately upon receipt of the notice and demand, the Secretary
+28 shall collect the tax, penalty, and interest pursuant to the jeopardy collection procedures in
+29 G.S. 105-241.23 or the general collection procedures in G.S. 105-242, including causing
+30 execution to be issued immediately against the personal property of the operator, unless the
+31 operator files with the Secretary a bond in the amount of the asserted liability for the tax, penalty,
+32 and interest. The Secretary shall use all means available to collect the tax, penalty, and interest
+33 from any property in which the operator has a legal, equitable, or beneficial interest. The operator
+34 may seek review of the assessment as provided in Article 9 of this Chapter. If the Secretary
+35 assesses more than one operator for the tax on an unauthorized gaming machine, each operator
+36 assessed is jointly and severally liable for the tax.
+37 "§ 105-113.155. Confidentiality of information.
+38 (a) Information obtained by the Department in the course of administering the tax
+39 imposed by this Article, including information on whether the Department has issued a revenue
+40 stamp to a person, is confidential tax information and is subject to the provisions of G.S. 105-259.
+41 (b) Information obtained by the Department from the taxpayer in the course of
+42 administering the tax imposed by this Article, including information on whether the Department
+43 has issued a revenue stamp to a person, may not be used as evidence, as defined in G.S. 15A-971,
+44 by a prosecutor in a criminal prosecution of the taxpayer for an offense related to the possession
+45 or operation of the unauthorized gaming machine. Under this prohibition, no officer, employee,
+46 or agent of the Department may testify about this information in a criminal prosecution of the
+47 taxpayer for an offense related to the possession or operation of the unauthorized gaming
+48 machine. This subsection implements the protections against double jeopardy and
+49 self-incrimination set out in Amendment V of the United States Constitution and the restrictions
+50 in it apply regardless of whether information may be disclosed under G.S. 105-259. An officer,
+Page 14 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 employee, or agent of the Department who provides evidence or testifies in violation of this
+2 subsection is guilty of a Class 1 misdemeanor.
+3 "§ 105-113.156. Use of tax proceeds.
+4 (a) Special Account. – The Unauthorized Gaming Machine Tax Account is established
+5 as a special nonreverting account. The Secretary shall credit the proceeds of the tax levied by this
+6 Article to the Account.
+7 (b) Distribution. – The Secretary shall distribute unencumbered tax proceeds in the
+8 Unauthorized Gaming Machine Tax Account on a quarterly or more frequent basis. Tax proceeds
+9 in the Account are unencumbered when they are collectible under G.S. 105-241.22. The
+10 Secretary shall distribute seventy-five percent (75%) of the unencumbered tax proceeds in the
+11 Account that were collected by assessment to the State or local law enforcement agency that
+12 conducted the investigation of an operator that led to the assessment. If more than one State or
+13 local law enforcement agency conducted the investigation, the Secretary shall determine the
+14 equitable share for each agency based on the contribution each agency made to the investigation.
+15 The Secretary shall credit the remaining unencumbered tax proceeds in the Account to the
+16 General Fund.
+17 (c) Refunds. – The refund of a tax that has already been distributed shall be drawn
+18 initially from the Unauthorized Gaming Machine Tax Account. The amount of refunded taxes
+19 that were distributed to a law enforcement agency under this section and any interest shall be
+20 subtracted from succeeding distributions from the Account to that law enforcement agency. The
+21 amount of refunded taxes that were credited to the General Fund under this section and any
+22 interest shall be subtracted from succeeding credits to the General Fund from the Account.
+23 (d) Use. – Funds provided to State and local law enforcement agencies pursuant to this
+24 section shall be used for expenses incurred by the agency for enforcing the laws of this State and
+25 carrying out other duties set by law. Such funds are supplemental to, and shall not supplant, local
+26 or State funding received by the law enforcement agency."
+27 SECTION 4.(b) This section becomes effective December 1, 2025, and applies to
+28 taxes due on unauthorized gaming machines on or after that date.
+29 SECTION 5. G.S. 14-306.1A is amended by adding a new subsection to read:
+30 "(g) Nothing in this section shall be construed to make illegal any activity conducted
+31 pursuant to Article 11 of Chapter 18C of the General Statutes."
+32 SECTION 6. G.S. 14-306.4 is amended by adding a new subsection to read:
+33 "(d1) Nothing in this section shall be construed to make illegal any activity conducted
+34 pursuant to Article 11 of Chapter 18C of the General Statutes."
+35 SECTION 7. G.S. 105-259(b)(33) reads as rewritten:
+36 "(33) To provide to the North Carolina State Lottery Commission the information
+37 required under G.S. 18C-141 and G.S. 18C-1114 or agreed upon under
+38 G.S. 18C-114(c)."
+39 SECTION 8.(a) G.S. 14-298 reads as rewritten:
+40 "§ 14-298. Seizure of illegal gaming items.
+41 Upon a determination that probable cause exists to believe that any gaming table prohibited
+42 to be used by G.S. 14-289 through G.S. 14-300, any illegal punchboard or illegal slot machine,
+43 any video game machine prohibited to be used by G.S. 14-306 or G.S. 14-306.1A, any game
+44 terminal described in G.S. 14-306.3(b), or any electronic machine or device using an entertaining
+45 display in violation of G.S. 14-306.4 is in the illegal possession or use of any person within the
+46 limits of their jurisdiction, all sheriffs and law enforcement officers are authorized to seize the
+47 items in accordance with applicable State law. Any law enforcement agency in possession of that
+48 item shall retain the item pending a disposition order from a district or superior court judge. Upon
+49 application by the law enforcement agency, district attorney, or owner, and after notice and
+50 opportunity to be heard by all parties, if the court determines that the item is unlawful to possess,
+51 it shall enter an order releasing the item to the law enforcement agency for destruction or for
+House Bill 999-First Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 training purposes. purposes and shall order the owner to pay the reasonable costs of storage and
+2 disposal incurred by the seizing law enforcement agency. If the item was seized for use as
+3 evidence in a criminal action or proceeding against the owner of the item, upon any plea of guilty
+4 or nolo contendere in that action or proceeding by the owner of the item, the court shall order the
+5 owner to pay the reasonable costs of storage and disposal incurred by the seizing law enforcement
+6 agency. If the court determines that the item is not unlawful to possess and will not be used in
+7 violation of the law, the item shall be ordered released to its owner upon satisfactory proof of
+8 ownership. The foregoing procedures for release shall not apply, however, with respect to an
+9 item seized for use as evidence in any criminal action or proceeding until after entry of final
+10 judgment."
+11 SECTION 8.(b) G.S. 14-299 reads as rewritten:
+12 "§ 14-299. Property exhibited by gamblers to be seized; disposition of same.
+13 Except as provided in Chapter 18C of the General Statutes or in G.S. 14-292, all moneys or
+14 other property or thing of value exhibited for the purpose of alluring persons to bet on any game,
+15 or used in the conduct of any such game, including any motor vehicle (i) used in the conduct of
+16 a lottery within the purview of G.S. 14-291.1, G.S. 14-291.1 or (ii) used to transport any video
+17 game machine prohibited by G.S. 14-306 or G.S. 14-306.1A, or any electronic machine or device
+18 prohibited by G.S. 14-306.4, shall be liable to be seized by any court of competent jurisdiction
+19 or by any person acting under its warrant. Moneys so seized shall be turned over to and paid to
+20 the treasurer of the county wherein they are seized, and placed in the general fund of the county.
+21 Any property seized which is used for and is suitable only for gambling shall be destroyed, and
+22 all other property so seized shall be sold in the manner provided for the sale of personal property
+23 by execution, and the proceeds derived from said sale shall (after deducting the expenses of
+24 keeping the property and the costs of the sale and after paying, according to their priorities all
+25 known prior, bona fide liens which were created without the lienor having knowledge or notice
+26 that the motor vehicle or other property was being used or to be used in connection with the
+27 conduct of such game or lottery) be turned over and paid to the treasurer of the county wherein
+28 the property was seized, to be placed by said treasurer in the general fund of the county."
+29 SECTION 8.(c) G.S. 14-306(a) reads as rewritten:
+30 "(a) Any machine, apparatus or device is a slot machine or device within the provisions
+31 of G.S. 14-296 through 14-309, if it is one that is adapted, or may be readily converted into one
+32 that is adapted, for use in such a way that, as a result of the payment of any piece of money or
+33 coin or token or any credit card, debit card, prepaid card, or any other method that requires
+34 payment to activate play, whether directly into the slot machine or device or resulting in remote
+35 activation, such machine or device is caused to operate or may be operated in such manner that
+36 the user may receive or become entitled to receive any piece of money, credit, allowance or thing
+37 of value, or any check, slug, token or memorandum, whether of value or otherwise, or which may
+38 be exchanged for any money, credit, allowance or any thing of value, or which may be given in
+39 trade, or the user may secure additional chances or rights to use such machine, apparatus or
+40 device; or any other machine or device designed and manufactured primarily for use in
+41 connection with gambling and which machine or device is classified by the United States as
+42 requiring a federal gaming device tax stamp under applicable provisions of the Internal Revenue
+43 Code. This definition is intended to embrace all slot machines and similar devices except slot
+44 machines in which is kept any article to be purchased by depositing any coin or thing of value,
+45 and for which may be had any article of merchandise which makes the same return or returns of
+46 equal value each and every time it is operated, or any machine wherein may be seen any pictures
+47 or heard any music by depositing therein any coin or thing of value, or any slot weighing machine
+48 or any machine for making stencils by the use of contrivances operated by depositing in the
+49 machine any coin or thing of value, or any lock operated by slot wherein money or thing of value
+50 is to be deposited, where such slot machines make the same return or returns of equal value each
+51 and every time the same is operated and does not at any time it is operated offer the user or
+Page 16 House Bill 999-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 operator any additional money, credit, allowance, or thing of value, or check, slug, token or
+2 memorandum, whether of value or otherwise, which may be exchanged for money, credit,
+3 allowance or thing of value or which may be given in trade or by which the user may secure
+4 additional chances or rights to use such machine, apparatus, or device, or in the playing of which
+5 the operator does not have a chance to make varying scores or tallies. Each game console, play
+6 station, or other access point allowing a person to operate a slot machine shall constitute a
+7 separate machine or device."
+8 SECTION 8.(d) This section becomes effective December 1, 2025, and applies to
+9 offenses committed on or after that date.
+10 SECTION 9. The North Carolina State Lottery Commission shall use sufficient
+11 funds from the North Carolina State Lottery Fund to cover initial operating expenses of the
+12 Commission to implement Article 9 of Chapter 18C of the General Statutes, as enacted by this
+13 act, except that the total amount borrowed by the Commission shall not exceed fourteen million
+14 dollars ($14,000,000). Of the borrowed funds, three million dollars ($3,000,000) shall be
+15 transferred to the Department of Public Safety, Alcohol Law Enforcement Division, for
+16 enforcement of this act; one million dollars ($1,000,000) shall be transferred to the Department
+17 of Public Safety for grants to local law enforcement agencies to combat illegal gaming, to be
+18 awarded upon recommendation by the Governor's Crime Commission; and the remainder shall
+19 be available for expenditure for the purposes set forth in this act without further action by the
+20 General Assembly. The Commission shall repay any funds used out of the North Carolina State
+21 Lottery Fund pursuant to this section from amounts allocated to the Commission under
+22 G.S. 18C-1103(1), as enacted by this act, within 24 months after the effective date of this act.
+23 SECTION 10.(a) G.S. 18C-1103, as enacted by this act, reads as rewritten:
+24 "§ 18C-1103. Allocation of revenues.
+25 (a) The Commission shall determine the procedures for the monitoring, collection, and
+26 distribution of net machine revenues from video gaming terminals. The portion of net machine
+27 revenues allocated to the Commission in subdivisions (1) and (2) of this section shall be
+28 transferred before any other allocations are made from the net machine revenues and deposited
+29 into an account as directed by the Commission. The net machine revenues shall be distributed by
+30 the Commission in conformity with the following:
+31 (1) Thirty-two percent (32%) of the total net machine revenues shall be
+32 transferred to the Commission. The Commission shall transfer amounts
+33 allocated under this subdivision to the North Carolina Video Gaming Fund
+34 established under G.S. 18C-1104.
+35 (2) Eight percent (8%) of the total net revenues shall be transferred to the
+36 Commission to be credited as required under this this subdivision. The
+37 revenues allocated under this subdivision shall be credited in the following
+38 priority:
+39 a. Costs to the Commission associated with administering this Article.
+40 b. Costs associated with the central monitoring system.
+41 c. Costs associated with the Department of Public Safety, Alcohol Law
+42 Enforcement Division, associated with enforcement of this Article,
+43 which shall include a transfer of at least three million dollars
+44 ($3,000,000) annually.
+45 d. One million dollars ($1,000,000) annually to the Department of Public
+46 Safety for grants to counties for sheriffs and municipal police
+47 departments to combat illegal gaming, to be awarded upon
+48 recommendation by the Governor's Crime Commission.
+49 e. Two hundred twenty-five thousand dollars ($225,000) annually to the
+50 Conference of District Attorneys for an attorney position dedicated to
+51 the prosecution of illegal gambling activities.
+House Bill 999-First Edition Page 17
+
+General Assembly Of North Carolina Session 2025
+1 e1. Two million dollars ($2,000,000) in each fiscal year to each of the
+2 following institutions for improving graduation rates and student
+3 success or sustainability of the institution:
+4 1. Elizabeth City State University.
+5 2. Fayetteville State University.
+6 3. North Carolina Agricultural and Technical State University.
+7 4. North Carolina Central University.
+8 5. Winston-Salem State University.
+9 6. University of North Carolina at Pembroke.
+10 f. Remaining proceeds to the North Carolina Video Gaming Fund
+11 established under G.S. 18C-1104.
+12 (3) Thirty percent (30%) of the net machine revenues shall be allocated to
+13 operators.
+14 (4) Thirty percent (30%) of the net machine revenues shall be allocated to video
+15 gaming merchants.
+16 (b) Each of the constituent institutions receiving distributions or a grant under this section
+17 shall annually report to the Joint Legislative Education Oversight Committee as to how that
+18 institution has used the funds from the prior fiscal year, including the measures by which that
+19 institution is gauging success of the programs and other uses of the funds."
+20 SECTION 10.(b) This section becomes effective July 1, 2027, and applies to
+21 transfers made on or after that date.
+22 SECTION 11.(a) The North Carolina State Lottery Commission shall identify a date
+23 upon which video gaming terminal play is authorized in this State and shall do all of the following
+24 at least 90 days in advance of that date:
+25 (1) Publish that date in the North Carolina Registry.
+26 (2) Report that date to the Joint Lottery Oversight Committee.
+27 SECTION 11.(b) The North Carolina State Lottery Commission may adopt rules to
+28 facilitate the licensure authorized in this act prior to the date published in the North Carolina
+29 Registry of the date identified by the North Carolina Lottery Commission under this section;
+30 however, no rule may become effective until on or after that date. The Commission may accept
+31 and issue applications for licensure in accordance with Article 11 of Chapter 18C of the General
+32 Statutes, as enacted by this act, prior to the date published in the North Carolina Registry of the
+33 date identified by the North Carolina Lottery Commission under this section, in order that
+34 licensees may begin operations on that date; however, no license issued by the Commission shall
+35 become effective prior to the date published in the North Carolina Registry of the date identified
+36 by the North Carolina Lottery Commission under this section.
+37 SECTION 12. Sections 1, 2, 3, 5, 6, and 7 of this act become effective December 1,
+38 2025, and, except as otherwise provided, the remainder of this act is effective when it becomes
+39 law. The Lottery Commission may initiate requests for proposals for the central monitoring
+40 system, as required by G.S. 18C-1132, as enacted by this act, prior to December 1, 2025, but may
+41 not award any contract prior to that date.
+Page 18 House Bill 999-First Edition
+
+[DELETED:  1 R ( R R A A T T S A " " " " I t ( A t o t t c m s f t p o c v p o o f o t v g t ( C t a ( I t i n o s t c b o a i a b t C t ( L d ( M a s o p v g t o a e ( N m r – G r m p a p p m F o s p d n i a p r c U p s n b i i t c o n m]
+[DELETED:  S  H ( O A p – A o m b p o o 1 ( O A p – A o m b p o i ( O – A p l b t C w o l o o p ( V b t ( V a I n p e i t b o v g t b H t b n S c I d W 1 P p 2 P t ( V g t – A d o u t a o t C c s a p t ( V i r ( W – A s o c o a r s r o a u o " " ( T i g o t t S ( N g ( V m]
+[DELETED:  S  P ( T g p b u a n m r b e b t C N t ( E c ( H ( B a A b A c A 1 ( B a O b A ( B t ( S i s n m ( O f ( P e ( C w l v g m f p o v g a ( P i " T o a a d i ( T p ( o t t n m r s b t t t C T C s t a a e ( E p ( o t t n r s b t t t C a C b C c C D a w e o t A w s i a t o a l t m d ( a d O S]
+[DELETED:  S  H t b a u r b t G C C e T C t f R p t t N C V G F e ( T p ( o t n m r s b a t o ( T g " ( A w u c ( T G t ( A s ( U t C w s t a t t N C V G F U p m a t t N C V G F u t s C " " " ( E p t o ( T o t s ( I o u ( O a v g m m m v g t a a s t s ( A t " " ( E a p i s ( o t s a a w t C A]
+[DELETED:  S  P l b t ( T a ( T a H U b E a s o f c o t U S w 1 y o i c H t d E f o ( T ( T ( T i i u f a u a s U r o t D s ( T t ( T a A b A a S c A b b d A p w d a f f t b p ( T C ( T a i a e d o p o p o a ( T a s f a i d c c w f c t a s f w t C a c o a d s i a ( T d f c ( T a]
+[DELETED:  S  H ( A o s n g a o v i a l o a f a t s g e h ( I a t t r p i s ( o t s t C f ( I a p ( I a T l t b T 1 I i 2 R i ( I a t t r p i s ( o t s t C s i g i m a i w d n m t r o s ( o s d ( T p i " ( A T ( T p o s o a b a t v g t ( W ( O ( T r s t c t o a s m ( M t ( A ( N p s r ( E a s a]
+[DELETED:  S  P ( T b ( C ( A s t p o v g g S s s b u b t p w ( N c a a i w e o t o h n ( F o ( A " " ( A a f l u t s s b a b a a f o t h f d ( p a c d b t C f t c a f r c r u t A T C r ( T ( M ( O f ( V r ( T ( M ( O d ( V ( T l ( A l s ( A C " " ( A m o a a c e b s o i c f g s m ( W C m c w a m i t C i s t t m s n u a k o c o t c m s t]
+[DELETED:  S  H a m ( T t " " A ( P v t ( P o i a s o f c o t U S a a t f s ( C p a h ( H d a a l h t o a i e a g ( A S ( M ( K ( P a t t C a l e o w r " " " ( E i ( O t t ( N v g t s b i a p u t g s i c r b t C f a v g t s b s b t m a ( A C F t ( T s " "]
+[DELETED:  S  P T m t ( T t c ( A t a ( T m ( T C c ( T m a C b R ( T s ( T o p o f i c p o v g t " " ( N g p ( V C b a " ( T v s u r m t c w t e o p i t v ( T S t u t s w i a a a i o s f e i p " t A p t a v g t f o v g m e i g " " "]
+[DELETED:  S  H ( T C s h s r a a a T D s ( T E D a l l e t e t c s d l l e o c a a o c a l i t r " ( T m e ( I A L E D a l l e s h a t i v e o v o t C o C 1 o t G S A e i a r s b s t t C o a f d b t C i ( R o b s ( E v g m a o s p a t a l e a a ( I t " ( A a ( P o a v g t n e a b t A ( T w ( A a ( I g t ( F r o f t r t a d a r b t C ( P p ( A t ( A o ( I ( S]
+[DELETED:  S  P ( S 2 ( P g t b a p u t a o 2 i v o G ( S p ( C ( C o h ( C a ( P a t o o a v g t o a e o m d c w t v g t o f t r w o o c o a v g t T s a l u t A a i f o t e e ( U a t o " ( I a ( A ( A ( A ( A ( I i S " " t o u a t p f t o s t p t o a S " R w d o g i C C S " ( T]
+[DELETED:  S  H … ( T c a f o p c o l c o l r e o … ( T e r f l a v g t u a c m s i a w A 1 o t C i a t ( T a t ( T a i … ( T n 2 a S " T C … ( T L b r f d a o i o t L … ( T c a t n v a v a c r w m t i a s c s o S " A e S a " ( A g a t i]
+[DELETED:  S  P ( T i o s d ( F ( A ( A ( A ( A S S S A " " " T e p i f c p f a p w p a i g m " T ( O b m ( U a A u b A g t p t b u b G t G c A d A G G e A f A e m o d u a e d i v " ( T t ( P u a i h o m i o "]
+[DELETED:  S  H ( R m p u t A a t t a o t r p b t S N a o p o l o a n r t g t n a n i m ( R a r a b t m s b s " N a o p o l a a a a o f a u s a s i o t s c t t p a i p t t j c p i G o t g c p i G i c e o o a f m a a " ( I o b t D i t c o a t t i s ( I o b t D f t t i t c o a h b o o t f a o r t t p o o o t u g m T s i t p a d j a s i]
+[DELETED:  S  P e s " ( S a A ( D – T S s d u t p i t U i t A a u w t a c u G T S A c l e T S s c t r u t p i t A t t G ( R – T r o t t h a b d s b d i t s a i ( U s c o S t S " N c p S " N c p S " T r u G a G o a u u G S " U t a t d l i i a o i]
+[DELETED:  S  H t d s I a e o o a v o i j S " E o o a g p o t A a b k k t c t S " A o t c p a t o b t d o a o m o d d a m p f u i c r C m a e o o m i a]
+[DELETED:  S  P o m w o v o o w m b e f m c a a t s p a s S o S f C a d ( O t b f t m d ( s b t t t D o P S A L E D f e o a b G L F p t t s f a a t t C u G S " ( T d r a t t C i s ( a ( o t s s b t i t ( T p ( o t t n m r s b t t t C T C s t a a e ( E p ( o t t n r s b t t t C t b c a r u t t s T r p a C b C c C E w s i a t o a l t m d ( d O S f g t c f s a m p d t c i g t b a u r e T C t]
+[DELETED:  S  H e T f i f i g r a s s 1 E 2 F 3 N 4 N 5 W 6 U f R p t t N C V G F e ( T p ( o t n m r s b a t o ( T g ( E s i i S 1  T s b e J 1 2 a a t t S u a ( P ( R S f R h a S d i b t N C L C u t s i o t l b b S 2 l s n]

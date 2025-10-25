@@ -1,0 +1,221 @@
+Title: SENATE BILL 307
+Official Title: SENATE BILL 307
+Number of Sections: 4
+Source: versions - SL 2025-55
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2025-55
+AN ACT TO CREATE SPECIAL ECONOMIC INTEREST OWNERS OF LIMITED
+LIABILITY COMPANIES AND TO GRANT THEM INFORMATION RIGHTS AND
+STANDING TO SEEK JUDICIAL DISSOLUTION.
+The General Assembly of North Carolina enacts:
+
+Section 2:
+SECTION 1. G.S. 57D-1-03 reads as rewritten:
+"§ 57D-1-03. Definitions.
+Unless otherwise specifically provided, the following definitions apply in this Chapter:
+…
+(10) Economic interest. – The proprietary interest of an interest owner in the
+capital, income, losses, credits, and other economic rights and interests of a
+limited liability company, including the right of the owner of the interest to
+receive distributions from the limited liability company.
+(11) Economic interest owner. – A person person, including a special economic
+interest owner, who owns an economic interest but is not a member.
+…
+(15) Interest owner. – A member or member, an economic interest owner.owner,
+or a special economic interest owner.
+…
+(21) Member. – A person who has been admitted as a member of the LLC as
+provided in the operating agreement or G.S. 57D-3-01, who was a member of
+the LLC immediately before the repeal of Chapter 57C of the General Statutes
+until the person ceases to be a member as provided in the operating agreement
+or G.S. 57D-3-02, or, with respect to a foreign LLC, a person who has been
+admitted as a member of the foreign LLC under the law of the jurisdiction in
+which the foreign LLC is organized until the person ceases to be a member
+under that law.
+…
+(25) Ownership interest. – All of an interest owner's rights and obligations as an
+interest owner in an LLC, including (i) any economic interest, (ii) any right to
+participate in the management or approve actions proposed by persons
+responsible for the management of the LLC, (iii) any right to bring a derivative
+action, and (iv) any right to inspect the books and records of or receive
+information from the LLC.
+(26) Person. – An individual or an entity.
+…
+(32c) Special economic interest owner. – A person who owns an economic interest
+and, as provided in G.S. 57D-3-02, has rights to information and to seek
+dissolution but is not a member.
+…."
+
+Section 3:
+SECTION 2. G.S. 57D-3-02 reads as rewritten:
+*S307-v-4*
+"§ 57D-3-02. Cessation of membership.
+(a) A person ceases to be a member upon the occurrence of any of the following events:
+(1) The person does any of the following:
+a. Becomes a debtor in bankruptcy.
+b. Executes an assignment for the benefit of creditors under any
+applicable law.
+c. Has a general receiver appointed for the person pursuant to
+G.S. 1-507.24 or has a trustee, receiver, or liquidator appointed for the
+person or for all or substantially all of the person's property.
+(2) In the case of an individual, the person's death or being adjudicated by a court
+of competent jurisdiction as incompetent to manage his or her person or
+property.
+(3) In the case of a member with an economic interest, the transfer or
+abandonment of the person's entire economic interest, excluding the
+liquidation of a member's economic interest in connection with the dissolution
+and winding up of the LLC under G.S. 57D-6-08(2), regardless of whether the
+transferee is or becomes a member.
+(4) The person abandoning all of the rights of his or her ownership interest except
+his or her economic interest, or any portion thereof.
+(b) Upon the occurrence of any of the events described in subdivisions (1) and (2)
+subdivision (1) of subsection (a) of this section with respect to a member, that person or that
+person's estate, as applicable, will automatically become an economic interest owner entitled only
+to the economic interest attributable to the person's ownership interest, but that person or that
+person's estate, as applicable, and any other person who ceases to be a member shall remain liable
+to the LLC for any obligation the person may have under G.S. 57D-4-02, 57D-4-06, and
+57D-6-12(a)(2).interest.
+(c) Upon the occurrence of either of the events described in subdivision (2) of subsection
+(a) of this section resulting in a person ceasing to be a member, that person's estate or that person
+through that person's designated agent or court-appointed guardian will automatically become a
+special economic interest owner entitled to all of the following:
+(1) The economic interest attributable to that person's ownership interest.
+(2) That person's information rights as described in G.S. 57D-3-04.
+(3) That person's standing to seek judicial dissolution under G.S. 57D-6-02(2) or
+under an alternative remedy, if applicable, in the operating agreement, unless
+such entitlement to standing has been expressly waived in the operating
+agreement.
+(d) Any person who ceases to be a member upon the occurrence of any of the events
+described in subsection (a) of this section shall remain liable to the LLC for any obligation the
+person may have under G.S. 57D-4-02, 57D-4-06, and 57D-6-12(a)(2)."
+Page 2 Session Law 2025-55 Senate Bill 307
+
+Section 4:
+SECTION 3. This act becomes effective October 1, 2025, and applies to requests
+for information and actions for dissolution commenced on or after that date.
+In the General Assembly read three times and ratified this the 30th day of June, 2025.
+s/ Phil Berger
+President Pro Tempore of the Senate
+s/ Donna McDowell White
+Presiding Officer of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 9:18 a.m. this 3rd day of July, 2025
+Senate Bill 307 Session Law 2025-55 Page 3
+[DELETED:  A T C S E I O O L C A T G T I R A E i – T p i o a i o i t E I M O i t m o a a p b p a ( a r t i t b a r o o r P S a p i G h r t i a t s]
+[DELETED:  S S A T B E a a f t b o c u a H a g r a f t p p t I c j a i t m h o h p o I t c o a m w a e i t t o o t p e e i e t T U t o o a o t e d i s ( a ( t L f a o t p m h u G 5 a U T T T e t s h b e w i t o A]
+[DELETED:  S P0 s s s 3 ]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2025-55
+SENATE BILL 307
+AN ACT TO CREATE SPECIAL ECONOMIC INTEREST OWNERS OF LIMITED
+LIABILITY COMPANIES AND TO GRANT THEM INFORMATION RIGHTS AND
+STANDING TO SEEK JUDICIAL DISSOLUTION.
+The General Assembly of North Carolina enacts:
+SECTION 1. G.S. 57D-1-03 reads as rewritten:
+"§ 57D-1-03. Definitions.
+Unless otherwise specifically provided, the following definitions apply in this Chapter:
+…
+(10) Economic interest. – The proprietary interest of an interest owner in the
+capital, income, losses, credits, and other economic rights and interests of a
+limited liability company, including the right of the owner of the interest to
+receive distributions from the limited liability company.
+(11) Economic interest owner. – A person person, including a special economic
+interest owner, who owns an economic interest but is not a member.
+…
+(15) Interest owner. – A member or member, an economic interest owner.owner,
+or a special economic interest owner.
+…
+(21) Member. – A person who has been admitted as a member of the LLC as
+provided in the operating agreement or G.S. 57D-3-01, who was a member of
+the LLC immediately before the repeal of Chapter 57C of the General Statutes
+until the person ceases to be a member as provided in the operating agreement
+or G.S. 57D-3-02, or, with respect to a foreign LLC, a person who has been
+admitted as a member of the foreign LLC under the law of the jurisdiction in
+which the foreign LLC is organized until the person ceases to be a member
+under that law.
+…
+(25) Ownership interest. – All of an interest owner's rights and obligations as an
+interest owner in an LLC, including (i) any economic interest, (ii) any right to
+participate in the management or approve actions proposed by persons
+responsible for the management of the LLC, (iii) any right to bring a derivative
+action, and (iv) any right to inspect the books and records of or receive
+information from the LLC.
+(26) Person. – An individual or an entity.
+…
+(32c) Special economic interest owner. – A person who owns an economic interest
+and, as provided in G.S. 57D-3-02, has rights to information and to seek
+dissolution but is not a member.
+…."
+SECTION 2. G.S. 57D-3-02 reads as rewritten:
+*S307-v-4*
+
+"§ 57D-3-02. Cessation of membership.
+(a) A person ceases to be a member upon the occurrence of any of the following events:
+(1) The person does any of the following:
+a. Becomes a debtor in bankruptcy.
+b. Executes an assignment for the benefit of creditors under any
+applicable law.
+c. Has a general receiver appointed for the person pursuant to
+G.S. 1-507.24 or has a trustee, receiver, or liquidator appointed for the
+person or for all or substantially all of the person's property.
+(2) In the case of an individual, the person's death or being adjudicated by a court
+of competent jurisdiction as incompetent to manage his or her person or
+property.
+(3) In the case of a member with an economic interest, the transfer or
+abandonment of the person's entire economic interest, excluding the
+liquidation of a member's economic interest in connection with the dissolution
+and winding up of the LLC under G.S. 57D-6-08(2), regardless of whether the
+transferee is or becomes a member.
+(4) The person abandoning all of the rights of his or her ownership interest except
+his or her economic interest, or any portion thereof.
+(b) Upon the occurrence of any of the events described in subdivisions (1) and (2)
+subdivision (1) of subsection (a) of this section with respect to a member, that person or that
+person's estate, as applicable, will automatically become an economic interest owner entitled only
+to the economic interest attributable to the person's ownership interest, but that person or that
+person's estate, as applicable, and any other person who ceases to be a member shall remain liable
+to the LLC for any obligation the person may have under G.S. 57D-4-02, 57D-4-06, and
+57D-6-12(a)(2).interest.
+(c) Upon the occurrence of either of the events described in subdivision (2) of subsection
+(a) of this section resulting in a person ceasing to be a member, that person's estate or that person
+through that person's designated agent or court-appointed guardian will automatically become a
+special economic interest owner entitled to all of the following:
+(1) The economic interest attributable to that person's ownership interest.
+(2) That person's information rights as described in G.S. 57D-3-04.
+(3) That person's standing to seek judicial dissolution under G.S. 57D-6-02(2) or
+under an alternative remedy, if applicable, in the operating agreement, unless
+such entitlement to standing has been expressly waived in the operating
+agreement.
+(d) Any person who ceases to be a member upon the occurrence of any of the events
+described in subsection (a) of this section shall remain liable to the LLC for any obligation the
+person may have under G.S. 57D-4-02, 57D-4-06, and 57D-6-12(a)(2)."
+Page 2 Session Law 2025-55 Senate Bill 307
+
+SECTION 3. This act becomes effective October 1, 2025, and applies to requests
+for information and actions for dissolution commenced on or after that date.
+In the General Assembly read three times and ratified this the 30th day of June, 2025.
+s/ Phil Berger
+President Pro Tempore of the Senate
+s/ Donna McDowell White
+Presiding Officer of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 9:18 a.m. this 3rd day of July, 2025
+Senate Bill 307 Session Law 2025-55 Page 3
+
+[DELETED:  A T C S E I O O L C A T G T I R A E i – T p i o a i o i t E I M O i t m o a a p b p a ( a r t i t b a r o o r P S a p i G h r t i a t s]
+[DELETED:  S S A T B E a a f t b o c u a H a g r a f t p p t I c j a i t m h o h p o I t c o a m w a e i t t o o t p e e i e t T U t o o a o t e d i s ( a ( t L f a o t p m h u G 5 a U T T T e t s h b e w i t o A]
+[DELETED:  S P0 s s s 3 ]

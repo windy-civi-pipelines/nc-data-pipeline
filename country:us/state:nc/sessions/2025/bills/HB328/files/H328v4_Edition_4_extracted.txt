@@ -1,0 +1,1987 @@
+Title: HOUSE BILL 328
+Official Title: HOUSE BILL 328
+Number of Sections: 1
+Source: versions - Edition 4
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+Committee Substitute Favorable 3/25/25
+Committee Substitute #2 Favorable 4/8/25
+Senate Health Care Committee Substitute Adopted 6/17/25
+Short Title: Regulate Hemp-Derived Consumables. (Public)
+Sponsors:
+Referred to:
+March 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REGULATE THE SALE, DISTRIBUTION, AND POSSESSION OF
+3 HEMP-DERIVED CONSUMABLE PRODUCTS AND TO ADD KRATOM AS A
+4 SCHEDULE VI CONTROLLED SUBSTANCE.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. REGULATE HEMP-DERIVED CONSUMABLE PRODUCTS
+8 SECTION 1.(a) The General Statutes are amended by adding a new Chapter to read:
+9 "Chapter 18D.
+10 "Regulation of Hemp-Derived Consumable Products.
+11 "Article 1.
+12 "Regulation of Hemp-Derived Consumable Products.
+13 "§ 18D-100. Definitions.
+14 Unless the context requires otherwise, the following definitions apply in this Chapter:
+15 (1) ALE Division. – The Alcohol Law Enforcement Division of the Department
+16 of Public Safety.
+17 (2) Batch. – The hemp-derived consumable product produced during a period of
+18 time under similar conditions and identified by a specific code that allows
+19 traceability.
+20 (3) Distributor. – A person or entity that delivers or sells hemp-derived
+21 consumable products for the purpose of distribution in commerce.
+22 (4) Exit package. – An opaque bag or other similar opaque covering provided at
+23 the point of sale that satisfies the child-resistant effectiveness standards under
+24 16 C.F.R. § 1700.15(b)(1) when tested in accordance with the requirements
+25 of 16 C.F.R. § 1700.20 in which hemp-derived consumable products are
+26 placed by a seller after being sold to the ultimate consumer of the product.
+27 (5) Hemp. – As defined in G.S. 90-87.
+28 (6) Hemp-derived cannabinoid. – Any phytocannabinoid found in hemp,
+29 including delta-9 tetrahydrocannabinol (delta-9 THC), tetrahydrocannabinolic
+30 acid (THCA), cannabidiol (CBD), cannabidiolic acid (CBDA), cannabinol
+31 (CBN), cannabigerol (CBG), cannabichromene (CBC), cannabicyclol (CBL),
+32 cannabivarin (CBV), tetrahydrocannabivarin (THCV), cannabidivarin
+33 (CBDV), cannabicitran (CBT), delta-7 tetrahydrocannabinol (delta-7 THC),
+34 delta-8 tetrahydrocannibinol (delta-8 THC), or delta-10 tetrahydrocannibinol
+*H328-v-4*
+General Assembly Of North Carolina Session 2025
+1 (delta-10 THC). This term also includes any synthetic cannabinoid derived
+2 from hemp and contained in a hemp-derived consumable product.
+3 (7) Hemp-derived consumable product. – A hemp product that is a finished good
+4 intended for human ingestion or inhalation that at the time of sale to the
+5 ultimate consumer contains a delta-9 THC concentration of not more than
+6 three-tenths of one percent (0.3%) on a dry weight basis. This term does not
+7 include hemp products intended for topical application, or seeds or
+8 seed-derived ingredients that are generally recognized as safe by the United
+9 States Food and Drug Administration (FDA).
+10 (8) Hemp product. – As defined in G.S. 90-87.
+11 (9) Independent testing laboratory. – A laboratory that meets all of the following
+12 conditions:
+13 a. Holds an ISO 17025 accreditation or is registered with the Drug
+14 Enforcement Administration (DEA) in accordance with 21 C.F.R. §
+15 1301.13.
+16 b. Does not have a direct or indirect interest in the entity whose product
+17 is being tested.
+18 c. Does not have a direct or indirect interest in a facility that cultivates,
+19 processes, distributes, dispenses, or sells hemp-derived consumable
+20 products, or prohibited hemp-derived consumable products in this
+21 State or any other jurisdiction.
+22 d. Has entered into a compliance agreement with the ALE Division to
+23 conduct tetrahydrocannabinol concentration sampling and testing
+24 using the high-performance chromatography (HPLC) testing method.
+25 (10) Ingestion. – The process of consuming hemp through the mouth, by
+26 swallowing into the gastrointestinal system or through tissue absorption.
+27 (11) Inhalation. – The process of consuming hemp into the respiratory system
+28 through the mouth or nasal passages.
+29 (12) License. – A license issued in accordance with this Chapter.
+30 (13) Licensee. – A person who has been issued a license in accordance with this
+31 Chapter.
+32 (14) Manufacture. – To compound, blend, extract, infuse, cook, or otherwise
+33 manipulate hemp or a hemp-derived cannabinoid to make, prepare, or package
+34 hemp-derived consumable products.
+35 (15) Manufacturer. – Any person or entity that engages in the process of
+36 manufacturing, preparing, or packaging of hemp-derived consumable
+37 products.
+38 (16) Producer. – Any person or entity licensed to grow hemp by the United States
+39 Department of Agriculture that engages in the process of farming and
+40 harvesting hemp that is intended to be used in the manufacture of a
+41 hemp-derived consumable product.
+42 (17) Prohibited hemp-derived consumable product. – A hemp product that is a
+43 finished good intended for human ingestion or inhalation that contains
+44 concentrations of hemp-derived cannabinoids other than delta-9 THC. This
+45 term does not include hemp products intended for topical application or seeds
+46 or seed-derived ingredients that are generally recognized as safe by the United
+47 States Food and Drug Administration (FDA).
+48 (18) Retail dealer. – Any person who sells a hemp-derived consumable product to
+49 the ultimate consumer of the product, including a remote seller.
+50 (19) Serving. – A quantity of a hemp-derived consumable product reasonably
+51 suitable for a person's use in a single day.
+Page 2 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 "§ 18D-101. Sales restrictions on hemp-derived consumable products.
+2 (a) Restrictions. – No person shall do any of the following:
+3 (1) Sell a hemp-derived consumable product to a person who is under 21 years of
+4 age. Any retail dealer of hemp-derived consumable products shall demand
+5 proof of age from a prospective purchaser of hemp-derived consumable
+6 products before the hemp-derived consumable products are released to the
+7 purchaser if the retail dealer has reasonable grounds to believe that the
+8 prospective purchaser is under 30 years of age. Any retail dealer that sells a
+9 hemp-derived consumable product on an internet website shall verify the age
+10 of any prospective purchaser and shall use a method of delivery that requires
+11 the signature of a person at least 21 years of age before the hemp-derived
+12 consumable product is released.
+13 (2) Knowingly, or having reason to know, distribute samples of hemp-derived
+14 consumable products in or on a public street, sidewalk, park, or public
+15 building.
+16 (3) Engage in the business of selling a hemp-derived consumable product without
+17 a valid license issued in accordance with this Chapter.
+18 (4) Knowingly, or having reason to know, sell a hemp-derived consumable
+19 product that has a concentration of more than three-tenths of one percent
+20 (0.3%) on a dry weight basis of delta-9 tetrahydrocannabinol.
+21 (5) Knowingly, or having reason to know, sell a hemp-derived consumable
+22 product that is not contained in an exit package or a child proof package.
+23 (6) Knowingly, or having reason to know, sell at retail or on an internet website
+24 offering delivery in this State, a hemp-derived consumable product that is not
+25 in compliance with G.S. 18D-105.
+26 (7) Knowingly, or having reason to know, sell at retail hemp flower or a product
+27 containing hemp flower that is not accompanied by a certificate of analysis
+28 issued within the previous six-month period demonstrating that the hemp
+29 flower or product containing hemp flower has a concentration of no more than
+30 three-tenths of one percent (0.3%) on a dry weight basis of delta-9
+31 tetrahydrocannabinol.
+32 (8) Knowingly, or having reason to know, sell or distribute a prohibited
+33 hemp-derived consumable product.
+34 (b) Civil Penalties. – Violation of this section shall have the following penalties:
+35 (1) For the first violation, the ALE Division may impose a civil penalty of no
+36 more than five hundred dollars ($500.00).
+37 (2) For the second violation within three years, the ALE Division may impose a
+38 civil penalty of no more than seven hundred fifty dollars ($750.00).
+39 (3) For the third violation within three years of the first violation, the ALE
+40 Division shall impose a civil penalty of no more than one thousand dollars
+41 ($1,000) and suspend the retail dealer's license for one year.
+42 (4) For a fourth or subsequent violation within three years of the first violation,
+43 the ALE Division shall impose a civil penalty of no more than two thousand
+44 dollars ($2,000) and revoke the retail dealer's license.
+45 (c) Testing Fee. – In any case in which the ALE Division imposes a penalty pursuant to
+46 subsection (b) of this section, for a violation of subdivision (4) of subsection (a) of this section,
+47 the retail dealer shall also pay to the ALE Division the actual costs paid by the ALE Division for
+48 testing of the samples resulting in the violation. Any fee collected pursuant to this subsection
+49 shall be remitted to the ALE Division.
+50 (d) Defenses. – It is a defense to a violation of subdivision (1) of subsection (a) of this
+51 section if the retail dealer does any of the following:
+House Bill 328-Fourth Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (1) Shows that the purchaser produced a drivers license, a special identification
+2 card issued under G.S. 20-37.7 or issued by the state agency of any other state
+3 authorized to issue similar official state special identification cards for that
+4 state, a tribal enrollment card issued by a State or federally recognized Indian
+5 Tribe, a military identification card, or a passport showing the purchaser's age
+6 to be at least the required age for purchase and bearing a physical description
+7 of the person named on the card reasonably describing the purchaser.
+8 (2) Produces evidence of other facts that reasonably indicated at the time of sale
+9 that the purchaser was at least the required age.
+10 (3) Shows that at the time of purchase, the purchaser utilized a biometric
+11 identification system that demonstrated (i) the purchaser's age to be at least
+12 the required age for the purchase and (ii) the purchaser had previously
+13 registered with the retail dealer or retail dealer's agent a drivers license, a
+14 special identification card issued under G.S. 20-37.7 or issued by the state
+15 agency of any other state authorized to issue similar official state special
+16 identification cards for that state, a military identification card, or a passport
+17 showing the purchaser's date of birth and bearing a physical description of the
+18 person named on the document.
+19 (e) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+20 this section, shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+21 G.S. 115C-457.2.
+22 (f) Criminal Penalty. – Any person against whom a civil penalty has been imposed for
+23 violation of subdivision (3) of subsection (a) of this section who commits a second violation of
+24 subdivision (3) of subsection (a) of this section is guilty of a Class A1 misdemeanor. Any person
+25 who commits a third or subsequent violation of subdivision (3) of subsection (a) of this section
+26 is guilty of a Class H felony. Unless another provision of the law providing for greater
+27 punishment applies, any person who commits a violation of subdivision (4) of subsection (a) of
+28 this section is guilty of a Class H felony. Any person who commits a violation of subdivision (8)
+29 of subsection (a) of this section is guilty of a Class G felony.
+30 "§ 18D-101A. Sales and transfer restrictions on a producer.
+31 (a) Restriction. – A producer shall not knowingly sell or in any way transfer hemp that
+32 has been processed or prepared with the intent to be used in a hemp-derived consumable product
+33 to any person or entity other than a manufacturer licensed pursuant to this Chapter.
+34 (b) Prohibition. – A producer shall not knowingly sell or in any way transfer hemp that
+35 has been processed or prepared with the intent to be used in a prohibited hemp-derived
+36 consumable product to any person or entity.
+37 (c) Civil Penalties. – Violation of this section shall have the following penalties:
+38 (1) For the first violation, the ALE Division may impose a civil penalty of no
+39 more than five hundred dollars ($500.00).
+40 (2) For the second violation within three years, the ALE Division may impose a
+41 civil penalty of no more than seven hundred fifty dollars ($750.00).
+42 (3) For the third violation within three years of the first violation, the ALE
+43 Division shall impose a civil penalty of no more than one thousand dollars
+44 ($1,000).
+45 (4) For a fourth or subsequent violation within three years of the first violation,
+46 the ALE Division shall impose a civil penalty of no more than two thousand
+47 dollars ($2,000).
+48 (d) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+49 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+50 G.S. 115C-457.2.
+Page 4 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (e) Criminal Penalty. – Any person against whom a civil penalty has been imposed for
+2 violation of subsection (a) of this section who commits a second violation of this section is guilty
+3 of a Class A1 misdemeanor. Any person who commits a third or subsequent violation of
+4 subsection (a) of this section is guilty of a Class H felony. Any person who commits a violation
+5 of subsection (b) of this section is guilty of a Class G felony.
+6 (f) Applicability of this Section. – Nothing in this section shall be construed as
+7 prohibiting a producer from selling or transferring hemp that is intended to be used in any lawful
+8 product other than those regulated by this Chapter.
+9 "§ 18D-102. Offenses involving the purchase, attempted purchase, or possession of
+10 hemp-derived consumable products by a person under 21 years of age.
+11 (a) It is unlawful for any person to give a hemp-derived consumable product to anyone
+12 less than 21 years old.
+13 (b) It is unlawful for a person less than 21 years old to possess, purchase, or attempt to
+14 purchase a hemp-derived consumable product.
+15 (c) It is unlawful for any person to enter or attempt to enter a place where hemp-derived
+16 consumable products are sold or consumed, or to obtain or attempt to obtain hemp-derived
+17 consumable products, or to obtain or attempt to obtain permission to purchase hemp-derived
+18 consumable products, in violation of subsection (b) of this section, by using or attempting to use
+19 any of the following:
+20 (1) A fraudulent or altered drivers license.
+21 (2) A fraudulent or altered identification document other than a drivers license.
+22 (3) A drivers license issued to another person.
+23 (4) An identification document other than a drivers license issued to another
+24 person.
+25 (5) Any other form or means of identification that indicates or symbolizes that the
+26 person is not prohibited from purchasing or possessing a hemp-derived
+27 consumable product under this section.
+28 (d) It is unlawful for any person to permit the use of the person's drivers license or any
+29 other form of identification of any kind issued or given to the person by any other person who
+30 violates or attempts to violate subsection (b) of this section.
+31 (e) Penalties. –
+32 (1) Any person less than 21 years old who violates this section is guilty of a Class
+33 2 misdemeanor.
+34 (2) Any person at least 21 years old who violates this section is guilty of a Class
+35 1 misdemeanor.
+36 (3) Aiding or abetting a violation of this section shall be punished as provided in
+37 subdivisions (1) and (2) of this subsection, and all other provisions of this
+38 section shall apply to that offense.
+39 (f) Nothing in this section prohibits an underage person from selling, transporting, or
+40 possessing hemp-derived consumable products in the course of employment, if the employment
+41 of the person for that purpose is lawful under applicable youth employment statutes.
+42 "§ 18D-102.5. Offense for possessing prohibited hemp-derived consumable product.
+43 Any person who possesses a prohibited hemp-derived consumable product is guilty of a Class
+44 A1 misdemeanor.
+45 "§ 18D-103. Offenses involving the manufacture and distribution of hemp-derived
+46 consumable products.
+47 (a) Offenses. – It is unlawful for a manufacturer or distributor to do any of the following:
+48 (1) Knowingly, or having reason to know, distribute samples of a hemp-derived
+49 consumable product in or on a public street, sidewalk, park, or public building.
+House Bill 328-Fourth Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (2) Engage in the business of manufacturing or distributing a hemp-derived
+2 consumable product without a valid license issued in accordance with this
+3 Chapter.
+4 (3) Knowingly, or having reason to know, manufacture or distribute a
+5 hemp-derived consumable product that has a concentration of more than
+6 three-tenths of one percent (0.3%) on a dry weight basis of delta-9
+7 tetrahydrocannabinol.
+8 (4) Knowingly, or having reason to know, manufacture or distribute a prohibited
+9 hemp-derived consumable product.
+10 (b) Criminal Penalties. – A violation of subdivision (a)(1), (a)(2), or (a)(3) of this section
+11 is a Class A1 misdemeanor. A violation of subdivision (a)(4) of this section is a Class G felony.
+12 (c) Civil Penalties. – In addition to any criminal punishment authorized by this section,
+13 for any violation of this section the ALE Division shall take one or more of the following actions
+14 against the licensee:
+15 (1) Suspend the licensee's license for a specified period of time not longer than
+16 three years.
+17 (2) Revoke the licensee's license.
+18 (3) Impose conditions on the operating hours of the licensee's business.
+19 (4) Impose civil penalties as follows:
+20 a. For a first violation, impose a civil penalty of no more than one
+21 thousand dollars ($1,000).
+22 b. For a second violation within three years, impose a civil penalty of no
+23 more than five thousand dollars ($5,000).
+24 c. For a third violation within three years of the first violation, impose a
+25 civil penalty of no more than seven thousand five hundred dollars
+26 ($7,500).
+27 (d) Testing Fee. – In any case in which the ALE Division imposes a penalty pursuant to
+28 subsection (b) of this section, for a violation of subdivision (3) of subsection (a) of this section,
+29 the manufacturer or distributor shall also pay to the ALE Division the actual costs paid by the
+30 ALE Division for testing of the samples resulting in the violation. Any fee collected pursuant to
+31 this subsection shall be remitted to the ALE Division.
+32 (e) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+33 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+34 G.S. 115C-457.2.
+35 (f) Defense. – It is a defense to a violation of subdivision (3) of subsection (a) of this
+36 section if the manufacturer does all of the following:
+37 (1) Recalls all hemp-derived consumable products from the same batch as the
+38 product on which the violation is based.
+39 (2) Has samples of the batch tested by an independent testing laboratory. The
+40 sample size required for testing pursuant to this subdivision shall be five times
+41 the number of units required pursuant to G.S. 18D-104(e) based on the size of
+42 the batch at production, regardless of the number of units that are able to be
+43 recalled.
+44 (3) Provides certified results from the independent testing laboratory indicating
+45 that the sample tested does not contain a concentration of more than
+46 three-tenths of one percent (0.3%) on a dry weight basis total combined of
+47 delta-9 tetrahydrocannabinol.
+48 (g) Forfeiture. – Any product sold in violation of subdivision (3) or (4) of subsection (a)
+49 of this section shall be subject to forfeiture pursuant to the procedures set forth in G.S. 18D-301.
+50 "§ 18D-104. Testing prior to distribution.
+Page 6 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (a) Requirement. – The manufacturer shall have a hemp-derived consumable product
+2 tested prior to distribution to a distributor or before distributing the product to a retail dealer. If
+3 the hemp-derived consumable product is packaged in a manner that may be sold to the ultimate
+4 consumer of the product when delivered to the distributor and the distributor does not open such
+5 package, the distributor is not required to test the hemp-derived consumable product. If the
+6 hemp-derived consumable product is not packaged in a manner that may be sold to the ultimate
+7 consumer of the product when delivered to the distributor or the distributor does open such
+8 package, the distributor shall have the hemp-derived consumable product tested prior to
+9 distribution. The testing shall determine the presence and amounts of any of the substances listed
+10 in subsection (b) of this section. No product that contains more than the maximum amount
+11 indicated for any substance in subsection (b) of this section shall be distributed or sold in this
+12 State.
+13 (b) Substances Tested; Limitations. – Hemp-derived consumable products shall be tested
+14 for the presence of and amount of the following substances and shall not exceed the amounts
+15 indicated:
+16 (1) A concentration of three-tenths of one percent (0.3%) of delta-9
+17 tetrahydrocannabinol, and no hemp-derived cannabinoid other than delta-9
+18 tetrahydrocannabinol.
+19 (2) 2,3-butanedione (Diacetyl).
+20 (3) Abamectin, not to exceed 300 parts per billion for ingestion or 100 parts per
+21 billion for inhalation.
+22 (4) Acephate, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+23 billion for inhalation.
+24 (5) Acequinocyl, not to exceed 2,000 parts per billion for ingestion or 100 parts
+25 per billion for inhalation.
+26 (6) Acetamiprid, not to exceed 3,000 parts per billion for ingestion or 100 parts
+27 per billion for inhalation.
+28 (7) Aldicarb, not to exceed 100 parts per billion for ingestion or inhalation.
+29 (8) Azoxystrobin, not to exceed 3,000 parts per billion for ingestion or 100 parts
+30 per billion for inhalation.
+31 (9) Bifenazate, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+32 billion for inhalation.
+33 (10) Bifenthrin, not to exceed 500 parts per billion for ingestion or 100 parts per
+34 billion for inhalation.
+35 (11) Boscalid, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+36 billion for inhalation.
+37 (12) Captan, not to exceed 3,000 parts per billion for ingestion or 700 parts per
+38 billion for inhalation.
+39 (13) Carbaryl, not to exceed 500 parts per billion for ingestion or 500 parts per
+40 billion for inhalation.
+41 (14) Carbofuran, not to exceed 100 parts per billion for ingestion or inhalation.
+42 (15) Chlorantraniliprole, not to exceed 3,000 parts per billion for ingestion or 1,000
+43 parts per billion for inhalation.
+44 (16) Chlordane, not to exceed 100 parts per billion for ingestion or inhalation.
+45 (17) Chlorfenapyr, not to exceed 100 parts per billion for ingestion or inhalation.
+46 (18) Chlormequat chloride, not to exceed 3,000 parts per billion for ingestion or
+47 1,000 parts per billion for inhalation.
+48 (19) Chlorpyrifos, not to exceed 100 parts per billion for ingestion or inhalation.
+49 (20) Clofentezine, not to exceed 500 parts per billion for ingestion or 200 parts per
+50 billion for inhalation.
+51 (21) Coumaphos, not to exceed 100 parts per billion for ingestion or inhalation.
+House Bill 328-Fourth Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (22) Cyfluthrin, not to exceed 1,000 parts per billion for ingestion or 500 parts per
+2 billion for inhalation.
+3 (23) Cypermethrin, not to exceed 1,000 parts per billion for ingestion or 500 parts
+4 per billion for inhalation.
+5 (24) Daminozide, not to exceed 100 parts per billion for ingestion or inhalation.
+6 (25) DDVP (Dichlorvos), not to exceed 100 parts per billion for ingestion or
+7 inhalation.
+8 (26) Diazinon, not to exceed 200 parts per billion for ingestion or 100 parts per
+9 billion for inhalation.
+10 (27) Dimethoate, not to exceed 100 parts per billion for ingestion or inhalation.
+11 (28) Dimethomorph, not to exceed 3,000 parts per billion for ingestion or 200 parts
+12 per billion for inhalation.
+13 (29) Ethoprop(hos), not to exceed 100 parts per billion for ingestion or inhalation.
+14 (30) Etofenprox, not to exceed 100 parts per billion for ingestion or inhalation.
+15 (31) Etoxazole, not to exceed 1,500 parts per billion for ingestion or 100 parts per
+16 billion for inhalation.
+17 (32) Fenhexamid, not to exceed 3,000 parts per billion for ingestion or 100 parts
+18 per billion for inhalation.
+19 (33) Fenoxycarb, not to exceed 100 parts per billion for ingestion or inhalation.
+20 (34) Fenpyroximate, not to exceed 2,000 parts per billion for ingestion or 100 parts
+21 per billion for inhalation.
+22 (35) Fipronil, not to exceed 100 parts per billion for ingestion or inhalation.
+23 (36) Flonicamid, not to exceed 2,000 parts per billion for ingestion or 100 parts per
+24 billion for inhalation.
+25 (37) Fludioxonil, not to exceed 3,000 parts per billion for ingestion or 100 parts
+26 per billion for inhalation.
+27 (38) Hexythiazox, not to exceed 2,000 parts per billion for ingestion or 100 parts
+28 per billion for inhalation.
+29 (39) Imazalil, not to exceed 100 parts per billion for ingestion or inhalation.
+30 (40) Imidacloprid, not to exceed 3,000 parts per billion for ingestion or 400 parts
+31 per billion for inhalation.
+32 (41) Kresoxim-methyl, not to exceed 1,000 parts per billion for ingestion or 100
+33 parts per billion for inhalation.
+34 (42) Malathion, not to exceed 2,000 parts per billion for ingestion or 200 parts per
+35 billion for inhalation.
+36 (43) Metalaxyl, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+37 billion for inhalation.
+38 (44) Methiocarb, not to exceed 100 parts per billion for ingestion or inhalation.
+39 (45) Methomyl, not to exceed 100 parts per billion for ingestion or inhalation.
+40 (46) Methyl parathion, not to exceed 100 parts per billion for ingestion or
+41 inhalation.
+42 (47) Mevinphos, not to exceed 100 parts per billion for ingestion or inhalation.
+43 (48) Myclobutanil, not to exceed 3,000 parts per billion for ingestion; prohibited at
+44 any concentration for inhalation.
+45 (49) Naled, not to exceed 500 parts per billion for ingestion or 250 parts per billion
+46 for inhalation.
+47 (50) Oxamyl, not to exceed 500 parts per billion for ingestion or inhalation.
+48 (51) Paclobutrazol, not to exceed 100 parts per billion for ingestion or inhalation.
+49 (52) Pentachloronitrobenzene, not to exceed 200 parts per billion for ingestion or
+50 150 parts per billion for inhalation.
+Page 8 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (53) Permethrin, not to exceed 1,000 parts per billion for ingestion or 100 parts per
+2 billion for inhalation.
+3 (54) Phosmet, not to exceed 200 parts per billion for ingestion or 100 parts per
+4 billion for inhalation.
+5 (55) Piperonyl butoxide, not to exceed 3,000 parts per billion for ingestion or
+6 inhalation.
+7 (56) Prallethrin, not to exceed 400 parts per billion for ingestion or 100 parts per
+8 billion for inhalation.
+9 (57) Propiconazole, not to exceed 1,000 parts per billion for ingestion or 100 parts
+10 per billion for inhalation.
+11 (58) Propoxur, not to exceed 100 parts per billion for ingestion or inhalation.
+12 (59) Pyrethrins, not to exceed 1,000 parts per billion for ingestion or 500 parts per
+13 billion for inhalation.
+14 (60) Pyridaben, not to exceed 3,000 parts per billion for ingestion or 200 parts per
+15 billion for inhalation.
+16 (61) Spinetoram, not to exceed 3,000 parts per billion for ingestion or 200 parts per
+17 billion for inhalation.
+18 (62) Spinosad A & D, not to exceed 3,000 parts per billion for ingestion or 100
+19 parts per billion for inhalation.
+20 (63) Spiromesifen, not to exceed 3,000 parts per billion for ingestion or 100 parts
+21 per billion for inhalation.
+22 (64) Spirotetramat, not to exceed 3,000 parts per billion for ingestion or 100 parts
+23 per billion for inhalation.
+24 (65) Spiroxamine, not to exceed 100 parts per billion for ingestion or inhalation.
+25 (66) Tebuconazole, not to exceed 1,000 parts per billion for ingestion or 100 parts
+26 per billion for inhalation.
+27 (67) Thiacloprid, not to exceed 100 parts per billion for ingestion or 100 parts per
+28 billion for inhalation.
+29 (68) Thiamethoxam, not to exceed 1,000 parts per billion for ingestion or 500 parts
+30 per billion for inhalation.
+31 (69) Trifloxystrobin, not to exceed 3,000 parts per billion for ingestion or 100 parts
+32 per billion for inhalation.
+33 (70) 1,2-Dichloroethane, not to exceed 2 parts per million.
+34 (71) 1,1-Dichloroethene, not to exceed 8 parts per million.
+35 (72) Acetone, not to exceed 750 parts per million.
+36 (73) Acetonitrile, not to exceed 60 parts per million.
+37 (74) Benzene, not to exceed 1 part per million.
+38 (75) Butane, not to exceed 5,000 parts per million.
+39 (76) Chloroform, not to exceed 2 parts per million.
+40 (77) Ethanol, not to exceed 5,000 parts per million.
+41 (78) Ethyl Acetate, not to exceed 400 parts per million.
+42 (79) Ethyl Ether, not to exceed 500 parts per million.
+43 (80) Ethylene Oxide, not to exceed 5 parts per million.
+44 (81) Heptane, not to exceed 5,000 parts per million.
+45 (82) Hexane, not to exceed 250 parts per million.
+46 (83) Isopropyl Alcohol, not to exceed 500 parts per million.
+47 (84) Methanol, not to exceed 250 parts per million.
+48 (85) Methylene Chloride, not to exceed 125 parts per million.
+49 (86) Pentane, not to exceed 750 parts per million.
+50 (87) Propane, not to exceed 5,000 parts per million.
+51 (88) Toluene, not to exceed 150 parts per million.
+House Bill 328-Fourth Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (89) Trichloroethylene, not to exceed 25 parts per million.
+2 (90) Xylenes, Total (ortho-, meta-, para-), not to exceed 150 parts per million.
+3 (91) Cadmium, not to exceed 500 parts per billion for ingestion or 200 parts per
+4 billion for inhalation.
+5 (92) Lead, not to exceed 500 parts per billion for ingestion or inhalation.
+6 (93) Arsenic, not to exceed 1,500 parts per billion for ingestion or 200 parts per
+7 billion for inhalation.
+8 (94) Mercury, not to exceed 3,000 parts per billion for ingestion or 200 parts per
+9 billion for inhalation.
+10 (95) Shiga toxin-producing Escherichia coli (STEC E. coli) and other pathogenic
+11 E. coli, not to exceed 1 CFU per gram.
+12 (96) Salmonella, not to exceed 1 CFU per gram.
+13 (97) Aspergillus niger, Aspergillus fumigatus, Aspergillus flavus, Aspergillus
+14 terreus, not to exceed 1 CFU per gram.
+15 (98) Total Aflatoxin (B1, B2, G1, G2), not to exceed 20 parts per billion for
+16 ingestion or inhalation.
+17 (99) Ochratoxin, not to exceed 20 parts per billion for ingestion or inhalation.
+18 (100) Total combined Yeast and Mold, not to exceed 100,000 CFU per gram for
+19 ingestion and inhalation.
+20 (c) Laboratory Qualifications. – A manufacturer or distributor shall contract with an
+21 independent testing laboratory to provide the testing required under subsection (a) of this section.
+22 (d) Testing Method. – A laboratory providing testing required under subsection (a) of this
+23 section shall use high-performance liquid chromatography for any separation and measurement
+24 required in the testing.
+25 (e) Batch Testing. – A sample of each batch manufactured shall undergo the testing
+26 required by subsection (a) of this section and shall obtain a certificate of analysis by an
+27 independent testing laboratory. The size of sample required to be tested shall be determined by
+28 the size of the batch as follows:
+29 (1) For a batch containing 1 to 999 units, the required sample size is 1 unit.
+30 (2) For a batch containing 1,000 to 4,999 units, the required sample size is 2 units.
+31 (3) For a batch containing 5,000 to 9,999 units, the required sample size is 3 units.
+32 (4) For a batch containing 10,000 or more units, the required sample size is 5
+33 units.
+34 (f) Expiration Date. – A hemp-derived consumable product shall have an expiration date
+35 on the label that conforms with applicable federal law.
+36 (g) Civil Penalties. – A violation of this section shall result in the ALE Division taking
+37 one or more of the following actions against the licensee:
+38 (1) Suspend the licensee's license for a specified period of time not longer than
+39 three years.
+40 (2) Revoke the licensee's license.
+41 (3) Impose conditions on the operating hours of the licensee's business.
+42 (4) Impose civil penalties as follows:
+43 a. For a first violation, impose a civil penalty of no more than one
+44 thousand dollars ($1,000).
+45 b. For a second violation within three years, impose a civil penalty of no
+46 more than five thousand dollars ($5,000).
+47 c. For a third violation within three years of the first violation, impose a
+48 civil penalty of no more than seven thousand five hundred dollars
+49 ($7,500).
+Page 10 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (h) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+2 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+3 G.S. 115C-457.2.
+4 (i) ALE Division Duties. – The ALE Division shall do all of the following:
+5 (1) Maintain and post on its website a list of independent testing laboratories that
+6 meet the qualifications to test intermediate manufactured material and finished
+7 hemp-derived consumable products.
+8 (2) Develop an application and process to determine qualifying independent
+9 testing laboratories to be listed on the ALE Division's website. The application
+10 shall require a potentially qualifying laboratory to submit a sample certificate
+11 of analysis issued by the applying laboratory indicating that the laboratory is
+12 capable of detecting the chemicals provided in subsection (b) of this section.
+13 "§ 18D-105. Additional requirements and restrictions for hemp-derived consumable
+14 products.
+15 (a) Packaging Requirements. – A hemp-derived consumable product that is sold in this
+16 State shall meet both of the following requirements:
+17 (1) The product shall satisfy the child-resistant effectiveness standards under 16
+18 C.F.R. § 1700.15(b)(1) when tested in accordance with the requirements of 16
+19 C.F.R. § 1700.20.
+20 (2) The product shall be labeled with consumer protection warnings in the form
+21 of statements that cover all of the following:
+22 a. A list of ingredients and possible allergens and a nutritional fact panel
+23 or have a quick response code that can be scanned that directs
+24 consumers to a website containing the list of ingredients and possible
+25 allergens and a nutritional fact panel.
+26 b. A statement that use while pregnant or breastfeeding may be harmful.
+27 c. A statement that consumption of certain cannabinoids may impair
+28 your ability to drive and operate heavy machinery.
+29 d. A statement that the product is not approved by the United States Food
+30 and Drug Administration.
+31 e. A statement to keep out of reach of children.
+32 f. A statement to consult your physician before use.
+33 g. If the product is ingestible, the amount of hemp-derived cannabinoid
+34 in each serving of the product, measured in milligrams.
+35 h. The total amount of hemp-derived cannabinoid in the entire package,
+36 measured in milligrams.
+37 i. The net weight of the product.
+38 j. A quick response code that can be scanned to access a website
+39 providing the product's batch number, date received, date of
+40 completion, and method of analysis for the testing required under
+41 G.S. 18D-106.
+42 k. An expiration date in accordance with applicable federal law.
+43 (b) Advertising Restrictions. – A manufacturer, distributor, or retail dealer of a
+44 hemp-derived consumable product shall not advertise, market, or offer for sale the product by
+45 using, in the labeling or design of the product or product packaging or in advertising or marketing
+46 materials for the product trade dress, trademarks, branding, or other related materials, any
+47 imagery or scenery that depicts or signifies characters or symbols known to appeal primarily to
+48 persons under 21 years of age, including, but not limited to, superheroes, comic book characters,
+49 video game characters, television show characters, movie characters, mythical creatures,
+50 unicorns, animals, cartoon characters, or any imitation of the packaging or labeling of candy,
+House Bill 328-Fourth Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 cereals, sweets, chips, or other food products typically marketed to persons under 21 years of
+2 age.
+3 (c) Non-Liquid Ingestible Product Restrictions. – Any hemp-derived consumable
+4 product intended for ingestion that is not a liquid and not intended for inhalation shall not do any
+5 of the following:
+6 (1) Be sold in a serving that contains more than 10 milligrams, in the aggregate,
+7 of delta-9 tetrahydrocannabinol.
+8 (2) Be formed in a shape that would violate subsection (b) of this section.
+9 (c1) Liquid Ingestible Product Restrictions. – Any hemp-derived consumable product
+10 intended for ingestion that is a liquid and not intended for inhalation shall not be sold in a
+11 container that contains more than 10 milligrams in the aggregate of delta-9 tetrahydrocannabinol.
+12 (c2) Inhalable Product for Vaporization Restrictions. – Any hemp-derived consumable
+13 product intended for inhalation by vaporization shall not be sold in a container that contains more
+14 than 3 milliliters in the aggregate of delta-9 tetrahydrocannabinol. For the purposes of this
+15 subsection, "vaporization" includes the heating of hemp-derived oil to release aerosolized
+16 hemp-derived cannabinoids.
+17 (d) Civil Penalties. – A violation of this section shall result in the ALE Division taking
+18 one or more of the following actions against the licensee:
+19 (1) Suspend the licensee's license for a specified period of time not longer than
+20 three years.
+21 (2) Revoke the licensee's license.
+22 (3) Impose conditions on the operating hours of the licensee's business.
+23 (4) Impose civil penalties as follows:
+24 a. For a first violation, impose a civil penalty of no more than one
+25 thousand dollars ($1,000).
+26 b. For a second violation within three years, impose a civil penalty of no
+27 more than five thousand dollars ($5,000).
+28 c. For a third violation within three years of the first violation, impose a
+29 civil penalty of no more than seven thousand five hundred dollars
+30 ($7,500).
+31 (e) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+32 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+33 G.S. 115C-457.2.
+34 "§ 18D-105.1. Conduct on licensed premises.
+35 (a) Certain Conduct. – It shall be unlawful for a licensee or the licensee's agent or
+36 employee to knowingly allow any of the following kinds of conduct to occur on the licensed
+37 premises:
+38 (1) Any violation of this Chapter.
+39 (2) Any violation of the controlled substances, gambling, or any other unlawful
+40 acts.
+41 (b) Supervision. – It shall be unlawful for a permittee to fail to superintend in person or
+42 through a manager the business for which a license is issued.
+43 "§ 18D-106. Construction of Chapter.
+44 Nothing in this Chapter shall be construed to do any of the following:
+45 (1) Permit a person to undertake any task under the influence of a hemp-derived
+46 consumable product when doing so would constitute negligence or
+47 professional malpractice.
+48 (2) Permit a person to operate, navigate, or be in actual physical control of a motor
+49 vehicle, aircraft, motorized watercraft, or any other vehicle while under the
+50 influence of a hemp-derived consumable product.
+Page 12 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (3) Require an employer to accommodate the use of a hemp-derived consumable
+2 product in a workplace or an employee working while under the influence of
+3 a hemp-derived consumable product.
+4 (4) Require an individual or establishment in lawful possession of property to
+5 admit a guest, client, customer, or other visitor who is impaired as a result of
+6 the person's use of a hemp-derived consumable product.
+7 (5) Exempt a person from prosecution for a criminal offense related to impairment
+8 or intoxication resulting from the use of a hemp-derived consumable product
+9 or relieve a person from any requirement under law to submit to a breath,
+10 blood, urine, or other test to detect the presence of a controlled substance.
+11 (6) Limit the ability of an employer to establish, continue, or enforce a drug-free
+12 workplace program or policy.
+13 (7) Create a cause of action against an employer for wrongful discharge or
+14 discrimination.
+15 (8) Allow the possession, sale, manufacture, or distribution of any substance that
+16 is otherwise prohibited by Article 5 of Chapter 90 of the General Statutes.
+17 "Article 2.
+18 "Licensing.
+19 "§ 18D-200. Definitions.
+20 The definitions contained in Article 1 of this Chapter apply to this Article as appropriate.
+21 "§ 18D-201. Licensing requirements; qualifications; duration.
+22 (a) Requirement. – Prior to the commencement of business or by July 1, 2026, whichever
+23 is later, a person or entity engaged in this State in any business regulated by this Chapter and
+24 listed in this subsection shall obtain a license to engage in that business from the ALE Division.
+25 Businesses engaging in one or more of the following are required to obtain a license pursuant to
+26 this section:
+27 (1) Manufacturing hemp-derived consumable products.
+28 (2) Distributing hemp-derived consumable products.
+29 (3) Selling hemp-derived consumable products.
+30 (b) Qualifications. – In order to obtain and maintain a license under subsection (a) of this
+31 section, a person shall meet all of the following criteria:
+32 (1) Be at least 21 years old.
+33 (2) Submit to the ALE Division any information determined by the ALE Division
+34 to be necessary for the efficient enforcement of this Chapter.
+35 (3) Have not been convicted of a felony relating to a controlled substance within
+36 10 years in any state or federal jurisdiction.
+37 (4) Consent to reasonable inspection by the ALE Division of the inventory of
+38 products regulated by this Chapter to ensure compliance with this Chapter and
+39 the taking of samples found to not be in compliance with the packaging,
+40 labeling, and testing requirements of this section.
+41 (5) Be current in filing all applicable tax returns to the State and in payment of all
+42 taxes, interest, and penalties collectable pursuant to G.S. 105-241.22.
+43 (c) Licenses Required. – A person or entity engaged in more than one of the businesses
+44 listed in subsection (a) of this section shall be required to obtain a separate license for each
+45 business. Upon application for a license, the person or entity engaged in more than one type of
+46 business regulated by this Chapter must indicate on the license application all of the businesses
+47 listed in subsection (a) of this section in which the business engages or intends to engage.
+48 (d) Duration. – A license issued pursuant to this Article is valid for a period of one year
+49 and shall be renewed annually.
+50 "§ 18D-202. Fees.
+House Bill 328-Fourth Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 (a) Application Fee. – The application fee for a license required pursuant to this Article
+2 shall be as follows:
+3 (1) For a license to manufacture hemp-derived consumable products, a fee of
+4 twenty-five thousand dollars ($25,000).
+5 (2) For a license to distribute hemp-derived consumable products, a fee of five
+6 thousand dollars ($5,000).
+7 (3) For a license to sell hemp-derived consumable products at a retail location, or
+8 online for delivery to a person within this State, a fee of five hundred dollars
+9 ($500.00) for each location or each internet website offering delivery in this
+10 State.
+11 (b) Renewal Fee. – The renewal fee for a license issued pursuant to this Article shall be
+12 as follows:
+13 (1) For a license to manufacture hemp-derived consumable products, a renewal
+14 fee of ten thousand dollars ($10,000).
+15 (2) For a license to distribute hemp-derived consumable products, a renewal fee
+16 of one thousand five hundred dollars ($1,500).
+17 (3) For a license to sell hemp-derived consumable products at a retail location or
+18 online for delivery to a person within this State, a renewal fee in the same
+19 amount as the initial licensing fees established under subsection (a) of this
+20 section.
+21 "§ 18D-203. ALE Division authority to deny or revoke.
+22 The ALE Division may revoke or refuse to issue any license for any of the following:
+23 (1) Failure to comply with or meet any of the qualifications required by
+24 G.S. 18D-201(b).
+25 (2) Submission of false or misleading information in an application for licensure
+26 or renewal.
+27 (3) Submission of false or misleading information in any report or information
+28 required by this Chapter to be submitted to the ALE Division.
+29 (4) Failure to comply with civil penalties authorized by this Chapter.
+30 "§ 18D-204. Civil penalties; procedure.
+31 Proceedings for the assessment of civil penalties authorized in Article 1 of this Chapter shall
+32 be governed by Chapter 150B of the General Statutes. If the person or entity assessed a civil
+33 penalty fails to pay the penalty to the ALE Division, the ALE Division may institute an action in
+34 the superior court of the county in which the person resides or has their principal place of business
+35 to recover the unpaid amount of the penalty. An action to recover a civil penalty under this
+36 Chapter shall not relieve any party from any other penalty prescribed by law.
+37 "§ 18D-205. ALE Division to develop application, adopt rules, remit revenue.
+38 (a) License Application. – The ALE Division shall develop and make available online an
+39 application for the license required by this Article.
+40 (b) Tracking System. – The ALE Division shall establish, maintain, and control a
+41 computer software tracking system that traces hemp from seed to sale as a hemp-derived
+42 consumable product and allows real-time, 24-hour access by the ALE Division and any State or
+43 local law enforcement agency in North Carolina to data from all production facilities and testing
+44 laboratories. The tracking system must allow for integration of other seed-to-sale systems and, at
+45 a minimum, include notification of when hemp seeds are planted, when hemp plants are harvested
+46 and destroyed, and when hemp is transported, sold, stolen, diverted, or lost. Each manufacturer
+47 and distributor shall use the seed-to-sale tracking system established by the ALE Division or
+48 integrate its own seed-to-sale tracking system with the seed-to-sale tracking system established
+49 by the ALE Division. The ALE Division shall establish minimum requirements for the
+50 seed-to-sale tracking system used by a supplier. The ALE Division may contract with a vendor
+Page 14 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 to establish the seed-to-sale tracking system. The vendor may not have a direct or indirect
+2 financial interest in a manufacturer, distributor, or testing laboratory.
+3 (c) Rules. – The ALE Division shall have authority to adopt, amend, and repeal rules to
+4 carry out the provisions of this Chapter.
+5 (d) Distribution of Revenue. – The revenue collected from fees established under this
+6 Chapter shall be remitted to the ALE Division, on a monthly basis, to be used to cover costs
+7 incurred by the ALE Division in enforcing the provisions of this Chapter. To the extent the funds
+8 described in this subsection are deemed unappropriated, the funds are hereby appropriated for
+9 the purpose set forth in this subsection.
+10 "Article 3.
+11 "Enforcement.
+12 "§ 18D-300. ALE Division.
+13 (a) Authority. – The ALE Division shall enforce the provisions of this Chapter in a
+14 manner that is reasonable to reduce the extent to which hemp-derived consumable products are
+15 sold or distributed to persons under 21 years of age and shall conduct random, unannounced
+16 inspections at locations where hemp-derived consumable products are sold or distributed to
+17 ensure compliance with the provisions of this Chapter. If, upon reasonable inspection, the ALE
+18 Division determines a licensee's inventory may consist of products not in compliance with the
+19 packaging, labeling, and testing requirements of this Chapter, the ALE Division is authorized to
+20 only take samples of a licensee's inventory of hemp-derived consumable products considered
+21 noncompliant to be submitted for testing in order to determine compliance with the provisions of
+22 this Chapter. To procure evidence of violations of this Chapter, ALE Division agents shall have
+23 authority to investigate the operation of each licensee under this Chapter and each licensed
+24 premises for which a license has been issued under this Chapter, to make inspections that include
+25 viewing the entire premises, including the examination of records, equipment, and proceeds
+26 related to the manufacture or distribution of hemp-derived consumable products. The inspection
+27 authorized by this section may be made at any time it reasonably appears that someone is on the
+28 premises.
+29 (b) Interference with Inspection. – Refusal by a licensee or by any employee of a licensee
+30 to permit ALE Division agents to enter the premises to make an inspection authorized by
+31 subsection (a) of this section shall be cause for suspension, revocation, or other action against the
+32 licensee. It shall be a Class 2 misdemeanor for any person to resist or obstruct an agent attempting
+33 to make a lawful inspection under this section.
+34 (c) Report. – Beginning January 1, 2027, the ALE Division shall submit an annual report
+35 to the General Assembly describing in detail the ALE Division's enforcement efforts under this
+36 Chapter. The ALE Division shall also make the report required under this subsection available
+37 on the ALE Division's website.
+38 "§ 18D-301. Forfeiture of property.
+39 (a) Seizure of Product. – For any hemp-derived consumable product subject to forfeiture,
+40 a law enforcement officer is hereby authorized and empowered to seize and take possession of
+41 such products.
+42 (b) Custody until Trial. – A law enforcement officer seizing a product subject to forfeiture
+43 shall provide for its safe storage until trial.
+44 (c) Disposition after Criminal Trial. – The presiding judge in a criminal proceeding for
+45 violation of G.S. 18D-103(a)(3) or G.S. 18D-103(a)(4) may take the following actions after
+46 resolution of a charge against the owner or possessor of products subject to forfeiture under this
+47 section:
+48 (1) If the owner or possessor of the product is found guilty of a violation of
+49 G.S. 18D-103(a)(3) or G.S. 18D-103(a)(4), the judge shall order the product
+50 forfeited.
+House Bill 328-Fourth Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 (2) If the owner or possessor of the product is found not guilty, or if the charge is
+2 dismissed or otherwise resolved in favor of the owner or possessor, the judge
+3 shall order the product returned to the owner or possessor.
+4 (3) If the product is also needed as evidence at an administrative hearing, the
+5 judge shall provide that the order does not go into effect until the ALE
+6 Division determines that the product is no longer needed for the administrative
+7 proceeding.
+8 (d) Return of Property. – Any owner of products seized for forfeiture may apply to a
+9 judge to have the products returned to the owner if no criminal charge has been made in
+10 connection with that product within a reasonable time after seizure. The judge may not order the
+11 return of the product if possession by the owner would be unlawful."
+12 SECTION 1.(b) G.S. 18B-500(b) reads as rewritten:
+13 "(b) Subject Matter Jurisdiction. – After taking the oath prescribed for a peace officer, an
+14 alcohol law-enforcement agent shall have authority to arrest and take other investigatory and
+15 enforcement actions for any criminal offense:
+16 (1) Occurring, encountered, or otherwise discovered on the premises of, or
+17 elsewhere when the conduct relates to, a location under application for or
+18 holding a permit issued by the North Carolina Alcoholic Beverage Control
+19 Commission or the North Carolina Education Lottery Commission.
+20 (1a) Occurring, encountered, or otherwise discovered on the premises of, or
+21 elsewhere when the conduct relates to, a location holding a license issued
+22 pursuant to Chapter 18D of the General Statutes.
+23 (2) Encountered or otherwise discovered while investigating or enforcing matters
+24 for the North Carolina Alcoholic Beverage Control Commission or the North
+25 Carolina Education Lottery Commission or encountered or otherwise
+26 discovered while investigating or enforcing the provisions of this Chapter,
+27 Chapter 18C of the General Statutes, Chapter 18D of the General Statutes,
+28 G.S. 14-313, or Parts 1 and 2 of Article 37 of Chapter 14 of the General
+29 Statutes.
+30 (3) Encountered or otherwise discovered while carrying out any duty or function
+31 assigned to the Division by law.
+32 (4) Occurring in an agent's presence.
+33 (5) When assisting another law enforcement agency."
+34 SECTION 1.(c) G.S. 7A-304(a) reads as rewritten:
+35 "(a) In every criminal case in the superior or district court, wherein the defendant is
+36 convicted, or enters a plea of guilty or nolo contendere, or when costs are assessed against the
+37 prosecuting witness, the following costs shall be assessed and collected. No costs may be
+38 assessed when a case is dismissed. Only upon entry of a written order, supported by findings of
+39 fact and conclusions of law, determining that there is just cause, the court may (i) waive costs
+40 assessed under this section or (ii) waive or reduce costs assessed under subdivision (7), (8), (8a),
+41 (11), (12), or (13) of this section. No court may waive or remit all or part of any court fines or
+42 costs without providing notice and opportunity to be heard by all government entities directly
+43 affected. The court shall provide notice to the government entities directly affected of (i) the date
+44 and time of the hearing and (ii) the right to be heard and make an objection to the remission or
+45 waiver of all or part of the order of court costs at least 15 days prior to hearing. Notice shall be
+46 made to the government entities affected by first-class mail to the address provided for receipt of
+47 court costs paid pursuant to the order. The costs referenced in this subsection are listed below:
+48 …
+49 (14) For the services of any laboratory facility, the district or superior court judge
+50 shall, upon conviction, order payment of the sum of six hundred dollars
+51 ($600.00) to be remitted to the Alcohol Law Enforcement Division of the
+Page 16 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 Department of Public Safety (ALE Division) or agency that paid for the
+2 laboratory services. The cost shall be assessed only in cases in which (i) the
+3 defendant is convicted of a violation of G.S. 18D-103(a)(3) or
+4 G.S. 18D-103(a)(4) and (ii) as part of the investigation leading to the
+5 defendant's conviction, testing was conducted at a laboratory on products
+6 regulated under Chapter 18D of the General Statutes."
+7 SECTION 1.(d) This section becomes effective July 1, 2026, and applies to all
+8 hemp-derived consumable products possessed, sold, distributed, or manufactured on or after that
+9 date, and to all offenses committed on or after that date.
+10
+11 PART II. TECHNICAL CORRECTION
+12 SECTION 2.(a) G.S. 90-94.1 is repealed.
+13 SECTION 2.(b) This section becomes effective December 1, 2025, and applies to
+14 offenses committed on or after that date.
+15
+16 PART III. BAN HEMP-DERIVED CONSUMABLE PRODUCTS ON EDUCATIONAL
+17 PROPERTY
+18 SECTION 3.(a) Article 29A of Chapter 115C of the General Statutes reads as
+19 rewritten:
+20 "Article 29A.
+21 "Policy Prohibiting Use Of Tobacco Products and Hemp-Derived Consumable Products.
+22 "§ 115C-407. Policy prohibiting tobacco product and hemp-derived consumable product
+23 use in school buildings, grounds, and at school-sponsored events.
+24 (a) Not later than August 1, 2008, local boards of education Governing bodies of public
+25 school units shall adopt, implement, and enforce adopt a written policy prohibiting at all times
+26 the use of any tobacco product or hemp-derived consumable product by any person in school
+27 buildings, in school facilities, on school campuses, and in or on any other school property owned
+28 or operated by the local school administrative public school unit. The policy shall further prohibit
+29 the use of all tobacco products and hemp-derived consumable products by persons attending a
+30 school-sponsored event at a location not listed in this subsection when in the presence of students
+31 or school personnel or in an area where smoking is otherwise prohibited by law.
+32 (b) The policy shall include at least all of the following elements:
+33 (1) Adequate notice to students, parents, the public, and school personnel of the
+34 policy.
+35 (2) Posting of signs prohibiting at all times the use of tobacco products and
+36 hemp-derived consumable products by any person in and on school property.
+37 (3) Requirements that school personnel enforce the policy.
+38 (c) The policy may permit tobacco products to be included in instructional or research
+39 activities in public school buildings if the activity is conducted or supervised by the faculty
+40 member overseeing the instruction or research and the activity does not include smoking,
+41 chewing, or otherwise ingesting the tobacco product.
+42 (d) The North Carolina Health and Wellness Trust Fund Commission Tobacco
+43 Prevention and Control Branch shall work with local boards of education governing bodies of
+44 public school units to provide assistance with the implementation of this policy including
+45 providing information regarding smoking cessation and prevention resources. Nothing in this
+46 section, G.S. 143-595 through G.S. 143-601, or any other section prohibits a local board of
+47 education governing body of a public school unit from adopting and enforcing a more restrictive
+48 policy on the use of tobacco products or hemp-derived consumable products in school buildings,
+49 in school facilities, on school campuses, or at school-related or school-sponsored events, and in
+50 or on other school property.
+51 (e) For the purposes of this section, the following definitions apply:
+House Bill 328-Fourth Edition Page 17
+General Assembly Of North Carolina Session 2025
+1 (1) Hemp-derived consumable product. – As defined in G.S. 18D-100.
+2 (2) Tobacco product. – As defined in G.S. 14-313, including vapor products.
+3 (3) Vapor product. – As defined in G.S. 14-313."
+4 SECTION 3.(b) G.S. 115C-150.12C is amended by adding a new subdivision to
+5 read:
+6 "(15a) The board of trustees shall adopt a policy prohibiting tobacco products and
+7 hemp-derived consumable products in accordance with Article 29A of this
+8 Chapter."
+9 SECTION 3.(c) G.S. 115C-218.75 is amended by adding a new subsection to read:
+10 "(a1) Policy Prohibiting Tobacco Product and Hemp-Derived Consumable Product. – A
+11 charter school shall adopt a policy prohibiting tobacco products or hemp-derived consumable
+12 products in accordance with Article 29A of this Chapter."
+13 SECTION 3.(d) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+14 "(23) Policy prohibiting tobacco product and hemp-derived consumable product. –
+15 A regional school shall adopt a policy prohibiting tobacco products and
+16 hemp-derived consumable products in accordance with Article 29A of this
+17 Chapter."
+18 SECTION 3.(e) G.S. 116-235 is amended by adding a new subsection to read:
+19 "(k) Prohibition of Tobacco Product and Hemp-Derived Consumable Product. – The
+20 Board of Trustees shall adopt a policy prohibiting tobacco products and hemp-derived
+21 consumable products in accordance with Article 29A of Chapter 115C of the General Statutes."
+22 SECTION 3.(f) G.S. 116-239.8(b) is amended by adding a new subdivision to read:
+23 "(26) Prohibition of tobacco product and hemp-derived consumable product. – The
+24 laboratory school shall adopt a policy prohibiting tobacco products and
+25 hemp-derived consumable products in accordance with Article 29A of
+26 Chapter 115C of the General Statutes."
+27 SECTION 3.(g) G.S. 115C-562.5(a) is amended by adding a new subdivision to
+28 read:
+29 "(7a) For any school facility in which students attend in-person classes, the school
+30 shall adopt a policy that is consistent with the requirements of Article 29A of
+31 this Chapter to prohibit the use of tobacco products or hemp-derived
+32 consumable products on school grounds."
+33 SECTION 3.(h) This section is effective when it becomes law and applies beginning
+34 with the 2025-2026 school year.
+35
+36 PART VI. ADD KRATOM AS A SCHEDULE VI CONTROLLED SUBSTANCE
+37 SECTION 4.(a) G.S. 90-94 reads as rewritten:
+38 "§ 90-94. Schedule VI controlled substances.
+39 (a) This schedule includes the controlled substances listed or to be listed by whatever
+40 official name, common or usual name, chemical name, or trade name designated. In determining
+41 that such substance comes within this schedule, the Commission shall find: no currently accepted
+42 medical use in the United States, or a relatively low potential for abuse in terms of risk to public
+43 health and potential to produce psychic or physiological dependence liability based upon present
+44 medical knowledge, or a need for further and continuing study to develop scientific evidence of
+45 its pharmacological effects.
+46 (b) The following controlled substances are included in this schedule:
+47 (1) Marijuana.
+48 (2) Tetrahydrocannabinols, except for tetrahydrocannabinols found in a product
+49 with a delta-9 tetrahydrocannabinol concentration of not more than
+50 three-tenths of one percent (0.3%) on a dry weight basis.
+Page 18 House Bill 328-Fourth Edition
+General Assembly Of North Carolina Session 2025
+1 (3) Repealed by Session Laws 2017-115, s. 8, effective December 1, 2017, and
+2 applicable to offenses committed on or after that date.
+3 (4) Kratom. For the purposes of this subdivision, "Kratom" includes any quantity
+4 of mitragynine or 7 hydroxymytragynine or both, extracted from the leaf of
+5 the plant Mitragyna speciosa.
+6 (c) Notwithstanding the provisions of this section, any prescription drug approved by the
+7 federal Food and Drug Administration under Section 505 of the federal Food, Drug, and
+8 Cosmetic Act that is designated, rescheduled, or deleted as a controlled substance under federal
+9 law by the United States Drug Enforcement Administration shall be excluded from Schedule VI
+10 and may be prescribed, distributed, dispensed, and used in accordance with federal law upon the
+11 issuance of a notice, final rule, or interim final rule by the United States Drug Enforcement
+12 Administration that designates, reschedules, or deletes such prescription drug as a controlled
+13 substance under federal law, unless the Commission objects to such action as provided under
+14 G.S. 90-88(d). If the Commission does not object as provided under G.S. 90-88(d), the
+15 prescription drug shall be deemed to be designated, rescheduled, or deleted as a controlled
+16 substance in accordance with federal law and in compliance with this Chapter."
+17 SECTION 4.(b) This section becomes effective December 1, 2025, and applies to
+18 offenses committed on or after that date.
+19
+20 PART V. EFFECTIVE DATE
+21 SECTION 5. Except as otherwise provided, this act is effective when it becomes
+22 law.
+House Bill 328-Fourth Edition Page 19
+[DELETED:  4 R (   A A A T R T S D A P O H C P A T A K A A S T  P S " " " " " U ( A o ( B t t ( D – A p o e t d o s h c ( E t 1 o 1 C § 1 i w h c p a p ( H ( H c – A p f i h i a ( c ( t ( c ( d]
+[DELETED:  S  H ( f ( H i f h i o t a t t o t t u t i h p i f t a o s o s S ( H ( I c a H a I 1 a o i r w t D E 1 b D i c D p p o p h c p i t S d H c t c s a t u ( I – T p o c h t t m b s ( I – T p o h i t r s t ( L ( L C ( M – T c b e i c o o m h ( M – A p o e t e i t p o m p o p o h c p ( P D o A t e i t p o f a h h t i i t b u i t m o a h ( P f g i f h i o i t c c t o S ( R t ( S – A q o a h c p r s]
+[DELETED:  S  P " ( R ( S a p o a f a p p o h c p p i t r d h r g t b t t p h o t c ( K c p i o o a p s s p o p b ( E a ( K o h r t k s a h c p t h a c o t t o p ( ( K o h r t k s a h c p ( K o i ( K c i w t p s p d t t h f t o o p ( o a d w b o d t ( K o h r t k s o d a p h ( C ( F m ( F c ( F t t v w t y o t f v t A D ( ( F t d ( T s t t s ( D s]
+[DELETED:  S  H ( S c a s T t o ( P t ( S t a t t o p t p u a b i t r a f t p a ( t p h p r s a o a o s a t i s o s s i s p ( P t s s b r t t C P a F F i a w G ( C v s w i g o a C H f U a p o t l p f g p t o " ( R h t ( P h b p o p w t i t b u i a p h c ( C ( F m ( F c ( F t t v w t y o t f v t A D ( ( F t d ( P t s s b r t t C P a F F i a w G]
+[DELETED:  S  P ( C v o a C A m A p w c a t o s v o s o ( A o t S – N i t s s b c a p p " 1  O i t p a p o p o h ( I l ( I p ( I c t a o c c a ( A ( A ( A ( A i d o t a d l i t a p ( A p i n p f p o p a h c ( I o v ( P ( A 2 ( A 1 ( A s s ( N p o " A A " 1  O i t m a d o h c ( O ( K c]
+[DELETED:  S  H ( E i t b o m o d a h c C ( K o h r t k m o d a h c p t h a c o m t t o o p ( o a d w b o d t ( K h ( C i ( C f a ( S t ( R ( I ( I a F a f v i a c p o n m t o t b F m c F c o ( ( T s t A t ( P t s s b r t t C P a F F i a w G ( D s ( R p ( H s t t r ( P t t s t d n c a c o m t t d ( F o "]
+[DELETED:  S  P ( R t t c p I h c s p t d s h t h c p t p t d i i S ( S f i ( A c o t o o p ( o d t t ( 2 ( A b ( A b ( A p ( A p ( A ( A p ( B b ( B b ( B b ( C b ( C b ( C ( C p ( C ( C ( C 1 ( C ( C b ( C]
+[DELETED:  S  H ( C b ( C p ( D ( D ( n t e 1 p p b f i o i ( D b ( D ( D p ( E ( E ( E b ( F p ( F ( F p ( F ( F b ( F p ( H p ( I ( I p ( K p ( M b ( M b ( M ( M ( M p n t e 1 p p b f i o i ( M ( M a ( N f ( O ( P ( P 1]
+[DELETED:  S  P ( P b ( P b ( P b n t e 3 p p b f i o i ( P b ( P p ( P ( P b ( P b ( S b ( S p ( S p ( S p ( S ( T p ( T b ( T p ( T p ( 1 ( 1 ( A ( A ( B ( B ( C ( E ( E ( E ( E ( H ( H ( I ( M ( M ( P ( P ( T]
+[DELETED:  S  H ( T ( X ( C b ( L ( A b ( M b ( S E ( S ( A n A f A f A t ( T A ( B G G n t e 2 p p b f i ( O ( T i ( L Q – A m d s c w a i ( T s r ( B t r b s ( o t s a s o a c o a b a i t ( F ( F ( F ( F u ( E o ( C o ( S t ( R ( I ( I a F a f v i a c p o n m t o t b F m c F c o (]
+[DELETED:  S  P ( P t s s b r t t C P a F F i a w G ( A ( M m h ( D a a a p t d q i t s o c " 1  A r a r f h c p ( P S ( T C C ( T o a A o h a q r c t c b s t d c a b A c A s t c o c c m i y d A a e A f A g I i h T m i T j A q r c t c b s t a a w p t p b n d r d o c a m o a f t t r u G k A ( A R – A m d o r d o a h u m f t p t d t b o o r m a i p v g c t s c m c m c u]
+[DELETED:  S  H c a ( N I P R – A h c p o ( B o ( B ( L I P R – A h c p i c ( I p t 3 m i t a o d t F t p o t s " i t h o h o t r a h ( C o ( S t ( R ( I ( I a F a f v i a c p o n m t o t b F m c F c o ( ( P t s s b r t t C P a F F i a w G " ( C C – I s b u f a l o t l a o e p ( A ( A a ( S t " N ( P c p w d s w c n o p ( P v i]
+[DELETED:  S  P ( R p a ( R a t ( E o o b ( L w ( C a c o a a a e f w d o d ( A i " " " T " ( R i l B t ( M ( D ( S ( Q s ( B ( S t ( H 1 ( C p t t o f t n b i c w t p l ( B t ( L l b b l ( D a "]
+[DELETED:  S  H ( A s ( F t ( F t ( F o ( S ( R a ( F f ( F o ( F o a s " T ( F t c w o m a o t q r b G ( S o ( S r ( F " P b p t t C " ( L a ( T S – T A D s e m a c a c s t s t t h f s t s a a h c l l a a a i b t A D T A D s e m r f t s]
+[DELETED:  S  P t e t s t s T v m n h a d o i f ( R c ( D C i d t " " " ( A D a m s i a l h c p a s o e D p o n t a t t p v r a p ( I t p A D a t e t p t m a i a b s l t ( R t C o " ( S a s ( C s ( D v o G o G m t t f a a r s ( I p o G f]
+[DELETED:  S  H ( I d s ( I j s p t t o d n g i e u t A D p ( R j t h t p r t t o i n c c h b m i c r S " S a e ( O e o o d o t p o o e h C ( O e o o d o t p o o e p ( E f C E L C o e o o d C G S ( E a ( O ( W S " I e c c i t s o d c w t d i c p w t f c s b a a c N c m b a f a ( c a a w m c … ( F s u c o p o t s o s h d (]
+[DELETED:  S  P D o P S ( D o a t p f t l d i c o a v o G o G a ( a p o t i l t t d c t w c a a l o p r S h d  P S S o  P P S 3  A 2 o C 1 o G S r a r " " " u ( N s t b o t s o ( T ( A p ( P o s p a a t t u o t p a h ( R ( T a m o t i o r a t a d n i s c ( T N C H a W T F C T P p s u t p a w t i o t p i p s G t G o a o p a l b e p i o ( F]
+[DELETED:  S  H ( H ( T ( V S r " T h C S " P c p S " P A r s s a a p p t p a h C S " P o T P a H C P – T B o T s a a p p t p a h c S " P l s s a a p p t p a h c p i a w A 2 o C S r " F s t C t p t u o t p o h c S w  P S " ( T o t m h m i ( T ( M ( T w a d t c o n m t t]
+[DELETED:  S  P ( R a ( K o t ( N f F a D A u S 5 o t f F D a C l a i A s G I t C d n o a p u G t p d s b d t b d r o d a a c s S o  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 4
+HOUSE BILL 328
+Committee Substitute Favorable 3/25/25
+Committee Substitute #2 Favorable 4/8/25
+Senate Health Care Committee Substitute Adopted 6/17/25
+Short Title: Regulate Hemp-Derived Consumables. (Public)
+Sponsors:
+Referred to:
+March 10, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REGULATE THE SALE, DISTRIBUTION, AND POSSESSION OF
+3 HEMP-DERIVED CONSUMABLE PRODUCTS AND TO ADD KRATOM AS A
+4 SCHEDULE VI CONTROLLED SUBSTANCE.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. REGULATE HEMP-DERIVED CONSUMABLE PRODUCTS
+8 SECTION 1.(a) The General Statutes are amended by adding a new Chapter to read:
+9 "Chapter 18D.
+10 "Regulation of Hemp-Derived Consumable Products.
+11 "Article 1.
+12 "Regulation of Hemp-Derived Consumable Products.
+13 "§ 18D-100. Definitions.
+14 Unless the context requires otherwise, the following definitions apply in this Chapter:
+15 (1) ALE Division. – The Alcohol Law Enforcement Division of the Department
+16 of Public Safety.
+17 (2) Batch. – The hemp-derived consumable product produced during a period of
+18 time under similar conditions and identified by a specific code that allows
+19 traceability.
+20 (3) Distributor. – A person or entity that delivers or sells hemp-derived
+21 consumable products for the purpose of distribution in commerce.
+22 (4) Exit package. – An opaque bag or other similar opaque covering provided at
+23 the point of sale that satisfies the child-resistant effectiveness standards under
+24 16 C.F.R. § 1700.15(b)(1) when tested in accordance with the requirements
+25 of 16 C.F.R. § 1700.20 in which hemp-derived consumable products are
+26 placed by a seller after being sold to the ultimate consumer of the product.
+27 (5) Hemp. – As defined in G.S. 90-87.
+28 (6) Hemp-derived cannabinoid. – Any phytocannabinoid found in hemp,
+29 including delta-9 tetrahydrocannabinol (delta-9 THC), tetrahydrocannabinolic
+30 acid (THCA), cannabidiol (CBD), cannabidiolic acid (CBDA), cannabinol
+31 (CBN), cannabigerol (CBG), cannabichromene (CBC), cannabicyclol (CBL),
+32 cannabivarin (CBV), tetrahydrocannabivarin (THCV), cannabidivarin
+33 (CBDV), cannabicitran (CBT), delta-7 tetrahydrocannabinol (delta-7 THC),
+34 delta-8 tetrahydrocannibinol (delta-8 THC), or delta-10 tetrahydrocannibinol
+*H328-v-4*
+
+General Assembly Of North Carolina Session 2025
+1 (delta-10 THC). This term also includes any synthetic cannabinoid derived
+2 from hemp and contained in a hemp-derived consumable product.
+3 (7) Hemp-derived consumable product. – A hemp product that is a finished good
+4 intended for human ingestion or inhalation that at the time of sale to the
+5 ultimate consumer contains a delta-9 THC concentration of not more than
+6 three-tenths of one percent (0.3%) on a dry weight basis. This term does not
+7 include hemp products intended for topical application, or seeds or
+8 seed-derived ingredients that are generally recognized as safe by the United
+9 States Food and Drug Administration (FDA).
+10 (8) Hemp product. – As defined in G.S. 90-87.
+11 (9) Independent testing laboratory. – A laboratory that meets all of the following
+12 conditions:
+13 a. Holds an ISO 17025 accreditation or is registered with the Drug
+14 Enforcement Administration (DEA) in accordance with 21 C.F.R. §
+15 1301.13.
+16 b. Does not have a direct or indirect interest in the entity whose product
+17 is being tested.
+18 c. Does not have a direct or indirect interest in a facility that cultivates,
+19 processes, distributes, dispenses, or sells hemp-derived consumable
+20 products, or prohibited hemp-derived consumable products in this
+21 State or any other jurisdiction.
+22 d. Has entered into a compliance agreement with the ALE Division to
+23 conduct tetrahydrocannabinol concentration sampling and testing
+24 using the high-performance chromatography (HPLC) testing method.
+25 (10) Ingestion. – The process of consuming hemp through the mouth, by
+26 swallowing into the gastrointestinal system or through tissue absorption.
+27 (11) Inhalation. – The process of consuming hemp into the respiratory system
+28 through the mouth or nasal passages.
+29 (12) License. – A license issued in accordance with this Chapter.
+30 (13) Licensee. – A person who has been issued a license in accordance with this
+31 Chapter.
+32 (14) Manufacture. – To compound, blend, extract, infuse, cook, or otherwise
+33 manipulate hemp or a hemp-derived cannabinoid to make, prepare, or package
+34 hemp-derived consumable products.
+35 (15) Manufacturer. – Any person or entity that engages in the process of
+36 manufacturing, preparing, or packaging of hemp-derived consumable
+37 products.
+38 (16) Producer. – Any person or entity licensed to grow hemp by the United States
+39 Department of Agriculture that engages in the process of farming and
+40 harvesting hemp that is intended to be used in the manufacture of a
+41 hemp-derived consumable product.
+42 (17) Prohibited hemp-derived consumable product. – A hemp product that is a
+43 finished good intended for human ingestion or inhalation that contains
+44 concentrations of hemp-derived cannabinoids other than delta-9 THC. This
+45 term does not include hemp products intended for topical application or seeds
+46 or seed-derived ingredients that are generally recognized as safe by the United
+47 States Food and Drug Administration (FDA).
+48 (18) Retail dealer. – Any person who sells a hemp-derived consumable product to
+49 the ultimate consumer of the product, including a remote seller.
+50 (19) Serving. – A quantity of a hemp-derived consumable product reasonably
+51 suitable for a person's use in a single day.
+Page 2 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 "§ 18D-101. Sales restrictions on hemp-derived consumable products.
+2 (a) Restrictions. – No person shall do any of the following:
+3 (1) Sell a hemp-derived consumable product to a person who is under 21 years of
+4 age. Any retail dealer of hemp-derived consumable products shall demand
+5 proof of age from a prospective purchaser of hemp-derived consumable
+6 products before the hemp-derived consumable products are released to the
+7 purchaser if the retail dealer has reasonable grounds to believe that the
+8 prospective purchaser is under 30 years of age. Any retail dealer that sells a
+9 hemp-derived consumable product on an internet website shall verify the age
+10 of any prospective purchaser and shall use a method of delivery that requires
+11 the signature of a person at least 21 years of age before the hemp-derived
+12 consumable product is released.
+13 (2) Knowingly, or having reason to know, distribute samples of hemp-derived
+14 consumable products in or on a public street, sidewalk, park, or public
+15 building.
+16 (3) Engage in the business of selling a hemp-derived consumable product without
+17 a valid license issued in accordance with this Chapter.
+18 (4) Knowingly, or having reason to know, sell a hemp-derived consumable
+19 product that has a concentration of more than three-tenths of one percent
+20 (0.3%) on a dry weight basis of delta-9 tetrahydrocannabinol.
+21 (5) Knowingly, or having reason to know, sell a hemp-derived consumable
+22 product that is not contained in an exit package or a child proof package.
+23 (6) Knowingly, or having reason to know, sell at retail or on an internet website
+24 offering delivery in this State, a hemp-derived consumable product that is not
+25 in compliance with G.S. 18D-105.
+26 (7) Knowingly, or having reason to know, sell at retail hemp flower or a product
+27 containing hemp flower that is not accompanied by a certificate of analysis
+28 issued within the previous six-month period demonstrating that the hemp
+29 flower or product containing hemp flower has a concentration of no more than
+30 three-tenths of one percent (0.3%) on a dry weight basis of delta-9
+31 tetrahydrocannabinol.
+32 (8) Knowingly, or having reason to know, sell or distribute a prohibited
+33 hemp-derived consumable product.
+34 (b) Civil Penalties. – Violation of this section shall have the following penalties:
+35 (1) For the first violation, the ALE Division may impose a civil penalty of no
+36 more than five hundred dollars ($500.00).
+37 (2) For the second violation within three years, the ALE Division may impose a
+38 civil penalty of no more than seven hundred fifty dollars ($750.00).
+39 (3) For the third violation within three years of the first violation, the ALE
+40 Division shall impose a civil penalty of no more than one thousand dollars
+41 ($1,000) and suspend the retail dealer's license for one year.
+42 (4) For a fourth or subsequent violation within three years of the first violation,
+43 the ALE Division shall impose a civil penalty of no more than two thousand
+44 dollars ($2,000) and revoke the retail dealer's license.
+45 (c) Testing Fee. – In any case in which the ALE Division imposes a penalty pursuant to
+46 subsection (b) of this section, for a violation of subdivision (4) of subsection (a) of this section,
+47 the retail dealer shall also pay to the ALE Division the actual costs paid by the ALE Division for
+48 testing of the samples resulting in the violation. Any fee collected pursuant to this subsection
+49 shall be remitted to the ALE Division.
+50 (d) Defenses. – It is a defense to a violation of subdivision (1) of subsection (a) of this
+51 section if the retail dealer does any of the following:
+House Bill 328-Fourth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (1) Shows that the purchaser produced a drivers license, a special identification
+2 card issued under G.S. 20-37.7 or issued by the state agency of any other state
+3 authorized to issue similar official state special identification cards for that
+4 state, a tribal enrollment card issued by a State or federally recognized Indian
+5 Tribe, a military identification card, or a passport showing the purchaser's age
+6 to be at least the required age for purchase and bearing a physical description
+7 of the person named on the card reasonably describing the purchaser.
+8 (2) Produces evidence of other facts that reasonably indicated at the time of sale
+9 that the purchaser was at least the required age.
+10 (3) Shows that at the time of purchase, the purchaser utilized a biometric
+11 identification system that demonstrated (i) the purchaser's age to be at least
+12 the required age for the purchase and (ii) the purchaser had previously
+13 registered with the retail dealer or retail dealer's agent a drivers license, a
+14 special identification card issued under G.S. 20-37.7 or issued by the state
+15 agency of any other state authorized to issue similar official state special
+16 identification cards for that state, a military identification card, or a passport
+17 showing the purchaser's date of birth and bearing a physical description of the
+18 person named on the document.
+19 (e) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+20 this section, shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+21 G.S. 115C-457.2.
+22 (f) Criminal Penalty. – Any person against whom a civil penalty has been imposed for
+23 violation of subdivision (3) of subsection (a) of this section who commits a second violation of
+24 subdivision (3) of subsection (a) of this section is guilty of a Class A1 misdemeanor. Any person
+25 who commits a third or subsequent violation of subdivision (3) of subsection (a) of this section
+26 is guilty of a Class H felony. Unless another provision of the law providing for greater
+27 punishment applies, any person who commits a violation of subdivision (4) of subsection (a) of
+28 this section is guilty of a Class H felony. Any person who commits a violation of subdivision (8)
+29 of subsection (a) of this section is guilty of a Class G felony.
+30 "§ 18D-101A. Sales and transfer restrictions on a producer.
+31 (a) Restriction. – A producer shall not knowingly sell or in any way transfer hemp that
+32 has been processed or prepared with the intent to be used in a hemp-derived consumable product
+33 to any person or entity other than a manufacturer licensed pursuant to this Chapter.
+34 (b) Prohibition. – A producer shall not knowingly sell or in any way transfer hemp that
+35 has been processed or prepared with the intent to be used in a prohibited hemp-derived
+36 consumable product to any person or entity.
+37 (c) Civil Penalties. – Violation of this section shall have the following penalties:
+38 (1) For the first violation, the ALE Division may impose a civil penalty of no
+39 more than five hundred dollars ($500.00).
+40 (2) For the second violation within three years, the ALE Division may impose a
+41 civil penalty of no more than seven hundred fifty dollars ($750.00).
+42 (3) For the third violation within three years of the first violation, the ALE
+43 Division shall impose a civil penalty of no more than one thousand dollars
+44 ($1,000).
+45 (4) For a fourth or subsequent violation within three years of the first violation,
+46 the ALE Division shall impose a civil penalty of no more than two thousand
+47 dollars ($2,000).
+48 (d) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+49 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+50 G.S. 115C-457.2.
+Page 4 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (e) Criminal Penalty. – Any person against whom a civil penalty has been imposed for
+2 violation of subsection (a) of this section who commits a second violation of this section is guilty
+3 of a Class A1 misdemeanor. Any person who commits a third or subsequent violation of
+4 subsection (a) of this section is guilty of a Class H felony. Any person who commits a violation
+5 of subsection (b) of this section is guilty of a Class G felony.
+6 (f) Applicability of this Section. – Nothing in this section shall be construed as
+7 prohibiting a producer from selling or transferring hemp that is intended to be used in any lawful
+8 product other than those regulated by this Chapter.
+9 "§ 18D-102. Offenses involving the purchase, attempted purchase, or possession of
+10 hemp-derived consumable products by a person under 21 years of age.
+11 (a) It is unlawful for any person to give a hemp-derived consumable product to anyone
+12 less than 21 years old.
+13 (b) It is unlawful for a person less than 21 years old to possess, purchase, or attempt to
+14 purchase a hemp-derived consumable product.
+15 (c) It is unlawful for any person to enter or attempt to enter a place where hemp-derived
+16 consumable products are sold or consumed, or to obtain or attempt to obtain hemp-derived
+17 consumable products, or to obtain or attempt to obtain permission to purchase hemp-derived
+18 consumable products, in violation of subsection (b) of this section, by using or attempting to use
+19 any of the following:
+20 (1) A fraudulent or altered drivers license.
+21 (2) A fraudulent or altered identification document other than a drivers license.
+22 (3) A drivers license issued to another person.
+23 (4) An identification document other than a drivers license issued to another
+24 person.
+25 (5) Any other form or means of identification that indicates or symbolizes that the
+26 person is not prohibited from purchasing or possessing a hemp-derived
+27 consumable product under this section.
+28 (d) It is unlawful for any person to permit the use of the person's drivers license or any
+29 other form of identification of any kind issued or given to the person by any other person who
+30 violates or attempts to violate subsection (b) of this section.
+31 (e) Penalties. –
+32 (1) Any person less than 21 years old who violates this section is guilty of a Class
+33 2 misdemeanor.
+34 (2) Any person at least 21 years old who violates this section is guilty of a Class
+35 1 misdemeanor.
+36 (3) Aiding or abetting a violation of this section shall be punished as provided in
+37 subdivisions (1) and (2) of this subsection, and all other provisions of this
+38 section shall apply to that offense.
+39 (f) Nothing in this section prohibits an underage person from selling, transporting, or
+40 possessing hemp-derived consumable products in the course of employment, if the employment
+41 of the person for that purpose is lawful under applicable youth employment statutes.
+42 "§ 18D-102.5. Offense for possessing prohibited hemp-derived consumable product.
+43 Any person who possesses a prohibited hemp-derived consumable product is guilty of a Class
+44 A1 misdemeanor.
+45 "§ 18D-103. Offenses involving the manufacture and distribution of hemp-derived
+46 consumable products.
+47 (a) Offenses. – It is unlawful for a manufacturer or distributor to do any of the following:
+48 (1) Knowingly, or having reason to know, distribute samples of a hemp-derived
+49 consumable product in or on a public street, sidewalk, park, or public building.
+House Bill 328-Fourth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (2) Engage in the business of manufacturing or distributing a hemp-derived
+2 consumable product without a valid license issued in accordance with this
+3 Chapter.
+4 (3) Knowingly, or having reason to know, manufacture or distribute a
+5 hemp-derived consumable product that has a concentration of more than
+6 three-tenths of one percent (0.3%) on a dry weight basis of delta-9
+7 tetrahydrocannabinol.
+8 (4) Knowingly, or having reason to know, manufacture or distribute a prohibited
+9 hemp-derived consumable product.
+10 (b) Criminal Penalties. – A violation of subdivision (a)(1), (a)(2), or (a)(3) of this section
+11 is a Class A1 misdemeanor. A violation of subdivision (a)(4) of this section is a Class G felony.
+12 (c) Civil Penalties. – In addition to any criminal punishment authorized by this section,
+13 for any violation of this section the ALE Division shall take one or more of the following actions
+14 against the licensee:
+15 (1) Suspend the licensee's license for a specified period of time not longer than
+16 three years.
+17 (2) Revoke the licensee's license.
+18 (3) Impose conditions on the operating hours of the licensee's business.
+19 (4) Impose civil penalties as follows:
+20 a. For a first violation, impose a civil penalty of no more than one
+21 thousand dollars ($1,000).
+22 b. For a second violation within three years, impose a civil penalty of no
+23 more than five thousand dollars ($5,000).
+24 c. For a third violation within three years of the first violation, impose a
+25 civil penalty of no more than seven thousand five hundred dollars
+26 ($7,500).
+27 (d) Testing Fee. – In any case in which the ALE Division imposes a penalty pursuant to
+28 subsection (b) of this section, for a violation of subdivision (3) of subsection (a) of this section,
+29 the manufacturer or distributor shall also pay to the ALE Division the actual costs paid by the
+30 ALE Division for testing of the samples resulting in the violation. Any fee collected pursuant to
+31 this subsection shall be remitted to the ALE Division.
+32 (e) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+33 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+34 G.S. 115C-457.2.
+35 (f) Defense. – It is a defense to a violation of subdivision (3) of subsection (a) of this
+36 section if the manufacturer does all of the following:
+37 (1) Recalls all hemp-derived consumable products from the same batch as the
+38 product on which the violation is based.
+39 (2) Has samples of the batch tested by an independent testing laboratory. The
+40 sample size required for testing pursuant to this subdivision shall be five times
+41 the number of units required pursuant to G.S. 18D-104(e) based on the size of
+42 the batch at production, regardless of the number of units that are able to be
+43 recalled.
+44 (3) Provides certified results from the independent testing laboratory indicating
+45 that the sample tested does not contain a concentration of more than
+46 three-tenths of one percent (0.3%) on a dry weight basis total combined of
+47 delta-9 tetrahydrocannabinol.
+48 (g) Forfeiture. – Any product sold in violation of subdivision (3) or (4) of subsection (a)
+49 of this section shall be subject to forfeiture pursuant to the procedures set forth in G.S. 18D-301.
+50 "§ 18D-104. Testing prior to distribution.
+Page 6 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (a) Requirement. – The manufacturer shall have a hemp-derived consumable product
+2 tested prior to distribution to a distributor or before distributing the product to a retail dealer. If
+3 the hemp-derived consumable product is packaged in a manner that may be sold to the ultimate
+4 consumer of the product when delivered to the distributor and the distributor does not open such
+5 package, the distributor is not required to test the hemp-derived consumable product. If the
+6 hemp-derived consumable product is not packaged in a manner that may be sold to the ultimate
+7 consumer of the product when delivered to the distributor or the distributor does open such
+8 package, the distributor shall have the hemp-derived consumable product tested prior to
+9 distribution. The testing shall determine the presence and amounts of any of the substances listed
+10 in subsection (b) of this section. No product that contains more than the maximum amount
+11 indicated for any substance in subsection (b) of this section shall be distributed or sold in this
+12 State.
+13 (b) Substances Tested; Limitations. – Hemp-derived consumable products shall be tested
+14 for the presence of and amount of the following substances and shall not exceed the amounts
+15 indicated:
+16 (1) A concentration of three-tenths of one percent (0.3%) of delta-9
+17 tetrahydrocannabinol, and no hemp-derived cannabinoid other than delta-9
+18 tetrahydrocannabinol.
+19 (2) 2,3-butanedione (Diacetyl).
+20 (3) Abamectin, not to exceed 300 parts per billion for ingestion or 100 parts per
+21 billion for inhalation.
+22 (4) Acephate, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+23 billion for inhalation.
+24 (5) Acequinocyl, not to exceed 2,000 parts per billion for ingestion or 100 parts
+25 per billion for inhalation.
+26 (6) Acetamiprid, not to exceed 3,000 parts per billion for ingestion or 100 parts
+27 per billion for inhalation.
+28 (7) Aldicarb, not to exceed 100 parts per billion for ingestion or inhalation.
+29 (8) Azoxystrobin, not to exceed 3,000 parts per billion for ingestion or 100 parts
+30 per billion for inhalation.
+31 (9) Bifenazate, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+32 billion for inhalation.
+33 (10) Bifenthrin, not to exceed 500 parts per billion for ingestion or 100 parts per
+34 billion for inhalation.
+35 (11) Boscalid, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+36 billion for inhalation.
+37 (12) Captan, not to exceed 3,000 parts per billion for ingestion or 700 parts per
+38 billion for inhalation.
+39 (13) Carbaryl, not to exceed 500 parts per billion for ingestion or 500 parts per
+40 billion for inhalation.
+41 (14) Carbofuran, not to exceed 100 parts per billion for ingestion or inhalation.
+42 (15) Chlorantraniliprole, not to exceed 3,000 parts per billion for ingestion or 1,000
+43 parts per billion for inhalation.
+44 (16) Chlordane, not to exceed 100 parts per billion for ingestion or inhalation.
+45 (17) Chlorfenapyr, not to exceed 100 parts per billion for ingestion or inhalation.
+46 (18) Chlormequat chloride, not to exceed 3,000 parts per billion for ingestion or
+47 1,000 parts per billion for inhalation.
+48 (19) Chlorpyrifos, not to exceed 100 parts per billion for ingestion or inhalation.
+49 (20) Clofentezine, not to exceed 500 parts per billion for ingestion or 200 parts per
+50 billion for inhalation.
+51 (21) Coumaphos, not to exceed 100 parts per billion for ingestion or inhalation.
+House Bill 328-Fourth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (22) Cyfluthrin, not to exceed 1,000 parts per billion for ingestion or 500 parts per
+2 billion for inhalation.
+3 (23) Cypermethrin, not to exceed 1,000 parts per billion for ingestion or 500 parts
+4 per billion for inhalation.
+5 (24) Daminozide, not to exceed 100 parts per billion for ingestion or inhalation.
+6 (25) DDVP (Dichlorvos), not to exceed 100 parts per billion for ingestion or
+7 inhalation.
+8 (26) Diazinon, not to exceed 200 parts per billion for ingestion or 100 parts per
+9 billion for inhalation.
+10 (27) Dimethoate, not to exceed 100 parts per billion for ingestion or inhalation.
+11 (28) Dimethomorph, not to exceed 3,000 parts per billion for ingestion or 200 parts
+12 per billion for inhalation.
+13 (29) Ethoprop(hos), not to exceed 100 parts per billion for ingestion or inhalation.
+14 (30) Etofenprox, not to exceed 100 parts per billion for ingestion or inhalation.
+15 (31) Etoxazole, not to exceed 1,500 parts per billion for ingestion or 100 parts per
+16 billion for inhalation.
+17 (32) Fenhexamid, not to exceed 3,000 parts per billion for ingestion or 100 parts
+18 per billion for inhalation.
+19 (33) Fenoxycarb, not to exceed 100 parts per billion for ingestion or inhalation.
+20 (34) Fenpyroximate, not to exceed 2,000 parts per billion for ingestion or 100 parts
+21 per billion for inhalation.
+22 (35) Fipronil, not to exceed 100 parts per billion for ingestion or inhalation.
+23 (36) Flonicamid, not to exceed 2,000 parts per billion for ingestion or 100 parts per
+24 billion for inhalation.
+25 (37) Fludioxonil, not to exceed 3,000 parts per billion for ingestion or 100 parts
+26 per billion for inhalation.
+27 (38) Hexythiazox, not to exceed 2,000 parts per billion for ingestion or 100 parts
+28 per billion for inhalation.
+29 (39) Imazalil, not to exceed 100 parts per billion for ingestion or inhalation.
+30 (40) Imidacloprid, not to exceed 3,000 parts per billion for ingestion or 400 parts
+31 per billion for inhalation.
+32 (41) Kresoxim-methyl, not to exceed 1,000 parts per billion for ingestion or 100
+33 parts per billion for inhalation.
+34 (42) Malathion, not to exceed 2,000 parts per billion for ingestion or 200 parts per
+35 billion for inhalation.
+36 (43) Metalaxyl, not to exceed 3,000 parts per billion for ingestion or 100 parts per
+37 billion for inhalation.
+38 (44) Methiocarb, not to exceed 100 parts per billion for ingestion or inhalation.
+39 (45) Methomyl, not to exceed 100 parts per billion for ingestion or inhalation.
+40 (46) Methyl parathion, not to exceed 100 parts per billion for ingestion or
+41 inhalation.
+42 (47) Mevinphos, not to exceed 100 parts per billion for ingestion or inhalation.
+43 (48) Myclobutanil, not to exceed 3,000 parts per billion for ingestion; prohibited at
+44 any concentration for inhalation.
+45 (49) Naled, not to exceed 500 parts per billion for ingestion or 250 parts per billion
+46 for inhalation.
+47 (50) Oxamyl, not to exceed 500 parts per billion for ingestion or inhalation.
+48 (51) Paclobutrazol, not to exceed 100 parts per billion for ingestion or inhalation.
+49 (52) Pentachloronitrobenzene, not to exceed 200 parts per billion for ingestion or
+50 150 parts per billion for inhalation.
+Page 8 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (53) Permethrin, not to exceed 1,000 parts per billion for ingestion or 100 parts per
+2 billion for inhalation.
+3 (54) Phosmet, not to exceed 200 parts per billion for ingestion or 100 parts per
+4 billion for inhalation.
+5 (55) Piperonyl butoxide, not to exceed 3,000 parts per billion for ingestion or
+6 inhalation.
+7 (56) Prallethrin, not to exceed 400 parts per billion for ingestion or 100 parts per
+8 billion for inhalation.
+9 (57) Propiconazole, not to exceed 1,000 parts per billion for ingestion or 100 parts
+10 per billion for inhalation.
+11 (58) Propoxur, not to exceed 100 parts per billion for ingestion or inhalation.
+12 (59) Pyrethrins, not to exceed 1,000 parts per billion for ingestion or 500 parts per
+13 billion for inhalation.
+14 (60) Pyridaben, not to exceed 3,000 parts per billion for ingestion or 200 parts per
+15 billion for inhalation.
+16 (61) Spinetoram, not to exceed 3,000 parts per billion for ingestion or 200 parts per
+17 billion for inhalation.
+18 (62) Spinosad A & D, not to exceed 3,000 parts per billion for ingestion or 100
+19 parts per billion for inhalation.
+20 (63) Spiromesifen, not to exceed 3,000 parts per billion for ingestion or 100 parts
+21 per billion for inhalation.
+22 (64) Spirotetramat, not to exceed 3,000 parts per billion for ingestion or 100 parts
+23 per billion for inhalation.
+24 (65) Spiroxamine, not to exceed 100 parts per billion for ingestion or inhalation.
+25 (66) Tebuconazole, not to exceed 1,000 parts per billion for ingestion or 100 parts
+26 per billion for inhalation.
+27 (67) Thiacloprid, not to exceed 100 parts per billion for ingestion or 100 parts per
+28 billion for inhalation.
+29 (68) Thiamethoxam, not to exceed 1,000 parts per billion for ingestion or 500 parts
+30 per billion for inhalation.
+31 (69) Trifloxystrobin, not to exceed 3,000 parts per billion for ingestion or 100 parts
+32 per billion for inhalation.
+33 (70) 1,2-Dichloroethane, not to exceed 2 parts per million.
+34 (71) 1,1-Dichloroethene, not to exceed 8 parts per million.
+35 (72) Acetone, not to exceed 750 parts per million.
+36 (73) Acetonitrile, not to exceed 60 parts per million.
+37 (74) Benzene, not to exceed 1 part per million.
+38 (75) Butane, not to exceed 5,000 parts per million.
+39 (76) Chloroform, not to exceed 2 parts per million.
+40 (77) Ethanol, not to exceed 5,000 parts per million.
+41 (78) Ethyl Acetate, not to exceed 400 parts per million.
+42 (79) Ethyl Ether, not to exceed 500 parts per million.
+43 (80) Ethylene Oxide, not to exceed 5 parts per million.
+44 (81) Heptane, not to exceed 5,000 parts per million.
+45 (82) Hexane, not to exceed 250 parts per million.
+46 (83) Isopropyl Alcohol, not to exceed 500 parts per million.
+47 (84) Methanol, not to exceed 250 parts per million.
+48 (85) Methylene Chloride, not to exceed 125 parts per million.
+49 (86) Pentane, not to exceed 750 parts per million.
+50 (87) Propane, not to exceed 5,000 parts per million.
+51 (88) Toluene, not to exceed 150 parts per million.
+House Bill 328-Fourth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (89) Trichloroethylene, not to exceed 25 parts per million.
+2 (90) Xylenes, Total (ortho-, meta-, para-), not to exceed 150 parts per million.
+3 (91) Cadmium, not to exceed 500 parts per billion for ingestion or 200 parts per
+4 billion for inhalation.
+5 (92) Lead, not to exceed 500 parts per billion for ingestion or inhalation.
+6 (93) Arsenic, not to exceed 1,500 parts per billion for ingestion or 200 parts per
+7 billion for inhalation.
+8 (94) Mercury, not to exceed 3,000 parts per billion for ingestion or 200 parts per
+9 billion for inhalation.
+10 (95) Shiga toxin-producing Escherichia coli (STEC E. coli) and other pathogenic
+11 E. coli, not to exceed 1 CFU per gram.
+12 (96) Salmonella, not to exceed 1 CFU per gram.
+13 (97) Aspergillus niger, Aspergillus fumigatus, Aspergillus flavus, Aspergillus
+14 terreus, not to exceed 1 CFU per gram.
+15 (98) Total Aflatoxin (B1, B2, G1, G2), not to exceed 20 parts per billion for
+16 ingestion or inhalation.
+17 (99) Ochratoxin, not to exceed 20 parts per billion for ingestion or inhalation.
+18 (100) Total combined Yeast and Mold, not to exceed 100,000 CFU per gram for
+19 ingestion and inhalation.
+20 (c) Laboratory Qualifications. – A manufacturer or distributor shall contract with an
+21 independent testing laboratory to provide the testing required under subsection (a) of this section.
+22 (d) Testing Method. – A laboratory providing testing required under subsection (a) of this
+23 section shall use high-performance liquid chromatography for any separation and measurement
+24 required in the testing.
+25 (e) Batch Testing. – A sample of each batch manufactured shall undergo the testing
+26 required by subsection (a) of this section and shall obtain a certificate of analysis by an
+27 independent testing laboratory. The size of sample required to be tested shall be determined by
+28 the size of the batch as follows:
+29 (1) For a batch containing 1 to 999 units, the required sample size is 1 unit.
+30 (2) For a batch containing 1,000 to 4,999 units, the required sample size is 2 units.
+31 (3) For a batch containing 5,000 to 9,999 units, the required sample size is 3 units.
+32 (4) For a batch containing 10,000 or more units, the required sample size is 5
+33 units.
+34 (f) Expiration Date. – A hemp-derived consumable product shall have an expiration date
+35 on the label that conforms with applicable federal law.
+36 (g) Civil Penalties. – A violation of this section shall result in the ALE Division taking
+37 one or more of the following actions against the licensee:
+38 (1) Suspend the licensee's license for a specified period of time not longer than
+39 three years.
+40 (2) Revoke the licensee's license.
+41 (3) Impose conditions on the operating hours of the licensee's business.
+42 (4) Impose civil penalties as follows:
+43 a. For a first violation, impose a civil penalty of no more than one
+44 thousand dollars ($1,000).
+45 b. For a second violation within three years, impose a civil penalty of no
+46 more than five thousand dollars ($5,000).
+47 c. For a third violation within three years of the first violation, impose a
+48 civil penalty of no more than seven thousand five hundred dollars
+49 ($7,500).
+Page 10 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (h) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+2 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+3 G.S. 115C-457.2.
+4 (i) ALE Division Duties. – The ALE Division shall do all of the following:
+5 (1) Maintain and post on its website a list of independent testing laboratories that
+6 meet the qualifications to test intermediate manufactured material and finished
+7 hemp-derived consumable products.
+8 (2) Develop an application and process to determine qualifying independent
+9 testing laboratories to be listed on the ALE Division's website. The application
+10 shall require a potentially qualifying laboratory to submit a sample certificate
+11 of analysis issued by the applying laboratory indicating that the laboratory is
+12 capable of detecting the chemicals provided in subsection (b) of this section.
+13 "§ 18D-105. Additional requirements and restrictions for hemp-derived consumable
+14 products.
+15 (a) Packaging Requirements. – A hemp-derived consumable product that is sold in this
+16 State shall meet both of the following requirements:
+17 (1) The product shall satisfy the child-resistant effectiveness standards under 16
+18 C.F.R. § 1700.15(b)(1) when tested in accordance with the requirements of 16
+19 C.F.R. § 1700.20.
+20 (2) The product shall be labeled with consumer protection warnings in the form
+21 of statements that cover all of the following:
+22 a. A list of ingredients and possible allergens and a nutritional fact panel
+23 or have a quick response code that can be scanned that directs
+24 consumers to a website containing the list of ingredients and possible
+25 allergens and a nutritional fact panel.
+26 b. A statement that use while pregnant or breastfeeding may be harmful.
+27 c. A statement that consumption of certain cannabinoids may impair
+28 your ability to drive and operate heavy machinery.
+29 d. A statement that the product is not approved by the United States Food
+30 and Drug Administration.
+31 e. A statement to keep out of reach of children.
+32 f. A statement to consult your physician before use.
+33 g. If the product is ingestible, the amount of hemp-derived cannabinoid
+34 in each serving of the product, measured in milligrams.
+35 h. The total amount of hemp-derived cannabinoid in the entire package,
+36 measured in milligrams.
+37 i. The net weight of the product.
+38 j. A quick response code that can be scanned to access a website
+39 providing the product's batch number, date received, date of
+40 completion, and method of analysis for the testing required under
+41 G.S. 18D-106.
+42 k. An expiration date in accordance with applicable federal law.
+43 (b) Advertising Restrictions. – A manufacturer, distributor, or retail dealer of a
+44 hemp-derived consumable product shall not advertise, market, or offer for sale the product by
+45 using, in the labeling or design of the product or product packaging or in advertising or marketing
+46 materials for the product trade dress, trademarks, branding, or other related materials, any
+47 imagery or scenery that depicts or signifies characters or symbols known to appeal primarily to
+48 persons under 21 years of age, including, but not limited to, superheroes, comic book characters,
+49 video game characters, television show characters, movie characters, mythical creatures,
+50 unicorns, animals, cartoon characters, or any imitation of the packaging or labeling of candy,
+House Bill 328-Fourth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 cereals, sweets, chips, or other food products typically marketed to persons under 21 years of
+2 age.
+3 (c) Non-Liquid Ingestible Product Restrictions. – Any hemp-derived consumable
+4 product intended for ingestion that is not a liquid and not intended for inhalation shall not do any
+5 of the following:
+6 (1) Be sold in a serving that contains more than 10 milligrams, in the aggregate,
+7 of delta-9 tetrahydrocannabinol.
+8 (2) Be formed in a shape that would violate subsection (b) of this section.
+9 (c1) Liquid Ingestible Product Restrictions. – Any hemp-derived consumable product
+10 intended for ingestion that is a liquid and not intended for inhalation shall not be sold in a
+11 container that contains more than 10 milligrams in the aggregate of delta-9 tetrahydrocannabinol.
+12 (c2) Inhalable Product for Vaporization Restrictions. – Any hemp-derived consumable
+13 product intended for inhalation by vaporization shall not be sold in a container that contains more
+14 than 3 milliliters in the aggregate of delta-9 tetrahydrocannabinol. For the purposes of this
+15 subsection, "vaporization" includes the heating of hemp-derived oil to release aerosolized
+16 hemp-derived cannabinoids.
+17 (d) Civil Penalties. – A violation of this section shall result in the ALE Division taking
+18 one or more of the following actions against the licensee:
+19 (1) Suspend the licensee's license for a specified period of time not longer than
+20 three years.
+21 (2) Revoke the licensee's license.
+22 (3) Impose conditions on the operating hours of the licensee's business.
+23 (4) Impose civil penalties as follows:
+24 a. For a first violation, impose a civil penalty of no more than one
+25 thousand dollars ($1,000).
+26 b. For a second violation within three years, impose a civil penalty of no
+27 more than five thousand dollars ($5,000).
+28 c. For a third violation within three years of the first violation, impose a
+29 civil penalty of no more than seven thousand five hundred dollars
+30 ($7,500).
+31 (e) Proceeds of Civil Penalty. – The clear proceeds of any civil penalty imposed under
+32 this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+33 G.S. 115C-457.2.
+34 "§ 18D-105.1. Conduct on licensed premises.
+35 (a) Certain Conduct. – It shall be unlawful for a licensee or the licensee's agent or
+36 employee to knowingly allow any of the following kinds of conduct to occur on the licensed
+37 premises:
+38 (1) Any violation of this Chapter.
+39 (2) Any violation of the controlled substances, gambling, or any other unlawful
+40 acts.
+41 (b) Supervision. – It shall be unlawful for a permittee to fail to superintend in person or
+42 through a manager the business for which a license is issued.
+43 "§ 18D-106. Construction of Chapter.
+44 Nothing in this Chapter shall be construed to do any of the following:
+45 (1) Permit a person to undertake any task under the influence of a hemp-derived
+46 consumable product when doing so would constitute negligence or
+47 professional malpractice.
+48 (2) Permit a person to operate, navigate, or be in actual physical control of a motor
+49 vehicle, aircraft, motorized watercraft, or any other vehicle while under the
+50 influence of a hemp-derived consumable product.
+Page 12 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Require an employer to accommodate the use of a hemp-derived consumable
+2 product in a workplace or an employee working while under the influence of
+3 a hemp-derived consumable product.
+4 (4) Require an individual or establishment in lawful possession of property to
+5 admit a guest, client, customer, or other visitor who is impaired as a result of
+6 the person's use of a hemp-derived consumable product.
+7 (5) Exempt a person from prosecution for a criminal offense related to impairment
+8 or intoxication resulting from the use of a hemp-derived consumable product
+9 or relieve a person from any requirement under law to submit to a breath,
+10 blood, urine, or other test to detect the presence of a controlled substance.
+11 (6) Limit the ability of an employer to establish, continue, or enforce a drug-free
+12 workplace program or policy.
+13 (7) Create a cause of action against an employer for wrongful discharge or
+14 discrimination.
+15 (8) Allow the possession, sale, manufacture, or distribution of any substance that
+16 is otherwise prohibited by Article 5 of Chapter 90 of the General Statutes.
+17 "Article 2.
+18 "Licensing.
+19 "§ 18D-200. Definitions.
+20 The definitions contained in Article 1 of this Chapter apply to this Article as appropriate.
+21 "§ 18D-201. Licensing requirements; qualifications; duration.
+22 (a) Requirement. – Prior to the commencement of business or by July 1, 2026, whichever
+23 is later, a person or entity engaged in this State in any business regulated by this Chapter and
+24 listed in this subsection shall obtain a license to engage in that business from the ALE Division.
+25 Businesses engaging in one or more of the following are required to obtain a license pursuant to
+26 this section:
+27 (1) Manufacturing hemp-derived consumable products.
+28 (2) Distributing hemp-derived consumable products.
+29 (3) Selling hemp-derived consumable products.
+30 (b) Qualifications. – In order to obtain and maintain a license under subsection (a) of this
+31 section, a person shall meet all of the following criteria:
+32 (1) Be at least 21 years old.
+33 (2) Submit to the ALE Division any information determined by the ALE Division
+34 to be necessary for the efficient enforcement of this Chapter.
+35 (3) Have not been convicted of a felony relating to a controlled substance within
+36 10 years in any state or federal jurisdiction.
+37 (4) Consent to reasonable inspection by the ALE Division of the inventory of
+38 products regulated by this Chapter to ensure compliance with this Chapter and
+39 the taking of samples found to not be in compliance with the packaging,
+40 labeling, and testing requirements of this section.
+41 (5) Be current in filing all applicable tax returns to the State and in payment of all
+42 taxes, interest, and penalties collectable pursuant to G.S. 105-241.22.
+43 (c) Licenses Required. – A person or entity engaged in more than one of the businesses
+44 listed in subsection (a) of this section shall be required to obtain a separate license for each
+45 business. Upon application for a license, the person or entity engaged in more than one type of
+46 business regulated by this Chapter must indicate on the license application all of the businesses
+47 listed in subsection (a) of this section in which the business engages or intends to engage.
+48 (d) Duration. – A license issued pursuant to this Article is valid for a period of one year
+49 and shall be renewed annually.
+50 "§ 18D-202. Fees.
+House Bill 328-Fourth Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 (a) Application Fee. – The application fee for a license required pursuant to this Article
+2 shall be as follows:
+3 (1) For a license to manufacture hemp-derived consumable products, a fee of
+4 twenty-five thousand dollars ($25,000).
+5 (2) For a license to distribute hemp-derived consumable products, a fee of five
+6 thousand dollars ($5,000).
+7 (3) For a license to sell hemp-derived consumable products at a retail location, or
+8 online for delivery to a person within this State, a fee of five hundred dollars
+9 ($500.00) for each location or each internet website offering delivery in this
+10 State.
+11 (b) Renewal Fee. – The renewal fee for a license issued pursuant to this Article shall be
+12 as follows:
+13 (1) For a license to manufacture hemp-derived consumable products, a renewal
+14 fee of ten thousand dollars ($10,000).
+15 (2) For a license to distribute hemp-derived consumable products, a renewal fee
+16 of one thousand five hundred dollars ($1,500).
+17 (3) For a license to sell hemp-derived consumable products at a retail location or
+18 online for delivery to a person within this State, a renewal fee in the same
+19 amount as the initial licensing fees established under subsection (a) of this
+20 section.
+21 "§ 18D-203. ALE Division authority to deny or revoke.
+22 The ALE Division may revoke or refuse to issue any license for any of the following:
+23 (1) Failure to comply with or meet any of the qualifications required by
+24 G.S. 18D-201(b).
+25 (2) Submission of false or misleading information in an application for licensure
+26 or renewal.
+27 (3) Submission of false or misleading information in any report or information
+28 required by this Chapter to be submitted to the ALE Division.
+29 (4) Failure to comply with civil penalties authorized by this Chapter.
+30 "§ 18D-204. Civil penalties; procedure.
+31 Proceedings for the assessment of civil penalties authorized in Article 1 of this Chapter shall
+32 be governed by Chapter 150B of the General Statutes. If the person or entity assessed a civil
+33 penalty fails to pay the penalty to the ALE Division, the ALE Division may institute an action in
+34 the superior court of the county in which the person resides or has their principal place of business
+35 to recover the unpaid amount of the penalty. An action to recover a civil penalty under this
+36 Chapter shall not relieve any party from any other penalty prescribed by law.
+37 "§ 18D-205. ALE Division to develop application, adopt rules, remit revenue.
+38 (a) License Application. – The ALE Division shall develop and make available online an
+39 application for the license required by this Article.
+40 (b) Tracking System. – The ALE Division shall establish, maintain, and control a
+41 computer software tracking system that traces hemp from seed to sale as a hemp-derived
+42 consumable product and allows real-time, 24-hour access by the ALE Division and any State or
+43 local law enforcement agency in North Carolina to data from all production facilities and testing
+44 laboratories. The tracking system must allow for integration of other seed-to-sale systems and, at
+45 a minimum, include notification of when hemp seeds are planted, when hemp plants are harvested
+46 and destroyed, and when hemp is transported, sold, stolen, diverted, or lost. Each manufacturer
+47 and distributor shall use the seed-to-sale tracking system established by the ALE Division or
+48 integrate its own seed-to-sale tracking system with the seed-to-sale tracking system established
+49 by the ALE Division. The ALE Division shall establish minimum requirements for the
+50 seed-to-sale tracking system used by a supplier. The ALE Division may contract with a vendor
+Page 14 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 to establish the seed-to-sale tracking system. The vendor may not have a direct or indirect
+2 financial interest in a manufacturer, distributor, or testing laboratory.
+3 (c) Rules. – The ALE Division shall have authority to adopt, amend, and repeal rules to
+4 carry out the provisions of this Chapter.
+5 (d) Distribution of Revenue. – The revenue collected from fees established under this
+6 Chapter shall be remitted to the ALE Division, on a monthly basis, to be used to cover costs
+7 incurred by the ALE Division in enforcing the provisions of this Chapter. To the extent the funds
+8 described in this subsection are deemed unappropriated, the funds are hereby appropriated for
+9 the purpose set forth in this subsection.
+10 "Article 3.
+11 "Enforcement.
+12 "§ 18D-300. ALE Division.
+13 (a) Authority. – The ALE Division shall enforce the provisions of this Chapter in a
+14 manner that is reasonable to reduce the extent to which hemp-derived consumable products are
+15 sold or distributed to persons under 21 years of age and shall conduct random, unannounced
+16 inspections at locations where hemp-derived consumable products are sold or distributed to
+17 ensure compliance with the provisions of this Chapter. If, upon reasonable inspection, the ALE
+18 Division determines a licensee's inventory may consist of products not in compliance with the
+19 packaging, labeling, and testing requirements of this Chapter, the ALE Division is authorized to
+20 only take samples of a licensee's inventory of hemp-derived consumable products considered
+21 noncompliant to be submitted for testing in order to determine compliance with the provisions of
+22 this Chapter. To procure evidence of violations of this Chapter, ALE Division agents shall have
+23 authority to investigate the operation of each licensee under this Chapter and each licensed
+24 premises for which a license has been issued under this Chapter, to make inspections that include
+25 viewing the entire premises, including the examination of records, equipment, and proceeds
+26 related to the manufacture or distribution of hemp-derived consumable products. The inspection
+27 authorized by this section may be made at any time it reasonably appears that someone is on the
+28 premises.
+29 (b) Interference with Inspection. – Refusal by a licensee or by any employee of a licensee
+30 to permit ALE Division agents to enter the premises to make an inspection authorized by
+31 subsection (a) of this section shall be cause for suspension, revocation, or other action against the
+32 licensee. It shall be a Class 2 misdemeanor for any person to resist or obstruct an agent attempting
+33 to make a lawful inspection under this section.
+34 (c) Report. – Beginning January 1, 2027, the ALE Division shall submit an annual report
+35 to the General Assembly describing in detail the ALE Division's enforcement efforts under this
+36 Chapter. The ALE Division shall also make the report required under this subsection available
+37 on the ALE Division's website.
+38 "§ 18D-301. Forfeiture of property.
+39 (a) Seizure of Product. – For any hemp-derived consumable product subject to forfeiture,
+40 a law enforcement officer is hereby authorized and empowered to seize and take possession of
+41 such products.
+42 (b) Custody until Trial. – A law enforcement officer seizing a product subject to forfeiture
+43 shall provide for its safe storage until trial.
+44 (c) Disposition after Criminal Trial. – The presiding judge in a criminal proceeding for
+45 violation of G.S. 18D-103(a)(3) or G.S. 18D-103(a)(4) may take the following actions after
+46 resolution of a charge against the owner or possessor of products subject to forfeiture under this
+47 section:
+48 (1) If the owner or possessor of the product is found guilty of a violation of
+49 G.S. 18D-103(a)(3) or G.S. 18D-103(a)(4), the judge shall order the product
+50 forfeited.
+House Bill 328-Fourth Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 (2) If the owner or possessor of the product is found not guilty, or if the charge is
+2 dismissed or otherwise resolved in favor of the owner or possessor, the judge
+3 shall order the product returned to the owner or possessor.
+4 (3) If the product is also needed as evidence at an administrative hearing, the
+5 judge shall provide that the order does not go into effect until the ALE
+6 Division determines that the product is no longer needed for the administrative
+7 proceeding.
+8 (d) Return of Property. – Any owner of products seized for forfeiture may apply to a
+9 judge to have the products returned to the owner if no criminal charge has been made in
+10 connection with that product within a reasonable time after seizure. The judge may not order the
+11 return of the product if possession by the owner would be unlawful."
+12 SECTION 1.(b) G.S. 18B-500(b) reads as rewritten:
+13 "(b) Subject Matter Jurisdiction. – After taking the oath prescribed for a peace officer, an
+14 alcohol law-enforcement agent shall have authority to arrest and take other investigatory and
+15 enforcement actions for any criminal offense:
+16 (1) Occurring, encountered, or otherwise discovered on the premises of, or
+17 elsewhere when the conduct relates to, a location under application for or
+18 holding a permit issued by the North Carolina Alcoholic Beverage Control
+19 Commission or the North Carolina Education Lottery Commission.
+20 (1a) Occurring, encountered, or otherwise discovered on the premises of, or
+21 elsewhere when the conduct relates to, a location holding a license issued
+22 pursuant to Chapter 18D of the General Statutes.
+23 (2) Encountered or otherwise discovered while investigating or enforcing matters
+24 for the North Carolina Alcoholic Beverage Control Commission or the North
+25 Carolina Education Lottery Commission or encountered or otherwise
+26 discovered while investigating or enforcing the provisions of this Chapter,
+27 Chapter 18C of the General Statutes, Chapter 18D of the General Statutes,
+28 G.S. 14-313, or Parts 1 and 2 of Article 37 of Chapter 14 of the General
+29 Statutes.
+30 (3) Encountered or otherwise discovered while carrying out any duty or function
+31 assigned to the Division by law.
+32 (4) Occurring in an agent's presence.
+33 (5) When assisting another law enforcement agency."
+34 SECTION 1.(c) G.S. 7A-304(a) reads as rewritten:
+35 "(a) In every criminal case in the superior or district court, wherein the defendant is
+36 convicted, or enters a plea of guilty or nolo contendere, or when costs are assessed against the
+37 prosecuting witness, the following costs shall be assessed and collected. No costs may be
+38 assessed when a case is dismissed. Only upon entry of a written order, supported by findings of
+39 fact and conclusions of law, determining that there is just cause, the court may (i) waive costs
+40 assessed under this section or (ii) waive or reduce costs assessed under subdivision (7), (8), (8a),
+41 (11), (12), or (13) of this section. No court may waive or remit all or part of any court fines or
+42 costs without providing notice and opportunity to be heard by all government entities directly
+43 affected. The court shall provide notice to the government entities directly affected of (i) the date
+44 and time of the hearing and (ii) the right to be heard and make an objection to the remission or
+45 waiver of all or part of the order of court costs at least 15 days prior to hearing. Notice shall be
+46 made to the government entities affected by first-class mail to the address provided for receipt of
+47 court costs paid pursuant to the order. The costs referenced in this subsection are listed below:
+48 …
+49 (14) For the services of any laboratory facility, the district or superior court judge
+50 shall, upon conviction, order payment of the sum of six hundred dollars
+51 ($600.00) to be remitted to the Alcohol Law Enforcement Division of the
+Page 16 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 Department of Public Safety (ALE Division) or agency that paid for the
+2 laboratory services. The cost shall be assessed only in cases in which (i) the
+3 defendant is convicted of a violation of G.S. 18D-103(a)(3) or
+4 G.S. 18D-103(a)(4) and (ii) as part of the investigation leading to the
+5 defendant's conviction, testing was conducted at a laboratory on products
+6 regulated under Chapter 18D of the General Statutes."
+7 SECTION 1.(d) This section becomes effective July 1, 2026, and applies to all
+8 hemp-derived consumable products possessed, sold, distributed, or manufactured on or after that
+9 date, and to all offenses committed on or after that date.
+10
+11 PART II. TECHNICAL CORRECTION
+12 SECTION 2.(a) G.S. 90-94.1 is repealed.
+13 SECTION 2.(b) This section becomes effective December 1, 2025, and applies to
+14 offenses committed on or after that date.
+15
+16 PART III. BAN HEMP-DERIVED CONSUMABLE PRODUCTS ON EDUCATIONAL
+17 PROPERTY
+18 SECTION 3.(a) Article 29A of Chapter 115C of the General Statutes reads as
+19 rewritten:
+20 "Article 29A.
+21 "Policy Prohibiting Use Of Tobacco Products and Hemp-Derived Consumable Products.
+22 "§ 115C-407. Policy prohibiting tobacco product and hemp-derived consumable product
+23 use in school buildings, grounds, and at school-sponsored events.
+24 (a) Not later than August 1, 2008, local boards of education Governing bodies of public
+25 school units shall adopt, implement, and enforce adopt a written policy prohibiting at all times
+26 the use of any tobacco product or hemp-derived consumable product by any person in school
+27 buildings, in school facilities, on school campuses, and in or on any other school property owned
+28 or operated by the local school administrative public school unit. The policy shall further prohibit
+29 the use of all tobacco products and hemp-derived consumable products by persons attending a
+30 school-sponsored event at a location not listed in this subsection when in the presence of students
+31 or school personnel or in an area where smoking is otherwise prohibited by law.
+32 (b) The policy shall include at least all of the following elements:
+33 (1) Adequate notice to students, parents, the public, and school personnel of the
+34 policy.
+35 (2) Posting of signs prohibiting at all times the use of tobacco products and
+36 hemp-derived consumable products by any person in and on school property.
+37 (3) Requirements that school personnel enforce the policy.
+38 (c) The policy may permit tobacco products to be included in instructional or research
+39 activities in public school buildings if the activity is conducted or supervised by the faculty
+40 member overseeing the instruction or research and the activity does not include smoking,
+41 chewing, or otherwise ingesting the tobacco product.
+42 (d) The North Carolina Health and Wellness Trust Fund Commission Tobacco
+43 Prevention and Control Branch shall work with local boards of education governing bodies of
+44 public school units to provide assistance with the implementation of this policy including
+45 providing information regarding smoking cessation and prevention resources. Nothing in this
+46 section, G.S. 143-595 through G.S. 143-601, or any other section prohibits a local board of
+47 education governing body of a public school unit from adopting and enforcing a more restrictive
+48 policy on the use of tobacco products or hemp-derived consumable products in school buildings,
+49 in school facilities, on school campuses, or at school-related or school-sponsored events, and in
+50 or on other school property.
+51 (e) For the purposes of this section, the following definitions apply:
+House Bill 328-Fourth Edition Page 17
+
+General Assembly Of North Carolina Session 2025
+1 (1) Hemp-derived consumable product. – As defined in G.S. 18D-100.
+2 (2) Tobacco product. – As defined in G.S. 14-313, including vapor products.
+3 (3) Vapor product. – As defined in G.S. 14-313."
+4 SECTION 3.(b) G.S. 115C-150.12C is amended by adding a new subdivision to
+5 read:
+6 "(15a) The board of trustees shall adopt a policy prohibiting tobacco products and
+7 hemp-derived consumable products in accordance with Article 29A of this
+8 Chapter."
+9 SECTION 3.(c) G.S. 115C-218.75 is amended by adding a new subsection to read:
+10 "(a1) Policy Prohibiting Tobacco Product and Hemp-Derived Consumable Product. – A
+11 charter school shall adopt a policy prohibiting tobacco products or hemp-derived consumable
+12 products in accordance with Article 29A of this Chapter."
+13 SECTION 3.(d) G.S. 115C-238.66 is amended by adding a new subdivision to read:
+14 "(23) Policy prohibiting tobacco product and hemp-derived consumable product. –
+15 A regional school shall adopt a policy prohibiting tobacco products and
+16 hemp-derived consumable products in accordance with Article 29A of this
+17 Chapter."
+18 SECTION 3.(e) G.S. 116-235 is amended by adding a new subsection to read:
+19 "(k) Prohibition of Tobacco Product and Hemp-Derived Consumable Product. – The
+20 Board of Trustees shall adopt a policy prohibiting tobacco products and hemp-derived
+21 consumable products in accordance with Article 29A of Chapter 115C of the General Statutes."
+22 SECTION 3.(f) G.S. 116-239.8(b) is amended by adding a new subdivision to read:
+23 "(26) Prohibition of tobacco product and hemp-derived consumable product. – The
+24 laboratory school shall adopt a policy prohibiting tobacco products and
+25 hemp-derived consumable products in accordance with Article 29A of
+26 Chapter 115C of the General Statutes."
+27 SECTION 3.(g) G.S. 115C-562.5(a) is amended by adding a new subdivision to
+28 read:
+29 "(7a) For any school facility in which students attend in-person classes, the school
+30 shall adopt a policy that is consistent with the requirements of Article 29A of
+31 this Chapter to prohibit the use of tobacco products or hemp-derived
+32 consumable products on school grounds."
+33 SECTION 3.(h) This section is effective when it becomes law and applies beginning
+34 with the 2025-2026 school year.
+35
+36 PART VI. ADD KRATOM AS A SCHEDULE VI CONTROLLED SUBSTANCE
+37 SECTION 4.(a) G.S. 90-94 reads as rewritten:
+38 "§ 90-94. Schedule VI controlled substances.
+39 (a) This schedule includes the controlled substances listed or to be listed by whatever
+40 official name, common or usual name, chemical name, or trade name designated. In determining
+41 that such substance comes within this schedule, the Commission shall find: no currently accepted
+42 medical use in the United States, or a relatively low potential for abuse in terms of risk to public
+43 health and potential to produce psychic or physiological dependence liability based upon present
+44 medical knowledge, or a need for further and continuing study to develop scientific evidence of
+45 its pharmacological effects.
+46 (b) The following controlled substances are included in this schedule:
+47 (1) Marijuana.
+48 (2) Tetrahydrocannabinols, except for tetrahydrocannabinols found in a product
+49 with a delta-9 tetrahydrocannabinol concentration of not more than
+50 three-tenths of one percent (0.3%) on a dry weight basis.
+Page 18 House Bill 328-Fourth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (3) Repealed by Session Laws 2017-115, s. 8, effective December 1, 2017, and
+2 applicable to offenses committed on or after that date.
+3 (4) Kratom. For the purposes of this subdivision, "Kratom" includes any quantity
+4 of mitragynine or 7 hydroxymytragynine or both, extracted from the leaf of
+5 the plant Mitragyna speciosa.
+6 (c) Notwithstanding the provisions of this section, any prescription drug approved by the
+7 federal Food and Drug Administration under Section 505 of the federal Food, Drug, and
+8 Cosmetic Act that is designated, rescheduled, or deleted as a controlled substance under federal
+9 law by the United States Drug Enforcement Administration shall be excluded from Schedule VI
+10 and may be prescribed, distributed, dispensed, and used in accordance with federal law upon the
+11 issuance of a notice, final rule, or interim final rule by the United States Drug Enforcement
+12 Administration that designates, reschedules, or deletes such prescription drug as a controlled
+13 substance under federal law, unless the Commission objects to such action as provided under
+14 G.S. 90-88(d). If the Commission does not object as provided under G.S. 90-88(d), the
+15 prescription drug shall be deemed to be designated, rescheduled, or deleted as a controlled
+16 substance in accordance with federal law and in compliance with this Chapter."
+17 SECTION 4.(b) This section becomes effective December 1, 2025, and applies to
+18 offenses committed on or after that date.
+19
+20 PART V. EFFECTIVE DATE
+21 SECTION 5. Except as otherwise provided, this act is effective when it becomes
+22 law.
+House Bill 328-Fourth Edition Page 19
+
+[DELETED:  4 R (   A A A T R T S D A P O H C P A T A K A A S T  P S " " " " " U ( A o ( B t t ( D – A p o e t d o s h c ( E t 1 o 1 C § 1 i w h c p a p ( H ( H c – A p f i h i a ( c ( t ( c ( d]
+[DELETED:  S  H ( f ( H i f h i o t a t t o t t u t i h p i f t a o s o s S ( H ( I c a H a I 1 a o i r w t D E 1 b D i c D p p o p h c p i t S d H c t c s a t u ( I – T p o c h t t m b s ( I – T p o h i t r s t ( L ( L C ( M – T c b e i c o o m h ( M – A p o e t e i t p o m p o p o h c p ( P D o A t e i t p o f a h h t i i t b u i t m o a h ( P f g i f h i o i t c c t o S ( R t ( S – A q o a h c p r s]
+[DELETED:  S  P " ( R ( S a p o a f a p p o h c p p i t r d h r g t b t t p h o t c ( K c p i o o a p s s p o p b ( E a ( K o h r t k s a h c p t h a c o t t o p ( ( K o h r t k s a h c p ( K o i ( K c i w t p s p d t t h f t o o p ( o a d w b o d t ( K o h r t k s o d a p h ( C ( F m ( F c ( F t t v w t y o t f v t A D ( ( F t d ( T s t t s ( D s]
+[DELETED:  S  H ( S c a s T t o ( P t ( S t a t t o p t p u a b i t r a f t p a ( t p h p r s a o a o s a t i s o s s i s p ( P t s s b r t t C P a F F i a w G ( C v s w i g o a C H f U a p o t l p f g p t o " ( R h t ( P h b p o p w t i t b u i a p h c ( C ( F m ( F c ( F t t v w t y o t f v t A D ( ( F t d ( P t s s b r t t C P a F F i a w G]
+[DELETED:  S  P ( C v o a C A m A p w c a t o s v o s o ( A o t S – N i t s s b c a p p " 1  O i t p a p o p o h ( I l ( I p ( I c t a o c c a ( A ( A ( A ( A i d o t a d l i t a p ( A p i n p f p o p a h c ( I o v ( P ( A 2 ( A 1 ( A s s ( N p o " A A " 1  O i t m a d o h c ( O ( K c]
+[DELETED:  S  H ( E i t b o m o d a h c C ( K o h r t k m o d a h c p t h a c o m t t o o p ( o a d w b o d t ( K h ( C i ( C f a ( S t ( R ( I ( I a F a f v i a c p o n m t o t b F m c F c o ( ( T s t A t ( P t s s b r t t C P a F F i a w G ( D s ( R p ( H s t t r ( P t t s t d n c a c o m t t d ( F o "]
+[DELETED:  S  P ( R t t c p I h c s p t d s h t h c p t p t d i i S ( S f i ( A c o t o o p ( o d t t ( 2 ( A b ( A b ( A p ( A p ( A ( A p ( B b ( B b ( B b ( C b ( C b ( C ( C p ( C ( C ( C 1 ( C ( C b ( C]
+[DELETED:  S  H ( C b ( C p ( D ( D ( n t e 1 p p b f i o i ( D b ( D ( D p ( E ( E ( E b ( F p ( F ( F p ( F ( F b ( F p ( H p ( I ( I p ( K p ( M b ( M b ( M ( M ( M p n t e 1 p p b f i o i ( M ( M a ( N f ( O ( P ( P 1]
+[DELETED:  S  P ( P b ( P b ( P b n t e 3 p p b f i o i ( P b ( P p ( P ( P b ( P b ( S b ( S p ( S p ( S p ( S ( T p ( T b ( T p ( T p ( 1 ( 1 ( A ( A ( B ( B ( C ( E ( E ( E ( E ( H ( H ( I ( M ( M ( P ( P ( T]
+[DELETED:  S  H ( T ( X ( C b ( L ( A b ( M b ( S E ( S ( A n A f A f A t ( T A ( B G G n t e 2 p p b f i ( O ( T i ( L Q – A m d s c w a i ( T s r ( B t r b s ( o t s a s o a c o a b a i t ( F ( F ( F ( F u ( E o ( C o ( S t ( R ( I ( I a F a f v i a c p o n m t o t b F m c F c o (]
+[DELETED:  S  P ( P t s s b r t t C P a F F i a w G ( A ( M m h ( D a a a p t d q i t s o c " 1  A r a r f h c p ( P S ( T C C ( T o a A o h a q r c t c b s t d c a b A c A s t c o c c m i y d A a e A f A g I i h T m i T j A q r c t c b s t a a w p t p b n d r d o c a m o a f t t r u G k A ( A R – A m d o r d o a h u m f t p t d t b o o r m a i p v g c t s c m c m c u]
+[DELETED:  S  H c a ( N I P R – A h c p o ( B o ( B ( L I P R – A h c p i c ( I p t 3 m i t a o d t F t p o t s " i t h o h o t r a h ( C o ( S t ( R ( I ( I a F a f v i a c p o n m t o t b F m c F c o ( ( P t s s b r t t C P a F F i a w G " ( C C – I s b u f a l o t l a o e p ( A ( A a ( S t " N ( P c p w d s w c n o p ( P v i]
+[DELETED:  S  P ( R p a ( R a t ( E o o b ( L w ( C a c o a a a e f w d o d ( A i " " " T " ( R i l B t ( M ( D ( S ( Q s ( B ( S t ( H 1 ( C p t t o f t n b i c w t p l ( B t ( L l b b l ( D a "]
+[DELETED:  S  H ( A s ( F t ( F t ( F o ( S ( R a ( F f ( F o ( F o a s " T ( F t c w o m a o t q r b G ( S o ( S r ( F " P b p t t C " ( L a ( T S – T A D s e m a c a c s t s t t h f s t s a a h c l l a a a i b t A D T A D s e m r f t s]
+[DELETED:  S  P t e t s t s T v m n h a d o i f ( R c ( D C i d t " " " ( A D a m s i a l h c p a s o e D p o n t a t t p v r a p ( I t p A D a t e t p t m a i a b s l t ( R t C o " ( S a s ( C s ( D v o G o G m t t f a a r s ( I p o G f]
+[DELETED:  S  H ( I d s ( I j s p t t o d n g i e u t A D p ( R j t h t p r t t o i n c c h b m i c r S " S a e ( O e o o d o t p o o e h C ( O e o o d o t p o o e p ( E f C E L C o e o o d C G S ( E a ( O ( W S " I e c c i t s o d c w t d i c p w t f c s b a a c N c m b a f a ( c a a w m c … ( F s u c o p o t s o s h d (]
+[DELETED:  S  P D o P S ( D o a t p f t l d i c o a v o G o G a ( a p o t i l t t d c t w c a a l o p r S h d  P S S o  P P S 3  A 2 o C 1 o G S r a r " " " u ( N s t b o t s o ( T ( A p ( P o s p a a t t u o t p a h ( R ( T a m o t i o r a t a d n i s c ( T N C H a W T F C T P p s u t p a w t i o t p i p s G t G o a o p a l b e p i o ( F]
+[DELETED:  S  H ( H ( T ( V S r " T h C S " P c p S " P A r s s a a p p t p a h C S " P o T P a H C P – T B o T s a a p p t p a h c S " P l s s a a p p t p a h c p i a w A 2 o C S r " F s t C t p t u o t p o h c S w  P S " ( T o t m h m i ( T ( M ( T w a d t c o n m t t]
+[DELETED:  S  P ( R a ( K o t ( N f F a D A u S 5 o t f F D a C l a i A s G I t C d n o a p u G t p d s b d t b d r o d a a c s S o  P S l]

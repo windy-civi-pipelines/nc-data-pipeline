@@ -1,0 +1,388 @@
+Title: HOUSE BILL 455
+Official Title: HOUSE BILL 455
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Repeal Certificate of Need Laws. (Public)
+Sponsors: Representatives Kidwell, Ward, and Pike (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+March 20, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REPEALING NORTH CAROLINA'S CERTIFICATE OF NEED LAWS.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1.(a) G.S. 6-19.1(a) reads as rewritten:
+5 "(a) In any civil action, other than an adjudication for the purpose of establishing or fixing
+6 a rate, or a disciplinary action by a licensing board, brought by the State or brought by a party
+7 who is contesting State action pursuant to G.S. 150B-43 or any other appropriate provisions of
+8 law, unless the prevailing party is the State, the court may, in its discretion, allow the prevailing
+9 party to recover reasonable attorney's fees, including attorney's fees applicable to the
+10 administrative review portion of the case, in contested cases arising under Article 3 of Chapter
+11 150B, to be taxed as court costs against the appropriate agency if:
+12 (1) The court finds that the agency acted without substantial justification in
+13 pressing its claim against the party; and
+14 (2) The court finds that there are no special circumstances that would make the
+15 award of attorney's fees unjust. The party shall petition for the attorney's fees
+16 within 30 days following final disposition of the case. The petition shall be
+17 supported by an affidavit setting forth the basis for the request.
+18 Nothing in this section shall be deemed to authorize the assessment of attorney's fees for the
+19 administrative review portion of the case in contested cases arising under Article 9 of Chapter
+20 131E of the General Statutes.
+21 Nothing in this section grants permission to bring an action against an agency otherwise
+22 immune from suit or gives a right to bring an action to a party who otherwise lacks standing to
+23 bring the action.
+24 Any attorney's fees assessed against an agency under this section shall be charged against the
+25 operating expenses of the agency and shall not be reimbursed from any other source."
+26 SECTION 1.(b) Subsection (a) of this section applies to contested cases arising on
+27 or after January 1, 2026.
+28 SECTION 2.(a) G.S. 7A-29(a) reads as rewritten:
+29 "(a) From any final order or decision of the North Carolina Utilities Commission not
+30 governed by subsection (b) of this section, the Department of Health and Human Services under
+31 G.S. 131E-188(b), the North Carolina Industrial Commission, the North Carolina State Bar under
+32 G.S. 84-28, the Property Tax Commission under G.S. 105-290 and G.S. 105-342, the
+33 Commissioner of Insurance under G.S. 58-2-80, the State Board of Elections under
+34 G.S. 163-127.6, the Office of Administrative Hearings under G.S. 126-34.02, or the Secretary of
+*H455-v-1*
+General Assembly Of North Carolina Session 2025
+1 Environmental Quality under G.S. 104E-6.2 or G.S. 130A-293, appeal as of right lies directly to
+2 the Court of Appeals."
+3 SECTION 2.(b) Subsection (a) of this section applies to appeals arising on or after
+4 January 1, 2026.
+5 SECTION 3. G.S. 58-50-61(a) reads as rewritten:
+6 "(a) Definitions. – As used in this section, in G.S. 58-50-62, and in Part 4 of this Article,
+7 the term:
+8 …
+9 (7a) "Health care facility" means a hospital; long-term care hospital; psychiatric
+10 facility; rehabilitation facility; nursing home facility; adult care home; kidney
+11 disease treatment center, including freestanding hemodialysis units;
+12 intermediate care facility for individuals with intellectual disabilities; home
+13 health agency office; chemical dependency treatment facility; diagnostic
+14 center; hospice office, hospice inpatient facility, or hospice residential care
+15 facility; or ambulatory surgical facility.
+16 (8) "Health care provider" means any person who is licensed, registered, or
+17 certified under Chapter 90 of the General Statutes or the laws of another state
+18 to provide health care services in the ordinary care of business or practice or
+19 a profession or in an approved education or training program; a health care
+20 facility as defined in G.S. 131E-176(9b) this section or the laws of another
+21 state to operate as a health care facility; or a pharmacy.
+22 …."
+23 SECTION 4. G.S. 58-55-35(a) reads as rewritten:
+24 "(a) Whenever long-term care insurance provides coverage for the facilities, services, or
+25 physical or mental conditions listed below, unless otherwise defined in the policy and certificate,
+26 and approved by the Commissioner, the facilities, services, or conditions have the following
+27 definitions:
+28 …
+29 (10) Hospice. – As defined in G.S. 131E-176(13a).Any coordinated program of
+30 home care with provision for inpatient care for terminally ill patients and their
+31 families. This care is provided by a medically directed interdisciplinary team
+32 directly or through an agreement under the direction of an identifiable hospice
+33 administration. A hospice program of care provides palliative and supportive
+34 medical and other health services to meet the physical, psychological, social,
+35 spiritual, and special needs of patients and their families, which are
+36 experienced during the final stages of terminal illness and during dying and
+37 bereavement.
+38 (11) Intermediate care facility for individuals with intellectual disabilities. – As
+39 defined in G.S. 131E-176(14a).Facilities licensed pursuant to Article 2 of
+40 Chapter 122C of the General Statutes for the purpose of providing health and
+41 habilitative services based on the developmental model and principles of
+42 normalization for individuals with intellectual disabilities, autism, cerebral
+43 palsy, epilepsy, or related conditions.
+44 …."
+45 SECTION 5. G.S. 90-21.82A(a) reads as rewritten:
+46 "(a) The following definitions apply in this section:
+47 (1) Abortion clinic. – As defined in G.S. 131E-153.1.
+48 (2) Ambulatory surgical facility. – As defined in G.S. 131E-176.A facility
+49 licensed under Part 4 of Article 6 of Chapter 131E of the General Statutes.
+50 (3) Hospital. – As defined in G.S. 131E-176.A facility licensed under Article 5 of
+51 Chapter 131E of the General Statutes."
+Page 2 House Bill 455-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 6. G.S. 90-414.4(a1)(1) reads as rewritten:
+2 "(1) The following providers of Medicaid services licensed to operate in the State
+3 that have an electronic health record system shall begin submitting, at a
+4 minimum, demographic and clinical data by June 1, 2018:
+5 a. Hospitals as defined in G.S. 131E-176(13).Hospitals, defined for the
+6 purposes of this section as public or private institutions which are
+7 primarily engaged in providing to inpatients, by or under supervision
+8 of physicians, diagnostic services and therapeutic services for medical
+9 diagnosis, treatment, and care of injured, disabled, or sick persons, or
+10 rehabilitation services for the rehabilitation of injured, disabled, or
+11 sick persons. The term includes all facilities licensed pursuant to
+12 G.S. 131E-77, except long-term care hospitals.
+13 b. Physicians licensed to practice under Article 1 of Chapter 90 of the
+14 General Statutes, except for licensed physicians whose primary area
+15 of practice is psychiatry.
+16 c. Physician assistants as defined in 21 NCAC 32S.0201.21 NCAC 32S
+17 .0201.
+18 d. Nurse practitioners as defined in 21 NCAC 36.0801.21 NCAC 36
+19 .0801."
+20 SECTION 7. G.S. 90-414.4(b)(1) reads as rewritten:
+21 "(1) Each hospital, as defined in G.S. 131E-176(13) that has an electronic health
+22 record system.hospital."
+23 SECTION 8. G.S. 113A-12(3)e. reads as rewritten:
+24 "e. A health care facility financed pursuant to Article 1 of Chapter 131A
+25 of the General Statutes or receiving a certificate of need under Article
+26 9 of Chapter 131E of the General Statutes."
+27 SECTION 9. G.S. 122C-23.1(e) reads as rewritten:
+28 "(e) As used in this section, "residential treatment facility" means a "residential facility"
+29 as defined in and licensed under this Chapter, but not subject to Certificate of Need requirements
+30 under Article 9 of Chapter 131E of the General Statutes.Chapter."
+31 SECTION 10. G.S. 131D-2.4(a) reads as rewritten:
+32 "(a) Licensure. – Except for those facilities exempt under G.S. 131D-2.3, the Department
+33 of Health and Human Services shall inspect and license all adult care homes. The Department
+34 shall issue a license for a facility not currently licensed as an adult care home for a period of six
+35 months. If the licensee demonstrates substantial compliance with Articles 1 and 3 of this Chapter
+36 and rules adopted thereunder, the Department shall issue a license for the balance of the calendar
+37 year. A facility not currently licensed as an adult care home that was licensed as an adult care
+38 home within the preceding 12 months is considered an existing health service facility for the
+39 purposes of G.S. 131E-184(a)(8)."
+40 SECTION 11. G.S. 131E-13(a)(1) reads as rewritten:
+41 "(1) The corporation shall continue to provide the same or similar clinical hospital
+42 services to its patients in medical-surgery, obstetrics, pediatrics, outpatient
+43 and emergency treatment, including emergency services for the indigent, that
+44 the hospital facility provided prior to the lease, sale, or conveyance. These
+45 services may be terminated only as prescribed by Certificate of Need Law
+46 prescribed in Article 9 of Chapter 131E of the General Statutes, or, if
+47 Certificate of Need Law is inapplicable, by review procedure designed to
+48 guarantee public participation pursuant to rules adopted by the Secretary of
+49 the Department of Health and Human Services."
+50 SECTION 12. G.S. 131E-84(a1) reads as rewritten:
+House Bill 455-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 "(a1) In the event of a declaration of a state of emergency by the Governor in accordance
+2 with Article 1A of Chapter 166A of the General Statutes, a declaration of a national emergency
+3 by the President of the United States, a declaration of a public health emergency by the Secretary
+4 of the United States Department of Health and Human Services; or to the extent necessary to
+5 allow for consistency with any temporary waiver or modification issued by the Secretary of the
+6 United States Department of Health and Human Services or the Centers for Medicare and
+7 Medicaid Services under section 1135 or 1812(f) of the Social Security Act; or when the Division
+8 of Health Service Regulation determines the existence of an emergency that poses a risk to the
+9 health or safety of patients, the Division of Health Service Regulation may do either or both of
+10 the following:
+11 (1) Temporarily temporarily waive any rules of the Commission pertaining to
+12 hospitals.
+13 (2) Notwithstanding G.S. 131E-183, allow a hospital to temporarily increase its
+14 bed capacity."
+15 SECTION 13. G.S. 131E-136(4) reads as rewritten:
+16 "(4) "Home health agency" means a home care agency which is certified to receive
+17 Medicare and Medicaid reimbursement for providing nursing care, therapy,
+18 medical social services, and home health aide services on a part-time,
+19 intermittent basis as set out in G.S. 131E-176(12), and is thereby also subject
+20 to Article 9 of Chapter 131E.basis."
+21 SECTION 14. The following laws are repealed:
+22 (1) Article 9 of Chapter 131E of the General Statutes.
+23 (2) G.S. 130A-45.02(i).
+24 (3) G.S. 131E-78.3(c).
+25 (4) G.S. 131E-146(3), as enacted by Section 3.2(b) of S.L. 2023-7.
+26 (5) G.S. 131E-147.5, as enacted by Section 3.2(c) of S.L. 2023-7.
+27 (6) G.S. 143B-1292.
+28 (7) G.S. 150B-2(8a)k.
+29 (8) G.S. 150B-21.1(a)(6).
+30 SECTION 15. This act becomes effective January 1, 2026.
+Page 4 House Bill 455-First Edition
+[DELETED:  1 R ( R R A A T S " I a w l p t r r a f i a f a t t a 1 ( T c f t t a a w s j i p ( T a w s N a 1 N i b A o S o S " F g G G t P T C u G a G t C o I u G t S B o E u G]
+[DELETED:  S  H E t S J S " D t … ( " f d t c i f h u i h a o c d t f d c f ( " c p m a p w i l r o c t a f s … S " W p a d … ( H h f d a m s a s n o p a t f w a e b ( I d i G l p t A 2 o C h s b o t d m a p o n p … S " T ( A ( A s f – A d i G f l ( H C]
+[DELETED:  S  P S " T t h a e h r s s b s a a m a H p o s a p o i w a p o d r s p T t i a f l p t G b P G o c P . d N p a d i 2 N 3 N 3 . S " E r S " A o 9 S " A a u S " L o s m a y h p S " T s a t s p i A 9 o C 1 o t G S o i C L b g t S]
+[DELETED:  S  H " I w b o a U S D o H a H S o t C f M a M o h t ( T h ( N b S " " M m s s a h h a s o a p i t S ( A ( G ( G ( G ( G ( G ( G ( G S]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 455
+Short Title: Repeal Certificate of Need Laws. (Public)
+Sponsors: Representatives Kidwell, Ward, and Pike (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+March 20, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT REPEALING NORTH CAROLINA'S CERTIFICATE OF NEED LAWS.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1.(a) G.S. 6-19.1(a) reads as rewritten:
+5 "(a) In any civil action, other than an adjudication for the purpose of establishing or fixing
+6 a rate, or a disciplinary action by a licensing board, brought by the State or brought by a party
+7 who is contesting State action pursuant to G.S. 150B-43 or any other appropriate provisions of
+8 law, unless the prevailing party is the State, the court may, in its discretion, allow the prevailing
+9 party to recover reasonable attorney's fees, including attorney's fees applicable to the
+10 administrative review portion of the case, in contested cases arising under Article 3 of Chapter
+11 150B, to be taxed as court costs against the appropriate agency if:
+12 (1) The court finds that the agency acted without substantial justification in
+13 pressing its claim against the party; and
+14 (2) The court finds that there are no special circumstances that would make the
+15 award of attorney's fees unjust. The party shall petition for the attorney's fees
+16 within 30 days following final disposition of the case. The petition shall be
+17 supported by an affidavit setting forth the basis for the request.
+18 Nothing in this section shall be deemed to authorize the assessment of attorney's fees for the
+19 administrative review portion of the case in contested cases arising under Article 9 of Chapter
+20 131E of the General Statutes.
+21 Nothing in this section grants permission to bring an action against an agency otherwise
+22 immune from suit or gives a right to bring an action to a party who otherwise lacks standing to
+23 bring the action.
+24 Any attorney's fees assessed against an agency under this section shall be charged against the
+25 operating expenses of the agency and shall not be reimbursed from any other source."
+26 SECTION 1.(b) Subsection (a) of this section applies to contested cases arising on
+27 or after January 1, 2026.
+28 SECTION 2.(a) G.S. 7A-29(a) reads as rewritten:
+29 "(a) From any final order or decision of the North Carolina Utilities Commission not
+30 governed by subsection (b) of this section, the Department of Health and Human Services under
+31 G.S. 131E-188(b), the North Carolina Industrial Commission, the North Carolina State Bar under
+32 G.S. 84-28, the Property Tax Commission under G.S. 105-290 and G.S. 105-342, the
+33 Commissioner of Insurance under G.S. 58-2-80, the State Board of Elections under
+34 G.S. 163-127.6, the Office of Administrative Hearings under G.S. 126-34.02, or the Secretary of
+*H455-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 Environmental Quality under G.S. 104E-6.2 or G.S. 130A-293, appeal as of right lies directly to
+2 the Court of Appeals."
+3 SECTION 2.(b) Subsection (a) of this section applies to appeals arising on or after
+4 January 1, 2026.
+5 SECTION 3. G.S. 58-50-61(a) reads as rewritten:
+6 "(a) Definitions. – As used in this section, in G.S. 58-50-62, and in Part 4 of this Article,
+7 the term:
+8 …
+9 (7a) "Health care facility" means a hospital; long-term care hospital; psychiatric
+10 facility; rehabilitation facility; nursing home facility; adult care home; kidney
+11 disease treatment center, including freestanding hemodialysis units;
+12 intermediate care facility for individuals with intellectual disabilities; home
+13 health agency office; chemical dependency treatment facility; diagnostic
+14 center; hospice office, hospice inpatient facility, or hospice residential care
+15 facility; or ambulatory surgical facility.
+16 (8) "Health care provider" means any person who is licensed, registered, or
+17 certified under Chapter 90 of the General Statutes or the laws of another state
+18 to provide health care services in the ordinary care of business or practice or
+19 a profession or in an approved education or training program; a health care
+20 facility as defined in G.S. 131E-176(9b) this section or the laws of another
+21 state to operate as a health care facility; or a pharmacy.
+22 …."
+23 SECTION 4. G.S. 58-55-35(a) reads as rewritten:
+24 "(a) Whenever long-term care insurance provides coverage for the facilities, services, or
+25 physical or mental conditions listed below, unless otherwise defined in the policy and certificate,
+26 and approved by the Commissioner, the facilities, services, or conditions have the following
+27 definitions:
+28 …
+29 (10) Hospice. – As defined in G.S. 131E-176(13a).Any coordinated program of
+30 home care with provision for inpatient care for terminally ill patients and their
+31 families. This care is provided by a medically directed interdisciplinary team
+32 directly or through an agreement under the direction of an identifiable hospice
+33 administration. A hospice program of care provides palliative and supportive
+34 medical and other health services to meet the physical, psychological, social,
+35 spiritual, and special needs of patients and their families, which are
+36 experienced during the final stages of terminal illness and during dying and
+37 bereavement.
+38 (11) Intermediate care facility for individuals with intellectual disabilities. – As
+39 defined in G.S. 131E-176(14a).Facilities licensed pursuant to Article 2 of
+40 Chapter 122C of the General Statutes for the purpose of providing health and
+41 habilitative services based on the developmental model and principles of
+42 normalization for individuals with intellectual disabilities, autism, cerebral
+43 palsy, epilepsy, or related conditions.
+44 …."
+45 SECTION 5. G.S. 90-21.82A(a) reads as rewritten:
+46 "(a) The following definitions apply in this section:
+47 (1) Abortion clinic. – As defined in G.S. 131E-153.1.
+48 (2) Ambulatory surgical facility. – As defined in G.S. 131E-176.A facility
+49 licensed under Part 4 of Article 6 of Chapter 131E of the General Statutes.
+50 (3) Hospital. – As defined in G.S. 131E-176.A facility licensed under Article 5 of
+51 Chapter 131E of the General Statutes."
+Page 2 House Bill 455-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6. G.S. 90-414.4(a1)(1) reads as rewritten:
+2 "(1) The following providers of Medicaid services licensed to operate in the State
+3 that have an electronic health record system shall begin submitting, at a
+4 minimum, demographic and clinical data by June 1, 2018:
+5 a. Hospitals as defined in G.S. 131E-176(13).Hospitals, defined for the
+6 purposes of this section as public or private institutions which are
+7 primarily engaged in providing to inpatients, by or under supervision
+8 of physicians, diagnostic services and therapeutic services for medical
+9 diagnosis, treatment, and care of injured, disabled, or sick persons, or
+10 rehabilitation services for the rehabilitation of injured, disabled, or
+11 sick persons. The term includes all facilities licensed pursuant to
+12 G.S. 131E-77, except long-term care hospitals.
+13 b. Physicians licensed to practice under Article 1 of Chapter 90 of the
+14 General Statutes, except for licensed physicians whose primary area
+15 of practice is psychiatry.
+16 c. Physician assistants as defined in 21 NCAC 32S.0201.21 NCAC 32S
+17 .0201.
+18 d. Nurse practitioners as defined in 21 NCAC 36.0801.21 NCAC 36
+19 .0801."
+20 SECTION 7. G.S. 90-414.4(b)(1) reads as rewritten:
+21 "(1) Each hospital, as defined in G.S. 131E-176(13) that has an electronic health
+22 record system.hospital."
+23 SECTION 8. G.S. 113A-12(3)e. reads as rewritten:
+24 "e. A health care facility financed pursuant to Article 1 of Chapter 131A
+25 of the General Statutes or receiving a certificate of need under Article
+26 9 of Chapter 131E of the General Statutes."
+27 SECTION 9. G.S. 122C-23.1(e) reads as rewritten:
+28 "(e) As used in this section, "residential treatment facility" means a "residential facility"
+29 as defined in and licensed under this Chapter, but not subject to Certificate of Need requirements
+30 under Article 9 of Chapter 131E of the General Statutes.Chapter."
+31 SECTION 10. G.S. 131D-2.4(a) reads as rewritten:
+32 "(a) Licensure. – Except for those facilities exempt under G.S. 131D-2.3, the Department
+33 of Health and Human Services shall inspect and license all adult care homes. The Department
+34 shall issue a license for a facility not currently licensed as an adult care home for a period of six
+35 months. If the licensee demonstrates substantial compliance with Articles 1 and 3 of this Chapter
+36 and rules adopted thereunder, the Department shall issue a license for the balance of the calendar
+37 year. A facility not currently licensed as an adult care home that was licensed as an adult care
+38 home within the preceding 12 months is considered an existing health service facility for the
+39 purposes of G.S. 131E-184(a)(8)."
+40 SECTION 11. G.S. 131E-13(a)(1) reads as rewritten:
+41 "(1) The corporation shall continue to provide the same or similar clinical hospital
+42 services to its patients in medical-surgery, obstetrics, pediatrics, outpatient
+43 and emergency treatment, including emergency services for the indigent, that
+44 the hospital facility provided prior to the lease, sale, or conveyance. These
+45 services may be terminated only as prescribed by Certificate of Need Law
+46 prescribed in Article 9 of Chapter 131E of the General Statutes, or, if
+47 Certificate of Need Law is inapplicable, by review procedure designed to
+48 guarantee public participation pursuant to rules adopted by the Secretary of
+49 the Department of Health and Human Services."
+50 SECTION 12. G.S. 131E-84(a1) reads as rewritten:
+House Bill 455-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 "(a1) In the event of a declaration of a state of emergency by the Governor in accordance
+2 with Article 1A of Chapter 166A of the General Statutes, a declaration of a national emergency
+3 by the President of the United States, a declaration of a public health emergency by the Secretary
+4 of the United States Department of Health and Human Services; or to the extent necessary to
+5 allow for consistency with any temporary waiver or modification issued by the Secretary of the
+6 United States Department of Health and Human Services or the Centers for Medicare and
+7 Medicaid Services under section 1135 or 1812(f) of the Social Security Act; or when the Division
+8 of Health Service Regulation determines the existence of an emergency that poses a risk to the
+9 health or safety of patients, the Division of Health Service Regulation may do either or both of
+10 the following:
+11 (1) Temporarily temporarily waive any rules of the Commission pertaining to
+12 hospitals.
+13 (2) Notwithstanding G.S. 131E-183, allow a hospital to temporarily increase its
+14 bed capacity."
+15 SECTION 13. G.S. 131E-136(4) reads as rewritten:
+16 "(4) "Home health agency" means a home care agency which is certified to receive
+17 Medicare and Medicaid reimbursement for providing nursing care, therapy,
+18 medical social services, and home health aide services on a part-time,
+19 intermittent basis as set out in G.S. 131E-176(12), and is thereby also subject
+20 to Article 9 of Chapter 131E.basis."
+21 SECTION 14. The following laws are repealed:
+22 (1) Article 9 of Chapter 131E of the General Statutes.
+23 (2) G.S. 130A-45.02(i).
+24 (3) G.S. 131E-78.3(c).
+25 (4) G.S. 131E-146(3), as enacted by Section 3.2(b) of S.L. 2023-7.
+26 (5) G.S. 131E-147.5, as enacted by Section 3.2(c) of S.L. 2023-7.
+27 (6) G.S. 143B-1292.
+28 (7) G.S. 150B-2(8a)k.
+29 (8) G.S. 150B-21.1(a)(6).
+30 SECTION 15. This act becomes effective January 1, 2026.
+Page 4 House Bill 455-First Edition
+
+[DELETED:  1 R ( R R A A T S " I a w l p t r r a f i a f a t t a 1 ( T c f t t a a w s j i p ( T a w s N a 1 N i b A o S o S " F g G G t P T C u G a G t C o I u G t S B o E u G]
+[DELETED:  S  H E t S J S " D t … ( " f d t c i f h u i h a o c d t f d c f ( " c p m a p w i l r o c t a f s … S " W p a d … ( H h f d a m s a s n o p a t f w a e b ( I d i G l p t A 2 o C h s b o t d m a p o n p … S " T ( A ( A s f – A d i G f l ( H C]
+[DELETED:  S  P S " T t h a e h r s s b s a a m a H p o s a p o i w a p o d r s p T t i a f l p t G b P G o c P . d N p a d i 2 N 3 N 3 . S " E r S " A o 9 S " A a u S " L o s m a y h p S " T s a t s p i A 9 o C 1 o t G S o i C L b g t S]
+[DELETED:  S  H " I w b o a U S D o H a H S o t C f M a M o h t ( T h ( N b S " " M m s s a h h a s o a p i t S ( A ( G ( G ( G ( G ( G ( G ( G S]

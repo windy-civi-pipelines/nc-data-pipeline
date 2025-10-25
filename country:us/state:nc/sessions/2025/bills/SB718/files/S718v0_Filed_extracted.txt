@@ -1,0 +1,366 @@
+Title: SENATE BILL DRS45351-NJ-38A
+Official Title: SENATE BILL DRS45351-NJ-38A
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 718
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Fair Procurement and Ownership Reform Act. (Public)
+Sponsors: Senators Meyer and Murdock (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT REVISING RENEWABLE ENERGY PROCUREMENT AND OWNERSHIP LAWS.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Chapter 62 of the General Statutes is amended by adding a new Article
+5 to read:
+6 "Article 18.
+7 "Fair Procurement and Ownership Reform Act.
+8 "§ 62-360. Title and purpose.
+9 This Act shall be known as the "All-Source Procurement and Renewable Energy Ownership
+10 Reform Act" and is intended to:
+11 (1) Expand renewable energy procurement to include all energy sources, such as
+12 solar, wind, battery storage, hydropower, geothermal, and other low-carbon
+13 resources.
+14 (2) Remove mandated ownership percentages for public utilities in renewable
+15 energy projects to promote competitive neutrality and fair market practices.
+16 (3) Ensure equitable access to renewable energy options for all customer
+17 categories, including residential, commercial, and government customers.
+18 (4) Facilitate transparent and competitive procurement processes, focusing on
+19 all-source energy options.
+20 (5) Expand carbon emissions considerations to include methane, which is
+21 composed of carbon.
+22 "§ 62-361. Definitions.
+23 As used in this Article, the following definitions apply:
+24 (1) All-Source procurement. – A competitive process for procuring energy
+25 resources from various generation technologies, including solar, wind, battery
+26 storage, hydropower, geothermal, and other renewable technologies as
+27 defined in G.S. 62-133.8.
+28 (2) Commission. – The North Carolina Utilities Commission.
+29 (3) Large commercial or industrial customer. – A retail customer of an electric
+30 public utility whose annual peak demand exceeds five megawatts.
+31 (4) Offering utility. – An electric public utility serving more than 150,000 North
+32 Carolina retail jurisdictional customers as of January 1, 2021.
+33 (5) Renewable Energy Facility. – A facility that generates energy from renewable
+34 sources such as solar, wind, hydropower, and other renewable technologies.
+*DRS45351-NJ-38A*
+General Assembly Of North Carolina Session 2025
+1 (6) Small commercial or industrial customer. – A retail customer of an electric
+2 public utility whose annual peak demand is less than or equal to five
+3 megawatts, excluding government customers.
+4 "§ 62-362. All-Source procurement.
+5 Electric public utilities serving over 150,000 North Carolina customers shall satisfy all the
+6 following requirements:
+7 (1) Conduct all-source competitive procurements to meet future energy needs,
+8 including renewable energy and storage resources, with no
+9 technology-specific ownership mandates. The all-source procurement process
+10 shall be conducted at least once every two years as part of the Carbon Plan
+11 and Integrated Resource Plan, or as directed by the Commission.
+12 (2) Address identified system needs, including capacity, energy, and ancillary
+13 services of all solicitations.
+14 (3) Consider utility-owned resources alongside third-party proposals, with clear
+15 documentation to ensure compliance with this Chapter and equitable
+16 evaluation of all bids.
+17 "§ 62-363. Evaluation and oversight.
+18 (a) All bids, regardless of technology, shall be evaluated using standardized criteria
+19 approved by the Commission.
+20 (b) Independent evaluators, approved by the Commission, shall oversee the procurement
+21 and solicitation process to ensure fairness and transparency. The independent evaluators shall
+22 review bid submissions, scoring methodologies, and award decisions and provide a public report
+23 summarizing the findings.
+24 (c) Proposals shall be evaluated based on all of the following criteria:
+25 (1) First and foremost, alignment with state renewable energy goals and emissions
+26 reduction targets.
+27 (2) Cost-effectiveness, including lifecycle costs.
+28 (3) Contribution to reliability and resource adequacy.
+29 (4) Technological feasibility and deployment timeline.
+30 (d) A public weighted scoring system shall be developed to balance the factors in
+31 subsection (c) of this section transparently.
+32 "§ 62-364. Ownership Neutrality.
+33 (a) Offering public utilities and their affiliates are prohibited from holding any mandated
+34 ownership percentages for procured energy resources, including but not limited to the previously
+35 required fifty-five percent (55%) utility ownership of solar and storage projects.
+36 (b) Utility ownership mandates for electricity generation are eliminated entirely to
+37 promote developer-driven and market-driven outcomes.
+38 (c) Public utilities are prohibited from holding equity stakes in renewable projects
+39 procured through competitive bidding. The focus is on expanding third-party ownership options,
+40 allowing for greater flexibility and faster deployment by developers.
+41 (d) For projects where procurement targets are not met, the Commission shall allow
+42 public utilities to propose self-developed projects, subject to a simplified review process with
+43 capped cost recovery.
+44 (e) All projects shall compete on equal terms, with ownership determined solely through
+45 competitive bidding processes.
+46 "§ 62-365. All-Source procurement of renewable energy.
+47 The Commission shall implement all-source procurement for renewable energy facilities, as
+48 set forth in G.S. 62-110.8, including solar, wind, and other renewable technologies, with a
+49 nameplate capacity of 80 MW or less.
+50 "§ 62-366. Participation and transparency.
+Page 2 DRS45351-NJ-38A
+General Assembly Of North Carolina Session 2025
+1 (a) The procurement process shall be administered by an independent third-party entity
+2 to ensure an open, fair process.
+3 (b) Public utilities may participate in procurement within their own service areas, but all
+4 proposed contracts shall be submitted to the Commission for review to ensure compliance with
+5 the public interest.
+6 (c) The Commission shall publish a detailed request for proposals outlining all of the
+7 following:
+8 (1) System needs and procurement goals.
+9 (2) Evaluation criteria and scoring methodology.
+10 (3) Timelines for submission, review, and award announcements.
+11 (d) Within 90 days of contract awards, public utilities shall submit a report to the
+12 Commission with all of the following information:
+13 (1) The solicitation process.
+14 (2) The number and type of bids received.
+15 (3) Selected projects and rationale for selection.
+16 (e) The Commission shall publish an annual public summary of all-source procurements
+17 statewide.
+18 "§ 62-367. Shared solar capacity allocation; customer participation terms.
+19 (a) The shared solar program capacity shall be reassessed to better meet demand and
+20 equity among customer categories and shall be reallocated as follows (i) large commercial or
+21 industrial customers, forty-five percent (45%), (ii) small commercial or industrial customers,
+22 twenty-five percent (25%), (iii) government customers, fifteen percent (15%), and (iv) residential
+23 customers, fifteen percent (15%).
+24 (b) Customers participating in shared solar programs shall receive bill credits based on
+25 the actual market value of energy and capacity from their allocated share.
+26 (c) Renewable energy attributes shall be retired to prevent duplication of benefits, and
+27 programs shall include flexibility for subscription termination without penalty.
+28 "§ 62-368. Cost recovery, capital costs, and transparency.
+29 (a) Public utilities may recover prudently incurred costs related to all of the following:
+30 (1) Power purchase agreements for procured resources.
+31 (2) Distribution or transmission upgrades required by the interconnection of
+32 procured facilities.
+33 (3) Public utilities may defer incremental costs as regulatory assets until reflected
+34 in customer rates, subject to Commission approval.
+35 (b) Capital cost caps shall apply to all projects, ensuring competitiveness and
+36 cost-effectiveness.
+37 (c) A uniform capital cost cap shall apply to all projects to ensure cost-effectiveness
+38 across different ownership structures.
+39 (d) If a utility fails to meet procurement and carbon reduction targets, third-party
+40 developers may propose self-developed projects with faster review processes, provided that costs
+41 remain below market rate.
+42 (e) Public utilities may propose self-developed projects only if bids fail to meet
+43 procurement targets and if proposed capital costs are below the cap.
+44 "§ 62-369. Participation adjustments; sunset and program evaluation; and penalties.
+45 (a) If less than fifty percent (50%) of available program subscriptions are claimed within
+46 two years, the Commission may do the following:
+47 (1) Adjust bill credits to incentivize faster participation and greater equity.
+48 (2) Implement monthly subscription incentives for customers who subscribe
+49 early, making participation easier and more cost-effective.
+DRS45351-NJ-38A Page 3
+General Assembly Of North Carolina Session 2025
+1 (b) All programs under this act shall be subject to biennial evaluation in line with the
+2 CPIRP process by the Commission to assess effectiveness and ensure alignment with state energy
+3 goals.
+4 (c) Programs that fail to meet participation or deployment benchmarks shall be subject
+5 to immediate reforms to speed up implementation.
+6 (d) Public utilities that fail to comply with the all-source procurement requirements or
+7 demonstrate bias in the process may face penalties, including fines or procurement orders.
+8 "§ 62-370. Implementation and timeline.
+9 (a) The Commission shall establish rules and guidelines to implement this Act within 12
+10 months of enactment.
+11 (b) Public utilities shall submit their first all-source procurement request for proposals no
+12 later than 18 months from the date of enactment.
+13 (c) Implementation guidelines shall explicitly address the integration of the ownership
+14 provisions outlined in Session Law 2021-165 into the procurement process."
+15 SECTION 2. If any provision of this act or its application is held invalid, the
+16 invalidity does not affect other provisions or applications of this act that can be given effect
+17 without the invalid provisions or application, and to this end the provisions of this act are
+18 severable.
+19 SECTION 3. This act becomes effective October 1, 2025.
+Page 4 DRS45351-NJ-38A
+[DELETED:  D F ( S  A A T S t " " " T R ( E s r ( R p e ( E e a t r e o f a c c ( F t a c p p f o a ( E c e c t i m w i c " A ( A p – A c p f p e r s h g a o r t a d ( C ( L p ( O C ( R s]
+[DELETED:  S  D ( S p u w a p d i l t o e t f m " E f ( C i r e a s r w n t s a ( A s ( C d t e c w t C a e e " ( A b r o t s b e u s c a ( I a r s ( P ( F r ( C ( C ( T ( A p w s s s b d t b t f i s " ( O o r ( U o m f e g a e e t p ( P u a p f h e s i r p p a ( F m C p c ( A c " T s f i G i s w a o r t w a n "]
+[DELETED:  S  P ( T t ( P p t ( T f ( S ( E ( T ( W 9 d o c a p u s s a r t t C ( T ( T ( S ( T s " ( T e i t c ( C t ( R p " ( P ( P ( D o t u r b t i o p ( P i ( C c c s a t a p e c a c ( A a ( I a u f t m p a c r t t d r ( P u m p s p o i b f t m p " ( I t ( A ( I m s i f c w s e]
+[DELETED:  S  D ( A C g ( P t ( P d " ( T m ( P l ( I p S 2  I a p o t a o i a i h i t i w t i p o a a t t e t p o t a a s S]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 718
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45351-NJ-38A
+Short Title: Fair Procurement and Ownership Reform Act. (Public)
+Sponsors: Senators Meyer and Murdock (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT REVISING RENEWABLE ENERGY PROCUREMENT AND OWNERSHIP LAWS.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Chapter 62 of the General Statutes is amended by adding a new Article
+5 to read:
+6 "Article 18.
+7 "Fair Procurement and Ownership Reform Act.
+8 "§ 62-360. Title and purpose.
+9 This Act shall be known as the "All-Source Procurement and Renewable Energy Ownership
+10 Reform Act" and is intended to:
+11 (1) Expand renewable energy procurement to include all energy sources, such as
+12 solar, wind, battery storage, hydropower, geothermal, and other low-carbon
+13 resources.
+14 (2) Remove mandated ownership percentages for public utilities in renewable
+15 energy projects to promote competitive neutrality and fair market practices.
+16 (3) Ensure equitable access to renewable energy options for all customer
+17 categories, including residential, commercial, and government customers.
+18 (4) Facilitate transparent and competitive procurement processes, focusing on
+19 all-source energy options.
+20 (5) Expand carbon emissions considerations to include methane, which is
+21 composed of carbon.
+22 "§ 62-361. Definitions.
+23 As used in this Article, the following definitions apply:
+24 (1) All-Source procurement. – A competitive process for procuring energy
+25 resources from various generation technologies, including solar, wind, battery
+26 storage, hydropower, geothermal, and other renewable technologies as
+27 defined in G.S. 62-133.8.
+28 (2) Commission. – The North Carolina Utilities Commission.
+29 (3) Large commercial or industrial customer. – A retail customer of an electric
+30 public utility whose annual peak demand exceeds five megawatts.
+31 (4) Offering utility. – An electric public utility serving more than 150,000 North
+32 Carolina retail jurisdictional customers as of January 1, 2021.
+33 (5) Renewable Energy Facility. – A facility that generates energy from renewable
+34 sources such as solar, wind, hydropower, and other renewable technologies.
+*DRS45351-NJ-38A*
+
+General Assembly Of North Carolina Session 2025
+1 (6) Small commercial or industrial customer. – A retail customer of an electric
+2 public utility whose annual peak demand is less than or equal to five
+3 megawatts, excluding government customers.
+4 "§ 62-362. All-Source procurement.
+5 Electric public utilities serving over 150,000 North Carolina customers shall satisfy all the
+6 following requirements:
+7 (1) Conduct all-source competitive procurements to meet future energy needs,
+8 including renewable energy and storage resources, with no
+9 technology-specific ownership mandates. The all-source procurement process
+10 shall be conducted at least once every two years as part of the Carbon Plan
+11 and Integrated Resource Plan, or as directed by the Commission.
+12 (2) Address identified system needs, including capacity, energy, and ancillary
+13 services of all solicitations.
+14 (3) Consider utility-owned resources alongside third-party proposals, with clear
+15 documentation to ensure compliance with this Chapter and equitable
+16 evaluation of all bids.
+17 "§ 62-363. Evaluation and oversight.
+18 (a) All bids, regardless of technology, shall be evaluated using standardized criteria
+19 approved by the Commission.
+20 (b) Independent evaluators, approved by the Commission, shall oversee the procurement
+21 and solicitation process to ensure fairness and transparency. The independent evaluators shall
+22 review bid submissions, scoring methodologies, and award decisions and provide a public report
+23 summarizing the findings.
+24 (c) Proposals shall be evaluated based on all of the following criteria:
+25 (1) First and foremost, alignment with state renewable energy goals and emissions
+26 reduction targets.
+27 (2) Cost-effectiveness, including lifecycle costs.
+28 (3) Contribution to reliability and resource adequacy.
+29 (4) Technological feasibility and deployment timeline.
+30 (d) A public weighted scoring system shall be developed to balance the factors in
+31 subsection (c) of this section transparently.
+32 "§ 62-364. Ownership Neutrality.
+33 (a) Offering public utilities and their affiliates are prohibited from holding any mandated
+34 ownership percentages for procured energy resources, including but not limited to the previously
+35 required fifty-five percent (55%) utility ownership of solar and storage projects.
+36 (b) Utility ownership mandates for electricity generation are eliminated entirely to
+37 promote developer-driven and market-driven outcomes.
+38 (c) Public utilities are prohibited from holding equity stakes in renewable projects
+39 procured through competitive bidding. The focus is on expanding third-party ownership options,
+40 allowing for greater flexibility and faster deployment by developers.
+41 (d) For projects where procurement targets are not met, the Commission shall allow
+42 public utilities to propose self-developed projects, subject to a simplified review process with
+43 capped cost recovery.
+44 (e) All projects shall compete on equal terms, with ownership determined solely through
+45 competitive bidding processes.
+46 "§ 62-365. All-Source procurement of renewable energy.
+47 The Commission shall implement all-source procurement for renewable energy facilities, as
+48 set forth in G.S. 62-110.8, including solar, wind, and other renewable technologies, with a
+49 nameplate capacity of 80 MW or less.
+50 "§ 62-366. Participation and transparency.
+Page 2 DRS45351-NJ-38A
+
+General Assembly Of North Carolina Session 2025
+1 (a) The procurement process shall be administered by an independent third-party entity
+2 to ensure an open, fair process.
+3 (b) Public utilities may participate in procurement within their own service areas, but all
+4 proposed contracts shall be submitted to the Commission for review to ensure compliance with
+5 the public interest.
+6 (c) The Commission shall publish a detailed request for proposals outlining all of the
+7 following:
+8 (1) System needs and procurement goals.
+9 (2) Evaluation criteria and scoring methodology.
+10 (3) Timelines for submission, review, and award announcements.
+11 (d) Within 90 days of contract awards, public utilities shall submit a report to the
+12 Commission with all of the following information:
+13 (1) The solicitation process.
+14 (2) The number and type of bids received.
+15 (3) Selected projects and rationale for selection.
+16 (e) The Commission shall publish an annual public summary of all-source procurements
+17 statewide.
+18 "§ 62-367. Shared solar capacity allocation; customer participation terms.
+19 (a) The shared solar program capacity shall be reassessed to better meet demand and
+20 equity among customer categories and shall be reallocated as follows (i) large commercial or
+21 industrial customers, forty-five percent (45%), (ii) small commercial or industrial customers,
+22 twenty-five percent (25%), (iii) government customers, fifteen percent (15%), and (iv) residential
+23 customers, fifteen percent (15%).
+24 (b) Customers participating in shared solar programs shall receive bill credits based on
+25 the actual market value of energy and capacity from their allocated share.
+26 (c) Renewable energy attributes shall be retired to prevent duplication of benefits, and
+27 programs shall include flexibility for subscription termination without penalty.
+28 "§ 62-368. Cost recovery, capital costs, and transparency.
+29 (a) Public utilities may recover prudently incurred costs related to all of the following:
+30 (1) Power purchase agreements for procured resources.
+31 (2) Distribution or transmission upgrades required by the interconnection of
+32 procured facilities.
+33 (3) Public utilities may defer incremental costs as regulatory assets until reflected
+34 in customer rates, subject to Commission approval.
+35 (b) Capital cost caps shall apply to all projects, ensuring competitiveness and
+36 cost-effectiveness.
+37 (c) A uniform capital cost cap shall apply to all projects to ensure cost-effectiveness
+38 across different ownership structures.
+39 (d) If a utility fails to meet procurement and carbon reduction targets, third-party
+40 developers may propose self-developed projects with faster review processes, provided that costs
+41 remain below market rate.
+42 (e) Public utilities may propose self-developed projects only if bids fail to meet
+43 procurement targets and if proposed capital costs are below the cap.
+44 "§ 62-369. Participation adjustments; sunset and program evaluation; and penalties.
+45 (a) If less than fifty percent (50%) of available program subscriptions are claimed within
+46 two years, the Commission may do the following:
+47 (1) Adjust bill credits to incentivize faster participation and greater equity.
+48 (2) Implement monthly subscription incentives for customers who subscribe
+49 early, making participation easier and more cost-effective.
+DRS45351-NJ-38A Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (b) All programs under this act shall be subject to biennial evaluation in line with the
+2 CPIRP process by the Commission to assess effectiveness and ensure alignment with state energy
+3 goals.
+4 (c) Programs that fail to meet participation or deployment benchmarks shall be subject
+5 to immediate reforms to speed up implementation.
+6 (d) Public utilities that fail to comply with the all-source procurement requirements or
+7 demonstrate bias in the process may face penalties, including fines or procurement orders.
+8 "§ 62-370. Implementation and timeline.
+9 (a) The Commission shall establish rules and guidelines to implement this Act within 12
+10 months of enactment.
+11 (b) Public utilities shall submit their first all-source procurement request for proposals no
+12 later than 18 months from the date of enactment.
+13 (c) Implementation guidelines shall explicitly address the integration of the ownership
+14 provisions outlined in Session Law 2021-165 into the procurement process."
+15 SECTION 2. If any provision of this act or its application is held invalid, the
+16 invalidity does not affect other provisions or applications of this act that can be given effect
+17 without the invalid provisions or application, and to this end the provisions of this act are
+18 severable.
+19 SECTION 3. This act becomes effective October 1, 2025.
+Page 4 DRS45351-NJ-38A
+
+[DELETED:  D F ( S  A A T S t " " " T R ( E s r ( R p e ( E e a t r e o f a c c ( F t a c p p f o a ( E c e c t i m w i c " A ( A p – A c p f p e r s h g a o r t a d ( C ( L p ( O C ( R s]
+[DELETED:  S  D ( S p u w a p d i l t o e t f m " E f ( C i r e a s r w n t s a ( A s ( C d t e c w t C a e e " ( A b r o t s b e u s c a ( I a r s ( P ( F r ( C ( C ( T ( A p w s s s b d t b t f i s " ( O o r ( U o m f e g a e e t p ( P u a p f h e s i r p p a ( F m C p c ( A c " T s f i G i s w a o r t w a n "]
+[DELETED:  S  P ( T t ( P p t ( T f ( S ( E ( T ( W 9 d o c a p u s s a r t t C ( T ( T ( S ( T s " ( T e i t c ( C t ( R p " ( P ( P ( D o t u r b t i o p ( P i ( C c c s a t a p e c a c ( A a ( I a u f t m p a c r t t d r ( P u m p s p o i b f t m p " ( I t ( A ( I m s i f c w s e]
+[DELETED:  S  D ( A C g ( P t ( P d " ( T m ( P l ( I p S 2  I a p o t a o i a i h i t i w t i p o a a t t e t p o t a a s S]
