@@ -1,0 +1,2619 @@
+Title: HOUSE BILL 737
+Official Title: HOUSE BILL 737
+Number of Sections: 55
+Source: versions - Ratified
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+RATIFIED BILL
+AN ACT TO ELIMINATE THE TRAINING COURSE REQUIREMENTS FOR INSURANCE
+PRODUCER LICENSURE, TO CLARIFY THE APPLICABILITY OF THE CAP ON
+INSURANCE REFERRAL FEES PAID TO NONLICENSED PERSONS, TO MAINTAIN
+NAIC ACCREDITATION OF THE DEPARTMENT OF INSURANCE BY
+IMPLEMENTING GROUP CAPITAL CALCULATION AND LIQUIDITY STRESS TEST
+REQUIREMENTS, TO AMEND THE NORTH CAROLINA PROFESSIONAL
+EMPLOYER ORGANIZATION ACT, TO REVISE THE INSURANCE GUARANTY
+ASSOCIATION ACT, TO CLARIFY INSURANCE REBATE PERMITTED TRADE
+PRACTICES, TO CLARIFY THE LAWS RELATING TO THE EXCHANGE OF
+BUSINESS BETWEEN INSURANCE PRODUCERS, TO REQUIRE DRIVERS SUBJECT
+TO THE INEXPERIENCED DRIVER PREMIUM SURCHARGE TO MAINTAIN OR
+BENEFIT FROM CONTINUOUS LIABILITY COVERAGE, TO PLACE
+RESTRICTIONS ON RESIDENTIAL LEASES REQUIRING RENTERS INSURANCE,
+TO MAKE CHANGES TO THE EFFECTIVE DATE OF CERTAIN PROVISIONS
+CONCERNING THE CALCULATION OF UNDERINSURED MOTORIST COVERAGE
+AND INSURANCE RATEMAKING LAWS IN S.L. 2023-133, AS AMENDED BY S.L.
+2024-29, TO AUTHORIZE SALESMEN TO REGISTER WITH MULTIPLE DEALERS
+UNDER COMMON OWNERSHIP OR CONTROL, AND TO AUTHORIZE POLICY
+CANCELLATION UPON CHARGEBACK OF A CREDIT CARD PREMIUM
+PAYMENT.
+The General Assembly of North Carolina enacts:
+PART I. ELIMINATE TRAINING COURSE REQUIREMENTS FOR INSURANCE
+PRODUCER LICENSURE
+
+Section 2:
+SECTION 1.(a) G.S. 58-33-30 reads as rewritten:
+"§ 58-33-30. License requirements.
+The Commissioner shall not issue or continue any license of an insurance producer, limited
+representative, adjuster, or motor vehicle damage appraiser except as follows:
+…
+(d) Education and Training. –
+(1) Each applicant must have had special education, training, or
+experience of sufficient duration and extent reasonably to satisfy the
+Commissioner that the applicant possesses the competence necessary
+to fulfill the responsibilities of comply with all education, training, or
+experience requirements of this Chapter to be licensed as an insurance
+producer, limited representative, adjuster, or motor vehicle damage
+appraiser. The Commissioner shall not require an individual who
+applies for an insurance producer license in this State to complete any
+specific amount of instruction or any specific course of instruction.
+(2) All individual applicants for licensing as insurance producers under
+G.S. 58-33-26(c1)(1), (2), (4), (6), or (7) shall furnish evidence
+*H737-v-4*
+satisfactory to the Commissioner of successful completion of at least
+20 hours of instruction for each license, which shall in all cases include
+the general principles of insurance and any other topics relevant to the
+license that the Commissioner establishes by administrative rules. Any
+applicant who submits satisfactory evidence of having successfully
+completed a producer training course that has been approved by the
+Commissioner and that is offered by or under the auspices of a
+property, casualty, life or accident and health or sickness insurance
+company admitted to do business in this State or a professional
+insurance association shall be deemed to have satisfied the educational
+requirements of this subdivision.
+(3) Each resident applicant for a Medicare supplement and long-term care
+insurance license shall furnish evidence satisfactory to the
+Commissioner of successful completion of 10 hours of instruction,
+which shall in all cases include the principles of Medicare supplement
+and long-term care insurance and federal and North Carolina law
+relating to such insurance. A resident applicant who submits
+satisfactory evidence of having successfully completed a producer
+training course that has been approved by the Commissioner and that
+is offered by or under the auspices of a licensed life or health insurer
+or a professional insurance association satisfies the educational
+requirements of this subdivision.
+(e) Examination. –
+…
+(5) The Commissioner shall collect in advance the examination and
+registration fees provided in G.S. 58-33-125 and in subsection
+subdivision (4) of this section. subsection. The Commissioner shall
+make or cause to be made available to all applicants, for a reasonable
+fee to offset the costs of production, materials that he considers
+necessary for the applicants' proper preparation for examinations. The
+Commissioner may contract directly with publishers and other
+suppliers for the production of the preparatory materials, and contracts
+so let by the Commissioner shall not be subject to Article 3 of Chapter
+143 of the General Statutes. However, the Commissioner shall: (i)
+submit all proposed contracts for supplies, materials, printing,
+equipment, and contractual services that exceed one million dollars
+($1,000,000) authorized by this subdivision to the Attorney General or
+the Attorney General's designee for review as provided in
+G.S. 114-8.3; and (ii) include in all contracts to be awarded by the
+Commissioner under this subdivision a standard clause which provides
+that the State Auditor and internal auditors of the Commissioner may
+audit the records of the contractor during and after the term of the
+contract to verify accounts and data affecting fees and performance.
+The Commissioner shall not award a cost plus percentage of cost
+contract for any purpose.
+…."
+
+Section 3:
+SECTION 1.(b) G.S. 58-33-32 reads as rewritten:
+"§ 58-33-32. Interstate reciprocity in producer licensing.
+…
+(g) An individual who applies for an insurance producer license in this State who was
+previously licensed for the same lines of authority in that individual's home state shall not be
+Page 2 House Bill 737-Ratified
+required to complete any prelicensing education or examination. This exemption is available only
+if:
+…."
+
+Section 4:
+SECTION 1.(c) This section becomes effective October 1, 2025, and applies to
+licensure applications submitted on or after that date.
+PART II. CLARIFY INSURANCE FEE REFERRAL CAP
+
+Section 5:
+SECTION 2.(a) G.S. 58-33-82(f) reads as rewritten:
+"(f) No commission, fee, or other valuable consideration authorized under subsection (e)
+of this section for the referral of insurance business by an unlicensed individual to a licensed
+insurance agent or broker producer licensed under G.S. 58-33-26(c1)(6) shall exceed fifty dollars
+($50.00) in value. A violation of this subsection may be punished by a fine not to exceed two
+thousand dollars ($2,000) for each violation. This subsection shall not apply to title insurance."
+
+Section 6:
+SECTION 2.(b) This section becomes effective October 1, 2025, and applies to any
+referral of personal lines insurance business made on or after that date.
+PART III. MAINTAIN NAIC ACCREDITATION OF DOI
+
+Section 7:
+SECTION 3.(a) Article 19 of Chapter 58 of the General Statutes is amended by
+adding the following new sections to read:
+"§ 58-19-26. Group capital calculation.
+(a) Reporting Requirement. – The ultimate controlling person of every insurer subject to
+registration pursuant to G.S. 58-19-25 shall concurrently file with the registration an annual
+group capital calculation report. The report shall be filed with the lead state commissioner.
+(b) Exemptions. – The ultimate controlling person of any of the following is exempt from
+the filing requirement of subsection (a) of this section:
+(1) An insurance holding company system that (i) has only one insurer within its
+holding company structure, (ii) only writes insurance business, (iii) is only
+licensed in its state of domicile, and (iv) assumes no business from any other
+insurer.
+(2) An insurance holding company system that is required to perform a group
+capital calculation specified by the United States Federal Reserve Board.
+When this exemption applies, the lead state commissioner shall request the
+calculation from the United States Federal Reserve Board. If the United States
+Federal Reserve Board cannot share the calculation with the lead state
+commissioner under the terms of any information sharing agreements in
+effect, then the insurance holding company system is not exempt from the
+group capital calculation filing.
+(3) An insurance holding company system whose non-United States group-wide
+supervisor is located within a reciprocal jurisdiction that recognizes the United
+States state regulatory approach to group supervision and group capital.
+(4) An insurance holding company system that meets both of the following
+requirements:
+a. The insurance holding company system provides information to the
+lead state commissioner that meets the requirements for accreditation
+under the NAIC financial standards and accreditation program. The
+insurance holding company may provide this information either
+directly or indirectly through its group-wide supervisor. If provided
+indirectly through a group-wide supervisor, the supervisor is
+responsible for determining whether the information provided is
+sufficient to permit the lead state commissioner to comply with the
+House Bill 737-Ratified Page 3
+NAIC group supervision approach, as detailed in the NAIC Financial
+Analysis Handbook.
+b. The insurance holding company system's non-United States
+group-wide supervisor is not in a reciprocal jurisdiction but
+nonetheless recognizes the group capital calculation as the worldwide
+group capital assessment for United States insurance groups who
+operate in that jurisdiction.
+(c) Recognition of Group Capital Calculation. – For purposes of subdivision (b)(4) of
+this section, a non-United States jurisdiction recognizes the group capital calculation if it satisfies
+any of the following criteria:
+(1) A competent regulatory authority in the jurisdiction affirms that insurers and
+insurance groups whose lead state is accredited by the NAIC under the NAIC
+accreditation program shall be subject only to worldwide prudential insurance
+group supervision, including worldwide group governance, solvency and
+capital, and reporting, as applicable, by that jurisdiction's lead state
+commissioner and will not be subject to group supervision, including
+worldwide group governance, solvency and capital, and reporting, at the level
+of the worldwide parent undertaking of the insurance or reinsurance group by
+the non-United States jurisdiction.
+(2) A competent regulatory authority in the jurisdiction affirms that information
+regarding insurers and their parent, subsidiary, or affiliated entities, if
+applicable, shall be provided to the lead state commissioner in accordance
+with an information sharing agreement in the form of a memorandum of
+understanding or similar document. Acceptable information sharing
+agreements include the International Association of Insurance Supervisors
+Multilateral Memorandum of Understanding or other multilateral memoranda
+of understanding coordinated by the NAIC. The jurisdiction does not satisfy
+this criteria if the lead state commissioner determines, in consultation with the
+NAIC, that the requirements of the information sharing agreements are no
+longer in force.
+(3) If no United States insurance groups operate in the non-United States
+jurisdiction, that non-United States jurisdiction notifies the lead state
+commissioner and the International Association of Insurance Supervisors in
+writing that the jurisdiction considers the group capital calculation an
+acceptable international capital standard.
+(d) Limitation of Exemptions. – Notwithstanding subsection (b) of this section, the lead
+state commissioner shall require filing of the group capital calculation for United States
+operations of any non-United States based insurance holding company system if the lead state
+commissioner determines that the filing is required for (i) prudential oversight and solvency
+monitoring purposes or (ii) ensuring the competitiveness of the insurance marketplace.
+(e) Consideration and Correction of NAIC Materials. – The lead state commissioner shall
+consider any relevant lists, reports, and recommendations published by the NAIC in determining
+whether the exceptions of subdivision (b)(4) of this section apply to an insurer. If the lead state
+commissioner's determination differs from relevant materials published by the NAIC, the lead
+state commissioner shall provide the NAIC with written justification for the difference supported
+by documentation. If published NAIC materials indicate that a non-United States jurisdiction
+recognizes the group capital calculation and the lead state commissioner determines that the
+jurisdiction no longer meets the requirements of subsection (c) of this section, the lead state
+commissioner may recommend a correction of the materials to the NAIC.
+(f) Discretionary Exemptions. – The lead state commissioner may either (i) exempt the
+ultimate controlling person of an insurance holding company system from the filing requirement
+Page 4 House Bill 737-Ratified
+of subsection (a) of this section or (ii) authorize the ultimate controlling person of an insurance
+holding company to file a limited group capital filing in lieu of the filing requirement of
+subsection (a) of this section if all of the following apply:
+(1) The insurance holding company system has annual direct written and
+unaffiliated assumed premium, including international direct and assumed
+premium, but excluding premiums reinsured with the Federal Crop Insurance
+Corporation and Federal Flood Program, of less than one billion dollars
+($1,000,000,000).
+(2) The insurance holding company system does not include insurers within its
+holding company structure that are domiciled outside of the United States or
+one of its territories.
+(3) The insurance holding company system does not include a banking,
+depository, or other financial entity that is subject to an identified regulatory
+capital framework within its holding company structure.
+(4) The insurance holding company system attests that there are no material
+changes in transactions between insurers and non-insurers in the group that
+have occurred since the last filing of an annual group calculation report, if any.
+(5) The non-insurers within the insurance holding company system do not pose a
+material financial risk to the insurer's ability to honor policyholder
+obligations.
+(g) Resumption of Filings. – If the lead state commissioner determines that an insurance
+holding company system exempted from the filing requirements of subsection (a) of this section
+no longer meets the requirements for an exemption, the insurance holding company system shall
+file the group capital calculation at the next annual filing date unless given an extension by the
+lead state commissioner based on reasonable grounds shown. If the lead state commissioner,
+pursuant to subsection (f) of this section, either grants a discretionary exemption or authorizes a
+limited group capital filing, the lead state commissioner may require the ultimate controlling
+person of that insurance holding company system to file an annual group calculation at any time
+if any of the following apply:
+(1) Any insurer within the insurance holding company system is in a risk-based
+capital action level event as set forth in Article 12 of this Chapter or a similar
+standard for a non-United States insurer.
+(2) Any insurer within the insurance holding company system meets one or more
+of the standards of an insurer deemed to be in hazardous financial condition
+pursuant to the criteria provided in G.S. 58-30-60.
+(3) Any insurer within the insurance holding company system otherwise exhibits
+qualities of a troubled insurer as determined by the lead state commissioner
+based on unique circumstances, including the type and volume of business
+written, ownership and organizational structure, federal agency requests, and
+international supervisor requests.
+"§ 58-19-27. Liquidity stress test.
+(a) Participation and Reporting Requirement. – The ultimate controlling person of every
+insurer subject to registration pursuant to G.S. 58-19-25 shall be included in the NAIC liquidity
+stress test framework and file a report with the lead state commissioner detailing the results of a
+specific year's liquidity stress test if either of the following applies:
+(1) The insurer meets the scope criteria of that data year's NAIC liquidity stress
+test framework.
+(2) The insurer did not meet the scope criteria of that data year's liquidity stress
+test framework, but the lead state commissioner, in consultation with the
+NAIC Financial Stability Task Force or its successor, nonetheless determines
+the insurer should be included in the NAIC liquidity stress test framework for
+House Bill 737-Ratified Page 5
+that data year. In making this determination, the lead state commissioner shall
+attempt to avoid the frequent inclusion or exclusion of insurers.
+(b) The performance of, and filing of the results from, a specific year's liquidity stress
+test shall comply with (i) the NAIC liquidity stress test framework's instructions and reporting
+templates for that year and (ii) all lead state commissioners' directives issued in consultation with
+the NAIC Financial Stability Task Force or its successor.
+(c) Exemptions. – The lead state commissioner may, in consultation with the NAIC
+Financial Stability Task Force or its successor, exempt an ultimate controlling person from the
+reporting requirements of subsection (a) of this section. The lead state commissioner shall
+consider the intent of regulators to avoid having insurers scoped in and out of the NAIC liquidity
+stress test framework on a frequent basis when making this determination.
+"§ 58-19-28. Dissemination prohibited.
+(a) Unless otherwise provided by law, the making, publishing, disseminating, circulating,
+or placing before the public, or causing directly or indirectly to be made, published, disseminated,
+circulated, or placed before the public in a newspaper, magazine, or other publication, or in the
+form of a notice, circular, pamphlet, letter, or poster, or over any radio or television station or
+any electronic means of communication available to the public, or in any other way as an
+advertisement, announcement, or statement containing a representation or statement with regard
+to the group capital calculation, group capital ratio, the liquidity stress test results, or supporting
+disclosures for the liquidity stress test of any insurer or any insurer group, or of any component
+derived in the calculation by any insurer, broker, or other person engaged in any manner in the
+insurance business is prohibited.
+(b) Notwithstanding subsection (a) of this section, if any materially false statement with
+respect to the group capital calculation, resulting group capital ratio, an inappropriate comparison
+of any amount to an insurer's or insurance group's group capital calculation or resulting group
+capital ratio, liquidity stress test result, supporting disclosures for the liquidity stress test, or an
+inappropriate comparison of any amount to an insurer's or insurance group's liquidity stress test
+result, or supporting disclosures is published in any written publication and the insurer is able to
+demonstrate to the Commissioner with substantial proof the falsity or inappropriateness of the
+statement, then the insurer may publish announcements in a written publication if the sole
+purpose of the announcement is to rebut the materially false or inappropriate statement."
+
+Section 8:
+SECTION 3.(b) G.S. 58-19-5 reads as rewritten:
+"§ 58-19-5. Definitions.
+As used in this Article, unless the context requires otherwise, the following terms have the
+following meanings:
+…
+(10a) Group capital calculation. – A report, completed in accordance with the group
+capital calculation instructions as adopted and amended by the NAIC, used to
+evaluate the capital adequacy of insurance holding company systems that
+includes information on the sources of capital within the system, where that
+capital is located, and sources of risk.
+(10a)(10b) Group-wide supervisor. – The regulatory official authorized to engage in
+conducting and coordinating group-wide supervision activities who is
+determined or acknowledged by the Commissioner under G.S. 58-19-38 to
+have sufficient significant contacts with the internationally active insurance
+group.
+…
+(12b) Lead state commissioner. – The person responsible for regulating the
+insurance holding company system as determined by the Commissioner in
+accordance with the procedures within the Financial Analysis Handbook
+adopted by the NAIC.
+Page 6 House Bill 737-Ratified
+(12c) Limited group capital filing. – A simplified version of the group capital
+calculation, completed in accordance with procedures adopted by the NAIC,
+where an insurance holding company system only provides a limited amount
+of data, allowing them to avoid the filing of a full group capital calculation.
+(12d) Liquidity stress test. – A process simulating extreme market conditions to
+assess an entity's ability to maintain sufficient liquidity in response to adverse
+events.
+(12e) NAIC. – The National Association of Insurance Commissioners.
+(12f) NAIC liquidity stress test framework. – A publication, adopted and amended
+by the NAIC in accordance with procedures adopted by the NAIC, which
+includes a history of the NAIC's development of regulatory liquidity stress
+testing, the scope criteria applicable for a specific data year, and the liquidity
+stress test instructions and reporting templates for a specific data year.
+…
+(13a) Reciprocal jurisdiction. – As defined in G.S. 58-7-21(b)(4b).
+(13b) Scope criteria. – Designated exposure bases, detailed in the NAIC liquidity
+stress test framework along with minimum magnitudes thereof for the
+specified data year, used to establish a preliminary list of insurers included in
+the NAIC liquidity stress test framework for that data year.
+…."
+
+Section 9:
+SECTION 3.(c) G.S. 58-19-15 reads as rewritten:
+"§ 58-19-15. Acquisition of control of or merger with domestic insurer.
+…
+(b) The statement to be filed with the Commissioner under subsection (a) of this section
+shall be furnished on a Form A as prescribed by the Commissioner, made under oath or
+affirmation, and shall contain the following information:
+…
+(11a) An agreement by the person required to file the statement referred to in
+subsection (a) of this section that it will provide the annual report, as specified
+in G.S. 58-19-25, G.S. 58-19-25(l), for so long as control exists.
+…."
+
+Section 10:
+SECTION 3.(d) G.S. 58-19-25 reads as rewritten:
+"§ 58-19-25. Registration of insurers.insurers; disclaimer of affiliation; enterprise risk
+filings.
+…
+(c) No information need be disclosed on the registration statement filed pursuant to
+subsection (b) of this section if such information is not material for the purposes of this section.
+Unless the Commissioner by rule or order provides otherwise, all material. For purposes of this
+
+Section 11:
+section, all sales, purchases, exchanges, loans or extensions of credit, investments, or guarantees
+involving one-half of one percent ( 1//s2%) (0.5%) or less of an insurer's admitted assets as of
+the preceding December 31 are not material for the purposes of this section.material, unless the
+Commissioner by rule or order provides otherwise. This subsection does not apply to the
+reporting requirements of G.S. 58-19-26 and G.S. 58-19-27.
+…
+(l) Effective January 1, 2016, the ultimate controlling person of every insurer subject to
+registration shall also file an annual enterprise risk report on Form F as prescribed by the
+Commissioner. The report shall, to the best of the ultimate controlling person's knowledge and
+belief, identify the material risks within the insurance holding company system that could pose
+enterprise risk to the insurer. The report shall be filed with the lead state commissioner of the
+insurance holding company system as determined by the procedures within the Financial
+Analysis Handbook adopted by the NAIC.commissioner."
+House Bill 737-Ratified Page 7
+
+Section 12:
+SECTION 3.(e) G.S. 58-19-40 reads as rewritten:
+"§ 58-19-40. Confidential treatment.
+(a) Documents, materials, or other information in the possession or control of the
+Department that are obtained by or disclosed to the Commissioner or any other person in the
+course of an examination or investigation made pursuant to G.S. 58-19-35, and all information
+reported or provided to the Department pursuant to subdivisions (11a) and (11b) of
+G.S. 58-19-15(b), G.S. 58-19-25, G.S. 58-19-30 and G.S. 58-19-38 are recognized by this State
+as being proprietary and to contain trade secrets, and shall be confidential by law and privileged,
+shall not be considered a public record under either G.S. 58-2-100 or Chapter 132 of the General
+Statutes, shall not be subject to subpoena, and shall not be subject to discovery or admissible in
+evidence in any private civil action. However, the Commissioner is authorized to use the
+documents, materials, or other information in the furtherance of any regulatory or legal action
+brought as a part of the Commissioner's official duties. The Commissioner shall not otherwise
+make the documents, materials, or other information public without the prior written consent of
+the insurer to which it pertains unless the Commissioner, after giving the insurer and its affiliates
+who would be affected thereby notice and opportunity to be heard, determines that the interest of
+policyholders, shareholders, or the public will be served by the publication thereof, in which
+event the Commissioner may publish all or any part of the information in such manner as may
+be deemed appropriate.
+(a1) With respect to information provided to the Department pursuant to G.S. 58-19-26
+and G.S. 58-19-27, the Commissioner shall:
+(1) Maintain the confidentiality of the group capital calculation and group capital
+ratio produced within the calculation and any group capital information
+received from an insurance holding company system supervised by the
+Federal Reserve Board or any United States group-wide supervisor.
+(2) Maintain the confidentiality of the liquidity stress test results and supporting
+disclosures and any liquidity stress test information received from an
+insurance holding company system supervised by the Federal Reserve Board
+and non-United States group-wide supervisors.
+…
+(c) In order to assist in the performance of the duties imposed by this Article, the
+Commissioner:
+(1) May share documents, materials, or other information, including the
+confidential and privileged documents, materials, or information subject to
+subsection (a) of this section, including proprietary and trade secret documents
+and materials, with other all of the following:
+a. Other state, federal, and international regulatory agencies, with the
+NAIC and its affiliates and subsidiaries, and with state, agencies.
+b. The NAIC.
+c. Any third-party consultants designated by the Commissioner.
+d. State, federal, and international law enforcement authorities, including
+members of any supervisory college described in G.S. 58-19-37,
+provided that the recipient agrees in writing to maintain the
+confidentiality and privileged status of the document, material, or
+other information and has verified in writing the legal authority to
+maintain confidentiality.
+(2) Notwithstanding subdivision (1) of this subsection, may only share
+confidential and privileged documents, material, or information reported
+pursuant to G.S. 58-19-25 G.S. 58-19-25(l) with Commissioners of states
+having statutes or regulations substantially similar to subsection (a) of this
+
+Section 13:
+section and who have agreed in writing not to disclose such information.
+Page 8 House Bill 737-Ratified
+(3) May receive documents, materials, or information, including otherwise
+confidential and privileged documents, materials, or information information,
+including proprietary and trade-secret information, from the NAIC and its
+affiliates and subsidiaries and from regulatory and law enforcement officials
+of other foreign or domestic jurisdictions, and shall maintain as confidential
+or privileged any document, material, or information received with notice or
+the understanding that it is confidential or privileged under the laws of the
+jurisdiction that is the source of the document, material, or information.
+(4) Shall enter into written agreements with the NAIC and any third-party
+consultant designated by the Commissioner governing sharing and use of
+information provided pursuant to this Article consistent with this subsection
+that shall:shall do all of the following:
+a. Require a recipient to maintain the confidentiality and privileged
+status of any documents, materials, or information. Specify procedures
+and protocols regarding the confidentiality and security of information
+shared with the NAIC and its affiliates and subsidiaries or a third-party
+consultant designated by the Commissioner pursuant to this Article,
+including procedures and protocols for sharing by the NAIC with other
+state, federal, or international regulators;regulators. The agreement
+shall require a recipient to verify in writing that the recipient has
+reviewed the legal authority supporting any confidentiality or
+privilege.
+b. Specify that ownership of information shared with the NAIC and its
+affiliates and subsidiaries or a third-party consultant pursuant to this
+Article remains with the Commissioner, and the NAIC's use of the
+information by the NAIC or third-party consultant designated by the
+Commissioner is subject to the direction of the
+Commissioner;Commissioner.
+c. Prohibit the NAIC or third-party consultant designated by the
+Commissioner from storing the information shared pursuant to this
+
+Section 14:
+section in a permanent database after the underlying analysis is
+completed. This sub-subdivision does not apply to documents,
+material, or information reported pursuant to G.S. 58-19-27.
+c.d. Require prompt notice to be given to an insurer whose confidential
+information in the possession of the NAIC or a third-party consultant
+designated by the Commissioner pursuant to this Article is subject to
+a request or subpoena to the NAIC for disclosure or production;
+andproduction.
+d.e. Require the NAIC and its affiliates and subsidiaries or a third-party
+consultant designated by the Commissioner to consent to intervention
+by an insurer in any judicial or administrative action in which the
+NAIC and its affiliates and subsidiaries or a third-party consultant
+designated by the Commissioner may be required to disclose
+confidential information about the insurer shared with the NAIC and
+its affiliates and subsidiaries or a third-party consultant designated by
+the Commissioner pursuant to Article 19 of this Chapter.
+f. Require the Commissioner to notify an insurer when documents,
+materials, or information confidential or privileged to that insurer are
+shared with a third-party consultant. The notification shall include the
+identity of the third-party consultant. This sub-subdivision only
+House Bill 737-Ratified Page 9
+applies to documents, materials, or information shared pursuant to
+G.S. 58-19-27.
+…
+(f) Documents, materials, or other information in the possession or control of the NAIC
+or a third-party consultant designated by the Commissioner pursuant to a requirement of this
+Article shall be confidential by law and privileged, shall not be considered a public record under
+G.S. 58-2-100 or Chapter 132 of the General Statutes, shall not be subject to subpoena, and shall
+not be subject to discovery or admissible in evidence in any private civil action."
+
+Section 15:
+SECTION 3.(f) This section becomes effective January 1, 2026.
+PART IV. CHANGES TO THE NORTH CAROLINA PROFESSIONAL EMPLOYER
+ORGANIZATION ACT
+
+Section 16:
+SECTION 4.(a) G.S. 58-89A-5 reads as rewritten:
+"§ 58-89A-5. Definitions.
+In this Article:
+…
+(3) "Audited GAAP financial statement" means a financial statement that is
+audited by an independent certified public accountant and presented in
+accordance with generally accepted accounting principles.
+…
+(17) "Tangible net worth" means the difference between total tangible assets and
+total liabilities. For purposes of this definition, tangible assets are physical
+assets and do not include goodwill, patents, copyrights, intellectual property,
+trademarks, and any other non-physical asset.
+(17)(18) "Temporary employees" means persons employed under an arrangement
+by which an organization hires its own employees and assigns them to a client
+company to support or supplement the client's workforce in a special work
+situation, including:
+…
+(19) "Working capital" means the difference between current assets and current
+liabilities."
+
+Section 17:
+SECTION 4.(b) G.S. 58-89A-35 reads as rewritten:
+"§ 58-89A-35. License required; professional employer organization groups.
+…
+(b) Two or more professional employer organizations persons that are controlled by the
+same ultimate parent, entity, or persons may be licensed as a professional employer organization
+group. A professional employer organization group may satisfy the reporting and financial
+requirements of this Article on a consolidated or combined basis. As a condition of licensure as
+a professional employer organization group, each professional employer organization person that
+is proposes to be a member of the a professional employer organization group shall guarantee
+payment of all financial obligations of every other member. Notwithstanding the definition of
+"person" in this Article, whenever two or more entities combine to seek issuance of a single
+license under this Article, the requirements for group licensure under this subsection shall be met
+before issuance of a license and any license issued will be a professional employer organization
+group license issued pursuant to this subsection."
+
+Section 18:
+SECTION 4.(c) G.S. 58-89A-50 reads as rewritten:
+"§ 58-89A-50. Surety bond; letter of credit; other deposits.
+(a) An applicant for licensure shall file with the Commissioner a surety bond, or other
+items as set forth in subsection (f) of this section, in the amount of one hundred thousand dollars
+($100,000) for the benefit of the Commissioner. An applicant whose current assets do not exceed
+current liabilities or licensee who does not have positive working capital pursuant to
+Page 10 House Bill 737-Ratified
+G.S. 58-89A-60(b) shall file an additional surety bond or other items set forth in subsection (f)
+of this section equal to or in excess of current liabilities less current assets.the applicant's or
+licensee's negative working capital.
+…."
+
+Section 19:
+SECTION 4.(d) G.S. 58-89A-60(g) is repealed.
+
+Section 20:
+SECTION 4.(e) G.S. 58-89A-60, as amended by Section 4(d) of this act, reads as
+rewritten:
+"§ 58-89A-60. License application.
+(a) Every applicant for licensure shall file with the Commissioner, on a form prescribed
+by the Commissioner, the following information:
+…
+(3) A list of all officers officers, directors, and other controlling persons of the
+applicant, their biographical information, including their education,
+management background, and business experience, and an affidavit from each
+attesting to his or her good moral character and management competence.
+…
+(6) Any other reasonable information the Commissioner deems necessary and
+requires by rule to establish that the applicant and the officers and controlling
+persons are of good moral character, have business integrity, have applicable
+educational and business experience, and have financial responsibility.
+(b) Every applicant shall file with the Commissioner an audited GAAP financial
+statement, prepared as of a date not more than 90 120 days before the date of application that
+demonstrates that the applicant or licensee's current assets exceed current liabilities and attached
+has a tangible net worth of not less than fifty thousand dollars ($50,000) and positive working
+capital. The applicant shall attach to which is the audited financial statement a separate document
+signed by the applicant's chief executive and the chief financial officer certifying that (i) each
+has reviewed the audited financial statement; (ii) based on each signatory's knowledge, the
+audited financial statement does not contain any untrue or misleading statement of material fact
+or omit a fact with respect to the period covered by the audited financial statement; and (iii) based
+on each signatory's knowledge, the audited financial statement fairly presents in all material
+respects the financial condition of the licensee applicant as of, and for, the period presented in
+the audited financial statement.
+Notwithstanding the requirements of this subsection, the Commissioner may, in the
+Commissioner's discretion, accept an audited GAAP financial statement that has been prepared
+more than 90 120 days before submission to the Commissioner if the Commissioner deems such
+acceptance appropriate. The Commissioner may, in the Commissioner's discretion, impose
+conditions upon such acceptance of audited financial statements prepared more than 90 120 days
+prior to submission.
+The audited GAAP financial statement shall be prepared in accordance with generally
+accepted accounting principles and audited by an independent certified public accountant
+licensed to practice in the jurisdiction in which such accountant is located and shall be without
+qualification as to the going concern status of the PEO. A PEO group applicant. Persons applying
+for a professional employer organization group license may submit combined or consolidated
+audited financial statements to meet the requirements of this section, except that a PEO provided
+that the combined or consolidated audited financial statement include a combining or
+consolidating balance sheet and statement of operations of each proposed member as
+supplemental information to the combined or consolidated audited financial statement. An
+applicant that has not had sufficient operating history to have audited financial statements based
+upon does not have at least 12 months of operating history must may meet the financial capacity
+requirements of this subsection and present by filing with the Commissioner financial statements
+House Bill 737-Ratified Page 11
+that have been reviewed by a an independent certified public accountant.accountant and that have
+been prepared as of a date not more than 90 days before the date of application.
+(b1) The Commissioner may accept the audited financial statement of an applicant's parent
+company, if the audited financial statement includes either a combining or consolidating balance
+sheet, income statement, statement of changes in equity, and statement of cash flows as
+supplemental information to the audited financial statement, the contents of which will allow the
+Commissioner to determine the financial condition and financial responsibility of the applicant.
+(b2) The Commissioner may accept the audited financial statement of an applicant's parent
+company and consider the financial condition and financial responsibility of the parent company
+in lieu of the applicant, if all of the following requirements are satisfied:
+(1) The parent executes a guaranty agreement, in a form prescribed by the
+Commissioner, for the guaranty of all obligations related to the applicant's
+current and future client companies, including its obligations for payroll,
+payroll-related taxes, workers' compensation insurance, and employee
+benefits.
+(2) The applicant files with the Commissioner documentation acceptable to the
+Commissioner evidencing the parent's control.
+(3) The applicant submits an audited financial statement that meets the
+requirements of subsection (b1) of this section that allows the Commissioner
+to determine the financial condition and financial responsibility of the parent
+and the applicant.
+…
+(d) Every applicant shall furnish the Commissioner a complete set of fingerprints of each
+officer, director, and controlling person in a form prescribed by the Commissioner. Each set of
+fingerprints shall be certified by an authorized law enforcement officer.
+Upon request by the Department, the State Bureau of Investigation shall provide to the
+Department from the State and National Repositories of Criminal Histories the criminal history
+of any applicant and the officer, director, and controlling person of any applicant. Along with the
+request, the Department shall provide to the State Bureau of Investigation the fingerprints of the
+person that is the subject of the request, a form signed by the person that is the subject of the
+request consenting to the criminal record check and use of fingerprints and other identifying
+information required by the State and National Repositories, and any additional information
+required by the State Bureau of Investigation. The person's fingerprints shall be used by the State
+Bureau of Investigation for a search of the State's criminal history record file, and the State
+Bureau of Investigation may forward a set of fingerprints to the Federal Bureau of Investigation
+for a national criminal history record check. The Department shall keep all information obtained
+pursuant to this subsection confidential. The State Bureau of Investigation may charge a fee to
+offset the cost incurred by it to conduct a criminal record check under this section. The fee shall
+not exceed the actual cost of locating, editing, researching, and retrieving the information.
+In the event that an applicant has secured a professional employer organization license in
+another state in which the professional employer organization's controlling persons have
+completed a criminal background investigation within 12 months of this application, a certified
+copy of the report from the appropriate authority of that state may satisfy the requirement of this
+subsection. This subsection also applies to a change in a the officers, directors, and other
+controlling party persons of a professional employer organization. organizations and professional
+employer organization groups licensed under this Article. For purposes of investigation under
+this subsection, the Commissioner shall have all the power conferred by G.S. 58-2-50 and other
+applicable provisions of this Chapter.
+…
+(g1) The Commissioner may deny the license of an applicant under this Article if the
+Commissioner finds any of the following:
+Page 12 House Bill 737-Ratified
+(1) That an officer, director, or other controlling person has:
+a. Not met the requirements of G.S. 58-89A-40.
+b. Made any untrue material statement or omitted any material
+information regarding their background or experience.
+c. Violated, or failed to comply with, any professional employer services
+law or any rule or order of the Commissioner or of any other State
+official responsible for the regulation of any aspect of the applicant's
+business.
+d. Obtained or attempted to obtain the license through misrepresentation
+or fraud.
+e. Been convicted of a felony.
+f. Been found in a final judgment or administrative proceeding to have
+committed fraud or an unfair trade practice.
+g. Been an officer, director, or other controlling person in another
+professional employer organization that has had its license or
+registration suspended, terminated, or revoked by any state.
+(2) That the applicant is not current with respect to all of its obligations for
+payroll, payroll-related taxes, workers' compensation insurance, and
+employee benefits and the applicant has failed to satisfy the Commissioner as
+to the reasons why.
+(3) That the applicant does not possess:
+a. A tangible net worth of not less than fifty thousand dollars ($50,000).
+b. Positive working capital, or in lieu of positive working capital,
+substitute security as provided under G.S. 58-89A-50(a).
+(4) That the applicant has not provided evidence satisfactory to the Commissioner
+of financial responsibility.
+(5) That the applicant has failed to satisfy the requirements of G.S. 58-89A-50.
+(6) That a ground upon which the Commissioner could take disciplinary action
+against a licensee or other person subject to licensure requirements pursuant
+to G.S. 58-89A-155 applies to the applicant.
+(h) If the Commissioner finds that the applicant has not fully met the requirements for
+licensure, the Commissioner shall refuse to issue the license and shall notify the applicant in
+writing of the denial, stating the grounds for the denial. The application may also be denied for
+any reason for which a license may be suspended or terminated under G.S. 58-89A-155. To
+obtain a review to determine the reasonableness of the Commissioner's denial, the applicant shall
+make written demand upon the Commissioner within 30 days after notice is given under
+G.S. 150B-38(c). The review shall be completed without undue delay, and the applicant shall be
+notified promptly in writing as to the outcome of the review. If the applicant disagrees with the
+outcome of the review and seeks a hearing, under Article 3A of Chapter 150B of the General
+Statutes, on the outcome of the review, the applicant shall make a written demand upon the
+Commissioner for the hearing within 30 days after notice of the outcome of the review is given
+under G.S. 150B-38(c).
+(i) Removal, demotion, or discharge of a an officer, director, or other controlling person
+in response to an order of the Commissioner of the alleged unsuitability of that person is an
+affirmative defense to any claim by that individual based on the removal, demotion, or discharge.
+…."
+
+Section 21:
+SECTION 4.(f) G.S. 58-89A-70 reads as rewritten:
+"§ 58-89A-70. License issuance and maintenance.
+…
+House Bill 737-Ratified Page 13
+(c) By obtaining licensure under this Article, the officers, directors, and other controlling
+persons of a licensee certify, under penalty of law, their compliance with the requirements of
+licensure and of operation as a professional employer organization pursuant to this Article.
+(d) Within 120 days after the end of each fiscal year, each licensee shall file with the
+Commissioner all of the following information:
+(1) Evidence of "financial responsibility" as set forth in G.S. 58-89A-60(b).An
+audited financial statement of the licensee or, if allowed by the Commissioner,
+an audited financial statement of the licensee's parent. The audited financial
+statement shall be in the form required by G.S. 58-89A-60(b), (b1), or (b2), as
+appropriate.
+…
+(4) An attestation, executed by the chief financial officer and the chief executive
+officer of the licensee, that the licensee is current with respect to all of its
+obligations for payroll, payroll-related taxes, workers' compensation
+insurance, and employee benefits. If any of the obligations listed in this
+subdivision are in dispute with a client and the disputed amount is material
+when considered in the context of the licensee's most recent audited financial
+statement, then the licensee shall disclose the nature of the dispute causing the
+obligations to be unpaid and the amount of money in controversy.
+(4)(5) Any other reasonable information the Commissioner determines is needed for
+the review of a licensee.
+(e) In order to maintain licensure, each licensee may be required to file with the
+Commissioner no later than 45 60 days after the end of each quarter of the fiscal year:
+(1) A financial statement for the preceding quarter that is not audited but is set
+forth in a format similar to the annual audited GAAP financial statement; and
+(2) An attestation, executed by the chief financial officer and the chief executive
+officer of the licensee, that the licensee is current with respect to all of its
+obligations for payroll, payroll-related taxes, workers' compensation
+insurance, and employee benefits. If any of the obligations listed in this
+subdivision are in dispute with a client and the disputed amount is material
+when considered in the context of the licensee's most recent audited financial
+statement, then the licensee shall disclose the nature of the dispute causing the
+obligations to be unpaid and the amount of money in controversy.attestation
+in the form required by subdivision (4) of subsection (d) of this section."
+
+Section 22:
+SECTION 4.(g) G.S. 58-89A-75 reads as rewritten:
+"§ 58-89A-75. De minimis registration.
+(a) A person who seeks to offer limited professional employer services in this State shall
+be eligible for de minimis registration status upon compliance with this section and may operate
+as a de minimis registrant in this State upon notification pursuant to this section. A person shall
+satisfy the requirements for a de minimis registration only if the professional employer
+organization:
+(1) Does not maintain a physical professional employer organization office
+located in this State;
+(2) Is not domiciled in this State;
+(2)(3) Does not employ salespersons who reside or direct their sales activities in this
+State;
+(3)(4) Does not employ directly or in common control with another person, as
+defined in G.S. 58-89A-5(12), more than 50 assigned employees in this State;
+(4)(5) Does not advertise through any media outlet physically located in this
+State;State, provided, however, that this subdivision shall not prohibit a person
+from advertising through publications, trade journals, directories, radio,
+Page 14 House Bill 737-Ratified
+television, or the internet if such advertising is not expressly directed toward
+employers in this State.
+(5)(6) Is a licensed or registered professional employer organization in at least one
+other state of the United States; and
+(6)(7) Is operated by and under the control of persons of good moral character.
+A professional employer organization operating under a de minimis registration shall be subject
+to all of the responsibilities and authority of a licensee under this Article except for
+G.S. 58-89A-50, 58-89A-60 and 58-89A-70(c), (d), and (e).
+…."
+
+Section 23:
+SECTION 4.(h) This section is effective when it becomes law and applies to
+applications for license issuance or renewal submitted on or after that date.
+PART V. INSURANCE GUARANTY ASSOCIATION ACT REVISIONS
+
+Section 24:
+SECTION 5.(a) G.S. 58-48-10 reads as rewritten:
+"§ 58-48-10. Scope.
+This Article shall apply to all kinds of direct insurance, but shall not be applicable to:
+…
+(5) Insurance Other than coverages that may be set forth in a cybersecurity
+insurance policy, insurance of warranties or service contracts;
+…."
+
+Section 25:
+SECTION 5.(b) G.S. 58-48-20 reads as rewritten:
+"§ 58-48-20. Definitions.
+As used in this Article:
+…
+(4) Covered claim. – An unpaid claim, including one of unearned premiums,
+which is in excess of fifty dollars ($50.00) and arises out of and is within the
+coverage and not in excess of the applicable limits of an insurance policy to
+which this Article applies as issued by an insurer, if that insurer if the policy
+was issued by an insurer that becomes an insolvent insurer after the effective
+date of this Article and (i) the claimant or insured is a resident of this State at
+the time of the insured event; or (ii) the property from which the claim arises
+is permanently located in this State. "Covered claim" includes claim
+obligations that arose through the issuance of an insurance policy by a member
+insurer, which are later allocated, transferred, merged into, novated, assumed
+by, or otherwise made the sole responsibility of a member or nonmember
+insurer if (i) the original member insurer has no remaining obligations on the
+policy after the transfer, (ii) a final order of liquidation with a finding of
+insolvency has been entered against the insurer that assumed the member's
+coverage obligations by a court of competent jurisdiction in the insurer's state
+of domicile, (iii) the claim would have been a covered claim, as defined in this
+subdivision, if the claim had remained the responsibility of the original
+member insurer and the order of liquidation had been entered against the
+original member insurer, with the same claim submission date and liquidation
+date, and (iv) in cases where the member's coverage obligations were assumed
+by a nonmember insurer, the transaction received prior regulatory or judicial
+approval. "Covered claim" shall not include any amount awarded (i) as
+punitive or exemplary damages; (ii) sought as a return of premium under any
+retrospective rating plan; or (iii) due any reinsurer, insurer, insurance pool, or
+underwriting association, as subrogation or contribution recoveries or
+otherwise. "Covered claim" also shall not include fines or penalties, including
+attorneys' fees, imposed against an insolvent insurer or its insured or claims
+House Bill 737-Ratified Page 15
+of any claimant whose net worth exceeds fifty million dollars ($50,000,000)
+on December 31 of the year preceding the date the insurer becomes insolvent.
+(4a) Cybersecurity insurance. – Includes first and third-party coverage, in a policy
+or endorsement, written on a direct, admitted basis by a member insurer for
+losses and loss mitigation arising out of or relating to data privacy breaches,
+unauthorized information network security intrusions, computer viruses,
+ransomware, cyber extortion, identity theft, and similar exposures.
+…."
+
+Section 26:
+SECTION 5.(c) G.S. 58-48-35 reads as rewritten:
+"§ 58-48-35. Powers and duties of the Association.
+(a) The Association shall:
+(1) Be obligated to the extent of the covered claims existing prior to the
+determination of insolvency and arising within 30 days after the determination
+of insolvency, or before the policy expiration date if less than 30 days after
+the determination, or before the insured replaces the policy or causes its
+cancellation, if he does so within 30 days of the determination. This obligation
+includes only the amount of each covered claim that is in excess of fifty dollars
+($50.00) and is less than five hundred thousand dollars ($500,000). However,
+the Association shall pay the full amount of a covered claim for benefits under
+a workers' compensation insurance coverage, and shall pay an amount not
+exceeding ten thousand dollars ($10,000) per policy for a covered claim for
+the return of unearned premium. In no event shall the Association be obligated
+to pay an amount in excess of five hundred thousand dollars ($500,000) for
+all first and third-party claims under a policy or endorsement providing, or
+that is found to provide, cybersecurity insurance coverage and arising out of
+or related to a single insured event, regardless of the number of claims made
+or the number of claimants. The Association has no obligation to pay a
+claimant's covered claim, except a claimant's workers' compensation claim, if:
+…
+(4) Investigate claims brought against the Association and adjust, compromise,
+settle, and pay covered claims to the extent of the Association's obligation and
+deny all other claims and may review settlements, releases and judgments to
+which the insolvent insurer or its insureds were parties to determine the extent
+to which such settlements, releases and judgments may be properly
+contested.claims. This requirement is subject to the following provisions:
+a. When investigating, adjusting, compromising, or settling claims, the
+Association may appoint, substitute, and direct legal counsel for the
+defense of covered claims and appoint and direct other service
+providers for covered services.
+b. The Association may pay in any order that it deems reasonable,
+including the payment of claims as they are received from the
+claimants or in groups or categories of claims.
+…
+(8) Have the right to review and contest settlements, releases, compromises,
+waivers, and judgments to which the insolvent insurer or its insureds were
+parties prior to the entry of the order of liquidation. This right is subject to the
+following provisions:
+a. In addition to any defenses available to the insurer, the Association
+may assert any statutory defenses or rights of offset against any
+settlement, release, compromise, or waiver executed by an insured or
+the insurer or any judgment taken against the insured or the insurer.
+Page 16 House Bill 737-Ratified
+b. The Association is not bound by a settlement, release, compromise, or
+waiver executed by an insured or the insurer or any judgment entered
+against an insured or the insurer by consent or through a failure to
+exhaust all appeals if the settlement, release, compromise, waiver, or
+judgment was:
+
+Section 27:
+1. Executed or entered within 120 days prior to the entry of an
+order of liquidation, and the insured or the insurer did not use
+reasonable care in entering into the settlement, release,
+compromise, waiver, or judgment, or did not pursue all
+reasonable appeals of an adverse judgment; or
+
+Section 28:
+2. Executed by or taken against an insured or the insurer based on
+default, fraud, collusion, or the insurer's failure to defend.
+c. If a court of competent jurisdiction finds that the Association is not
+bound by a settlement, release, compromise, waiver, or judgment for
+any of the reasons described in sub-subdivision b. of this subdivision,
+the settlement, release, compromise, waiver, or judgment shall be set
+aside, and the Association shall be permitted to defend any covered
+claim on the merits. The settlement, release, compromise, waiver, or
+judgment may not be considered as evidence of liability or damages in
+connection with any claim brought against the Association or any
+other party under this Article.
+d. Any covered claims arising from any judgment under any decision,
+verdict, or finding based on the default of the insolvent insurer or its
+failure to defend an insured shall, upon application and notice by the
+Association, be vacated and set aside by the same court in which such
+judgment, order, decision, verdict, or finding is entered, and the
+Association either on its own behalf or on behalf of any insured or an
+insolvent insurer shall be permitted to defend against such claim on
+the merits. Any party who has obtained any such judgment or order
+shall have the right, upon application and notice, to have the judgment
+or order restored if within 90 days following the entry of the judgment
+or order the Association has not notified such party and the court that
+it intends to defend the matter on the merits.
+…."
+
+Section 29:
+SECTION 5.(d) G.S. 58-48-50 reads as rewritten:
+"§ 58-48-50. Effect of paid claims.
+…
+(a1) The Association shall have the right to recover from the following persons the amount
+of any "covered claim" paid and any and all expenses incurred, including attorneys' fees and costs
+of defense, in connection with any claim against the person or the person's affiliate pursuant to
+this Article:
+(1) Any insured whose net worth on December 31 of the year next preceding the
+date the insurer becomes insolvent exceeds fifty million dollars ($50,000,000)
+and whose liability obligations to other persons are satisfied in whole or in
+part by payments under this Article; Article, provided that an insured's net
+worth on that date shall be deemed to include the aggregate net worth of the
+insured and all of its subsidiaries and affiliates as calculated on a consolidated
+basis; or
+…."
+
+Section 30:
+SECTION 5.(e) G.S. 58-48-85 reads as rewritten:
+"§ 58-48-85. Stay of proceedings; reopening of default judgments.proceedings.
+House Bill 737-Ratified Page 17
+All proceedings in which the insolvent insurer is a party or is obligated to defend a party in
+any court or before any administrative agency or the North Carolina Industrial Commission shall
+be stayed automatically for 120 days and such additional time thereafter as may be determined
+by the court from the date the insolvency is determined or any ancillary proceedings are initiated
+in this State, whichever is later, to permit proper defense by the Association of all pending causes
+of action. Any party to any proceeding which is stayed pursuant to this section shall have the
+right, upon application and notice, to seek a vacation or modification of such stay. Any covered
+claims arising from any judgment under any decision, verdict or finding based on the default of
+the insolvent insurer or its failure to defend an insured, shall, upon application and notice by the
+Association be vacated and set aside by the same court in which such judgment, order, decision,
+verdict, or finding is entered and the Association either on its own behalf or on behalf of any
+insured or an insolvent insurer, shall be permitted to defend against such claim on the merits.
+Any party who has obtained any such judgment or order shall have the right, upon application
+and notice, to have the judgment or order restored if within 90 days following the entry of the
+judgment or order the Association has not notified such party and the court that it intends to
+defend the matter on the merits."
+
+Section 31:
+SECTION 5.(f) This section is effective when it becomes law.
+PART VI. CLARIFY PERMITTED TRADE PRACTICES WITH RESPECT TO
+INSURANCE REBATES
+
+Section 32:
+SECTION 6.(a) G.S. 58-63-15(8)b.4. and G.S. 58-63-16 are repealed.
+
+Section 33:
+SECTION 6.(b) G.S. 58-63-15 reads as rewritten:
+"§ 58-63-15. Unfair methods of competition and unfair or deceptive acts or practices
+defined.
+The following are hereby defined as unfair methods of competition and unfair and deceptive
+acts or practices in the business of insurance:
+…
+(8) Rebates. –
+…
+b. Nothing in subdivision (7) or paragraph a sub-subdivision a. of
+subdivision (8) of this section shall be construed as including within
+the definition of discrimination or rebates any of the following
+practices:
+…
+
+Section 34:
+5. Engaging in an arrangement that would not violate section 106
+of the Bank Holding Company Act Amendments of 1972 (12
+U.S.C. § 1972), as interpreted by the Board of Governors of
+the Federal Reserve System, or section 5(q) of the Home
+Owners' Loan Act, 12 U.S.C. § 1464(q).
+
+Section 35:
+6. The offer or provision by insurers or producers, by or through
+employees, affiliates, or third-party representatives, of
+value-added products or services at no or reduced cost when
+such products or services are not specified in the policy of
+insurance if all of the following criteria are met:
+I. Relates to the insurance coverage and is primarily
+designed to satisfy one or more of the following:
+A. Providing loss mitigation or loss control.
+B. Reducing claim costs or claim settlement costs.
+C. Providing education about liability risks or risk
+of loss to persons or property.
+Page 18 House Bill 737-Ratified
+D. Monitoring or assessing risk, identifying
+sources of risk, or developing strategies for
+eliminating or reducing risk.
+E. Enhancing health.
+F. Enhancing financial wellness through items
+such as education or financial planning
+services.
+G. Providing post-loss services.
+H. Incentivizing behavioral changes to improve
+the health or reduce the risk of death or
+disability of a customer. For purposes of this
+sub-sub-sub-sub-subdivision, "customer"
+means a policyholder, potential policyholder,
+certificate holder, potential certificate holder,
+insured, potential insured, or applicant.
+I. Assisting in the administration of the employee
+or retiree benefit insurance coverage.
+II. If the insurer or producer is providing the product or
+service offered, the insurer or producer must ensure
+that the customer is provided with contact information
+to assist the customer with questions regarding the
+product or service.
+III. The availability of the value-added product or service
+must be based on documented objective criteria and
+offered in a manner that is not unfairly discriminatory.
+The documented criteria must be maintained by the
+insurer or producer and produced upon request by the
+Department.
+
+Section 36:
+7. The offer or provision of products or services that otherwise
+meet the criteria of sub-sub-subdivision 6. of this
+sub-subdivision, where the insurer or producer does not have
+sufficient evidence to demonstrate but has a good-faith belief
+that the products or service satisfies one or more of the
+conditions listed in sub-sub-sub-sub-subdivisions A. through I.
+of sub-sub-sub-subdivision I. of sub-sub-subdivision 6. of this
+sub-subdivision. The products and services shall be offered or
+provided in a manner that is not unfairly discriminatory as part
+of a pilot or testing program for no more than one year. An
+insurer or producer offering or providing products or services
+pursuant to this sub-sub-subdivision must notify the
+Department of the pilot or testing program prior to
+implementation and may proceed with the program unless the
+Department objects within 21 days of notice.
+
+Section 37:
+8. The offer or gifting by an insurer or producer of noncash gifts,
+items, or services, including meals to or charitable donations
+on behalf of a customer, if all of the following criteria are met:
+I. The noncash gifts, items, or services are made to, or on
+behalf of, customers, including commercial or
+institutional customers, in connection with the
+marketing, sale, purchase, or retention of contracts of
+insurance.
+House Bill 737-Ratified Page 19
+II. The cost of the noncash gifts, items, or services does
+not exceed two hundred fifty dollars ($250.00) per
+policy term.
+III. The offer or gift is made in a manner that is not unfairly
+discriminatory.
+IV. The customer is not required to purchase, continue to
+purchase, or renew a policy in exchange for the offer or
+gift.
+
+Section 38:
+9. The conducting of drawings or raffles by an insurer or
+producer, to the extent they are otherwise permitted by law, if
+all of the following criteria are met:
+I. There is no financial cost to entrants to participate in
+the drawing or raffle.
+II. The drawing or raffle does not obligate participants to
+purchase insurance.
+III. The prizes of the drawing or raffle are not valued in
+excess of two hundred fifty dollars ($250.00).
+IV. The drawing or raffle is open to the public and
+conducted in a manner that is not unfairly
+discriminatory.
+V. The customer is not required to purchase, continue to
+purchase, or renew a policy in exchange for
+participation in the drawing or raffle.
+c. No insurer or employee thereof, and no insurance producer shall pay,
+allow, or give, or offer to pay, allow, or give, directly or indirectly, as
+an inducement to insurance, or after insurance has been effected, any
+rebate, discount, abatement, credit or reduction of the premium named
+in a policy of insurance, or any special favor or advantage in the
+dividends or other benefits to accrue thereon, or any valuable
+consideration or inducement whatever, not specified in the policy of
+insurance. Nothing herein contained shall be construed as prohibiting
+prohibiting: (i) the payment of commissions or other compensation to
+regularly appointed and licensed insurance producers duly licensed by
+this State; nor as prohibiting State, (ii) any participating insurer from
+distributing to its policyholders dividends, savings or the unused or
+unabsorbed portion of premiums and premium deposits.deposits, or
+(iii) the trade practices permitted by sub-subdivision b. of this
+subdivision.
+d. An insurer, producer, or representative of either may not offer or
+provide insurance as an inducement to the purchase of another policy
+or otherwise use the words "free," "no cost," or words of similar import
+about the policy sale or purchase, in an advertisement. The prohibition
+on the use of the words "free" and "no cost" in this sub-subdivision
+does not apply to products or services described in
+sub-sub-subdivision 6., 7., 8., or 9. of sub-subdivision b. of subdivision
+(8) of this section or in G.S. 58-63-16(a).
+…."
+
+Section 39:
+SECTION 6.(c) G.S. 58-33-85 reads as rewritten:
+"§ 58-33-85. Rebates and charges in excess of premium prohibited; exceptions.
+(a) No insurer, insurance producer, or limited representative shall knowingly charge,
+demand or receive a premium for any policy of insurance except in accordance with the
+Page 20 House Bill 737-Ratified
+applicable filing approved by the Commissioner. No insurer, insurance producer, or limited
+representative shall pay, allow, or give, or offer to pay, allow, or give, directly or indirectly, as
+an inducement to insurance, or after insurance has been effected, any rebate, discount, abatement,
+credit, or reduction of the premium named in a policy of insurance, or any special favor or
+advantage in the dividends or other benefits to accrue thereon, or any valuable consideration or
+inducement whatever, not specified in the policy of insurance. No insured named in a policy of
+insurance, nor any employee of such insured, shall knowingly receive or accept, directly or
+indirectly, any such rebate, discount, abatement or reduction of premium, or any special favor or
+advantage or valuable consideration or inducement. Nothing herein contained shall be construed
+as prohibiting (i) the payment of commissions or other compensation to duly licensed insurance
+producers and limited representatives, (ii) any participating insurer from distributing to its
+policyholders dividends, savings or the unused or unabsorbed portion of premiums and premium
+deposits, or (iii) the trade practices permitted by G.S. 58-63-16. sub-subdivision b. of subdivision
+(8) of G.S. 58-63-15. As used in this section the word "insurance" includes suretyship and the
+word "policy" includes bond.
+…."
+
+Section 40:
+SECTION 6.(d) Section 6(b) of this act is effective January 1, 2027, and applies to
+trade practices related to insurance contracts issued, renewed, or amended on or after that date.
+The remainder of this section is effective when it becomes law and applies to trade practices
+related to insurance contracts issued, renewed, or amended on or after that date.
+PART VII. CLARIFY LAWS RELATING TO THE EXCHANGE OF BUSINESS
+BETWEEN INSURANCE PRODUCERS
+
+Section 41:
+SECTION 7.(a) G.S. 58-33-10 reads as rewritten:
+"§ 58-33-10. Definitions.
+As used in this Article, the following definitions apply:
+…
+(4a) "Exchange business," "exchange of business," or "proper exchange of
+business" means the forwarding of insurance business from one producer duly
+licensed for the line of insurance being forwarded to another producer duly
+licensed for that line of insurance where both producers are duly appointed as
+required by this Article.
+(4a)(4b) "FINRA" means the Financial Industry Regulatory Authority or any
+successor entity.
+…."
+
+Section 42:
+SECTION 7.(b) G.S. 58-33-82 reads as rewritten:
+"§ 58-33-82. Commissions.
+…
+(e) Commissions, fees, or other valuable consideration for the sale, solicitation, or
+negotiation of insurance may be assigned or directed to be paid in the following circumstances:
+…
+(4) To an agency principal who is an owner, shareholder, member, partner,
+director, employee, or agent of that agency for business placed by a producer
+on behalf of that agency who is duly licensed and appointed as required by
+this Article.
+(5) In connection with the exchange of business where both producers are duly
+licensed and appointed as required by this Article and have complied with all
+of the requirements of G.S. 58-33-82.1.
+…."
+
+Section 43:
+SECTION 7.(c) Article 33 of Chapter 58 of the General Statutes is amended by
+adding a new section to read:
+House Bill 737-Ratified Page 21
+"§ 58-33-82.1. Exchange of business.
+(a) Producers may exchange business, and split the commission involved with that
+business, if the producer forwarding the business and the producer receiving the business both:
+(1) Are licensed in all lines of insurance involved in the exchange and appointed
+as required by this Article.
+(2) Sign or include their National Producer Numbers on the insurer's insurance
+application and provide written or electronic notice to the insurer and
+consumer of the business exchange.
+(3) Have a good-faith belief that the exchange of business complies with the
+requirements of this Article.
+(b) This section does not limit:
+(1) The exchange of business in connection with specialty lines or nonstandard
+and professional liability business that is either:
+a. Placed through a surplus lines producer; or
+b. Written at an excess rate or on an individually rated and risked basis.
+(2) The exchange of business in connection with risk sharing plans."
+
+Section 44:
+SECTION 7.(d) This section is effective when it becomes law and applies to
+contracts entered into or renewed on or after that date.
+PART VIII. INEXPERIENCED OPERATOR CONTINUOUS COVERAGE
+
+Section 45:
+SECTION 8.(a) G.S. 20-16 reads as rewritten:
+"§ 20-16. Authority of Division to suspend license.
+(a) The Division shall have authority to suspend the license of any operator with or
+without a preliminary hearing upon a showing by its records or other satisfactory evidence that
+the licensee:
+…
+(6a) Has violated G.S. 20-309(a3);
+…."
+
+Section 46:
+SECTION 8.(b) G.S. 20-309 reads as rewritten:
+"§ 20-309. Financial responsibility prerequisite to registration; must be maintained
+throughout registration period.
+…
+(a3) No person subject to an inexperienced operator premium surcharge pursuant to
+G.S. 58-36-65(k) shall operate a motor vehicle unless the liability insurance policy benefiting
+that person includes any required premium surcharge. This subsection shall not apply to persons
+who demonstrate financial responsibility in an authorized manner other than a liability insurance
+policy.
+…."
+
+Section 47:
+SECTION 8.(c) G.S. 20-309.2 reads as rewritten:
+"§ 20-309.2. Insurer shall notify Division of actions on insurance policies.
+(a) Notice Required. – An insurer shall notify the Division upon any of the following
+with regard to a motor vehicle liability policy:
+…
+(4) A person subject to an inexperienced operator premium surcharge pursuant to
+G.S. 58-36-65(k) is added to or removed from the policy's coverage, or if a
+policy to which a person subject to the inexperienced operator surcharge
+pursuant to G.S. 58-36-65(k) was added has been canceled.
+(a1) Division Records. – The Division shall ensure that its records accurately reflect the
+insurance coverage status of of: (i) each owner of a motor vehicle registered or required to be
+registered in this State and (ii) persons subject to an inexperienced operator premium surcharge
+pursuant to G.S. 58-36-65 by reconciling all notices received under this section pertaining to that
+Page 22 House Bill 737-Ratified
+individual or motor vehicle owner. A termination notice received under subdivision (2) of
+subsection (a) of this section shall not be recorded as a lapse in financial responsibility or initiate
+action by the Division under G.S. 20-311 if an earlier notice received by the Division under this
+
+Section 48:
+section establishes that the owner of the motor vehicle has met the duty to have continuous
+financial responsibility for the vehicle, as required under G.S. 20-309, through a motor vehicle
+liability policy that is not the subject of the later termination notice.
+…."
+
+Section 49:
+SECTION 8.(d) This section becomes effective July 1, 2026.
+PART X. RESTRICTIONS ON RESIDENTIAL LEASES REQUIRING RENTERS
+INSURANCE
+
+Section 50:
+SECTION 10. G.S. 42-46 reads as rewritten:
+"§ 42-46. Authorized fees, costs, and expenses.
+…
+(l) The following provisions apply to any lease that requires a tenant to maintain
+insurance coverage for the leased premises:
+(1) The tenant shall not be required to obtain the required insurance coverage
+from a designated carrier or through a designated agent.
+(2) The landlord may charge the tenant for the actual cost incurred by the landlord
+to obtain the required insurance coverage and an administrative fee not to
+exceed fifty dollars ($50.00) per year, only if the tenant fails to provide, within
+three business days after the request of the landlord, proof that the tenant has
+obtained the required insurance coverage."
+PART XI. TECHNICAL CHANGE TO EFFECTIVE DATE PROVISION IN S.L.
+2023-133, AS AMENDED BY S.L. 2024-29
+
+Section 51:
+SECTION 11. Section 16(j) of S.L. 2023-133, as amended by Section 9(b) of S.L.
+2024-29, reads as rewritten:
+"SECTION 16.(j) This section becomes effective July 1, 2025. Section 16(e) of this act
+becomes effective July 1, 2025, and applies to convictions occurring on or after that date. Section
+16(h) of this act becomes effective July 1, 2025, and applies to prior convictions for a "violation
+of speeding 10 miles per hour or less over the speed limit" and prayers for judgment continued
+occurring on or after that date.date; provided, however, that, for the purpose of determining
+whether there shall be a premium surcharge or assignment of points under the subclassification
+plan, convictions for a "violation of speeding 10 miles per hour or less over the speed limit" or
+prayers for judgment continued occurring before July 1, 2025, must occur within the three years
+immediately preceding the date of application or the preparation of the renewal."
+PART XII. AUTHORIZE SALESMEN TO REGISTER WITH MULTIPLE DEALERS
+UNDER COMMON OWNERSHIP OR CONTROL
+
+Section 52:
+SECTION 12.(a) G.S. 78A-36(b) reads as rewritten:
+"(b) It is unlawful for any dealer to employ a salesman unless the salesman is registered.
+The registration of a salesman is not effective during any period when he is not associated with
+a particular dealer registered under this Chapter. When a salesman begins or terminates those
+activities which make him a salesman, the salesman as well as the dealer shall promptly notify
+the Administrator.
+The Administrator may by rule or order require the return of a salesman's license upon the
+termination of those activities which make him a salesman or, if such return is impossible, require
+a bond or evidence satisfactory to the Administrator of such impossibility. No salesman may be
+registered with more than one dealer.dealer unless each of the dealers that employs or associates
+House Bill 737-Ratified Page 23
+with the salesman is under common ownership or control, or the registration is otherwise allowed
+by a rule or order of the Administrator."
+
+Section 53:
+SECTION 12.(b) This section becomes effective October 1, 2025.
+PART XIII. CANCELLATION OF POLICY UPON CHARGEBACK OF CREDIT CARD
+PREMIUM PAYMENT
+
+Section 54:
+SECTION 13. G.S. 58-41-15(a) reads as rewritten:
+"§ 58-41-15. Certain policy cancellations prohibited.
+(a) No insurance policy or renewal thereof may be cancelled by the insurer prior to the
+expiration of the term or anniversary date stated in the policy and without the prior written
+consent of the insured, except for any one of the following reasons:
+(1) Nonpayment of premium in accordance with the policy terms;
+…
+(b) Any Except as otherwise provided in subsection (b1) of this section, cancellation
+permitted by subsection (a) of this section is not effective unless written notice of cancellation
+has been delivered or mailed to the insured, not less than 15 days before the proposed effective
+date of cancellation. The notice must be given or mailed to the insured, and any designated
+mortgagee or loss payee at their addresses shown in the policy or, if not indicated in the policy,
+at their last known addresses. The notice must state the precise reason for cancellation. Failure
+to send this notice to any designated mortgagee or loss payee invalidates the cancellation only as
+to the mortgagee's or loss payee's interest.
+(b1) The chargeback of a premium payment made by credit card shall be deemed to be a
+nonpayment of premium for purposes of this section. In the event of a chargeback of a premium
+payment made by credit card, any cancellation permitted by subsection (a) shall be effective
+retroactively to the date the premium payment was made by credit card.
+…."
+Page 24 House Bill 737-Ratified
+PART XIV. EFFECTIVE DATE
+
+Section 55:
+SECTION 14. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 25th day of June, 2025.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+_____________________________________
+Josh Stein
+Governor
+Approved __________.m. this ______________ day of ___________________, 2025
+House Bill 737-Ratified Page 25
+[DELETED:  L T C T A O T C O A O T D O I B T A T N C P O A T R T I G A T C I R P T T C T L R T T E O T I D P S T M O F C L C T P M C T T E D O C P C O O C A T A P U C O A C C P I E T C R F I E E a m h h s e t o T C s n r a i w A ( ( ( o ( s f e]
+[DELETED:   H a t i o b o u t a o a a t d b i t S o a p E l s f e s t t l c i a f a N C l t s i A r a w s e o h s c a p a p i a s t e E T C s c i a t e a f p i G a i s t o t c o p m t h c m c d w p a o a p c f s m p A G d f r a p i C s n a a c p p o c A]
+[DELETED:   P N R r E A A c s b t U S F R B R B c s t c w t l s u t t o a i s a i A A i h c s t m b o t f T h c m p t i e t a g s t s i f d w t i p i]
+[DELETED:   H T i h c s n S s i n i a r j b c a f U S i g w R A s i w g g s a a r a a b t j l s a w n b s t g s i A i a t p s o a e i a i s a i t f o a m o o s d A i s i t I A o I S I n U S i g o i t n S t n S j n t l s t t j c t g c c a L c s r f o t g c c f U S C D]
+[DELETED:   P c t f a l g c f i l o t f r o T i h c s h a d w a a p i i d a a a F F P o l t o b d T T i h c s d n i a b T i h c s a t t a n m T f r t t i a t h p R A A A P T T f b t l s c i c w t]
+[DELETED:   H T E – T l s c m i c w t N r o s ( o t s T l s c s U e m o c a t t p o i a o w a a N t t i m p a i a w p i t s G t c a o i h c s t a c g s a w i L s c – T p r f r t w t p w t F A H]
+[DELETED:   P L g c f – A s v o t g c L N N R S t f a w m m t f t T b f o a F A a p b t C m u o o A a b t p r t f t s r t i i e N i n b d o t r s f p t b r o o p o T s d n a t t E s a f a a e r r o F F a p b t h c s a d b t p w t F]
+[DELETED:   H D m o o i i t p o c o t o p t t D p t s ( a ( o i a p c a H t C i a t u t W M p w t c a a g c i f a i h c s s b t M a a l s t i r f a I o t a i t p o t d i b t A t M s d m o o i i t O T A S o a s c d i G t t r a i w t m t a p s o t d m o N s ( o t s m o s a p d m o i r t G G w C o s]
+[DELETED:   P M r d m o i i o S e i w a w t N a a t d b t C g s a u o R a r t m t c a p f o i r T a r a r t v i w t t r h t l a s a c o S i s t t d o t P t N o t c d b t i a p d a t u a i T s d n a t d R r o s t t N f d o p R a a a i a a s o t c b t C m b r t d R t C t n a i w d o t t c T s o]
+[DELETED:   H t d m o i s p t D " G f s m a f s t i b a i c p a a p i " " " T A p e o g m s t r a f A l o l w d n h p w c p t]
+[DELETED:   P E A t b i i t e A a E a s f w t C a a G f r t a f s ( b o e s k t t r o t s t C m i t a T C m i t C d i a G f s s b p i a w g a p a a b a i c p a t c o c a f s i a c o b s a s o o o e p m a i t t c o c a f s A]
+[DELETED:   H T i s s o c i e a s o c f a T T p e a g a i a f p b t a f c c i i o f p t w c i a e T T a s a a f s t m t E r b t D t S B o I s p t t s i w t p e o c p h T s a a t a c i a t o d a o T]
+[DELETED:   P T N M a u m s o o a m V O B B B a o d o o c p i a e o t h h i l o T t a i n c w r t a o i o f p t w c i a T A P w c o i l o p w c T T T I w d u t C w 3 d a n i g u R]
+[DELETED:   H B W E A f p p t w c a e b I a o t o l i t A I o t m l e l m b r t f w t A A f p p t w c a e b I a o t o l i t A t r f a d m r o i t p e D n m a p p e o o I D D n e d o i c c w a p a D n a t a m o p l i t a t p t j d r]
+[DELETED:   P I I a o t r a a o a l u t A e f 4  T s i e w i b l a a t I O t c t m b s f i a c C c – A u c i o o p p l i t S " c i c o i t c h r t r o t o t o h b e a t " c s n i a a a ( a a a s o c r o]
+[DELETED:   H C i n s i c v T B o t t e o t c c e p t t d o b t i r t p o c i t n o c T A h n o t p a I w s s r a j m b p W o c c a a a d o s T A m p i a o t i d r t p o c a t a r f t H t r t r a c s r c I a a s d o r o o a a]
+[DELETED:   P T E c i e i t s r w o j o d n p a E I w a c b a t A o a A o d v o f i e a t T A]
+[DELETED:   H V C P T P W R T 5  U m o c a u o d a o p R N i s ( o p a s a o d o d o r a o t f E F R S o s 5 o t H T a o t r o R t t i c a i p P R P]
+[DELETED:   P M o a r i o r o d s f E E f w t i a e o f p P I b c t i h o r t r o d o " a p p p h p c h A I o t i o p m e a t c w q r t T b b o d o c a d c m b m b t T t c o s 6 o t t p o s s o o m o t t t s m n t o t p o t p p t T T o c i c o c i c w t]
+[DELETED:   H T e t h f d ( p T T T c o d o r b a i o T T T T d o r i o t t p a i a m t i n u T o r a p i e f N a p o i o a s f o a i t o o b t a t o a v t t p p b s b o t A i p o r o e m n o o n a t p o s d i N c o r a p f a p o i e i a w t]
+[DELETED:   P f a a l r ( a p i f d t i V C L R T T E O B " b " o b o " e o " m t F I R A o a C f o o v c f t s s o T a a p w i a o s m p I]
+[DELETED:   H P m e b a s t c i w t A S a p w o e n t t i a H a g b t e o c w T T P W T 7  T s i e w i b l a a t T H 2  F r p t r m b m N p s t a i o p s p t N A t w a p s t t i o s D]
+[DELETED:   P o m v o A t n r u s ( o X R O R L R R T f p a t a l t r a t t m T T X T C T E D P I S I]
+[DELETED:   H N N A T]
+[DELETED:   P5 s s _   ]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+HOUSE BILL 737
+RATIFIED BILL
+AN ACT TO ELIMINATE THE TRAINING COURSE REQUIREMENTS FOR INSURANCE
+PRODUCER LICENSURE, TO CLARIFY THE APPLICABILITY OF THE CAP ON
+INSURANCE REFERRAL FEES PAID TO NONLICENSED PERSONS, TO MAINTAIN
+NAIC ACCREDITATION OF THE DEPARTMENT OF INSURANCE BY
+IMPLEMENTING GROUP CAPITAL CALCULATION AND LIQUIDITY STRESS TEST
+REQUIREMENTS, TO AMEND THE NORTH CAROLINA PROFESSIONAL
+EMPLOYER ORGANIZATION ACT, TO REVISE THE INSURANCE GUARANTY
+ASSOCIATION ACT, TO CLARIFY INSURANCE REBATE PERMITTED TRADE
+PRACTICES, TO CLARIFY THE LAWS RELATING TO THE EXCHANGE OF
+BUSINESS BETWEEN INSURANCE PRODUCERS, TO REQUIRE DRIVERS SUBJECT
+TO THE INEXPERIENCED DRIVER PREMIUM SURCHARGE TO MAINTAIN OR
+BENEFIT FROM CONTINUOUS LIABILITY COVERAGE, TO PLACE
+RESTRICTIONS ON RESIDENTIAL LEASES REQUIRING RENTERS INSURANCE,
+TO MAKE CHANGES TO THE EFFECTIVE DATE OF CERTAIN PROVISIONS
+CONCERNING THE CALCULATION OF UNDERINSURED MOTORIST COVERAGE
+AND INSURANCE RATEMAKING LAWS IN S.L. 2023-133, AS AMENDED BY S.L.
+2024-29, TO AUTHORIZE SALESMEN TO REGISTER WITH MULTIPLE DEALERS
+UNDER COMMON OWNERSHIP OR CONTROL, AND TO AUTHORIZE POLICY
+CANCELLATION UPON CHARGEBACK OF A CREDIT CARD PREMIUM
+PAYMENT.
+The General Assembly of North Carolina enacts:
+PART I. ELIMINATE TRAINING COURSE REQUIREMENTS FOR INSURANCE
+PRODUCER LICENSURE
+SECTION 1.(a) G.S. 58-33-30 reads as rewritten:
+"§ 58-33-30. License requirements.
+The Commissioner shall not issue or continue any license of an insurance producer, limited
+representative, adjuster, or motor vehicle damage appraiser except as follows:
+…
+(d) Education and Training. –
+(1) Each applicant must have had special education, training, or
+experience of sufficient duration and extent reasonably to satisfy the
+Commissioner that the applicant possesses the competence necessary
+to fulfill the responsibilities of comply with all education, training, or
+experience requirements of this Chapter to be licensed as an insurance
+producer, limited representative, adjuster, or motor vehicle damage
+appraiser. The Commissioner shall not require an individual who
+applies for an insurance producer license in this State to complete any
+specific amount of instruction or any specific course of instruction.
+(2) All individual applicants for licensing as insurance producers under
+G.S. 58-33-26(c1)(1), (2), (4), (6), or (7) shall furnish evidence
+*H737-v-4*
+
+satisfactory to the Commissioner of successful completion of at least
+20 hours of instruction for each license, which shall in all cases include
+the general principles of insurance and any other topics relevant to the
+license that the Commissioner establishes by administrative rules. Any
+applicant who submits satisfactory evidence of having successfully
+completed a producer training course that has been approved by the
+Commissioner and that is offered by or under the auspices of a
+property, casualty, life or accident and health or sickness insurance
+company admitted to do business in this State or a professional
+insurance association shall be deemed to have satisfied the educational
+requirements of this subdivision.
+(3) Each resident applicant for a Medicare supplement and long-term care
+insurance license shall furnish evidence satisfactory to the
+Commissioner of successful completion of 10 hours of instruction,
+which shall in all cases include the principles of Medicare supplement
+and long-term care insurance and federal and North Carolina law
+relating to such insurance. A resident applicant who submits
+satisfactory evidence of having successfully completed a producer
+training course that has been approved by the Commissioner and that
+is offered by or under the auspices of a licensed life or health insurer
+or a professional insurance association satisfies the educational
+requirements of this subdivision.
+(e) Examination. –
+…
+(5) The Commissioner shall collect in advance the examination and
+registration fees provided in G.S. 58-33-125 and in subsection
+subdivision (4) of this section. subsection. The Commissioner shall
+make or cause to be made available to all applicants, for a reasonable
+fee to offset the costs of production, materials that he considers
+necessary for the applicants' proper preparation for examinations. The
+Commissioner may contract directly with publishers and other
+suppliers for the production of the preparatory materials, and contracts
+so let by the Commissioner shall not be subject to Article 3 of Chapter
+143 of the General Statutes. However, the Commissioner shall: (i)
+submit all proposed contracts for supplies, materials, printing,
+equipment, and contractual services that exceed one million dollars
+($1,000,000) authorized by this subdivision to the Attorney General or
+the Attorney General's designee for review as provided in
+G.S. 114-8.3; and (ii) include in all contracts to be awarded by the
+Commissioner under this subdivision a standard clause which provides
+that the State Auditor and internal auditors of the Commissioner may
+audit the records of the contractor during and after the term of the
+contract to verify accounts and data affecting fees and performance.
+The Commissioner shall not award a cost plus percentage of cost
+contract for any purpose.
+…."
+SECTION 1.(b) G.S. 58-33-32 reads as rewritten:
+"§ 58-33-32. Interstate reciprocity in producer licensing.
+…
+(g) An individual who applies for an insurance producer license in this State who was
+previously licensed for the same lines of authority in that individual's home state shall not be
+Page 2 House Bill 737-Ratified
+
+required to complete any prelicensing education or examination. This exemption is available only
+if:
+…."
+SECTION 1.(c) This section becomes effective October 1, 2025, and applies to
+licensure applications submitted on or after that date.
+PART II. CLARIFY INSURANCE FEE REFERRAL CAP
+SECTION 2.(a) G.S. 58-33-82(f) reads as rewritten:
+"(f) No commission, fee, or other valuable consideration authorized under subsection (e)
+of this section for the referral of insurance business by an unlicensed individual to a licensed
+insurance agent or broker producer licensed under G.S. 58-33-26(c1)(6) shall exceed fifty dollars
+($50.00) in value. A violation of this subsection may be punished by a fine not to exceed two
+thousand dollars ($2,000) for each violation. This subsection shall not apply to title insurance."
+SECTION 2.(b) This section becomes effective October 1, 2025, and applies to any
+referral of personal lines insurance business made on or after that date.
+PART III. MAINTAIN NAIC ACCREDITATION OF DOI
+SECTION 3.(a) Article 19 of Chapter 58 of the General Statutes is amended by
+adding the following new sections to read:
+"§ 58-19-26. Group capital calculation.
+(a) Reporting Requirement. – The ultimate controlling person of every insurer subject to
+registration pursuant to G.S. 58-19-25 shall concurrently file with the registration an annual
+group capital calculation report. The report shall be filed with the lead state commissioner.
+(b) Exemptions. – The ultimate controlling person of any of the following is exempt from
+the filing requirement of subsection (a) of this section:
+(1) An insurance holding company system that (i) has only one insurer within its
+holding company structure, (ii) only writes insurance business, (iii) is only
+licensed in its state of domicile, and (iv) assumes no business from any other
+insurer.
+(2) An insurance holding company system that is required to perform a group
+capital calculation specified by the United States Federal Reserve Board.
+When this exemption applies, the lead state commissioner shall request the
+calculation from the United States Federal Reserve Board. If the United States
+Federal Reserve Board cannot share the calculation with the lead state
+commissioner under the terms of any information sharing agreements in
+effect, then the insurance holding company system is not exempt from the
+group capital calculation filing.
+(3) An insurance holding company system whose non-United States group-wide
+supervisor is located within a reciprocal jurisdiction that recognizes the United
+States state regulatory approach to group supervision and group capital.
+(4) An insurance holding company system that meets both of the following
+requirements:
+a. The insurance holding company system provides information to the
+lead state commissioner that meets the requirements for accreditation
+under the NAIC financial standards and accreditation program. The
+insurance holding company may provide this information either
+directly or indirectly through its group-wide supervisor. If provided
+indirectly through a group-wide supervisor, the supervisor is
+responsible for determining whether the information provided is
+sufficient to permit the lead state commissioner to comply with the
+House Bill 737-Ratified Page 3
+
+NAIC group supervision approach, as detailed in the NAIC Financial
+Analysis Handbook.
+b. The insurance holding company system's non-United States
+group-wide supervisor is not in a reciprocal jurisdiction but
+nonetheless recognizes the group capital calculation as the worldwide
+group capital assessment for United States insurance groups who
+operate in that jurisdiction.
+(c) Recognition of Group Capital Calculation. – For purposes of subdivision (b)(4) of
+this section, a non-United States jurisdiction recognizes the group capital calculation if it satisfies
+any of the following criteria:
+(1) A competent regulatory authority in the jurisdiction affirms that insurers and
+insurance groups whose lead state is accredited by the NAIC under the NAIC
+accreditation program shall be subject only to worldwide prudential insurance
+group supervision, including worldwide group governance, solvency and
+capital, and reporting, as applicable, by that jurisdiction's lead state
+commissioner and will not be subject to group supervision, including
+worldwide group governance, solvency and capital, and reporting, at the level
+of the worldwide parent undertaking of the insurance or reinsurance group by
+the non-United States jurisdiction.
+(2) A competent regulatory authority in the jurisdiction affirms that information
+regarding insurers and their parent, subsidiary, or affiliated entities, if
+applicable, shall be provided to the lead state commissioner in accordance
+with an information sharing agreement in the form of a memorandum of
+understanding or similar document. Acceptable information sharing
+agreements include the International Association of Insurance Supervisors
+Multilateral Memorandum of Understanding or other multilateral memoranda
+of understanding coordinated by the NAIC. The jurisdiction does not satisfy
+this criteria if the lead state commissioner determines, in consultation with the
+NAIC, that the requirements of the information sharing agreements are no
+longer in force.
+(3) If no United States insurance groups operate in the non-United States
+jurisdiction, that non-United States jurisdiction notifies the lead state
+commissioner and the International Association of Insurance Supervisors in
+writing that the jurisdiction considers the group capital calculation an
+acceptable international capital standard.
+(d) Limitation of Exemptions. – Notwithstanding subsection (b) of this section, the lead
+state commissioner shall require filing of the group capital calculation for United States
+operations of any non-United States based insurance holding company system if the lead state
+commissioner determines that the filing is required for (i) prudential oversight and solvency
+monitoring purposes or (ii) ensuring the competitiveness of the insurance marketplace.
+(e) Consideration and Correction of NAIC Materials. – The lead state commissioner shall
+consider any relevant lists, reports, and recommendations published by the NAIC in determining
+whether the exceptions of subdivision (b)(4) of this section apply to an insurer. If the lead state
+commissioner's determination differs from relevant materials published by the NAIC, the lead
+state commissioner shall provide the NAIC with written justification for the difference supported
+by documentation. If published NAIC materials indicate that a non-United States jurisdiction
+recognizes the group capital calculation and the lead state commissioner determines that the
+jurisdiction no longer meets the requirements of subsection (c) of this section, the lead state
+commissioner may recommend a correction of the materials to the NAIC.
+(f) Discretionary Exemptions. – The lead state commissioner may either (i) exempt the
+ultimate controlling person of an insurance holding company system from the filing requirement
+Page 4 House Bill 737-Ratified
+
+of subsection (a) of this section or (ii) authorize the ultimate controlling person of an insurance
+holding company to file a limited group capital filing in lieu of the filing requirement of
+subsection (a) of this section if all of the following apply:
+(1) The insurance holding company system has annual direct written and
+unaffiliated assumed premium, including international direct and assumed
+premium, but excluding premiums reinsured with the Federal Crop Insurance
+Corporation and Federal Flood Program, of less than one billion dollars
+($1,000,000,000).
+(2) The insurance holding company system does not include insurers within its
+holding company structure that are domiciled outside of the United States or
+one of its territories.
+(3) The insurance holding company system does not include a banking,
+depository, or other financial entity that is subject to an identified regulatory
+capital framework within its holding company structure.
+(4) The insurance holding company system attests that there are no material
+changes in transactions between insurers and non-insurers in the group that
+have occurred since the last filing of an annual group calculation report, if any.
+(5) The non-insurers within the insurance holding company system do not pose a
+material financial risk to the insurer's ability to honor policyholder
+obligations.
+(g) Resumption of Filings. – If the lead state commissioner determines that an insurance
+holding company system exempted from the filing requirements of subsection (a) of this section
+no longer meets the requirements for an exemption, the insurance holding company system shall
+file the group capital calculation at the next annual filing date unless given an extension by the
+lead state commissioner based on reasonable grounds shown. If the lead state commissioner,
+pursuant to subsection (f) of this section, either grants a discretionary exemption or authorizes a
+limited group capital filing, the lead state commissioner may require the ultimate controlling
+person of that insurance holding company system to file an annual group calculation at any time
+if any of the following apply:
+(1) Any insurer within the insurance holding company system is in a risk-based
+capital action level event as set forth in Article 12 of this Chapter or a similar
+standard for a non-United States insurer.
+(2) Any insurer within the insurance holding company system meets one or more
+of the standards of an insurer deemed to be in hazardous financial condition
+pursuant to the criteria provided in G.S. 58-30-60.
+(3) Any insurer within the insurance holding company system otherwise exhibits
+qualities of a troubled insurer as determined by the lead state commissioner
+based on unique circumstances, including the type and volume of business
+written, ownership and organizational structure, federal agency requests, and
+international supervisor requests.
+"§ 58-19-27. Liquidity stress test.
+(a) Participation and Reporting Requirement. – The ultimate controlling person of every
+insurer subject to registration pursuant to G.S. 58-19-25 shall be included in the NAIC liquidity
+stress test framework and file a report with the lead state commissioner detailing the results of a
+specific year's liquidity stress test if either of the following applies:
+(1) The insurer meets the scope criteria of that data year's NAIC liquidity stress
+test framework.
+(2) The insurer did not meet the scope criteria of that data year's liquidity stress
+test framework, but the lead state commissioner, in consultation with the
+NAIC Financial Stability Task Force or its successor, nonetheless determines
+the insurer should be included in the NAIC liquidity stress test framework for
+House Bill 737-Ratified Page 5
+
+that data year. In making this determination, the lead state commissioner shall
+attempt to avoid the frequent inclusion or exclusion of insurers.
+(b) The performance of, and filing of the results from, a specific year's liquidity stress
+test shall comply with (i) the NAIC liquidity stress test framework's instructions and reporting
+templates for that year and (ii) all lead state commissioners' directives issued in consultation with
+the NAIC Financial Stability Task Force or its successor.
+(c) Exemptions. – The lead state commissioner may, in consultation with the NAIC
+Financial Stability Task Force or its successor, exempt an ultimate controlling person from the
+reporting requirements of subsection (a) of this section. The lead state commissioner shall
+consider the intent of regulators to avoid having insurers scoped in and out of the NAIC liquidity
+stress test framework on a frequent basis when making this determination.
+"§ 58-19-28. Dissemination prohibited.
+(a) Unless otherwise provided by law, the making, publishing, disseminating, circulating,
+or placing before the public, or causing directly or indirectly to be made, published, disseminated,
+circulated, or placed before the public in a newspaper, magazine, or other publication, or in the
+form of a notice, circular, pamphlet, letter, or poster, or over any radio or television station or
+any electronic means of communication available to the public, or in any other way as an
+advertisement, announcement, or statement containing a representation or statement with regard
+to the group capital calculation, group capital ratio, the liquidity stress test results, or supporting
+disclosures for the liquidity stress test of any insurer or any insurer group, or of any component
+derived in the calculation by any insurer, broker, or other person engaged in any manner in the
+insurance business is prohibited.
+(b) Notwithstanding subsection (a) of this section, if any materially false statement with
+respect to the group capital calculation, resulting group capital ratio, an inappropriate comparison
+of any amount to an insurer's or insurance group's group capital calculation or resulting group
+capital ratio, liquidity stress test result, supporting disclosures for the liquidity stress test, or an
+inappropriate comparison of any amount to an insurer's or insurance group's liquidity stress test
+result, or supporting disclosures is published in any written publication and the insurer is able to
+demonstrate to the Commissioner with substantial proof the falsity or inappropriateness of the
+statement, then the insurer may publish announcements in a written publication if the sole
+purpose of the announcement is to rebut the materially false or inappropriate statement."
+SECTION 3.(b) G.S. 58-19-5 reads as rewritten:
+"§ 58-19-5. Definitions.
+As used in this Article, unless the context requires otherwise, the following terms have the
+following meanings:
+…
+(10a) Group capital calculation. – A report, completed in accordance with the group
+capital calculation instructions as adopted and amended by the NAIC, used to
+evaluate the capital adequacy of insurance holding company systems that
+includes information on the sources of capital within the system, where that
+capital is located, and sources of risk.
+(10a)(10b) Group-wide supervisor. – The regulatory official authorized to engage in
+conducting and coordinating group-wide supervision activities who is
+determined or acknowledged by the Commissioner under G.S. 58-19-38 to
+have sufficient significant contacts with the internationally active insurance
+group.
+…
+(12b) Lead state commissioner. – The person responsible for regulating the
+insurance holding company system as determined by the Commissioner in
+accordance with the procedures within the Financial Analysis Handbook
+adopted by the NAIC.
+Page 6 House Bill 737-Ratified
+
+(12c) Limited group capital filing. – A simplified version of the group capital
+calculation, completed in accordance with procedures adopted by the NAIC,
+where an insurance holding company system only provides a limited amount
+of data, allowing them to avoid the filing of a full group capital calculation.
+(12d) Liquidity stress test. – A process simulating extreme market conditions to
+assess an entity's ability to maintain sufficient liquidity in response to adverse
+events.
+(12e) NAIC. – The National Association of Insurance Commissioners.
+(12f) NAIC liquidity stress test framework. – A publication, adopted and amended
+by the NAIC in accordance with procedures adopted by the NAIC, which
+includes a history of the NAIC's development of regulatory liquidity stress
+testing, the scope criteria applicable for a specific data year, and the liquidity
+stress test instructions and reporting templates for a specific data year.
+…
+(13a) Reciprocal jurisdiction. – As defined in G.S. 58-7-21(b)(4b).
+(13b) Scope criteria. – Designated exposure bases, detailed in the NAIC liquidity
+stress test framework along with minimum magnitudes thereof for the
+specified data year, used to establish a preliminary list of insurers included in
+the NAIC liquidity stress test framework for that data year.
+…."
+SECTION 3.(c) G.S. 58-19-15 reads as rewritten:
+"§ 58-19-15. Acquisition of control of or merger with domestic insurer.
+…
+(b) The statement to be filed with the Commissioner under subsection (a) of this section
+shall be furnished on a Form A as prescribed by the Commissioner, made under oath or
+affirmation, and shall contain the following information:
+…
+(11a) An agreement by the person required to file the statement referred to in
+subsection (a) of this section that it will provide the annual report, as specified
+in G.S. 58-19-25, G.S. 58-19-25(l), for so long as control exists.
+…."
+SECTION 3.(d) G.S. 58-19-25 reads as rewritten:
+"§ 58-19-25. Registration of insurers.insurers; disclaimer of affiliation; enterprise risk
+filings.
+…
+(c) No information need be disclosed on the registration statement filed pursuant to
+subsection (b) of this section if such information is not material for the purposes of this section.
+Unless the Commissioner by rule or order provides otherwise, all material. For purposes of this
+section, all sales, purchases, exchanges, loans or extensions of credit, investments, or guarantees
+involving one-half of one percent ( 1//s2%) (0.5%) or less of an insurer's admitted assets as of
+the preceding December 31 are not material for the purposes of this section.material, unless the
+Commissioner by rule or order provides otherwise. This subsection does not apply to the
+reporting requirements of G.S. 58-19-26 and G.S. 58-19-27.
+…
+(l) Effective January 1, 2016, the ultimate controlling person of every insurer subject to
+registration shall also file an annual enterprise risk report on Form F as prescribed by the
+Commissioner. The report shall, to the best of the ultimate controlling person's knowledge and
+belief, identify the material risks within the insurance holding company system that could pose
+enterprise risk to the insurer. The report shall be filed with the lead state commissioner of the
+insurance holding company system as determined by the procedures within the Financial
+Analysis Handbook adopted by the NAIC.commissioner."
+House Bill 737-Ratified Page 7
+
+SECTION 3.(e) G.S. 58-19-40 reads as rewritten:
+"§ 58-19-40. Confidential treatment.
+(a) Documents, materials, or other information in the possession or control of the
+Department that are obtained by or disclosed to the Commissioner or any other person in the
+course of an examination or investigation made pursuant to G.S. 58-19-35, and all information
+reported or provided to the Department pursuant to subdivisions (11a) and (11b) of
+G.S. 58-19-15(b), G.S. 58-19-25, G.S. 58-19-30 and G.S. 58-19-38 are recognized by this State
+as being proprietary and to contain trade secrets, and shall be confidential by law and privileged,
+shall not be considered a public record under either G.S. 58-2-100 or Chapter 132 of the General
+Statutes, shall not be subject to subpoena, and shall not be subject to discovery or admissible in
+evidence in any private civil action. However, the Commissioner is authorized to use the
+documents, materials, or other information in the furtherance of any regulatory or legal action
+brought as a part of the Commissioner's official duties. The Commissioner shall not otherwise
+make the documents, materials, or other information public without the prior written consent of
+the insurer to which it pertains unless the Commissioner, after giving the insurer and its affiliates
+who would be affected thereby notice and opportunity to be heard, determines that the interest of
+policyholders, shareholders, or the public will be served by the publication thereof, in which
+event the Commissioner may publish all or any part of the information in such manner as may
+be deemed appropriate.
+(a1) With respect to information provided to the Department pursuant to G.S. 58-19-26
+and G.S. 58-19-27, the Commissioner shall:
+(1) Maintain the confidentiality of the group capital calculation and group capital
+ratio produced within the calculation and any group capital information
+received from an insurance holding company system supervised by the
+Federal Reserve Board or any United States group-wide supervisor.
+(2) Maintain the confidentiality of the liquidity stress test results and supporting
+disclosures and any liquidity stress test information received from an
+insurance holding company system supervised by the Federal Reserve Board
+and non-United States group-wide supervisors.
+…
+(c) In order to assist in the performance of the duties imposed by this Article, the
+Commissioner:
+(1) May share documents, materials, or other information, including the
+confidential and privileged documents, materials, or information subject to
+subsection (a) of this section, including proprietary and trade secret documents
+and materials, with other all of the following:
+a. Other state, federal, and international regulatory agencies, with the
+NAIC and its affiliates and subsidiaries, and with state, agencies.
+b. The NAIC.
+c. Any third-party consultants designated by the Commissioner.
+d. State, federal, and international law enforcement authorities, including
+members of any supervisory college described in G.S. 58-19-37,
+provided that the recipient agrees in writing to maintain the
+confidentiality and privileged status of the document, material, or
+other information and has verified in writing the legal authority to
+maintain confidentiality.
+(2) Notwithstanding subdivision (1) of this subsection, may only share
+confidential and privileged documents, material, or information reported
+pursuant to G.S. 58-19-25 G.S. 58-19-25(l) with Commissioners of states
+having statutes or regulations substantially similar to subsection (a) of this
+section and who have agreed in writing not to disclose such information.
+Page 8 House Bill 737-Ratified
+
+(3) May receive documents, materials, or information, including otherwise
+confidential and privileged documents, materials, or information information,
+including proprietary and trade-secret information, from the NAIC and its
+affiliates and subsidiaries and from regulatory and law enforcement officials
+of other foreign or domestic jurisdictions, and shall maintain as confidential
+or privileged any document, material, or information received with notice or
+the understanding that it is confidential or privileged under the laws of the
+jurisdiction that is the source of the document, material, or information.
+(4) Shall enter into written agreements with the NAIC and any third-party
+consultant designated by the Commissioner governing sharing and use of
+information provided pursuant to this Article consistent with this subsection
+that shall:shall do all of the following:
+a. Require a recipient to maintain the confidentiality and privileged
+status of any documents, materials, or information. Specify procedures
+and protocols regarding the confidentiality and security of information
+shared with the NAIC and its affiliates and subsidiaries or a third-party
+consultant designated by the Commissioner pursuant to this Article,
+including procedures and protocols for sharing by the NAIC with other
+state, federal, or international regulators;regulators. The agreement
+shall require a recipient to verify in writing that the recipient has
+reviewed the legal authority supporting any confidentiality or
+privilege.
+b. Specify that ownership of information shared with the NAIC and its
+affiliates and subsidiaries or a third-party consultant pursuant to this
+Article remains with the Commissioner, and the NAIC's use of the
+information by the NAIC or third-party consultant designated by the
+Commissioner is subject to the direction of the
+Commissioner;Commissioner.
+c. Prohibit the NAIC or third-party consultant designated by the
+Commissioner from storing the information shared pursuant to this
+section in a permanent database after the underlying analysis is
+completed. This sub-subdivision does not apply to documents,
+material, or information reported pursuant to G.S. 58-19-27.
+c.d. Require prompt notice to be given to an insurer whose confidential
+information in the possession of the NAIC or a third-party consultant
+designated by the Commissioner pursuant to this Article is subject to
+a request or subpoena to the NAIC for disclosure or production;
+andproduction.
+d.e. Require the NAIC and its affiliates and subsidiaries or a third-party
+consultant designated by the Commissioner to consent to intervention
+by an insurer in any judicial or administrative action in which the
+NAIC and its affiliates and subsidiaries or a third-party consultant
+designated by the Commissioner may be required to disclose
+confidential information about the insurer shared with the NAIC and
+its affiliates and subsidiaries or a third-party consultant designated by
+the Commissioner pursuant to Article 19 of this Chapter.
+f. Require the Commissioner to notify an insurer when documents,
+materials, or information confidential or privileged to that insurer are
+shared with a third-party consultant. The notification shall include the
+identity of the third-party consultant. This sub-subdivision only
+House Bill 737-Ratified Page 9
+
+applies to documents, materials, or information shared pursuant to
+G.S. 58-19-27.
+…
+(f) Documents, materials, or other information in the possession or control of the NAIC
+or a third-party consultant designated by the Commissioner pursuant to a requirement of this
+Article shall be confidential by law and privileged, shall not be considered a public record under
+G.S. 58-2-100 or Chapter 132 of the General Statutes, shall not be subject to subpoena, and shall
+not be subject to discovery or admissible in evidence in any private civil action."
+SECTION 3.(f) This section becomes effective January 1, 2026.
+PART IV. CHANGES TO THE NORTH CAROLINA PROFESSIONAL EMPLOYER
+ORGANIZATION ACT
+SECTION 4.(a) G.S. 58-89A-5 reads as rewritten:
+"§ 58-89A-5. Definitions.
+In this Article:
+…
+(3) "Audited GAAP financial statement" means a financial statement that is
+audited by an independent certified public accountant and presented in
+accordance with generally accepted accounting principles.
+…
+(17) "Tangible net worth" means the difference between total tangible assets and
+total liabilities. For purposes of this definition, tangible assets are physical
+assets and do not include goodwill, patents, copyrights, intellectual property,
+trademarks, and any other non-physical asset.
+(17)(18) "Temporary employees" means persons employed under an arrangement
+by which an organization hires its own employees and assigns them to a client
+company to support or supplement the client's workforce in a special work
+situation, including:
+…
+(19) "Working capital" means the difference between current assets and current
+liabilities."
+SECTION 4.(b) G.S. 58-89A-35 reads as rewritten:
+"§ 58-89A-35. License required; professional employer organization groups.
+…
+(b) Two or more professional employer organizations persons that are controlled by the
+same ultimate parent, entity, or persons may be licensed as a professional employer organization
+group. A professional employer organization group may satisfy the reporting and financial
+requirements of this Article on a consolidated or combined basis. As a condition of licensure as
+a professional employer organization group, each professional employer organization person that
+is proposes to be a member of the a professional employer organization group shall guarantee
+payment of all financial obligations of every other member. Notwithstanding the definition of
+"person" in this Article, whenever two or more entities combine to seek issuance of a single
+license under this Article, the requirements for group licensure under this subsection shall be met
+before issuance of a license and any license issued will be a professional employer organization
+group license issued pursuant to this subsection."
+SECTION 4.(c) G.S. 58-89A-50 reads as rewritten:
+"§ 58-89A-50. Surety bond; letter of credit; other deposits.
+(a) An applicant for licensure shall file with the Commissioner a surety bond, or other
+items as set forth in subsection (f) of this section, in the amount of one hundred thousand dollars
+($100,000) for the benefit of the Commissioner. An applicant whose current assets do not exceed
+current liabilities or licensee who does not have positive working capital pursuant to
+Page 10 House Bill 737-Ratified
+
+G.S. 58-89A-60(b) shall file an additional surety bond or other items set forth in subsection (f)
+of this section equal to or in excess of current liabilities less current assets.the applicant's or
+licensee's negative working capital.
+…."
+SECTION 4.(d) G.S. 58-89A-60(g) is repealed.
+SECTION 4.(e) G.S. 58-89A-60, as amended by Section 4(d) of this act, reads as
+rewritten:
+"§ 58-89A-60. License application.
+(a) Every applicant for licensure shall file with the Commissioner, on a form prescribed
+by the Commissioner, the following information:
+…
+(3) A list of all officers officers, directors, and other controlling persons of the
+applicant, their biographical information, including their education,
+management background, and business experience, and an affidavit from each
+attesting to his or her good moral character and management competence.
+…
+(6) Any other reasonable information the Commissioner deems necessary and
+requires by rule to establish that the applicant and the officers and controlling
+persons are of good moral character, have business integrity, have applicable
+educational and business experience, and have financial responsibility.
+(b) Every applicant shall file with the Commissioner an audited GAAP financial
+statement, prepared as of a date not more than 90 120 days before the date of application that
+demonstrates that the applicant or licensee's current assets exceed current liabilities and attached
+has a tangible net worth of not less than fifty thousand dollars ($50,000) and positive working
+capital. The applicant shall attach to which is the audited financial statement a separate document
+signed by the applicant's chief executive and the chief financial officer certifying that (i) each
+has reviewed the audited financial statement; (ii) based on each signatory's knowledge, the
+audited financial statement does not contain any untrue or misleading statement of material fact
+or omit a fact with respect to the period covered by the audited financial statement; and (iii) based
+on each signatory's knowledge, the audited financial statement fairly presents in all material
+respects the financial condition of the licensee applicant as of, and for, the period presented in
+the audited financial statement.
+Notwithstanding the requirements of this subsection, the Commissioner may, in the
+Commissioner's discretion, accept an audited GAAP financial statement that has been prepared
+more than 90 120 days before submission to the Commissioner if the Commissioner deems such
+acceptance appropriate. The Commissioner may, in the Commissioner's discretion, impose
+conditions upon such acceptance of audited financial statements prepared more than 90 120 days
+prior to submission.
+The audited GAAP financial statement shall be prepared in accordance with generally
+accepted accounting principles and audited by an independent certified public accountant
+licensed to practice in the jurisdiction in which such accountant is located and shall be without
+qualification as to the going concern status of the PEO. A PEO group applicant. Persons applying
+for a professional employer organization group license may submit combined or consolidated
+audited financial statements to meet the requirements of this section, except that a PEO provided
+that the combined or consolidated audited financial statement include a combining or
+consolidating balance sheet and statement of operations of each proposed member as
+supplemental information to the combined or consolidated audited financial statement. An
+applicant that has not had sufficient operating history to have audited financial statements based
+upon does not have at least 12 months of operating history must may meet the financial capacity
+requirements of this subsection and present by filing with the Commissioner financial statements
+House Bill 737-Ratified Page 11
+
+that have been reviewed by a an independent certified public accountant.accountant and that have
+been prepared as of a date not more than 90 days before the date of application.
+(b1) The Commissioner may accept the audited financial statement of an applicant's parent
+company, if the audited financial statement includes either a combining or consolidating balance
+sheet, income statement, statement of changes in equity, and statement of cash flows as
+supplemental information to the audited financial statement, the contents of which will allow the
+Commissioner to determine the financial condition and financial responsibility of the applicant.
+(b2) The Commissioner may accept the audited financial statement of an applicant's parent
+company and consider the financial condition and financial responsibility of the parent company
+in lieu of the applicant, if all of the following requirements are satisfied:
+(1) The parent executes a guaranty agreement, in a form prescribed by the
+Commissioner, for the guaranty of all obligations related to the applicant's
+current and future client companies, including its obligations for payroll,
+payroll-related taxes, workers' compensation insurance, and employee
+benefits.
+(2) The applicant files with the Commissioner documentation acceptable to the
+Commissioner evidencing the parent's control.
+(3) The applicant submits an audited financial statement that meets the
+requirements of subsection (b1) of this section that allows the Commissioner
+to determine the financial condition and financial responsibility of the parent
+and the applicant.
+…
+(d) Every applicant shall furnish the Commissioner a complete set of fingerprints of each
+officer, director, and controlling person in a form prescribed by the Commissioner. Each set of
+fingerprints shall be certified by an authorized law enforcement officer.
+Upon request by the Department, the State Bureau of Investigation shall provide to the
+Department from the State and National Repositories of Criminal Histories the criminal history
+of any applicant and the officer, director, and controlling person of any applicant. Along with the
+request, the Department shall provide to the State Bureau of Investigation the fingerprints of the
+person that is the subject of the request, a form signed by the person that is the subject of the
+request consenting to the criminal record check and use of fingerprints and other identifying
+information required by the State and National Repositories, and any additional information
+required by the State Bureau of Investigation. The person's fingerprints shall be used by the State
+Bureau of Investigation for a search of the State's criminal history record file, and the State
+Bureau of Investigation may forward a set of fingerprints to the Federal Bureau of Investigation
+for a national criminal history record check. The Department shall keep all information obtained
+pursuant to this subsection confidential. The State Bureau of Investigation may charge a fee to
+offset the cost incurred by it to conduct a criminal record check under this section. The fee shall
+not exceed the actual cost of locating, editing, researching, and retrieving the information.
+In the event that an applicant has secured a professional employer organization license in
+another state in which the professional employer organization's controlling persons have
+completed a criminal background investigation within 12 months of this application, a certified
+copy of the report from the appropriate authority of that state may satisfy the requirement of this
+subsection. This subsection also applies to a change in a the officers, directors, and other
+controlling party persons of a professional employer organization. organizations and professional
+employer organization groups licensed under this Article. For purposes of investigation under
+this subsection, the Commissioner shall have all the power conferred by G.S. 58-2-50 and other
+applicable provisions of this Chapter.
+…
+(g1) The Commissioner may deny the license of an applicant under this Article if the
+Commissioner finds any of the following:
+Page 12 House Bill 737-Ratified
+
+(1) That an officer, director, or other controlling person has:
+a. Not met the requirements of G.S. 58-89A-40.
+b. Made any untrue material statement or omitted any material
+information regarding their background or experience.
+c. Violated, or failed to comply with, any professional employer services
+law or any rule or order of the Commissioner or of any other State
+official responsible for the regulation of any aspect of the applicant's
+business.
+d. Obtained or attempted to obtain the license through misrepresentation
+or fraud.
+e. Been convicted of a felony.
+f. Been found in a final judgment or administrative proceeding to have
+committed fraud or an unfair trade practice.
+g. Been an officer, director, or other controlling person in another
+professional employer organization that has had its license or
+registration suspended, terminated, or revoked by any state.
+(2) That the applicant is not current with respect to all of its obligations for
+payroll, payroll-related taxes, workers' compensation insurance, and
+employee benefits and the applicant has failed to satisfy the Commissioner as
+to the reasons why.
+(3) That the applicant does not possess:
+a. A tangible net worth of not less than fifty thousand dollars ($50,000).
+b. Positive working capital, or in lieu of positive working capital,
+substitute security as provided under G.S. 58-89A-50(a).
+(4) That the applicant has not provided evidence satisfactory to the Commissioner
+of financial responsibility.
+(5) That the applicant has failed to satisfy the requirements of G.S. 58-89A-50.
+(6) That a ground upon which the Commissioner could take disciplinary action
+against a licensee or other person subject to licensure requirements pursuant
+to G.S. 58-89A-155 applies to the applicant.
+(h) If the Commissioner finds that the applicant has not fully met the requirements for
+licensure, the Commissioner shall refuse to issue the license and shall notify the applicant in
+writing of the denial, stating the grounds for the denial. The application may also be denied for
+any reason for which a license may be suspended or terminated under G.S. 58-89A-155. To
+obtain a review to determine the reasonableness of the Commissioner's denial, the applicant shall
+make written demand upon the Commissioner within 30 days after notice is given under
+G.S. 150B-38(c). The review shall be completed without undue delay, and the applicant shall be
+notified promptly in writing as to the outcome of the review. If the applicant disagrees with the
+outcome of the review and seeks a hearing, under Article 3A of Chapter 150B of the General
+Statutes, on the outcome of the review, the applicant shall make a written demand upon the
+Commissioner for the hearing within 30 days after notice of the outcome of the review is given
+under G.S. 150B-38(c).
+(i) Removal, demotion, or discharge of a an officer, director, or other controlling person
+in response to an order of the Commissioner of the alleged unsuitability of that person is an
+affirmative defense to any claim by that individual based on the removal, demotion, or discharge.
+…."
+SECTION 4.(f) G.S. 58-89A-70 reads as rewritten:
+"§ 58-89A-70. License issuance and maintenance.
+…
+House Bill 737-Ratified Page 13
+
+(c) By obtaining licensure under this Article, the officers, directors, and other controlling
+persons of a licensee certify, under penalty of law, their compliance with the requirements of
+licensure and of operation as a professional employer organization pursuant to this Article.
+(d) Within 120 days after the end of each fiscal year, each licensee shall file with the
+Commissioner all of the following information:
+(1) Evidence of "financial responsibility" as set forth in G.S. 58-89A-60(b).An
+audited financial statement of the licensee or, if allowed by the Commissioner,
+an audited financial statement of the licensee's parent. The audited financial
+statement shall be in the form required by G.S. 58-89A-60(b), (b1), or (b2), as
+appropriate.
+…
+(4) An attestation, executed by the chief financial officer and the chief executive
+officer of the licensee, that the licensee is current with respect to all of its
+obligations for payroll, payroll-related taxes, workers' compensation
+insurance, and employee benefits. If any of the obligations listed in this
+subdivision are in dispute with a client and the disputed amount is material
+when considered in the context of the licensee's most recent audited financial
+statement, then the licensee shall disclose the nature of the dispute causing the
+obligations to be unpaid and the amount of money in controversy.
+(4)(5) Any other reasonable information the Commissioner determines is needed for
+the review of a licensee.
+(e) In order to maintain licensure, each licensee may be required to file with the
+Commissioner no later than 45 60 days after the end of each quarter of the fiscal year:
+(1) A financial statement for the preceding quarter that is not audited but is set
+forth in a format similar to the annual audited GAAP financial statement; and
+(2) An attestation, executed by the chief financial officer and the chief executive
+officer of the licensee, that the licensee is current with respect to all of its
+obligations for payroll, payroll-related taxes, workers' compensation
+insurance, and employee benefits. If any of the obligations listed in this
+subdivision are in dispute with a client and the disputed amount is material
+when considered in the context of the licensee's most recent audited financial
+statement, then the licensee shall disclose the nature of the dispute causing the
+obligations to be unpaid and the amount of money in controversy.attestation
+in the form required by subdivision (4) of subsection (d) of this section."
+SECTION 4.(g) G.S. 58-89A-75 reads as rewritten:
+"§ 58-89A-75. De minimis registration.
+(a) A person who seeks to offer limited professional employer services in this State shall
+be eligible for de minimis registration status upon compliance with this section and may operate
+as a de minimis registrant in this State upon notification pursuant to this section. A person shall
+satisfy the requirements for a de minimis registration only if the professional employer
+organization:
+(1) Does not maintain a physical professional employer organization office
+located in this State;
+(2) Is not domiciled in this State;
+(2)(3) Does not employ salespersons who reside or direct their sales activities in this
+State;
+(3)(4) Does not employ directly or in common control with another person, as
+defined in G.S. 58-89A-5(12), more than 50 assigned employees in this State;
+(4)(5) Does not advertise through any media outlet physically located in this
+State;State, provided, however, that this subdivision shall not prohibit a person
+from advertising through publications, trade journals, directories, radio,
+Page 14 House Bill 737-Ratified
+
+television, or the internet if such advertising is not expressly directed toward
+employers in this State.
+(5)(6) Is a licensed or registered professional employer organization in at least one
+other state of the United States; and
+(6)(7) Is operated by and under the control of persons of good moral character.
+A professional employer organization operating under a de minimis registration shall be subject
+to all of the responsibilities and authority of a licensee under this Article except for
+G.S. 58-89A-50, 58-89A-60 and 58-89A-70(c), (d), and (e).
+…."
+SECTION 4.(h) This section is effective when it becomes law and applies to
+applications for license issuance or renewal submitted on or after that date.
+PART V. INSURANCE GUARANTY ASSOCIATION ACT REVISIONS
+SECTION 5.(a) G.S. 58-48-10 reads as rewritten:
+"§ 58-48-10. Scope.
+This Article shall apply to all kinds of direct insurance, but shall not be applicable to:
+…
+(5) Insurance Other than coverages that may be set forth in a cybersecurity
+insurance policy, insurance of warranties or service contracts;
+…."
+SECTION 5.(b) G.S. 58-48-20 reads as rewritten:
+"§ 58-48-20. Definitions.
+As used in this Article:
+…
+(4) Covered claim. – An unpaid claim, including one of unearned premiums,
+which is in excess of fifty dollars ($50.00) and arises out of and is within the
+coverage and not in excess of the applicable limits of an insurance policy to
+which this Article applies as issued by an insurer, if that insurer if the policy
+was issued by an insurer that becomes an insolvent insurer after the effective
+date of this Article and (i) the claimant or insured is a resident of this State at
+the time of the insured event; or (ii) the property from which the claim arises
+is permanently located in this State. "Covered claim" includes claim
+obligations that arose through the issuance of an insurance policy by a member
+insurer, which are later allocated, transferred, merged into, novated, assumed
+by, or otherwise made the sole responsibility of a member or nonmember
+insurer if (i) the original member insurer has no remaining obligations on the
+policy after the transfer, (ii) a final order of liquidation with a finding of
+insolvency has been entered against the insurer that assumed the member's
+coverage obligations by a court of competent jurisdiction in the insurer's state
+of domicile, (iii) the claim would have been a covered claim, as defined in this
+subdivision, if the claim had remained the responsibility of the original
+member insurer and the order of liquidation had been entered against the
+original member insurer, with the same claim submission date and liquidation
+date, and (iv) in cases where the member's coverage obligations were assumed
+by a nonmember insurer, the transaction received prior regulatory or judicial
+approval. "Covered claim" shall not include any amount awarded (i) as
+punitive or exemplary damages; (ii) sought as a return of premium under any
+retrospective rating plan; or (iii) due any reinsurer, insurer, insurance pool, or
+underwriting association, as subrogation or contribution recoveries or
+otherwise. "Covered claim" also shall not include fines or penalties, including
+attorneys' fees, imposed against an insolvent insurer or its insured or claims
+House Bill 737-Ratified Page 15
+
+of any claimant whose net worth exceeds fifty million dollars ($50,000,000)
+on December 31 of the year preceding the date the insurer becomes insolvent.
+(4a) Cybersecurity insurance. – Includes first and third-party coverage, in a policy
+or endorsement, written on a direct, admitted basis by a member insurer for
+losses and loss mitigation arising out of or relating to data privacy breaches,
+unauthorized information network security intrusions, computer viruses,
+ransomware, cyber extortion, identity theft, and similar exposures.
+…."
+SECTION 5.(c) G.S. 58-48-35 reads as rewritten:
+"§ 58-48-35. Powers and duties of the Association.
+(a) The Association shall:
+(1) Be obligated to the extent of the covered claims existing prior to the
+determination of insolvency and arising within 30 days after the determination
+of insolvency, or before the policy expiration date if less than 30 days after
+the determination, or before the insured replaces the policy or causes its
+cancellation, if he does so within 30 days of the determination. This obligation
+includes only the amount of each covered claim that is in excess of fifty dollars
+($50.00) and is less than five hundred thousand dollars ($500,000). However,
+the Association shall pay the full amount of a covered claim for benefits under
+a workers' compensation insurance coverage, and shall pay an amount not
+exceeding ten thousand dollars ($10,000) per policy for a covered claim for
+the return of unearned premium. In no event shall the Association be obligated
+to pay an amount in excess of five hundred thousand dollars ($500,000) for
+all first and third-party claims under a policy or endorsement providing, or
+that is found to provide, cybersecurity insurance coverage and arising out of
+or related to a single insured event, regardless of the number of claims made
+or the number of claimants. The Association has no obligation to pay a
+claimant's covered claim, except a claimant's workers' compensation claim, if:
+…
+(4) Investigate claims brought against the Association and adjust, compromise,
+settle, and pay covered claims to the extent of the Association's obligation and
+deny all other claims and may review settlements, releases and judgments to
+which the insolvent insurer or its insureds were parties to determine the extent
+to which such settlements, releases and judgments may be properly
+contested.claims. This requirement is subject to the following provisions:
+a. When investigating, adjusting, compromising, or settling claims, the
+Association may appoint, substitute, and direct legal counsel for the
+defense of covered claims and appoint and direct other service
+providers for covered services.
+b. The Association may pay in any order that it deems reasonable,
+including the payment of claims as they are received from the
+claimants or in groups or categories of claims.
+…
+(8) Have the right to review and contest settlements, releases, compromises,
+waivers, and judgments to which the insolvent insurer or its insureds were
+parties prior to the entry of the order of liquidation. This right is subject to the
+following provisions:
+a. In addition to any defenses available to the insurer, the Association
+may assert any statutory defenses or rights of offset against any
+settlement, release, compromise, or waiver executed by an insured or
+the insurer or any judgment taken against the insured or the insurer.
+Page 16 House Bill 737-Ratified
+
+b. The Association is not bound by a settlement, release, compromise, or
+waiver executed by an insured or the insurer or any judgment entered
+against an insured or the insurer by consent or through a failure to
+exhaust all appeals if the settlement, release, compromise, waiver, or
+judgment was:
+1. Executed or entered within 120 days prior to the entry of an
+order of liquidation, and the insured or the insurer did not use
+reasonable care in entering into the settlement, release,
+compromise, waiver, or judgment, or did not pursue all
+reasonable appeals of an adverse judgment; or
+2. Executed by or taken against an insured or the insurer based on
+default, fraud, collusion, or the insurer's failure to defend.
+c. If a court of competent jurisdiction finds that the Association is not
+bound by a settlement, release, compromise, waiver, or judgment for
+any of the reasons described in sub-subdivision b. of this subdivision,
+the settlement, release, compromise, waiver, or judgment shall be set
+aside, and the Association shall be permitted to defend any covered
+claim on the merits. The settlement, release, compromise, waiver, or
+judgment may not be considered as evidence of liability or damages in
+connection with any claim brought against the Association or any
+other party under this Article.
+d. Any covered claims arising from any judgment under any decision,
+verdict, or finding based on the default of the insolvent insurer or its
+failure to defend an insured shall, upon application and notice by the
+Association, be vacated and set aside by the same court in which such
+judgment, order, decision, verdict, or finding is entered, and the
+Association either on its own behalf or on behalf of any insured or an
+insolvent insurer shall be permitted to defend against such claim on
+the merits. Any party who has obtained any such judgment or order
+shall have the right, upon application and notice, to have the judgment
+or order restored if within 90 days following the entry of the judgment
+or order the Association has not notified such party and the court that
+it intends to defend the matter on the merits.
+…."
+SECTION 5.(d) G.S. 58-48-50 reads as rewritten:
+"§ 58-48-50. Effect of paid claims.
+…
+(a1) The Association shall have the right to recover from the following persons the amount
+of any "covered claim" paid and any and all expenses incurred, including attorneys' fees and costs
+of defense, in connection with any claim against the person or the person's affiliate pursuant to
+this Article:
+(1) Any insured whose net worth on December 31 of the year next preceding the
+date the insurer becomes insolvent exceeds fifty million dollars ($50,000,000)
+and whose liability obligations to other persons are satisfied in whole or in
+part by payments under this Article; Article, provided that an insured's net
+worth on that date shall be deemed to include the aggregate net worth of the
+insured and all of its subsidiaries and affiliates as calculated on a consolidated
+basis; or
+…."
+SECTION 5.(e) G.S. 58-48-85 reads as rewritten:
+"§ 58-48-85. Stay of proceedings; reopening of default judgments.proceedings.
+House Bill 737-Ratified Page 17
+
+All proceedings in which the insolvent insurer is a party or is obligated to defend a party in
+any court or before any administrative agency or the North Carolina Industrial Commission shall
+be stayed automatically for 120 days and such additional time thereafter as may be determined
+by the court from the date the insolvency is determined or any ancillary proceedings are initiated
+in this State, whichever is later, to permit proper defense by the Association of all pending causes
+of action. Any party to any proceeding which is stayed pursuant to this section shall have the
+right, upon application and notice, to seek a vacation or modification of such stay. Any covered
+claims arising from any judgment under any decision, verdict or finding based on the default of
+the insolvent insurer or its failure to defend an insured, shall, upon application and notice by the
+Association be vacated and set aside by the same court in which such judgment, order, decision,
+verdict, or finding is entered and the Association either on its own behalf or on behalf of any
+insured or an insolvent insurer, shall be permitted to defend against such claim on the merits.
+Any party who has obtained any such judgment or order shall have the right, upon application
+and notice, to have the judgment or order restored if within 90 days following the entry of the
+judgment or order the Association has not notified such party and the court that it intends to
+defend the matter on the merits."
+SECTION 5.(f) This section is effective when it becomes law.
+PART VI. CLARIFY PERMITTED TRADE PRACTICES WITH RESPECT TO
+INSURANCE REBATES
+SECTION 6.(a) G.S. 58-63-15(8)b.4. and G.S. 58-63-16 are repealed.
+SECTION 6.(b) G.S. 58-63-15 reads as rewritten:
+"§ 58-63-15. Unfair methods of competition and unfair or deceptive acts or practices
+defined.
+The following are hereby defined as unfair methods of competition and unfair and deceptive
+acts or practices in the business of insurance:
+…
+(8) Rebates. –
+…
+b. Nothing in subdivision (7) or paragraph a sub-subdivision a. of
+subdivision (8) of this section shall be construed as including within
+the definition of discrimination or rebates any of the following
+practices:
+…
+5. Engaging in an arrangement that would not violate section 106
+of the Bank Holding Company Act Amendments of 1972 (12
+U.S.C. § 1972), as interpreted by the Board of Governors of
+the Federal Reserve System, or section 5(q) of the Home
+Owners' Loan Act, 12 U.S.C. § 1464(q).
+6. The offer or provision by insurers or producers, by or through
+employees, affiliates, or third-party representatives, of
+value-added products or services at no or reduced cost when
+such products or services are not specified in the policy of
+insurance if all of the following criteria are met:
+I. Relates to the insurance coverage and is primarily
+designed to satisfy one or more of the following:
+A. Providing loss mitigation or loss control.
+B. Reducing claim costs or claim settlement costs.
+C. Providing education about liability risks or risk
+of loss to persons or property.
+Page 18 House Bill 737-Ratified
+
+D. Monitoring or assessing risk, identifying
+sources of risk, or developing strategies for
+eliminating or reducing risk.
+E. Enhancing health.
+F. Enhancing financial wellness through items
+such as education or financial planning
+services.
+G. Providing post-loss services.
+H. Incentivizing behavioral changes to improve
+the health or reduce the risk of death or
+disability of a customer. For purposes of this
+sub-sub-sub-sub-subdivision, "customer"
+means a policyholder, potential policyholder,
+certificate holder, potential certificate holder,
+insured, potential insured, or applicant.
+I. Assisting in the administration of the employee
+or retiree benefit insurance coverage.
+II. If the insurer or producer is providing the product or
+service offered, the insurer or producer must ensure
+that the customer is provided with contact information
+to assist the customer with questions regarding the
+product or service.
+III. The availability of the value-added product or service
+must be based on documented objective criteria and
+offered in a manner that is not unfairly discriminatory.
+The documented criteria must be maintained by the
+insurer or producer and produced upon request by the
+Department.
+7. The offer or provision of products or services that otherwise
+meet the criteria of sub-sub-subdivision 6. of this
+sub-subdivision, where the insurer or producer does not have
+sufficient evidence to demonstrate but has a good-faith belief
+that the products or service satisfies one or more of the
+conditions listed in sub-sub-sub-sub-subdivisions A. through I.
+of sub-sub-sub-subdivision I. of sub-sub-subdivision 6. of this
+sub-subdivision. The products and services shall be offered or
+provided in a manner that is not unfairly discriminatory as part
+of a pilot or testing program for no more than one year. An
+insurer or producer offering or providing products or services
+pursuant to this sub-sub-subdivision must notify the
+Department of the pilot or testing program prior to
+implementation and may proceed with the program unless the
+Department objects within 21 days of notice.
+8. The offer or gifting by an insurer or producer of noncash gifts,
+items, or services, including meals to or charitable donations
+on behalf of a customer, if all of the following criteria are met:
+I. The noncash gifts, items, or services are made to, or on
+behalf of, customers, including commercial or
+institutional customers, in connection with the
+marketing, sale, purchase, or retention of contracts of
+insurance.
+House Bill 737-Ratified Page 19
+
+II. The cost of the noncash gifts, items, or services does
+not exceed two hundred fifty dollars ($250.00) per
+policy term.
+III. The offer or gift is made in a manner that is not unfairly
+discriminatory.
+IV. The customer is not required to purchase, continue to
+purchase, or renew a policy in exchange for the offer or
+gift.
+9. The conducting of drawings or raffles by an insurer or
+producer, to the extent they are otherwise permitted by law, if
+all of the following criteria are met:
+I. There is no financial cost to entrants to participate in
+the drawing or raffle.
+II. The drawing or raffle does not obligate participants to
+purchase insurance.
+III. The prizes of the drawing or raffle are not valued in
+excess of two hundred fifty dollars ($250.00).
+IV. The drawing or raffle is open to the public and
+conducted in a manner that is not unfairly
+discriminatory.
+V. The customer is not required to purchase, continue to
+purchase, or renew a policy in exchange for
+participation in the drawing or raffle.
+c. No insurer or employee thereof, and no insurance producer shall pay,
+allow, or give, or offer to pay, allow, or give, directly or indirectly, as
+an inducement to insurance, or after insurance has been effected, any
+rebate, discount, abatement, credit or reduction of the premium named
+in a policy of insurance, or any special favor or advantage in the
+dividends or other benefits to accrue thereon, or any valuable
+consideration or inducement whatever, not specified in the policy of
+insurance. Nothing herein contained shall be construed as prohibiting
+prohibiting: (i) the payment of commissions or other compensation to
+regularly appointed and licensed insurance producers duly licensed by
+this State; nor as prohibiting State, (ii) any participating insurer from
+distributing to its policyholders dividends, savings or the unused or
+unabsorbed portion of premiums and premium deposits.deposits, or
+(iii) the trade practices permitted by sub-subdivision b. of this
+subdivision.
+d. An insurer, producer, or representative of either may not offer or
+provide insurance as an inducement to the purchase of another policy
+or otherwise use the words "free," "no cost," or words of similar import
+about the policy sale or purchase, in an advertisement. The prohibition
+on the use of the words "free" and "no cost" in this sub-subdivision
+does not apply to products or services described in
+sub-sub-subdivision 6., 7., 8., or 9. of sub-subdivision b. of subdivision
+(8) of this section or in G.S. 58-63-16(a).
+…."
+SECTION 6.(c) G.S. 58-33-85 reads as rewritten:
+"§ 58-33-85. Rebates and charges in excess of premium prohibited; exceptions.
+(a) No insurer, insurance producer, or limited representative shall knowingly charge,
+demand or receive a premium for any policy of insurance except in accordance with the
+Page 20 House Bill 737-Ratified
+
+applicable filing approved by the Commissioner. No insurer, insurance producer, or limited
+representative shall pay, allow, or give, or offer to pay, allow, or give, directly or indirectly, as
+an inducement to insurance, or after insurance has been effected, any rebate, discount, abatement,
+credit, or reduction of the premium named in a policy of insurance, or any special favor or
+advantage in the dividends or other benefits to accrue thereon, or any valuable consideration or
+inducement whatever, not specified in the policy of insurance. No insured named in a policy of
+insurance, nor any employee of such insured, shall knowingly receive or accept, directly or
+indirectly, any such rebate, discount, abatement or reduction of premium, or any special favor or
+advantage or valuable consideration or inducement. Nothing herein contained shall be construed
+as prohibiting (i) the payment of commissions or other compensation to duly licensed insurance
+producers and limited representatives, (ii) any participating insurer from distributing to its
+policyholders dividends, savings or the unused or unabsorbed portion of premiums and premium
+deposits, or (iii) the trade practices permitted by G.S. 58-63-16. sub-subdivision b. of subdivision
+(8) of G.S. 58-63-15. As used in this section the word "insurance" includes suretyship and the
+word "policy" includes bond.
+…."
+SECTION 6.(d) Section 6(b) of this act is effective January 1, 2027, and applies to
+trade practices related to insurance contracts issued, renewed, or amended on or after that date.
+The remainder of this section is effective when it becomes law and applies to trade practices
+related to insurance contracts issued, renewed, or amended on or after that date.
+PART VII. CLARIFY LAWS RELATING TO THE EXCHANGE OF BUSINESS
+BETWEEN INSURANCE PRODUCERS
+SECTION 7.(a) G.S. 58-33-10 reads as rewritten:
+"§ 58-33-10. Definitions.
+As used in this Article, the following definitions apply:
+…
+(4a) "Exchange business," "exchange of business," or "proper exchange of
+business" means the forwarding of insurance business from one producer duly
+licensed for the line of insurance being forwarded to another producer duly
+licensed for that line of insurance where both producers are duly appointed as
+required by this Article.
+(4a)(4b) "FINRA" means the Financial Industry Regulatory Authority or any
+successor entity.
+…."
+SECTION 7.(b) G.S. 58-33-82 reads as rewritten:
+"§ 58-33-82. Commissions.
+…
+(e) Commissions, fees, or other valuable consideration for the sale, solicitation, or
+negotiation of insurance may be assigned or directed to be paid in the following circumstances:
+…
+(4) To an agency principal who is an owner, shareholder, member, partner,
+director, employee, or agent of that agency for business placed by a producer
+on behalf of that agency who is duly licensed and appointed as required by
+this Article.
+(5) In connection with the exchange of business where both producers are duly
+licensed and appointed as required by this Article and have complied with all
+of the requirements of G.S. 58-33-82.1.
+…."
+SECTION 7.(c) Article 33 of Chapter 58 of the General Statutes is amended by
+adding a new section to read:
+House Bill 737-Ratified Page 21
+
+"§ 58-33-82.1. Exchange of business.
+(a) Producers may exchange business, and split the commission involved with that
+business, if the producer forwarding the business and the producer receiving the business both:
+(1) Are licensed in all lines of insurance involved in the exchange and appointed
+as required by this Article.
+(2) Sign or include their National Producer Numbers on the insurer's insurance
+application and provide written or electronic notice to the insurer and
+consumer of the business exchange.
+(3) Have a good-faith belief that the exchange of business complies with the
+requirements of this Article.
+(b) This section does not limit:
+(1) The exchange of business in connection with specialty lines or nonstandard
+and professional liability business that is either:
+a. Placed through a surplus lines producer; or
+b. Written at an excess rate or on an individually rated and risked basis.
+(2) The exchange of business in connection with risk sharing plans."
+SECTION 7.(d) This section is effective when it becomes law and applies to
+contracts entered into or renewed on or after that date.
+PART VIII. INEXPERIENCED OPERATOR CONTINUOUS COVERAGE
+SECTION 8.(a) G.S. 20-16 reads as rewritten:
+"§ 20-16. Authority of Division to suspend license.
+(a) The Division shall have authority to suspend the license of any operator with or
+without a preliminary hearing upon a showing by its records or other satisfactory evidence that
+the licensee:
+…
+(6a) Has violated G.S. 20-309(a3);
+…."
+SECTION 8.(b) G.S. 20-309 reads as rewritten:
+"§ 20-309. Financial responsibility prerequisite to registration; must be maintained
+throughout registration period.
+…
+(a3) No person subject to an inexperienced operator premium surcharge pursuant to
+G.S. 58-36-65(k) shall operate a motor vehicle unless the liability insurance policy benefiting
+that person includes any required premium surcharge. This subsection shall not apply to persons
+who demonstrate financial responsibility in an authorized manner other than a liability insurance
+policy.
+…."
+SECTION 8.(c) G.S. 20-309.2 reads as rewritten:
+"§ 20-309.2. Insurer shall notify Division of actions on insurance policies.
+(a) Notice Required. – An insurer shall notify the Division upon any of the following
+with regard to a motor vehicle liability policy:
+…
+(4) A person subject to an inexperienced operator premium surcharge pursuant to
+G.S. 58-36-65(k) is added to or removed from the policy's coverage, or if a
+policy to which a person subject to the inexperienced operator surcharge
+pursuant to G.S. 58-36-65(k) was added has been canceled.
+(a1) Division Records. – The Division shall ensure that its records accurately reflect the
+insurance coverage status of of: (i) each owner of a motor vehicle registered or required to be
+registered in this State and (ii) persons subject to an inexperienced operator premium surcharge
+pursuant to G.S. 58-36-65 by reconciling all notices received under this section pertaining to that
+Page 22 House Bill 737-Ratified
+
+individual or motor vehicle owner. A termination notice received under subdivision (2) of
+subsection (a) of this section shall not be recorded as a lapse in financial responsibility or initiate
+action by the Division under G.S. 20-311 if an earlier notice received by the Division under this
+section establishes that the owner of the motor vehicle has met the duty to have continuous
+financial responsibility for the vehicle, as required under G.S. 20-309, through a motor vehicle
+liability policy that is not the subject of the later termination notice.
+…."
+SECTION 8.(d) This section becomes effective July 1, 2026.
+PART X. RESTRICTIONS ON RESIDENTIAL LEASES REQUIRING RENTERS
+INSURANCE
+SECTION 10. G.S. 42-46 reads as rewritten:
+"§ 42-46. Authorized fees, costs, and expenses.
+…
+(l) The following provisions apply to any lease that requires a tenant to maintain
+insurance coverage for the leased premises:
+(1) The tenant shall not be required to obtain the required insurance coverage
+from a designated carrier or through a designated agent.
+(2) The landlord may charge the tenant for the actual cost incurred by the landlord
+to obtain the required insurance coverage and an administrative fee not to
+exceed fifty dollars ($50.00) per year, only if the tenant fails to provide, within
+three business days after the request of the landlord, proof that the tenant has
+obtained the required insurance coverage."
+PART XI. TECHNICAL CHANGE TO EFFECTIVE DATE PROVISION IN S.L.
+2023-133, AS AMENDED BY S.L. 2024-29
+SECTION 11. Section 16(j) of S.L. 2023-133, as amended by Section 9(b) of S.L.
+2024-29, reads as rewritten:
+"SECTION 16.(j) This section becomes effective July 1, 2025. Section 16(e) of this act
+becomes effective July 1, 2025, and applies to convictions occurring on or after that date. Section
+16(h) of this act becomes effective July 1, 2025, and applies to prior convictions for a "violation
+of speeding 10 miles per hour or less over the speed limit" and prayers for judgment continued
+occurring on or after that date.date; provided, however, that, for the purpose of determining
+whether there shall be a premium surcharge or assignment of points under the subclassification
+plan, convictions for a "violation of speeding 10 miles per hour or less over the speed limit" or
+prayers for judgment continued occurring before July 1, 2025, must occur within the three years
+immediately preceding the date of application or the preparation of the renewal."
+PART XII. AUTHORIZE SALESMEN TO REGISTER WITH MULTIPLE DEALERS
+UNDER COMMON OWNERSHIP OR CONTROL
+SECTION 12.(a) G.S. 78A-36(b) reads as rewritten:
+"(b) It is unlawful for any dealer to employ a salesman unless the salesman is registered.
+The registration of a salesman is not effective during any period when he is not associated with
+a particular dealer registered under this Chapter. When a salesman begins or terminates those
+activities which make him a salesman, the salesman as well as the dealer shall promptly notify
+the Administrator.
+The Administrator may by rule or order require the return of a salesman's license upon the
+termination of those activities which make him a salesman or, if such return is impossible, require
+a bond or evidence satisfactory to the Administrator of such impossibility. No salesman may be
+registered with more than one dealer.dealer unless each of the dealers that employs or associates
+House Bill 737-Ratified Page 23
+
+with the salesman is under common ownership or control, or the registration is otherwise allowed
+by a rule or order of the Administrator."
+SECTION 12.(b) This section becomes effective October 1, 2025.
+PART XIII. CANCELLATION OF POLICY UPON CHARGEBACK OF CREDIT CARD
+PREMIUM PAYMENT
+SECTION 13. G.S. 58-41-15(a) reads as rewritten:
+"§ 58-41-15. Certain policy cancellations prohibited.
+(a) No insurance policy or renewal thereof may be cancelled by the insurer prior to the
+expiration of the term or anniversary date stated in the policy and without the prior written
+consent of the insured, except for any one of the following reasons:
+(1) Nonpayment of premium in accordance with the policy terms;
+…
+(b) Any Except as otherwise provided in subsection (b1) of this section, cancellation
+permitted by subsection (a) of this section is not effective unless written notice of cancellation
+has been delivered or mailed to the insured, not less than 15 days before the proposed effective
+date of cancellation. The notice must be given or mailed to the insured, and any designated
+mortgagee or loss payee at their addresses shown in the policy or, if not indicated in the policy,
+at their last known addresses. The notice must state the precise reason for cancellation. Failure
+to send this notice to any designated mortgagee or loss payee invalidates the cancellation only as
+to the mortgagee's or loss payee's interest.
+(b1) The chargeback of a premium payment made by credit card shall be deemed to be a
+nonpayment of premium for purposes of this section. In the event of a chargeback of a premium
+payment made by credit card, any cancellation permitted by subsection (a) shall be effective
+retroactively to the date the premium payment was made by credit card.
+…."
+Page 24 House Bill 737-Ratified
+
+PART XIV. EFFECTIVE DATE
+SECTION 14. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 25th day of June, 2025.
+s/ Rachel Hunt
+President of the Senate
+s/ Destin Hall
+Speaker of the House of Representatives
+_____________________________________
+Josh Stein
+Governor
+Approved __________.m. this ______________ day of ___________________, 2025
+House Bill 737-Ratified Page 25
+
+[DELETED:  L T C T A O T C O A O T D O I B T A T N C P O A T R T I G A T C I R P T T C T L R T T E O T I D P S T M O F C L C T P M C T T E D O C P C O O C A T A P U C O A C C P I E T C R F I E E a m h h s e t o T C s n r a i w A ( ( ( o ( s f e]
+[DELETED:   H a t i o b o u t a o a a t d b i t S o a p E l s f e s t t l c i a f a N C l t s i A r a w s e o h s c a p a p i a s t e E T C s c i a t e a f p i G a i s t o t c o p m t h c m c d w p a o a p c f s m p A G d f r a p i C s n a a c p p o c A]
+[DELETED:   P N R r E A A c s b t U S F R B R B c s t c w t l s u t t o a i s a i A A i h c s t m b o t f T h c m p t i e t a g s t s i f d w t i p i]
+[DELETED:   H T i h c s n S s i n i a r j b c a f U S i g w R A s i w g g s a a r a a b t j l s a w n b s t g s i A i a t p s o a e i a i s a i t f o a m o o s d A i s i t I A o I S I n U S i g o i t n S t n S j n t l s t t j c t g c c a L c s r f o t g c c f U S C D]
+[DELETED:   P c t f a l g c f i l o t f r o T i h c s h a d w a a p i i d a a a F F P o l t o b d T T i h c s d n i a b T i h c s a t t a n m T f r t t i a t h p R A A A P T T f b t l s c i c w t]
+[DELETED:   H T E – T l s c m i c w t N r o s ( o t s T l s c s U e m o c a t t p o i a o w a a N t t i m p a i a w p i t s G t c a o i h c s t a c g s a w i L s c – T p r f r t w t p w t F A H]
+[DELETED:   P L g c f – A s v o t g c L N N R S t f a w m m t f t T b f o a F A a p b t C m u o o A a b t p r t f t s r t i i e N i n b d o t r s f p t b r o o p o T s d n a t t E s a f a a e r r o F F a p b t h c s a d b t p w t F]
+[DELETED:   H D m o o i i t p o c o t o p t t D p t s ( a ( o i a p c a H t C i a t u t W M p w t c a a g c i f a i h c s s b t M a a l s t i r f a I o t a i t p o t d i b t A t M s d m o o i i t O T A S o a s c d i G t t r a i w t m t a p s o t d m o N s ( o t s m o s a p d m o i r t G G w C o s]
+[DELETED:   P M r d m o i i o S e i w a w t N a a t d b t C g s a u o R a r t m t c a p f o i r T a r a r t v i w t t r h t l a s a c o S i s t t d o t P t N o t c d b t i a p d a t u a i T s d n a t d R r o s t t N f d o p R a a a i a a s o t c b t C m b r t d R t C t n a i w d o t t c T s o]
+[DELETED:   H t d m o i s p t D " G f s m a f s t i b a i c p a a p i " " " T A p e o g m s t r a f A l o l w d n h p w c p t]
+[DELETED:   P E A t b i i t e A a E a s f w t C a a G f r t a f s ( b o e s k t t r o t s t C m i t a T C m i t C d i a G f s s b p i a w g a p a a b a i c p a t c o c a f s i a c o b s a s o o o e p m a i t t c o c a f s A]
+[DELETED:   H T i s s o c i e a s o c f a T T p e a g a i a f p b t a f c c i i o f p t w c i a e T T a s a a f s t m t E r b t D t S B o I s p t t s i w t p e o c p h T s a a t a c i a t o d a o T]
+[DELETED:   P T N M a u m s o o a m V O B B B a o d o o c p i a e o t h h i l o T t a i n c w r t a o i o f p t w c i a T A P w c o i l o p w c T T T I w d u t C w 3 d a n i g u R]
+[DELETED:   H B W E A f p p t w c a e b I a o t o l i t A I o t m l e l m b r t f w t A A f p p t w c a e b I a o t o l i t A t r f a d m r o i t p e D n m a p p e o o I D D n e d o i c c w a p a D n a t a m o p l i t a t p t j d r]
+[DELETED:   P I I a o t r a a o a l u t A e f 4  T s i e w i b l a a t I O t c t m b s f i a c C c – A u c i o o p p l i t S " c i c o i t c h r t r o t o t o h b e a t " c s n i a a a ( a a a s o c r o]
+[DELETED:   H C i n s i c v T B o t t e o t c c e p t t d o b t i r t p o c i t n o c T A h n o t p a I w s s r a j m b p W o c c a a a d o s T A m p i a o t i d r t p o c a t a r f t H t r t r a c s r c I a a s d o r o o a a]
+[DELETED:   P T E c i e i t s r w o j o d n p a E I w a c b a t A o a A o d v o f i e a t T A]
+[DELETED:   H V C P T P W R T 5  U m o c a u o d a o p R N i s ( o p a s a o d o d o r a o t f E F R S o s 5 o t H T a o t r o R t t i c a i p P R P]
+[DELETED:   P M o a r i o r o d s f E E f w t i a e o f p P I b c t i h o r t r o d o " a p p p h p c h A I o t i o p m e a t c w q r t T b b o d o c a d c m b m b t T t c o s 6 o t t p o s s o o m o t t t s m n t o t p o t p p t T T o c i c o c i c w t]
+[DELETED:   H T e t h f d ( p T T T c o d o r b a i o T T T T d o r i o t t p a i a m t i n u T o r a p i e f N a p o i o a s f o a i t o o b t a t o a v t t p p b s b o t A i p o r o e m n o o n a t p o s d i N c o r a p f a p o i e i a w t]
+[DELETED:   P f a a l r ( a p i f d t i V C L R T T E O B " b " o b o " e o " m t F I R A o a C f o o v c f t s s o T a a p w i a o s m p I]
+[DELETED:   H P m e b a s t c i w t A S a p w o e n t t i a H a g b t e o c w T T P W T 7  T s i e w i b l a a t T H 2  F r p t r m b m N p s t a i o p s p t N A t w a p s t t i o s D]
+[DELETED:   P o m v o A t n r u s ( o X R O R L R R T f p a t a l t r a t t m T T X T C T E D P I S I]
+[DELETED:   H N N A T]
+[DELETED:   P5 s s _   ]

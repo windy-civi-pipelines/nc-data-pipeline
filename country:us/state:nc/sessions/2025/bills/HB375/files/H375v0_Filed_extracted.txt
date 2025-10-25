@@ -1,0 +1,931 @@
+Title: HOUSE BILL DRH30161-LR-9A
+Official Title: HOUSE BILL DRH30161-LR-9A
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+H.B. 375
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Mar 11, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: AI/Ban Deceptive Ads. (Public)
+Sponsors: Representative Warren.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REGULATE THE USE OF DEEPFAKES AND DECEPTIVE
+3 ADVERTISEMENTS IN ELECTIONS AND PROTECT MINORS AND THE GENERAL
+4 PUBLIC FROM MISUSE OF ARTIFICIAL INTELLIGENCE AND SYNTHETIC MEDIA.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. The General Statutes are amended by adding a new Chapter to read:
+7 "Chapter 170.
+8 "Artificial Intelligence and Synthetic Media.
+9 "Article 1.
+10 "Political Campaigns.
+11 "§ 170-1. Title; definitions.
+12 (a) This Chapter shall be known and may be cited as the "Artificial Intelligence and
+13 Synthetic Media Act."
+14 (b) The following definitions apply in this Chapter:
+15 (1) Artificial intelligence or AI. – A machine-based system that can, for a given
+16 set of human-defined objectives, make predictions, recommendations, or
+17 decisions influencing real or virtual environments.
+18 (2) Creator. – A person that uses artificial intelligence to generate synthetic
+19 media. The term does not include a person that solely provides the technology
+20 used in the creation of the synthetic media.
+21 (3) Deceptive and fraudulent deepfake. – Synthetic media that depicts a candidate
+22 or political party with the intent to injure the reputation of the candidate or
+23 political party or otherwise deceive a voter and that either:
+24 a. Appears to a reasonable person to depict a real individual saying or
+25 doing something that did not actually occur in reality; or
+26 b. Provides to a reasonable person a fundamentally different
+27 understanding or impression of the appearance, action, or speech in an
+28 image, audio recording, or video recording than a reasonable person
+29 would have from an unaltered, original version of the image, audio
+30 recording, or video recording.
+31 (4) Deepfake. – A video, audio, or any other media of a person in which the
+32 person's face, body, or voice has been digitally altered so that the person
+33 appears to be someone else, the person appears to be saying something that
+34 the person has never said, or the person appears to be doing something that
+35 the person has never done.
+*DRH30161-LR-9A*
+General Assembly Of North Carolina Session 2025
+1 (5) Digital content provenance. – Purely factual information that details a digital
+2 resource's creator, origin, context, history, and editing process; and conforms
+3 to an open industry technical standard.
+4 (6) Digital impersonation. – Synthetic media, typically video or audio, that:
+5 a. Has been digitally manipulated to convincingly replace one person's
+6 likeness or voice with that of another using deep generative methods
+7 and artificial intelligence techniques, or for which one person's
+8 likeness or voice has otherwise been simulated using deep generative
+9 methods and artificial intelligence techniques;
+10 b. Was created with the intention to deceive or lead reasonable listeners
+11 or viewers into believing that the content is authentic;
+12 c. Reasonable viewers or listeners would believe actually represents the
+13 person's voice or likeness;
+14 d. Would cause reasonable viewers or listeners to conclude that the
+15 recording or image is a true and accurate depiction of something the
+16 person said or did;
+17 e. Is not commentary, parody, satire, criticism, or artistic expression; and
+18 f. Was not created by the person or with the person's consent.
+19 (7) Digitization. – Creating or altering an image of a person in a realistic manner
+20 utilizing images of another person or computer-generated images, regardless
+21 of whether the creation or alteration is accomplished manually or through an
+22 automated process. The term includes, but is not limited to, creation or
+23 alteration of an image with the use of artificial intelligence.
+24 (8) Fabricated intimate image. – Any photograph, motion picture film, videotape,
+25 digital image, or any other recording or transmission of another person who is
+26 identifiable from the image itself or from information displayed with or
+27 otherwise connected to the image, and that was created or altered by
+28 digitization to depict:
+29 a. Computer-generated intimate body parts or the intimate body parts of
+30 another person as the intimate body parts of the depicted person,
+31 whether nude or visible through less than opaque clothing and
+32 including the genitals, pubic area, anus, or postpubescent female
+33 nipple; or
+34 b. The depicted person engaging in sexual conduct in which the depicted
+35 person did not actually engage.
+36 (9) Generative artificial intelligence or Gen AI. – Artificial intelligence that:
+37 a. Is trained on data;
+38 b. Interacts with a person using text, audio, or visual communication; and
+39 c. Generates non-scripted outputs similar to outputs created by a human,
+40 with limited or no human oversight.
+41 (10) Generated child pornography. – Any image that has been created, altered,
+42 adapted, or modified by electronic, mechanical, or other computer-generated
+43 means to portray a fictitious person, who a reasonable person would regard as
+44 being a minor, engaged in sexual conduct.
+45 (11) Information content provider. – A person or entity that is responsible, in whole
+46 or in part, for the creation or development of information provided through
+47 the Internet or any other interactive computer service.
+48 (12) Materially deceptive media. – Synthetic audio or visual media that:
+49 a. Exhibits a high level of authenticity or convincing appearance that is
+50 visually or audibly indistinguishable from reality to a reasonable
+51 person;
+Page 2 DRH30161-LR-9A
+General Assembly Of North Carolina Session 2025
+1 b. Depicts a scenario that did not actually occur; or that has been altered
+2 in a significant way from how they actually occurred such that it
+3 significantly changes how a reasonable person would understand the
+4 original content;
+5 c. Is likely or meant to harm reputation or mislead voters; and
+6 d. Is created by generative artificial intelligence or with software,
+7 machine learning, or any other computer-generated or technological
+8 means, including adapting, modifying, manipulating, or altering a
+9 realistic depiction.
+10 (13) Regulated occupation. – Any occupation that is subject to licensing or
+11 certification by a state occupational licensing board or commission.
+12 (14) Sexual conduct. – As defined in G.S. 14-190.5A. The term includes "sexual
+13 activity" as defined by G.S. 14-190.13.
+14 (15) Sponsor. – A person that pays for the content that uses artificial intelligence
+15 to generate synthetic media.
+16 (16) Synthetic audio media. – Audio content that was substantially produced by
+17 generative artificial intelligence.
+18 (17) Synthetic media. – An image, audio recording, or video recording of an
+19 individual's appearance, speech, or conduct that has been created or
+20 intentionally manipulated with the use of digital technology in a manner to
+21 create a realistic but false image, audio, or video.
+22 (18) Synthetic visual media. – An image or video that was substantially produced
+23 by generative artificial intelligence.
+24 "§ 170-2. Use of synthetic media in political campaigns.
+25 (a) Within 90 days before an election at which a candidate for elected office will appear
+26 on the ballot, a person who acts as a creator shall not sponsor or create and distribute a synthetic
+27 media message that the person knows is a deceptive and fraudulent deepfake of that candidate or
+28 of a political party that is on that ballot unless the synthetic media message includes a clear and
+29 conspicuous disclosure that meets the following criteria:
+30 (1) An audio communication that contains synthetic audio media shall include
+31 audibly at the beginning and end of the communication the words, "Contains
+32 content generated by AI." If the audio content is greater than two minutes in
+33 length, the words shall be interspersed within the audio at intervals of not
+34 greater than two minutes each, in the same language as the rest of the audio
+35 used in the communication, and in a pitch that can be easily heard by the
+36 average listener.
+37 (2) A visual communication that contains synthetic media shall display
+38 throughout the duration of each portion of the communication containing
+39 synthetic media, in legible writing, the words:
+40 a. "This video content generated by AI," if the content is a video that
+41 includes synthetic visual media but not synthetic audio media;
+42 b. "This image generated by AI," if the content is an image that includes
+43 synthetic visual media but not synthetic audio media;
+44 c. "This audio content generated by AI," if the video includes synthetic
+45 audio media but not synthetic visual media; or
+46 d. "This content generated by AI," if the communication includes both
+47 synthetic audio media and synthetic visual media.
+48 (3) For visual media, the disclosure shall be printed or typed in a legible font size
+49 easily readable by the average viewer that is no smaller than other text
+50 appearing in the visual media and in the same language used on the
+DRH30161-LR-9A Page 3
+General Assembly Of North Carolina Session 2025
+1 communication to read as follows: "This (image, video, or audio) has been
+2 manipulated."
+3 (b) In addition to the requirements in subsection (a) of this section, a creator or sponsor
+4 who publishes an online digital audio or visual communication that is viewable, audible, or
+5 accessible in this State shall ensure the advertisement carries embedded tamper-evident digital
+6 content provenance that discloses:
+7 (1) The initial author and creator of the content;
+8 (2) Any subsequent entities that edited, altered, or otherwise modified the content;
+9 and
+10 (3) Any use of generative artificial intelligence in generating or modifying the
+11 substantive content.
+12 (c) This section applies to an audio or visual communication that:
+13 (1) Is paid for by a candidate campaign committee, political action committee,
+14 political issues committee, political party, or a person using a contribution;
+15 (2) Is intended to influence voting for or against a candidate or ballot proposition
+16 in an election or primary in this State; and
+17 (3) Contains synthetic media.
+18 "§ 170-3. Use of materially deceptive media in political communications.
+19 (a) A person that distributes or publishes any political communication that was produced
+20 by or includes materially deceptive media and knows or should know that it is materially
+21 deceptive shall disclose this use, as follows:
+22 (1) For visual media, the disclosure shall be printed or typed in a legible font size
+23 easily readable by the average viewer that is no smaller than other text
+24 appearing in the visual media and in the same language used on the
+25 communication to read as follows: "This (image, video, or audio) has been
+26 manipulated." This subdivision does not apply to any of the following:
+27 a. Materially deceptive media that constitutes satire or parody.
+28 b. Materially deceptive media created for the purposes of bona fide news
+29 reporting when the required disclosure is included.
+30 c. Initial dissemination by a platform or service, including, but not
+31 limited to, a website, regularly published newspaper, or magazine,
+32 where the content disseminated is materially deceptive media provided
+33 by another information content provider when a good-faith effort has
+34 been made to establish that the depiction is not materially deceptive
+35 media.
+36 d. An interactive computer service as defined in 47 U.S.C. § 230.
+37 (2) For communication that is auditory, such as radio or automated telephone
+38 calls, clearly speaking the statement at the beginning of the audio, at the end
+39 of the audio, and, if the audio is greater than two minutes in length,
+40 interspersed within the audio at intervals of not greater than two minutes each
+41 and in the same language as the rest of the audio used in the communication,
+42 and in a pitch that can be easily heard by the average listener.
+43 "§ 170-4. Enforcement and remedies for violations.
+44 (a) A candidate whose appearance, action, or speech is depicted through the use of a
+45 deceptive and fraudulent deepfake in violation of this Article may seek injunctive or other
+46 equitable relief prohibiting the publication of the deceptive and fraudulent deepfake.
+47 (b) A candidate whose voice or likeness appears in materially deceptive media in
+48 violation of this Article may seek reasonable attorneys' fees, costs, and injunctive relief
+49 prohibiting the distribution, publication, or broadcasting of any materially deceptive media in
+50 violation of this Article against such individual or entity who disseminated or published the media
+Page 4 DRH30161-LR-9A
+General Assembly Of North Carolina Session 2025
+1 without the consent of the person depicted and who knew or should have known that it was
+2 materially deceptive.
+3 An action under this section shall be initiated by filing an application for an order to show
+4 cause in the superior court where the materially deceptive media at issue could deceive and
+5 influence voters in an upcoming election. The action shall be entitled to an automatic calendar
+6 preference and be subject to expedited pretrial and trial proceedings.
+7 (c) In any action alleging a violation of this Article in which a plaintiff seeks preliminary
+8 relief with respect to an upcoming election, the court shall grant relief if it determines that
+9 plaintiffs are more likely than not to succeed on the merits and it is possible to implement.
+10 (d) The plaintiff bears the burden of establishing the use of materially deceptive media
+11 by clear and convincing evidence in any action brought under this Article.
+12 (e) Any person who violates this Article is guilty of a Class 1 misdemeanor, except that:
+13 (1) A person who commits the violation within five years of one or more prior
+14 convictions under this section is guilty of a Class A felony.
+15 (2) A person who commits the violation with the intent to cause violence or bodily
+16 harm is guilty of a Class A felony.
+17 "§ 170-5. Exceptions.
+18 This Article does not apply to any of the following:
+19 (1) A radio or television broadcasting station, including a cable or satellite
+20 television operator, programmer, or producer that:
+21 a. Broadcasts a deceptive and fraudulent deepfake that is prohibited by
+22 this Article and that is part of a bona fide newscast, news interview, or
+23 news documentary or on-the-spot coverage of bona fide news events,
+24 if the broadcast clearly acknowledges through its content or a
+25 disclosure in a manner that can be easily heard or read by the average
+26 listener or viewer that there are questions about the authenticity of the
+27 materially deceptive audio or visual media; and
+28 b. Is paid to broadcast a deceptive and fraudulent deepfake and has made
+29 a good-faith effort to establish that the depiction is not a deceptive and
+30 fraudulent deepfake.
+31 (2) An internet website or a regularly published newspaper, magazine, or other
+32 periodical of general circulation, including an internet or electronic
+33 publication, that routinely carries news and commentary of general interest
+34 and that publishes materially deceptive audio or visual media that is prohibited
+35 by this Article if the publication clearly states that the materially deceptive
+36 audio or visual media was generated by artificial intelligence.
+37 (3) Media that constitutes satire or parody.
+38 (4) An interactive computer service as defined in 47 U.S.C. § 230.
+39 "Article 2.
+40 "Pornography and Fabricated Images.
+41 "§ 170-6. Generated child pornography.
+42 (a) A person who intentionally creates generated child pornography is guilty of a Class
+43 A felony.
+44 (b) It is unlawful for a person to knowingly possess, control, or intentionally view a
+45 photograph, a motion picture, a representation, an image, a data file, a computer depiction, or
+46 any other presentation which, in whole or in part, the person knows includes generated child
+47 pornography. A person who violates this subsection is guilty of a Class A felony.
+48 (c) The possession, control, or intentional viewing of each such photograph, motion
+49 picture, representation, image, data file, computer depiction, or other presentation constitutes a
+50 separate offense.
+DRH30161-LR-9A Page 5
+General Assembly Of North Carolina Session 2025
+1 (d) This section does not apply to any material possessed, controlled, or intentionally
+2 viewed as part of a law enforcement investigation.
+3 (e) In a criminal proceeding, any property or material that constitutes generated child
+4 pornography must remain secured or locked in the care, custody, and control of a law
+5 enforcement agency, the district attorney, or the court. Notwithstanding any law or rule of court
+6 to the contrary, a court shall deny, in a criminal proceeding, any request by the defendant to copy,
+7 photograph, duplicate, or otherwise reproduce any property or material that constitutes generated
+8 child pornography so long as the district attorney makes the property or material reasonably
+9 available to the defendant. For purposes of this section, property or material is deemed to be
+10 reasonably available to the defendant if the district attorney provides ample opportunity at a
+11 designated facility for the inspection, viewing, and examination of the property or material that
+12 constitutes generated child pornography by the defendant, the defendant's attorney, or any
+13 individual whom the defendant uses as an expert during the discovery process or at a court
+14 proceeding.
+15 "§ 170-7. Disclosure of fabricated intimate images.
+16 (a) A person is guilty of a Class 1 misdemeanor when the person knowingly discloses a
+17 fabricated intimate image of another person and the person disclosing the image:
+18 (1) Knows or should have known that the depicted person has not consented to
+19 the disclosure; and
+20 (2) Knows or reasonably should know that disclosure would cause harm to the
+21 depicted person.
+22 (b) A person who is under the age of 18 is not guilty of the crime of disclosing fabricated
+23 intimate images unless the person:
+24 (1) Intentionally and maliciously disclosed a fabricated intimate image of another
+25 person; and
+26 (2) Knows or should have known that the depicted person has not consented to
+27 the disclosure.
+28 (c) This section does not apply to:
+29 (1) Disclosures made in the public interest, including, but not limited to, the
+30 reporting of unlawful conduct, or the lawful and common practices of law
+31 enforcement, criminal reporting, legal proceedings, or medical treatment; or
+32 (2) Images that constitute commentary, criticism, or disclosure protected by the
+33 North Carolina Constitution or the United States Constitution.
+34 (d) This section does not impose liability upon the following entities solely as a result of
+35 content provided by another person:
+36 (1) An interactive computer service, as defined in Title 47 U.S.C. § 230(f)(2);
+37 (2) A mobile telecommunications service provider; or
+38 (3) A telecommunications network or broadband provider.
+39 (e) In any prosecution for a violation of this section, it is not a defense that:
+40 (1) The perpetrator lacked knowledge of whether the disclosed image had been
+41 created or altered by digitization; or
+42 (2) The depicted person consented to the creation or alteration of the image.
+43 (f) The crime of disclosing fabricated intimate images:
+44 (1) Is a Class 1 misdemeanor on the first offense; or
+45 (2) Is a Class A felony if the defendant has one or more prior convictions for a
+46 violation of this section or the section governing disclosure of intimate
+47 images.
+48 (g) A minor who possesses any image of any other minor which constitutes a fabricated
+49 intimate image forfeits any right to continued possession of the image and any court exercising
+50 jurisdiction over such image shall order forfeiture of the image.
+51 "§ 170-8. Remedies for disclosure of fabricated intimate images.
+Page 6 DRH30161-LR-9A
+General Assembly Of North Carolina Session 2025
+1 (a) A depicted individual who is identifiable and who suffers harm from a person's
+2 intentional disclosure or threatened disclosure of a fabricated intimate image without the depicted
+3 individual's consent has a cause of action against the person if the person knew or acted with
+4 reckless disregard for whether:
+5 (1) The depicted individual did not consent to the disclosure; and
+6 (2) The depicted individual was identifiable.
+7 (b) A depicted individual's consent to the creation of the fabricated intimate image does
+8 not by itself establish that the depicted individual consented to its disclosure. Consent is deemed
+9 validly given only if it (i) is set forth in an agreement written in plain language signed knowingly
+10 and voluntarily by the depicted individual and (ii) includes a general description of the fabricated
+11 intimate image and, if applicable, the audiovisual work into which it will be incorporated.
+12 (c) It is not a defense to an action under this section that there is a disclaimer stating that
+13 the fabricated intimate image of the depicted individual was unauthorized or that the depicted
+14 individual did not participate in the creation or development of the fabricated intimate image.
+15 (d) In an action under this section, a prevailing plaintiff may recover:
+16 (1) The greater of economic and noneconomic damages proximately caused by
+17 the defendant's disclosure or threatened disclosure, including damages for
+18 emotional distress whether or not accompanied by other damages; or statutory
+19 damages not to exceed ten thousand dollars ($10,000) against each defendant
+20 found liable for all disclosures and threatened disclosures;
+21 (2) An amount equal to any monetary gain made by the defendant from disclosure
+22 of the fabricated intimate image; and
+23 (3) Punitive damages in an amount not to exceed three times the amount of
+24 damages under subdivision (1) of this subsection.
+25 The court may award a prevailing plaintiff reasonable attorneys' fees and costs; and additional
+26 relief, including injunctive relief.
+27 (f) An action under this section for an unauthorized disclosure may not be brought later
+28 than four years from the date the disclosure was discovered or should have been discovered with
+29 the exercise of reasonable diligence. A threat to disclose may not be brought later than four years
+30 from the date of the threat to disclose.
+31 (g) In an action under this section by a depicted individual who was a minor on the date
+32 of the disclosure or threat to disclose, the time specified in subsection (f) of this section does not
+33 begin to run until the depicted individual attains the age of majority.
+34 "§ 170-9. Exemption from liability.
+35 (a) A person is not liable under this Article if the person proves that disclosure of, or a
+36 threat to disclose, a fabricated intimate image was made in good faith, as follows:
+37 (1) In connection with law enforcement activities, legal proceedings, or medical
+38 education or treatment.
+39 (2) In the reporting or investigation of unlawful conduct.
+40 (3) In connection with a matter of public concern or public interest.
+41 If a defendant asserts an exception to liability under this section, the exception does not apply if
+42 the plaintiff proves the disclosure was prohibited by law other than this Article or made for the
+43 purpose of sexual arousal, sexual gratification, humiliation, degradation, or monetary or
+44 commercial gain.
+45 (b) Disclosure of, or a threat to disclose, a fabricated intimate image is not a matter of
+46 public concern or public interest solely because the depicted individual is a public figure.
+47 "§ 170-10. AI-generated images in court proceedings.
+48 (a) In any criminal proceeding, any property or material that constitutes a depiction of a
+49 minor engaged in sexually explicit conduct, including any fabricated depictions, shall remain in
+50 the care, custody, and control of either a law enforcement agency or the court.
+DRH30161-LR-9A Page 7
+General Assembly Of North Carolina Session 2025
+1 (b) Despite any request by the defendant or prosecution, any property or material that
+2 constitutes a fabricated depiction of a minor shall not be copied, photographed, duplicated, or
+3 otherwise reproduced, so long as the property or material is made reasonably available to the
+4 parties. The property or material shall be deemed to be reasonably available to the parties if the
+5 prosecution, defense counsel, or any individual sought to be qualified to furnish expert testimony
+6 at trial has ample opportunity for inspection, viewing, and examination of the property or material
+7 at a law enforcement facility or a neutral facility approved by the court upon petition by the
+8 defense.
+9 (c) The defendant may view and examine the property and materials only while in the
+10 presence of his or her attorney. If the defendant is proceeding pro se, the court will appoint an
+11 individual to supervise the defendant while he or she examines the materials.
+12 (d) The court may direct that a mirror image of a computer hard drive containing such
+13 depictions be produced for use by an expert only upon a showing that an expert has been retained
+14 and is prepared to conduct a forensic examination while the mirror imaged hard drive remains in
+15 the care, custody, and control of a law enforcement agency or the court. Upon a substantial
+16 showing that the expert's analysis cannot be accomplished while the mirror imaged hard drive is
+17 kept within the care, custody, and control of a law enforcement agency or the court, the court
+18 may order its release to the expert for analysis for a limited time. If release is granted, the court
+19 shall issue a protective order setting forth such terms and conditions as are necessary to protect
+20 the rights of the victims, to document the chain of custody, and to protect physical evidence.
+21 (e) Whenever a depiction of a minor engaged in sexually explicit conduct, regardless of
+22 its format and whether it is a fabricated depiction, is marked as an exhibit in a criminal
+23 proceeding, the prosecutor shall seek an order sealing the exhibit at the close of the trial. Any
+24 exhibits sealed under this section shall be sealed with evidence tape in a manner that prevents
+25 access to, or viewing of, the depiction and shall be labeled so as to identify its contents. Anyone
+26 seeking to view such an exhibit must obtain permission from the superior court after providing
+27 at least 10 days' notice to the prosecuting attorney. Appellate attorneys for the defendant and the
+28 State shall be given access to the exhibit, which must remain in the care and custody of either a
+29 law enforcement agency or the court.
+30 (f) If the criminal proceeding ends in a conviction, the clerk of the court shall destroy
+31 any exhibit containing a depiction of a minor engaged in sexually explicit conduct, including any
+32 fabricated depictions, five years after the judgment is final, as unless otherwise required by law.
+33 Before any destruction, the clerk shall contact the prosecuting attorney and verify that there is no
+34 collateral attack on the judgment pending in any court. If the criminal proceeding ends in a
+35 mistrial, the clerk shall either maintain the exhibit or return it to the law enforcement agency that
+36 investigated the criminal charges for safekeeping until the matter is set for retrial. If the criminal
+37 proceeding ends in an acquittal, the clerk shall return the exhibit to the law enforcement agency
+38 that investigated the criminal charges for either safekeeping or destruction.
+39 "Article 3.
+40 "Various Regulations.
+41 "§ 170-11. Generative artificial intelligence transparency disclosures.
+42 (a) Except as provided in subsection (b) of this section, when a person uses generative
+43 artificial intelligence to interact with an individual, the business or person shall disclose that the
+44 individual is interacting with Gen AI only if the individual asks whether the interaction involves
+45 generative artificial intelligence.
+46 (b) When generative artificial intelligence is utilized in the provision of services of a
+47 regulated occupation, a prominent mandatory disclosure must be clearly and conspicuously
+48 provided.
+49 (c) Regulated occupation professionals must disclose the use of Gen AI either verbally
+50 at the start of an exchange or conversation with a client or customer or through an electronic
+51 message before a written exchange.
+Page 8 DRH30161-LR-9A
+General Assembly Of North Carolina Session 2025
+1 (d) Violation of this section is a Class A misdemeanor. Each interaction with a consumer
+2 constitutes a potential separate violation.
+3 "Article 4.
+4 "Miscellaneous Provisions.
+5 "§ 170-12. Nonexclusive remedies.
+6 The remedies in this Chapter are nonexclusive. When an aggrieved person has multiple
+7 options for seeking relief, choosing an option provided by this Chapter does not prevent the
+8 person from pursuing other remedies. The aggrieved person may pursue multiple forms of relief
+9 allowed by law simultaneously or sequentially.
+10 "§ 170-13. Criminal liability for AI-assisted offenses.
+11 (a) A defendant is guilty of a criminal offense under this Chapter if the defendant
+12 commits the offense with the aid of generative artificial intelligence or intentionally prompts or
+13 otherwise causes generative artificial intelligence to commit the offense.
+14 (b) It is not a defense to the violation of any statute that generative artificial intelligence
+15 made the violative statement, undertook the violative act, or was used in furtherance of the
+16 violation.
+17 "§ 170-14. Statutory construction.
+18 (a) It is the intent of the General Assembly that the provisions of this Chapter be liberally
+19 construed in the best interest of the citizens of this State, especially minors and voters.
+20 (b) Nothing in this section shall be construed to conflict with or prohibit compliance with
+21 Title IX of the Education Amendments of 1972, as amended; the Americans with Disabilities
+22 Act, as amended; the Age Discrimination in Employment Act, as amended; Title VI of the Civil
+23 Rights Act of 1964; or other applicable State or federal law. This section does not apply to speech
+24 protected by the First Amendment of the United States Constitution.
+25 (c) If a provision of this Chapter or its application to any person or circumstance is held
+26 invalid, the invalidity does not affect other provisions or applications of the Act that can be given
+27 effect without the invalid provision or application and, to this end, the provisions of this Chapter
+28 are severable."
+29 SECTION 2. This act becomes effective December 1, 2025, and applies to acts or
+30 omissions occurring on or after that date.
+DRH30161-LR-9A Page 9
+[DELETED:  D A ( R  A A A T R T U O D A D A P T S " " " " " ( T S ( T ( A s o h o m p r o d ( C – A p t u a i t g s m u ( D o p a A d b P t a r p a f d u i w r ( D p a t t]
+[DELETED:  S  D ( D r t ( D a H l a a i t o f w o p l m b W o c R p d W c r v o l t c t t r p e I f W ( D u o a p T t i b i n l t c o a ( F d i f t i i o f i d w o o c t t i a t w c o a b d a C a p a t i b p o t d p w n o v t l t o c a i t g p a a o p f n b T p ( G a I b I c G w ( G a m b ( I o t ( M a E v o a i f r t a r p]
+[DELETED:  S  P b D i a s w f h t a o s t i s o c I d I c b g a i o w s m m i a m m o a a r ( R o – A o t i s t l o c ( S a ( S t ( S g ( S m – A i a r o v r o a i a s o c t h b c o i c ( S b " ( W o m o c ( A a c l g u a ( A v c t c s m s d t t d o e p o t c c s a " i b " s c " a d " s ( F e r b t a v t i n s t o t a i t v m a i t s l u o t]
+[DELETED:  S  D c m ( I w a c ( T ( A a ( A s ( T ( I p ( I i ( C " ( A b o i m d m a k o s k t i i m d ( F e r b t a v t i n s t o t a i t v m a i t s l u o t c m a M b M r c I d b a p o s i b n l t a w r p n w b b m d A ( F c o t a a i t a i g t t m i l i a a " ( A d a f d i v o t A m s i o o e ( A c w v o l a i m d m i v o t A m s r a f c a i r p v]
+[DELETED:  S  P w m A c i p ( I r r p ( T b ( A ( A c ( A h " T ( A r o t b s i a c o s t a B t n i t b c a t i c o a d l m b I a f ( A p o g c i a i o e p a b a ( M ( A " " " ( A A ( I p a p ( T p c o i v o e s p m p s]
+[DELETED:  S  D ( T v ( I p m r s o l i t c c a c o a l e t p c a r d c g c p b t d t d a o a i p " ( A f ( K t ( K d ( A i ( I p ( K t ( T ( D m i t p i i b n l t t r e ( I N ( T c ( A ( A ( A ( I ( T c ( T ( T ( I ( I v o t s o t s g d o i i ( A i j "]
+[DELETED:  S  P ( A d i w i i a w s h f a p i i r ( T ( T ( A n v a i ( I t i ( I ( T t d d o d i d f e d f ( A o ( P d i a a n t e t t t a o d T r ( A t t f ( I o b " ( A t ( I e ( I ( I I t p o s a s g h d o m o c ( D p " ( I m t]
+[DELETED:  S  D ( D c o p p a a d ( T p i ( T d a t s k m s t ( W i f a w i i a f d i m a a e i a c p e a s a S l ( I a f B c m i p t " " " ( E a i g ( W r o a p m d m b c a c p ( R a m]
+[DELETED:  S  P ( V c " " " T r i t C a n W a a p h m o p a " ( A d i g o a c o u t C i t d c o ( I m v " ( I c ( N T A R p ( I i e a S o]
+
+
+================================================================================
+
+Raw Text:
+H.B. 375
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Mar 11, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH30161-LR-9A
+Short Title: AI/Ban Deceptive Ads. (Public)
+Sponsors: Representative Warren.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REGULATE THE USE OF DEEPFAKES AND DECEPTIVE
+3 ADVERTISEMENTS IN ELECTIONS AND PROTECT MINORS AND THE GENERAL
+4 PUBLIC FROM MISUSE OF ARTIFICIAL INTELLIGENCE AND SYNTHETIC MEDIA.
+5 The General Assembly of North Carolina enacts:
+6 SECTION 1. The General Statutes are amended by adding a new Chapter to read:
+7 "Chapter 170.
+8 "Artificial Intelligence and Synthetic Media.
+9 "Article 1.
+10 "Political Campaigns.
+11 "§ 170-1. Title; definitions.
+12 (a) This Chapter shall be known and may be cited as the "Artificial Intelligence and
+13 Synthetic Media Act."
+14 (b) The following definitions apply in this Chapter:
+15 (1) Artificial intelligence or AI. – A machine-based system that can, for a given
+16 set of human-defined objectives, make predictions, recommendations, or
+17 decisions influencing real or virtual environments.
+18 (2) Creator. – A person that uses artificial intelligence to generate synthetic
+19 media. The term does not include a person that solely provides the technology
+20 used in the creation of the synthetic media.
+21 (3) Deceptive and fraudulent deepfake. – Synthetic media that depicts a candidate
+22 or political party with the intent to injure the reputation of the candidate or
+23 political party or otherwise deceive a voter and that either:
+24 a. Appears to a reasonable person to depict a real individual saying or
+25 doing something that did not actually occur in reality; or
+26 b. Provides to a reasonable person a fundamentally different
+27 understanding or impression of the appearance, action, or speech in an
+28 image, audio recording, or video recording than a reasonable person
+29 would have from an unaltered, original version of the image, audio
+30 recording, or video recording.
+31 (4) Deepfake. – A video, audio, or any other media of a person in which the
+32 person's face, body, or voice has been digitally altered so that the person
+33 appears to be someone else, the person appears to be saying something that
+34 the person has never said, or the person appears to be doing something that
+35 the person has never done.
+*DRH30161-LR-9A*
+
+General Assembly Of North Carolina Session 2025
+1 (5) Digital content provenance. – Purely factual information that details a digital
+2 resource's creator, origin, context, history, and editing process; and conforms
+3 to an open industry technical standard.
+4 (6) Digital impersonation. – Synthetic media, typically video or audio, that:
+5 a. Has been digitally manipulated to convincingly replace one person's
+6 likeness or voice with that of another using deep generative methods
+7 and artificial intelligence techniques, or for which one person's
+8 likeness or voice has otherwise been simulated using deep generative
+9 methods and artificial intelligence techniques;
+10 b. Was created with the intention to deceive or lead reasonable listeners
+11 or viewers into believing that the content is authentic;
+12 c. Reasonable viewers or listeners would believe actually represents the
+13 person's voice or likeness;
+14 d. Would cause reasonable viewers or listeners to conclude that the
+15 recording or image is a true and accurate depiction of something the
+16 person said or did;
+17 e. Is not commentary, parody, satire, criticism, or artistic expression; and
+18 f. Was not created by the person or with the person's consent.
+19 (7) Digitization. – Creating or altering an image of a person in a realistic manner
+20 utilizing images of another person or computer-generated images, regardless
+21 of whether the creation or alteration is accomplished manually or through an
+22 automated process. The term includes, but is not limited to, creation or
+23 alteration of an image with the use of artificial intelligence.
+24 (8) Fabricated intimate image. – Any photograph, motion picture film, videotape,
+25 digital image, or any other recording or transmission of another person who is
+26 identifiable from the image itself or from information displayed with or
+27 otherwise connected to the image, and that was created or altered by
+28 digitization to depict:
+29 a. Computer-generated intimate body parts or the intimate body parts of
+30 another person as the intimate body parts of the depicted person,
+31 whether nude or visible through less than opaque clothing and
+32 including the genitals, pubic area, anus, or postpubescent female
+33 nipple; or
+34 b. The depicted person engaging in sexual conduct in which the depicted
+35 person did not actually engage.
+36 (9) Generative artificial intelligence or Gen AI. – Artificial intelligence that:
+37 a. Is trained on data;
+38 b. Interacts with a person using text, audio, or visual communication; and
+39 c. Generates non-scripted outputs similar to outputs created by a human,
+40 with limited or no human oversight.
+41 (10) Generated child pornography. – Any image that has been created, altered,
+42 adapted, or modified by electronic, mechanical, or other computer-generated
+43 means to portray a fictitious person, who a reasonable person would regard as
+44 being a minor, engaged in sexual conduct.
+45 (11) Information content provider. – A person or entity that is responsible, in whole
+46 or in part, for the creation or development of information provided through
+47 the Internet or any other interactive computer service.
+48 (12) Materially deceptive media. – Synthetic audio or visual media that:
+49 a. Exhibits a high level of authenticity or convincing appearance that is
+50 visually or audibly indistinguishable from reality to a reasonable
+51 person;
+Page 2 DRH30161-LR-9A
+
+General Assembly Of North Carolina Session 2025
+1 b. Depicts a scenario that did not actually occur; or that has been altered
+2 in a significant way from how they actually occurred such that it
+3 significantly changes how a reasonable person would understand the
+4 original content;
+5 c. Is likely or meant to harm reputation or mislead voters; and
+6 d. Is created by generative artificial intelligence or with software,
+7 machine learning, or any other computer-generated or technological
+8 means, including adapting, modifying, manipulating, or altering a
+9 realistic depiction.
+10 (13) Regulated occupation. – Any occupation that is subject to licensing or
+11 certification by a state occupational licensing board or commission.
+12 (14) Sexual conduct. – As defined in G.S. 14-190.5A. The term includes "sexual
+13 activity" as defined by G.S. 14-190.13.
+14 (15) Sponsor. – A person that pays for the content that uses artificial intelligence
+15 to generate synthetic media.
+16 (16) Synthetic audio media. – Audio content that was substantially produced by
+17 generative artificial intelligence.
+18 (17) Synthetic media. – An image, audio recording, or video recording of an
+19 individual's appearance, speech, or conduct that has been created or
+20 intentionally manipulated with the use of digital technology in a manner to
+21 create a realistic but false image, audio, or video.
+22 (18) Synthetic visual media. – An image or video that was substantially produced
+23 by generative artificial intelligence.
+24 "§ 170-2. Use of synthetic media in political campaigns.
+25 (a) Within 90 days before an election at which a candidate for elected office will appear
+26 on the ballot, a person who acts as a creator shall not sponsor or create and distribute a synthetic
+27 media message that the person knows is a deceptive and fraudulent deepfake of that candidate or
+28 of a political party that is on that ballot unless the synthetic media message includes a clear and
+29 conspicuous disclosure that meets the following criteria:
+30 (1) An audio communication that contains synthetic audio media shall include
+31 audibly at the beginning and end of the communication the words, "Contains
+32 content generated by AI." If the audio content is greater than two minutes in
+33 length, the words shall be interspersed within the audio at intervals of not
+34 greater than two minutes each, in the same language as the rest of the audio
+35 used in the communication, and in a pitch that can be easily heard by the
+36 average listener.
+37 (2) A visual communication that contains synthetic media shall display
+38 throughout the duration of each portion of the communication containing
+39 synthetic media, in legible writing, the words:
+40 a. "This video content generated by AI," if the content is a video that
+41 includes synthetic visual media but not synthetic audio media;
+42 b. "This image generated by AI," if the content is an image that includes
+43 synthetic visual media but not synthetic audio media;
+44 c. "This audio content generated by AI," if the video includes synthetic
+45 audio media but not synthetic visual media; or
+46 d. "This content generated by AI," if the communication includes both
+47 synthetic audio media and synthetic visual media.
+48 (3) For visual media, the disclosure shall be printed or typed in a legible font size
+49 easily readable by the average viewer that is no smaller than other text
+50 appearing in the visual media and in the same language used on the
+DRH30161-LR-9A Page 3
+
+General Assembly Of North Carolina Session 2025
+1 communication to read as follows: "This (image, video, or audio) has been
+2 manipulated."
+3 (b) In addition to the requirements in subsection (a) of this section, a creator or sponsor
+4 who publishes an online digital audio or visual communication that is viewable, audible, or
+5 accessible in this State shall ensure the advertisement carries embedded tamper-evident digital
+6 content provenance that discloses:
+7 (1) The initial author and creator of the content;
+8 (2) Any subsequent entities that edited, altered, or otherwise modified the content;
+9 and
+10 (3) Any use of generative artificial intelligence in generating or modifying the
+11 substantive content.
+12 (c) This section applies to an audio or visual communication that:
+13 (1) Is paid for by a candidate campaign committee, political action committee,
+14 political issues committee, political party, or a person using a contribution;
+15 (2) Is intended to influence voting for or against a candidate or ballot proposition
+16 in an election or primary in this State; and
+17 (3) Contains synthetic media.
+18 "§ 170-3. Use of materially deceptive media in political communications.
+19 (a) A person that distributes or publishes any political communication that was produced
+20 by or includes materially deceptive media and knows or should know that it is materially
+21 deceptive shall disclose this use, as follows:
+22 (1) For visual media, the disclosure shall be printed or typed in a legible font size
+23 easily readable by the average viewer that is no smaller than other text
+24 appearing in the visual media and in the same language used on the
+25 communication to read as follows: "This (image, video, or audio) has been
+26 manipulated." This subdivision does not apply to any of the following:
+27 a. Materially deceptive media that constitutes satire or parody.
+28 b. Materially deceptive media created for the purposes of bona fide news
+29 reporting when the required disclosure is included.
+30 c. Initial dissemination by a platform or service, including, but not
+31 limited to, a website, regularly published newspaper, or magazine,
+32 where the content disseminated is materially deceptive media provided
+33 by another information content provider when a good-faith effort has
+34 been made to establish that the depiction is not materially deceptive
+35 media.
+36 d. An interactive computer service as defined in 47 U.S.C. § 230.
+37 (2) For communication that is auditory, such as radio or automated telephone
+38 calls, clearly speaking the statement at the beginning of the audio, at the end
+39 of the audio, and, if the audio is greater than two minutes in length,
+40 interspersed within the audio at intervals of not greater than two minutes each
+41 and in the same language as the rest of the audio used in the communication,
+42 and in a pitch that can be easily heard by the average listener.
+43 "§ 170-4. Enforcement and remedies for violations.
+44 (a) A candidate whose appearance, action, or speech is depicted through the use of a
+45 deceptive and fraudulent deepfake in violation of this Article may seek injunctive or other
+46 equitable relief prohibiting the publication of the deceptive and fraudulent deepfake.
+47 (b) A candidate whose voice or likeness appears in materially deceptive media in
+48 violation of this Article may seek reasonable attorneys' fees, costs, and injunctive relief
+49 prohibiting the distribution, publication, or broadcasting of any materially deceptive media in
+50 violation of this Article against such individual or entity who disseminated or published the media
+Page 4 DRH30161-LR-9A
+
+General Assembly Of North Carolina Session 2025
+1 without the consent of the person depicted and who knew or should have known that it was
+2 materially deceptive.
+3 An action under this section shall be initiated by filing an application for an order to show
+4 cause in the superior court where the materially deceptive media at issue could deceive and
+5 influence voters in an upcoming election. The action shall be entitled to an automatic calendar
+6 preference and be subject to expedited pretrial and trial proceedings.
+7 (c) In any action alleging a violation of this Article in which a plaintiff seeks preliminary
+8 relief with respect to an upcoming election, the court shall grant relief if it determines that
+9 plaintiffs are more likely than not to succeed on the merits and it is possible to implement.
+10 (d) The plaintiff bears the burden of establishing the use of materially deceptive media
+11 by clear and convincing evidence in any action brought under this Article.
+12 (e) Any person who violates this Article is guilty of a Class 1 misdemeanor, except that:
+13 (1) A person who commits the violation within five years of one or more prior
+14 convictions under this section is guilty of a Class A felony.
+15 (2) A person who commits the violation with the intent to cause violence or bodily
+16 harm is guilty of a Class A felony.
+17 "§ 170-5. Exceptions.
+18 This Article does not apply to any of the following:
+19 (1) A radio or television broadcasting station, including a cable or satellite
+20 television operator, programmer, or producer that:
+21 a. Broadcasts a deceptive and fraudulent deepfake that is prohibited by
+22 this Article and that is part of a bona fide newscast, news interview, or
+23 news documentary or on-the-spot coverage of bona fide news events,
+24 if the broadcast clearly acknowledges through its content or a
+25 disclosure in a manner that can be easily heard or read by the average
+26 listener or viewer that there are questions about the authenticity of the
+27 materially deceptive audio or visual media; and
+28 b. Is paid to broadcast a deceptive and fraudulent deepfake and has made
+29 a good-faith effort to establish that the depiction is not a deceptive and
+30 fraudulent deepfake.
+31 (2) An internet website or a regularly published newspaper, magazine, or other
+32 periodical of general circulation, including an internet or electronic
+33 publication, that routinely carries news and commentary of general interest
+34 and that publishes materially deceptive audio or visual media that is prohibited
+35 by this Article if the publication clearly states that the materially deceptive
+36 audio or visual media was generated by artificial intelligence.
+37 (3) Media that constitutes satire or parody.
+38 (4) An interactive computer service as defined in 47 U.S.C. § 230.
+39 "Article 2.
+40 "Pornography and Fabricated Images.
+41 "§ 170-6. Generated child pornography.
+42 (a) A person who intentionally creates generated child pornography is guilty of a Class
+43 A felony.
+44 (b) It is unlawful for a person to knowingly possess, control, or intentionally view a
+45 photograph, a motion picture, a representation, an image, a data file, a computer depiction, or
+46 any other presentation which, in whole or in part, the person knows includes generated child
+47 pornography. A person who violates this subsection is guilty of a Class A felony.
+48 (c) The possession, control, or intentional viewing of each such photograph, motion
+49 picture, representation, image, data file, computer depiction, or other presentation constitutes a
+50 separate offense.
+DRH30161-LR-9A Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (d) This section does not apply to any material possessed, controlled, or intentionally
+2 viewed as part of a law enforcement investigation.
+3 (e) In a criminal proceeding, any property or material that constitutes generated child
+4 pornography must remain secured or locked in the care, custody, and control of a law
+5 enforcement agency, the district attorney, or the court. Notwithstanding any law or rule of court
+6 to the contrary, a court shall deny, in a criminal proceeding, any request by the defendant to copy,
+7 photograph, duplicate, or otherwise reproduce any property or material that constitutes generated
+8 child pornography so long as the district attorney makes the property or material reasonably
+9 available to the defendant. For purposes of this section, property or material is deemed to be
+10 reasonably available to the defendant if the district attorney provides ample opportunity at a
+11 designated facility for the inspection, viewing, and examination of the property or material that
+12 constitutes generated child pornography by the defendant, the defendant's attorney, or any
+13 individual whom the defendant uses as an expert during the discovery process or at a court
+14 proceeding.
+15 "§ 170-7. Disclosure of fabricated intimate images.
+16 (a) A person is guilty of a Class 1 misdemeanor when the person knowingly discloses a
+17 fabricated intimate image of another person and the person disclosing the image:
+18 (1) Knows or should have known that the depicted person has not consented to
+19 the disclosure; and
+20 (2) Knows or reasonably should know that disclosure would cause harm to the
+21 depicted person.
+22 (b) A person who is under the age of 18 is not guilty of the crime of disclosing fabricated
+23 intimate images unless the person:
+24 (1) Intentionally and maliciously disclosed a fabricated intimate image of another
+25 person; and
+26 (2) Knows or should have known that the depicted person has not consented to
+27 the disclosure.
+28 (c) This section does not apply to:
+29 (1) Disclosures made in the public interest, including, but not limited to, the
+30 reporting of unlawful conduct, or the lawful and common practices of law
+31 enforcement, criminal reporting, legal proceedings, or medical treatment; or
+32 (2) Images that constitute commentary, criticism, or disclosure protected by the
+33 North Carolina Constitution or the United States Constitution.
+34 (d) This section does not impose liability upon the following entities solely as a result of
+35 content provided by another person:
+36 (1) An interactive computer service, as defined in Title 47 U.S.C. § 230(f)(2);
+37 (2) A mobile telecommunications service provider; or
+38 (3) A telecommunications network or broadband provider.
+39 (e) In any prosecution for a violation of this section, it is not a defense that:
+40 (1) The perpetrator lacked knowledge of whether the disclosed image had been
+41 created or altered by digitization; or
+42 (2) The depicted person consented to the creation or alteration of the image.
+43 (f) The crime of disclosing fabricated intimate images:
+44 (1) Is a Class 1 misdemeanor on the first offense; or
+45 (2) Is a Class A felony if the defendant has one or more prior convictions for a
+46 violation of this section or the section governing disclosure of intimate
+47 images.
+48 (g) A minor who possesses any image of any other minor which constitutes a fabricated
+49 intimate image forfeits any right to continued possession of the image and any court exercising
+50 jurisdiction over such image shall order forfeiture of the image.
+51 "§ 170-8. Remedies for disclosure of fabricated intimate images.
+Page 6 DRH30161-LR-9A
+
+General Assembly Of North Carolina Session 2025
+1 (a) A depicted individual who is identifiable and who suffers harm from a person's
+2 intentional disclosure or threatened disclosure of a fabricated intimate image without the depicted
+3 individual's consent has a cause of action against the person if the person knew or acted with
+4 reckless disregard for whether:
+5 (1) The depicted individual did not consent to the disclosure; and
+6 (2) The depicted individual was identifiable.
+7 (b) A depicted individual's consent to the creation of the fabricated intimate image does
+8 not by itself establish that the depicted individual consented to its disclosure. Consent is deemed
+9 validly given only if it (i) is set forth in an agreement written in plain language signed knowingly
+10 and voluntarily by the depicted individual and (ii) includes a general description of the fabricated
+11 intimate image and, if applicable, the audiovisual work into which it will be incorporated.
+12 (c) It is not a defense to an action under this section that there is a disclaimer stating that
+13 the fabricated intimate image of the depicted individual was unauthorized or that the depicted
+14 individual did not participate in the creation or development of the fabricated intimate image.
+15 (d) In an action under this section, a prevailing plaintiff may recover:
+16 (1) The greater of economic and noneconomic damages proximately caused by
+17 the defendant's disclosure or threatened disclosure, including damages for
+18 emotional distress whether or not accompanied by other damages; or statutory
+19 damages not to exceed ten thousand dollars ($10,000) against each defendant
+20 found liable for all disclosures and threatened disclosures;
+21 (2) An amount equal to any monetary gain made by the defendant from disclosure
+22 of the fabricated intimate image; and
+23 (3) Punitive damages in an amount not to exceed three times the amount of
+24 damages under subdivision (1) of this subsection.
+25 The court may award a prevailing plaintiff reasonable attorneys' fees and costs; and additional
+26 relief, including injunctive relief.
+27 (f) An action under this section for an unauthorized disclosure may not be brought later
+28 than four years from the date the disclosure was discovered or should have been discovered with
+29 the exercise of reasonable diligence. A threat to disclose may not be brought later than four years
+30 from the date of the threat to disclose.
+31 (g) In an action under this section by a depicted individual who was a minor on the date
+32 of the disclosure or threat to disclose, the time specified in subsection (f) of this section does not
+33 begin to run until the depicted individual attains the age of majority.
+34 "§ 170-9. Exemption from liability.
+35 (a) A person is not liable under this Article if the person proves that disclosure of, or a
+36 threat to disclose, a fabricated intimate image was made in good faith, as follows:
+37 (1) In connection with law enforcement activities, legal proceedings, or medical
+38 education or treatment.
+39 (2) In the reporting or investigation of unlawful conduct.
+40 (3) In connection with a matter of public concern or public interest.
+41 If a defendant asserts an exception to liability under this section, the exception does not apply if
+42 the plaintiff proves the disclosure was prohibited by law other than this Article or made for the
+43 purpose of sexual arousal, sexual gratification, humiliation, degradation, or monetary or
+44 commercial gain.
+45 (b) Disclosure of, or a threat to disclose, a fabricated intimate image is not a matter of
+46 public concern or public interest solely because the depicted individual is a public figure.
+47 "§ 170-10. AI-generated images in court proceedings.
+48 (a) In any criminal proceeding, any property or material that constitutes a depiction of a
+49 minor engaged in sexually explicit conduct, including any fabricated depictions, shall remain in
+50 the care, custody, and control of either a law enforcement agency or the court.
+DRH30161-LR-9A Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (b) Despite any request by the defendant or prosecution, any property or material that
+2 constitutes a fabricated depiction of a minor shall not be copied, photographed, duplicated, or
+3 otherwise reproduced, so long as the property or material is made reasonably available to the
+4 parties. The property or material shall be deemed to be reasonably available to the parties if the
+5 prosecution, defense counsel, or any individual sought to be qualified to furnish expert testimony
+6 at trial has ample opportunity for inspection, viewing, and examination of the property or material
+7 at a law enforcement facility or a neutral facility approved by the court upon petition by the
+8 defense.
+9 (c) The defendant may view and examine the property and materials only while in the
+10 presence of his or her attorney. If the defendant is proceeding pro se, the court will appoint an
+11 individual to supervise the defendant while he or she examines the materials.
+12 (d) The court may direct that a mirror image of a computer hard drive containing such
+13 depictions be produced for use by an expert only upon a showing that an expert has been retained
+14 and is prepared to conduct a forensic examination while the mirror imaged hard drive remains in
+15 the care, custody, and control of a law enforcement agency or the court. Upon a substantial
+16 showing that the expert's analysis cannot be accomplished while the mirror imaged hard drive is
+17 kept within the care, custody, and control of a law enforcement agency or the court, the court
+18 may order its release to the expert for analysis for a limited time. If release is granted, the court
+19 shall issue a protective order setting forth such terms and conditions as are necessary to protect
+20 the rights of the victims, to document the chain of custody, and to protect physical evidence.
+21 (e) Whenever a depiction of a minor engaged in sexually explicit conduct, regardless of
+22 its format and whether it is a fabricated depiction, is marked as an exhibit in a criminal
+23 proceeding, the prosecutor shall seek an order sealing the exhibit at the close of the trial. Any
+24 exhibits sealed under this section shall be sealed with evidence tape in a manner that prevents
+25 access to, or viewing of, the depiction and shall be labeled so as to identify its contents. Anyone
+26 seeking to view such an exhibit must obtain permission from the superior court after providing
+27 at least 10 days' notice to the prosecuting attorney. Appellate attorneys for the defendant and the
+28 State shall be given access to the exhibit, which must remain in the care and custody of either a
+29 law enforcement agency or the court.
+30 (f) If the criminal proceeding ends in a conviction, the clerk of the court shall destroy
+31 any exhibit containing a depiction of a minor engaged in sexually explicit conduct, including any
+32 fabricated depictions, five years after the judgment is final, as unless otherwise required by law.
+33 Before any destruction, the clerk shall contact the prosecuting attorney and verify that there is no
+34 collateral attack on the judgment pending in any court. If the criminal proceeding ends in a
+35 mistrial, the clerk shall either maintain the exhibit or return it to the law enforcement agency that
+36 investigated the criminal charges for safekeeping until the matter is set for retrial. If the criminal
+37 proceeding ends in an acquittal, the clerk shall return the exhibit to the law enforcement agency
+38 that investigated the criminal charges for either safekeeping or destruction.
+39 "Article 3.
+40 "Various Regulations.
+41 "§ 170-11. Generative artificial intelligence transparency disclosures.
+42 (a) Except as provided in subsection (b) of this section, when a person uses generative
+43 artificial intelligence to interact with an individual, the business or person shall disclose that the
+44 individual is interacting with Gen AI only if the individual asks whether the interaction involves
+45 generative artificial intelligence.
+46 (b) When generative artificial intelligence is utilized in the provision of services of a
+47 regulated occupation, a prominent mandatory disclosure must be clearly and conspicuously
+48 provided.
+49 (c) Regulated occupation professionals must disclose the use of Gen AI either verbally
+50 at the start of an exchange or conversation with a client or customer or through an electronic
+51 message before a written exchange.
+Page 8 DRH30161-LR-9A
+
+General Assembly Of North Carolina Session 2025
+1 (d) Violation of this section is a Class A misdemeanor. Each interaction with a consumer
+2 constitutes a potential separate violation.
+3 "Article 4.
+4 "Miscellaneous Provisions.
+5 "§ 170-12. Nonexclusive remedies.
+6 The remedies in this Chapter are nonexclusive. When an aggrieved person has multiple
+7 options for seeking relief, choosing an option provided by this Chapter does not prevent the
+8 person from pursuing other remedies. The aggrieved person may pursue multiple forms of relief
+9 allowed by law simultaneously or sequentially.
+10 "§ 170-13. Criminal liability for AI-assisted offenses.
+11 (a) A defendant is guilty of a criminal offense under this Chapter if the defendant
+12 commits the offense with the aid of generative artificial intelligence or intentionally prompts or
+13 otherwise causes generative artificial intelligence to commit the offense.
+14 (b) It is not a defense to the violation of any statute that generative artificial intelligence
+15 made the violative statement, undertook the violative act, or was used in furtherance of the
+16 violation.
+17 "§ 170-14. Statutory construction.
+18 (a) It is the intent of the General Assembly that the provisions of this Chapter be liberally
+19 construed in the best interest of the citizens of this State, especially minors and voters.
+20 (b) Nothing in this section shall be construed to conflict with or prohibit compliance with
+21 Title IX of the Education Amendments of 1972, as amended; the Americans with Disabilities
+22 Act, as amended; the Age Discrimination in Employment Act, as amended; Title VI of the Civil
+23 Rights Act of 1964; or other applicable State or federal law. This section does not apply to speech
+24 protected by the First Amendment of the United States Constitution.
+25 (c) If a provision of this Chapter or its application to any person or circumstance is held
+26 invalid, the invalidity does not affect other provisions or applications of the Act that can be given
+27 effect without the invalid provision or application and, to this end, the provisions of this Chapter
+28 are severable."
+29 SECTION 2. This act becomes effective December 1, 2025, and applies to acts or
+30 omissions occurring on or after that date.
+DRH30161-LR-9A Page 9
+
+[DELETED:  D A ( R  A A A T R T U O D A D A P T S " " " " " ( T S ( T ( A s o h o m p r o d ( C – A p t u a i t g s m u ( D o p a A d b P t a r p a f d u i w r ( D p a t t]
+[DELETED:  S  D ( D r t ( D a H l a a i t o f w o p l m b W o c R p d W c r v o l t c t t r p e I f W ( D u o a p T t i b i n l t c o a ( F d i f t i i o f i d w o o c t t i a t w c o a b d a C a p a t i b p o t d p w n o v t l t o c a i t g p a a o p f n b T p ( G a I b I c G w ( G a m b ( I o t ( M a E v o a i f r t a r p]
+[DELETED:  S  P b D i a s w f h t a o s t i s o c I d I c b g a i o w s m m i a m m o a a r ( R o – A o t i s t l o c ( S a ( S t ( S g ( S m – A i a r o v r o a i a s o c t h b c o i c ( S b " ( W o m o c ( A a c l g u a ( A v c t c s m s d t t d o e p o t c c s a " i b " s c " a d " s ( F e r b t a v t i n s t o t a i t v m a i t s l u o t]
+[DELETED:  S  D c m ( I w a c ( T ( A a ( A s ( T ( I p ( I i ( C " ( A b o i m d m a k o s k t i i m d ( F e r b t a v t i n s t o t a i t v m a i t s l u o t c m a M b M r c I d b a p o s i b n l t a w r p n w b b m d A ( F c o t a a i t a i g t t m i l i a a " ( A d a f d i v o t A m s i o o e ( A c w v o l a i m d m i v o t A m s r a f c a i r p v]
+[DELETED:  S  P w m A c i p ( I r r p ( T b ( A ( A c ( A h " T ( A r o t b s i a c o s t a B t n i t b c a t i c o a d l m b I a f ( A p o g c i a i o e p a b a ( M ( A " " " ( A A ( I p a p ( T p c o i v o e s p m p s]
+[DELETED:  S  D ( T v ( I p m r s o l i t c c a c o a l e t p c a r d c g c p b t d t d a o a i p " ( A f ( K t ( K d ( A i ( I p ( K t ( T ( D m i t p i i b n l t t r e ( I N ( T c ( A ( A ( A ( I ( T c ( T ( T ( I ( I v o t s o t s g d o i i ( A i j "]
+[DELETED:  S  P ( A d i w i i a w s h f a p i i r ( T ( T ( A n v a i ( I t i ( I ( T t d d o d i d f e d f ( A o ( P d i a a n t e t t t a o d T r ( A t t f ( I o b " ( A t ( I e ( I ( I I t p o s a s g h d o m o c ( D p " ( I m t]
+[DELETED:  S  D ( D c o p p a a d ( T p i ( T d a t s k m s t ( W i f a w i i a f d i m a a e i a c p e a s a S l ( I a f B c m i p t " " " ( E a i g ( W r o a p m d m b c a c p ( R a m]
+[DELETED:  S  P ( V c " " " T r i t C a n W a a p h m o p a " ( A d i g o a c o u t C i t d c o ( I m v " ( I c ( N T A R p ( I i e a S o]

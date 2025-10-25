@@ -1,0 +1,1474 @@
+Title: HOUSE BILL 958
+Official Title: HOUSE BILL 958
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+Committee Substitute Favorable 6/26/25
+Short Title: Election Law Changes. (Public)
+Sponsors:
+Referred to:
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES REGARDING ELECTION LAWS.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. REVISIONS TO BALLOT COUNTING PROCEDURE
+6 SECTION 1.1.(a) G.S. 163-182.2(a)(4) is recodified as G.S. 163-182.2(a2).
+7 SECTION 1.1.(b) G.S. 163-182.2(a)(6) is recodified as G.S. 163-182.2(a3).
+8 SECTION 1.1.(c) G.S. 163-182.2, as amended by S.L. 2024-57 and this section,
+9 reads as rewritten:
+10 "§ 163-182.2. Initial counting of official ballots.
+11 (a) The initial counting of official ballots cast at the precinct on election day and under
+12 Part 5 of Article 14A of this Chapter shall be conducted according to the following principles:
+13 (1) Vote counting of ballots cast at the precinct on election day shall occur
+14 immediately after the polls close and shall be continuous until completed. If
+15 ballots cast under Part 5 of Article 14A of this Chapter are counted
+16 electronically, that count shall commence at the time the polls close. If ballots
+17 cast under Part 5 of Article 14A of this Chapter are paper ballots counted
+18 manually, that count shall commence at the same time as mail-in absentee
+19 ballots cast under Article 20 or Article 21A of this Chapter are counted.
+20 (2) Vote counting at the precinct shall be conducted with the participation of
+21 precinct officials of all political parties then present. Vote counting at the
+22 county board of elections shall be conducted in the presence or under the
+23 supervision of board members of all political parties then present.
+24 (3) Any member of the public wishing to witness the vote count at any level shall
+25 be allowed to do so. No witness shall interfere with the orderly counting of
+26 the official ballots. Witnesses shall not participate in the official counting of
+27 official ballots.
+28 (4) Recodified.
+29 (5) Precinct officials shall provide a preliminary report of the vote counting on
+30 election day to the county board of elections as quickly as possible. The
+31 preliminary report shall be unofficial, has no binding effect upon the official
+32 county canvass to follow, and shall include the number of provisional ballots
+33 cast in that precinct.
+34 (6) Recodified.
+35 (a1) The initial counting of official ballots cast under Part 5 of Article 14A of this Chapter
+36 shall be conducted according to the following principles:
+*H958-v-2*
+General Assembly Of North Carolina Session 2025
+1 (1) Vote counting shall occur between the hours of 9:00 A.M. and 5:00 P.M. on
+2 election day at the hour and place stated in a resolution adopted by the county
+3 board at least two weeks prior to the time the voting place opens in accordance
+4 with G.S. 163-166.25. The county board shall not reveal the result of the count
+5 prior to the close of polls on election day.
+6 (2) Vote counting shall be conducted in the presence or under the supervision of
+7 county board members of all political parties then present.
+8 (3) Any member of the public wishing to witness the vote count shall be allowed
+9 to do so. No witness shall interfere with the orderly counting of the official
+10 ballots. Witnesses shall not participate in the official counting of official
+11 ballots.
+12 (a2) If the county board finds that an individual voting a provisional official ballot (i) was
+13 registered in the county as provided in 163-82.1, (ii) voted in the proper precinct under
+14 G.S. 163-55 and G.S. 163-57, and (iii) was otherwise eligible to vote, the provisional official
+15 ballots shall be counted by the county board no later than 5:00 P.M. on the third fifth business
+16 day after the election. County boards may review for approval any provisional official ballots
+17 cast under Part 5 of Article 14A of this Chapter and take preparatory steps for the count prior to
+18 election day, using the same procedures used for counting absentee ballots under G.S. 163-234(3)
+19 as long as the preparatory steps do not reveal the result of the count prior to the close of polls on
+20 election day. Except as provided in G.S. 163-82.15(e), if the county board finds that an individual
+21 voting a provisional official ballot (i) did not vote in the proper precinct under G.S. 163-55 and
+22 G.S. 163-57, (ii) is not registered in the county as provided in G.S. 163-82.1, or (iii) is otherwise
+23 not eligible to vote, the ballot shall not be counted. If a voter was properly registered to vote in
+24 the election by the county board, no mistake of an election official in giving the voter a ballot or
+25 in failing to comply with G.S. 163-82.15 or G.S. 163-166.11 shall serve to prevent the counting
+26 of the vote on any ballot item the voter was eligible by registration and qualified by residency to
+27 vote. When an individual has voted a provisional official ballot after completing an affidavit
+28 under G.S. 163-166.16(d), and the county board has not found the affidavit to be valid within
+29 five business days after the election because the county board has grounds to believe the affidavit
+30 is false, the county board shall determine whether to count the provisional official ballot by the
+31 date of the county canvass.
+32 (a3) In counties that use any certified mechanical or electronic voting system, subject to
+33 the sample counts under G.S. 163-182.1 and subdivision (2) of subsection (b) of this section, and
+34 of a hand-to-eye recount under G.S. 163-182.7 and G.S. 163-182.7A, a county board of elections
+35 shall rely in its canvass on the mechanical or electronic count of the vote rather than the full
+36 hand-to-eye count of the paper ballots or records. In the event of a material discrepancy between
+37 the electronic or mechanical count and a hand-to-eye count or recount, the hand-to-eye count or
+38 recount shall control, except where paper ballots or records have been lost or destroyed or where
+39 there is another reasonable basis to conclude that the hand-to-eye count is not the true count.
+40 (a4) Any resolution required by this section shall be published once a week for two weeks
+41 prior to the election, in a newspaper having general circulation in the county. Notice may
+42 additionally be made on a radio or television station or both, but the notice shall be in addition to
+43 the newspaper and other required notice.
+44 (b) The State Board shall promulgate rules for the initial counting of all official ballots.
+45 All election officials shall be governed by those rules. In promulgating those rules, the State
+46 Board shall adhere to the following guidelines:
+47 (1) For each voting system used, the rules shall specify the role of precinct
+48 officials and of the county board of elections in the initial counting of official
+49 ballots.
+50 (2) For optical scan and direct record electronic voting systems, and for any other
+51 voting systems in which ballots are counted other than on paper by hand and
+Page 2 House Bill 958-Second Edition
+General Assembly Of North Carolina Session 2025
+1 eye, those rules shall provide for a sample hand-to-eye count of the paper
+2 ballots of a sampling of a statewide ballot item in every county. The
+3 presidential ballot item shall be the subject of the sampling in a presidential
+4 election. If there is no statewide ballot item, the State Board shall provide a
+5 process for selecting district or local ballot items to adequately sample the
+6 electorate. The State Board shall approve in an open meeting the procedure
+7 for random sampling for each election. The random sampling for any county
+8 shall be done publicly after the initial count of election returns for that county
+9 is publicly released or 24 hours after the polls close on election day, whichever
+10 is earlier. The sample chosen by the State Board shall be of one or more full
+11 precincts, full counts of mailed absentee ballots, and full counts of one or more
+12 early voting sites. The size of the sample of each category shall be chosen to
+13 produce a statistically significant result and shall be chosen after consultation
+14 with a statistician. The actual units shall be chosen at random. In the event of
+15 a material discrepancy between the electronic or mechanical count and a
+16 hand-to-eye count, the hand-to-eye count shall control, except where paper
+17 ballots have been lost or destroyed or where there is another reasonable basis
+18 to conclude that the hand-to-eye count is not the true count. If the discrepancy
+19 between the hand-to-eye count and the mechanical or electronic count is
+20 significant, a complete hand-to-eye count shall be conducted. The sample
+21 count need not be done on election night.
+22 (3) The rules shall provide for accurate unofficial reporting of the results from the
+23 precinct to the county board of elections with reasonable speed on the night
+24 of the election.
+25 (4) The rules shall provide for the prompt and secure transmission of official
+26 ballots from the voting place to the county board of elections.board.
+27 (c) The State Board shall direct the county boards of elections in the application of the
+28 principles and rules in individual circumstances."
+29 SECTION 1.2. G.S. 163-230.1(e1), as amended by S.L. 2024-57, reads as rewritten:
+30 "(e1) Curable Deficiencies. – If a container-return envelope contains a curable deficiency,
+31 the county board shall promptly notify the voter of the deficiency and the manner in which the
+32 voter may cure the deficiency. Curable deficiencies are deficiencies that can be cured with
+33 supplemental documentation or attestation provided by the voter, including when any of the
+34 following occurs:
+35 (1) The voter did not sign the voter certification as required by
+36 G.S. 163-231(a)(4).
+37 (2) The voter signed the application in the wrong place on the application.
+38 (3) The voter failed to include with the container-return envelope a photocopy of
+39 identification described in G.S. 163-166.16(a) or an affidavit as described in
+40 G.S. 163-166.16(d)(1), (d)(2), or (d)(3), as required by subsection (f1) of this
+41 section.
+42 The identification of the two persons witnessing the casting of the absentee ballot in
+43 accordance with G.S. 163-231(a) is not a curable deficiency. Any container-return envelope with
+44 a curable deficiency that is transmitted to the county board shall be considered timely if cure
+45 documentation is received no later than 12:00 P.M. on the third fifth business day after the
+46 election. Cure documentation may be transmitted via email to the county board if the deficiency
+47 is one described in subdivision (3) of this subsection. The notification of voters regarding curable
+48 deficiencies is an administrative task that may be performed by county board staff and is not
+49 required to be performed at an absentee meeting as provided for in subsection (f) of this section.
+50 The voter shall be notified of curable deficiencies by mail, and by telephone or email if the
+House Bill 958-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 telephone number or email address was provided by the voter on the request form for absentee
+2 ballots."
+3 SECTION 1.3. G.S. 163-231 is amended by adding a new subsection to read:
+4 "(d) Counting of Executed Absentee Ballots. – Only those voted absentee ballots
+5 transmitted to a county board in accordance with this section shall be counted."
+6 SECTION 1.4. G.S. 163-234, as amended by S.L. 2024-57, reads as rewritten:
+7 "§ 163-234. Counting absentee ballots by county board.
+8 All absentee ballots returned to the county board in the container-return envelopes shall be
+9 retained by the county board to be counted by the county board as follows:
+10 …
+11 (2) The county board shall meet at 5:00 P.M. on election day in the county board
+12 office or other public location in the county courthouse for the purpose of
+13 counting all absentee ballots except those which have been challenged before
+14 5:00 P.M. on election day and those received pursuant to G.S. 163-231(b)(2).
+15 Any elector of the county shall be permitted to attend the meeting and allowed
+16 to observe the counting process, so long as the elector does not in any manner
+17 interfere with the election officials in the discharge of their duties. The count
+18 of these absentee ballots shall be continuous until completed, and the members
+19 shall not separate or leave the counting place except for unavoidable
+20 necessity.The county board shall not adjourn the meeting until the count of
+21 these absentee ballots is complete.
+22 The county board may begin counting absentee ballots issued under
+23 Article 21A of this Chapter between the hours of 9:00 A.M. and 5:00 P.M.
+24 and may begin counting all absentee ballots between the hours of 2:00 P.M.
+25 and 5:00 P.M. upon the adoption of a resolution at least two weeks prior to the
+26 election in which the hour and place of counting absentee ballots shall be
+27 stated. A copy of the resolution shall be published once a week for two weeks
+28 prior to the election, in a newspaper having general circulation in the county.
+29 Notice may additionally be made on a radio or television station or both, but
+30 the notice shall be in addition to the newspaper and other required notice. The
+31 count shall be continuous until completed and the members shall not separate
+32 or leave the counting place except for unavoidable necessity, The county
+33 board shall not adjourn the meeting until the count of these absentee ballots is
+34 complete, except that if the count has been completed prior to the time the
+35 polls close, it shall be suspended until that time pending receipt of any
+36 additional ballots. Nothing in this section prohibits a county board from taking
+37 preparatory steps for the count earlier than the times specified in this section,
+38 as long as the preparatory steps do not reveal to any individual not engaged in
+39 the actual count election results before the times specified in this subdivision
+40 for the count to begin. By way of illustration and not limitation, a preparatory
+41 step for the count would be the entry of tally cards from direct record
+42 electronic voting units into a computer for processing. The county board shall
+43 not announce the result of the count before 7:30 P.M.prior to the close of polls
+44 on election day.
+45 …
+46 (11) The county board shall meet after the day of the election and prior to the day
+47 of canvass to count absentee ballots received pursuant to G.S. 163-231(b)(2)
+48 and absentee ballots that have deficiencies that have been cured pursuant to
+49 G.S. 163-230.1(e1) upon the adoption of a resolution pursuant to subdivision
+50 (2) of this section. The county board shall comply with all other requirements
+51 of this section and G.S. 163-230.1 for the counting of these absentee ballots.
+Page 4 House Bill 958-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (12) No later than 5:00 P.M. on the third fifth business day after the election, the
+2 county board shall announce the tally of all absentee ballots, except those
+3 subject to a challenge challenge, those for which a final decision on a curable
+4 deficiency remains pending, or those cast in accordance with Article 21A of
+5 this Chapter."
+6 SECTION 1.5. G.S. 163-275 is amended by adding a new subdivision to read:
+7 "(15) For any person to reveal the result of any count of ballots prior to the close of
+8 polls on election day in accordance with G.S. 163-182.2 or G.S. 163-234."
+9 SECTION 1.6. Section 1.5 of this Part becomes effective December 1, 2025, and
+10 applies to offenses committed on or after that date. The remainder of this Part becomes effective
+11 January 1, 2026, and applies to elections held on or after that date.
+12
+13 PART II. VARIOUS ELECTION ADMINISTRATION CHANGES
+14
+15 PARTY DESIGNATIONS ON BALLOT
+16 SECTION 2.1.(a) G.S. 163-165.5(a)(4) reads as rewritten:
+17 "(4) Party designations in partisan ballot items. Party designations shall be printed
+18 in the same font type and size as the name of the candidate."
+19 SECTION 2.1.(b) This section becomes effective January 1, 2026, and applies to
+20 elections held on or after that date.
+21
+22 REMOVAL AND TRAINING OF PRECINCT OFFICIALS
+23 SECTION 2.2.(a) Article 5 of Chapter 163 of the General Statutes is amended by
+24 adding a new section to read:
+25 "§ 163-41.3. Removal of precinct officials; vacancies."
+26 SECTION 2.2.(b) G.S. 163-41(d) is recodified as G.S. 163-41.3.
+27 SECTION 2.2.(c) G.S. 163-41, as amended by this section, reads as rewritten:
+28 "§ 163-41. Precinct chief judges and judges of election; appointment; terms of office;
+29 qualifications; vacancies; oaths of office.
+30 (a) Appointment of Chief Judge and Judges. – At the meeting required by G.S. 163-31 to
+31 be held on the Tuesday following the third Monday in August of the year in which they are
+32 appointed, the county board of elections shall appoint one person to act as chief judge and two
+33 other persons to act as judges of election for each precinct in the county. Their terms of office
+34 shall continue for two years from the specified date of appointment and until their successors are
+35 appointed and qualified, except that if a nonresident of the precinct is appointed as chief judge
+36 or judge for a precinct, that person's term of office shall end if the county board of elections
+37 appoints a qualified resident of the precinct of the same party to replace the nonresident chief
+38 judge or judge. It shall be their the duty of the precinct officials to conduct the primaries and
+39 elections within their respective precincts. Persons appointed to these offices must be registered
+40 voters and residents of the county in which the precinct is located, of good repute, and able to
+41 read and write. Not more than one judge in each precinct shall belong to the same political party
+42 as the chief judge.
+43 (b) The As used in this Article, the term "precinct official" shall mean chief judges and
+44 judges appointed pursuant to this section, and all assistants appointed pursuant to G.S. 163-42,
+45 unless the context of a statute clearly indicates a more restrictive meaning.
+46 (b1) No person shall be eligible to serve as a precinct official, as that term is defined above,
+47 who holds official if any of the following apply:
+48 (1) The person holds any elective office under the government of the United
+49 States, or of the State of North Carolina or any political subdivision thereof.
+50 (2) No person shall be eligible to serve as a precinct official who is The person is
+51 a candidate for nomination or election.
+House Bill 958-Second Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (3) No person shall be eligible to serve as a precinct official who holds The person
+2 holds any office in a state, congressional district, county, or precinct political
+3 party or political organization, or who is a manager or treasurer for any
+4 candidate or political party, provided however that the position of delegate to
+5 a political party convention shall not be considered an office for the purpose
+6 of this subsection.subdivision.
+7 (4) The person has been prohibited from serving as a precinct official in any
+8 subsequent election in accordance with G.S. 163-41.3(a).
+9 …."
+10 SECTION 2.2.(d) G.S. 163-41.3, as enacted by this section, reads as rewritten:
+11 "§ 163-41.3. Removal of precinct officials; filling vacancies.
+12 (a) Any precinct official may be removed from office, including on the day of the election
+13 or primary, for incompetency or failure to discharge the duties of office by the county board in
+14 accordance with G.S. 163-33. The county board may prohibit a precinct official who has been
+15 removed from office from serving as a precinct official in any subsequent election.
+16 (b)
+17 …."
+18 SECTION 2.2.(e) G.S. 163-33(2) reads as rewritten:
+19 "(2) To appoint all chief judges, judges, assistants, and other officers of elections,
+20 and designate the precinct in which each shall serve; and, after notice and
+21 hearing, to remove any chief judge, judge of elections, assistant, or other
+22 officer of election appointed by it for incompetency, failure to discharge the
+23 duties of office, failure to qualify within the time prescribed by law, fraud, or
+24 for any other satisfactory cause. cause, as provided in G.S. 163-41.3. In
+25 exercising the powers and duties of this subdivision, the board may act only
+26 when a majority of its members are present at any meeting at which such
+27 powers or duties are exercised."
+28 SECTION 2.2.(f) G.S. 163-42(c) reads as rewritten:
+29 "(c) In addition, a county board of elections by unanimous vote of all of its members may
+30 appoint any registered voter in the county as an emergency election-day assistant, as long as that
+31 voter is otherwise qualified to be a precinct official. The State Board of Elections shall determine
+32 for each election the number of emergency election-day assistants each county may have, based
+33 on population, expected turnout, and complexity of election duties. duties; however, each county
+34 must have, at a minimum, six emergency election-day assistants. The county board by unanimous
+35 vote of all of its members may assign emergency election-day assistants on the day of the election
+36 to any precinct in the county where the number of precinct officials is insufficient because of an
+37 emergency occurring within 48 hours of the opening of the polls emergency, the removal of a
+38 precinct official, or any other reason that prevents an appointed a precinct official from serving.
+39 serving throughout the day of the primary or election. A person appointed to serve as an
+40 emergency election-day assistant shall be trained and paid like other precinct assistants in
+41 accordance with G.S. 163-46. A county board of elections shall apportion the appointments as of
+42 emergency election-day assistant assistants among registrants of each political party so as to
+43 make possible the staffing of each precinct with officials of more than one party, and the county
+44 board shall make assignments so that no precinct has precinct officials assistants all of whom are
+45 registered with the same party."
+46 SECTION 2.2.(g) G.S. 163-82.24(a) reads as rewritten:
+47 "(a) Training. – The State Board of Elections shall conduct training programs in election
+48 law and procedures. Every county elections director shall receive training conducted by the State
+49 Board at least as often as required in the following schedule:
+50 (1) Once during each odd-numbered year before the municipal election held in
+51 the county;county.
+Page 6 House Bill 958-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (2) Once during each even-numbered year before the first partisan primary;
+2 andprimary.
+3 (3) Once during each even-numbered year after the partisan primaries but before
+4 the general election.
+5 (a1) Every member of a county board of elections shall receive training conducted by the
+6 State Board at least once during the six months after the member's initial appointment and at least
+7 once again during the first two years of the member's service. The State Board of Elections shall
+8 promulgate rules for the training of precinct officials, which shall be followed by the county
+9 boards of elections.boards. At a minimum, the training for all precinct officials shall include
+10 information regarding all of the following:
+11 (1) The duties of the office of precinct official.
+12 (2) How to confirm whether a person presenting to vote is registered in that
+13 county.
+14 (3) How to issue ballots.
+15 (4) How to properly provide voter assistance, including how to provide assistance
+16 to those curbside voting.
+17 (5) The procedure for opening and closing of polls.
+18 (6) The prohibition regarding election-related activity in the voting place and
+19 buffer zone of the voting place.
+20 (7) The potential for removal from office for failure to comply with the provisions
+21 of this Chapter."
+22 SECTION 2.2.(h) This section becomes effective January 1, 2026, and applies to
+23 elections held on or after that date.
+24
+25 COUNTING OF CHALLENGED BALLOT OF DECEASED VOTER
+26 SECTION 2.3.(a) G.S. 163-90.2(a) reads as rewritten:
+27 "(a) When any challenge is sustained for any cause listed under G.S. 163-85(c), the county
+28 board shall cancel or correct the voter registration of the voter. The county board shall maintain
+29 such record for at least six months and during the pendency of any appeal. The Except as provided
+30 in this subsection, the challenged ballot shall be counted for any ballot items for which the
+31 challenged voter is eligible to vote, as if it were a provisional official ballot under the provisions
+32 of G.S. 163-166.11(4). For any challenge sustained for death of the voter under
+33 G.S. 163-85(c)(6), the challenged ballot shall not be counted if the voter died between the time
+34 the challenged ballot was cast and 6:30 A.M. on election day."
+35 SECTION 2.3.(b) This section becomes effective January 1, 2026, and applies to
+36 elections held on or after that date.
+37
+38 DISORDERLY CONDUCT AT VOTING PLACE
+39 SECTION 2.4.(a) G.S. 14-132 reads as rewritten:
+40 "§ 14-132. Disorderly conduct in and injuries to public buildings and facilities.
+41 (a) It is a misdemeanor if for any person shall:to do any of the following:
+42 (1) Make any rude or riotous noise, or be guilty of engage in any disorderly
+43 conduct, in or near any public building or facility; orfacility.
+44 (2) Unlawfully write or scribble on, mark, deface, besmear, or injure the walls of
+45 any public building or facility, or any statue or monument situated in any
+46 public place; orplace.
+47 (3) Commit any nuisance in or near any public building or facility.
+48 (b) Any person in charge of any public building or facility owned or controlled by the
+49 State, any subdivision of the State, or any other public agency shall have authority to arrest
+50 summarily and without warrant for a violation of this section.
+House Bill 958-Second Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (c) The term "public building or facility" as used in this section includes any building or
+2 facility together with the surrounding grounds and premises used in connection with the operation
+3 or functioning of such public building or facility which is:is any of the following:
+4 (1) One to which the public or a portion of the public has access and is owned or
+5 controlled by the State, any subdivision of the State, any other public agency,
+6 or any private institution or agency of a charitable, educational, or
+7 eleemosynary nature; orphilanthropic nature.
+8 (2) Dedicated to the use of the general public for a purpose which is primarily
+9 concerned with public recreation, cultural activities, and other events of a
+10 public nature or character.
+11 (3) Designated by the Director of the State Bureau of Investigation in accordance
+12 with G.S. 143B-987.
+13 (4) One temporarily in use as a voting place under Chapter 163 of the General
+14 Statutes during the hours for voting.
+15 The term "building or facility" as used in this section also includes the surrounding grounds and
+16 premises of any building or facility used in connection with the operation or functioning of such
+17 building or facility.
+18 (d) Unless the conduct is covered under some other provision of law providing greater
+19 punishment, any person who violates any provision of this section is guilty of a Class 2
+20 misdemeanor."
+21 SECTION 2.4.(b) G.S. 163-166.4(b) reads as rewritten:
+22 "(b) Area for Election-Related Activity. – Except as provided in subsection (c) of this
+23 section, the county board of elections shall also provide an area adjacent to the buffer zone for
+24 each voting place in which persons or groups of persons may distribute campaign literature, place
+25 political advertising, solicit votes, or otherwise engage in election-related activity. It shall be a
+26 Class 3 misdemeanor for a person to steal, deface, vandalize, or unlawfully remove political
+27 advertising that is lawfully placed under this subsection."
+28 SECTION 2.4.(c) This section becomes effective October 1, 2025, and applies to
+29 offenses committed on or after that date.
+30
+31 BAN RANK CHOICE VOTING
+32 SECTION 2.5.(a) Article 14A of Chapter 163 of the General Statutes is amended by
+33 adding a new section to read:
+34 "§ 163-165.6A. Rank choice voting prohibited.
+35 No rank choice voting may be used in any referendum, primary, or other election. The term
+36 "rank choice voting" refers to a method that allows a voter the option to rank candidates for office
+37 in the voter's order of preference."
+38 SECTION 2.5.(b) This section becomes effective January 1, 2026, and applies to
+39 elections held on or after that date.
+40
+41 REQUIRE RETURN TO SENDER ON VOTER REGISTRATION MAILINGS
+42 SECTION 2.6.(a) G.S. 163-82.7 is amended by adding a new subsection to read:
+43 "(h) Return to Sender Requirement on Notices. – All notices sent to applicants pursuant
+44 to this section shall include a location on the notice which can be marked to indicate that the
+45 applicant does not reside at the address given by the applicant and that the notice should be
+46 returned to the appropriate sender."
+47 SECTION 2.6.(b) G.S. 163-82.14(d)(2) is amended by adding a new
+48 sub-subdivision to read:
+49 "d. Contains a location which can be marked to indicate that the registrant
+50 does not reside at the address given by the registrant and that the
+51 mailing should be returned to the appropriate sender."
+Page 8 House Bill 958-Second Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.6.(c) This section becomes effective January 1, 2026, and applies to
+2 elections held on or after that date.
+3
+4 CLOSING OF EQUIPMENT FOLLOWING EARLY VOTING
+5 SECTION 2.7.(a) G.S. 163-166.40 is amended by adding a new subsection to read:
+6 "(j) At the conclusion of the early voting period provided for in subsection (b) of this
+7 section, any materials containing the vote count and any voting equipment used during the early
+8 voting period shall be kept secure in a locked location by the county board until the initial
+9 counting of early voting ballots in accordance with G.S. 163-182.2(a1)."
+10 SECTION 2.7.(b) This section becomes effective January 1, 2026, and applies to
+11 elections held on or after that date.
+12
+13 PART III. ROLE & DUTY OF THE STATE BOARD OF ELECTIONS & COUNTY
+14 BOARDS OF ELECTIONS
+15
+16 ROLE OF STATE BOARD AND COUNTY BOARDS IN VOTER TURNOUT
+17 SECTION 3.1.(a) G.S. 163-19(g) reads as rewritten:
+18 "(g) No person while serving on the State Board shall:shall do any of the following:
+19 (1) Make a reportable contribution to a candidate for a public office over which
+20 the State Board would have jurisdiction or authority.
+21 (2) Register as a lobbyist under Chapter 120C of the General Statutes.
+22 (3) Make written or oral statements intended for general distribution or
+23 dissemination to the public at large supporting or opposing the nomination or
+24 election of one or more clearly identified candidates for public office.office,
+25 supporting any political party over another, or influencing voter turnout for a
+26 particular political party.
+27 (4) Make written or oral statements intended for general distribution or
+28 dissemination to the public at large supporting or opposing the passage of one
+29 or more clearly identified referendum or ballot issue proposals.
+30 (5) Solicit contributions for a candidate, political committee, or referendum
+31 committee.
+32 (6) Serve as a member of any other State board, as defined in G.S. 138A-3.
+33 (7) Make written or oral statements intended for general distribution or
+34 dissemination to the public at large encouraging or promoting voter turnout in
+35 any election."
+36 SECTION 3.1.(b) G.S. 163-30 is amended by adding a new subsection to read:
+37 "(g) No person while serving on a county board shall do any of the following:
+38 (1) Make written or oral statements intended for general distribution or
+39 dissemination to the public at large supporting or opposing the nomination or
+40 election of one or more clearly identified candidates for public office,
+41 supporting any political party over another, or influencing voter turnout for a
+42 particular political party.
+43 (2) Make written or oral statements intended for general distribution or
+44 dissemination to the public at large supporting or opposing the passage of one
+45 or more clearly identified referendum or ballot issue proposals.
+46 (3) Make written or oral statements intended for general distribution or
+47 dissemination to the public at large encouraging or promoting voter turnout in
+48 any election."
+49 SECTION 3.1.(c) This section becomes effective January 1, 2026, and applies to
+50 elections held on or after that date.
+51
+House Bill 958-Second Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 AUTHORITY IN ELECTION LITIGATION
+2 SECTION 3.2.(a) G.S. 163-25 reads as rewritten:
+3 "§ 163-25. Authority of State Board to assist in litigation.
+4 (a) The State Board shall possess authority to assist any county board of elections in any
+5 matter in which litigation is contemplated or has been initiated, provided, the in accordance with
+6 all of the following:
+7 (1) The county board of elections in such county petitions, requests, by majority
+8 resolution, for such assistance from the State Board and, provided further, that
+9 the Board.
+10 (2) The State Board determines, in its sole discretion by majority vote, to assist in
+11 any such the matter.
+12 (3) It is further stipulated that the The State Board shall does not be authorized
+13 under this provision to enter into any litigation in assistance to counties, any
+14 county board or county boards except in those instances where the uniform
+15 administration of this Chapter has been, or would be threatened.
+16 (b) The Attorney General shall provide the State Board with legal assistance in execution
+17 of its authority under this section or, in the Attorney General's discretion, recommend that may
+18 employ staff counsel or retain private counsel be employed.to provide legal services. Private
+19 counsel may be retained for any of the following matters:
+20 (1) Any matter in which litigation is contemplated or has been initiated.
+21 (2) Any matter in which the State Board is assisting in litigation in accordance
+22 with subsection (a) of this section.
+23 (3) Any matter arising in connection with the State Board's actions under this
+24 Chapter.
+25 (4) Any matter arising in connection with the Executive Director's actions under
+26 this Chapter.
+27 (c) If the Attorney General recommends employment State Board determines retention
+28 of private counsel, counsel is necessary, the State Board may employ counsel with the approval
+29 of the General Assembly.use funds available to the State Board to retain private counsel under
+30 this section. The State Board shall supervise and manage counsel retained under this section.
+31 (d) G.S. 114-2.3 and G.S. 147-17 shall not apply to counsel employed or retained under
+32 this section.
+33 (e) All communications or documents made or used in connection with the provision of
+34 legal services by counsel employed or retained under this section are not "public records" as
+35 defined by G.S. 132-1 and shall not be open to public inspection, examination, or copying."
+36 SECTION 3.2.(b) This section is effective when it becomes law and applies to
+37 litigation existing on or after that date.
+38
+39 DESIGNATION OF EXEMPT POSITIONS at the state board OF ELECTIONS
+40 SECTION 3.3.(a) G.S. 126-5(c1) is amended by adding the following new
+41 subdivisions to read:
+42 "(42) The Executive Director of the State Board of Elections.
+43 (43) Employees of the State Board of Elections, that the Executive Director of the
+44 State Board of Elections, at any time, in the Executive Director of the State
+45 Board of Elections' discretion, exempts from the application of this Chapter
+46 by means of a letter to the Director of the Office of State Human Resources
+47 designating these employees. The Executive Director of the State Board of
+48 Elections may exempt no more than 25 employees under the authorization set
+49 forth in this subdivision. Any exemptions under this subdivision shall not
+50 affect, or be counted against, the number of exempt positions the Auditor may
+51 designate in accordance with subdivision (2) of subsection (d) of this section."
+Page 10 House Bill 958-Second Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.3.(b) G.S. 126-5(d)(2) reads as rewritten:
+2 "(2) Exempt Positions in Council of State Departments and Offices and the Office
+3 of the State Controller. – The Secretary of State, the Auditor, the Treasurer,
+4 the Attorney General, the Superintendent of Public Instruction, the
+5 Commissioner of Agriculture, the Commissioner of Insurance, the Labor
+6 Commissioner, and the State Controller may designate exempt positions. The
+7 number of exempt policymaking positions in each department headed by an
+8 elected department head listed in this subdivision is limited to 25 exempt
+9 policymaking positions or two percent (2%) of the total number of full-time
+10 positions in the department, whichever is greater. The total number of
+11 full-time positions in the Department of the State Auditor shall not include
+12 employees of the State Board of Elections. The number of exempt managerial
+13 positions is limited to 25 positions or two percent (2%) of the total number of
+14 full-time positions in the department, whichever is greater. The number of
+15 exempt policymaking positions designated by the Superintendent of Public
+16 Instruction is limited to 70 exempt policymaking positions or two percent
+17 (2%) of the total number of full-time positions in the department, whichever
+18 is greater. The number of exempt managerial positions designated by the
+19 Superintendent of Public Instruction is limited to 70 exempt managerial
+20 positions or two percent (2%) of the total number of full-time positions in the
+21 department, whichever is greater. The total number of exempt positions,
+22 policymaking and managerial, designated by the Office of the State Controller
+23 is limited to 10."
+24
+25 PART IV. REVISIONS TO UNIFORM MILITARY AND OVERSEAS VOTERS ACT
+26
+27 PHOTO ID REQUIRED FOR UOCAVA VOTERS
+28 SECTION 4.1.(a) G.S. 163-258.10 reads as rewritten:
+29 "§ 163-258.10. Timely casting Casting of ballot.
+30 (a) To be valid, a military-overseas ballot shall either be received by the appropriate
+31 county board of elections no later than the close of the polls, or the covered voter shall submit
+32 the ballot for mailing, electronic transmission, or other authorized means of delivery not later
+33 than 12:01 A.M., at the place where the voter completes the ballot, on the date of the election.
+34 (b) The covered voter shall submit the military-overseas ballot with a form of
+35 identification that contains a photograph of the covered voter as described in G.S. 163-166.16(a)
+36 or an affidavit as described in G.S. 163-166.16(d)(1), (d)(2), or (d)(3). The State Board shall
+37 provide the means for any identification electronically submitted in accordance with this
+38 subsection to be submitted in a secure manner."
+39 SECTION 4.1.(b) This section becomes effective January 1, 2026, and applies to
+40 elections held on or after that date.
+41
+42 PART V. CAMPAIGN FINANCE REVISIONS
+43 SECTION 5.1.(a) G.S. 163-278.9 reads as rewritten:
+44 "§ 163-278.9. Statements filed with Board.
+45 (a) Except as provided in G.S. 163-278.10A, the treasurer of each candidate and of each
+46 political committee shall file with the Board under certification of the treasurer as true and correct
+47 to the best of the knowledge of that officer the following reports:
+48 …
+49 (2) 48-Hour Report. – A political committee, political party or affiliated party
+50 committee that receives a contribution or transfer of funds shall disclose
+51 within 48 hours of receipt a contribution or transfer of one two thousand
+House Bill 958-Second Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 dollars ($1,000) ($2,000) or more received before an election but after the
+2 period covered by the last report due before that election. The disclosure shall
+3 be by report to the State Board identifying the source and amount of the funds.
+4 The State Board shall specify the form and manner of making the report,
+5 including the reporting of in-kind contributions. The State Board shall
+6 increase the dollar amount of the reporting threshold effective each election
+7 cycle beginning the period from January 1 of an odd-numbered year through
+8 December 31 of the next even-numbered year based on the Consumer Price
+9 Index as provided in G.S. 163-278.13(b). The State Board shall set the revised
+10 threshold in October of the even-numbered year, publish the revised threshold
+11 in the North Carolina Register, and notify the Revisor of Statutes who shall
+12 adjust the dollar amount in this subdivision.
+13 …
+14 (a1) Subdivision (a)(2) of this section shall not apply to any candidate campaign
+15 committee, as defined by G.S. 163-278.38Z, in a primary election in which the candidate is
+16 unopposed on that ballot.
+17 …."
+18 SECTION 5.1.(b) G.S. 163-278.9A reads as rewritten:
+19 "§ 163-278.9A. Statements filed by referendum committees.
+20 (a) The treasurer of each referendum committee shall file under verification with the
+21 Board the following reports:
+22 …
+23 (3) 48-Hour Report. – A referendum committee that receives a contribution or
+24 transfer of funds shall disclose within 48 hours of receipt a contribution or
+25 transfer of one two thousand dollars ($1,000) ($2,000) or more received before
+26 a referendum but after the period covered by the last report due before that
+27 referendum. The disclosure shall be by report to the State Board of Elections
+28 identifying the source and amount of such funds. The State Board of Elections
+29 shall specify the form and manner of making the report, including the
+30 reporting of in-kind contributions. The State Board shall increase the dollar
+31 amount of the reporting threshold effective each election cycle beginning the
+32 period from January 1 of an odd-numbered year through December 31 of the
+33 next even-numbered year based on the Consumer Price Index as provided in
+34 G.S. 163-278.13(b). The State Board shall set the revised threshold in October
+35 of the even-numbered year, publish the revised threshold in the North Carolina
+36 Register, and notify the Revisor of Statutes who shall adjust the dollar amount
+37 in this subdivision.
+38 …."
+39 SECTION 5.1.(c) No earlier than October 1, 2025, the State Board of Elections shall
+40 adjust the thresholds imposed by G.S. 163-278.9(a)(2) and G.S. 163-278.9A(a)(3), as enacted by
+41 this section, effective for the election cycle beginning January 1, 2027.
+42
+43 CONTRIBUTIONS BY FOREIGN NATIONALS IN REFERENDA
+44 SECTION 5.2.(a) G.S. 163-278.6 is amended by adding a new subdivision to read:
+45 "(52) The term "foreign national" means any of the following:
+46 a. An individual who is not a citizen or lawful permanent resident of the
+47 United States.
+48 b. A government of a foreign country, or any political subdivision
+49 thereof.
+50 c. A foreign political party.
+Page 12 House Bill 958-Second Edition
+General Assembly Of North Carolina Session 2025
+1 d. Any business entity that is organized under the law of, or has its
+2 principal place of business in, a foreign country.
+3 e. Any business entity organized and operating in the United States that
+4 is wholly or majority owned by a foreign national or combination of
+5 foreign nationals."
+6 SECTION 5.2.(b) Article 22A of Chapter 163 of the General Statutes is amended
+7 by adding a new section to read:
+8 "§ 163-278.19C. Contributions by foreign nationals.
+9 (a) A referendum committee shall not accept any contributions from a foreign national,
+10 except as provided in this section.
+11 (b) A referendum committee may accept a contribution from a foreign national as defined
+12 in G.S. 163-278.6(52)e. if all of the following are met:
+13 (1) The contribution is derived solely from funds generated by operations in the
+14 United States.
+15 (2) All decisions concerning the contribution are made by an individual or group
+16 of individuals who are citizens or lawful permanent residents of the United
+17 States."
+18 SECTION 5.2.(c) This section becomes effective January 1, 2026, and applies to
+19 contributions made or accepted on or after that date.
+20
+21 PART VI. SIGNATURE VERIFICATION PILOT PROGRAM
+22 SECTION 6.(a) The State Board of Elections shall select 10 counties in the State in
+23 which to conduct a pilot program during the primary held in 2026 for signature verification on
+24 executed absentee ballots. In selecting the 10 counties for the pilot, the State Board of Elections
+25 shall seek diversity of population size, regional location, and demographic composition, and may
+26 use the same 10 counties that were selected for the pilot program in accordance with S.L.
+27 2023-140. The pilot program shall consist of county boards of elections using signature
+28 verification software to check the signatures of voters noted on all executed absentee ballots
+29 received by the county boards of elections in the 2026 primary. The State Board of Elections
+30 shall select the signature verification software and ensure that the software is available for all 10
+31 counties to use in the 2026 primary. The State Board of Elections shall assist the selected county
+32 boards of elections in implementing the signature verification software, including assisting the
+33 selected county boards of elections in any training needed on how the software is to be used for
+34 signature matching on executed absentee ballots.
+35 SECTION 6.(b) The State Board of Elections shall closely monitor the pilot program
+36 established in this section. The selected county boards of elections shall report to the State Board
+37 of Elections its findings on the use of the signature verification software during the 2026 primary,
+38 including all of the following:
+39 (1) Whether the signature verification software was used for all executed absentee
+40 ballots, and what the voter signature on the executed absentee ballot was
+41 matched against.
+42 (2) How many executed absentee ballots were counted by the county board of
+43 elections in the 2026 primary.
+44 (3) How many executed absentee ballots were flagged by the signature
+45 verification software, and any information known on how close of a match the
+46 signatures must be for the signature match software to not flag the voter's
+47 signature.
+48 (4) Information on how the signature matching software flagged an executed
+49 absentee ballot with a signature that did not match the signature on file for the
+50 voter, including any known information on the rate of error in the software.
+House Bill 958-Second Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.(c) In implementing the pilot program established in this section, no
+2 executed absentee ballot shall be rejected by the county board of elections for failing any
+3 signature verification. All executed absentee ballots that are otherwise eligible to be counted in
+4 accordance with Chapter 163 of the General Statutes shall be counted.
+5 SECTION 6.(d) The State Board of Elections shall report its findings, along with
+6 any recommendations, to the General Assembly on or before May 1, 2026. The report shall be
+7 delivered to the Joint Legislative Elections Oversight Committee and shall also include the
+8 following:
+9 (1) A compilation of the information reported from the selected county boards of
+10 elections as required by subsection (b) of this section.
+11 (2) The estimated cost to implement signature verification for absentee ballots
+12 statewide.
+13 (3) Any suggested law changes to fully implement signature verification
+14 statewide for absentee ballots, including suggestions on a process for how a
+15 voter can cure a deficiency related to signature verification of absentee ballots.
+16 (4) Any other information relevant to signature verification of absentee ballots.
+17
+18 PART VII. TRAINING FOR COUNTY BOARDS OF ELECTIONS
+19 SECTION 7.1. The School of Government at the University of North Carolina at
+20 Chapel Hill shall work jointly with the State Board of Elections to develop a uniform curriculum
+21 to provide trainings for county directors of elections and employees of county boards of elections
+22 on the election laws and procedures as provided for in Chapter 163 of the General Statutes.
+23 SECTION 7.2. The State Board of Elections shall partner with local community
+24 colleges to provide a location in which any training conducted by the State Board of Elections or
+25 a county board of elections may be held.
+26
+27 PART VIII. EFFECTIVE DATE
+28 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+29 law.
+Page 14 House Bill 958-Second Edition
+[DELETED:  2 E (   A A T  P S S S r " ( T P ( V c o b c a t p o e d s o i b c u P 5 o A 1 o t C a c e c m b ( V p c s ( A b t o ( R ( P e d t t c b o e a q a p T p c c ( R ( T s]
+[DELETED:  S  H ( V e b w p ( V c ( A t b W s n p i t o c o o b ( I r i t c a p i 1 ( v i t p p u G b d c e a e v G n t i o v u f i d ( I t o s h t r t ( A p t t e i a n h g c i t c N m a t ( T A B ( F e v s u t r s s t r o p o b ( F v]
+[DELETED:  S  P e b o a s o a s b i i e c T p e p e f s i i p e p w a m d b t e o m c a a h b t b t h c a t m o e c i s a c h c s c T s c ( T p o ( T b ( T p S " C t v m c t d C d a d t c b c w s f ( T v d n s t v c a r b G ( T ( T i G s T i o t t p w t c o t a b i a a d e i d r T]
+[DELETED:  S  H t b S " C o E A B – O t v a b t S " A r … ( T o c 5 A t i o s n s o l t c p e f u n t T c b m b c a b i u A a a e s p N t c o l t c p e f u n T c b c p c i s b s u t t p r o a a p a t f s f t c w b t e o t c f d r e n o … ( T o a G ( o]
+[DELETED:  S  P ( N c s d t S " F p S a J  P  P S " P i S e  R S a " S S " 1  P j a j o e t o o q ( A b a o s a o a j e v r a ( T j u ( N w ( T p h a e o u g o U S ( N a]
+[DELETED:  S  H ( N h p o p o o w i a m o t f a c a o ( T s … S " ( A o a r ( … S " T a h t r a c j j o a o o d f a o s c c a p i G I e w p S " I a v f o m v t e p s t t d o t p o e A p a t s a a e e a s b t a p l o p a i a e m b r S " T l B ( O t]
+[DELETED:  S  P ( O d e e y b t f p p a ( O t ( E S o p b i ( T ( H t c w a p p t v i r i t c ( H ( H t ( T ( T p r e a i t v p a b ( T o S e  C S " W b s i c o G F a c s f d o t v u G t S e  D S " ( I ( M r b g a c ( U a p ( C ( A S s]
+[DELETED:  S  H ( T f o ( O c o a p i o a o a c e o e ( D c p ( D w ( O S T p b ( U p a p w v a p o t s i g o a C 2 m S " A s e p C a S o  B S a " N " i S e  R S " R t a r S 2  G i a b a a n s " C d n r a t a g b t r a t t m]
+[DELETED:  S  P S e  C S " A s v c S e  P E B  R S " N ( M t ( R ( M w o o s i f g d o d e s p ( M w o o s i f g d o d o ( S c f a c p c o r c ( S ( M w o o s i f g d o d a S " N ( M w o o s i f g d o d e o o o m c i c f p o s p ( M w o o s i f g d o d o ( M w o o s i f g d o d a S e ]
+[DELETED:  S  H A S " ( T m a ( T r t ( T a ( I u c a ( T o e c ( A ( A w ( A C ( A t ( I o o t ( G t ( A l d S l  D S 3  G i a b a t f n s " T ( E S B b d E f a d]
+[DELETED:  S  P S " E o t A G t S o P I t C o A t C o I t L C n e p p i t d w i g T t n o f e p f e I ( i g T n o e m p d b t S o P I i l t 7 e m p d w i g T t n o e p p i  P  P S " ( T c t t ( T c v s s t m b w a f o i o p t m f a i e s i a w t s S e  P S " ( E p t … ( 4 c t r a c o t o f s d w o]
+[DELETED:  S  H d p b T i t r o i c T S B s i c D I t i a … ( S ( o t s s n a t a c c c u … S " ( T B … ( 4 t t a r i s s t f a m o m t r i t r a p n G o R i … S a t  C S " T a A U b A g o a f c o a p s t c A]
+[DELETED:  S  P d A b e t i o u t l o o h i p e A i f S b " ( A e ( A i ( T U ( A o S S c  P S w e s u t s 1 c t w s f t p p i a w S 2 T p p s c o c b o e u s v r s c b s s S e o i ( W b a w t v s o t e a b w m ( H e ( H m e a b w f b t s v s s ( I o h t s m s f a e a v]
+[DELETED:  S  H S e a b s b r b t c b o e f f a s a S a d t t J L E O C a s a i t f ( A e ( T s ( A s l c t f i s v s v ( A  P S C t o S c a  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 2
+HOUSE BILL 958
+Committee Substitute Favorable 6/26/25
+Short Title: Election Law Changes. (Public)
+Sponsors:
+Referred to:
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES REGARDING ELECTION LAWS.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. REVISIONS TO BALLOT COUNTING PROCEDURE
+6 SECTION 1.1.(a) G.S. 163-182.2(a)(4) is recodified as G.S. 163-182.2(a2).
+7 SECTION 1.1.(b) G.S. 163-182.2(a)(6) is recodified as G.S. 163-182.2(a3).
+8 SECTION 1.1.(c) G.S. 163-182.2, as amended by S.L. 2024-57 and this section,
+9 reads as rewritten:
+10 "§ 163-182.2. Initial counting of official ballots.
+11 (a) The initial counting of official ballots cast at the precinct on election day and under
+12 Part 5 of Article 14A of this Chapter shall be conducted according to the following principles:
+13 (1) Vote counting of ballots cast at the precinct on election day shall occur
+14 immediately after the polls close and shall be continuous until completed. If
+15 ballots cast under Part 5 of Article 14A of this Chapter are counted
+16 electronically, that count shall commence at the time the polls close. If ballots
+17 cast under Part 5 of Article 14A of this Chapter are paper ballots counted
+18 manually, that count shall commence at the same time as mail-in absentee
+19 ballots cast under Article 20 or Article 21A of this Chapter are counted.
+20 (2) Vote counting at the precinct shall be conducted with the participation of
+21 precinct officials of all political parties then present. Vote counting at the
+22 county board of elections shall be conducted in the presence or under the
+23 supervision of board members of all political parties then present.
+24 (3) Any member of the public wishing to witness the vote count at any level shall
+25 be allowed to do so. No witness shall interfere with the orderly counting of
+26 the official ballots. Witnesses shall not participate in the official counting of
+27 official ballots.
+28 (4) Recodified.
+29 (5) Precinct officials shall provide a preliminary report of the vote counting on
+30 election day to the county board of elections as quickly as possible. The
+31 preliminary report shall be unofficial, has no binding effect upon the official
+32 county canvass to follow, and shall include the number of provisional ballots
+33 cast in that precinct.
+34 (6) Recodified.
+35 (a1) The initial counting of official ballots cast under Part 5 of Article 14A of this Chapter
+36 shall be conducted according to the following principles:
+*H958-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 (1) Vote counting shall occur between the hours of 9:00 A.M. and 5:00 P.M. on
+2 election day at the hour and place stated in a resolution adopted by the county
+3 board at least two weeks prior to the time the voting place opens in accordance
+4 with G.S. 163-166.25. The county board shall not reveal the result of the count
+5 prior to the close of polls on election day.
+6 (2) Vote counting shall be conducted in the presence or under the supervision of
+7 county board members of all political parties then present.
+8 (3) Any member of the public wishing to witness the vote count shall be allowed
+9 to do so. No witness shall interfere with the orderly counting of the official
+10 ballots. Witnesses shall not participate in the official counting of official
+11 ballots.
+12 (a2) If the county board finds that an individual voting a provisional official ballot (i) was
+13 registered in the county as provided in 163-82.1, (ii) voted in the proper precinct under
+14 G.S. 163-55 and G.S. 163-57, and (iii) was otherwise eligible to vote, the provisional official
+15 ballots shall be counted by the county board no later than 5:00 P.M. on the third fifth business
+16 day after the election. County boards may review for approval any provisional official ballots
+17 cast under Part 5 of Article 14A of this Chapter and take preparatory steps for the count prior to
+18 election day, using the same procedures used for counting absentee ballots under G.S. 163-234(3)
+19 as long as the preparatory steps do not reveal the result of the count prior to the close of polls on
+20 election day. Except as provided in G.S. 163-82.15(e), if the county board finds that an individual
+21 voting a provisional official ballot (i) did not vote in the proper precinct under G.S. 163-55 and
+22 G.S. 163-57, (ii) is not registered in the county as provided in G.S. 163-82.1, or (iii) is otherwise
+23 not eligible to vote, the ballot shall not be counted. If a voter was properly registered to vote in
+24 the election by the county board, no mistake of an election official in giving the voter a ballot or
+25 in failing to comply with G.S. 163-82.15 or G.S. 163-166.11 shall serve to prevent the counting
+26 of the vote on any ballot item the voter was eligible by registration and qualified by residency to
+27 vote. When an individual has voted a provisional official ballot after completing an affidavit
+28 under G.S. 163-166.16(d), and the county board has not found the affidavit to be valid within
+29 five business days after the election because the county board has grounds to believe the affidavit
+30 is false, the county board shall determine whether to count the provisional official ballot by the
+31 date of the county canvass.
+32 (a3) In counties that use any certified mechanical or electronic voting system, subject to
+33 the sample counts under G.S. 163-182.1 and subdivision (2) of subsection (b) of this section, and
+34 of a hand-to-eye recount under G.S. 163-182.7 and G.S. 163-182.7A, a county board of elections
+35 shall rely in its canvass on the mechanical or electronic count of the vote rather than the full
+36 hand-to-eye count of the paper ballots or records. In the event of a material discrepancy between
+37 the electronic or mechanical count and a hand-to-eye count or recount, the hand-to-eye count or
+38 recount shall control, except where paper ballots or records have been lost or destroyed or where
+39 there is another reasonable basis to conclude that the hand-to-eye count is not the true count.
+40 (a4) Any resolution required by this section shall be published once a week for two weeks
+41 prior to the election, in a newspaper having general circulation in the county. Notice may
+42 additionally be made on a radio or television station or both, but the notice shall be in addition to
+43 the newspaper and other required notice.
+44 (b) The State Board shall promulgate rules for the initial counting of all official ballots.
+45 All election officials shall be governed by those rules. In promulgating those rules, the State
+46 Board shall adhere to the following guidelines:
+47 (1) For each voting system used, the rules shall specify the role of precinct
+48 officials and of the county board of elections in the initial counting of official
+49 ballots.
+50 (2) For optical scan and direct record electronic voting systems, and for any other
+51 voting systems in which ballots are counted other than on paper by hand and
+Page 2 House Bill 958-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 eye, those rules shall provide for a sample hand-to-eye count of the paper
+2 ballots of a sampling of a statewide ballot item in every county. The
+3 presidential ballot item shall be the subject of the sampling in a presidential
+4 election. If there is no statewide ballot item, the State Board shall provide a
+5 process for selecting district or local ballot items to adequately sample the
+6 electorate. The State Board shall approve in an open meeting the procedure
+7 for random sampling for each election. The random sampling for any county
+8 shall be done publicly after the initial count of election returns for that county
+9 is publicly released or 24 hours after the polls close on election day, whichever
+10 is earlier. The sample chosen by the State Board shall be of one or more full
+11 precincts, full counts of mailed absentee ballots, and full counts of one or more
+12 early voting sites. The size of the sample of each category shall be chosen to
+13 produce a statistically significant result and shall be chosen after consultation
+14 with a statistician. The actual units shall be chosen at random. In the event of
+15 a material discrepancy between the electronic or mechanical count and a
+16 hand-to-eye count, the hand-to-eye count shall control, except where paper
+17 ballots have been lost or destroyed or where there is another reasonable basis
+18 to conclude that the hand-to-eye count is not the true count. If the discrepancy
+19 between the hand-to-eye count and the mechanical or electronic count is
+20 significant, a complete hand-to-eye count shall be conducted. The sample
+21 count need not be done on election night.
+22 (3) The rules shall provide for accurate unofficial reporting of the results from the
+23 precinct to the county board of elections with reasonable speed on the night
+24 of the election.
+25 (4) The rules shall provide for the prompt and secure transmission of official
+26 ballots from the voting place to the county board of elections.board.
+27 (c) The State Board shall direct the county boards of elections in the application of the
+28 principles and rules in individual circumstances."
+29 SECTION 1.2. G.S. 163-230.1(e1), as amended by S.L. 2024-57, reads as rewritten:
+30 "(e1) Curable Deficiencies. – If a container-return envelope contains a curable deficiency,
+31 the county board shall promptly notify the voter of the deficiency and the manner in which the
+32 voter may cure the deficiency. Curable deficiencies are deficiencies that can be cured with
+33 supplemental documentation or attestation provided by the voter, including when any of the
+34 following occurs:
+35 (1) The voter did not sign the voter certification as required by
+36 G.S. 163-231(a)(4).
+37 (2) The voter signed the application in the wrong place on the application.
+38 (3) The voter failed to include with the container-return envelope a photocopy of
+39 identification described in G.S. 163-166.16(a) or an affidavit as described in
+40 G.S. 163-166.16(d)(1), (d)(2), or (d)(3), as required by subsection (f1) of this
+41 section.
+42 The identification of the two persons witnessing the casting of the absentee ballot in
+43 accordance with G.S. 163-231(a) is not a curable deficiency. Any container-return envelope with
+44 a curable deficiency that is transmitted to the county board shall be considered timely if cure
+45 documentation is received no later than 12:00 P.M. on the third fifth business day after the
+46 election. Cure documentation may be transmitted via email to the county board if the deficiency
+47 is one described in subdivision (3) of this subsection. The notification of voters regarding curable
+48 deficiencies is an administrative task that may be performed by county board staff and is not
+49 required to be performed at an absentee meeting as provided for in subsection (f) of this section.
+50 The voter shall be notified of curable deficiencies by mail, and by telephone or email if the
+House Bill 958-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 telephone number or email address was provided by the voter on the request form for absentee
+2 ballots."
+3 SECTION 1.3. G.S. 163-231 is amended by adding a new subsection to read:
+4 "(d) Counting of Executed Absentee Ballots. – Only those voted absentee ballots
+5 transmitted to a county board in accordance with this section shall be counted."
+6 SECTION 1.4. G.S. 163-234, as amended by S.L. 2024-57, reads as rewritten:
+7 "§ 163-234. Counting absentee ballots by county board.
+8 All absentee ballots returned to the county board in the container-return envelopes shall be
+9 retained by the county board to be counted by the county board as follows:
+10 …
+11 (2) The county board shall meet at 5:00 P.M. on election day in the county board
+12 office or other public location in the county courthouse for the purpose of
+13 counting all absentee ballots except those which have been challenged before
+14 5:00 P.M. on election day and those received pursuant to G.S. 163-231(b)(2).
+15 Any elector of the county shall be permitted to attend the meeting and allowed
+16 to observe the counting process, so long as the elector does not in any manner
+17 interfere with the election officials in the discharge of their duties. The count
+18 of these absentee ballots shall be continuous until completed, and the members
+19 shall not separate or leave the counting place except for unavoidable
+20 necessity.The county board shall not adjourn the meeting until the count of
+21 these absentee ballots is complete.
+22 The county board may begin counting absentee ballots issued under
+23 Article 21A of this Chapter between the hours of 9:00 A.M. and 5:00 P.M.
+24 and may begin counting all absentee ballots between the hours of 2:00 P.M.
+25 and 5:00 P.M. upon the adoption of a resolution at least two weeks prior to the
+26 election in which the hour and place of counting absentee ballots shall be
+27 stated. A copy of the resolution shall be published once a week for two weeks
+28 prior to the election, in a newspaper having general circulation in the county.
+29 Notice may additionally be made on a radio or television station or both, but
+30 the notice shall be in addition to the newspaper and other required notice. The
+31 count shall be continuous until completed and the members shall not separate
+32 or leave the counting place except for unavoidable necessity, The county
+33 board shall not adjourn the meeting until the count of these absentee ballots is
+34 complete, except that if the count has been completed prior to the time the
+35 polls close, it shall be suspended until that time pending receipt of any
+36 additional ballots. Nothing in this section prohibits a county board from taking
+37 preparatory steps for the count earlier than the times specified in this section,
+38 as long as the preparatory steps do not reveal to any individual not engaged in
+39 the actual count election results before the times specified in this subdivision
+40 for the count to begin. By way of illustration and not limitation, a preparatory
+41 step for the count would be the entry of tally cards from direct record
+42 electronic voting units into a computer for processing. The county board shall
+43 not announce the result of the count before 7:30 P.M.prior to the close of polls
+44 on election day.
+45 …
+46 (11) The county board shall meet after the day of the election and prior to the day
+47 of canvass to count absentee ballots received pursuant to G.S. 163-231(b)(2)
+48 and absentee ballots that have deficiencies that have been cured pursuant to
+49 G.S. 163-230.1(e1) upon the adoption of a resolution pursuant to subdivision
+50 (2) of this section. The county board shall comply with all other requirements
+51 of this section and G.S. 163-230.1 for the counting of these absentee ballots.
+Page 4 House Bill 958-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (12) No later than 5:00 P.M. on the third fifth business day after the election, the
+2 county board shall announce the tally of all absentee ballots, except those
+3 subject to a challenge challenge, those for which a final decision on a curable
+4 deficiency remains pending, or those cast in accordance with Article 21A of
+5 this Chapter."
+6 SECTION 1.5. G.S. 163-275 is amended by adding a new subdivision to read:
+7 "(15) For any person to reveal the result of any count of ballots prior to the close of
+8 polls on election day in accordance with G.S. 163-182.2 or G.S. 163-234."
+9 SECTION 1.6. Section 1.5 of this Part becomes effective December 1, 2025, and
+10 applies to offenses committed on or after that date. The remainder of this Part becomes effective
+11 January 1, 2026, and applies to elections held on or after that date.
+12
+13 PART II. VARIOUS ELECTION ADMINISTRATION CHANGES
+14
+15 PARTY DESIGNATIONS ON BALLOT
+16 SECTION 2.1.(a) G.S. 163-165.5(a)(4) reads as rewritten:
+17 "(4) Party designations in partisan ballot items. Party designations shall be printed
+18 in the same font type and size as the name of the candidate."
+19 SECTION 2.1.(b) This section becomes effective January 1, 2026, and applies to
+20 elections held on or after that date.
+21
+22 REMOVAL AND TRAINING OF PRECINCT OFFICIALS
+23 SECTION 2.2.(a) Article 5 of Chapter 163 of the General Statutes is amended by
+24 adding a new section to read:
+25 "§ 163-41.3. Removal of precinct officials; vacancies."
+26 SECTION 2.2.(b) G.S. 163-41(d) is recodified as G.S. 163-41.3.
+27 SECTION 2.2.(c) G.S. 163-41, as amended by this section, reads as rewritten:
+28 "§ 163-41. Precinct chief judges and judges of election; appointment; terms of office;
+29 qualifications; vacancies; oaths of office.
+30 (a) Appointment of Chief Judge and Judges. – At the meeting required by G.S. 163-31 to
+31 be held on the Tuesday following the third Monday in August of the year in which they are
+32 appointed, the county board of elections shall appoint one person to act as chief judge and two
+33 other persons to act as judges of election for each precinct in the county. Their terms of office
+34 shall continue for two years from the specified date of appointment and until their successors are
+35 appointed and qualified, except that if a nonresident of the precinct is appointed as chief judge
+36 or judge for a precinct, that person's term of office shall end if the county board of elections
+37 appoints a qualified resident of the precinct of the same party to replace the nonresident chief
+38 judge or judge. It shall be their the duty of the precinct officials to conduct the primaries and
+39 elections within their respective precincts. Persons appointed to these offices must be registered
+40 voters and residents of the county in which the precinct is located, of good repute, and able to
+41 read and write. Not more than one judge in each precinct shall belong to the same political party
+42 as the chief judge.
+43 (b) The As used in this Article, the term "precinct official" shall mean chief judges and
+44 judges appointed pursuant to this section, and all assistants appointed pursuant to G.S. 163-42,
+45 unless the context of a statute clearly indicates a more restrictive meaning.
+46 (b1) No person shall be eligible to serve as a precinct official, as that term is defined above,
+47 who holds official if any of the following apply:
+48 (1) The person holds any elective office under the government of the United
+49 States, or of the State of North Carolina or any political subdivision thereof.
+50 (2) No person shall be eligible to serve as a precinct official who is The person is
+51 a candidate for nomination or election.
+House Bill 958-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (3) No person shall be eligible to serve as a precinct official who holds The person
+2 holds any office in a state, congressional district, county, or precinct political
+3 party or political organization, or who is a manager or treasurer for any
+4 candidate or political party, provided however that the position of delegate to
+5 a political party convention shall not be considered an office for the purpose
+6 of this subsection.subdivision.
+7 (4) The person has been prohibited from serving as a precinct official in any
+8 subsequent election in accordance with G.S. 163-41.3(a).
+9 …."
+10 SECTION 2.2.(d) G.S. 163-41.3, as enacted by this section, reads as rewritten:
+11 "§ 163-41.3. Removal of precinct officials; filling vacancies.
+12 (a) Any precinct official may be removed from office, including on the day of the election
+13 or primary, for incompetency or failure to discharge the duties of office by the county board in
+14 accordance with G.S. 163-33. The county board may prohibit a precinct official who has been
+15 removed from office from serving as a precinct official in any subsequent election.
+16 (b)
+17 …."
+18 SECTION 2.2.(e) G.S. 163-33(2) reads as rewritten:
+19 "(2) To appoint all chief judges, judges, assistants, and other officers of elections,
+20 and designate the precinct in which each shall serve; and, after notice and
+21 hearing, to remove any chief judge, judge of elections, assistant, or other
+22 officer of election appointed by it for incompetency, failure to discharge the
+23 duties of office, failure to qualify within the time prescribed by law, fraud, or
+24 for any other satisfactory cause. cause, as provided in G.S. 163-41.3. In
+25 exercising the powers and duties of this subdivision, the board may act only
+26 when a majority of its members are present at any meeting at which such
+27 powers or duties are exercised."
+28 SECTION 2.2.(f) G.S. 163-42(c) reads as rewritten:
+29 "(c) In addition, a county board of elections by unanimous vote of all of its members may
+30 appoint any registered voter in the county as an emergency election-day assistant, as long as that
+31 voter is otherwise qualified to be a precinct official. The State Board of Elections shall determine
+32 for each election the number of emergency election-day assistants each county may have, based
+33 on population, expected turnout, and complexity of election duties. duties; however, each county
+34 must have, at a minimum, six emergency election-day assistants. The county board by unanimous
+35 vote of all of its members may assign emergency election-day assistants on the day of the election
+36 to any precinct in the county where the number of precinct officials is insufficient because of an
+37 emergency occurring within 48 hours of the opening of the polls emergency, the removal of a
+38 precinct official, or any other reason that prevents an appointed a precinct official from serving.
+39 serving throughout the day of the primary or election. A person appointed to serve as an
+40 emergency election-day assistant shall be trained and paid like other precinct assistants in
+41 accordance with G.S. 163-46. A county board of elections shall apportion the appointments as of
+42 emergency election-day assistant assistants among registrants of each political party so as to
+43 make possible the staffing of each precinct with officials of more than one party, and the county
+44 board shall make assignments so that no precinct has precinct officials assistants all of whom are
+45 registered with the same party."
+46 SECTION 2.2.(g) G.S. 163-82.24(a) reads as rewritten:
+47 "(a) Training. – The State Board of Elections shall conduct training programs in election
+48 law and procedures. Every county elections director shall receive training conducted by the State
+49 Board at least as often as required in the following schedule:
+50 (1) Once during each odd-numbered year before the municipal election held in
+51 the county;county.
+Page 6 House Bill 958-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) Once during each even-numbered year before the first partisan primary;
+2 andprimary.
+3 (3) Once during each even-numbered year after the partisan primaries but before
+4 the general election.
+5 (a1) Every member of a county board of elections shall receive training conducted by the
+6 State Board at least once during the six months after the member's initial appointment and at least
+7 once again during the first two years of the member's service. The State Board of Elections shall
+8 promulgate rules for the training of precinct officials, which shall be followed by the county
+9 boards of elections.boards. At a minimum, the training for all precinct officials shall include
+10 information regarding all of the following:
+11 (1) The duties of the office of precinct official.
+12 (2) How to confirm whether a person presenting to vote is registered in that
+13 county.
+14 (3) How to issue ballots.
+15 (4) How to properly provide voter assistance, including how to provide assistance
+16 to those curbside voting.
+17 (5) The procedure for opening and closing of polls.
+18 (6) The prohibition regarding election-related activity in the voting place and
+19 buffer zone of the voting place.
+20 (7) The potential for removal from office for failure to comply with the provisions
+21 of this Chapter."
+22 SECTION 2.2.(h) This section becomes effective January 1, 2026, and applies to
+23 elections held on or after that date.
+24
+25 COUNTING OF CHALLENGED BALLOT OF DECEASED VOTER
+26 SECTION 2.3.(a) G.S. 163-90.2(a) reads as rewritten:
+27 "(a) When any challenge is sustained for any cause listed under G.S. 163-85(c), the county
+28 board shall cancel or correct the voter registration of the voter. The county board shall maintain
+29 such record for at least six months and during the pendency of any appeal. The Except as provided
+30 in this subsection, the challenged ballot shall be counted for any ballot items for which the
+31 challenged voter is eligible to vote, as if it were a provisional official ballot under the provisions
+32 of G.S. 163-166.11(4). For any challenge sustained for death of the voter under
+33 G.S. 163-85(c)(6), the challenged ballot shall not be counted if the voter died between the time
+34 the challenged ballot was cast and 6:30 A.M. on election day."
+35 SECTION 2.3.(b) This section becomes effective January 1, 2026, and applies to
+36 elections held on or after that date.
+37
+38 DISORDERLY CONDUCT AT VOTING PLACE
+39 SECTION 2.4.(a) G.S. 14-132 reads as rewritten:
+40 "§ 14-132. Disorderly conduct in and injuries to public buildings and facilities.
+41 (a) It is a misdemeanor if for any person shall:to do any of the following:
+42 (1) Make any rude or riotous noise, or be guilty of engage in any disorderly
+43 conduct, in or near any public building or facility; orfacility.
+44 (2) Unlawfully write or scribble on, mark, deface, besmear, or injure the walls of
+45 any public building or facility, or any statue or monument situated in any
+46 public place; orplace.
+47 (3) Commit any nuisance in or near any public building or facility.
+48 (b) Any person in charge of any public building or facility owned or controlled by the
+49 State, any subdivision of the State, or any other public agency shall have authority to arrest
+50 summarily and without warrant for a violation of this section.
+House Bill 958-Second Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (c) The term "public building or facility" as used in this section includes any building or
+2 facility together with the surrounding grounds and premises used in connection with the operation
+3 or functioning of such public building or facility which is:is any of the following:
+4 (1) One to which the public or a portion of the public has access and is owned or
+5 controlled by the State, any subdivision of the State, any other public agency,
+6 or any private institution or agency of a charitable, educational, or
+7 eleemosynary nature; orphilanthropic nature.
+8 (2) Dedicated to the use of the general public for a purpose which is primarily
+9 concerned with public recreation, cultural activities, and other events of a
+10 public nature or character.
+11 (3) Designated by the Director of the State Bureau of Investigation in accordance
+12 with G.S. 143B-987.
+13 (4) One temporarily in use as a voting place under Chapter 163 of the General
+14 Statutes during the hours for voting.
+15 The term "building or facility" as used in this section also includes the surrounding grounds and
+16 premises of any building or facility used in connection with the operation or functioning of such
+17 building or facility.
+18 (d) Unless the conduct is covered under some other provision of law providing greater
+19 punishment, any person who violates any provision of this section is guilty of a Class 2
+20 misdemeanor."
+21 SECTION 2.4.(b) G.S. 163-166.4(b) reads as rewritten:
+22 "(b) Area for Election-Related Activity. – Except as provided in subsection (c) of this
+23 section, the county board of elections shall also provide an area adjacent to the buffer zone for
+24 each voting place in which persons or groups of persons may distribute campaign literature, place
+25 political advertising, solicit votes, or otherwise engage in election-related activity. It shall be a
+26 Class 3 misdemeanor for a person to steal, deface, vandalize, or unlawfully remove political
+27 advertising that is lawfully placed under this subsection."
+28 SECTION 2.4.(c) This section becomes effective October 1, 2025, and applies to
+29 offenses committed on or after that date.
+30
+31 BAN RANK CHOICE VOTING
+32 SECTION 2.5.(a) Article 14A of Chapter 163 of the General Statutes is amended by
+33 adding a new section to read:
+34 "§ 163-165.6A. Rank choice voting prohibited.
+35 No rank choice voting may be used in any referendum, primary, or other election. The term
+36 "rank choice voting" refers to a method that allows a voter the option to rank candidates for office
+37 in the voter's order of preference."
+38 SECTION 2.5.(b) This section becomes effective January 1, 2026, and applies to
+39 elections held on or after that date.
+40
+41 REQUIRE RETURN TO SENDER ON VOTER REGISTRATION MAILINGS
+42 SECTION 2.6.(a) G.S. 163-82.7 is amended by adding a new subsection to read:
+43 "(h) Return to Sender Requirement on Notices. – All notices sent to applicants pursuant
+44 to this section shall include a location on the notice which can be marked to indicate that the
+45 applicant does not reside at the address given by the applicant and that the notice should be
+46 returned to the appropriate sender."
+47 SECTION 2.6.(b) G.S. 163-82.14(d)(2) is amended by adding a new
+48 sub-subdivision to read:
+49 "d. Contains a location which can be marked to indicate that the registrant
+50 does not reside at the address given by the registrant and that the
+51 mailing should be returned to the appropriate sender."
+Page 8 House Bill 958-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.6.(c) This section becomes effective January 1, 2026, and applies to
+2 elections held on or after that date.
+3
+4 CLOSING OF EQUIPMENT FOLLOWING EARLY VOTING
+5 SECTION 2.7.(a) G.S. 163-166.40 is amended by adding a new subsection to read:
+6 "(j) At the conclusion of the early voting period provided for in subsection (b) of this
+7 section, any materials containing the vote count and any voting equipment used during the early
+8 voting period shall be kept secure in a locked location by the county board until the initial
+9 counting of early voting ballots in accordance with G.S. 163-182.2(a1)."
+10 SECTION 2.7.(b) This section becomes effective January 1, 2026, and applies to
+11 elections held on or after that date.
+12
+13 PART III. ROLE & DUTY OF THE STATE BOARD OF ELECTIONS & COUNTY
+14 BOARDS OF ELECTIONS
+15
+16 ROLE OF STATE BOARD AND COUNTY BOARDS IN VOTER TURNOUT
+17 SECTION 3.1.(a) G.S. 163-19(g) reads as rewritten:
+18 "(g) No person while serving on the State Board shall:shall do any of the following:
+19 (1) Make a reportable contribution to a candidate for a public office over which
+20 the State Board would have jurisdiction or authority.
+21 (2) Register as a lobbyist under Chapter 120C of the General Statutes.
+22 (3) Make written or oral statements intended for general distribution or
+23 dissemination to the public at large supporting or opposing the nomination or
+24 election of one or more clearly identified candidates for public office.office,
+25 supporting any political party over another, or influencing voter turnout for a
+26 particular political party.
+27 (4) Make written or oral statements intended for general distribution or
+28 dissemination to the public at large supporting or opposing the passage of one
+29 or more clearly identified referendum or ballot issue proposals.
+30 (5) Solicit contributions for a candidate, political committee, or referendum
+31 committee.
+32 (6) Serve as a member of any other State board, as defined in G.S. 138A-3.
+33 (7) Make written or oral statements intended for general distribution or
+34 dissemination to the public at large encouraging or promoting voter turnout in
+35 any election."
+36 SECTION 3.1.(b) G.S. 163-30 is amended by adding a new subsection to read:
+37 "(g) No person while serving on a county board shall do any of the following:
+38 (1) Make written or oral statements intended for general distribution or
+39 dissemination to the public at large supporting or opposing the nomination or
+40 election of one or more clearly identified candidates for public office,
+41 supporting any political party over another, or influencing voter turnout for a
+42 particular political party.
+43 (2) Make written or oral statements intended for general distribution or
+44 dissemination to the public at large supporting or opposing the passage of one
+45 or more clearly identified referendum or ballot issue proposals.
+46 (3) Make written or oral statements intended for general distribution or
+47 dissemination to the public at large encouraging or promoting voter turnout in
+48 any election."
+49 SECTION 3.1.(c) This section becomes effective January 1, 2026, and applies to
+50 elections held on or after that date.
+51
+House Bill 958-Second Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 AUTHORITY IN ELECTION LITIGATION
+2 SECTION 3.2.(a) G.S. 163-25 reads as rewritten:
+3 "§ 163-25. Authority of State Board to assist in litigation.
+4 (a) The State Board shall possess authority to assist any county board of elections in any
+5 matter in which litigation is contemplated or has been initiated, provided, the in accordance with
+6 all of the following:
+7 (1) The county board of elections in such county petitions, requests, by majority
+8 resolution, for such assistance from the State Board and, provided further, that
+9 the Board.
+10 (2) The State Board determines, in its sole discretion by majority vote, to assist in
+11 any such the matter.
+12 (3) It is further stipulated that the The State Board shall does not be authorized
+13 under this provision to enter into any litigation in assistance to counties, any
+14 county board or county boards except in those instances where the uniform
+15 administration of this Chapter has been, or would be threatened.
+16 (b) The Attorney General shall provide the State Board with legal assistance in execution
+17 of its authority under this section or, in the Attorney General's discretion, recommend that may
+18 employ staff counsel or retain private counsel be employed.to provide legal services. Private
+19 counsel may be retained for any of the following matters:
+20 (1) Any matter in which litigation is contemplated or has been initiated.
+21 (2) Any matter in which the State Board is assisting in litigation in accordance
+22 with subsection (a) of this section.
+23 (3) Any matter arising in connection with the State Board's actions under this
+24 Chapter.
+25 (4) Any matter arising in connection with the Executive Director's actions under
+26 this Chapter.
+27 (c) If the Attorney General recommends employment State Board determines retention
+28 of private counsel, counsel is necessary, the State Board may employ counsel with the approval
+29 of the General Assembly.use funds available to the State Board to retain private counsel under
+30 this section. The State Board shall supervise and manage counsel retained under this section.
+31 (d) G.S. 114-2.3 and G.S. 147-17 shall not apply to counsel employed or retained under
+32 this section.
+33 (e) All communications or documents made or used in connection with the provision of
+34 legal services by counsel employed or retained under this section are not "public records" as
+35 defined by G.S. 132-1 and shall not be open to public inspection, examination, or copying."
+36 SECTION 3.2.(b) This section is effective when it becomes law and applies to
+37 litigation existing on or after that date.
+38
+39 DESIGNATION OF EXEMPT POSITIONS at the state board OF ELECTIONS
+40 SECTION 3.3.(a) G.S. 126-5(c1) is amended by adding the following new
+41 subdivisions to read:
+42 "(42) The Executive Director of the State Board of Elections.
+43 (43) Employees of the State Board of Elections, that the Executive Director of the
+44 State Board of Elections, at any time, in the Executive Director of the State
+45 Board of Elections' discretion, exempts from the application of this Chapter
+46 by means of a letter to the Director of the Office of State Human Resources
+47 designating these employees. The Executive Director of the State Board of
+48 Elections may exempt no more than 25 employees under the authorization set
+49 forth in this subdivision. Any exemptions under this subdivision shall not
+50 affect, or be counted against, the number of exempt positions the Auditor may
+51 designate in accordance with subdivision (2) of subsection (d) of this section."
+Page 10 House Bill 958-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 3.3.(b) G.S. 126-5(d)(2) reads as rewritten:
+2 "(2) Exempt Positions in Council of State Departments and Offices and the Office
+3 of the State Controller. – The Secretary of State, the Auditor, the Treasurer,
+4 the Attorney General, the Superintendent of Public Instruction, the
+5 Commissioner of Agriculture, the Commissioner of Insurance, the Labor
+6 Commissioner, and the State Controller may designate exempt positions. The
+7 number of exempt policymaking positions in each department headed by an
+8 elected department head listed in this subdivision is limited to 25 exempt
+9 policymaking positions or two percent (2%) of the total number of full-time
+10 positions in the department, whichever is greater. The total number of
+11 full-time positions in the Department of the State Auditor shall not include
+12 employees of the State Board of Elections. The number of exempt managerial
+13 positions is limited to 25 positions or two percent (2%) of the total number of
+14 full-time positions in the department, whichever is greater. The number of
+15 exempt policymaking positions designated by the Superintendent of Public
+16 Instruction is limited to 70 exempt policymaking positions or two percent
+17 (2%) of the total number of full-time positions in the department, whichever
+18 is greater. The number of exempt managerial positions designated by the
+19 Superintendent of Public Instruction is limited to 70 exempt managerial
+20 positions or two percent (2%) of the total number of full-time positions in the
+21 department, whichever is greater. The total number of exempt positions,
+22 policymaking and managerial, designated by the Office of the State Controller
+23 is limited to 10."
+24
+25 PART IV. REVISIONS TO UNIFORM MILITARY AND OVERSEAS VOTERS ACT
+26
+27 PHOTO ID REQUIRED FOR UOCAVA VOTERS
+28 SECTION 4.1.(a) G.S. 163-258.10 reads as rewritten:
+29 "§ 163-258.10. Timely casting Casting of ballot.
+30 (a) To be valid, a military-overseas ballot shall either be received by the appropriate
+31 county board of elections no later than the close of the polls, or the covered voter shall submit
+32 the ballot for mailing, electronic transmission, or other authorized means of delivery not later
+33 than 12:01 A.M., at the place where the voter completes the ballot, on the date of the election.
+34 (b) The covered voter shall submit the military-overseas ballot with a form of
+35 identification that contains a photograph of the covered voter as described in G.S. 163-166.16(a)
+36 or an affidavit as described in G.S. 163-166.16(d)(1), (d)(2), or (d)(3). The State Board shall
+37 provide the means for any identification electronically submitted in accordance with this
+38 subsection to be submitted in a secure manner."
+39 SECTION 4.1.(b) This section becomes effective January 1, 2026, and applies to
+40 elections held on or after that date.
+41
+42 PART V. CAMPAIGN FINANCE REVISIONS
+43 SECTION 5.1.(a) G.S. 163-278.9 reads as rewritten:
+44 "§ 163-278.9. Statements filed with Board.
+45 (a) Except as provided in G.S. 163-278.10A, the treasurer of each candidate and of each
+46 political committee shall file with the Board under certification of the treasurer as true and correct
+47 to the best of the knowledge of that officer the following reports:
+48 …
+49 (2) 48-Hour Report. – A political committee, political party or affiliated party
+50 committee that receives a contribution or transfer of funds shall disclose
+51 within 48 hours of receipt a contribution or transfer of one two thousand
+House Bill 958-Second Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 dollars ($1,000) ($2,000) or more received before an election but after the
+2 period covered by the last report due before that election. The disclosure shall
+3 be by report to the State Board identifying the source and amount of the funds.
+4 The State Board shall specify the form and manner of making the report,
+5 including the reporting of in-kind contributions. The State Board shall
+6 increase the dollar amount of the reporting threshold effective each election
+7 cycle beginning the period from January 1 of an odd-numbered year through
+8 December 31 of the next even-numbered year based on the Consumer Price
+9 Index as provided in G.S. 163-278.13(b). The State Board shall set the revised
+10 threshold in October of the even-numbered year, publish the revised threshold
+11 in the North Carolina Register, and notify the Revisor of Statutes who shall
+12 adjust the dollar amount in this subdivision.
+13 …
+14 (a1) Subdivision (a)(2) of this section shall not apply to any candidate campaign
+15 committee, as defined by G.S. 163-278.38Z, in a primary election in which the candidate is
+16 unopposed on that ballot.
+17 …."
+18 SECTION 5.1.(b) G.S. 163-278.9A reads as rewritten:
+19 "§ 163-278.9A. Statements filed by referendum committees.
+20 (a) The treasurer of each referendum committee shall file under verification with the
+21 Board the following reports:
+22 …
+23 (3) 48-Hour Report. – A referendum committee that receives a contribution or
+24 transfer of funds shall disclose within 48 hours of receipt a contribution or
+25 transfer of one two thousand dollars ($1,000) ($2,000) or more received before
+26 a referendum but after the period covered by the last report due before that
+27 referendum. The disclosure shall be by report to the State Board of Elections
+28 identifying the source and amount of such funds. The State Board of Elections
+29 shall specify the form and manner of making the report, including the
+30 reporting of in-kind contributions. The State Board shall increase the dollar
+31 amount of the reporting threshold effective each election cycle beginning the
+32 period from January 1 of an odd-numbered year through December 31 of the
+33 next even-numbered year based on the Consumer Price Index as provided in
+34 G.S. 163-278.13(b). The State Board shall set the revised threshold in October
+35 of the even-numbered year, publish the revised threshold in the North Carolina
+36 Register, and notify the Revisor of Statutes who shall adjust the dollar amount
+37 in this subdivision.
+38 …."
+39 SECTION 5.1.(c) No earlier than October 1, 2025, the State Board of Elections shall
+40 adjust the thresholds imposed by G.S. 163-278.9(a)(2) and G.S. 163-278.9A(a)(3), as enacted by
+41 this section, effective for the election cycle beginning January 1, 2027.
+42
+43 CONTRIBUTIONS BY FOREIGN NATIONALS IN REFERENDA
+44 SECTION 5.2.(a) G.S. 163-278.6 is amended by adding a new subdivision to read:
+45 "(52) The term "foreign national" means any of the following:
+46 a. An individual who is not a citizen or lawful permanent resident of the
+47 United States.
+48 b. A government of a foreign country, or any political subdivision
+49 thereof.
+50 c. A foreign political party.
+Page 12 House Bill 958-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 d. Any business entity that is organized under the law of, or has its
+2 principal place of business in, a foreign country.
+3 e. Any business entity organized and operating in the United States that
+4 is wholly or majority owned by a foreign national or combination of
+5 foreign nationals."
+6 SECTION 5.2.(b) Article 22A of Chapter 163 of the General Statutes is amended
+7 by adding a new section to read:
+8 "§ 163-278.19C. Contributions by foreign nationals.
+9 (a) A referendum committee shall not accept any contributions from a foreign national,
+10 except as provided in this section.
+11 (b) A referendum committee may accept a contribution from a foreign national as defined
+12 in G.S. 163-278.6(52)e. if all of the following are met:
+13 (1) The contribution is derived solely from funds generated by operations in the
+14 United States.
+15 (2) All decisions concerning the contribution are made by an individual or group
+16 of individuals who are citizens or lawful permanent residents of the United
+17 States."
+18 SECTION 5.2.(c) This section becomes effective January 1, 2026, and applies to
+19 contributions made or accepted on or after that date.
+20
+21 PART VI. SIGNATURE VERIFICATION PILOT PROGRAM
+22 SECTION 6.(a) The State Board of Elections shall select 10 counties in the State in
+23 which to conduct a pilot program during the primary held in 2026 for signature verification on
+24 executed absentee ballots. In selecting the 10 counties for the pilot, the State Board of Elections
+25 shall seek diversity of population size, regional location, and demographic composition, and may
+26 use the same 10 counties that were selected for the pilot program in accordance with S.L.
+27 2023-140. The pilot program shall consist of county boards of elections using signature
+28 verification software to check the signatures of voters noted on all executed absentee ballots
+29 received by the county boards of elections in the 2026 primary. The State Board of Elections
+30 shall select the signature verification software and ensure that the software is available for all 10
+31 counties to use in the 2026 primary. The State Board of Elections shall assist the selected county
+32 boards of elections in implementing the signature verification software, including assisting the
+33 selected county boards of elections in any training needed on how the software is to be used for
+34 signature matching on executed absentee ballots.
+35 SECTION 6.(b) The State Board of Elections shall closely monitor the pilot program
+36 established in this section. The selected county boards of elections shall report to the State Board
+37 of Elections its findings on the use of the signature verification software during the 2026 primary,
+38 including all of the following:
+39 (1) Whether the signature verification software was used for all executed absentee
+40 ballots, and what the voter signature on the executed absentee ballot was
+41 matched against.
+42 (2) How many executed absentee ballots were counted by the county board of
+43 elections in the 2026 primary.
+44 (3) How many executed absentee ballots were flagged by the signature
+45 verification software, and any information known on how close of a match the
+46 signatures must be for the signature match software to not flag the voter's
+47 signature.
+48 (4) Information on how the signature matching software flagged an executed
+49 absentee ballot with a signature that did not match the signature on file for the
+50 voter, including any known information on the rate of error in the software.
+House Bill 958-Second Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 6.(c) In implementing the pilot program established in this section, no
+2 executed absentee ballot shall be rejected by the county board of elections for failing any
+3 signature verification. All executed absentee ballots that are otherwise eligible to be counted in
+4 accordance with Chapter 163 of the General Statutes shall be counted.
+5 SECTION 6.(d) The State Board of Elections shall report its findings, along with
+6 any recommendations, to the General Assembly on or before May 1, 2026. The report shall be
+7 delivered to the Joint Legislative Elections Oversight Committee and shall also include the
+8 following:
+9 (1) A compilation of the information reported from the selected county boards of
+10 elections as required by subsection (b) of this section.
+11 (2) The estimated cost to implement signature verification for absentee ballots
+12 statewide.
+13 (3) Any suggested law changes to fully implement signature verification
+14 statewide for absentee ballots, including suggestions on a process for how a
+15 voter can cure a deficiency related to signature verification of absentee ballots.
+16 (4) Any other information relevant to signature verification of absentee ballots.
+17
+18 PART VII. TRAINING FOR COUNTY BOARDS OF ELECTIONS
+19 SECTION 7.1. The School of Government at the University of North Carolina at
+20 Chapel Hill shall work jointly with the State Board of Elections to develop a uniform curriculum
+21 to provide trainings for county directors of elections and employees of county boards of elections
+22 on the election laws and procedures as provided for in Chapter 163 of the General Statutes.
+23 SECTION 7.2. The State Board of Elections shall partner with local community
+24 colleges to provide a location in which any training conducted by the State Board of Elections or
+25 a county board of elections may be held.
+26
+27 PART VIII. EFFECTIVE DATE
+28 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+29 law.
+Page 14 House Bill 958-Second Edition
+
+[DELETED:  2 E (   A A T  P S S S r " ( T P ( V c o b c a t p o e d s o i b c u P 5 o A 1 o t C a c e c m b ( V p c s ( A b t o ( R ( P e d t t c b o e a q a p T p c c ( R ( T s]
+[DELETED:  S  H ( V e b w p ( V c ( A t b W s n p i t o c o o b ( I r i t c a p i 1 ( v i t p p u G b d c e a e v G n t i o v u f i d ( I t o s h t r t ( A p t t e i a n h g c i t c N m a t ( T A B ( F e v s u t r s s t r o p o b ( F v]
+[DELETED:  S  P e b o a s o a s b i i e c T p e p e f s i i p e p w a m d b t e o m c a a h b t b t h c a t m o e c i s a c h c s c T s c ( T p o ( T b ( T p S " C t v m c t d C d a d t c b c w s f ( T v d n s t v c a r b G ( T ( T i G s T i o t t p w t c o t a b i a a d e i d r T]
+[DELETED:  S  H t b S " C o E A B – O t v a b t S " A r … ( T o c 5 A t i o s n s o l t c p e f u n t T c b m b c a b i u A a a e s p N t c o l t c p e f u n T c b c p c i s b s u t t p r o a a p a t f s f t c w b t e o t c f d r e n o … ( T o a G ( o]
+[DELETED:  S  P ( N c s d t S " F p S a J  P  P S " P i S e  R S a " S S " 1  P j a j o e t o o q ( A b a o s a o a j e v r a ( T j u ( N w ( T p h a e o u g o U S ( N a]
+[DELETED:  S  H ( N h p o p o o w i a m o t f a c a o ( T s … S " ( A o a r ( … S " T a h t r a c j j o a o o d f a o s c c a p i G I e w p S " I a v f o m v t e p s t t d o t p o e A p a t s a a e e a s b t a p l o p a i a e m b r S " T l B ( O t]
+[DELETED:  S  P ( O d e e y b t f p p a ( O t ( E S o p b i ( T ( H t c w a p p t v i r i t c ( H ( H t ( T ( T p r e a i t v p a b ( T o S e  C S " W b s i c o G F a c s f d o t v u G t S e  D S " ( I ( M r b g a c ( U a p ( C ( A S s]
+[DELETED:  S  H ( T f o ( O c o a p i o a o a c e o e ( D c p ( D w ( O S T p b ( U p a p w v a p o t s i g o a C 2 m S " A s e p C a S o  B S a " N " i S e  R S " R t a r S 2  G i a b a a n s " C d n r a t a g b t r a t t m]
+[DELETED:  S  P S e  C S " A s v c S e  P E B  R S " N ( M t ( R ( M w o o s i f g d o d e s p ( M w o o s i f g d o d o ( S c f a c p c o r c ( S ( M w o o s i f g d o d a S " N ( M w o o s i f g d o d e o o o m c i c f p o s p ( M w o o s i f g d o d o ( M w o o s i f g d o d a S e ]
+[DELETED:  S  H A S " ( T m a ( T r t ( T a ( I u c a ( T o e c ( A ( A w ( A C ( A t ( I o o t ( G t ( A l d S l  D S 3  G i a b a t f n s " T ( E S B b d E f a d]
+[DELETED:  S  P S " E o t A G t S o P I t C o A t C o I t L C n e p p i t d w i g T t n o f e p f e I ( i g T n o e m p d b t S o P I i l t 7 e m p d w i g T t n o e p p i  P  P S " ( T c t t ( T c v s s t m b w a f o i o p t m f a i e s i a w t s S e  P S " ( E p t … ( 4 c t r a c o t o f s d w o]
+[DELETED:  S  H d p b T i t r o i c T S B s i c D I t i a … ( S ( o t s s n a t a c c c u … S " ( T B … ( 4 t t a r i s s t f a m o m t r i t r a p n G o R i … S a t  C S " T a A U b A g o a f c o a p s t c A]
+[DELETED:  S  P d A b e t i o u t l o o h i p e A i f S b " ( A e ( A i ( T U ( A o S S c  P S w e s u t s 1 c t w s f t p p i a w S 2 T p p s c o c b o e u s v r s c b s s S e o i ( W b a w t v s o t e a b w m ( H e ( H m e a b w f b t s v s s ( I o h t s m s f a e a v]
+[DELETED:  S  H S e a b s b r b t c b o e f f a s a S a d t t J L E O C a s a i t f ( A e ( T s ( A s l c t f i s v s v ( A  P S C t o S c a  P S l]

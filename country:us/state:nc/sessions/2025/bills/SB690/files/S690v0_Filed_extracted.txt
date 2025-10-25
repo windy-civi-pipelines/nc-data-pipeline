@@ -1,0 +1,471 @@
+Title: SENATE BILL DRS15280-NN-13A
+Official Title: SENATE BILL DRS15280-NN-13A
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 690
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Modify Licensing Real Est. Appraisers. (Public)
+Sponsors: Senators Craven, Jarvis, and Jones (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY THE LICENSING AND CERTIFICATION PROCEDURES OF THE
+3 NORTH CAROLINA APPRAISERS ACT.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 93E of the General Statutes reads as rewritten:
+6 "Chapter 93E.
+7 "North Carolina Appraisers Act.
+8 "Article 1.
+9 "Real Estate Appraiser.
+10 …
+11 "§ 93E-1-4. Registration, license, or certificate required of real estate appraisers.
+12 When used in this Chapter, unless the context otherwise requires, the term:
+13 (1) "Appraisal" or "real estate appraisal" means an analysis, opinion, or
+14 conclusion as to the value of identified real estate or specified interests therein
+15 performed for compensation or other valuable consideration.
+16 (2) "Appraisal assignment" means an engagement for which an appraiser is
+17 employed or retained to act, or would be perceived by third parties or the
+18 public as acting, as a disinterested third party in rendering an unbiased
+19 appraisal.
+20 (3) "Appraisal Board" or "Board" means the North Carolina Appraisal Board
+21 established under G.S. 93E-1-5.
+22 (4) "Appraisal Foundation" or "Foundation" means The Appraisal Foundation
+23 established on November 20, 1987, as a not-for-profit corporation under the
+24 laws of Illinois.
+25 (5) "Appraisal report" means any communication, written or oral, of an appraisal.
+26 (5a) "Appraiser Qualifications Board" or "AQB" means the board established by
+27 the Appraisal Foundation to set nationwide minimum education, experience,
+28 and examination standards for real estate appraiser licensure and certification.
+29 (5b) "Approved PAREA program" means a course or program developed by a
+30 third-party provider that has been approved by the Appraiser Qualifications
+31 Board of the Appraisal Foundation and the Appraisal Board, which meets the
+32 standards for Practical Applications of Real Estate Appraisal and satisfies the
+33 experience requirements for real estate appraiser licensure or certification as
+34 required by this Chapter.
+35 (6) "Certificate" means that document issued by the North Carolina Appraisal
+36 Board evidencing that the person named therein has satisfied the requirements
+*DRS15280-NN-13A*
+General Assembly Of North Carolina Session 2025
+1 for certification as a certified real estate appraiser and bearing a certificate
+2 number assigned by the Board.
+3 (7) "Certificate holder" means a person certified by the Board under the
+4 provisions of this Chapter.
+5 (7a) "Certified general real estate appraiser" means a person who holds a current,
+6 valid certificate as a certified general real estate appraiser issued under the
+7 provisions of this Chapter.
+8 (7b) "Certified residential real estate appraiser" means a person who holds a
+9 current, valid certificate as a certified residential real estate appraiser issued
+10 under the provisions of this Chapter.
+11 (7c) "Comparative market analysis" and "broker price opinion" mean an estimate
+12 prepared by a licensed real estate broker that details the probable selling price
+13 or leasing price of a particular parcel of or interest in property and provides a
+14 varying level of detail about the property's condition, market, and
+15 neighborhood, and information on comparable properties, but does not
+16 include an automated valuation model.
+17 (8) "License" means that document issued by the North Carolina Appraisal Board
+18 evidencing that the person named therein has satisfied the requirements for
+19 licensure as a licensed real estate appraiser and bearing a license number
+20 assigned by the Board.
+21 (8a) "Licensed residential real estate appraiser" means a person who holds a
+22 current, valid license as a licensed residential real estate appraiser issued under
+23 the provisions of this Chapter.
+24 (9) "Licensee" means a person licensed by the Board under the provisions of this
+25 Chapter.
+26 (9a) "Practical Applications of Real Estate Appraisal" or "PAREA" means the
+27 program framework established by the Appraiser Qualifications Board of the
+28 Appraisal Foundation, providing an alternative to the traditional supervisor
+29 and trainee method for satisfying real estate appraisal experience requirements
+30 through technology-based training, case studies, and supervision by qualified
+31 mentors.
+32 (10) "Real estate" or "real property" means land, including the air above and
+33 ground below and all appurtenances and improvements thereto, as well as any
+34 interest or right inherent in the ownership of land.
+35 (11) "Real estate appraiser" or "appraiser" means a person who for a fee or valuable
+36 consideration develops and communicates real estate appraisals or otherwise
+37 gives an opinion of the value of real estate or any interest therein.
+38 (12) "Real estate appraising" means the practice of developing and communicating
+39 real estate appraisals.
+40 (13) "Residential real estate" means any parcel of real estate, improved or
+41 unimproved, that is exclusively residential in nature and that includes or is
+42 intended to include a residential structure containing not more than four
+43 dwelling units and no other improvements except those which are typical
+44 residential improvements that support the residential use for the location and
+45 property type. A residential unit in a condominium, town house, or
+46 cooperative complex, or planned unit development is considered to be
+47 residential real estate.
+48 …
+49 (17) "Temporary appraiser licensure or certification" means the issuance of a
+50 temporary license or certificate by the Board to a person licensed or certified
+Page 2 DRS15280-NN-13A
+General Assembly Of North Carolina Session 2025
+1 in another state who enters this State for the purpose of completing a particular
+2 appraisal assignment.
+3 (18) "Trainee", "registered trainee", or "trainee real estate appraiser" means a
+4 person who holds a current, valid registration as a trainee real estate appraiser
+5 issued under the provisions of this Chapter.
+6 (19) "Trainee registration" or "registration as a trainee" means the document issued
+7 by the North Carolina Appraisal Board evidencing that the person named
+8 therein has satisfied the requirements of registration as a trainee real estate
+9 appraiser and bearing a registration number assigned by the Board.
+10 …
+11 "§ 93E-1-6. Qualifications for registration, licensure, and certification; applications;
+12 application fees; examinations.
+13 (a) Any person desiring to be registered as a trainee or to obtain licensure or certification
+14 as a licensed or certified real estate appraiser shall make written application to the Board on the
+15 forms as are prescribed by the Board setting forth the applicant's qualifications for registration,
+16 licensure, or certification. Each applicant shall satisfy the following qualification requirements:
+17 (1)-(3) Repealed by Session Laws 2019-146, s. 1, effective October 1, 2019, and
+18 applicable to registrations, licensures, and certifications issued after that date.
+19 (4) Repealed by Session Laws 2001-399, s. 1.
+20 (5) Obtain a high school diploma or its equivalent.
+21 (6) Successfully complete education, experience, and examination as required by
+22 The Appraisal Foundation's Appraiser Qualifications Board for each level of
+23 registration, licensure, or certification. certification, or satisfy the
+24 requirements sets forth in subsections (a1) through (a3) of this section.
+25 (7) Satisfy any additional education or experience requirements that the Board
+26 may impose by rule.
+27 (a1) An applicant for licensure as a licensed residential real estate appraiser shall satisfy
+28 the experience requirements by completing either of the following pathways:
+29 (1) Traditional Supervisor and Trainee Pathway. – Complete the traditional
+30 supervised experience requirements established by the AQB and adopted by
+31 the Board.
+32 (2) PAREA Pathway. – Successfully complete an approved Practical
+33 Applications of Real Estate Appraisal (PAREA) program and meet all of the
+34 following requirements:
+35 a. Successfully complete all education and examination requirements for
+36 licensure.
+37 b. Graduate from an approved PAREA program.
+38 c. Pass the state licensing examination.
+39 (a2) An applicant for certification as a certified residential real estate appraiser shall satisfy
+40 the experience requirements by completing either of the following pathways:
+41 (1) Traditional Supervisor and Trainee Pathway. – Complete the traditional
+42 supervised experience requirements established by the AQB and adopted by
+43 the Board.
+44 (2) PAREA Pathway. – Successfully complete a PAREA program approved by
+45 the Board and meet all of the following requirements:
+46 a. Complete either of the following experience options:
+47 1. All of the following:
+48 I. Obtain licensure as a licensed real estate appraiser.
+49 II. After obtaining licensure, complete 50 full appraisal
+50 reports reviewed by a certified appraiser.
+DRS15280-NN-13A Page 3
+General Assembly Of North Carolina Session 2025
+1 III. Submit ten percent (10%) of those appraisal reports to
+2 the Board. The Board shall review those appraisal
+3 reports for accuracy and competency.
+4 2. Hold a valid licensed residential real estate appraiser license
+5 issued under this chapter in good standing for a period of at
+6 least five years immediately preceding the date of application.
+7 b. Satisfy all additional education and examination requirements for
+8 certification prescribed by the Board.
+9 (a3) The following requirements apply to reports submitted under subsection (a2) of this
+10 section by applicants following the PAREA pathway:
+11 (1) Appraisal reports must be reviewed by a certified appraiser before submission
+12 to clients.
+13 (2) The applicant may include the following types of appraisal reports among the
+14 reports submitted to the certified appraiser or the Board for review:
+15 a. Uniform Residential Appraisal Report (Desktop).
+16 b. Exterior-Only Inspection Residential Appraisal Report.
+17 c. Uniform Residential Appraisal Report (Hybrid).
+18 (3) These reports must demonstrate sufficient representation of various property
+19 types and appraisal methods to ensure the applicant's competency across a
+20 range of real estate appraising scenarios.
+21 (4) Demonstration reports, which include hypothetical or practice scenarios, shall
+22 not be accepted by the Board or the reviewing appraiser as part of the required
+23 submission.
+24 (5) PAREA applicants are not required to use the same reviewing appraiser for
+25 all reports.
+26 (6) A review appraiser's responsibility shall be limited to their evaluation and
+27 review of the appraisal reports submitted by the PAREA applicant. The review
+28 appraiser shall not bear responsibility for the content, conclusions, or
+29 outcomes of the PAREA applicant's work, except for the accuracy of their
+30 own review.
+31 (7) A review appraiser shall not be held liable for any errors, omissions, or
+32 deficiencies in an appraisal report subsequently submitted by the PAREA
+33 applicant to a client that were not corrected despite being identified in the
+34 review appraiser's report.
+35 (8) The PAREA applicant, review appraiser, and any other individuals or entities
+36 involved in the appraisal process shall comply with the Uniform Standards of
+37 Professional Appraisal Practice, state regulatory requirements, and the
+38 requirements of this Chapter for real estate appraising.
+39 (a4) Nothing in subsections (a1) through (a3) of this section shall be construed to limit or
+40 modify the Board's authority to grant registration, licensure, or certification through traditional
+41 supervised experience requirements established by the AQB and adopted by the Board.
+42 …
+43 "§ 93E-1-9. Nonresident licensure and certification.
+44 (a) An applicant from another state may become licensed or certified in North Carolina
+45 only by conforming to all of the provisions of this Chapter and, in the discretion of the Board,
+46 such other terms and conditions as are required of North Carolina residents applying for licensure
+47 or certification in such other state.Chapter, including meeting substantially similar education,
+48 experience, and examination requirements as required of North Carolina residents. Reciprocity
+49 agreements or allowances for applicants based solely on licensure or certification in another state
+50 are not permitted.
+Page 4 DRS15280-NN-13A
+General Assembly Of North Carolina Session 2025
+1 (b) The Board, in its discretion, may undertake to license or certify on a reciprocal basis,
+2 persons licensed or certified in another state if the appraiser licensing and certification program
+3 of the other state is in compliance with 12 U.S.C. § 3331, et seq.
+4 (c) The Board may by rule establish a procedure for granting temporary appraiser
+5 licensure or certification and may charge an application fee of one hundred fifty dollars ($150.00)
+6 for temporary appraiser licensure or certification.
+7 (d) Every applicant for State licensure, or certification under this Chapter who is not a
+8 resident of this State shall submit with his or her application an irrevocable consent that service
+9 of process in any action against the applicant arising out of the applicant's activities as a
+10 State-licensed or State-certified real estate appraiser may be made by delivery of the process on
+11 the Executive Director of the Board."
+12 SECTION 2. The North Carolina Appraisal Board may adopt rules to implement the
+13 provisions of this act.
+14 SECTION 3. This act becomes effective October 1, 2025, and applies to applications
+15 for licensure, certification, and reciprocal licensure and certification on or after that date.
+DRS15280-NN-13A Page 5
+[DELETED:  D M ( S  A A N T S " " " " … " W ( " o " e a m a a o o c p ( " a m a e f w a a i e p a a a a d t p i r a u a ( " B o " m t N C A B e ( " T e l ( " ( " t a ( " t B s e r ( " B]
+[DELETED:  S  D f n ( " h m a p c b t B u t p ( " v p ( " r r e a m a p w h a c u ( " p o v l o d a t p c m a n a i o c p b d n i ( " e l a a l r e a a b a l n a ( " r r e a m a p w h a c t ( " C ( " A o E A o " m t p A a t m ( " e o " p m l i t a a a g i ( " c g ( " r ( " r e m a p o r e i o u i t i a r s c n m t f d e a r p t A r u i a c t h o c c o p u d i c t b r … ( " a l o c m t i o a t]
+[DELETED:  S  P i a ( " " t o " r e a m a p i ( " b A t a … " 9  Q f r l a c a a ( A a f l ( a ( R ( O ( S T r l o c c o s t r ( S m ( A t ( T S a T P – C t t s t ( P P – S c a a P A f a S l b G c P ( A t ( T S a T P – C t t s t ( P t a C 1 A I O I A o l c 5 f a r]
+[DELETED:  S  D I S t B T B s r t a r 2 H i l b S a a e a e r f c ( T s ( A t ( T r a U b E c U ( T t r ( D n s ( P a ( A r a s n b r f t c c o o o ( A r a s n b h l f a e o o d i a a r s s b t P a r ( T i P A P s r r a t r ( N m s … " ( A o s o e a a]
+[DELETED:  S  P ( T p o ( T B m b r e a p f g t a l f ( E r o p i a a a t a a o o t a a a a S t S p S f]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 690
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS15280-NN-13A
+Short Title: Modify Licensing Real Est. Appraisers. (Public)
+Sponsors: Senators Craven, Jarvis, and Jones (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY THE LICENSING AND CERTIFICATION PROCEDURES OF THE
+3 NORTH CAROLINA APPRAISERS ACT.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Chapter 93E of the General Statutes reads as rewritten:
+6 "Chapter 93E.
+7 "North Carolina Appraisers Act.
+8 "Article 1.
+9 "Real Estate Appraiser.
+10 …
+11 "§ 93E-1-4. Registration, license, or certificate required of real estate appraisers.
+12 When used in this Chapter, unless the context otherwise requires, the term:
+13 (1) "Appraisal" or "real estate appraisal" means an analysis, opinion, or
+14 conclusion as to the value of identified real estate or specified interests therein
+15 performed for compensation or other valuable consideration.
+16 (2) "Appraisal assignment" means an engagement for which an appraiser is
+17 employed or retained to act, or would be perceived by third parties or the
+18 public as acting, as a disinterested third party in rendering an unbiased
+19 appraisal.
+20 (3) "Appraisal Board" or "Board" means the North Carolina Appraisal Board
+21 established under G.S. 93E-1-5.
+22 (4) "Appraisal Foundation" or "Foundation" means The Appraisal Foundation
+23 established on November 20, 1987, as a not-for-profit corporation under the
+24 laws of Illinois.
+25 (5) "Appraisal report" means any communication, written or oral, of an appraisal.
+26 (5a) "Appraiser Qualifications Board" or "AQB" means the board established by
+27 the Appraisal Foundation to set nationwide minimum education, experience,
+28 and examination standards for real estate appraiser licensure and certification.
+29 (5b) "Approved PAREA program" means a course or program developed by a
+30 third-party provider that has been approved by the Appraiser Qualifications
+31 Board of the Appraisal Foundation and the Appraisal Board, which meets the
+32 standards for Practical Applications of Real Estate Appraisal and satisfies the
+33 experience requirements for real estate appraiser licensure or certification as
+34 required by this Chapter.
+35 (6) "Certificate" means that document issued by the North Carolina Appraisal
+36 Board evidencing that the person named therein has satisfied the requirements
+*DRS15280-NN-13A*
+
+General Assembly Of North Carolina Session 2025
+1 for certification as a certified real estate appraiser and bearing a certificate
+2 number assigned by the Board.
+3 (7) "Certificate holder" means a person certified by the Board under the
+4 provisions of this Chapter.
+5 (7a) "Certified general real estate appraiser" means a person who holds a current,
+6 valid certificate as a certified general real estate appraiser issued under the
+7 provisions of this Chapter.
+8 (7b) "Certified residential real estate appraiser" means a person who holds a
+9 current, valid certificate as a certified residential real estate appraiser issued
+10 under the provisions of this Chapter.
+11 (7c) "Comparative market analysis" and "broker price opinion" mean an estimate
+12 prepared by a licensed real estate broker that details the probable selling price
+13 or leasing price of a particular parcel of or interest in property and provides a
+14 varying level of detail about the property's condition, market, and
+15 neighborhood, and information on comparable properties, but does not
+16 include an automated valuation model.
+17 (8) "License" means that document issued by the North Carolina Appraisal Board
+18 evidencing that the person named therein has satisfied the requirements for
+19 licensure as a licensed real estate appraiser and bearing a license number
+20 assigned by the Board.
+21 (8a) "Licensed residential real estate appraiser" means a person who holds a
+22 current, valid license as a licensed residential real estate appraiser issued under
+23 the provisions of this Chapter.
+24 (9) "Licensee" means a person licensed by the Board under the provisions of this
+25 Chapter.
+26 (9a) "Practical Applications of Real Estate Appraisal" or "PAREA" means the
+27 program framework established by the Appraiser Qualifications Board of the
+28 Appraisal Foundation, providing an alternative to the traditional supervisor
+29 and trainee method for satisfying real estate appraisal experience requirements
+30 through technology-based training, case studies, and supervision by qualified
+31 mentors.
+32 (10) "Real estate" or "real property" means land, including the air above and
+33 ground below and all appurtenances and improvements thereto, as well as any
+34 interest or right inherent in the ownership of land.
+35 (11) "Real estate appraiser" or "appraiser" means a person who for a fee or valuable
+36 consideration develops and communicates real estate appraisals or otherwise
+37 gives an opinion of the value of real estate or any interest therein.
+38 (12) "Real estate appraising" means the practice of developing and communicating
+39 real estate appraisals.
+40 (13) "Residential real estate" means any parcel of real estate, improved or
+41 unimproved, that is exclusively residential in nature and that includes or is
+42 intended to include a residential structure containing not more than four
+43 dwelling units and no other improvements except those which are typical
+44 residential improvements that support the residential use for the location and
+45 property type. A residential unit in a condominium, town house, or
+46 cooperative complex, or planned unit development is considered to be
+47 residential real estate.
+48 …
+49 (17) "Temporary appraiser licensure or certification" means the issuance of a
+50 temporary license or certificate by the Board to a person licensed or certified
+Page 2 DRS15280-NN-13A
+
+General Assembly Of North Carolina Session 2025
+1 in another state who enters this State for the purpose of completing a particular
+2 appraisal assignment.
+3 (18) "Trainee", "registered trainee", or "trainee real estate appraiser" means a
+4 person who holds a current, valid registration as a trainee real estate appraiser
+5 issued under the provisions of this Chapter.
+6 (19) "Trainee registration" or "registration as a trainee" means the document issued
+7 by the North Carolina Appraisal Board evidencing that the person named
+8 therein has satisfied the requirements of registration as a trainee real estate
+9 appraiser and bearing a registration number assigned by the Board.
+10 …
+11 "§ 93E-1-6. Qualifications for registration, licensure, and certification; applications;
+12 application fees; examinations.
+13 (a) Any person desiring to be registered as a trainee or to obtain licensure or certification
+14 as a licensed or certified real estate appraiser shall make written application to the Board on the
+15 forms as are prescribed by the Board setting forth the applicant's qualifications for registration,
+16 licensure, or certification. Each applicant shall satisfy the following qualification requirements:
+17 (1)-(3) Repealed by Session Laws 2019-146, s. 1, effective October 1, 2019, and
+18 applicable to registrations, licensures, and certifications issued after that date.
+19 (4) Repealed by Session Laws 2001-399, s. 1.
+20 (5) Obtain a high school diploma or its equivalent.
+21 (6) Successfully complete education, experience, and examination as required by
+22 The Appraisal Foundation's Appraiser Qualifications Board for each level of
+23 registration, licensure, or certification. certification, or satisfy the
+24 requirements sets forth in subsections (a1) through (a3) of this section.
+25 (7) Satisfy any additional education or experience requirements that the Board
+26 may impose by rule.
+27 (a1) An applicant for licensure as a licensed residential real estate appraiser shall satisfy
+28 the experience requirements by completing either of the following pathways:
+29 (1) Traditional Supervisor and Trainee Pathway. – Complete the traditional
+30 supervised experience requirements established by the AQB and adopted by
+31 the Board.
+32 (2) PAREA Pathway. – Successfully complete an approved Practical
+33 Applications of Real Estate Appraisal (PAREA) program and meet all of the
+34 following requirements:
+35 a. Successfully complete all education and examination requirements for
+36 licensure.
+37 b. Graduate from an approved PAREA program.
+38 c. Pass the state licensing examination.
+39 (a2) An applicant for certification as a certified residential real estate appraiser shall satisfy
+40 the experience requirements by completing either of the following pathways:
+41 (1) Traditional Supervisor and Trainee Pathway. – Complete the traditional
+42 supervised experience requirements established by the AQB and adopted by
+43 the Board.
+44 (2) PAREA Pathway. – Successfully complete a PAREA program approved by
+45 the Board and meet all of the following requirements:
+46 a. Complete either of the following experience options:
+47 1. All of the following:
+48 I. Obtain licensure as a licensed real estate appraiser.
+49 II. After obtaining licensure, complete 50 full appraisal
+50 reports reviewed by a certified appraiser.
+DRS15280-NN-13A Page 3
+
+General Assembly Of North Carolina Session 2025
+1 III. Submit ten percent (10%) of those appraisal reports to
+2 the Board. The Board shall review those appraisal
+3 reports for accuracy and competency.
+4 2. Hold a valid licensed residential real estate appraiser license
+5 issued under this chapter in good standing for a period of at
+6 least five years immediately preceding the date of application.
+7 b. Satisfy all additional education and examination requirements for
+8 certification prescribed by the Board.
+9 (a3) The following requirements apply to reports submitted under subsection (a2) of this
+10 section by applicants following the PAREA pathway:
+11 (1) Appraisal reports must be reviewed by a certified appraiser before submission
+12 to clients.
+13 (2) The applicant may include the following types of appraisal reports among the
+14 reports submitted to the certified appraiser or the Board for review:
+15 a. Uniform Residential Appraisal Report (Desktop).
+16 b. Exterior-Only Inspection Residential Appraisal Report.
+17 c. Uniform Residential Appraisal Report (Hybrid).
+18 (3) These reports must demonstrate sufficient representation of various property
+19 types and appraisal methods to ensure the applicant's competency across a
+20 range of real estate appraising scenarios.
+21 (4) Demonstration reports, which include hypothetical or practice scenarios, shall
+22 not be accepted by the Board or the reviewing appraiser as part of the required
+23 submission.
+24 (5) PAREA applicants are not required to use the same reviewing appraiser for
+25 all reports.
+26 (6) A review appraiser's responsibility shall be limited to their evaluation and
+27 review of the appraisal reports submitted by the PAREA applicant. The review
+28 appraiser shall not bear responsibility for the content, conclusions, or
+29 outcomes of the PAREA applicant's work, except for the accuracy of their
+30 own review.
+31 (7) A review appraiser shall not be held liable for any errors, omissions, or
+32 deficiencies in an appraisal report subsequently submitted by the PAREA
+33 applicant to a client that were not corrected despite being identified in the
+34 review appraiser's report.
+35 (8) The PAREA applicant, review appraiser, and any other individuals or entities
+36 involved in the appraisal process shall comply with the Uniform Standards of
+37 Professional Appraisal Practice, state regulatory requirements, and the
+38 requirements of this Chapter for real estate appraising.
+39 (a4) Nothing in subsections (a1) through (a3) of this section shall be construed to limit or
+40 modify the Board's authority to grant registration, licensure, or certification through traditional
+41 supervised experience requirements established by the AQB and adopted by the Board.
+42 …
+43 "§ 93E-1-9. Nonresident licensure and certification.
+44 (a) An applicant from another state may become licensed or certified in North Carolina
+45 only by conforming to all of the provisions of this Chapter and, in the discretion of the Board,
+46 such other terms and conditions as are required of North Carolina residents applying for licensure
+47 or certification in such other state.Chapter, including meeting substantially similar education,
+48 experience, and examination requirements as required of North Carolina residents. Reciprocity
+49 agreements or allowances for applicants based solely on licensure or certification in another state
+50 are not permitted.
+Page 4 DRS15280-NN-13A
+
+General Assembly Of North Carolina Session 2025
+1 (b) The Board, in its discretion, may undertake to license or certify on a reciprocal basis,
+2 persons licensed or certified in another state if the appraiser licensing and certification program
+3 of the other state is in compliance with 12 U.S.C. § 3331, et seq.
+4 (c) The Board may by rule establish a procedure for granting temporary appraiser
+5 licensure or certification and may charge an application fee of one hundred fifty dollars ($150.00)
+6 for temporary appraiser licensure or certification.
+7 (d) Every applicant for State licensure, or certification under this Chapter who is not a
+8 resident of this State shall submit with his or her application an irrevocable consent that service
+9 of process in any action against the applicant arising out of the applicant's activities as a
+10 State-licensed or State-certified real estate appraiser may be made by delivery of the process on
+11 the Executive Director of the Board."
+12 SECTION 2. The North Carolina Appraisal Board may adopt rules to implement the
+13 provisions of this act.
+14 SECTION 3. This act becomes effective October 1, 2025, and applies to applications
+15 for licensure, certification, and reciprocal licensure and certification on or after that date.
+DRS15280-NN-13A Page 5
+
+[DELETED:  D M ( S  A A N T S " " " " … " W ( " o " e a m a a o o c p ( " a m a e f w a a i e p a a a a d t p i r a u a ( " B o " m t N C A B e ( " T e l ( " ( " t a ( " t B s e r ( " B]
+[DELETED:  S  D f n ( " h m a p c b t B u t p ( " v p ( " r r e a m a p w h a c u ( " p o v l o d a t p c m a n a i o c p b d n i ( " e l a a l r e a a b a l n a ( " r r e a m a p w h a c t ( " C ( " A o E A o " m t p A a t m ( " e o " p m l i t a a a g i ( " c g ( " r ( " r e m a p o r e i o u i t i a r s c n m t f d e a r p t A r u i a c t h o c c o p u d i c t b r … ( " a l o c m t i o a t]
+[DELETED:  S  P i a ( " " t o " r e a m a p i ( " b A t a … " 9  Q f r l a c a a ( A a f l ( a ( R ( O ( S T r l o c c o s t r ( S m ( A t ( T S a T P – C t t s t ( P P – S c a a P A f a S l b G c P ( A t ( T S a T P – C t t s t ( P t a C 1 A I O I A o l c 5 f a r]
+[DELETED:  S  D I S t B T B s r t a r 2 H i l b S a a e a e r f c ( T s ( A t ( T r a U b E c U ( T t r ( D n s ( P a ( A r a s n b r f t c c o o o ( A r a s n b h l f a e o o d i a a r s s b t P a r ( T i P A P s r r a t r ( N m s … " ( A o s o e a a]
+[DELETED:  S  P ( T p o ( T B m b r e a p f g t a l f ( E r o p i a a a t a a o o t a a a a S t S p S f]

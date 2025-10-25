@@ -1,0 +1,156 @@
+Title: HOUSE BILL 520
+Official Title: HOUSE BILL 520
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Abuse and Deception by Telemarketers. (Public)
+Sponsors: Representatives Brody, Bell, Dahle, and Gable (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Judiciary 2, if favorable, Rules, Calendar, and Operations of the House
+March 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ADDRESS ABUSE OF PRIVACY AND ACTS OF DECEPTION FROM
+3 TELEMARKETERS BY DISPLAYING PHONE NUMBERS THAT ARE FRAUDULENT
+4 AND MISREPRESENTATIVE OF THE ACTUAL CALLER.
+5 Whereas, the citizens and businesses of North Carolina claim the right of privacy and
+6 exclusive use of the phone lines and numbers for which they contract for; and
+7 Whereas, the citizens and businesses of North Carolina claim a right of privacy and
+8 enjoyment of that privacy from telemarketers who spoof, or otherwise disguise their actual phone
+9 numbers, preventing the receiving phone from identifying who is calling, and
+10 Whereas, the citizens and businesses of North Carolina claim some telemarketers are
+11 violating these rights and fraudulently displaying numbers which are assigned to other people,
+12 assigned to various businesses, using numbers that are not assigned to anyone (including the
+13 caller), or made up combinations of numbers and letters to disguise the real identification of the
+14 caller; Now, therefore,
+15 The General Assembly of North Carolina enacts:
+16 SECTION 1. G.S. 75-100 is amended by adding a new subdivision to read:
+17 "(10) A telephone number is the property of a telephone subscriber, subject to the
+18 terms and conditions of the subscriber's contract with a telephone carrier."
+19 SECTION 2. G.S. 75-102(i) reads as rewritten:
+20 "(i) No telephone solicitor or its agent shall cause misleading information to be
+21 transmitted to users of caller identification technologies or otherwise block or misrepresent the
+22 origin of the telephone solicitation. No provider of telephone caller identification services shall
+23 be held liable for violations of this subsection committed by other individuals or entities. It is not
+24 a violation of this subsection for a telephone solicitor to utilize the name and number of the entity
+25 the solicitation is being made on behalf of rather than the name and number of the telephone
+26 solicitor."
+27 SECTION 3. Article 4 of Chapter 75 of the General Statutes is amended by adding
+28 a new section to read:
+29 "§ 75-104.1. Telephone carriers.
+30 (a) A telephone carrier shall not knowingly and intentionally transmit, sell, or otherwise
+31 provide the numbers of telephone subscribers to any entity the telephone carrier knows will use
+32 the number to violate provisions of this Act.
+33 (b) A telephone carrier shall not be held liable for a telemarketer's violation of
+34 G.S. 75-102(i)."
+35 SECTION 4. G.S. 75-105 reads as rewritten:
+*H520-v-1*
+General Assembly Of North Carolina Session 2025
+1 "§ 75-105. Enforcement.
+2 …
+3 (b) A telephone subscriber who has received a telephone solicitation from or on behalf
+4 of a telephone solicitor in violation of this Article may bring any of the following actions in civil
+5 court:
+6 (1) An action to enjoin further violations of this Article by the telephone solicitor.
+7 (2) An action to recover five hundred dollars ($500.00) for the first violation, one
+8 thousand dollars ($1,000) for the second violation, and five thousand dollars
+9 ($5,000) for the third and any other violation that occurs within two years of
+10 the first violation.
+11 (b1) A telephone subscriber who has received a telephone solicitation in violation of
+12 G.S. 75-102(i), or a telephone subscriber whose phone number or name was displayed in a way
+13 to give the perception that a call originated from that subscriber or number when the call was
+14 actually placed from a different origin and in violation of G.S. 75-102(i), may bring any action
+15 authorized pursuant this section or Chapter against the telemarketer initiating the call. In an action
+16 brought under this subsection, the court shall impose an additional civil fine of ten thousand
+17 dollars ($10,000) for each call placed in knowing violation of G.S. 75-102(i). Any person who
+18 knowingly violates G.S. 75-105(i) shall be guilty of a Class H felony.
+19 …."
+20 SECTION 5. This act becomes effective December 1, 2025, and applies to phone
+21 calls placed on or after that date.
+Page 2 House Bill 520-First Edition
+[DELETED:  1 A ( R J A A A T A A O P A A O D F T A W e W e n W v a c c T S " A t S " N t s o i a s c m i t b t o b a t s S a " ( A p t ( A t c s n b h l f a t v o G S]
+[DELETED:  S  H " … ( A o c ( A ( A t ( t ( A t s w h r a t s i v o G t a a b d k … S c]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 520
+Short Title: Abuse and Deception by Telemarketers. (Public)
+Sponsors: Representatives Brody, Bell, Dahle, and Gable (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Judiciary 2, if favorable, Rules, Calendar, and Operations of the House
+March 27, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ADDRESS ABUSE OF PRIVACY AND ACTS OF DECEPTION FROM
+3 TELEMARKETERS BY DISPLAYING PHONE NUMBERS THAT ARE FRAUDULENT
+4 AND MISREPRESENTATIVE OF THE ACTUAL CALLER.
+5 Whereas, the citizens and businesses of North Carolina claim the right of privacy and
+6 exclusive use of the phone lines and numbers for which they contract for; and
+7 Whereas, the citizens and businesses of North Carolina claim a right of privacy and
+8 enjoyment of that privacy from telemarketers who spoof, or otherwise disguise their actual phone
+9 numbers, preventing the receiving phone from identifying who is calling, and
+10 Whereas, the citizens and businesses of North Carolina claim some telemarketers are
+11 violating these rights and fraudulently displaying numbers which are assigned to other people,
+12 assigned to various businesses, using numbers that are not assigned to anyone (including the
+13 caller), or made up combinations of numbers and letters to disguise the real identification of the
+14 caller; Now, therefore,
+15 The General Assembly of North Carolina enacts:
+16 SECTION 1. G.S. 75-100 is amended by adding a new subdivision to read:
+17 "(10) A telephone number is the property of a telephone subscriber, subject to the
+18 terms and conditions of the subscriber's contract with a telephone carrier."
+19 SECTION 2. G.S. 75-102(i) reads as rewritten:
+20 "(i) No telephone solicitor or its agent shall cause misleading information to be
+21 transmitted to users of caller identification technologies or otherwise block or misrepresent the
+22 origin of the telephone solicitation. No provider of telephone caller identification services shall
+23 be held liable for violations of this subsection committed by other individuals or entities. It is not
+24 a violation of this subsection for a telephone solicitor to utilize the name and number of the entity
+25 the solicitation is being made on behalf of rather than the name and number of the telephone
+26 solicitor."
+27 SECTION 3. Article 4 of Chapter 75 of the General Statutes is amended by adding
+28 a new section to read:
+29 "§ 75-104.1. Telephone carriers.
+30 (a) A telephone carrier shall not knowingly and intentionally transmit, sell, or otherwise
+31 provide the numbers of telephone subscribers to any entity the telephone carrier knows will use
+32 the number to violate provisions of this Act.
+33 (b) A telephone carrier shall not be held liable for a telemarketer's violation of
+34 G.S. 75-102(i)."
+35 SECTION 4. G.S. 75-105 reads as rewritten:
+*H520-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 "§ 75-105. Enforcement.
+2 …
+3 (b) A telephone subscriber who has received a telephone solicitation from or on behalf
+4 of a telephone solicitor in violation of this Article may bring any of the following actions in civil
+5 court:
+6 (1) An action to enjoin further violations of this Article by the telephone solicitor.
+7 (2) An action to recover five hundred dollars ($500.00) for the first violation, one
+8 thousand dollars ($1,000) for the second violation, and five thousand dollars
+9 ($5,000) for the third and any other violation that occurs within two years of
+10 the first violation.
+11 (b1) A telephone subscriber who has received a telephone solicitation in violation of
+12 G.S. 75-102(i), or a telephone subscriber whose phone number or name was displayed in a way
+13 to give the perception that a call originated from that subscriber or number when the call was
+14 actually placed from a different origin and in violation of G.S. 75-102(i), may bring any action
+15 authorized pursuant this section or Chapter against the telemarketer initiating the call. In an action
+16 brought under this subsection, the court shall impose an additional civil fine of ten thousand
+17 dollars ($10,000) for each call placed in knowing violation of G.S. 75-102(i). Any person who
+18 knowingly violates G.S. 75-105(i) shall be guilty of a Class H felony.
+19 …."
+20 SECTION 5. This act becomes effective December 1, 2025, and applies to phone
+21 calls placed on or after that date.
+Page 2 House Bill 520-First Edition
+
+[DELETED:  1 A ( R J A A A T A A O P A A O D F T A W e W e n W v a c c T S " A t S " N t s o i a s c m i t b t o b a t s S a " ( A p t ( A t c s n b h l f a t v o G S]
+[DELETED:  S  H " … ( A o c ( A ( A t ( t ( A t s w h r a t s i v o G t a a b d k … S c]

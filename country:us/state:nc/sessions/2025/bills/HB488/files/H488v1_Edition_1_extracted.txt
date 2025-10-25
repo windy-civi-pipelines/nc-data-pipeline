@@ -1,0 +1,818 @@
+Title: HOUSE BILL 488
+Official Title: HOUSE BILL 488
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Modify School Performance Grades. (Public)
+Sponsors: Representatives Riddell, Rhyne, Paré, and Johnson-Hostler (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Education - K-12, if favorable, Rules, Calendar, and Operations of the House
+March 25, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY SCHOOL PERFORMANCE GRADES TO PROVIDE THAT ALL
+3 SCHOOLS RECEIVE A GRADE FOR SCHOOL ACHIEVEMENT AND A GRADE FOR
+4 SCHOOL GROWTH.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. ESTABLISH SEPARATE ACHIEVEMENT AND GROWTH GRADES
+8 SECTION 1.1. G.S. 115C-12(9) reads as rewritten:
+9 "(9) Miscellaneous Powers and Duties. – All the powers and duties exercised by
+10 the State Board of Education shall be in conformity with the Constitution and
+11 subject to such laws as may be enacted from time to time by the General
+12 Assembly. Among such duties are:
+13 …
+14 c1. To issue an annual "report card" for the State and for each local school
+15 administrative unit, assessing each unit's efforts to improve student
+16 performance based on the growth in performance of the students in
+17 each school and taking into account progress over the previous years'
+18 level of performance and the State's performance in comparison with
+19 other states. This assessment shall take into account factors that have
+20 been shown to affect student performance and that the State Board
+21 considers relevant to assess the State's efforts to improve student
+22 performance. The annual "report card" for each local school
+23 administrative unit shall include the following:
+24 1. The State Board shall award, in accordance with
+25 G.S. 115C-83.15, an overall numerical school achievement,
+26 growth, and performance score on a scale of zero to 100
+27 achievement and school growth scores and a separate
+28 corresponding performance school achievement and school
+29 growth letter grade grades of A, B, C, D, or F earned by each
+30 school within the local school administrative unit. The school
+31 performance score and grade achievement and growth scores
+32 and grades shall reflect the measures required for achievement
+33 and growth, respectively, by G.S. 115C-83.15, in measures
+34 such as student performance on annual subject-specific
+35 assessments, college and workplace readiness measures,
+*H488-v-1*
+General Assembly Of North Carolina Session 2025
+1 graduation rates, and student progress in achieving English
+2 language proficiency. In addition, the State Board shall award
+3 separate performance scores and grades for the following:
+4 I. School performance achievement and school growth of
+5 certain subgroups of students as provided in
+6 G.S. 115C-83.15.
+7 II. For schools serving students in any grade from
+8 kindergarten to eighth grade, school achievement and
+9 school growth performance in reading and mathematics
+10 respectively.
+11 …."
+12 SECTION 1.2. G.S. 115C-47(58) reads as rewritten:
+13 "(58) To Inform the Public About the North Carolina School Report Cards Issued
+14 by the State Board of Education. – Each local board of education shall ensure
+15 that the report card issued for it by the State Board of Education receives wide
+16 distribution to the local press or is otherwise provided to the public. Each local
+17 board of education shall ensure that the overall school performance score
+18 achievement and growth scores and grade grades earned by each school in the
+19 local school administrative unit for the current and previous four school years
+20 is are prominently displayed on the Web site of the local school administrative
+21 unit. If any school in the local school administrative unit earned an overall a
+22 school performance achievement or growth grade of D or F, the local board
+23 of education shall provide notice of the grade in writing to the parent or
+24 guardian of all students enrolled in that school."
+25 SECTION 1.3. G.S. 115C-83.15 reads as rewritten:
+26 "§ 115C-83.15. School achievement, growth, performance scores, achievement scores,
+27 growth scores, and grades.
+28 (a) School Scores and Grades. – The State Board of Education shall award school
+29 achievement, growth, and performance achievement and school growth scores and an associated
+30 performance grade grades as required by G.S. 115C-12(9)c1., and calculated as provided in this
+31 section.
+32 …
+33 (b1) Calculation of School Achievement Grades. – For all schools, the score for school
+34 achievement, as provided in subsection (b) of this section, shall be used to determine the school
+35 achievement grade. The school achievement grade shall be based on the following scale and shall
+36 not be modified to add any other designation related to other performance measures, such as a
+37 "plus" or "minus":
+38 (1) A score of at least 85 is equivalent to a school achievement grade of A.
+39 (2) A score of at least 70 is equivalent to a school achievement grade of B.
+40 (3) A score of at least 55 is equivalent to a school achievement grade of C.
+41 (4) A score of at least 40 is equivalent to a school achievement grade of D.
+42 (5) A score of less than 40 is equivalent to a school achievement grade of F.
+43 (c) Calculation of the School Growth Score. – Using the Education Value-Added
+44 Assessment System (EVAAS), the State Board shall calculate the overall growth score earned
+45 by schools. In calculating the total growth score earned by schools, the State Board of Education
+46 shall weight student growth on the achievement measures as provided in subsection (b) of this
+47 section that have available growth values; provided that for schools serving students in grades
+48 nine through 12, the growth score shall only include growth values for measures calculated under
+49 sub-subdivisions a. and b. of subdivision (2) of subsection (b) of this section. The numerical
+50 values used to determine whether a school has met, exceeded, or has not met expected growth
+Page 2 House Bill 488-First Edition
+General Assembly Of North Carolina Session 2025
+1 shall be translated to a 100-point scale and used for school reporting purposes as provided in
+2 G.S. 115C-12(9)c1., 115C-218.65, 115C-238.66, and 116-239.8.
+3 (c1) Calculation of School Growth Grades. – For all schools, the score for school growth,
+4 as provided in subsection (c) of this section, shall be converted by the State Board of Education
+5 to a 100-point scale and used to determine the school growth grade. The school growth grade
+6 shall be based on the following scale and shall not be modified to add any other designation
+7 related to other performance measures, such as a "plus" or "minus":
+8 (1) A score of at least 90 is equivalent to a school growth grade of A.
+9 (2) A score of at least 80 is equivalent to a school growth grade of B.
+10 (3) A score of at least 70 is equivalent to a school growth grade of C.
+11 (4) A score of at least 60 is equivalent to a school growth grade of D.
+12 (5) A score of less than 60 is equivalent to a school growth grade of F.
+13 (d) Calculation of the Overall School Performance Scores and Grades. – The State Board
+14 of Education shall calculate the overall school performance score by adding the school
+15 achievement score, as provided in subsection (b) of this section, and the school growth score, as
+16 determined using EVAAS as provided in subsection (c) of this section, earned by a school. The
+17 school achievement score shall account for eighty percent (80%), and the school growth score
+18 shall account for twenty percent (20%) of the total sum. For all schools, the total school
+19 performance score shall be converted to a 100-point scale and used to determine an overall school
+20 performance grade. The overall school performance grade shall be based on the following scale
+21 and shall not be modified to add any other designation related to other performance measures,
+22 such as a "plus" or "minus":
+23 (1) A school performance score of at least 85 is equivalent to an overall school
+24 performance grade of A.
+25 (2) A school performance score of at least 70 is equivalent to an overall school
+26 performance grade of B.
+27 (3) A school performance score of at least 55 is equivalent to an overall school
+28 performance grade of C.
+29 (4) A school performance score of at least 40 is equivalent to an overall school
+30 performance grade of D.
+31 (5) A school performance score of less than 40 points is equivalent to an overall
+32 school performance grade of F.
+33 (d1) Establishment of Subgroups of Students. – The State Board shall establish the
+34 minimum number of students in a subgroup served by a school that is necessary to disaggregate
+35 information on student performance and to determine a subgroup performance score achievement
+36 and subgroup growth scores and grade associated grades for the following subgroups of students:
+37 (1) Economically disadvantaged students.
+38 (2) Students from major racial and ethnic groups.
+39 (3) Children with disabilities.
+40 (4) English learners.
+41 (d2) Calculation of the School Performance Scores and Achievement and School Growth
+42 Scores and Corresponding Grades for Certain Subgroups of Students Served by a School. – In
+43 addition to the overall school performance achievement and school growth scores and
+44 corresponding grades awarded under subsections (b) through (c1) of this section, for each school
+45 that serves a minimum number of students in a subgroup of students listed in subsection (d1) of
+46 this section, the State Board of Education shall calculate school performance achievement and
+47 school growth scores and shall determine a corresponding school performance grade grades for
+48 each subgroup using the same method as set forth in subsection (d) subsections (b) through (c1)
+49 of this section. School performance achievement and school growth scores for subgroups of
+50 students shall not be included in the calculation of the overall school performance achievement
+House Bill 488-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 and school growth scores and corresponding grades under subsection (d) subsections (b) through
+2 (c1) of this section.
+3 (d3) Report of Subgroup Performance Scores and School Achievement and School
+4 Growth Scores and Corresponding Grades. – The subgroup performance school achievement and
+5 school growth scores and associated grades shall be reported separately on the annual school
+6 report card provided under G.S. 115C-12(9)c1., 115C-218.65, 115C-238.66, and 116-239.8 in a
+7 way that provides the following information:
+8 (1) For the current year and the previous two years, the achievement score for
+9 each subgroup of students defined in subsection (d1) of this section for the
+10 school.
+11 (2) The statewide average achievement score for each subgroup defined in
+12 subsection (d1) of this section.
+13 (3) The difference between the achievement score for all students in the school
+14 and the achievement score for each subgroup that meets the minimum number
+15 of students defined in subsection (d1) of this section.
+16 (4) Based on the information reported in subdivision (3) of this subsection, the
+17 State Board shall determine and identify schools that are closing achievement
+18 gaps, experiencing a widening of gaps, or seeing no significant gap changes.
+19 …
+20 (f) Indication of Growth. – In addition to awarding the overall school scores for
+21 achievement, growth, and performance and the performance grade, achievement and growth and
+22 associated grades, using EVAAS, the State Board shall designate that a school has met, exceeded,
+23 or has not met expected growth. The designation of student growth shall be clearly displayed in
+24 the annual school report card provided under G.S. 115C-12(9)c1., 115C-218.65, 115C-238.66,
+25 and 116-239.8.
+26 (g) Access to Annual Report Card Information on the Department's Web Site. –
+27 Beginning with data collected in the 2017-2018 school year, the State Board of Education shall
+28 provide user-friendly access to the public on the annual report cards issued for local school
+29 administrative units and individual schools provided under G.S. 115C-12(9)c1., 115C-218.65,
+30 115C-238.66, and 116-239.8 through the Department of Public Instruction's Web site. The annual
+31 report card shall be designed and organized to display the following information more
+32 prominently than any other information:
+33 (1) A summary for each local school administrative unit and for each individual
+34 school of the school performance achievement and growth grades, whether
+35 the school has met, exceeded, or has not met expected growth, and any other
+36 information required to be provided as part of the annual report card.
+37 (2) The percentage of schools receiving an overall a school performance
+38 achievement letter grade of A, B, C, D, or F earned by each school located
+39 within a local school administrative unit and statewide.
+40 (2a) The percentage of schools receiving a school growth letter grade of A, B, C,
+41 D, or F earned by each school located within a local school administrative unit
+42 and statewide.
+43 (3) The number and percentage of schools that have met, exceeded, or have not
+44 met expected growth by each school located within a local school
+45 administrative unit and statewide.
+46 (4) A Web page for each individual school that prominently displays the school's
+47 performance achievement and growth grades, whether the school has met,
+48 exceeded, or has not met expected growth, and the school's performance
+49 achievement and growth scores in a way that is easy for the user to read.
+50 (5) The ability to easily compare annual report card information, including school
+51 performance achievement and growth grades and whether schools have met,
+Page 4 House Bill 488-First Edition
+General Assembly Of North Carolina Session 2025
+1 exceeded, or have not met expected growth, for local school administrative
+2 units and for individual schools for a time span of at least three years."
+3 SECTION 1.4. G.S. 115C-83.17 reads as rewritten:
+4 "§ 115C-83.17. Definitions.
+5 The following definitions apply in this Part:
+6 (1) Achievement score. – A numerical score on a scale of zero to 100 that is based
+7 on the sum of points earned by a school or by a subgroup of students pursuant
+8 to G.S. 115C-83.15.
+9 (2) Growth score. – A numerical score measuring student growth calculated for a
+10 school or for a subgroup of students pursuant to G.S. 115C-83.15.
+11 (3) Overall school performance grade. School grades. – The letter grade grades
+12 earned by a school for achievement and growth for all students served by a
+13 school pursuant to G.S. 115C-83.15(d).G.S. 115C-83.15(b1) and (c1).
+14 (4) Overall school performance score. School scores. – The numerical score
+15 scores earned by a school that is calculated by adding the school achievement
+16 score and the school growth score earned by a school for achievement and
+17 growth pursuant to G.S. 115C-83.15(d).G.S. 115C-83.15(b) and (c).
+18 (5) Subgroup performance grade. grades. – The letter grade grades earned by a
+19 school for achievement and growth for a subgroup of students served by the
+20 school pursuant to G.S. 115C-83.15(d2).
+21 (6) Subgroup performance score. scores. – The numerical score scores earned by
+22 a school that is calculated by adding the for subgroup achievement score and
+23 the subgroup growth score earned by a school that are converted to a 100-point
+24 scale pursuant to G.S. 115C-83.15(d2)."
+25
+26 PART II. CONFORMING CHANGES
+27 SECTION 2.1. G.S. 115C-83.16 reads as rewritten:
+28 "§ 115C-83.16. School performance indicators for the purpose of compliance with federal
+29 law.
+30 (a) The State Board of Education shall use the school performance achievement and
+31 growth scores and grades as calculated required under G.S. 115C-83.15 to satisfy the federal
+32 requirement under the Elementary and Secondary Education Act of 1965, as amended by the
+33 Every Student Succeeds Act (ESSA), P.L. 114-95, to meaningfully differentiate the performance
+34 of schools on an annual basis. For the purpose of compliance with federal law, the State Board
+35 of Education shall calculate the overall school performance score by adding the school
+36 achievement score and the school growth score earned by a school. The school achievement score
+37 shall account for eighty percent (80%), and the school growth score shall account for twenty
+38 percent (20%) of the total sum. Additionally, the indicators shall be defined as follows:
+39 …
+40 (b) Notwithstanding subsection (a) of this section and only for the purpose of conforming
+41 with ESSA, the State Board may label measures as indicators different from those described in
+42 subsection (a) of this section; provided that each measure shall be calculated in accordance with
+43 the requirements of G.S. 115C-83.15.section."
+44 SECTION 2.2. G.S. 115C-105.37 reads as rewritten:
+45 "§ 115C-105.37. Identification of low-performing schools.
+46 (a) Identification of Low-Performing Schools. – The State Board of Education shall
+47 identify low-performing schools on an annual basis. Low-performing schools are those that earn
+48 an overall a school performance achievement grade of D or F and a school growth score of "met
+49 expected growth" or "not met expected growth" as defined by G.S. 115C-83.15.
+50 (a1) Plan for Improvement of Low-Performing Schools. – If a school has been identified
+51 as low-performing as provided in this section and the school is not located in a local school
+House Bill 488-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 administrative unit identified as low-performing under G.S. 115C-105.39A, the following
+2 actions shall be taken:
+3 (1) The superintendent shall proceed under G.S. 115C-105.39.
+4 (2) Within 30 days of the initial identification of a school as low-performing by
+5 the State Board, the superintendent shall submit to the local board of education
+6 a preliminary plan for improving both the school performance grade and
+7 school growth score, grades, including how the superintendent and other
+8 central office administrators will work with the school and monitor the
+9 school's progress.
+10 …
+11 (b) Parental Notice of Low-Performing School Status. – Each school that the State Board
+12 identifies as low-performing shall provide written notification to the parents and guardians of
+13 students attending that school within 30 days of the identification that includes the following
+14 information:
+15 (1) A statement that the State Board of Education has found that the school has
+16 earned an overall a school performance achievement grade of D or F and a
+17 school growth score of "met expected growth" or "not met expected growth"
+18 and has been identified as a low-performing school as defined by
+19 G.S. 115C-105.37. this section. The statement shall include an explanation of
+20 the school performance grades and growth scores.achievement and growth
+21 scores and grades.
+22 (2) The school performance grade and growth score achievement and growth
+23 scores and grades earned.
+24 (3) Information about the preliminary plan developed under subsection (a1) of
+25 this section and the availability of the final plan on the local school
+26 administrative unit's Web site.
+27 (4) The meeting date for when the preliminary plan will be considered by the local
+28 board of education.
+29 (5) A description of any additional steps the school is taking to improve student
+30 performance."
+31 SECTION 2.3. G.S. 115C-105.39A reads as rewritten:
+32 "§ 115C-105.39A. Identification of low-performing local school administrative units.
+33 (a) Identification of Low-Performing Local School Administrative Units. – The State
+34 Board of Education shall identify low-performing local school administrative units on an annual
+35 basis. A low-performing local school administrative unit is a unit in which the majority of the
+36 schools in that unit that earned an overall school performance grade and school growth score
+37 achievement and growth scores and grades as provided in G.S. 115C-83.15 have been identified
+38 as low-performing schools, as provided in G.S. 115C-105.37.
+39 (b) Plan for Improvement of Low-Performing Local School Administrative Units. – Once
+40 a local school administrative unit has been identified as low-performing under this section, the
+41 following actions shall be taken:
+42 (1) The superintendent shall proceed under G.S. 115C-105.39.
+43 (2) Within 30 days of the identification of a local school administrative unit as
+44 low-performing by the State Board, the superintendent shall submit to the
+45 local board of education a preliminary plan for improving both the school
+46 performance grade and school growth score achievement and growth scores
+47 and grades of each low-performing school in the unit, including how the
+48 superintendent and other central office administrators will work with each
+49 low-performing school and monitor the low-performing school's progress and
+50 how current local school administrative unit policy should be changed to
+51 improve student achievement throughout the local school administrative unit.
+Page 6 House Bill 488-First Edition
+General Assembly Of North Carolina Session 2025
+1 The plan shall also include specific strategies to improve early childhood
+2 learning along with measurable goals.
+3 …
+4 (c) Parental Notice of Low-Performing Local School Administrative Unit Status. – Each
+5 local school administrative unit that the State Board identifies as low-performing shall provide
+6 written notification to the parents and guardians of all students attending any school in the local
+7 school administrative unit within 30 days of the identification that includes the following
+8 information:
+9 (1) A statement that the State Board of Education has found that a majority of the
+10 schools in the local school administrative unit have earned an overall a school
+11 performance achievement grade of D or F and a school growth score of "met
+12 expected growth" or "not met expected growth" and have been identified as
+13 low-performing schools as defined by G.S. 115C-105.37. The statement shall
+14 also include an explanation of the school performance grades and school
+15 growth scores.achievement and growth scores and grades.
+16 (2) The percentage of schools identified as low-performing.
+17 (3) Information about the preliminary plan developed under subsection (b) of this
+18 section and the availability of the final plan on the local school administrative
+19 unit's Web site.
+20 (4) The meeting date for when the preliminary plan will be considered by the local
+21 board of education.
+22 (5) A description of any additional steps the local school administrative unit and
+23 schools are taking to improve student performance.
+24 (6) For notifications sent to parents and guardians of students attending a school
+25 that is identified as low-performing under G.S. 115C-105.37, a statement that
+26 the State Board of Education has found that the school has earned an overall
+27 a school performance achievement grade of D or F and a school growth score
+28 of "met expected growth" or "not met expected growth" and has been
+29 identified as a low-performing school as defined by G.S. 115C-105.37. This
+30 notification also shall include the overall school performance grade and school
+31 growth score the school achievement and growth scores and grades earned
+32 and an explanation of the school performance grades and school growth
+33 scores.achievement and growth scores and grades."
+34 SECTION 2.4. G.S. 115C-218.65 reads as rewritten:
+35 "§ 115C-218.65. North Carolina School Report Cards.
+36 A charter school shall ensure that the report card issued for it by the State Board of Education
+37 receives wide distribution to the local press or is otherwise provided to the public. A charter
+38 school shall ensure that the overall school performance score achievement and growth scores and
+39 grade grades earned by the charter school for the current and previous four school years is are
+40 prominently displayed on the school Web site. If a charter school earned an overall a school
+41 performance achievement or growth grade of D or F, the charter school shall provide notice of
+42 the grade in writing to the parent or guardian of all students enrolled in that school."
+43 SECTION 2.5. G.S. 115C-218.94(a) reads as rewritten:
+44 "(a) Identification of Low-Performing Charter Schools. – The State Board of Education
+45 shall identify low-performing charter schools on an annual basis. Low-performing charter
+46 schools are those that earn an overall a school performance achievement grade of D or F and a
+47 school growth score of "met expected growth" or "not met expected growth" as defined by
+48 G.S. 115C-83.15."
+49 SECTION 2.6. G.S. 115C-238.66(11) reads as rewritten:
+50 "(11) North Carolina School Report Cards. – A regional school shall ensure that the
+51 report card issued for it by the State Board of Education receives wide
+House Bill 488-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 distribution to the local press or is otherwise provided to the public. A regional
+2 school shall ensure that the overall school performance score achievement and
+3 growth scores and grade grades earned by the regional school for the current
+4 and previous four school years is are prominently displayed on the school Web
+5 site. If a regional school earned an overall a school performance achievement
+6 or growth grade of D or F, the regional school shall provide notice of the grade
+7 in writing to the parent or guardian of all students enrolled in that school."
+8 SECTION 2.7. G.S. 116-239.8(b)(14) reads as rewritten:
+9 "(14) North Carolina school report cards. – A laboratory school shall ensure that the
+10 report card issued for it by the State Board of Education receives wide
+11 distribution to the local press or is otherwise provided to the public. A
+12 laboratory school shall ensure that the overall school performance score
+13 achievement and growth scores and grade grades earned by the laboratory
+14 school for the current and previous four school years is are prominently
+15 displayed on the school Web site. If a laboratory school earned an overall a
+16 school performance achievement or growth grade of D or F, the laboratory
+17 school shall provide notice of the grade in writing to the parent or guardian of
+18 all students enrolled in that school."
+19 SECTION 2.8. G.S. 116-239.13(3) reads as rewritten:
+20 "(3) Public school student achievement data, including school performance grades
+21 and student achievement scores and student growth, achievement and growth
+22 scores and grades at each laboratory school."
+23
+24 PART III. EFFECTIVE DATE AND APPLICABILITY CLAUSE
+25 SECTION 3. This act becomes effective January 1, 2026, and applies to school
+26 achievement grades, growth grades, and report cards issued based on data from the 2025-2026
+27 school year.
+Page 8 House Bill 488-First Edition
+[DELETED:  1 M ( R E A A S S T  P S " M t s A … c T a p e l o b c r t a t S e t i s p T a " c f e l s a 1 T S B s a i a w G a o n s a g a p s o a s o z t 1 a a s g s a a s c p s a a s g s p a a g r b G i m s a s p o a s a c a w r m]
+[DELETED:  S  H g r a s p i a E l s I S c s o s a p i G I F s s s i a g f k s r … S " T b t d b o s a l i u s o s p n o g i w t t p o g S " 1  S a g p s a s g ( S S a G – T S B o E s a s a p s … ( C a a n " ( A ( A ( A ( A ( A ( C o t S G S – U t E V A b s s n s v]
+[DELETED:  S  P s G ( C a t s r ( A ( A ( A ( A ( A ( C o E s c t o s p s b a t s a d s s a f t p ( o t t s F a s t t s p p a s ( A p ( A p ( A p ( A p ( A s ( E o S o S – T S B s e t m i a ( E ( S ( C ( E ( C S a t t o s p a a s g s a c t t s e o s]
+[DELETED:  S  H a ( ( R o S P S a S A a S G s r w ( F e s ( T s a a s f e s d i s ( T a o ( B S g … ( I o G – I a t a t o s s f a a o t a ( A t A R C I o t D W S – B p a 1 r c s b d a o t d t f i m p ( A s t i ( T p o s r a o a s p a w ( T D a ( T m e g b e s l w a l s a ( A p e o h n m e g a t s p a ( T p]
+[DELETED:  S  P e u S " T ( A o t ( G s ( O e s ( O s p s S s – T n s s s g ( S s s ( S a t s  P S " l ( T p g r E o o E s c t o s p s b a t s a s p … ( N w s t S " ( I o L S – T S B o E s i a e ( P a]
+[DELETED:  S  H a u i a l u G t f a ( T ( W t a p p f i b t s p g a s g s g i h t s a o c o a w w w t s a m t s … ( P i s i ( A e s a h b i a a l s a d b G t s ( T s p g a g s a a g s ( I t s a t a o t f p o t l s a ( T b ( A p S " ( I B b s a a ( P a f ( T ( W l l p a g o e l s i t u i h t s l h c l s a u p s b c t i]
+[DELETED:  S  P T p s a i s s t i e c l … ( P l w s a u w 3 d o t i t i t f i ( A s p e l a i a e o t s p g a s g ( T ( I s u ( T b ( A s ( F t t a o " e g o " m e g a h b i n g a a e o t s p g a s g s S " A r s g p p t S " I s i l c s o a a b L c s s G S " N r c i f i b t S B o E r w]
+[DELETED:  S  H d s g a s o i S " N r c i f i b t S B o E r w d t t l p o i o p t t p A l s s e t t o s p s a s f t c a p f s y i a p d s s a S " P a s  P S a s]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 488
+Short Title: Modify School Performance Grades. (Public)
+Sponsors: Representatives Riddell, Rhyne, Paré, and Johnson-Hostler (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Education - K-12, if favorable, Rules, Calendar, and Operations of the House
+March 25, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY SCHOOL PERFORMANCE GRADES TO PROVIDE THAT ALL
+3 SCHOOLS RECEIVE A GRADE FOR SCHOOL ACHIEVEMENT AND A GRADE FOR
+4 SCHOOL GROWTH.
+5 The General Assembly of North Carolina enacts:
+6
+7 PART I. ESTABLISH SEPARATE ACHIEVEMENT AND GROWTH GRADES
+8 SECTION 1.1. G.S. 115C-12(9) reads as rewritten:
+9 "(9) Miscellaneous Powers and Duties. – All the powers and duties exercised by
+10 the State Board of Education shall be in conformity with the Constitution and
+11 subject to such laws as may be enacted from time to time by the General
+12 Assembly. Among such duties are:
+13 …
+14 c1. To issue an annual "report card" for the State and for each local school
+15 administrative unit, assessing each unit's efforts to improve student
+16 performance based on the growth in performance of the students in
+17 each school and taking into account progress over the previous years'
+18 level of performance and the State's performance in comparison with
+19 other states. This assessment shall take into account factors that have
+20 been shown to affect student performance and that the State Board
+21 considers relevant to assess the State's efforts to improve student
+22 performance. The annual "report card" for each local school
+23 administrative unit shall include the following:
+24 1. The State Board shall award, in accordance with
+25 G.S. 115C-83.15, an overall numerical school achievement,
+26 growth, and performance score on a scale of zero to 100
+27 achievement and school growth scores and a separate
+28 corresponding performance school achievement and school
+29 growth letter grade grades of A, B, C, D, or F earned by each
+30 school within the local school administrative unit. The school
+31 performance score and grade achievement and growth scores
+32 and grades shall reflect the measures required for achievement
+33 and growth, respectively, by G.S. 115C-83.15, in measures
+34 such as student performance on annual subject-specific
+35 assessments, college and workplace readiness measures,
+*H488-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 graduation rates, and student progress in achieving English
+2 language proficiency. In addition, the State Board shall award
+3 separate performance scores and grades for the following:
+4 I. School performance achievement and school growth of
+5 certain subgroups of students as provided in
+6 G.S. 115C-83.15.
+7 II. For schools serving students in any grade from
+8 kindergarten to eighth grade, school achievement and
+9 school growth performance in reading and mathematics
+10 respectively.
+11 …."
+12 SECTION 1.2. G.S. 115C-47(58) reads as rewritten:
+13 "(58) To Inform the Public About the North Carolina School Report Cards Issued
+14 by the State Board of Education. – Each local board of education shall ensure
+15 that the report card issued for it by the State Board of Education receives wide
+16 distribution to the local press or is otherwise provided to the public. Each local
+17 board of education shall ensure that the overall school performance score
+18 achievement and growth scores and grade grades earned by each school in the
+19 local school administrative unit for the current and previous four school years
+20 is are prominently displayed on the Web site of the local school administrative
+21 unit. If any school in the local school administrative unit earned an overall a
+22 school performance achievement or growth grade of D or F, the local board
+23 of education shall provide notice of the grade in writing to the parent or
+24 guardian of all students enrolled in that school."
+25 SECTION 1.3. G.S. 115C-83.15 reads as rewritten:
+26 "§ 115C-83.15. School achievement, growth, performance scores, achievement scores,
+27 growth scores, and grades.
+28 (a) School Scores and Grades. – The State Board of Education shall award school
+29 achievement, growth, and performance achievement and school growth scores and an associated
+30 performance grade grades as required by G.S. 115C-12(9)c1., and calculated as provided in this
+31 section.
+32 …
+33 (b1) Calculation of School Achievement Grades. – For all schools, the score for school
+34 achievement, as provided in subsection (b) of this section, shall be used to determine the school
+35 achievement grade. The school achievement grade shall be based on the following scale and shall
+36 not be modified to add any other designation related to other performance measures, such as a
+37 "plus" or "minus":
+38 (1) A score of at least 85 is equivalent to a school achievement grade of A.
+39 (2) A score of at least 70 is equivalent to a school achievement grade of B.
+40 (3) A score of at least 55 is equivalent to a school achievement grade of C.
+41 (4) A score of at least 40 is equivalent to a school achievement grade of D.
+42 (5) A score of less than 40 is equivalent to a school achievement grade of F.
+43 (c) Calculation of the School Growth Score. – Using the Education Value-Added
+44 Assessment System (EVAAS), the State Board shall calculate the overall growth score earned
+45 by schools. In calculating the total growth score earned by schools, the State Board of Education
+46 shall weight student growth on the achievement measures as provided in subsection (b) of this
+47 section that have available growth values; provided that for schools serving students in grades
+48 nine through 12, the growth score shall only include growth values for measures calculated under
+49 sub-subdivisions a. and b. of subdivision (2) of subsection (b) of this section. The numerical
+50 values used to determine whether a school has met, exceeded, or has not met expected growth
+Page 2 House Bill 488-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 shall be translated to a 100-point scale and used for school reporting purposes as provided in
+2 G.S. 115C-12(9)c1., 115C-218.65, 115C-238.66, and 116-239.8.
+3 (c1) Calculation of School Growth Grades. – For all schools, the score for school growth,
+4 as provided in subsection (c) of this section, shall be converted by the State Board of Education
+5 to a 100-point scale and used to determine the school growth grade. The school growth grade
+6 shall be based on the following scale and shall not be modified to add any other designation
+7 related to other performance measures, such as a "plus" or "minus":
+8 (1) A score of at least 90 is equivalent to a school growth grade of A.
+9 (2) A score of at least 80 is equivalent to a school growth grade of B.
+10 (3) A score of at least 70 is equivalent to a school growth grade of C.
+11 (4) A score of at least 60 is equivalent to a school growth grade of D.
+12 (5) A score of less than 60 is equivalent to a school growth grade of F.
+13 (d) Calculation of the Overall School Performance Scores and Grades. – The State Board
+14 of Education shall calculate the overall school performance score by adding the school
+15 achievement score, as provided in subsection (b) of this section, and the school growth score, as
+16 determined using EVAAS as provided in subsection (c) of this section, earned by a school. The
+17 school achievement score shall account for eighty percent (80%), and the school growth score
+18 shall account for twenty percent (20%) of the total sum. For all schools, the total school
+19 performance score shall be converted to a 100-point scale and used to determine an overall school
+20 performance grade. The overall school performance grade shall be based on the following scale
+21 and shall not be modified to add any other designation related to other performance measures,
+22 such as a "plus" or "minus":
+23 (1) A school performance score of at least 85 is equivalent to an overall school
+24 performance grade of A.
+25 (2) A school performance score of at least 70 is equivalent to an overall school
+26 performance grade of B.
+27 (3) A school performance score of at least 55 is equivalent to an overall school
+28 performance grade of C.
+29 (4) A school performance score of at least 40 is equivalent to an overall school
+30 performance grade of D.
+31 (5) A school performance score of less than 40 points is equivalent to an overall
+32 school performance grade of F.
+33 (d1) Establishment of Subgroups of Students. – The State Board shall establish the
+34 minimum number of students in a subgroup served by a school that is necessary to disaggregate
+35 information on student performance and to determine a subgroup performance score achievement
+36 and subgroup growth scores and grade associated grades for the following subgroups of students:
+37 (1) Economically disadvantaged students.
+38 (2) Students from major racial and ethnic groups.
+39 (3) Children with disabilities.
+40 (4) English learners.
+41 (d2) Calculation of the School Performance Scores and Achievement and School Growth
+42 Scores and Corresponding Grades for Certain Subgroups of Students Served by a School. – In
+43 addition to the overall school performance achievement and school growth scores and
+44 corresponding grades awarded under subsections (b) through (c1) of this section, for each school
+45 that serves a minimum number of students in a subgroup of students listed in subsection (d1) of
+46 this section, the State Board of Education shall calculate school performance achievement and
+47 school growth scores and shall determine a corresponding school performance grade grades for
+48 each subgroup using the same method as set forth in subsection (d) subsections (b) through (c1)
+49 of this section. School performance achievement and school growth scores for subgroups of
+50 students shall not be included in the calculation of the overall school performance achievement
+House Bill 488-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 and school growth scores and corresponding grades under subsection (d) subsections (b) through
+2 (c1) of this section.
+3 (d3) Report of Subgroup Performance Scores and School Achievement and School
+4 Growth Scores and Corresponding Grades. – The subgroup performance school achievement and
+5 school growth scores and associated grades shall be reported separately on the annual school
+6 report card provided under G.S. 115C-12(9)c1., 115C-218.65, 115C-238.66, and 116-239.8 in a
+7 way that provides the following information:
+8 (1) For the current year and the previous two years, the achievement score for
+9 each subgroup of students defined in subsection (d1) of this section for the
+10 school.
+11 (2) The statewide average achievement score for each subgroup defined in
+12 subsection (d1) of this section.
+13 (3) The difference between the achievement score for all students in the school
+14 and the achievement score for each subgroup that meets the minimum number
+15 of students defined in subsection (d1) of this section.
+16 (4) Based on the information reported in subdivision (3) of this subsection, the
+17 State Board shall determine and identify schools that are closing achievement
+18 gaps, experiencing a widening of gaps, or seeing no significant gap changes.
+19 …
+20 (f) Indication of Growth. – In addition to awarding the overall school scores for
+21 achievement, growth, and performance and the performance grade, achievement and growth and
+22 associated grades, using EVAAS, the State Board shall designate that a school has met, exceeded,
+23 or has not met expected growth. The designation of student growth shall be clearly displayed in
+24 the annual school report card provided under G.S. 115C-12(9)c1., 115C-218.65, 115C-238.66,
+25 and 116-239.8.
+26 (g) Access to Annual Report Card Information on the Department's Web Site. –
+27 Beginning with data collected in the 2017-2018 school year, the State Board of Education shall
+28 provide user-friendly access to the public on the annual report cards issued for local school
+29 administrative units and individual schools provided under G.S. 115C-12(9)c1., 115C-218.65,
+30 115C-238.66, and 116-239.8 through the Department of Public Instruction's Web site. The annual
+31 report card shall be designed and organized to display the following information more
+32 prominently than any other information:
+33 (1) A summary for each local school administrative unit and for each individual
+34 school of the school performance achievement and growth grades, whether
+35 the school has met, exceeded, or has not met expected growth, and any other
+36 information required to be provided as part of the annual report card.
+37 (2) The percentage of schools receiving an overall a school performance
+38 achievement letter grade of A, B, C, D, or F earned by each school located
+39 within a local school administrative unit and statewide.
+40 (2a) The percentage of schools receiving a school growth letter grade of A, B, C,
+41 D, or F earned by each school located within a local school administrative unit
+42 and statewide.
+43 (3) The number and percentage of schools that have met, exceeded, or have not
+44 met expected growth by each school located within a local school
+45 administrative unit and statewide.
+46 (4) A Web page for each individual school that prominently displays the school's
+47 performance achievement and growth grades, whether the school has met,
+48 exceeded, or has not met expected growth, and the school's performance
+49 achievement and growth scores in a way that is easy for the user to read.
+50 (5) The ability to easily compare annual report card information, including school
+51 performance achievement and growth grades and whether schools have met,
+Page 4 House Bill 488-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 exceeded, or have not met expected growth, for local school administrative
+2 units and for individual schools for a time span of at least three years."
+3 SECTION 1.4. G.S. 115C-83.17 reads as rewritten:
+4 "§ 115C-83.17. Definitions.
+5 The following definitions apply in this Part:
+6 (1) Achievement score. – A numerical score on a scale of zero to 100 that is based
+7 on the sum of points earned by a school or by a subgroup of students pursuant
+8 to G.S. 115C-83.15.
+9 (2) Growth score. – A numerical score measuring student growth calculated for a
+10 school or for a subgroup of students pursuant to G.S. 115C-83.15.
+11 (3) Overall school performance grade. School grades. – The letter grade grades
+12 earned by a school for achievement and growth for all students served by a
+13 school pursuant to G.S. 115C-83.15(d).G.S. 115C-83.15(b1) and (c1).
+14 (4) Overall school performance score. School scores. – The numerical score
+15 scores earned by a school that is calculated by adding the school achievement
+16 score and the school growth score earned by a school for achievement and
+17 growth pursuant to G.S. 115C-83.15(d).G.S. 115C-83.15(b) and (c).
+18 (5) Subgroup performance grade. grades. – The letter grade grades earned by a
+19 school for achievement and growth for a subgroup of students served by the
+20 school pursuant to G.S. 115C-83.15(d2).
+21 (6) Subgroup performance score. scores. – The numerical score scores earned by
+22 a school that is calculated by adding the for subgroup achievement score and
+23 the subgroup growth score earned by a school that are converted to a 100-point
+24 scale pursuant to G.S. 115C-83.15(d2)."
+25
+26 PART II. CONFORMING CHANGES
+27 SECTION 2.1. G.S. 115C-83.16 reads as rewritten:
+28 "§ 115C-83.16. School performance indicators for the purpose of compliance with federal
+29 law.
+30 (a) The State Board of Education shall use the school performance achievement and
+31 growth scores and grades as calculated required under G.S. 115C-83.15 to satisfy the federal
+32 requirement under the Elementary and Secondary Education Act of 1965, as amended by the
+33 Every Student Succeeds Act (ESSA), P.L. 114-95, to meaningfully differentiate the performance
+34 of schools on an annual basis. For the purpose of compliance with federal law, the State Board
+35 of Education shall calculate the overall school performance score by adding the school
+36 achievement score and the school growth score earned by a school. The school achievement score
+37 shall account for eighty percent (80%), and the school growth score shall account for twenty
+38 percent (20%) of the total sum. Additionally, the indicators shall be defined as follows:
+39 …
+40 (b) Notwithstanding subsection (a) of this section and only for the purpose of conforming
+41 with ESSA, the State Board may label measures as indicators different from those described in
+42 subsection (a) of this section; provided that each measure shall be calculated in accordance with
+43 the requirements of G.S. 115C-83.15.section."
+44 SECTION 2.2. G.S. 115C-105.37 reads as rewritten:
+45 "§ 115C-105.37. Identification of low-performing schools.
+46 (a) Identification of Low-Performing Schools. – The State Board of Education shall
+47 identify low-performing schools on an annual basis. Low-performing schools are those that earn
+48 an overall a school performance achievement grade of D or F and a school growth score of "met
+49 expected growth" or "not met expected growth" as defined by G.S. 115C-83.15.
+50 (a1) Plan for Improvement of Low-Performing Schools. – If a school has been identified
+51 as low-performing as provided in this section and the school is not located in a local school
+House Bill 488-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 administrative unit identified as low-performing under G.S. 115C-105.39A, the following
+2 actions shall be taken:
+3 (1) The superintendent shall proceed under G.S. 115C-105.39.
+4 (2) Within 30 days of the initial identification of a school as low-performing by
+5 the State Board, the superintendent shall submit to the local board of education
+6 a preliminary plan for improving both the school performance grade and
+7 school growth score, grades, including how the superintendent and other
+8 central office administrators will work with the school and monitor the
+9 school's progress.
+10 …
+11 (b) Parental Notice of Low-Performing School Status. – Each school that the State Board
+12 identifies as low-performing shall provide written notification to the parents and guardians of
+13 students attending that school within 30 days of the identification that includes the following
+14 information:
+15 (1) A statement that the State Board of Education has found that the school has
+16 earned an overall a school performance achievement grade of D or F and a
+17 school growth score of "met expected growth" or "not met expected growth"
+18 and has been identified as a low-performing school as defined by
+19 G.S. 115C-105.37. this section. The statement shall include an explanation of
+20 the school performance grades and growth scores.achievement and growth
+21 scores and grades.
+22 (2) The school performance grade and growth score achievement and growth
+23 scores and grades earned.
+24 (3) Information about the preliminary plan developed under subsection (a1) of
+25 this section and the availability of the final plan on the local school
+26 administrative unit's Web site.
+27 (4) The meeting date for when the preliminary plan will be considered by the local
+28 board of education.
+29 (5) A description of any additional steps the school is taking to improve student
+30 performance."
+31 SECTION 2.3. G.S. 115C-105.39A reads as rewritten:
+32 "§ 115C-105.39A. Identification of low-performing local school administrative units.
+33 (a) Identification of Low-Performing Local School Administrative Units. – The State
+34 Board of Education shall identify low-performing local school administrative units on an annual
+35 basis. A low-performing local school administrative unit is a unit in which the majority of the
+36 schools in that unit that earned an overall school performance grade and school growth score
+37 achievement and growth scores and grades as provided in G.S. 115C-83.15 have been identified
+38 as low-performing schools, as provided in G.S. 115C-105.37.
+39 (b) Plan for Improvement of Low-Performing Local School Administrative Units. – Once
+40 a local school administrative unit has been identified as low-performing under this section, the
+41 following actions shall be taken:
+42 (1) The superintendent shall proceed under G.S. 115C-105.39.
+43 (2) Within 30 days of the identification of a local school administrative unit as
+44 low-performing by the State Board, the superintendent shall submit to the
+45 local board of education a preliminary plan for improving both the school
+46 performance grade and school growth score achievement and growth scores
+47 and grades of each low-performing school in the unit, including how the
+48 superintendent and other central office administrators will work with each
+49 low-performing school and monitor the low-performing school's progress and
+50 how current local school administrative unit policy should be changed to
+51 improve student achievement throughout the local school administrative unit.
+Page 6 House Bill 488-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 The plan shall also include specific strategies to improve early childhood
+2 learning along with measurable goals.
+3 …
+4 (c) Parental Notice of Low-Performing Local School Administrative Unit Status. – Each
+5 local school administrative unit that the State Board identifies as low-performing shall provide
+6 written notification to the parents and guardians of all students attending any school in the local
+7 school administrative unit within 30 days of the identification that includes the following
+8 information:
+9 (1) A statement that the State Board of Education has found that a majority of the
+10 schools in the local school administrative unit have earned an overall a school
+11 performance achievement grade of D or F and a school growth score of "met
+12 expected growth" or "not met expected growth" and have been identified as
+13 low-performing schools as defined by G.S. 115C-105.37. The statement shall
+14 also include an explanation of the school performance grades and school
+15 growth scores.achievement and growth scores and grades.
+16 (2) The percentage of schools identified as low-performing.
+17 (3) Information about the preliminary plan developed under subsection (b) of this
+18 section and the availability of the final plan on the local school administrative
+19 unit's Web site.
+20 (4) The meeting date for when the preliminary plan will be considered by the local
+21 board of education.
+22 (5) A description of any additional steps the local school administrative unit and
+23 schools are taking to improve student performance.
+24 (6) For notifications sent to parents and guardians of students attending a school
+25 that is identified as low-performing under G.S. 115C-105.37, a statement that
+26 the State Board of Education has found that the school has earned an overall
+27 a school performance achievement grade of D or F and a school growth score
+28 of "met expected growth" or "not met expected growth" and has been
+29 identified as a low-performing school as defined by G.S. 115C-105.37. This
+30 notification also shall include the overall school performance grade and school
+31 growth score the school achievement and growth scores and grades earned
+32 and an explanation of the school performance grades and school growth
+33 scores.achievement and growth scores and grades."
+34 SECTION 2.4. G.S. 115C-218.65 reads as rewritten:
+35 "§ 115C-218.65. North Carolina School Report Cards.
+36 A charter school shall ensure that the report card issued for it by the State Board of Education
+37 receives wide distribution to the local press or is otherwise provided to the public. A charter
+38 school shall ensure that the overall school performance score achievement and growth scores and
+39 grade grades earned by the charter school for the current and previous four school years is are
+40 prominently displayed on the school Web site. If a charter school earned an overall a school
+41 performance achievement or growth grade of D or F, the charter school shall provide notice of
+42 the grade in writing to the parent or guardian of all students enrolled in that school."
+43 SECTION 2.5. G.S. 115C-218.94(a) reads as rewritten:
+44 "(a) Identification of Low-Performing Charter Schools. – The State Board of Education
+45 shall identify low-performing charter schools on an annual basis. Low-performing charter
+46 schools are those that earn an overall a school performance achievement grade of D or F and a
+47 school growth score of "met expected growth" or "not met expected growth" as defined by
+48 G.S. 115C-83.15."
+49 SECTION 2.6. G.S. 115C-238.66(11) reads as rewritten:
+50 "(11) North Carolina School Report Cards. – A regional school shall ensure that the
+51 report card issued for it by the State Board of Education receives wide
+House Bill 488-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 distribution to the local press or is otherwise provided to the public. A regional
+2 school shall ensure that the overall school performance score achievement and
+3 growth scores and grade grades earned by the regional school for the current
+4 and previous four school years is are prominently displayed on the school Web
+5 site. If a regional school earned an overall a school performance achievement
+6 or growth grade of D or F, the regional school shall provide notice of the grade
+7 in writing to the parent or guardian of all students enrolled in that school."
+8 SECTION 2.7. G.S. 116-239.8(b)(14) reads as rewritten:
+9 "(14) North Carolina school report cards. – A laboratory school shall ensure that the
+10 report card issued for it by the State Board of Education receives wide
+11 distribution to the local press or is otherwise provided to the public. A
+12 laboratory school shall ensure that the overall school performance score
+13 achievement and growth scores and grade grades earned by the laboratory
+14 school for the current and previous four school years is are prominently
+15 displayed on the school Web site. If a laboratory school earned an overall a
+16 school performance achievement or growth grade of D or F, the laboratory
+17 school shall provide notice of the grade in writing to the parent or guardian of
+18 all students enrolled in that school."
+19 SECTION 2.8. G.S. 116-239.13(3) reads as rewritten:
+20 "(3) Public school student achievement data, including school performance grades
+21 and student achievement scores and student growth, achievement and growth
+22 scores and grades at each laboratory school."
+23
+24 PART III. EFFECTIVE DATE AND APPLICABILITY CLAUSE
+25 SECTION 3. This act becomes effective January 1, 2026, and applies to school
+26 achievement grades, growth grades, and report cards issued based on data from the 2025-2026
+27 school year.
+Page 8 House Bill 488-First Edition
+
+[DELETED:  1 M ( R E A A S S T  P S " M t s A … c T a p e l o b c r t a t S e t i s p T a " c f e l s a 1 T S B s a i a w G a o n s a g a p s o a s o z t 1 a a s g s a a s c p s a a s g s p a a g r b G i m s a s p o a s a c a w r m]
+[DELETED:  S  H g r a s p i a E l s I S c s o s a p i G I F s s s i a g f k s r … S " T b t d b o s a l i u s o s p n o g i w t t p o g S " 1  S a g p s a s g ( S S a G – T S B o E s a s a p s … ( C a a n " ( A ( A ( A ( A ( A ( C o t S G S – U t E V A b s s n s v]
+[DELETED:  S  P s G ( C a t s r ( A ( A ( A ( A ( A ( C o E s c t o s p s b a t s a d s s a f t p ( o t t s F a s t t s p p a s ( A p ( A p ( A p ( A p ( A s ( E o S o S – T S B s e t m i a ( E ( S ( C ( E ( C S a t t o s p a a s g s a c t t s e o s]
+[DELETED:  S  H a ( ( R o S P S a S A a S G s r w ( F e s ( T s a a s f e s d i s ( T a o ( B S g … ( I o G – I a t a t o s s f a a o t a ( A t A R C I o t D W S – B p a 1 r c s b d a o t d t f i m p ( A s t i ( T p o s r a o a s p a w ( T D a ( T m e g b e s l w a l s a ( A p e o h n m e g a t s p a ( T p]
+[DELETED:  S  P e u S " T ( A o t ( G s ( O e s ( O s p s S s – T n s s s g ( S s s ( S a t s  P S " l ( T p g r E o o E s c t o s p s b a t s a s p … ( N w s t S " ( I o L S – T S B o E s i a e ( P a]
+[DELETED:  S  H a u i a l u G t f a ( T ( W t a p p f i b t s p g a s g s g i h t s a o c o a w w w t s a m t s … ( P i s i ( A e s a h b i a a l s a d b G t s ( T s p g a g s a a g s ( I t s a t a o t f p o t l s a ( T b ( A p S " ( I B b s a a ( P a f ( T ( W l l p a g o e l s i t u i h t s l h c l s a u p s b c t i]
+[DELETED:  S  P T p s a i s s t i e c l … ( P l w s a u w 3 d o t i t i t f i ( A s p e l a i a e o t s p g a s g ( T ( I s u ( T b ( A s ( F t t a o " e g o " m e g a h b i n g a a e o t s p g a s g s S " A r s g p p t S " I s i l c s o a a b L c s s G S " N r c i f i b t S B o E r w]
+[DELETED:  S  H d s g a s o i S " N r c i f i b t S B o E r w d t t l p o i o p t t p A l s s e t t o s p s a s f t c a p f s y i a p d s s a S " P a s  P S a s]

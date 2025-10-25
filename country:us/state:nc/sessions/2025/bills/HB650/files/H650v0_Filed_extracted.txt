@@ -1,0 +1,283 @@
+Title: HOUSE BILL DRH10271-MU-32
+Official Title: HOUSE BILL DRH10271-MU-32
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+H.B. 650
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 1, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: No Interchange Fees on Sales Tax or Tips. (Public)
+Sponsors: Representative Howard.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT INTERCHANGE FEES ON SALES TAX OR GRATUITIES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+5 to read:
+6 "Article 52.
+7 "No Interchange Fees on Sales Tax or Gratuities.
+8 "§ 66-511. Definitions.
+9 In this Article, the following definitions apply:
+10 (1) Acquirer bank. – A member of a payment card network that contracts with a
+11 merchant for the settlement of electronic payment transactions, whether
+12 directly with merchants or indirectly through a processor.
+13 (2) Authorization. – The process through which a merchant requests approval for
+14 an electronic payment transaction from the issuer.
+15 (3) Clearance. – The process of transmitting final transaction data from a
+16 merchant to an issuer for posting to the cardholder's account and the
+17 calculation of fees and charges, including interchange fees, that apply to the
+18 issuer and the merchant.
+19 (4) Covered credit card issuer. – A credit card issuer that, together with any
+20 affiliates, had consolidated worldwide banking and nonbanking assets,
+21 including assets of affiliates, other than trust assets under management, of
+22 more than eighty-five billion dollars ($85,000,000,000) at any point during
+23 the previous calendar year.
+24 (5) Credit card. – A card, plate, coupon book, or other credit device existing for
+25 the purpose of obtaining money, property, labor, or services on credit.
+26 (6) Debit card. – A card or other payment code or device issued or approved for
+27 use through a payment card network to debit an asset account, regardless of
+28 the purpose for which the account is established, whether authorization is
+29 based on a signature, a personal identification number, or other means. The
+30 term includes a general-use prepaid card, as defined in 15 U.S.C. § 1693l-1.
+31 The term does not include paper checks.
+32 (7) Electronic payment transaction. – A transaction in which a person uses a debit
+33 card, a credit card, or other payment code or device issued or approved
+34 through a payment card network to debit a deposit account or use a line of
+35 credit, whether authorization is based on a signature, a personal identification
+36 number, or other means.
+*DRH10271-MU-32*
+General Assembly Of North Carolina Session 2025
+1 (8) Gratuity. – A voluntary monetary contribution to an employee from a guest,
+2 patron, or customer in connection with services rendered.
+3 (9) Interchange fee. – A fee established, charged, or received by a payment card
+4 network for the purpose of compensating the issuer for its involvement in an
+5 electronic payment transaction.
+6 (10) Issuer. – A person issuing a debit card or credit card.
+7 (11) Merchant. – A person that accepts electronic payment transactions and
+8 collects and remits a tax.
+9 (12) Payment card network. – An entity to which both of the following apply:
+10 a. The entity, directly or through licensed members, processors, or
+11 agents, provides the proprietary services, infrastructure, and software
+12 to route information and data for the purpose of conducting electronic
+13 payment transaction authorization, clearance, and settlement.
+14 b. A merchant uses the entity to accept as a form of payment a brand of
+15 debit card, credit card, or other device that may be used to carry out
+16 electronic payment transactions.
+17 (13) Person. – Any individual, firm, public or private corporation, government,
+18 partnership, association, or any other organization or entity.
+19 (14) Processor. – An entity that facilitates, services, processes, or manages the
+20 debit or credit authorization, billing, transfer, payment procedures, or
+21 settlement with respect to any electronic payment transaction.
+22 (15) Settlement. – The process of transmitting sales information to the issuing bank
+23 for collection and reimbursement of funds to the merchant and calculating and
+24 reporting the net transaction amount to the issuer and merchant for an
+25 electronic payment transaction that is cleared.
+26 (16) Tax. – Any use and occupation tax or excise tax imposed by the State or a unit
+27 of local government in the State.
+28 (17) Tax documentation. – Documentation, such as invoices, receipts, journals,
+29 ledgers, and tax returns filed with the Department of Revenue or local taxing
+30 authorities, that is sufficient for a payment card network to determine the total
+31 amount of an electronic payment transaction and the tax or gratuity amount of
+32 the transaction. Tax documentation may be related to a single electronic
+33 payment transaction or multiple electronic payment transactions aggregated
+34 over a period of time.
+35 "§ 66-512. Interchange fees on taxes and gratuities prohibited.
+36 (a) An issuer, a payment card network, an acquirer bank, or a processor shall not receive
+37 or charge a merchant an interchange fee on the tax amount or gratuity of an electronic payment
+38 transaction if the merchant informs the acquirer bank or its designee of the tax or gratuity amount
+39 as part of the authorization or settlement process for the electronic payment transaction. The
+40 merchant shall transmit the tax or gratuity amount data as part of the authorization or settlement
+41 process to avoid being charged an interchange fee on the tax or gratuity amount of an electronic
+42 payment transaction.
+43 (b) A merchant that does not transmit the tax or gratuity amount data in accordance with
+44 subsection (a) of this section may submit tax documentation for the electronic payment
+45 transaction to the acquirer bank or its designee no later than 180 days after the date of the
+46 electronic payment transaction and, within 30 days after the merchant submits the necessary tax
+47 documentation, the issuer shall credit to the merchant the amount of the interchange fee charged
+48 on the tax or gratuity amount of the electronic payment transaction.
+49 (c) This section does not create liability for a payment card network regarding the
+50 accuracy of the tax or gratuity data reported by the merchant.
+Page 2 DRH10271-MU-32
+General Assembly Of North Carolina Session 2025
+1 (d) It is unlawful for an issuer, a payment card network, an acquirer bank, or a processor
+2 to alter or manipulate the computation and imposition of interchange fees by increasing the rate
+3 or amount of the fees applicable to or imposed upon the portion of a credit or debit card
+4 transaction not attributable to taxes or gratuities to circumvent the effect of this section.
+5 "§ 66-513. Penalties.
+6 (a) Injunctive Relief. – The Attorney General may file suit to seek injunctive relief from
+7 a covered credit card issuer or payment card network that has violated any of the prohibitions of
+8 this Article.
+9 (b) Civil Penalty. – The Attorney General may file suit to assess a civil penalty on an
+10 issuer, payment card network, acquirer bank, or processor that has violated this Article. The
+11 amount of the civil penalty shall be one thousand dollars ($1,000) per electronic payment
+12 transaction conducted in violation of this Article. The clear proceeds of civil penalties provided
+13 for in this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+14 G.S. 115C-457.2.
+15 (c) Refund. – If a court finds that a person has violated this Article, the person shall refund
+16 the merchant the interchange fee calculated on the tax or gratuity amount of the electronic
+17 payment transaction.
+18 (d) Data Use. – An entity, other than the merchant, involved in facilitating or processing
+19 an electronic payment transaction, including an issuer, payment card network, acquirer bank, or
+20 processor, shall not distribute, exchange, transfer, disseminate, or use the electronic payment
+21 transaction data except to facilitate or process the electronic payment transaction; to monitor for,
+22 detect, or prevent fraud; to support loyalty, rewards, or promotional offerings; to tailor products
+23 and services to serve customer needs; or as required by law. A violation of this subsection
+24 constitutes a violation of G.S. 75-1.1."
+25 SECTION 2. If a provision of this act or its application to a person or circumstance
+26 is held invalid, the invalidity does not affect another provision or application that can be given
+27 effect without the invalid provision.
+28 SECTION 3. This act becomes effective October 1, 2025, and applies to transactions
+29 made on or after that date.
+DRH10271-MU-32 Page 3
+[DELETED:  D N ( R  A A T S t " " " I ( A m f t s o e p t w d ( A a ( C – T p o t f t d f a m t a i f p t t c a a t c i ( C c c i – A c c i t t w a a h c w b a n a i m t ( C t ( D u t b t T ( E c a c c o o p c o d i o a t c n]
+[DELETED:  S  D ( G p ( I n e ( I ( M – A p t a e p t a c ( P a T e d o t l m p o a t p b A d e ( P p ( P d o c a b t p p o s ( S f r t n t a t t i a m f a e ( T o ( T l a a t t T d m b r t a s e p o " ( A o t a m p p ( A s ( o t s m s t d f t e p t e d o ( T s d n c l f a p c n r t a]
+[DELETED:  S  P ( I t o a o t f a t o i u t p o a c o d c t " ( I a t ( C i a o t c p s b o t d ( p e p t f G ( R t m t i f c o t t o g a o t e p ( D a p t d a c S i e S m]
+
+
+================================================================================
+
+Raw Text:
+H.B. 650
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 1, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10271-MU-32
+Short Title: No Interchange Fees on Sales Tax or Tips. (Public)
+Sponsors: Representative Howard.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROHIBIT INTERCHANGE FEES ON SALES TAX OR GRATUITIES.
+3 The General Assembly of North Carolina enacts:
+4 SECTION 1. Chapter 66 of the General Statutes is amended by adding a new Article
+5 to read:
+6 "Article 52.
+7 "No Interchange Fees on Sales Tax or Gratuities.
+8 "§ 66-511. Definitions.
+9 In this Article, the following definitions apply:
+10 (1) Acquirer bank. – A member of a payment card network that contracts with a
+11 merchant for the settlement of electronic payment transactions, whether
+12 directly with merchants or indirectly through a processor.
+13 (2) Authorization. – The process through which a merchant requests approval for
+14 an electronic payment transaction from the issuer.
+15 (3) Clearance. – The process of transmitting final transaction data from a
+16 merchant to an issuer for posting to the cardholder's account and the
+17 calculation of fees and charges, including interchange fees, that apply to the
+18 issuer and the merchant.
+19 (4) Covered credit card issuer. – A credit card issuer that, together with any
+20 affiliates, had consolidated worldwide banking and nonbanking assets,
+21 including assets of affiliates, other than trust assets under management, of
+22 more than eighty-five billion dollars ($85,000,000,000) at any point during
+23 the previous calendar year.
+24 (5) Credit card. – A card, plate, coupon book, or other credit device existing for
+25 the purpose of obtaining money, property, labor, or services on credit.
+26 (6) Debit card. – A card or other payment code or device issued or approved for
+27 use through a payment card network to debit an asset account, regardless of
+28 the purpose for which the account is established, whether authorization is
+29 based on a signature, a personal identification number, or other means. The
+30 term includes a general-use prepaid card, as defined in 15 U.S.C. § 1693l-1.
+31 The term does not include paper checks.
+32 (7) Electronic payment transaction. – A transaction in which a person uses a debit
+33 card, a credit card, or other payment code or device issued or approved
+34 through a payment card network to debit a deposit account or use a line of
+35 credit, whether authorization is based on a signature, a personal identification
+36 number, or other means.
+*DRH10271-MU-32*
+
+General Assembly Of North Carolina Session 2025
+1 (8) Gratuity. – A voluntary monetary contribution to an employee from a guest,
+2 patron, or customer in connection with services rendered.
+3 (9) Interchange fee. – A fee established, charged, or received by a payment card
+4 network for the purpose of compensating the issuer for its involvement in an
+5 electronic payment transaction.
+6 (10) Issuer. – A person issuing a debit card or credit card.
+7 (11) Merchant. – A person that accepts electronic payment transactions and
+8 collects and remits a tax.
+9 (12) Payment card network. – An entity to which both of the following apply:
+10 a. The entity, directly or through licensed members, processors, or
+11 agents, provides the proprietary services, infrastructure, and software
+12 to route information and data for the purpose of conducting electronic
+13 payment transaction authorization, clearance, and settlement.
+14 b. A merchant uses the entity to accept as a form of payment a brand of
+15 debit card, credit card, or other device that may be used to carry out
+16 electronic payment transactions.
+17 (13) Person. – Any individual, firm, public or private corporation, government,
+18 partnership, association, or any other organization or entity.
+19 (14) Processor. – An entity that facilitates, services, processes, or manages the
+20 debit or credit authorization, billing, transfer, payment procedures, or
+21 settlement with respect to any electronic payment transaction.
+22 (15) Settlement. – The process of transmitting sales information to the issuing bank
+23 for collection and reimbursement of funds to the merchant and calculating and
+24 reporting the net transaction amount to the issuer and merchant for an
+25 electronic payment transaction that is cleared.
+26 (16) Tax. – Any use and occupation tax or excise tax imposed by the State or a unit
+27 of local government in the State.
+28 (17) Tax documentation. – Documentation, such as invoices, receipts, journals,
+29 ledgers, and tax returns filed with the Department of Revenue or local taxing
+30 authorities, that is sufficient for a payment card network to determine the total
+31 amount of an electronic payment transaction and the tax or gratuity amount of
+32 the transaction. Tax documentation may be related to a single electronic
+33 payment transaction or multiple electronic payment transactions aggregated
+34 over a period of time.
+35 "§ 66-512. Interchange fees on taxes and gratuities prohibited.
+36 (a) An issuer, a payment card network, an acquirer bank, or a processor shall not receive
+37 or charge a merchant an interchange fee on the tax amount or gratuity of an electronic payment
+38 transaction if the merchant informs the acquirer bank or its designee of the tax or gratuity amount
+39 as part of the authorization or settlement process for the electronic payment transaction. The
+40 merchant shall transmit the tax or gratuity amount data as part of the authorization or settlement
+41 process to avoid being charged an interchange fee on the tax or gratuity amount of an electronic
+42 payment transaction.
+43 (b) A merchant that does not transmit the tax or gratuity amount data in accordance with
+44 subsection (a) of this section may submit tax documentation for the electronic payment
+45 transaction to the acquirer bank or its designee no later than 180 days after the date of the
+46 electronic payment transaction and, within 30 days after the merchant submits the necessary tax
+47 documentation, the issuer shall credit to the merchant the amount of the interchange fee charged
+48 on the tax or gratuity amount of the electronic payment transaction.
+49 (c) This section does not create liability for a payment card network regarding the
+50 accuracy of the tax or gratuity data reported by the merchant.
+Page 2 DRH10271-MU-32
+
+General Assembly Of North Carolina Session 2025
+1 (d) It is unlawful for an issuer, a payment card network, an acquirer bank, or a processor
+2 to alter or manipulate the computation and imposition of interchange fees by increasing the rate
+3 or amount of the fees applicable to or imposed upon the portion of a credit or debit card
+4 transaction not attributable to taxes or gratuities to circumvent the effect of this section.
+5 "§ 66-513. Penalties.
+6 (a) Injunctive Relief. – The Attorney General may file suit to seek injunctive relief from
+7 a covered credit card issuer or payment card network that has violated any of the prohibitions of
+8 this Article.
+9 (b) Civil Penalty. – The Attorney General may file suit to assess a civil penalty on an
+10 issuer, payment card network, acquirer bank, or processor that has violated this Article. The
+11 amount of the civil penalty shall be one thousand dollars ($1,000) per electronic payment
+12 transaction conducted in violation of this Article. The clear proceeds of civil penalties provided
+13 for in this section shall be remitted to the Civil Penalty and Forfeiture Fund in accordance with
+14 G.S. 115C-457.2.
+15 (c) Refund. – If a court finds that a person has violated this Article, the person shall refund
+16 the merchant the interchange fee calculated on the tax or gratuity amount of the electronic
+17 payment transaction.
+18 (d) Data Use. – An entity, other than the merchant, involved in facilitating or processing
+19 an electronic payment transaction, including an issuer, payment card network, acquirer bank, or
+20 processor, shall not distribute, exchange, transfer, disseminate, or use the electronic payment
+21 transaction data except to facilitate or process the electronic payment transaction; to monitor for,
+22 detect, or prevent fraud; to support loyalty, rewards, or promotional offerings; to tailor products
+23 and services to serve customer needs; or as required by law. A violation of this subsection
+24 constitutes a violation of G.S. 75-1.1."
+25 SECTION 2. If a provision of this act or its application to a person or circumstance
+26 is held invalid, the invalidity does not affect another provision or application that can be given
+27 effect without the invalid provision.
+28 SECTION 3. This act becomes effective October 1, 2025, and applies to transactions
+29 made on or after that date.
+DRH10271-MU-32 Page 3
+
+[DELETED:  D N ( R  A A T S t " " " I ( A m f t s o e p t w d ( A a ( C – T p o t f t d f a m t a i f p t t c a a t c i ( C c c i – A c c i t t w a a h c w b a n a i m t ( C t ( D u t b t T ( E c a c c o o p c o d i o a t c n]
+[DELETED:  S  D ( G p ( I n e ( I ( M – A p t a e p t a c ( P a T e d o t l m p o a t p b A d e ( P p ( P d o c a b t p p o s ( S f r t n t a t t i a m f a e ( T o ( T l a a t t T d m b r t a s e p o " ( A o t a m p p ( A s ( o t s m s t d f t e p t e d o ( T s d n c l f a p c n r t a]
+[DELETED:  S  P ( I t o a o t f a t o i u t p o a c o d c t " ( I a t ( C i a o t c p s b o t d ( p e p t f G ( R t m t i f c o t t o g a o t e p ( D a p t d a c S i e S m]

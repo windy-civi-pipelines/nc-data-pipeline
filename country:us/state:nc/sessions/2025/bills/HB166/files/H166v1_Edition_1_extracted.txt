@@ -1,0 +1,1044 @@
+Title: HOUSE BILL 166
+Official Title: HOUSE BILL 166
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Allow ERPOs to Prevent Suicides & Save Lives. (Public)
+Sponsors: Representatives Morey, Harrison, Price, and Clark (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AUTHORIZE THE ISSUANCE OF AN EXTREME RISK PROTECTION
+3 ORDER TO RESTRICT TEMPORARILY A PERSON'S ACCESS TO FIREARMS IF
+4 THERE IS EVIDENCE THAT THE PERSON POSES A DANGER OF PHYSICAL HARM
+5 TO SELF OR OTHERS AND TO REQUIRE A COURT TO ORDER THE SEIZURE OF
+6 ANY FIREARM, AMMUNITION, OR PERMITS THAT A DEFENDANT FAILS TO
+7 SURRENDER AFTER THE ISSUANCE OF AN EMERGENCY OR EX PARTE
+8 DOMESTIC VIOLENCE PROTECTIVE ORDER.
+9 The General Assembly of North Carolina enacts:
+10 SECTION 1.(a) The General Statutes are amended by adding a new Chapter to read:
+11 "Chapter 50E.
+12 "Extreme Risk Protection Orders.
+13 "§ 50E-1. Title of Chapter.
+14 This Chapter may be cited as the "Extreme Risk Protection Orders Act."
+15 "§ 50E-2. Purpose.
+16 The purpose of this Chapter is to reduce gun deaths and injuries, while respecting
+17 constitutional rights, by providing a court procedure for concerned citizens and law enforcement
+18 to obtain an order temporarily restricting a person's access to firearms. The court orders
+19 authorized under this Chapter are intended to be limited to situations in which the person poses
+20 a significant danger of harming themselves or others by possessing a firearm and include
+21 standards and safeguards to protect the rights of respondents and due process of law.
+22 "§ 50E-3. Definitions.
+23 The following definitions apply in this Chapter:
+24 (1) Extreme Risk Protection Order or ERPO. – An order granted under this
+25 Chapter, which includes a remedy authorized under G.S. 50E-6.
+26 (2) Family or household member. – Any of the following:
+27 a. A person related by blood, marriage, or adoption to the respondent.
+28 b. A person who is in a dating relationship, or has been in a dating
+29 relationship, with the respondent. For purposes of this
+30 sub-subdivision, a dating relationship is one wherein the parties are
+31 romantically involved over time and on a continuous basis during the
+32 course of the relationship but is not any of the following:
+33 1. A casual acquaintance.
+34 2. Ordinary fraternization between persons in a business or social
+35 context.
+*H166-v-1*
+General Assembly Of North Carolina Session 2025
+1 3. A dating relationship that ended more than one year before the
+2 date the petitioner filed a petition for an ERPO under this
+3 Chapter.
+4 c. A person who has a child in common with the respondent, regardless
+5 of whether the person has been married to the respondent or has lived
+6 together with the respondent at any time.
+7 d. A domestic partner of the respondent.
+8 e. A person who has a biological or legal parent-child relationship with
+9 the respondent, including stepparents, stepchildren, grandparents, and
+10 grandchildren.
+11 f. A person who is acting or has acted as the respondent's legal guardian.
+12 (3) Firearm. – Any weapon, including a starter gun, which will or is designed to
+13 or may readily be converted to expel a projectile by the action of an explosive,
+14 or its frame or receiver.
+15 "§ 50E-4. Commencement of action.
+16 (a) Petition. – Any of the following may file a verified petition in district court for an
+17 ERPO:
+18 (1) A family or household member.
+19 (2) A current or former spouse or dating partner.
+20 (3) A law enforcement officer or agency.
+21 (4) A health care provider.
+22 (b) Venue. – A petition for an ERPO is governed by G.S. 1-82.
+23 (c) Required Information in Petition. – A petition for an ERPO under this Chapter shall
+24 include all of the following:
+25 (1) An allegation that the respondent poses a danger of physical harm to self or
+26 others by having in his or her care, custody, possession, ownership, or control
+27 a firearm. If the petitioner is seeking an ex parte ERPO, the petition shall
+28 include an allegation that the respondent poses an imminent danger of physical
+29 harm to self or others by having in his or her care, custody, possession,
+30 ownership, or control a firearm. The allegation required under this subdivision
+31 shall include facts to support the allegation.
+32 (2) An identification, to the best of the petitioner's knowledge, of the number,
+33 types, and locations of firearms under the respondent's custody or control.
+34 (3) An identification of any existing protection order under State law governing
+35 the respondent.
+36 (4) An identification of any pending lawsuits, complaints, petitions, or other
+37 actions between the petitioner and the respondent.
+38 (d) Verification of Terms of Existing Orders. – The clerk of court shall verify the terms
+39 of any existing protection orders governing the petitioner and respondent. The court shall not
+40 delay or deny granting relief because of the existence of a pending action between the petitioner
+41 and respondent or the necessity of verifying the terms of an existing protection order.
+42 (e) Nondisclosure of Address. – A petitioner with a current and valid Address
+43 Confidentiality Program authorization card issued pursuant to the provisions of Chapter 15C of
+44 the General Statutes may use the substitute address designated by the Address Confidentiality
+45 Program when filing with the court any document required under this Chapter. If a petitioner
+46 does not have a current and valid Address Confidentiality Program authorization card, but
+47 submits to the court a copy of a protective order without attachments, if any, issued to the
+48 petitioner under G.S. 50B-3 or a lawful order of any court of competent jurisdiction restricting
+49 the access or contact of one or more persons with the petitioner, accompanied by a signed
+50 statement that the petitioner has good reason to believe that the physical safety of the petitioner
+51 or a member of the petitioner's family residing with the petitioner would be jeopardized if the
+Page 2 House Bill 166-First Edition
+General Assembly Of North Carolina Session 2025
+1 petitioner's address were open to public inspection, that petitioner's address shall be kept
+2 confidential.
+3 (f) Court Costs. – No court costs shall be assessed for the filing or service of the petition
+4 or the service of any ERPOs.
+5 (g) Electronic Filing. – All documents filed, issued, registered, or served in an action
+6 under this Chapter relating to an ERPO may be filed electronically.
+7 (h) Report. – Beginning December 1, 2025, and occurring annually thereafter, the
+8 Administrative Office of the Courts shall submit a report to the Joint Legislative Oversight
+9 Committee on Justice and Public Safety and the Fiscal Research Division that includes all of the
+10 following information:
+11 (1) The number of petitions filed under this Chapter during the prior calendar
+12 year.
+13 (2) The number of ex parte ERPOs issued during the prior calendar year.
+14 (3) The number of ex parte ERPOs the courts declined to issue during the prior
+15 calendar year and justification for why each was declined.
+16 (4) The number of final ERPOs issued during the prior calendar year.
+17 (5) The number of final ERPOs the courts declined to issue during the prior
+18 calendar year and justification for why each was declined.
+19 "§ 50E-5. Process.
+20 (a) Summons Required. – Except as otherwise provided in G.S. 50E-8, a petition for an
+21 ERPO requires that a summons be issued and served not later than five days prior to the date set
+22 for the final ERPO hearing. Attachments to the summons shall include the petition for any ERPO,
+23 any ex parte ERPO that has been issued and the notice of hearing on the ex parte ERPO, and a
+24 description of what an ERPO is.
+25 (b) Service of the Summons and Attachments. – The clerk of court shall effect service of
+26 the summons and any attachments through the appropriate law enforcement agency where the
+27 respondent is to be served.
+28 "§ 50E-6. ERPO requirements; remedy; mental health or chemical dependency evaluation.
+29 (a) Required Information in ERPO. – An ERPO issued under this Chapter shall include
+30 all of the following:
+31 (1) A statement of the grounds supporting issuance of the ERPO.
+32 (2) The date and time the ERPO was issued.
+33 (3) The date and time the ERPO expires.
+34 (4) Whether a mental health evaluation or chemical dependency evaluation of the
+35 respondent is required.
+36 (5) The address of the court in which any responsive pleading may be filed.
+37 (6) A description of the requirements for relinquishment and retrieval of any
+38 firearms, ammunition, permits to purchase firearms, and permits to carry
+39 concealed firearms that are in the care, custody, ownership, or control of the
+40 respondent.
+41 (7) A description of the process for seeking termination of the ERPO.
+42 (8) A statement that a violation of the ERPO is punishable as a Class A1
+43 misdemeanor.
+44 (b) Remedy Granted. – Upon issuance of an ERPO, including an ex parte ERPO, the
+45 court shall order the respondent to surrender to the sheriff all firearms, ammunition, permits to
+46 purchase firearms, and permits to carry concealed firearms that are in the care, custody,
+47 possession, ownership, or control of the respondent.
+48 (c) Mental Health or Chemical Dependency Evaluation. – During a hearing for issuance
+49 of an ERPO, the court shall consider whether a mental health evaluation or chemical dependency
+50 evaluation of the respondent is appropriate and may order the respondent to undergo evaluation
+51 if appropriate.
+House Bill 166-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 "§ 50E-7. Hearing and issuance of a final Extreme Risk Protection Order.
+2 (a) Hearing. – A court shall hold a hearing on a petition for a final ERPO no later than
+3 10 days from either of the following dates:
+4 (1) If an ex parte ERPO has been issued, the date the ex parte ERPO was issued.
+5 (2) If subdivision (1) of this subsection does not apply, the date the petition for a
+6 final ERPO was served on the respondent.
+7 A continuance shall be limited to one extension of no more than 10 days unless all parties
+8 consent or good cause is shown.
+9 (b) Order. – A court may issue a final ERPO if all of the following requirements are met:
+10 (1) The court finds by clear and convincing evidence that the respondent poses a
+11 danger of causing physical harm to self or others by having in his or her
+12 custody a firearm. In determining whether the requirement set forth in this
+13 subdivision is met, the court may consider any relevant evidence, including,
+14 but not limited to, any of the following:
+15 a. A recent act or threat of violence, or a pattern of acts or threats of
+16 violence within the 12 months preceding the petition, by the
+17 respondent against himself, herself, or others, whether or not the
+18 violence or threat of violence involves a firearm or other weapon.
+19 b. Evidence of the respondent being seriously mentally ill or having
+20 recurring mental health issues.
+21 c. A violation by the respondent of an order issued under Chapter 50B,
+22 50C, or 50D of the General Statutes.
+23 d. A previous or existing ERPO issued against the respondent, including
+24 whether the respondent committed a violation of the previous or
+25 existing ERPO.
+26 e. Whether the respondent, in this State or any other state, has been
+27 convicted of or had adjudication withheld on a crime that constitutes
+28 domestic violence as defined in G.S. 50B-1 or a crime involving
+29 violence or a threat of violence.
+30 f. The unlawful or reckless use, display, or brandishing of a firearm by
+31 the respondent.
+32 g. The recurring use of, or threat to use, physical force by the respondent
+33 against another person or the respondent stalking another person.
+34 h. Evidence of the abuse of controlled substances or alcohol by the
+35 respondent.
+36 i. Evidence of recent acquisition of firearms or ammunition by the
+37 respondent.
+38 j. Witness testimony, taken while the witness is under oath, relating to
+39 the matter before the court.
+40 (2) Process was served on the respondent in accordance with the requirements of
+41 this Chapter.
+42 (3) Notice of hearing was given to the respondent in accordance with the
+43 requirements of this Chapter.
+44 "§ 50E-8. Hearing and issuance of an ex parte Extreme Risk Protection Order.
+45 (a) Hearing. – Upon receipt of a petition for an ex parte ERPO, the court shall hold a
+46 hearing in person on the day the petition is filed or the day immediately following the day the
+47 petition is filed.
+48 (b) Order. – If the court finds that there is clear and convincing evidence that the
+49 respondent poses an imminent danger of causing physical harm to self or others by having in his
+50 or her custody a firearm, a judge or magistrate of district court may issue an ex parte ERPO
+51 before a hearing for a final ERPO and without evidence of service of process or notice.
+Page 4 House Bill 166-First Edition
+General Assembly Of North Carolina Session 2025
+1 (c) Requirements. – An ex parte ERPO granted without notice shall meet all of the
+2 following requirements:
+3 (1) The ERPO shall be endorsed with the date and hour of issuance.
+4 (2) The ERPO shall be filed immediately in the clerk's office and entered of
+5 record.
+6 (3) The ERPO shall include a statement detailing why the ERPO was granted
+7 without notice.
+8 (4) The ERPO shall include the applicable information required under
+9 G.S. 50E-6(a).
+10 (5) The ERPO shall expire by its terms within a specified amount of time after
+11 entry, not to exceed the limits set forth in G.S. 50E-10(a).
+12 (d) Court Out of Session. – When the court is not in session, the petitioner may file for
+13 an ex parte ERPO before any judge or magistrate designated by the chief district court judge to
+14 grant relief under this Chapter. If the judge or magistrate finds that the requirements of this
+15 section have been met, the judge or magistrate may issue an ex parte ERPO. The chief district
+16 court judge may designate for each county at least one judge or magistrate to be reasonably
+17 available to issue ex parte ERPOs when the court is not in session.
+18 (e) Video Conference. – Hearings held to consider ex parte relief pursuant to subsection
+19 (a) of this section may be held via video conference.
+20 "§ 50E-9. Surrender, retrieval, and disposal of firearms.
+21 (a) Surrender of Firearms. – Upon service of an ERPO, the respondent shall immediately
+22 surrender to the sheriff possession of all firearms, ammunition, permits to purchase firearms, and
+23 permits to carry concealed firearms that are in the care, custody, possession, ownership, or control
+24 of the respondent. In the event that weapons cannot be surrendered at the time the ERPO is
+25 served, the respondent shall surrender the firearms, ammunitions, and permits to the sheriff
+26 within 24 hours of service at a time and place specified by the sheriff. The sheriff shall store the
+27 firearms or contract with a licensed firearms dealer to provide storage.
+28 (b) Failure to Surrender. – Upon the sworn statement of the petitioner or the sheriff
+29 alleging that the respondent has failed to comply with the surrender of firearms required under
+30 subsection (a) of this section, the court shall determine whether probable cause exists to believe
+31 that the respondent has failed to surrender all firearms in his or her care, custody, possession,
+32 ownership, or control. If probable cause exists, the court shall issue a warrant describing the
+33 firearms and authorizing (i) a search of the locations where the firearms are reasonably believed
+34 to be and (ii) seizure of any firearms discovered pursuant to the search.
+35 (c) Receipt. – At the time of surrender or seizure, the sheriff taking possession of a
+36 firearm shall issue a receipt identifying all firearms that have been surrendered or seized and shall
+37 provide a copy of the receipt to the respondent. Within 48 hours after issuing the receipt, the
+38 officer shall file the original receipt with the court and shall also retain a copy for the sheriff's
+39 records.
+40 (d) Fee. – The sheriff may charge the respondent a reasonable fee for the storage of any
+41 firearms and ammunition taken pursuant to an ERPO. The fees are payable to the sheriff. The
+42 sheriff shall transmit the proceeds of these fees to the county finance officer. The fees shall be
+43 used by the sheriff to pay the costs of administering this section. The county shall expend the
+44 restricted funds for these purposes only. The sheriff shall not release firearms, ammunition, or
+45 permits without a court order granting the release. The respondent shall remit all fees owed prior
+46 to the authorized return of any firearms, ammunition, or permits. The sheriff shall not incur any
+47 civil or criminal liability for alleged damage or deterioration due to storage or transportation of
+48 any firearms or ammunition held pursuant to this section.
+49 (e) Retrieval. – If the court does not enter a final ERPO when the ex parte ERPO expires,
+50 the respondent may retrieve any firearms, ammunition, or permits surrendered to the sheriff
+House Bill 166-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 unless the court finds that the respondent is otherwise precluded from owning or possessing a
+2 firearm pursuant to State or federal law.
+3 (f) Motion for Return. – The respondent may request the return of any firearms,
+4 ammunition, or permits surrendered by filing a motion with the court after the expiration or
+5 termination of the ERPO. Unless the court finds that the respondent is otherwise precluded from
+6 owning or possessing a firearm pursuant to State or federal law, all firearms, ammunition, and
+7 permits surrendered by the respondent shall be returned within 30 days of the date the motion
+8 was received by the court. If the court does not enter a final ERPO when the ex parte ERPO
+9 expires, and the court orders the return of the items to the respondent, the respondent is not
+10 required to pay any fees imposed under subsection (d) of this section and the sheriff shall
+11 promptly refund to the respondent any fees already paid pursuant to subsection (d) of this section
+12 for the storage of any items taken pursuant to the ex parte ERPO.
+13 (g) Motion for Return by Third Party. – A third-party owner of firearms or ammunition
+14 who is otherwise eligible to possess the items may file a motion requesting the return to the third
+15 party of any of the items in the possession of the sheriff surrendered or seized as a result of the
+16 entry of an ERPO. The third-party owner shall also provide proof of ownership of the firearms
+17 or ammunition. Upon receipt of the third party's motion, the court shall schedule a hearing and
+18 provide written notice to all parties and the sheriff. The court shall order return of the items to
+19 the third party unless the third-party owner fails to provide proof of ownership or certification as
+20 required under this subsection or the court determines that the third party is disqualified from
+21 owning or possessing the items pursuant to State or federal law. If the court orders the return of
+22 the items to the third party, the third party is not required to pay any fees imposed under
+23 subsection (d) of this section. If the court denies the return of the items to the third party, the
+24 items shall be disposed of by the sheriff as provided in subsection (h) of this section.
+25 (h) Disposal of Firearms. – If the respondent or a third-party owner does not file a motion
+26 within the applicable time period prescribed by this section requesting the return of any
+27 surrendered firearms, ammunition, or permits; if the court determines that the respondent or
+28 third-party owner is precluded from regaining possession of any surrendered firearms,
+29 ammunition, or permits; or if the respondent fails to remit all fees owed for the storage of the
+30 firearms or ammunition within 30 days of the entry of the order granting the return of the
+31 firearms, ammunition, or permits, the sheriff who has control of the firearms, ammunition, or
+32 permits shall give notice to the respondent and the sheriff shall apply to the court for an order of
+33 disposition of the firearms, ammunition, or permits. The judge, after a hearing, may order the
+34 sheriff in possession, or the sheriff's duly authorized agent, to destroy the firearms, ammunition,
+35 and permits, or to dispose of the firearms, ammunition, and permits in one or more of the ways
+36 authorized by law, including subdivision (4b), (5), or (6) of G.S. 14-269.1. The sheriff shall
+37 maintain a record of any firearms, ammunition, and permits destroyed in accordance with this
+38 subsection. If a sale by the sheriff does occur, any proceeds from the sale after deducting any
+39 costs associated with the storage and sale, in accordance with all applicable State and federal law,
+40 shall be provided to the respondent if ordered by the judge.
+41 "§ 50E-10. Duration; renewal of ERPOs.
+42 (a) Duration of Ex Parte ERPO. – Except as otherwise provided in this subsection, an ex
+43 parte ERPO shall be effective until the date a hearing is held under G.S. 50E-7. If a hearing is
+44 not held or a continuance was not granted, an ex parte ERPO shall be effective for not more than
+45 10 days from the date the ex parte ERPO was issued.
+46 (b) Duration of Final ERPO. – A final ERPO shall be effective for a fixed period of time
+47 not to exceed one year.
+48 (c) Renewal. – Any ERPO may be renewed one or more times, as required, provided that
+49 the requirements of G.S. 50E-7 or G.S. 50E-8, as appropriate, are satisfied. The court may renew
+50 an ERPO, including an ERPO that previously has been renewed, upon a motion by the petitioner
+51 filed before the expiration of the current ERPO. Upon a motion for a renewal, the court shall hold
+Page 6 House Bill 166-First Edition
+General Assembly Of North Carolina Session 2025
+1 a hearing no later than 10 days after the date the motion is served on the respondent. The court
+2 may renew an ex parte or final ERPO if the court finds by clear and convincing evidence that
+3 there has been no material change in relevant circumstances since entry of the respective ERPO.
+4 The commission of an act of unlawful conduct by the respondent after entry of the current ERPO
+5 is not required for an ERPO to be renewed. If the motion for renewal is uncontested and the
+6 petitioner seeks no modification of the ERPO, the ERPO may be renewed if the petitioner's
+7 motion or affidavit states that there has been no material change in relevant circumstances since
+8 entry of the ERPO and states the reason for the requested renewal.
+9 (d) Expiration Date. – An ERPO expiring on a day the court is not open for business shall
+10 expire in accordance with the provisions of Rule 6(a) of the Rules of Civil Procedure, G.S. 1A-1.
+11 "§ 50E-11. Termination of an Extreme Risk Protection Order.
+12 (a) Motion. – The respondent may request the termination of a final ERPO by filing a
+13 motion with the court. The respondent may submit no more than one motion for termination for
+14 every 12-month period the final ERPO is in effect, starting from the date of the final ERPO and
+15 continuing through any renewals.
+16 (b) Hearing. – Upon receipt of a request for a hearing to terminate a final ERPO, the court
+17 shall set a date for a hearing. Notice of the request for a hearing shall be served on the petitioner
+18 in accordance with Rule 5 of the Rules of Civil Procedure. The court shall set the date for the
+19 hearing no sooner than 10 days and no later than 30 days from the date of service of the request
+20 upon the petitioner.
+21 (c) Burden of Proof; Termination. – The respondent shall have the burden of proving, by
+22 a preponderance of the evidence, that the respondent does not pose a danger of causing physical
+23 harm to self or others by having in his or her care, custody, possession, ownership, or control a
+24 firearm. If the court finds after the hearing that the respondent has met his or her burden, the
+25 court shall terminate the final ERPO.
+26 "§ 50E-12. Notice.
+27 (a) Notice Law Enforcement; Entry into National Database. – The clerk of court shall
+28 deliver on the same day that an ERPO is issued a certified copy of that ERPO to the sheriff of
+29 the county in which the ERPO is issued. Any order extending, modifying, or revoking an ERPO
+30 shall be promptly delivered to the sheriff by the clerk and served in a manner provided for service
+31 of process. The sheriff shall promptly enter the ERPO into the National Crime Information Center
+32 registry and shall provide for access of such orders to the courts on a continuous basis.
+33 Modifications, terminations, renewals, and dismissals of the ERPO shall also be promptly
+34 entered. A copy of the ERPO shall be issued promptly to and retained by the police department
+35 of the municipality of the petitioner's residence. If the petitioner's residence is not located in a
+36 municipality or is in a municipality with no police department, copies shall be issued promptly
+37 to and retained by the sheriff of the county in which the petitioner's residence is located.
+38 (b) Notice to Respondent. – If the respondent was not present in court when the ERPO
+39 was issued, the respondent may be served in the manner provided for service of process in civil
+40 proceedings in accordance with Rule 4(j) of the Rules of Civil Procedure. If the summons has
+41 not yet been served upon the respondent, it shall be served with the ERPO. Law enforcement
+42 agencies shall accept receipt of copies of the ERPO issued by the clerk of court by electronic
+43 transmission for service on respondents.
+44 (c) Notice to Third Parties. – If the petitioner for an ERPO is a law enforcement officer
+45 or agency, the officer or agency shall provide, or attempt to provide, notice of the petition to any
+46 known third party who may be at risk of unlawful conduct from the respondent.
+47 "§ 50E-13. Prohibition; violation.
+48 (a) Prohibition. – It is unlawful for any person to possess, purchase, or receive, or attempt
+49 to possess, purchase, or receive, a firearm, ammunition, or permits to purchase or carry concealed
+50 firearms, for so long as an ERPO entered against that person in accordance with this Chapter is
+51 in effect.
+House Bill 166-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 (b) Violation. – A person who violates subsection (a) of this section or any other term of
+2 an ERPO is guilty of a Class A1 misdemeanor.
+3 "§ 50E-14. False statement regarding ERPO a misdemeanor.
+4 A person who knowingly makes a false statement when petitioning for an ERPO under this
+5 Chapter, or who knowingly makes a false statement to a law enforcement agency or officer that
+6 an ERPO entered pursuant to this Chapter remains in effect, is guilty of a Class 1 misdemeanor.
+7 "§ 50E-15. Remedies not exclusive.
+8 The remedies provided by this Chapter are not exclusive but are additional to other remedies
+9 provided under law.
+10 "§ 50E-16. Liability.
+11 Except as provided in G.S. 50E-13 or G.S. 50E-14, this Chapter shall not be interpreted to
+12 impose any criminal or civil liability on any person or entity for acts or omissions related to
+13 obtaining an ERPO, including reporting, declining to report, investigating, declining to
+14 investigate, filing, or declining to file a petition under this Chapter."
+15 SECTION 1.(b) Chapter 15C of the General Statutes reads as rewritten:
+16 "Chapter 15C.
+17 "Address Confidentiality Program.
+18 "§ 15C-1. Purpose.
+19 The purpose of this Chapter is to enable the State and the agencies of North Carolina to
+20 respond to requests for public records without disclosing the location of a petitioner for an
+21 Extreme Risk Protection Order or a victim of domestic violence, sexual offense, stalking, or
+22 human trafficking; to enable interagency cooperation in providing address confidentiality for
+23 victims a petitioner for an Extreme Risk Protection Order or a victim of domestic violence, sexual
+24 offense, stalking, or human trafficking; and to enable the State and its agencies to accept a
+25 program participant's use of an address designated by the Office of the Attorney General as a
+26 substitute address.
+27 "§ 15C-2. Definitions.
+28 The following definitions apply in this Chapter:
+29 …
+30 (2) Address Confidentiality Program or Program. – A program in the Office of
+31 the Attorney General to protect the confidentiality of the address of an ERPO
+32 petitioner or a relocated victim of domestic violence, sexual offense, or
+33 stalking to prevent the petitioner's or victim's assailants or potential assailants
+34 from finding the petitioner or victim through public records.
+35 …
+36 (5a) ERPO petitioner. – The person who petitions for an Extreme Risk Protection
+37 Order under Chapter 50E of the General Statutes.
+38 …
+39 "§ 15C-3. Address Confidentiality Program.
+40 The General Assembly establishes the Address Confidentiality Program in the Office of the
+41 Attorney General to protect the confidentiality of the address of an ERPO petitioner or a relocated
+42 victim of domestic violence, sexual offense, stalking, or human trafficking to prevent the
+43 petitioner's or victim's assailants or potential assailants from finding the petitioner or victim
+44 through public records. Under this Program, the Attorney General shall designate a substitute
+45 address for a program participant and act as the agent of the program participant for purposes of
+46 service of process and receiving and forwarding first-class mail or certified or registered mail.
+47 The Attorney General shall not be required to forward any mail other than first-class mail or
+48 certified or registered mail to the program participant. The Attorney General shall not be required
+49 to track or otherwise maintain records of any mail received on behalf of a program participant
+50 unless the mail is certified or registered mail.
+51 "§ 15C-4. Filing and certification of applications; authorization card.
+Page 8 House Bill 166-First Edition
+General Assembly Of North Carolina Session 2025
+1 (a) An individual who wants to participate in the Address Confidentiality Program shall
+2 file an application with the Attorney General with the assistance of an application assistant. Any
+3 of the following individuals may apply to the Attorney General to have an address designated by
+4 the Attorney General to serve as the substitute address of the individual:
+5 (1) An adult individual.
+6 (2) A parent or guardian acting on behalf of a minor when the minor resides with
+7 the individual.
+8 (3) A guardian acting on behalf of an incapacitated individual.
+9 (b) The application shall be dated, signed, and verified by the applicant and shall be
+10 signed by the application assistant who assisted in the preparation of the application.
+11 (c) The application shall contain all of the following:
+12 (1) A statement by the applicant that the applicant is an ERPO petitioner or a
+13 victim of domestic violence, sexual offense, stalking, or human trafficking
+14 and that the applicant fears for the applicant's safety or the safety of the
+15 applicant's child.
+16 (2) Evidence Except for an applicant that is an ERPO petitioner, evidence that the
+17 applicant is a victim of domestic violence, sexual offense, stalking, or human
+18 trafficking. For an applicant that is an ERPO petitioner, evidence that the
+19 applicant is at risk from violence or other unlawful conduct from the
+20 respondent in a petition filed under Chapter 50E of the General Statutes. This
+21 evidence may include any of the following:
+22 a. Law enforcement, court, or other federal or state agency records or
+23 files.
+24 b. Documentation from a domestic violence program if the applicant is
+25 alleged to be a victim of domestic violence.
+26 c. Documentation from a religious, medical, or other professional from
+27 whom the applicant has sought assistance in dealing with the alleged
+28 domestic violence, sexual offense, or stalking.
+29 d. Documentation submitted to support a victim of human trafficking's
+30 application for federal assistance or benefits under federal human
+31 trafficking laws.
+32 …
+33 (4) A Except for an applicant that is an ERPO petitioner, a statement by the
+34 applicant that the applicant has or will confidentially relocate in North
+35 Carolina.
+36 …
+37 (7) The address that the applicant requests not to be disclosed by the Attorney
+38 General that directly relates to the increased risk of domestic violence, sexual
+39 offense, or stalking.stalking, or other unlawful conduct.
+40 …."
+41 SECTION 1.(c) Development of Forms. – The Administrative Office of the Courts
+42 shall develop the appropriate forms to implement the processes provided under Chapter 50E of
+43 the General Statutes, as enacted by this section.
+44 SECTION 1.(d) Section Effective Date. – This section becomes effective October
+45 1, 2025.
+46 SECTION 2.(a) G.S. 50B-3.1(d) reads as rewritten:
+47 "(d) Surrender. – Upon service of the order, the defendant shall immediately surrender to
+48 the sheriff possession of all firearms, machine guns, ammunition, permits to purchase firearms,
+49 and permits to carry concealed firearms that are in the care, custody, possession, ownership, or
+50 control of the defendant. In the event that weapons cannot be surrendered at the time the order is
+51 served, the defendant shall surrender the firearms, ammunitions, and permits to the sheriff within
+House Bill 166-First Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 24 hours of service at a time and place specified by the sheriff. If the defendant fails to surrender
+2 the firearms, ammunitions, and permits to the sheriff within 24 hours of service, the court shall
+3 order the sheriff to seize the firearms, ammunitions, and permits. The sheriff shall store the
+4 firearms or contract with a licensed firearms dealer to provide storage.
+5 (1) If the court orders the defendant to surrender firearms, ammunition, and
+6 permits, the court shall inform the plaintiff and the defendant of the terms of
+7 the protective order and include these terms on the face of the order, including
+8 that the defendant is prohibited from possessing, purchasing, or receiving or
+9 attempting to possess, purchase, or receive a firearm for so long as the
+10 protective order or any successive protective order is in effect. The terms of
+11 the order shall include instructions as to how the defendant may request
+12 retrieval of any firearms, ammunition, and permits surrendered to the sheriff
+13 when the protective order is no longer in effect. The terms shall also include
+14 notice of the penalty for violation of G.S. 14-269.8.
+15 (2) The sheriff may charge the defendant a reasonable fee for the storage of any
+16 firearms and ammunition taken pursuant to a protective order. The fees are
+17 payable to the sheriff. The sheriff shall transmit the proceeds of these fees to
+18 the county finance officer. The fees shall be used by the sheriff to pay the costs
+19 of administering this section and for other law enforcement purposes. The
+20 county shall expend the restricted funds for these purposes only. The sheriff
+21 shall not release firearms, ammunition, or permits without a court order
+22 granting the release. The defendant must remit all fees owed prior to the
+23 authorized return of any firearms, ammunition, or permits. The sheriff shall
+24 not incur any civil or criminal liability for alleged damage or deterioration due
+25 to storage or transportation of any firearms or ammunition held pursuant to
+26 this section."
+27 SECTION 2.(b) Section Effective Date. – This section is effective when it becomes
+28 law and applies to orders issued on or after that date.
+29 SECTION 3. Act Effective Date. – Except as otherwise provided, this act is effective
+30 when it becomes law.
+Page 10 House Bill 166-First Edition
+[DELETED:  1 A ( R R A A A T A T I O A E R P O T R T A P A T F I T T A F A O P T A D F T S A T I O A E O E P D T S " " " T " T p o t C i t r g d a i w r c t o a o t r a p a t f T c o a a s d o h t o o b p a f a i s " T ( E R P O o E – A o g u t C ( F a A b A p w i i a d r o h b i a d r w t r F p o t s r c 1 A 2 O c]
+[DELETED:  S  H 3 A d t p f a p f a E u t C c A o t d A e A t g f A ( F o o " ( P E ( A ( A ( A ( A ( V ( R i ( A o a i h t s o o b h i h o h c c p o s ( A t ( A t ( A i o a p l c p o o a ( V o d a ( N o A – A p w a c a v A C t P d n h a c a v A C P a c b s p t a o o o o p w t p a b a s s o]
+[DELETED:  S  P p a w o t p i t p a s b k c ( C o ( E u ( R – B D 1 2 a o a t t A L O C f ( T y ( T ( T c ( T ( T n o f E t c d t i d t p c " ( S E f a d ( S t r " ( R a ( A ( T ( T ( W r ( T ( A d o r f r a r o a f a p t p f a p t c c r ( A ( A s t a v o t E i p a a C A m ( R c p f a p t c c f t a i t c c p ( M o e i]
+[DELETED:  S  H " ( H 1 ( I ( I f A c ( O ( T d c s b a A v w t 1 m p t p b t r a h h o o w o n t v b E o t r b s m i o h r c A 5 d A w t r c a v o t p o e e W t r i t S o a o s h b c d v a d i G o a c i v f T t g T a h E o t a o c s o a b t r i E o r a o f o a b t r j W t ( P t ( N o h w g t t r i a w t r " ( H h p ( O – I t c f t t i c a c e t t r o b]
+[DELETED:  S  P ( R – A e p E g w n s m a o f ( T ( T E s b f i i t c o a e o r ( T w ( T E s i t a i r u G ( T e ( C a g s c a ( V ( " ( S s p o s r f w f ( F U a s t o f t ( R f p o r ( F f s u r p t c a ( R t f]
+[DELETED:  S  H u f ( M f R – T r m r t r o a f a t o p w e r t p a f i u s ( o t s a t s s p f ( M w p e o p t r o t i t t t p t t p i n r t p a f i u s i ( D w t a t p p b t s r t r o a s t o i p f r p o a s f a f o w 3 d o e o o g t r o f p d s a a m s c s " ( D p n 1 ( D n ( R t a f]
+[DELETED:  S  P a m t T i p m e ( E e " ( M m e c ( H s i h u ( B a h f c " ( N d t s o r a s p f a o s o t t c o a c b M t r a d o t E s a b p e o m t ( N w p n a t ( N o k " ( P t f i]
+[DELETED:  S  H ( V a " A C a " T p " E i o a E i r d t r i d t i S " " " T r r f p d o a E h v o p s " T … ( A t p o a r v o d v s o o s f … ( E O … " T A v o d v s o s o h t t p t p t a s T c t u "]
+[DELETED:  S  P ( A f o t ( A ( A t ( A ( T s ( T ( A v a t t a f f t a s o t s o t a ( E a t a i a r f v o o u c f t r e a L f b D a c D w d d D a f f a o b u f h t … ( A a E a t t a h o w c r i N C … ( T G o … S s t S 1 S " S t a c s]
+[DELETED:  S  H 2 t o f ( I t c o t d t s f a a p t t a t p p o r a f f s l a t p t o s i i a t h t d m r r w n ( T f p t o c s n r f a o p w a c o g t r T d m r a f o p t t a n t t S l S w]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 166
+Short Title: Allow ERPOs to Prevent Suicides & Save Lives. (Public)
+Sponsors: Representatives Morey, Harrison, Price, and Clark (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Rules, Calendar, and Operations of the House
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO AUTHORIZE THE ISSUANCE OF AN EXTREME RISK PROTECTION
+3 ORDER TO RESTRICT TEMPORARILY A PERSON'S ACCESS TO FIREARMS IF
+4 THERE IS EVIDENCE THAT THE PERSON POSES A DANGER OF PHYSICAL HARM
+5 TO SELF OR OTHERS AND TO REQUIRE A COURT TO ORDER THE SEIZURE OF
+6 ANY FIREARM, AMMUNITION, OR PERMITS THAT A DEFENDANT FAILS TO
+7 SURRENDER AFTER THE ISSUANCE OF AN EMERGENCY OR EX PARTE
+8 DOMESTIC VIOLENCE PROTECTIVE ORDER.
+9 The General Assembly of North Carolina enacts:
+10 SECTION 1.(a) The General Statutes are amended by adding a new Chapter to read:
+11 "Chapter 50E.
+12 "Extreme Risk Protection Orders.
+13 "§ 50E-1. Title of Chapter.
+14 This Chapter may be cited as the "Extreme Risk Protection Orders Act."
+15 "§ 50E-2. Purpose.
+16 The purpose of this Chapter is to reduce gun deaths and injuries, while respecting
+17 constitutional rights, by providing a court procedure for concerned citizens and law enforcement
+18 to obtain an order temporarily restricting a person's access to firearms. The court orders
+19 authorized under this Chapter are intended to be limited to situations in which the person poses
+20 a significant danger of harming themselves or others by possessing a firearm and include
+21 standards and safeguards to protect the rights of respondents and due process of law.
+22 "§ 50E-3. Definitions.
+23 The following definitions apply in this Chapter:
+24 (1) Extreme Risk Protection Order or ERPO. – An order granted under this
+25 Chapter, which includes a remedy authorized under G.S. 50E-6.
+26 (2) Family or household member. – Any of the following:
+27 a. A person related by blood, marriage, or adoption to the respondent.
+28 b. A person who is in a dating relationship, or has been in a dating
+29 relationship, with the respondent. For purposes of this
+30 sub-subdivision, a dating relationship is one wherein the parties are
+31 romantically involved over time and on a continuous basis during the
+32 course of the relationship but is not any of the following:
+33 1. A casual acquaintance.
+34 2. Ordinary fraternization between persons in a business or social
+35 context.
+*H166-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 3. A dating relationship that ended more than one year before the
+2 date the petitioner filed a petition for an ERPO under this
+3 Chapter.
+4 c. A person who has a child in common with the respondent, regardless
+5 of whether the person has been married to the respondent or has lived
+6 together with the respondent at any time.
+7 d. A domestic partner of the respondent.
+8 e. A person who has a biological or legal parent-child relationship with
+9 the respondent, including stepparents, stepchildren, grandparents, and
+10 grandchildren.
+11 f. A person who is acting or has acted as the respondent's legal guardian.
+12 (3) Firearm. – Any weapon, including a starter gun, which will or is designed to
+13 or may readily be converted to expel a projectile by the action of an explosive,
+14 or its frame or receiver.
+15 "§ 50E-4. Commencement of action.
+16 (a) Petition. – Any of the following may file a verified petition in district court for an
+17 ERPO:
+18 (1) A family or household member.
+19 (2) A current or former spouse or dating partner.
+20 (3) A law enforcement officer or agency.
+21 (4) A health care provider.
+22 (b) Venue. – A petition for an ERPO is governed by G.S. 1-82.
+23 (c) Required Information in Petition. – A petition for an ERPO under this Chapter shall
+24 include all of the following:
+25 (1) An allegation that the respondent poses a danger of physical harm to self or
+26 others by having in his or her care, custody, possession, ownership, or control
+27 a firearm. If the petitioner is seeking an ex parte ERPO, the petition shall
+28 include an allegation that the respondent poses an imminent danger of physical
+29 harm to self or others by having in his or her care, custody, possession,
+30 ownership, or control a firearm. The allegation required under this subdivision
+31 shall include facts to support the allegation.
+32 (2) An identification, to the best of the petitioner's knowledge, of the number,
+33 types, and locations of firearms under the respondent's custody or control.
+34 (3) An identification of any existing protection order under State law governing
+35 the respondent.
+36 (4) An identification of any pending lawsuits, complaints, petitions, or other
+37 actions between the petitioner and the respondent.
+38 (d) Verification of Terms of Existing Orders. – The clerk of court shall verify the terms
+39 of any existing protection orders governing the petitioner and respondent. The court shall not
+40 delay or deny granting relief because of the existence of a pending action between the petitioner
+41 and respondent or the necessity of verifying the terms of an existing protection order.
+42 (e) Nondisclosure of Address. – A petitioner with a current and valid Address
+43 Confidentiality Program authorization card issued pursuant to the provisions of Chapter 15C of
+44 the General Statutes may use the substitute address designated by the Address Confidentiality
+45 Program when filing with the court any document required under this Chapter. If a petitioner
+46 does not have a current and valid Address Confidentiality Program authorization card, but
+47 submits to the court a copy of a protective order without attachments, if any, issued to the
+48 petitioner under G.S. 50B-3 or a lawful order of any court of competent jurisdiction restricting
+49 the access or contact of one or more persons with the petitioner, accompanied by a signed
+50 statement that the petitioner has good reason to believe that the physical safety of the petitioner
+51 or a member of the petitioner's family residing with the petitioner would be jeopardized if the
+Page 2 House Bill 166-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 petitioner's address were open to public inspection, that petitioner's address shall be kept
+2 confidential.
+3 (f) Court Costs. – No court costs shall be assessed for the filing or service of the petition
+4 or the service of any ERPOs.
+5 (g) Electronic Filing. – All documents filed, issued, registered, or served in an action
+6 under this Chapter relating to an ERPO may be filed electronically.
+7 (h) Report. – Beginning December 1, 2025, and occurring annually thereafter, the
+8 Administrative Office of the Courts shall submit a report to the Joint Legislative Oversight
+9 Committee on Justice and Public Safety and the Fiscal Research Division that includes all of the
+10 following information:
+11 (1) The number of petitions filed under this Chapter during the prior calendar
+12 year.
+13 (2) The number of ex parte ERPOs issued during the prior calendar year.
+14 (3) The number of ex parte ERPOs the courts declined to issue during the prior
+15 calendar year and justification for why each was declined.
+16 (4) The number of final ERPOs issued during the prior calendar year.
+17 (5) The number of final ERPOs the courts declined to issue during the prior
+18 calendar year and justification for why each was declined.
+19 "§ 50E-5. Process.
+20 (a) Summons Required. – Except as otherwise provided in G.S. 50E-8, a petition for an
+21 ERPO requires that a summons be issued and served not later than five days prior to the date set
+22 for the final ERPO hearing. Attachments to the summons shall include the petition for any ERPO,
+23 any ex parte ERPO that has been issued and the notice of hearing on the ex parte ERPO, and a
+24 description of what an ERPO is.
+25 (b) Service of the Summons and Attachments. – The clerk of court shall effect service of
+26 the summons and any attachments through the appropriate law enforcement agency where the
+27 respondent is to be served.
+28 "§ 50E-6. ERPO requirements; remedy; mental health or chemical dependency evaluation.
+29 (a) Required Information in ERPO. – An ERPO issued under this Chapter shall include
+30 all of the following:
+31 (1) A statement of the grounds supporting issuance of the ERPO.
+32 (2) The date and time the ERPO was issued.
+33 (3) The date and time the ERPO expires.
+34 (4) Whether a mental health evaluation or chemical dependency evaluation of the
+35 respondent is required.
+36 (5) The address of the court in which any responsive pleading may be filed.
+37 (6) A description of the requirements for relinquishment and retrieval of any
+38 firearms, ammunition, permits to purchase firearms, and permits to carry
+39 concealed firearms that are in the care, custody, ownership, or control of the
+40 respondent.
+41 (7) A description of the process for seeking termination of the ERPO.
+42 (8) A statement that a violation of the ERPO is punishable as a Class A1
+43 misdemeanor.
+44 (b) Remedy Granted. – Upon issuance of an ERPO, including an ex parte ERPO, the
+45 court shall order the respondent to surrender to the sheriff all firearms, ammunition, permits to
+46 purchase firearms, and permits to carry concealed firearms that are in the care, custody,
+47 possession, ownership, or control of the respondent.
+48 (c) Mental Health or Chemical Dependency Evaluation. – During a hearing for issuance
+49 of an ERPO, the court shall consider whether a mental health evaluation or chemical dependency
+50 evaluation of the respondent is appropriate and may order the respondent to undergo evaluation
+51 if appropriate.
+House Bill 166-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 "§ 50E-7. Hearing and issuance of a final Extreme Risk Protection Order.
+2 (a) Hearing. – A court shall hold a hearing on a petition for a final ERPO no later than
+3 10 days from either of the following dates:
+4 (1) If an ex parte ERPO has been issued, the date the ex parte ERPO was issued.
+5 (2) If subdivision (1) of this subsection does not apply, the date the petition for a
+6 final ERPO was served on the respondent.
+7 A continuance shall be limited to one extension of no more than 10 days unless all parties
+8 consent or good cause is shown.
+9 (b) Order. – A court may issue a final ERPO if all of the following requirements are met:
+10 (1) The court finds by clear and convincing evidence that the respondent poses a
+11 danger of causing physical harm to self or others by having in his or her
+12 custody a firearm. In determining whether the requirement set forth in this
+13 subdivision is met, the court may consider any relevant evidence, including,
+14 but not limited to, any of the following:
+15 a. A recent act or threat of violence, or a pattern of acts or threats of
+16 violence within the 12 months preceding the petition, by the
+17 respondent against himself, herself, or others, whether or not the
+18 violence or threat of violence involves a firearm or other weapon.
+19 b. Evidence of the respondent being seriously mentally ill or having
+20 recurring mental health issues.
+21 c. A violation by the respondent of an order issued under Chapter 50B,
+22 50C, or 50D of the General Statutes.
+23 d. A previous or existing ERPO issued against the respondent, including
+24 whether the respondent committed a violation of the previous or
+25 existing ERPO.
+26 e. Whether the respondent, in this State or any other state, has been
+27 convicted of or had adjudication withheld on a crime that constitutes
+28 domestic violence as defined in G.S. 50B-1 or a crime involving
+29 violence or a threat of violence.
+30 f. The unlawful or reckless use, display, or brandishing of a firearm by
+31 the respondent.
+32 g. The recurring use of, or threat to use, physical force by the respondent
+33 against another person or the respondent stalking another person.
+34 h. Evidence of the abuse of controlled substances or alcohol by the
+35 respondent.
+36 i. Evidence of recent acquisition of firearms or ammunition by the
+37 respondent.
+38 j. Witness testimony, taken while the witness is under oath, relating to
+39 the matter before the court.
+40 (2) Process was served on the respondent in accordance with the requirements of
+41 this Chapter.
+42 (3) Notice of hearing was given to the respondent in accordance with the
+43 requirements of this Chapter.
+44 "§ 50E-8. Hearing and issuance of an ex parte Extreme Risk Protection Order.
+45 (a) Hearing. – Upon receipt of a petition for an ex parte ERPO, the court shall hold a
+46 hearing in person on the day the petition is filed or the day immediately following the day the
+47 petition is filed.
+48 (b) Order. – If the court finds that there is clear and convincing evidence that the
+49 respondent poses an imminent danger of causing physical harm to self or others by having in his
+50 or her custody a firearm, a judge or magistrate of district court may issue an ex parte ERPO
+51 before a hearing for a final ERPO and without evidence of service of process or notice.
+Page 4 House Bill 166-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (c) Requirements. – An ex parte ERPO granted without notice shall meet all of the
+2 following requirements:
+3 (1) The ERPO shall be endorsed with the date and hour of issuance.
+4 (2) The ERPO shall be filed immediately in the clerk's office and entered of
+5 record.
+6 (3) The ERPO shall include a statement detailing why the ERPO was granted
+7 without notice.
+8 (4) The ERPO shall include the applicable information required under
+9 G.S. 50E-6(a).
+10 (5) The ERPO shall expire by its terms within a specified amount of time after
+11 entry, not to exceed the limits set forth in G.S. 50E-10(a).
+12 (d) Court Out of Session. – When the court is not in session, the petitioner may file for
+13 an ex parte ERPO before any judge or magistrate designated by the chief district court judge to
+14 grant relief under this Chapter. If the judge or magistrate finds that the requirements of this
+15 section have been met, the judge or magistrate may issue an ex parte ERPO. The chief district
+16 court judge may designate for each county at least one judge or magistrate to be reasonably
+17 available to issue ex parte ERPOs when the court is not in session.
+18 (e) Video Conference. – Hearings held to consider ex parte relief pursuant to subsection
+19 (a) of this section may be held via video conference.
+20 "§ 50E-9. Surrender, retrieval, and disposal of firearms.
+21 (a) Surrender of Firearms. – Upon service of an ERPO, the respondent shall immediately
+22 surrender to the sheriff possession of all firearms, ammunition, permits to purchase firearms, and
+23 permits to carry concealed firearms that are in the care, custody, possession, ownership, or control
+24 of the respondent. In the event that weapons cannot be surrendered at the time the ERPO is
+25 served, the respondent shall surrender the firearms, ammunitions, and permits to the sheriff
+26 within 24 hours of service at a time and place specified by the sheriff. The sheriff shall store the
+27 firearms or contract with a licensed firearms dealer to provide storage.
+28 (b) Failure to Surrender. – Upon the sworn statement of the petitioner or the sheriff
+29 alleging that the respondent has failed to comply with the surrender of firearms required under
+30 subsection (a) of this section, the court shall determine whether probable cause exists to believe
+31 that the respondent has failed to surrender all firearms in his or her care, custody, possession,
+32 ownership, or control. If probable cause exists, the court shall issue a warrant describing the
+33 firearms and authorizing (i) a search of the locations where the firearms are reasonably believed
+34 to be and (ii) seizure of any firearms discovered pursuant to the search.
+35 (c) Receipt. – At the time of surrender or seizure, the sheriff taking possession of a
+36 firearm shall issue a receipt identifying all firearms that have been surrendered or seized and shall
+37 provide a copy of the receipt to the respondent. Within 48 hours after issuing the receipt, the
+38 officer shall file the original receipt with the court and shall also retain a copy for the sheriff's
+39 records.
+40 (d) Fee. – The sheriff may charge the respondent a reasonable fee for the storage of any
+41 firearms and ammunition taken pursuant to an ERPO. The fees are payable to the sheriff. The
+42 sheriff shall transmit the proceeds of these fees to the county finance officer. The fees shall be
+43 used by the sheriff to pay the costs of administering this section. The county shall expend the
+44 restricted funds for these purposes only. The sheriff shall not release firearms, ammunition, or
+45 permits without a court order granting the release. The respondent shall remit all fees owed prior
+46 to the authorized return of any firearms, ammunition, or permits. The sheriff shall not incur any
+47 civil or criminal liability for alleged damage or deterioration due to storage or transportation of
+48 any firearms or ammunition held pursuant to this section.
+49 (e) Retrieval. – If the court does not enter a final ERPO when the ex parte ERPO expires,
+50 the respondent may retrieve any firearms, ammunition, or permits surrendered to the sheriff
+House Bill 166-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 unless the court finds that the respondent is otherwise precluded from owning or possessing a
+2 firearm pursuant to State or federal law.
+3 (f) Motion for Return. – The respondent may request the return of any firearms,
+4 ammunition, or permits surrendered by filing a motion with the court after the expiration or
+5 termination of the ERPO. Unless the court finds that the respondent is otherwise precluded from
+6 owning or possessing a firearm pursuant to State or federal law, all firearms, ammunition, and
+7 permits surrendered by the respondent shall be returned within 30 days of the date the motion
+8 was received by the court. If the court does not enter a final ERPO when the ex parte ERPO
+9 expires, and the court orders the return of the items to the respondent, the respondent is not
+10 required to pay any fees imposed under subsection (d) of this section and the sheriff shall
+11 promptly refund to the respondent any fees already paid pursuant to subsection (d) of this section
+12 for the storage of any items taken pursuant to the ex parte ERPO.
+13 (g) Motion for Return by Third Party. – A third-party owner of firearms or ammunition
+14 who is otherwise eligible to possess the items may file a motion requesting the return to the third
+15 party of any of the items in the possession of the sheriff surrendered or seized as a result of the
+16 entry of an ERPO. The third-party owner shall also provide proof of ownership of the firearms
+17 or ammunition. Upon receipt of the third party's motion, the court shall schedule a hearing and
+18 provide written notice to all parties and the sheriff. The court shall order return of the items to
+19 the third party unless the third-party owner fails to provide proof of ownership or certification as
+20 required under this subsection or the court determines that the third party is disqualified from
+21 owning or possessing the items pursuant to State or federal law. If the court orders the return of
+22 the items to the third party, the third party is not required to pay any fees imposed under
+23 subsection (d) of this section. If the court denies the return of the items to the third party, the
+24 items shall be disposed of by the sheriff as provided in subsection (h) of this section.
+25 (h) Disposal of Firearms. – If the respondent or a third-party owner does not file a motion
+26 within the applicable time period prescribed by this section requesting the return of any
+27 surrendered firearms, ammunition, or permits; if the court determines that the respondent or
+28 third-party owner is precluded from regaining possession of any surrendered firearms,
+29 ammunition, or permits; or if the respondent fails to remit all fees owed for the storage of the
+30 firearms or ammunition within 30 days of the entry of the order granting the return of the
+31 firearms, ammunition, or permits, the sheriff who has control of the firearms, ammunition, or
+32 permits shall give notice to the respondent and the sheriff shall apply to the court for an order of
+33 disposition of the firearms, ammunition, or permits. The judge, after a hearing, may order the
+34 sheriff in possession, or the sheriff's duly authorized agent, to destroy the firearms, ammunition,
+35 and permits, or to dispose of the firearms, ammunition, and permits in one or more of the ways
+36 authorized by law, including subdivision (4b), (5), or (6) of G.S. 14-269.1. The sheriff shall
+37 maintain a record of any firearms, ammunition, and permits destroyed in accordance with this
+38 subsection. If a sale by the sheriff does occur, any proceeds from the sale after deducting any
+39 costs associated with the storage and sale, in accordance with all applicable State and federal law,
+40 shall be provided to the respondent if ordered by the judge.
+41 "§ 50E-10. Duration; renewal of ERPOs.
+42 (a) Duration of Ex Parte ERPO. – Except as otherwise provided in this subsection, an ex
+43 parte ERPO shall be effective until the date a hearing is held under G.S. 50E-7. If a hearing is
+44 not held or a continuance was not granted, an ex parte ERPO shall be effective for not more than
+45 10 days from the date the ex parte ERPO was issued.
+46 (b) Duration of Final ERPO. – A final ERPO shall be effective for a fixed period of time
+47 not to exceed one year.
+48 (c) Renewal. – Any ERPO may be renewed one or more times, as required, provided that
+49 the requirements of G.S. 50E-7 or G.S. 50E-8, as appropriate, are satisfied. The court may renew
+50 an ERPO, including an ERPO that previously has been renewed, upon a motion by the petitioner
+51 filed before the expiration of the current ERPO. Upon a motion for a renewal, the court shall hold
+Page 6 House Bill 166-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 a hearing no later than 10 days after the date the motion is served on the respondent. The court
+2 may renew an ex parte or final ERPO if the court finds by clear and convincing evidence that
+3 there has been no material change in relevant circumstances since entry of the respective ERPO.
+4 The commission of an act of unlawful conduct by the respondent after entry of the current ERPO
+5 is not required for an ERPO to be renewed. If the motion for renewal is uncontested and the
+6 petitioner seeks no modification of the ERPO, the ERPO may be renewed if the petitioner's
+7 motion or affidavit states that there has been no material change in relevant circumstances since
+8 entry of the ERPO and states the reason for the requested renewal.
+9 (d) Expiration Date. – An ERPO expiring on a day the court is not open for business shall
+10 expire in accordance with the provisions of Rule 6(a) of the Rules of Civil Procedure, G.S. 1A-1.
+11 "§ 50E-11. Termination of an Extreme Risk Protection Order.
+12 (a) Motion. – The respondent may request the termination of a final ERPO by filing a
+13 motion with the court. The respondent may submit no more than one motion for termination for
+14 every 12-month period the final ERPO is in effect, starting from the date of the final ERPO and
+15 continuing through any renewals.
+16 (b) Hearing. – Upon receipt of a request for a hearing to terminate a final ERPO, the court
+17 shall set a date for a hearing. Notice of the request for a hearing shall be served on the petitioner
+18 in accordance with Rule 5 of the Rules of Civil Procedure. The court shall set the date for the
+19 hearing no sooner than 10 days and no later than 30 days from the date of service of the request
+20 upon the petitioner.
+21 (c) Burden of Proof; Termination. – The respondent shall have the burden of proving, by
+22 a preponderance of the evidence, that the respondent does not pose a danger of causing physical
+23 harm to self or others by having in his or her care, custody, possession, ownership, or control a
+24 firearm. If the court finds after the hearing that the respondent has met his or her burden, the
+25 court shall terminate the final ERPO.
+26 "§ 50E-12. Notice.
+27 (a) Notice Law Enforcement; Entry into National Database. – The clerk of court shall
+28 deliver on the same day that an ERPO is issued a certified copy of that ERPO to the sheriff of
+29 the county in which the ERPO is issued. Any order extending, modifying, or revoking an ERPO
+30 shall be promptly delivered to the sheriff by the clerk and served in a manner provided for service
+31 of process. The sheriff shall promptly enter the ERPO into the National Crime Information Center
+32 registry and shall provide for access of such orders to the courts on a continuous basis.
+33 Modifications, terminations, renewals, and dismissals of the ERPO shall also be promptly
+34 entered. A copy of the ERPO shall be issued promptly to and retained by the police department
+35 of the municipality of the petitioner's residence. If the petitioner's residence is not located in a
+36 municipality or is in a municipality with no police department, copies shall be issued promptly
+37 to and retained by the sheriff of the county in which the petitioner's residence is located.
+38 (b) Notice to Respondent. – If the respondent was not present in court when the ERPO
+39 was issued, the respondent may be served in the manner provided for service of process in civil
+40 proceedings in accordance with Rule 4(j) of the Rules of Civil Procedure. If the summons has
+41 not yet been served upon the respondent, it shall be served with the ERPO. Law enforcement
+42 agencies shall accept receipt of copies of the ERPO issued by the clerk of court by electronic
+43 transmission for service on respondents.
+44 (c) Notice to Third Parties. – If the petitioner for an ERPO is a law enforcement officer
+45 or agency, the officer or agency shall provide, or attempt to provide, notice of the petition to any
+46 known third party who may be at risk of unlawful conduct from the respondent.
+47 "§ 50E-13. Prohibition; violation.
+48 (a) Prohibition. – It is unlawful for any person to possess, purchase, or receive, or attempt
+49 to possess, purchase, or receive, a firearm, ammunition, or permits to purchase or carry concealed
+50 firearms, for so long as an ERPO entered against that person in accordance with this Chapter is
+51 in effect.
+House Bill 166-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (b) Violation. – A person who violates subsection (a) of this section or any other term of
+2 an ERPO is guilty of a Class A1 misdemeanor.
+3 "§ 50E-14. False statement regarding ERPO a misdemeanor.
+4 A person who knowingly makes a false statement when petitioning for an ERPO under this
+5 Chapter, or who knowingly makes a false statement to a law enforcement agency or officer that
+6 an ERPO entered pursuant to this Chapter remains in effect, is guilty of a Class 1 misdemeanor.
+7 "§ 50E-15. Remedies not exclusive.
+8 The remedies provided by this Chapter are not exclusive but are additional to other remedies
+9 provided under law.
+10 "§ 50E-16. Liability.
+11 Except as provided in G.S. 50E-13 or G.S. 50E-14, this Chapter shall not be interpreted to
+12 impose any criminal or civil liability on any person or entity for acts or omissions related to
+13 obtaining an ERPO, including reporting, declining to report, investigating, declining to
+14 investigate, filing, or declining to file a petition under this Chapter."
+15 SECTION 1.(b) Chapter 15C of the General Statutes reads as rewritten:
+16 "Chapter 15C.
+17 "Address Confidentiality Program.
+18 "§ 15C-1. Purpose.
+19 The purpose of this Chapter is to enable the State and the agencies of North Carolina to
+20 respond to requests for public records without disclosing the location of a petitioner for an
+21 Extreme Risk Protection Order or a victim of domestic violence, sexual offense, stalking, or
+22 human trafficking; to enable interagency cooperation in providing address confidentiality for
+23 victims a petitioner for an Extreme Risk Protection Order or a victim of domestic violence, sexual
+24 offense, stalking, or human trafficking; and to enable the State and its agencies to accept a
+25 program participant's use of an address designated by the Office of the Attorney General as a
+26 substitute address.
+27 "§ 15C-2. Definitions.
+28 The following definitions apply in this Chapter:
+29 …
+30 (2) Address Confidentiality Program or Program. – A program in the Office of
+31 the Attorney General to protect the confidentiality of the address of an ERPO
+32 petitioner or a relocated victim of domestic violence, sexual offense, or
+33 stalking to prevent the petitioner's or victim's assailants or potential assailants
+34 from finding the petitioner or victim through public records.
+35 …
+36 (5a) ERPO petitioner. – The person who petitions for an Extreme Risk Protection
+37 Order under Chapter 50E of the General Statutes.
+38 …
+39 "§ 15C-3. Address Confidentiality Program.
+40 The General Assembly establishes the Address Confidentiality Program in the Office of the
+41 Attorney General to protect the confidentiality of the address of an ERPO petitioner or a relocated
+42 victim of domestic violence, sexual offense, stalking, or human trafficking to prevent the
+43 petitioner's or victim's assailants or potential assailants from finding the petitioner or victim
+44 through public records. Under this Program, the Attorney General shall designate a substitute
+45 address for a program participant and act as the agent of the program participant for purposes of
+46 service of process and receiving and forwarding first-class mail or certified or registered mail.
+47 The Attorney General shall not be required to forward any mail other than first-class mail or
+48 certified or registered mail to the program participant. The Attorney General shall not be required
+49 to track or otherwise maintain records of any mail received on behalf of a program participant
+50 unless the mail is certified or registered mail.
+51 "§ 15C-4. Filing and certification of applications; authorization card.
+Page 8 House Bill 166-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (a) An individual who wants to participate in the Address Confidentiality Program shall
+2 file an application with the Attorney General with the assistance of an application assistant. Any
+3 of the following individuals may apply to the Attorney General to have an address designated by
+4 the Attorney General to serve as the substitute address of the individual:
+5 (1) An adult individual.
+6 (2) A parent or guardian acting on behalf of a minor when the minor resides with
+7 the individual.
+8 (3) A guardian acting on behalf of an incapacitated individual.
+9 (b) The application shall be dated, signed, and verified by the applicant and shall be
+10 signed by the application assistant who assisted in the preparation of the application.
+11 (c) The application shall contain all of the following:
+12 (1) A statement by the applicant that the applicant is an ERPO petitioner or a
+13 victim of domestic violence, sexual offense, stalking, or human trafficking
+14 and that the applicant fears for the applicant's safety or the safety of the
+15 applicant's child.
+16 (2) Evidence Except for an applicant that is an ERPO petitioner, evidence that the
+17 applicant is a victim of domestic violence, sexual offense, stalking, or human
+18 trafficking. For an applicant that is an ERPO petitioner, evidence that the
+19 applicant is at risk from violence or other unlawful conduct from the
+20 respondent in a petition filed under Chapter 50E of the General Statutes. This
+21 evidence may include any of the following:
+22 a. Law enforcement, court, or other federal or state agency records or
+23 files.
+24 b. Documentation from a domestic violence program if the applicant is
+25 alleged to be a victim of domestic violence.
+26 c. Documentation from a religious, medical, or other professional from
+27 whom the applicant has sought assistance in dealing with the alleged
+28 domestic violence, sexual offense, or stalking.
+29 d. Documentation submitted to support a victim of human trafficking's
+30 application for federal assistance or benefits under federal human
+31 trafficking laws.
+32 …
+33 (4) A Except for an applicant that is an ERPO petitioner, a statement by the
+34 applicant that the applicant has or will confidentially relocate in North
+35 Carolina.
+36 …
+37 (7) The address that the applicant requests not to be disclosed by the Attorney
+38 General that directly relates to the increased risk of domestic violence, sexual
+39 offense, or stalking.stalking, or other unlawful conduct.
+40 …."
+41 SECTION 1.(c) Development of Forms. – The Administrative Office of the Courts
+42 shall develop the appropriate forms to implement the processes provided under Chapter 50E of
+43 the General Statutes, as enacted by this section.
+44 SECTION 1.(d) Section Effective Date. – This section becomes effective October
+45 1, 2025.
+46 SECTION 2.(a) G.S. 50B-3.1(d) reads as rewritten:
+47 "(d) Surrender. – Upon service of the order, the defendant shall immediately surrender to
+48 the sheriff possession of all firearms, machine guns, ammunition, permits to purchase firearms,
+49 and permits to carry concealed firearms that are in the care, custody, possession, ownership, or
+50 control of the defendant. In the event that weapons cannot be surrendered at the time the order is
+51 served, the defendant shall surrender the firearms, ammunitions, and permits to the sheriff within
+House Bill 166-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 24 hours of service at a time and place specified by the sheriff. If the defendant fails to surrender
+2 the firearms, ammunitions, and permits to the sheriff within 24 hours of service, the court shall
+3 order the sheriff to seize the firearms, ammunitions, and permits. The sheriff shall store the
+4 firearms or contract with a licensed firearms dealer to provide storage.
+5 (1) If the court orders the defendant to surrender firearms, ammunition, and
+6 permits, the court shall inform the plaintiff and the defendant of the terms of
+7 the protective order and include these terms on the face of the order, including
+8 that the defendant is prohibited from possessing, purchasing, or receiving or
+9 attempting to possess, purchase, or receive a firearm for so long as the
+10 protective order or any successive protective order is in effect. The terms of
+11 the order shall include instructions as to how the defendant may request
+12 retrieval of any firearms, ammunition, and permits surrendered to the sheriff
+13 when the protective order is no longer in effect. The terms shall also include
+14 notice of the penalty for violation of G.S. 14-269.8.
+15 (2) The sheriff may charge the defendant a reasonable fee for the storage of any
+16 firearms and ammunition taken pursuant to a protective order. The fees are
+17 payable to the sheriff. The sheriff shall transmit the proceeds of these fees to
+18 the county finance officer. The fees shall be used by the sheriff to pay the costs
+19 of administering this section and for other law enforcement purposes. The
+20 county shall expend the restricted funds for these purposes only. The sheriff
+21 shall not release firearms, ammunition, or permits without a court order
+22 granting the release. The defendant must remit all fees owed prior to the
+23 authorized return of any firearms, ammunition, or permits. The sheriff shall
+24 not incur any civil or criminal liability for alleged damage or deterioration due
+25 to storage or transportation of any firearms or ammunition held pursuant to
+26 this section."
+27 SECTION 2.(b) Section Effective Date. – This section is effective when it becomes
+28 law and applies to orders issued on or after that date.
+29 SECTION 3. Act Effective Date. – Except as otherwise provided, this act is effective
+30 when it becomes law.
+Page 10 House Bill 166-First Edition
+
+[DELETED:  1 A ( R R A A A T A T I O A E R P O T R T A P A T F I T T A F A O P T A D F T S A T I O A E O E P D T S " " " T " T p o t C i t r g d a i w r c t o a o t r a p a t f T c o a a s d o h t o o b p a f a i s " T ( E R P O o E – A o g u t C ( F a A b A p w i i a d r o h b i a d r w t r F p o t s r c 1 A 2 O c]
+[DELETED:  S  H 3 A d t p f a p f a E u t C c A o t d A e A t g f A ( F o o " ( P E ( A ( A ( A ( A ( V ( R i ( A o a i h t s o o b h i h o h c c p o s ( A t ( A t ( A i o a p l c p o o a ( V o d a ( N o A – A p w a c a v A C t P d n h a c a v A C P a c b s p t a o o o o p w t p a b a s s o]
+[DELETED:  S  P p a w o t p i t p a s b k c ( C o ( E u ( R – B D 1 2 a o a t t A L O C f ( T y ( T ( T c ( T ( T n o f E t c d t i d t p c " ( S E f a d ( S t r " ( R a ( A ( T ( T ( W r ( T ( A d o r f r a r o a f a p t p f a p t c c r ( A ( A s t a v o t E i p a a C A m ( R c p f a p t c c f t a i t c c p ( M o e i]
+[DELETED:  S  H " ( H 1 ( I ( I f A c ( O ( T d c s b a A v w t 1 m p t p b t r a h h o o w o n t v b E o t r b s m i o h r c A 5 d A w t r c a v o t p o e e W t r i t S o a o s h b c d v a d i G o a c i v f T t g T a h E o t a o c s o a b t r i E o r a o f o a b t r j W t ( P t ( N o h w g t t r i a w t r " ( H h p ( O – I t c f t t i c a c e t t r o b]
+[DELETED:  S  P ( R – A e p E g w n s m a o f ( T ( T E s b f i i t c o a e o r ( T w ( T E s i t a i r u G ( T e ( C a g s c a ( V ( " ( S s p o s r f w f ( F U a s t o f t ( R f p o r ( F f s u r p t c a ( R t f]
+[DELETED:  S  H u f ( M f R – T r m r t r o a f a t o p w e r t p a f i u s ( o t s a t s s p f ( M w p e o p t r o t i t t t p t t p i n r t p a f i u s i ( D w t a t p p b t s r t r o a s t o i p f r p o a s f a f o w 3 d o e o o g t r o f p d s a a m s c s " ( D p n 1 ( D n ( R t a f]
+[DELETED:  S  P a m t T i p m e ( E e " ( M m e c ( H s i h u ( B a h f c " ( N d t s o r a s p f a o s o t t c o a c b M t r a d o t E s a b p e o m t ( N w p n a t ( N o k " ( P t f i]
+[DELETED:  S  H ( V a " A C a " T p " E i o a E i r d t r i d t i S " " " T r r f p d o a E h v o p s " T … ( A t p o a r v o d v s o o s f … ( E O … " T A v o d v s o s o h t t p t p t a s T c t u "]
+[DELETED:  S  P ( A f o t ( A ( A t ( A ( T s ( T ( A v a t t a f f t a s o t s o t a ( E a t a i a r f v o o u c f t r e a L f b D a c D w d d D a f f a o b u f h t … ( A a E a t t a h o w c r i N C … ( T G o … S s t S 1 S " S t a c s]
+[DELETED:  S  H 2 t o f ( I t c o t d t s f a a p t t a t p p o r a f f s l a t p t o s i i a t h t d m r r w n ( T f p t o c s n r f a o p w a c o g t r T d m r a f o p t t a n t t S l S w]

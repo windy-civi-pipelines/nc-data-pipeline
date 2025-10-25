@@ -1,0 +1,1797 @@
+Title: SENATE BILL 303
+Official Title: SENATE BILL 303
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+Short Title: Repeal Service Tax. (Public)
+Sponsors: Senators Smith, Grafstein, and Bradley (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+March 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REPEAL THE SERVICE TAX AND TO MAKE VARIOUS CONFORMING
+3 CHANGES NECESSARY TO EFFECTUATE THE REPEAL.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. REPEAL OF SERVICE TAX AND ATTENDANT CONFORMING CHANGES
+7 SECTION 1.(a) G.S. 105-164.4 reads as rewritten:
+8 "§ 105-164.4. Tax imposed on retailers and certain facilitators.
+9 (a) A privilege tax is imposed on a retailer engaged in business in the State at the
+10 percentage rates of the retailer's net taxable sales or gross receipts, listed in this subsection. The
+11 general rate of tax is four and three-quarters percent (4.75%). The percentage rates are as follows:
+12 (1) The general rate of tax applies to the following items sold at retail:
+13 …
+14 c. The sales price of or gross receipts derived from repair, maintenance,
+15 and installation services to tangible personal property or certain digital
+16 property, regardless of whether the tangible personal property or
+17 certain digital property is taxed under another subdivision in this
+18 section or is subject to a maximum tax under another subdivision in
+19 this section. Repair, maintenance, and installation services generally
+20 include any tangible personal property or certain digital property that
+21 becomes a part of or is applied to a purchaser's property. The use tax
+22 exemption in G.S. 105-164.27A(a3) may apply to these services.
+23 Repair, maintenance, and installation services for real property are
+24 taxable under subdivision (16) of this subsection.
+25 …
+26 (11) The general rate of tax applies to the sales price of or the gross receipts derived
+27 from a service contract. A service contract is taxed in accordance with
+28 G.S. 105-164.4I.
+29 …
+30 (16) The general rate applies to the sales price of or the gross receipts derived from
+31 repair, maintenance, and installation services for real property and generally
+32 includes any tangible personal property or certain digital property that
+33 becomes a part of or is applied to a purchaser's property. A mixed transaction
+34 contract and a real property contract are taxed in accordance with
+35 G.S. 105-164.4H.A property management contract is taxable in accordance
+36 with G.S. 105-164.4K.
+*S303-v-1*
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 1.(b) G.S. 105-164.4B reads as rewritten:
+3 "§ 105-164.4B. Sourcing principles.
+4 (a) General Principles. – The following principles apply in determining where to source
+5 the sale of an item for the seller's purpose and do not alter the application of the tax imposed
+6 under G.S. 105-164.6. Except as otherwise provided in this section, a service is sourced where
+7 the purchaser can potentially first make use of the service. These principles apply regardless of
+8 the nature of the item, except as otherwise noted in this section:
+9 …
+10 (i) Computer Software Renewal. – The gross receipts derived from the renewal of a
+11 service contract for prewritten software is generally sourced pursuant to subdivision (a) of this
+12 section. where the purchaser can potentially first make use of the prewritten software. However,
+13 sourcing the renewal to an address where the purchaser received the underlying prewritten
+14 software does not constitute bad faith provided the seller has not received information from the
+15 purchaser that indicates a change in the location of the underlying software."
+16 SECTION 1.(c) G.S. 105-164.4D reads as rewritten:
+17 "§ 105-164.4D. Bundled transactions.
+18 (a) Tax Application. – Tax applies to the sales price of a bundled transaction unless one
+19 of the following applies:
+20 …
+21 (2) Allocation. – The bundle includes a service, and the retailer determines an
+22 allocated price for each item in the bundle based on a reasonable allocation of
+23 revenue that is supported by the retailer's business records kept in the ordinary
+24 course of business. In this circumstance, tax applies to the allocated price of
+25 each taxable item in the bundle.
+26 …
+27 (b) Determining Threshold. – A retailer of a bundled transaction subject to this section
+28 may use either the retailer's purchase price or the retailer's sales price to determine if the
+29 transaction meets the fifty percent (50%) test or the ten percent (10%) test set out in subdivisions
+30 (a)(1) and (a)(3) of this section. A retailer may not use a combination of purchase price and sales
+31 price to make this determination. If a bundled transaction subject to subdivision (a)(3) of this
+32 section includes a service contract, the retailer of the contract in determining whether the
+33 transaction meets the threshold set in the subdivision."
+34 SECTION 1.(d) G.S. 105-164.4H reads as rewritten:
+35 "§ 105-164.4H. Real property contract.
+36 (a) Applicability. – A real property contractor is the consumer of the tangible personal
+37 property or certain digital property that the real property contractor purchases, installs, or applies
+38 for others to fulfill a real property contract and that becomes part of real property or used to fulfill
+39 the contract. A retailer engaged in business in the State shall collect tax on the sales price of an
+40 item sold at retail to a real property contractor unless a statutory exemption in G.S. 105-164.13
+41 or G.S. 105-164.13E applies. Where a real property contractor purchases tangible personal
+42 property or certain digital property for storage, use, or consumption in this State, or a service
+43 sourced to this State, and the tax due is not paid at the time of purchase, the provisions of
+44 G.S. 105-164.6 apply except as provided in subsection (b) of this section.
+45 (a1) Substantiation. – Generally, services to real property are retail sales of or the gross
+46 receipts derived from repair, maintenance, and installation services and subject to tax in
+47 accordance with G.S. 105-164.4(a)(16), unless a person substantiates that a transaction is subject
+48 to tax as a real property contract in accordance with subsection (a) of this section, subject to tax
+49 as a mixed transaction in accordance with subsection (d) of this section, or the transaction is not
+50 subject to tax. A person may substantiate that a transaction is subject to tax as a real property
+51 contract or a mixed transaction in accordance with subsection (a) of this section by records that
+Page 2 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 establish the transaction is a real property contract or by receipt of an affidavit of capital
+2 improvement. The receipt of an affidavit of capital improvement, absent fraud or other egregious
+3 activities, establishes that the subcontractor or other person receiving the affidavit should treat
+4 the transaction as a capital improvement, and the transaction is subject to tax in accordance with
+5 subsection (a) of this section. A person that issues an affidavit of capital improvement is liable
+6 for any additional tax due on the transaction, in excess of tax paid on related purchases under
+7 subsection (a) of this section, if it is determined that the transaction is not a capital improvement
+8 but rather the transaction is subject to tax as a retail sale. A person who receives an affidavit of
+9 capital improvement from another person, absent fraud or other egregious activities, is not liable
+10 for any additional tax on the gross receipts from the transaction if it is determined that the
+11 transaction is not a capital improvement.
+12 …
+13 (d) Mixed Transaction Contract. – A mixed transaction contract is taxable as follows:
+14 (1) If the allocated sales price of the taxable repair, maintenance, and installation
+15 services included in the contract is less than or equal to twenty-five percent
+16 (25%) of the contract price, then the repair, maintenance, and installation
+17 services portion of the contract, and the items used to perform those services,
+18 are taxable as a real property contract in accordance with this section.
+19 (2) If the allocated sales price of the taxable repair, maintenance, and installation
+20 services included in the contract is greater than twenty-five percent (25%) of
+21 the contract price, then sales and use tax applies to the sales price of or the
+22 gross receipts derived from the taxable repair, maintenance, and installation
+23 services portion of the contract. The person must determine an allocated price
+24 for the taxable repair, maintenance, and installation services in the contract
+25 based on a reasonable allocation of revenue that is supported by the person's
+26 business records kept in the ordinary course of business. Any purchase of
+27 tangible personal property or certain digital property to fulfill the real property
+28 contract is taxed in accordance with this section.
+29 …."
+30 SECTION 1.(e) G.S. 105-164.4I is repealed.
+31 SECTION 1.(f) G.S. 105-164.4J reads as rewritten:
+32 "§ 105-164.4J. Marketplace-facilitated sales.
+33 …
+34 (i) Limitation. – This section does not apply to an accommodation facilitator, an
+35 admission facilitator, or a service contract facilitator whose collection and remittance
+36 requirements are set out in G.S. 105-164.4F, 105-164.4G, and 105-164.4I, respectively.facilitator
+37 or an admission facilitator whose collection and remittance requirements are set out in
+38 G.S. 105-164.4F and G.S. 105-164.4G, respectively.
+39 …."
+40 SECTION 1.(g) G.S. 105-164.4K reads as rewritten:
+41 "§ 105-164.4K. Property management contracts.
+42 (a) Taxability of Services under a Property Management Contract. – Repair,
+43 maintenance, and installation services taxable under this Article and provided by a real property
+44 manager under a property management contract are subject to sales and use tax in the following
+45 circumstances:
+46 (1) Repair, maintenance, installation services provided by the real property
+47 manager for an additional charge.
+48 (2) The real property manager arranges for a third party to provide the repair,
+49 maintenance, and installation services and the real property manager imposes
+50 an additional contract amount or charge for the arranging of these services.
+Senate Bill 303-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (3) More than twenty-five percent (25%) of the time spent managing the real
+2 property for a billing or invoice period is attributable to repair, maintenance,
+3 and installation services taxable under this Article and not excluded by
+4 subsection (b) of this section. The tax applies to the sales price of or the gross
+5 receipts derived from the taxable repair, maintenance, and installation services
+6 portion of the property management contract. The real property manager must
+7 determine an allocated sales price for the repair, maintenance, and installation
+8 services portion of the property management contract based on a reasonable
+9 allocation of revenue that is supported by the person's business records kept
+10 in the ordinary course of business. The charges for the taxable repair,
+11 maintenance, and installation services must be separately stated on the invoice
+12 or similar billing document given to the customer at the time of the sale.
+13 (b) Exclusions. – The tax imposed by this Article does not apply to the following repair,
+14 maintenance, and installation services if the services are provided by the real property manager
+15 pursuant to a property management contract:
+16 (1) To troubleshoot, identify, or attempt to identify the source of a problem for
+17 the purpose of determining what is needed to restore the real property to
+18 working order or good condition.
+19 (2) To inspect or monitor the real property, including the normal operation of all
+20 systems that are part of the real property.
+21 (c) Substantiation. – Generally, repair, maintenance, and installation services are subject
+22 to tax in accordance with G.S. 105-164.4(a)(16), unless a person substantiates that the services
+23 are not taxable as real property management services provided under a property management
+24 contract in accordance with subsection (a)(3) of this section, excluded from tax in accordance
+25 with subsection (b) of this section, or not subject to tax. A real property manager may substantiate
+26 that no more than twenty-five percent (25%) of the time spent managing the real property for a
+27 billing or invoice period is attributable to repair, maintenance, and installation services taxable
+28 under this Article and not excluded by subsection (b) of this section. The substantiation must be
+29 based on a reasonable approximation of the real property management services provided and
+30 supported by the person's business records kept in the ordinary course of business. The
+31 substantiation must be contemporaneously provided for each billing or invoice period and
+32 maintained in the business records.
+33 (d) Real Property Management Services. – This subsection applies when repair,
+34 maintenance, and installation services otherwise taxable under this Article are not subject to sales
+35 and use tax. A real property manager is the consumer of the items that the real property manager
+36 purchases, installs, applies, or otherwise uses to fulfill a property management contract. A retailer
+37 engaged in business in the State shall collect tax on the sales price of an item sold at retail to a
+38 real property manager unless a statutory exemption in G.S. 105-164.13 applies.
+39 (e) Real Property Manager Acting as Retailer. – This subsection applies when repair,
+40 maintenance, and installation services provided by a real property manager are subject to sales
+41 and use tax under this section. A real property manager acts as a retailer and makes a sale at retail
+42 when it provides repair, maintenance, and installation services taxable under this section unless
+43 a statutory exemption in G.S. 105-164.13 applies.
+44 …."
+45 SECTION 1.(h) G.S. 105-164.6 reads as rewritten:
+46 "§ 105-164.6. Complementary use tax.
+47 (a) Tax. – An excise tax at the applicable rate and maximum tax, if any, set in
+48 G.S. 105-164.4 is imposed on the following items if the item is subject to tax under
+49 G.S. 105-164.4:
+50 …
+51 (3) Services sourced to this State.
+Page 4 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 1.(i) G.S. 105-164.11A reads as rewritten:
+3 "§ 105-164.11A. Refund of tax paid on rescinded sale or cancellation of service.
+4 (a) Refund. – A retailer is allowed a refund of sales tax remitted on a rescinded sale or
+5 cancelled service. sale. A sale is rescinded when the purchaser returns an item to the retailer and
+6 receives a refund, in whole or in part, of the sales price paid, including a refund of the pro rata
+7 amount of the sales tax based on the taxable amount of the sales price refunded. A service is
+8 cancelled when the service is terminated and the purchaser receives a refund, in whole or in part,
+9 of the sales price paid, including a refund of the pro rata amount of the sales tax paid based on
+10 the taxable amount of the sales price refunded. A retailer entitled to a refund under this section
+11 may reduce taxable receipts by the taxable amount of the refund for the period in which the
+12 refund occurs or may request a refund of an overpayment as provided in G.S. 105-241.7,
+13 provided the tax has been refunded to the purchaser. The records of the retailer must clearly
+14 reflect and support the claim for refund for an overpayment of tax or adjustment to taxable
+15 receipts for the period in which the refund occurs.
+16 (b) Service Contract. – When a service contract is cancelled and a purchaser receives a
+17 refund, in whole or in part, of the sales price paid for the service contract, the purchaser may
+18 receive a refund of the pro rata amount of the sales tax paid based on the taxable amount of the
+19 sales price refunded as provided in this subsection:
+20 (1) Refund from retailer. – If the purchaser receives a refund on any portion of
+21 the sales price for a service contract purchased from the retailer required to
+22 remit the tax on the retail sale of the service contract, then the provisions of
+23 subsection (a) of this section apply.
+24 (2) Refund application. – If the purchaser receives a refund on any portion of the
+25 sales price for a service contract from a person other than the retailer required
+26 to remit the tax on the retail sale of the service contract, then the amount
+27 refunded to the purchaser by the person does not have to include the sales tax
+28 on the taxable amount of the refund. If the amount refunded to the purchaser
+29 by the person does not include the sales tax paid, then the purchaser may apply
+30 to the Department for a refund of the pro rata amount of the tax paid based on
+31 the taxable amount of the service contract refunded to the purchaser. The
+32 application for a refund by a purchaser must be made on a form prescribed by
+33 the Secretary, supported by documentation on the taxable amount of the
+34 service contract refunded to the purchaser from the person who refunded that
+35 amount, and filed within 30 days after the purchaser receives a refund. An
+36 application for a refund filed by the purchaser after the due date is barred.
+37 Taxes for which a refund is allowed directly to the purchaser for sales tax paid
+38 on a service contract are not an overpayment of tax and do not accrue interest
+39 as provided in G.S. 105-241.21."
+40 SECTION 1.(j) G.S. 105-164.12B reads as rewritten:
+41 "§ 105-164.12B. Tangible personal property sold below cost with conditional contract.
+42 …
+43 (b) Tax. – If a seller transfers an item of tangible personal property as part of a conditional
+44 contract, a sale has occurred. The sales price of the item is presumed to be the retail price at
+45 which the item would sell in the absence of the conditional contract. Sales tax at the general rate
+46 under G.S. 105-164.4(a) is due at the time of the transfer on the following:
+47 (1) Any part of the presumed sales price the consumer pays at that time, if the
+48 service in the contract is taxable at the combined general rate.
+49 (2) The presumed sales price, if the service in the contract is not taxable at the
+50 combined general rate.
+Senate Bill 303-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (3) The percentage of the presumed sales price that is equal to the percentage of
+2 the service in the contract that is not taxable at the combined general rate, if
+3 any part of the service in the contract is not taxable at the combined general
+4 rate.
+5 …."
+6 SECTION 1.(k) G.S. 105-164.13A is repealed.
+7 SECTION 1.(l) G.S. 105-164.14 reads as rewritten:
+8 "§ 105-164.14. Certain refunds authorized.
+9 (a) Interstate Carriers. – An interstate carrier is allowed a refund, in accordance with this
+10 section, of part of the sales and use taxes paid by it on the purchase in this State of railway cars
+11 and locomotives, and fuel, lubricants, repair parts, accessories, service contracts, and repair,
+12 maintenance, and installation services and accessories for a motor vehicle, railroad car,
+13 locomotive, or airplane the carrier operates. An "interstate carrier" is a person who is engaged in
+14 transporting persons or property in interstate commerce for compensation. The Secretary shall
+15 prescribe the periods of time, whether monthly, quarterly, semiannually, or otherwise, with
+16 respect to which refunds may be claimed, and shall prescribe the time within which, following
+17 these periods, an application for refund may be made.
+18 An applicant for refund shall furnish the following information and any proof of the
+19 information required by the Secretary:
+20 (1) A list identifying the railway cars, locomotives, fuel, lubricants, repair parts,
+21 accessories, service contracts, and repair, maintenance, and installation
+22 services and accessories purchased by the applicant inside or outside this State
+23 during the refund period.
+24 (2) The purchase price of the taxable tangible personal property and services
+25 listed in subdivision (1) of this subsection. For purposes of this subdivision,
+26 the term "taxable" is based on the imposition of tax on the tangible personal
+27 property and services in the State.
+28 …
+29 For each applicant, the Secretary shall compute the amount to be refunded as follows. First,
+30 the Secretary shall determine the mileage ratio. The numerator of the mileage ratio is the number
+31 of miles the applicant operated all motor vehicles, railroad cars, locomotives, and airplanes in
+32 this State during the refund period. The denominator of the mileage ratio is the number of miles
+33 the applicant operated all motor vehicles, railroad cars, locomotives, and airplanes both inside
+34 and outside this State during the refund period. Second, the Secretary shall determine the
+35 applicant's proportional liability for the refund period by multiplying this mileage ratio by the
+36 purchase price of the tangible personal property and services identified in subdivision (1) of this
+37 subsection and then multiplying the resulting product by the tax rate that would have applied to
+38 the items if they had all been purchased in this State. Third, the Secretary shall refund to each
+39 applicant the excess of the amount of sales and use taxes the applicant paid in this State during
+40 the refund period on these items over the applicant's proportional liability for the refund period.
+41 …
+42 (b) Nonprofit Entities and Hospital Drugs. – A nonprofit entity is allowed a semiannual
+43 refund of sales and use taxes paid by it under this Article on direct purchases of items for use in
+44 carrying on the work of the nonprofit entity. Sales and use tax liability indirectly incurred by a
+45 nonprofit entity through reimbursement to an authorized person of the entity for the purchase of
+46 tangible personal property and services for use in carrying on the work of the nonprofit entity is
+47 considered a direct purchase by the entity. Sales and use tax liability indirectly incurred by a
+48 nonprofit entity on building materials, supplies, fixtures, and equipment that become a part of or
+49 annexed to any building or structure that is owned or leased by the nonprofit entity and is being
+50 erected, altered, or repaired for use by the nonprofit entity for carrying on its nonprofit activities
+51 is considered a sales or use tax liability incurred on direct purchases by the nonprofit entity. The
+Page 6 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 refund allowed under this subsection does not apply to purchases of electricity,
+2 telecommunications service, ancillary service, piped natural gas, video programming, or a
+3 prepaid meal plan. A request for a refund must be in writing and must include any information
+4 and documentation required by the Secretary. A request for a refund for the first six months of a
+5 calendar year is due the following October 15; a request for a refund for the second six months
+6 of a calendar year is due the following April 15. The aggregate annual refund amount allowed an
+7 entity under this subsection for the State's fiscal year may not exceed thirty-one million seven
+8 hundred thousand dollars ($31,700,000).
+9 …
+10 (c) Certain Governmental Entities. – A governmental entity listed in this subsection is
+11 allowed an annual refund of sales and use taxes paid by it under this Article on direct purchases
+12 of items. Sales and use tax liability indirectly incurred by a governmental entity on building
+13 materials, supplies, fixtures, and equipment that become a part of or annexed to any building or
+14 structure that is owned or leased by the governmental entity and is being erected, altered, or
+15 repaired for use by the governmental entity is considered a sales or use tax liability incurred on
+16 direct purchases by the governmental entity for the purpose of this subsection. The refund
+17 allowed under this subsection does not apply to purchases of electricity, telecommunications
+18 service, ancillary service, piped natural gas, video programming, or a prepaid meal plan. A
+19 request for a refund must be in writing and must include any information and documentation
+20 required by the Secretary. A request for a refund is due within six months after the end of the
+21 governmental entity's fiscal year.
+22 This subsection applies only to the following governmental entities:
+23 …
+24 (20) A constituent institution of The University of North Carolina, but only with
+25 respect to sales and use tax paid by it for tangible personal property or services
+26 that are eligible for refund under this subsection acquired by it through the
+27 expenditure of contract and grant funds.
+28 …."
+29 SECTION 1.(m) G.S. 105-164.20 reads as rewritten:
+30 "§ 105-164.20. Cash or accrual basis of reporting.
+31 …
+32 (b) Accrual Basis. – For purposes of reporting and remitting sales tax under this Article,
+33 a retailer listed in this subsection must report the gross receipts it derives from the taxable
+34 transaction listed in this subsection on an accrual basis of accounting. The following retailers
+35 must report gross receipts as provided in this subsection:
+36 …
+37 (3) A retailer who sells or derives gross receipts from a service contract, as
+38 provided in G.S. 105-164.4I(d)."
+39 SECTION 1.(n) G.S. 105-164.26 reads as rewritten:
+40 "§ 105-164.26. Presumption that sales are taxable.
+41 For the purpose of the proper administration of this Article and to prevent evasion of the retail
+42 sales tax, the following presumptions apply:
+43 …
+44 (5) That a service purchased for receipt in this State is purchased for storage, use,
+45 or consumption in this State."
+46 SECTION 1.(o) G.S. 105-164.27A reads as rewritten:
+47 "§ 105-164.27A. Direct pay permit.
+48 (a) General. – A general direct pay permit authorizes its holder to purchase certain items
+49 without paying tax to the seller and authorizes the seller to not collect any tax on a sale to the
+50 permit holder. A general direct pay permit may not be used for purposes identified in subsections
+51 (a1), (a2), (a3), or (b) of this section. A person who purchases an item under a direct pay permit
+Senate Bill 303-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 issued under this subsection is liable for use tax due on the purchase. The tax is payable when
+2 the property is placed in use or the service is received. use. A direct pay permit issued under this
+3 subsection does not apply to taxes imposed under G.S. 105-164.4 on sales of electricity, piped
+4 natural gas, video programming, spirituous liquor, or the gross receipts derived from rentals of
+5 accommodations.
+6 …
+7 (a3) Boat and Aircraft. – A direct pay permit issued under this subsection authorizes its
+8 holder to purchase tangible personal property, certain digital property, or repair, maintenance,
+9 and installation services property or certain digital property for a boat, an aircraft, or a qualified
+10 jet engine without paying tax to the seller and authorizes the seller to not collect any tax on the
+11 purchased items from the permit holder. A person who purchases the tangible personal property,
+12 certain digital property, or repair, maintenance, and installation services property or certain
+13 digital property under a direct pay permit must file a return and pay the tax due to the Secretary
+14 in accordance with G.S. 105-164.16. A permit holder is allowed a use tax exemption on one or
+15 more of the following: (i) the installation charges that are a part of the sales price of tangible
+16 personal property or certain digital property purchased by the permit holder for a boat, an aircraft,
+17 or a qualified jet engine, provided the installation charges are separately stated and identified as
+18 such on the invoice or other documentation given to the permit holder at the time of the sale and
+19 (ii) the sales price of or gross receipts derived from repair, maintenance, and installation services
+20 provided for a boat or an aircraft.sale.
+21 In lieu of purchasing under a direct pay permit pursuant to this subsection, a purchaser may
+22 elect to have the seller collect and remit the tax due on behalf of the purchaser. Where the
+23 purchaser elects for the seller to collect and remit the tax, an invoice given to the purchaser
+24 bearing the proper amount of tax on a retail transaction extinguishes the purchaser's liability for
+25 the tax on the transaction. Where a seller cannot or does not separately state installation charges
+26 that are a part of the sales price of tangible personal property or certain digital property for a boat,
+27 an aircraft, or a qualified jet engine on the invoice or other documentation given to the purchaser
+28 at the time of the sale, tax is due on the total purchase price.
+29 The amount of the use tax exemption is the amount of the installation charges and the sales
+30 price of or gross receipts derived from the repair, maintenance, and installation services that
+31 exceed twenty-five thousand dollars ($25,000).
+32 …."
+33 SECTION 1.(p) G.S. 105-187.5 reads as rewritten:
+34 "§ 105-187.5. Alternate tax for a limited possession commitment.
+35 (a) Election. – A retailer may elect not to pay the tax imposed by this Article at the rate
+36 set in G.S. 105-187.3 when applying for a certificate of title for a motor vehicle purchased by the
+37 retailer for a limited possession commitment. A retailer who makes this election shall pay a tax
+38 on the gross receipts of the limited possession commitment of the vehicle. The portion of a
+39 limited possession commitment billing or payment that represents any amount applicable to the
+40 sales price of a service contract as defined in G.S. 105-164.3 should not be included in the gross
+41 receipts subject to the tax imposed by this Article. The charge must be separately stated on
+42 documentation given to the purchaser at the time the limited possession commitment goes into
+43 effect, or on the monthly billing statement or other documentation given to the purchaser. When
+44 a limited possession commitment is sold to another retailer, the seller of the limited possession
+45 commitment should provide to the purchaser of the limited possession commitment the
+46 documentation showing that the service contract and applicable sales taxes were separately stated
+47 at the time the limited possession commitment went into effect and the new retailer must retain
+48 the information to support an allocation for tax computed on the gross receipts subject to highway
+49 use tax. Like the tax imposed by G.S. 105-187.3, this alternate tax is a tax on the privilege of
+50 using the highways of this State. The tax is imposed on a retailer, but is to be added to the limited
+Page 8 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 possession commitment of a motor vehicle and thereby be paid by the person who enters into a
+2 limited possession commitment with a retailer.
+3 …."
+4 SECTION 1.(q) G.S. 105-237.1 reads as rewritten:
+5 "§ 105-237.1. Compromise of liability.
+6 (a) Authority. – The Secretary may compromise a taxpayer's liability for a tax that is
+7 collectible under G.S. 105-241.22 when the Secretary determines that the compromise is in the
+8 best interest of the State and makes one or more of the following findings:
+9 …
+10 (7) The assessment is for sales tax the taxpayer failed to collect or use tax the
+11 taxpayer failed to pay as a result of the change in the definition of retailer or
+12 the sales tax base expansion to (i) service contracts, (ii) repair, maintenance,
+13 and installation services, or (iii) sales transactions for a person in retail trade.
+14 The Secretary must determine that the taxpayer made a good-faith effort to
+15 comply with the sales and use tax laws. This subdivision applies to
+16 assessments for any reporting period beginning March 1, 2016, and ending
+17 December 31, 2022.
+18 (8) The assessment is for sales tax the taxpayer failed to collect or use tax the
+19 taxpayer failed to pay on repair, maintenance, and installation services
+20 provided by a real property manager under a property management contract.
+21 The Secretary must determine that the taxpayer made a good-faith effort to
+22 comply with the sales and use tax laws. Absent fraud or other egregious
+23 activities, a taxpayer that substantiated the time spent managing real property
+24 for a billing or invoice period as provided under G.S. 105-164.4K(c) will be
+25 determined to have made a good-faith effort to comply with the sales and use
+26 tax laws.
+27 …."
+28 SECTION 1.(r) G.S. 105-467(b) reads as rewritten:
+29 "(b) Exemptions and Refunds. – The State exemptions and exclusions contained in Article
+30 5 of Subchapter I of this Chapter, except for the exemption for food in G.S. 105-164.13B, apply
+31 to the local sales and use tax authorized to be levied and imposed under this Article. The State
+32 refund provisions contained in G.S. 105-164.14 and G.S. 105-164.14A apply to the local sales
+33 and use tax authorized to be levied and imposed under this Article. A refund of an excessive or
+34 erroneous State sales tax collection allowed under G.S. 105-164.11 and a refund of State sales
+35 tax paid on a rescinded sale or cancelled service contract under G.S. 105-164.11A apply applies
+36 to the local sales and use tax authorized to be levied and imposed under this Article. The
+37 aggregate annual local refund amount allowed an entity under G.S. 105-164.14(b) for the State's
+38 fiscal year may not exceed thirteen million three hundred thousand dollars ($13,300,000).
+39 …."
+40
+41 PART II. REPEAL OF SERVICE TAX EXEMPTIONS
+42 SECTION 2.(a) G.S. 105-164.13 reads as rewritten:
+43 "§ 105-164.13. Retail sales and use tax.
+44 The sale at retail and the use, storage, or consumption in this State of the following items are
+45 specifically exempted from the tax imposed by this Article:
+46 …
+47 (43b) Computer software or certain digital property that becomes a component part
+48 of other computer software or certain digital property that is offered for sale
+49 or of a service that is offered for sale.sale.
+50 …
+Senate Bill 303-First Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 (59) Interior design services provided in conjunction with the sale of tangible
+2 personal property.
+3 …
+4 (61) A motor vehicle service contract.
+5 (61a) The sales price of or the gross receipts derived from the repair, maintenance,
+6 and installation services and service contracts listed in this subdivision are
+7 exempt from tax. Except as otherwise provided in this subdivision, an item
+8 used to fulfill either repair, maintenance, and installation services or service
+9 contracts exempt from tax under this subdivision is taxable. The list of repair,
+10 maintenance, and installation services and service contracts exempt from tax
+11 under this subdivision is as follows:
+12 a. A service and a service contract for an item exempt from tax under this
+13 Article, except as otherwise provided in this subdivision. Items used
+14 to fulfill a service or service contract exempt under this
+15 sub-subdivision are exempt from tax under this Article. This
+16 exemption does not apply to water for a pool, fish tank, or similar
+17 aquatic feature or to a motor vehicle, except as provided under
+18 subdivision (62a) of this section and fees under sub-subdivision b. of
+19 this subdivision.
+20 b. A motor vehicle emissions and safety inspection fee imposed pursuant
+21 to G.S. 20-183.7, provided the fee is separately stated on the invoice
+22 or other documentation provided to the purchaser at the time of the
+23 sale.
+24 c. A service performed for a person by a related member.
+25 d. Cleaning of real property, except where the service constitutes a part
+26 of the gross receipts derived from the rental of an accommodation
+27 subject to tax under G.S. 105-164.4 or for a pool, fish tank, or other
+28 similar aquatic feature. Examples of cleaning of real property include
+29 custodial services, window washing, mold remediation services,
+30 carpet cleaning, removal of debris from gutters, removal of dust and
+31 other pollutants from ductwork, and power washing other than for a
+32 pool.
+33 e. A service on roads, driveways, parking lots, and sidewalks.
+34 f. Removal of waste, trash, debris, grease, snow, and other similar
+35 tangible personal property from property, other than a motor vehicle.
+36 The exemption applies to a household or a commercial trash collection
+37 and removal service. The exemption applies to the removal of septage
+38 from property, including motor vehicles, but does not include removal
+39 of septage from portable toilets.
+40 g. The following inspections:
+41 1. An inspection performed where the results are included in a
+42 report for the sale or financing of real property.
+43 2. An inspection of the structural integrity of real property,
+44 provided the charge for the inspection is separately stated on
+45 the invoice or other documentation given to the purchaser at
+46 the time of the sale.
+47 3. An inspection to a system that is a capital improvement under
+48 G.S. 105-164.3(31)f., provided the inspection is to fulfill a
+49 safety requirement and provided the charge for the inspection
+50 is separately stated on the invoice or other documentation
+51 given to the purchaser at the time of the sale.
+Page 10 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 h. Alteration and repair of clothing, except where the service constitutes
+2 a part of the gross receipts derived from the rental of clothing subject
+3 to tax under G.S. 105-164.4 or for alteration and repair of belts and
+4 shoes.
+5 i. Pest control service. For purposes of this exemption, the term "pest
+6 control service" means the application of pesticides to real property.
+7 j. Moving service. For purposes of this exemption, the term "moving
+8 service" means a service for hire to transport or relocate a person's
+9 existing belongings to or from any destination.
+10 k. Self-service vehicle wash or vacuum and limited-service vehicle wash.
+11 For purposes of this sub-subdivision, the following definitions apply:
+12 1. Limited-service vehicle wash. – The cleaning of a vehicle by
+13 mechanical means where the only activities performed by an
+14 employee include one or more of the following: (i) receiving
+15 payment for the transaction, (ii) guiding the vehicle into the
+16 entrance or exit of a conveyor, (iii) applying low-pressure
+17 spray of chemicals to the vehicle prior to the cleaning of the
+18 vehicle, or (iv) placing protective tape or covers on the vehicle
+19 prior to cleaning. The term does not include any activity
+20 whereby an employee physically touches the vehicle for the
+21 purpose of cleaning or restoring the vehicle, enters or cleans
+22 any part of the interior of the vehicle, or performs an activity
+23 on the vehicle other than one of those listed in this
+24 sub-sub-subdivision.
+25 2. Self-service vehicle wash or vacuum. – The cleaning of a
+26 vehicle by a customer without any cleaning or restoring
+27 activity performed by an employee.
+28 l. Services performed on a transmission, distribution, or other network
+29 asset on land owned by a service provider or on a right-of-way or an
+30 easement in favor of a service provider. This exemption does not apply
+31 to charges billed to a customer for repair, maintenance, and installation
+32 services or a contribution in aid of construction and are included in the
+33 gross receipts derived from items subject to the combined general rate
+34 under G.S. 105-164.4. The terms "service provider" and
+35 "governmental entity" have the same meaning as defined in
+36 G.S. 105-164.3(31)c.
+37 m. Any of the following:
+38 1. A qualified aircraft.
+39 2. A qualified jet engine.
+40 3. An aircraft with a gross take-off weight of more than 2,000
+41 pounds.
+42 n. Funeral-related service, including a service for the burial of remains.
+43 This exemption does not apply to the sale of tangible personal
+44 property, such as caskets, headstones, and monuments.
+45 o. A service performed on an animal, such as hoof shoeing and
+46 microchipping a pet.
+47 p. A security or similar monitoring contract for real property. The
+48 exemption provided in this subdivision does not apply to charges for
+49 repair, maintenance, and installation services to repair security, alarm,
+50 and other similar monitoring systems for real property.
+51 q. A contract to provide a certified operator for a wastewater system.
+Senate Bill 303-First Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 …
+2 (61c) Installation charges that are a part of the sales price of tangible personal
+3 property purchased by a real property contractor to fulfill a real property
+4 contract for an item that is installed or applied to real property, provided the
+5 installation charges are separately stated and identified as such on the invoice
+6 or other documentation given to the real property contractor at the time of the
+7 sale. property. The exemption also applies to installation charges by a
+8 retailer-contractor when performing installation services for a real property
+9 contract. The exemption includes any labor costs provided by the real property
+10 contractor, including employees' wages, or labor purchased from a third party
+11 that would otherwise be included in the definition of "purchase price."
+12 (61d) Installation charges that are a part of the sales price of or gross receipts derived
+13 from repair, maintenance, and installation services or installation charges only
+14 purchased by a real property contractor to fulfill a real property contract,
+15 provided the installation charges are separately stated and identified as such
+16 on the invoice or other documentation given to the real property contractor at
+17 the time of the sale. The exemption also applies to installation charges by a
+18 retailer-contractor when performing a real property contract. The exemption
+19 includes any labor costs provided by the real property contractor, including
+20 employees' wages, or labor purchased from a third party that would otherwise
+21 be included in the definition of "purchase price."
+22 (62) An item, including repair, maintenance, and installation services, purchased
+23 or used to fulfill a service contract taxable under this Article if the purchaser
+24 of the contract is not charged for the item. This exemption does not apply to
+25 the purchase of tangible personal property or certain digital property used to
+26 fulfill a service contract for real property where the charge being covered
+27 would otherwise be subject to tax as a real property contract. For purposes of
+28 this exemption, the term "item" does not include a tool, equipment, supply, or
+29 similar tangible personal property that is not deemed to be a component or
+30 repair part of the tangible personal property, real property, or certain digital
+31 property for which a service contract is sold to a purchaser.
+32 (62a) A replacement item, a repair part, or repair, maintenance, and installation
+33 services item or repair part used to maintain or repair tangible personal
+34 property or a motor vehicle pursuant to a manufacturer's warranty or a dealer's
+35 warranty. For purposes of this subdivision, the following definitions apply:
+36 a. Dealer's warranty. – An explicit warranty the seller of an item extends
+37 to the purchaser of the item as part of the purchase price of the item.
+38 b. Manufacturer's warranty. – An explicit warranty the manufacturer of
+39 an item extends to the purchaser of the item as part of the purchase
+40 price of the item.
+41 (62b) The amount of repair, maintenance, and installation services for a boat, an
+42 aircraft, or a qualified jet engine for which the purchaser elects for the seller
+43 to collect and remit the tax due under G.S. 105-164.27A(a3).
+44 …
+45 (67) Towing services, provided the charge is separately stated on the invoice or
+46 other documentation provided to the purchaser at the time of the sale.
+47 …
+48 (73) Sales of a digital audio work or digital audiovisual work that consists of
+49 nontaxable service content when the electronic transfer of the digital audio
+50 work or digital audiovisual work occurs contemporaneously with the
+51 provision of the nontaxable service in real time.
+Page 12 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 2.(b) G.S. 105-164.13E reads as rewritten:
+3 "§ 105-164.13E. Exemption for farmers.
+4 (a) Exemption. – A qualifying farmer is a person who has an annual income from farming
+5 operations for the preceding taxable year of ten thousand dollars ($10,000) or more or who has
+6 an average annual income from farming operations for the three preceding taxable years of ten
+7 thousand dollars ($10,000) or more. For purposes of this section, the term "income from farming
+8 operations" means sales plus any other amounts treated as gross income under the Code from
+9 farming operations. A qualifying farmer includes a dairy operator, a poultry farmer, an egg
+10 producer, and a livestock farmer, a farmer of crops, a farmer of an aquatic species, as defined in
+11 G.S. 106-758, and a person who boards horses. A qualifying farmer may apply to the Secretary
+12 for an exemption certificate number under G.S. 105-164.28A. The exemption certificate expires
+13 when a person fails to meet the income threshold for three consecutive taxable years or ceases to
+14 engage in farming operations, whichever comes first.
+15 Except as otherwise provided in this section, the items exempt under this section must be
+16 purchased by a qualifying farmer or conditional farmer and used by the qualifying or conditional
+17 farmer primarily in farming operations. For purposes of this section, an item is used by a farmer
+18 for farming operations if it is used for the planting, cultivating, harvesting, or curing of farm
+19 crops, in the production of dairy products, eggs, or animals, or by a person who boards horses.
+20 The items that may be exempt from sales and use tax under this section are:
+21 …
+22 (10) Repair, maintenance, and installation services.
+23 …
+24 (c1) Services for Farmer. – A qualifying item listed in subdivision (6) of subsection (a) of
+25 this section purchased to fulfill a service for a person who holds a qualifying farmer exemption
+26 certificate or a conditional farmer exemption certificate issued under G.S. 105-164.28A is
+27 exempt from sales and use tax to the same extent as if purchased directly by the person who holds
+28 the exemption certificate. A person that purchases one of the items allowed an exemption under
+29 this subsection must provide an exemption certificate to the retailer that includes the name of the
+30 qualifying farmer or conditional farmer and the exemption number issued to the qualifying
+31 farmer or conditional farmer by the Department pursuant to G.S. 105-164.28A. A person that
+32 purchases an item exempt from tax pursuant to this subsection must maintain records to
+33 substantiate that an item is used to provide a service for a person who holds a qualifying farmer
+34 exemption certificate or a conditional farmer exemption certificate.
+35 …."
+36 SECTION 2.(c) G.S. 105-164.13F reads as rewritten:
+37 "§ 105-164.13F. Exemption for wildlife managers.
+38 …
+39 (b) Exemption. – Certain items purchased by a wildlife manager and used primarily for
+40 wildlife management activities may be exempt from sales and use tax under this section. The
+41 items that may be exempt under this section are:
+42 …
+43 (8) Repair, maintenance, and installation services for items exempt under this
+44 subsection.
+45 …
+46 (e) Services for Wildlife Manager. – An item exempt under subsection (b) of this section
+47 purchased to perform a service for a person who holds a wildlife manager exemption certificate
+48 issued under G.S. 105-164.28A is exempt from sales and use tax to the same extent as if
+49 purchased directly by the person who holds the exemption certificate. A person that purchases
+50 one of the items allowed an exemption under this subsection must provide an exemption
+51 certificate to the retailer that includes the name of the wildlife manager certificate holder and the
+Senate Bill 303-First Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 exemption number issued to the wildlife manager by the Department pursuant to
+2 G.S. 105-164.28A. A person that purchases an item exempt from tax under this subsection must
+3 maintain records to substantiate that it is used to provide a service for a person who holds a
+4 wildlife manager exemption certificate. The records must be maintained for at least three years."
+5
+6 PART III. SALES TAX DEFINITION UPDATES
+7 SECTION 3. G.S. 105-164.3 reads as rewritten:
+8 "§ 105-164.3. Definitions.
+9 The following definitions apply in this Article:
+10 …
+11 (25) Bundled transaction. – A retail sale of two or more distinct and identifiable
+12 items, at least one of which is taxable and one of which is nontaxable, for one
+13 nonitemized price. The term does not apply to real property or services to real
+14 property. property. Items are not sold for one nonitemized price if an invoice
+15 or another sales document made available to the purchaser separately
+16 identifies the price of each item. A bundled transaction does not include the
+17 retail sale of any of the following:
+18 a. An item and any packaging that accompanies the item and is exempt
+19 under G.S. 105-164.13(23).
+20 b. A sale of two or more items whose combined price varies, or is
+21 negotiable, depending on the items the purchaser selects.
+22 c. A sale of an item accompanied by a transfer of another item with no
+23 additional consideration.
+24 d. An item and the delivery or installation of the item.
+25 e. An item and any service necessary to complete the sale.
+26 …
+27 (31) Capital improvement. – One or more of the following:
+28 …
+29 c. Installation of a transmission, distribution, or other network asset on
+30 land owned by a service provider or on a right-of-way or easement in
+31 favor of a service provider, notwithstanding that any separately stated
+32 charges billed to a customer for repair, maintenance, and installation
+33 services or a contribution in aid of construction are included in the
+34 gross receipts derived from services subject to the combined general
+35 rate under G.S. 105-164.4. For purposes of this sub-subdivision, the
+36 term "service provider" means a person, including a governmental
+37 entity, who provides any of the services listed in this sub-subdivision,
+38 and the term "governmental entity" means a State agency, the federal
+39 government, or a governmental entity listed in G.S. 105-164.14(c).
+40 The services are:
+41 1. Telecommunications service or ancillary service.
+42 2. Video programming.
+43 3. Electricity or piped natural gas.
+44 4. Water or sewer service.
+45 …
+46 e. Painting or wallpapering of real property, except where painting or
+47 wallpapering is incidental to the repair, maintenance, and installation
+48 services.property.
+49 f. Replacement or installation of a septic tank system, siding, roof,
+50 plumbing, electrical, commercial refrigeration, irrigation, sprinkler, or
+51 other similar system. The term does not include the repair,
+Page 14 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 replacement, or installation of electrical or plumbing components,
+2 water heaters, gutters, and similar individual items that are not part of
+3 new construction, reconstruction, or remodeling.
+4 g. Replacement or installation of a heating or air conditioning unit or a
+5 heating, ventilation, or air conditioning system. The term does not
+6 include the repair, replacement, or installation of gas logs, water
+7 heaters, pool heaters, and similar individual items that are not part of
+8 new construction, reconstruction, or remodeling.
+9 …
+10 k. An addition or alteration to real property that is permanently affixed
+11 or installed to real property and is not an activity listed in subdivision
+12 (225) of this section as repair, maintenance, and installation
+13 services.property.
+14 …
+15 (87) Facilitator. – An accommodation facilitator, an admission facilitator, or a
+16 service contract facilitator.facilitator or an admission facilitator.
+17 …
+18 (95) Gross sales. – The sum total of the sales price of all sales of tangible personal
+19 property, digital property, and services.property and digital property.
+20 …
+21 (113) Item. – Tangible personal property, digital property, or a service, property or
+22 digital property unless the context requires otherwise.
+23 …
+24 (137) Mixed transaction contract. – A contract that includes both a real property
+25 contract for a capital improvement and repair, maintenance, and installation
+26 services for real property that are not related to the capital improvement.
+27 …
+28 (159) Nonresident retail or wholesale merchant. – A person who does not have a
+29 place of business in this State, is registered for sales and use tax purposes in a
+30 taxing jurisdiction outside the State, and is engaged in the business of
+31 acquiring, by purchase, consignment, or otherwise, tangible personal property
+32 or certain digital property and selling the property outside the State or in the
+33 business of providing a service.State.
+34 …
+35 (211) Real property management services. – Any of the following activities:
+36 a. Hiring and supervising employees for the real property.
+37 b. Providing a person to manage the real property.
+38 c. Receiving and applying revenues received from property owners or
+39 tenants of the real property.
+40 d. Providing repair, maintenance, and installation services to comply
+41 with obligations of a homeowners' association or a landlord under a
+42 lease, rental, or management agreement.
+43 e. Arranging for a third party to provide repair, maintenance, and
+44 installation services.
+45 f. Incurring and paying expenses for the management, repair, and
+46 maintenance of the real property.
+47 g. Handling administrative affairs for the real property.
+48 …
+49 (219) Remodeling. – A transaction comprised of multiple services performed by one
+50 or more persons to restore, improve, alter, or update real property that may
+51 otherwise be subject to tax as repair, maintenance, and installation services if
+Senate Bill 303-First Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 separately performed. property. The term includes a transaction where the
+2 internal structure or design of one or more rooms or areas within a room or
+3 building are substantially changed. The term does not include a single service
+4 that is included in repair, maintenance, and installation services. The term
+5 does not include a transaction where the true purpose is repair, maintenance,
+6 and installation services no matter that another service included in repair,
+7 maintenance, and installation services is performed that is incidental to the
+8 true purpose of the transaction; examples Examples include repair of
+9 sheetrock that includes applying paint, replacement of cabinets that includes
+10 installation of caulk or molding, and the installation of hardwood floors that
+11 includes installation of shoe molding.
+12 (221) Remote sale. – A sale of an item ordered by mail, telephone, Internet, mobile
+13 phone application, or another method by a retailer who receives the order in
+14 another state and delivers the item or makes it accessible to a person in this
+15 State or causes the item to be delivered or made accessible to a person in this
+16 State or performs a service sourced to this State. It is presumed that a resident
+17 of this State who makes an order was in this State at the time the order was
+18 made.
+19 …
+20 (225) Repair, maintenance, and installation services. – The term includes the
+21 activities listed in this subdivision and applies to tangible personal property,
+22 motor vehicles, certain digital property, and real property. The term does not
+23 include a service used to fulfill a real property contract taxed in accordance
+24 with G.S. 105-164.4H. The included activities are:
+25 a. To keep or attempt to keep property or a motor vehicle in working
+26 order to avoid breakdown and prevent deterioration or repairs.
+27 Examples include to clean, wash, or polish property.
+28 b. To calibrate, refinish, restore, or attempt to calibrate, refinish, or
+29 restore property or a motor vehicle to proper working order or good
+30 condition. This activity may include replacing or putting together what
+31 is torn or broken.
+32 c. To troubleshoot, identify, or attempt to identify the source of a
+33 problem for the purpose of determining what is needed to restore
+34 property or a motor vehicle to proper working order or good condition.
+35 The term includes activities that may lead to the issuance of an
+36 inspection report.
+37 d. To install, apply, connect, adjust, or set into position tangible personal
+38 property or certain digital property. The term includes floor refinishing
+39 and the installation of carpet, flooring, floor coverings, windows,
+40 doors, cabinets, countertops, and other installations where the item
+41 being installed may replace a similar existing item. The replacement
+42 of more than one of a like-kind item, such as replacing one or more
+43 windows, is repair, maintenance, and installation services. The term
+44 does not include an installation defined as a capital improvement under
+45 subdivision (31)d. of this section and substantiated as a capital
+46 improvement under G.S. 105-164.4H(a1).
+47 e. To inspect or monitor property or install, apply, or connect tangible
+48 personal property or certain digital property on a motor vehicle or
+49 adjust a motor vehicle.
+50 …
+Page 16 Senate Bill 303-First Edition
+General Assembly Of North Carolina Session 2025
+1 (235) Sale or selling. – The transfer for consideration of title, license to use or
+2 consume, or possession of tangible personal property or certain digital
+3 property or the performance for consideration of a service. The transfer or
+4 performance may be conditional or in any manner or by any means. The term
+5 applies to the following:
+6 …
+7 g. A service contract.
+8 …
+9 (245) Service contract. – A contract where the obligor under the contract agrees to
+10 maintain, monitor, inspect, repair, or provide another service included in the
+11 definition of repair, maintenance, and installation services to certain digital
+12 property, tangible personal property, or real property for a period of time or
+13 some other defined measure. The term does not include a single service
+14 included in repair, maintenance, or installation services, but does include a
+15 contract where the obligor may provide a service included in the definition of
+16 repair, maintenance, and installation services as a condition of the contract.
+17 The term includes a service contract for a pool, fish tank, or similar aquatic
+18 feature and a home warranty. Examples include a warranty agreement other
+19 than a manufacturer's warranty or dealer's warranty provided at no charge to
+20 the purchaser, an extended warranty agreement, a maintenance agreement, a
+21 repair agreement, or a similar agreement or contract.
+22 (247) Service contract facilitator. – A person who contracts with the obligor of a
+23 service contract to market the service contract and accepts payment from the
+24 purchaser for the service contract.
+25 …."
+26
+27 PART IV. EFFECTIVE DATE
+28 SECTION 4. This act becomes effective July 1, 2025, and applies to services
+29 provided on or after that date.
+Senate Bill 303-First Edition Page 17
+[DELETED:  1 R ( S R A A C T  P S " ( A p t i i o a r e i b i t S a t p g ( T … c T a p r o w t t p p o c d p i t u a s i t s t i b e i G m a t t s R a f a t … ( T f a s c A s c i t i a w G … ( T r i a t p p o c d p t b c a a r p c a t i a w G w]
+[DELETED:  S  S … S " ( G t u t t … ( C s s s t r t a a w t p r t u p s p S " ( T o … ( A a r c e … ( D m u e t r p p o t r s p t d i t t ( p s i a s c t r o t c i d w t t S " ( A p f t i o G a W a r p c p t p p s G ( S r d f r m a i s a s t t i a t a s c]
+[DELETED:  S  P e t t i a r p c o b r o a a o c i a t s f s b c f t … ( M ( I s ( c p t t r m a i s a ( I s t g s f b b t c … S S " … ( L – T s d n a t a a f a a f o a s c f w c a r r o a a f w c a r r a s o i G … S " ( T o S u a P M C – R m m c ( R m i s p b t r p m ( T m a]
+[DELETED:  S  S ( M p a i s t u t A a n e b s r p d s a i t o c o b T c f t t r m o ( E m p ( T t p o w i n t r t r p t w ( T s ( S t a c w t b u b s b t p b r k i t o c o b T s m b c p f e b o i p a m ( R P M S – T s a w r m a p e r ( R m a w a … S " ( T – A e t a t a r a m t i a s i G i i o t f i i t i i s t t u G … ( S]
+[DELETED:  S  P … S " ( R c r a c o t m r o o m r a r o a o a p i G p r r ( S r r s ( R t r s ( R s t r o b t t a t S s b d o t t a o t s a a T o a S " … ( T c w u ( A s ( T c]
+[DELETED:  S  S ( T t a r … S S " ( I s a m a i s a a f a m v r c l t p t p o t w m q s o o w r t A a f r s f t f i a a p o t i ( A a s c a r m a i s d ( T p p o t t p p a s l t p … F t o t t a o t S d t r p S t S s d t a p s t a t … ( N r c n t c n a e i]
+[DELETED:  S  P r a u t s d n a t p o e t s a s p n g v p o a p a c o e h … ( C a o m s r d p b t g e f t p o t s T r a s a g A r r g T … ( A r t e … S " … ( A a r l i t s m r t g r i d f t t t m … ( A r w s o d g r f a s c a p S " F s … ( T o S " ( G w p (]
+[DELETED:  S  S i t s n a … ( B h a j p c d p o r m a i s p o c d i m p o s ( p I e p b t t a a T p e … S " ( E s r o l s r d e a c s p t t p o t l p c t d a t u u]
+[DELETED:  S  P p l … S " ( A c b … ( T t t a T c w t s a u t l T s a t a D ( T t f t p o r m a i s p T c w t s a u t l A f o o e a f d t … S " E 5 t r a e t t t l s a u t a t b l a i u t A T a f …  P S " T s … ( C o o …]
+[DELETED:  S  S ( I d s p i c w t s o t p … ( A ( T a e u c m u a A A t f a s o s c e u t s a e f t u t A T e a f o t a m v e a p u s t b A t o s c A d C o s s c s w w m r s c o p e A f R o w t d g s a o s t T a f o g T 1 A r 2 A i o t s i o r p p t t 3 A G p t i i t f a s i s s o t i o o d g]
+[DELETED:  S  P h A a t s i P c j M s e k S F 1 L m e p e o e o a c ( a l s v p t c T t d n i a a w p a o t v o t o o t l i t s 2 S v w o v – T c o a v b a c w a c o r a l S a e t s g u G T t " p a " e h t s m a d i G m A 1 A 2 A 3 A p n F T e d n a t t s o t p p o A s p o a a s a h s a m p A s o s m c f r p T e r a q A]
+[DELETED:  S  S … ( I c t a a p o t s p o t p p p b a r p c t f a r p c i o s p T e a a t i c b a r c c t ( I f p b a r p c t f a r p c p o t r i e b ( A o o t f w t s r p ( A s i o r p u t m o r t p p w a D t b M a p ( T a t … ( T o … ( S o a d a w o d a w t c o n w o d a w o c w t p]
+[DELETED:  S  P … S " ( E o a t o f f p G f w e E p f f c T … ( R … ( S t c o a c f e c i u G i e t t q f c f a t e n i t t q f p a i e f t p t t s m m r t s e … S " … ( E w i … ( R s … ( S p i u G i e f s a u t t t s e a i p o o t i a a e u t s m p a e c]
+[DELETED:  S  S e n i t t w m b t D p t G m w  P S " T … ( B i n p o a s d m a t t p s i r a A u b A s o t o m i w c p v o i n c A a d A e A … ( C … c I l f c s g r t " p m a p i a g e a g o g e l i T 1 T 2 V 3 E 4 W … e P w s f R o i o a s t s s r p o s s T t d n i t r]
+[DELETED:  S  P r o i o e o p c w n g R h T i t r r o i o g l w h n … k A o ( o t s a r m a i s … ( F – A a f a a f o a s … ( G p … ( I d … ( M c s … ( N p t j o t S a i e i t b o a o b … ( R a H b P c R t d P r m a i s t c w l e A f a t p t p r m a i f I a p e f t m r a m g H … ( R o o]
+[DELETED:  S  S s i b t d a m t p o t t e E i r o s i i ( R p a S S o m … ( R m a i s – T t i t a m i w a T o t a b a p d o r E b T c r r o a t c r o r c i c T t i o a t i t s o a p f t p o d w i n t r p T t i a t m l t t i o a i d T p a t i o c f f c w d b o w d s ( o t s a s a a c i e T p a …]
+[DELETED:  S  P ( S o – T t o t u c o p o t p p o c d p p a … g A … ( S m d p s o d m T t d n i a s s i c r T f t t r ( S s p …  P S 4  T a b e J 1 2 a a t s p]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 1
+SENATE BILL 303
+Short Title: Repeal Service Tax. (Public)
+Sponsors: Senators Smith, Grafstein, and Bradley (Primary Sponsors).
+Referred to: Rules and Operations of the Senate
+March 18, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REPEAL THE SERVICE TAX AND TO MAKE VARIOUS CONFORMING
+3 CHANGES NECESSARY TO EFFECTUATE THE REPEAL.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. REPEAL OF SERVICE TAX AND ATTENDANT CONFORMING CHANGES
+7 SECTION 1.(a) G.S. 105-164.4 reads as rewritten:
+8 "§ 105-164.4. Tax imposed on retailers and certain facilitators.
+9 (a) A privilege tax is imposed on a retailer engaged in business in the State at the
+10 percentage rates of the retailer's net taxable sales or gross receipts, listed in this subsection. The
+11 general rate of tax is four and three-quarters percent (4.75%). The percentage rates are as follows:
+12 (1) The general rate of tax applies to the following items sold at retail:
+13 …
+14 c. The sales price of or gross receipts derived from repair, maintenance,
+15 and installation services to tangible personal property or certain digital
+16 property, regardless of whether the tangible personal property or
+17 certain digital property is taxed under another subdivision in this
+18 section or is subject to a maximum tax under another subdivision in
+19 this section. Repair, maintenance, and installation services generally
+20 include any tangible personal property or certain digital property that
+21 becomes a part of or is applied to a purchaser's property. The use tax
+22 exemption in G.S. 105-164.27A(a3) may apply to these services.
+23 Repair, maintenance, and installation services for real property are
+24 taxable under subdivision (16) of this subsection.
+25 …
+26 (11) The general rate of tax applies to the sales price of or the gross receipts derived
+27 from a service contract. A service contract is taxed in accordance with
+28 G.S. 105-164.4I.
+29 …
+30 (16) The general rate applies to the sales price of or the gross receipts derived from
+31 repair, maintenance, and installation services for real property and generally
+32 includes any tangible personal property or certain digital property that
+33 becomes a part of or is applied to a purchaser's property. A mixed transaction
+34 contract and a real property contract are taxed in accordance with
+35 G.S. 105-164.4H.A property management contract is taxable in accordance
+36 with G.S. 105-164.4K.
+*S303-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 1.(b) G.S. 105-164.4B reads as rewritten:
+3 "§ 105-164.4B. Sourcing principles.
+4 (a) General Principles. – The following principles apply in determining where to source
+5 the sale of an item for the seller's purpose and do not alter the application of the tax imposed
+6 under G.S. 105-164.6. Except as otherwise provided in this section, a service is sourced where
+7 the purchaser can potentially first make use of the service. These principles apply regardless of
+8 the nature of the item, except as otherwise noted in this section:
+9 …
+10 (i) Computer Software Renewal. – The gross receipts derived from the renewal of a
+11 service contract for prewritten software is generally sourced pursuant to subdivision (a) of this
+12 section. where the purchaser can potentially first make use of the prewritten software. However,
+13 sourcing the renewal to an address where the purchaser received the underlying prewritten
+14 software does not constitute bad faith provided the seller has not received information from the
+15 purchaser that indicates a change in the location of the underlying software."
+16 SECTION 1.(c) G.S. 105-164.4D reads as rewritten:
+17 "§ 105-164.4D. Bundled transactions.
+18 (a) Tax Application. – Tax applies to the sales price of a bundled transaction unless one
+19 of the following applies:
+20 …
+21 (2) Allocation. – The bundle includes a service, and the retailer determines an
+22 allocated price for each item in the bundle based on a reasonable allocation of
+23 revenue that is supported by the retailer's business records kept in the ordinary
+24 course of business. In this circumstance, tax applies to the allocated price of
+25 each taxable item in the bundle.
+26 …
+27 (b) Determining Threshold. – A retailer of a bundled transaction subject to this section
+28 may use either the retailer's purchase price or the retailer's sales price to determine if the
+29 transaction meets the fifty percent (50%) test or the ten percent (10%) test set out in subdivisions
+30 (a)(1) and (a)(3) of this section. A retailer may not use a combination of purchase price and sales
+31 price to make this determination. If a bundled transaction subject to subdivision (a)(3) of this
+32 section includes a service contract, the retailer of the contract in determining whether the
+33 transaction meets the threshold set in the subdivision."
+34 SECTION 1.(d) G.S. 105-164.4H reads as rewritten:
+35 "§ 105-164.4H. Real property contract.
+36 (a) Applicability. – A real property contractor is the consumer of the tangible personal
+37 property or certain digital property that the real property contractor purchases, installs, or applies
+38 for others to fulfill a real property contract and that becomes part of real property or used to fulfill
+39 the contract. A retailer engaged in business in the State shall collect tax on the sales price of an
+40 item sold at retail to a real property contractor unless a statutory exemption in G.S. 105-164.13
+41 or G.S. 105-164.13E applies. Where a real property contractor purchases tangible personal
+42 property or certain digital property for storage, use, or consumption in this State, or a service
+43 sourced to this State, and the tax due is not paid at the time of purchase, the provisions of
+44 G.S. 105-164.6 apply except as provided in subsection (b) of this section.
+45 (a1) Substantiation. – Generally, services to real property are retail sales of or the gross
+46 receipts derived from repair, maintenance, and installation services and subject to tax in
+47 accordance with G.S. 105-164.4(a)(16), unless a person substantiates that a transaction is subject
+48 to tax as a real property contract in accordance with subsection (a) of this section, subject to tax
+49 as a mixed transaction in accordance with subsection (d) of this section, or the transaction is not
+50 subject to tax. A person may substantiate that a transaction is subject to tax as a real property
+51 contract or a mixed transaction in accordance with subsection (a) of this section by records that
+Page 2 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 establish the transaction is a real property contract or by receipt of an affidavit of capital
+2 improvement. The receipt of an affidavit of capital improvement, absent fraud or other egregious
+3 activities, establishes that the subcontractor or other person receiving the affidavit should treat
+4 the transaction as a capital improvement, and the transaction is subject to tax in accordance with
+5 subsection (a) of this section. A person that issues an affidavit of capital improvement is liable
+6 for any additional tax due on the transaction, in excess of tax paid on related purchases under
+7 subsection (a) of this section, if it is determined that the transaction is not a capital improvement
+8 but rather the transaction is subject to tax as a retail sale. A person who receives an affidavit of
+9 capital improvement from another person, absent fraud or other egregious activities, is not liable
+10 for any additional tax on the gross receipts from the transaction if it is determined that the
+11 transaction is not a capital improvement.
+12 …
+13 (d) Mixed Transaction Contract. – A mixed transaction contract is taxable as follows:
+14 (1) If the allocated sales price of the taxable repair, maintenance, and installation
+15 services included in the contract is less than or equal to twenty-five percent
+16 (25%) of the contract price, then the repair, maintenance, and installation
+17 services portion of the contract, and the items used to perform those services,
+18 are taxable as a real property contract in accordance with this section.
+19 (2) If the allocated sales price of the taxable repair, maintenance, and installation
+20 services included in the contract is greater than twenty-five percent (25%) of
+21 the contract price, then sales and use tax applies to the sales price of or the
+22 gross receipts derived from the taxable repair, maintenance, and installation
+23 services portion of the contract. The person must determine an allocated price
+24 for the taxable repair, maintenance, and installation services in the contract
+25 based on a reasonable allocation of revenue that is supported by the person's
+26 business records kept in the ordinary course of business. Any purchase of
+27 tangible personal property or certain digital property to fulfill the real property
+28 contract is taxed in accordance with this section.
+29 …."
+30 SECTION 1.(e) G.S. 105-164.4I is repealed.
+31 SECTION 1.(f) G.S. 105-164.4J reads as rewritten:
+32 "§ 105-164.4J. Marketplace-facilitated sales.
+33 …
+34 (i) Limitation. – This section does not apply to an accommodation facilitator, an
+35 admission facilitator, or a service contract facilitator whose collection and remittance
+36 requirements are set out in G.S. 105-164.4F, 105-164.4G, and 105-164.4I, respectively.facilitator
+37 or an admission facilitator whose collection and remittance requirements are set out in
+38 G.S. 105-164.4F and G.S. 105-164.4G, respectively.
+39 …."
+40 SECTION 1.(g) G.S. 105-164.4K reads as rewritten:
+41 "§ 105-164.4K. Property management contracts.
+42 (a) Taxability of Services under a Property Management Contract. – Repair,
+43 maintenance, and installation services taxable under this Article and provided by a real property
+44 manager under a property management contract are subject to sales and use tax in the following
+45 circumstances:
+46 (1) Repair, maintenance, installation services provided by the real property
+47 manager for an additional charge.
+48 (2) The real property manager arranges for a third party to provide the repair,
+49 maintenance, and installation services and the real property manager imposes
+50 an additional contract amount or charge for the arranging of these services.
+Senate Bill 303-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (3) More than twenty-five percent (25%) of the time spent managing the real
+2 property for a billing or invoice period is attributable to repair, maintenance,
+3 and installation services taxable under this Article and not excluded by
+4 subsection (b) of this section. The tax applies to the sales price of or the gross
+5 receipts derived from the taxable repair, maintenance, and installation services
+6 portion of the property management contract. The real property manager must
+7 determine an allocated sales price for the repair, maintenance, and installation
+8 services portion of the property management contract based on a reasonable
+9 allocation of revenue that is supported by the person's business records kept
+10 in the ordinary course of business. The charges for the taxable repair,
+11 maintenance, and installation services must be separately stated on the invoice
+12 or similar billing document given to the customer at the time of the sale.
+13 (b) Exclusions. – The tax imposed by this Article does not apply to the following repair,
+14 maintenance, and installation services if the services are provided by the real property manager
+15 pursuant to a property management contract:
+16 (1) To troubleshoot, identify, or attempt to identify the source of a problem for
+17 the purpose of determining what is needed to restore the real property to
+18 working order or good condition.
+19 (2) To inspect or monitor the real property, including the normal operation of all
+20 systems that are part of the real property.
+21 (c) Substantiation. – Generally, repair, maintenance, and installation services are subject
+22 to tax in accordance with G.S. 105-164.4(a)(16), unless a person substantiates that the services
+23 are not taxable as real property management services provided under a property management
+24 contract in accordance with subsection (a)(3) of this section, excluded from tax in accordance
+25 with subsection (b) of this section, or not subject to tax. A real property manager may substantiate
+26 that no more than twenty-five percent (25%) of the time spent managing the real property for a
+27 billing or invoice period is attributable to repair, maintenance, and installation services taxable
+28 under this Article and not excluded by subsection (b) of this section. The substantiation must be
+29 based on a reasonable approximation of the real property management services provided and
+30 supported by the person's business records kept in the ordinary course of business. The
+31 substantiation must be contemporaneously provided for each billing or invoice period and
+32 maintained in the business records.
+33 (d) Real Property Management Services. – This subsection applies when repair,
+34 maintenance, and installation services otherwise taxable under this Article are not subject to sales
+35 and use tax. A real property manager is the consumer of the items that the real property manager
+36 purchases, installs, applies, or otherwise uses to fulfill a property management contract. A retailer
+37 engaged in business in the State shall collect tax on the sales price of an item sold at retail to a
+38 real property manager unless a statutory exemption in G.S. 105-164.13 applies.
+39 (e) Real Property Manager Acting as Retailer. – This subsection applies when repair,
+40 maintenance, and installation services provided by a real property manager are subject to sales
+41 and use tax under this section. A real property manager acts as a retailer and makes a sale at retail
+42 when it provides repair, maintenance, and installation services taxable under this section unless
+43 a statutory exemption in G.S. 105-164.13 applies.
+44 …."
+45 SECTION 1.(h) G.S. 105-164.6 reads as rewritten:
+46 "§ 105-164.6. Complementary use tax.
+47 (a) Tax. – An excise tax at the applicable rate and maximum tax, if any, set in
+48 G.S. 105-164.4 is imposed on the following items if the item is subject to tax under
+49 G.S. 105-164.4:
+50 …
+51 (3) Services sourced to this State.
+Page 4 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 1.(i) G.S. 105-164.11A reads as rewritten:
+3 "§ 105-164.11A. Refund of tax paid on rescinded sale or cancellation of service.
+4 (a) Refund. – A retailer is allowed a refund of sales tax remitted on a rescinded sale or
+5 cancelled service. sale. A sale is rescinded when the purchaser returns an item to the retailer and
+6 receives a refund, in whole or in part, of the sales price paid, including a refund of the pro rata
+7 amount of the sales tax based on the taxable amount of the sales price refunded. A service is
+8 cancelled when the service is terminated and the purchaser receives a refund, in whole or in part,
+9 of the sales price paid, including a refund of the pro rata amount of the sales tax paid based on
+10 the taxable amount of the sales price refunded. A retailer entitled to a refund under this section
+11 may reduce taxable receipts by the taxable amount of the refund for the period in which the
+12 refund occurs or may request a refund of an overpayment as provided in G.S. 105-241.7,
+13 provided the tax has been refunded to the purchaser. The records of the retailer must clearly
+14 reflect and support the claim for refund for an overpayment of tax or adjustment to taxable
+15 receipts for the period in which the refund occurs.
+16 (b) Service Contract. – When a service contract is cancelled and a purchaser receives a
+17 refund, in whole or in part, of the sales price paid for the service contract, the purchaser may
+18 receive a refund of the pro rata amount of the sales tax paid based on the taxable amount of the
+19 sales price refunded as provided in this subsection:
+20 (1) Refund from retailer. – If the purchaser receives a refund on any portion of
+21 the sales price for a service contract purchased from the retailer required to
+22 remit the tax on the retail sale of the service contract, then the provisions of
+23 subsection (a) of this section apply.
+24 (2) Refund application. – If the purchaser receives a refund on any portion of the
+25 sales price for a service contract from a person other than the retailer required
+26 to remit the tax on the retail sale of the service contract, then the amount
+27 refunded to the purchaser by the person does not have to include the sales tax
+28 on the taxable amount of the refund. If the amount refunded to the purchaser
+29 by the person does not include the sales tax paid, then the purchaser may apply
+30 to the Department for a refund of the pro rata amount of the tax paid based on
+31 the taxable amount of the service contract refunded to the purchaser. The
+32 application for a refund by a purchaser must be made on a form prescribed by
+33 the Secretary, supported by documentation on the taxable amount of the
+34 service contract refunded to the purchaser from the person who refunded that
+35 amount, and filed within 30 days after the purchaser receives a refund. An
+36 application for a refund filed by the purchaser after the due date is barred.
+37 Taxes for which a refund is allowed directly to the purchaser for sales tax paid
+38 on a service contract are not an overpayment of tax and do not accrue interest
+39 as provided in G.S. 105-241.21."
+40 SECTION 1.(j) G.S. 105-164.12B reads as rewritten:
+41 "§ 105-164.12B. Tangible personal property sold below cost with conditional contract.
+42 …
+43 (b) Tax. – If a seller transfers an item of tangible personal property as part of a conditional
+44 contract, a sale has occurred. The sales price of the item is presumed to be the retail price at
+45 which the item would sell in the absence of the conditional contract. Sales tax at the general rate
+46 under G.S. 105-164.4(a) is due at the time of the transfer on the following:
+47 (1) Any part of the presumed sales price the consumer pays at that time, if the
+48 service in the contract is taxable at the combined general rate.
+49 (2) The presumed sales price, if the service in the contract is not taxable at the
+50 combined general rate.
+Senate Bill 303-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (3) The percentage of the presumed sales price that is equal to the percentage of
+2 the service in the contract that is not taxable at the combined general rate, if
+3 any part of the service in the contract is not taxable at the combined general
+4 rate.
+5 …."
+6 SECTION 1.(k) G.S. 105-164.13A is repealed.
+7 SECTION 1.(l) G.S. 105-164.14 reads as rewritten:
+8 "§ 105-164.14. Certain refunds authorized.
+9 (a) Interstate Carriers. – An interstate carrier is allowed a refund, in accordance with this
+10 section, of part of the sales and use taxes paid by it on the purchase in this State of railway cars
+11 and locomotives, and fuel, lubricants, repair parts, accessories, service contracts, and repair,
+12 maintenance, and installation services and accessories for a motor vehicle, railroad car,
+13 locomotive, or airplane the carrier operates. An "interstate carrier" is a person who is engaged in
+14 transporting persons or property in interstate commerce for compensation. The Secretary shall
+15 prescribe the periods of time, whether monthly, quarterly, semiannually, or otherwise, with
+16 respect to which refunds may be claimed, and shall prescribe the time within which, following
+17 these periods, an application for refund may be made.
+18 An applicant for refund shall furnish the following information and any proof of the
+19 information required by the Secretary:
+20 (1) A list identifying the railway cars, locomotives, fuel, lubricants, repair parts,
+21 accessories, service contracts, and repair, maintenance, and installation
+22 services and accessories purchased by the applicant inside or outside this State
+23 during the refund period.
+24 (2) The purchase price of the taxable tangible personal property and services
+25 listed in subdivision (1) of this subsection. For purposes of this subdivision,
+26 the term "taxable" is based on the imposition of tax on the tangible personal
+27 property and services in the State.
+28 …
+29 For each applicant, the Secretary shall compute the amount to be refunded as follows. First,
+30 the Secretary shall determine the mileage ratio. The numerator of the mileage ratio is the number
+31 of miles the applicant operated all motor vehicles, railroad cars, locomotives, and airplanes in
+32 this State during the refund period. The denominator of the mileage ratio is the number of miles
+33 the applicant operated all motor vehicles, railroad cars, locomotives, and airplanes both inside
+34 and outside this State during the refund period. Second, the Secretary shall determine the
+35 applicant's proportional liability for the refund period by multiplying this mileage ratio by the
+36 purchase price of the tangible personal property and services identified in subdivision (1) of this
+37 subsection and then multiplying the resulting product by the tax rate that would have applied to
+38 the items if they had all been purchased in this State. Third, the Secretary shall refund to each
+39 applicant the excess of the amount of sales and use taxes the applicant paid in this State during
+40 the refund period on these items over the applicant's proportional liability for the refund period.
+41 …
+42 (b) Nonprofit Entities and Hospital Drugs. – A nonprofit entity is allowed a semiannual
+43 refund of sales and use taxes paid by it under this Article on direct purchases of items for use in
+44 carrying on the work of the nonprofit entity. Sales and use tax liability indirectly incurred by a
+45 nonprofit entity through reimbursement to an authorized person of the entity for the purchase of
+46 tangible personal property and services for use in carrying on the work of the nonprofit entity is
+47 considered a direct purchase by the entity. Sales and use tax liability indirectly incurred by a
+48 nonprofit entity on building materials, supplies, fixtures, and equipment that become a part of or
+49 annexed to any building or structure that is owned or leased by the nonprofit entity and is being
+50 erected, altered, or repaired for use by the nonprofit entity for carrying on its nonprofit activities
+51 is considered a sales or use tax liability incurred on direct purchases by the nonprofit entity. The
+Page 6 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 refund allowed under this subsection does not apply to purchases of electricity,
+2 telecommunications service, ancillary service, piped natural gas, video programming, or a
+3 prepaid meal plan. A request for a refund must be in writing and must include any information
+4 and documentation required by the Secretary. A request for a refund for the first six months of a
+5 calendar year is due the following October 15; a request for a refund for the second six months
+6 of a calendar year is due the following April 15. The aggregate annual refund amount allowed an
+7 entity under this subsection for the State's fiscal year may not exceed thirty-one million seven
+8 hundred thousand dollars ($31,700,000).
+9 …
+10 (c) Certain Governmental Entities. – A governmental entity listed in this subsection is
+11 allowed an annual refund of sales and use taxes paid by it under this Article on direct purchases
+12 of items. Sales and use tax liability indirectly incurred by a governmental entity on building
+13 materials, supplies, fixtures, and equipment that become a part of or annexed to any building or
+14 structure that is owned or leased by the governmental entity and is being erected, altered, or
+15 repaired for use by the governmental entity is considered a sales or use tax liability incurred on
+16 direct purchases by the governmental entity for the purpose of this subsection. The refund
+17 allowed under this subsection does not apply to purchases of electricity, telecommunications
+18 service, ancillary service, piped natural gas, video programming, or a prepaid meal plan. A
+19 request for a refund must be in writing and must include any information and documentation
+20 required by the Secretary. A request for a refund is due within six months after the end of the
+21 governmental entity's fiscal year.
+22 This subsection applies only to the following governmental entities:
+23 …
+24 (20) A constituent institution of The University of North Carolina, but only with
+25 respect to sales and use tax paid by it for tangible personal property or services
+26 that are eligible for refund under this subsection acquired by it through the
+27 expenditure of contract and grant funds.
+28 …."
+29 SECTION 1.(m) G.S. 105-164.20 reads as rewritten:
+30 "§ 105-164.20. Cash or accrual basis of reporting.
+31 …
+32 (b) Accrual Basis. – For purposes of reporting and remitting sales tax under this Article,
+33 a retailer listed in this subsection must report the gross receipts it derives from the taxable
+34 transaction listed in this subsection on an accrual basis of accounting. The following retailers
+35 must report gross receipts as provided in this subsection:
+36 …
+37 (3) A retailer who sells or derives gross receipts from a service contract, as
+38 provided in G.S. 105-164.4I(d)."
+39 SECTION 1.(n) G.S. 105-164.26 reads as rewritten:
+40 "§ 105-164.26. Presumption that sales are taxable.
+41 For the purpose of the proper administration of this Article and to prevent evasion of the retail
+42 sales tax, the following presumptions apply:
+43 …
+44 (5) That a service purchased for receipt in this State is purchased for storage, use,
+45 or consumption in this State."
+46 SECTION 1.(o) G.S. 105-164.27A reads as rewritten:
+47 "§ 105-164.27A. Direct pay permit.
+48 (a) General. – A general direct pay permit authorizes its holder to purchase certain items
+49 without paying tax to the seller and authorizes the seller to not collect any tax on a sale to the
+50 permit holder. A general direct pay permit may not be used for purposes identified in subsections
+51 (a1), (a2), (a3), or (b) of this section. A person who purchases an item under a direct pay permit
+Senate Bill 303-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 issued under this subsection is liable for use tax due on the purchase. The tax is payable when
+2 the property is placed in use or the service is received. use. A direct pay permit issued under this
+3 subsection does not apply to taxes imposed under G.S. 105-164.4 on sales of electricity, piped
+4 natural gas, video programming, spirituous liquor, or the gross receipts derived from rentals of
+5 accommodations.
+6 …
+7 (a3) Boat and Aircraft. – A direct pay permit issued under this subsection authorizes its
+8 holder to purchase tangible personal property, certain digital property, or repair, maintenance,
+9 and installation services property or certain digital property for a boat, an aircraft, or a qualified
+10 jet engine without paying tax to the seller and authorizes the seller to not collect any tax on the
+11 purchased items from the permit holder. A person who purchases the tangible personal property,
+12 certain digital property, or repair, maintenance, and installation services property or certain
+13 digital property under a direct pay permit must file a return and pay the tax due to the Secretary
+14 in accordance with G.S. 105-164.16. A permit holder is allowed a use tax exemption on one or
+15 more of the following: (i) the installation charges that are a part of the sales price of tangible
+16 personal property or certain digital property purchased by the permit holder for a boat, an aircraft,
+17 or a qualified jet engine, provided the installation charges are separately stated and identified as
+18 such on the invoice or other documentation given to the permit holder at the time of the sale and
+19 (ii) the sales price of or gross receipts derived from repair, maintenance, and installation services
+20 provided for a boat or an aircraft.sale.
+21 In lieu of purchasing under a direct pay permit pursuant to this subsection, a purchaser may
+22 elect to have the seller collect and remit the tax due on behalf of the purchaser. Where the
+23 purchaser elects for the seller to collect and remit the tax, an invoice given to the purchaser
+24 bearing the proper amount of tax on a retail transaction extinguishes the purchaser's liability for
+25 the tax on the transaction. Where a seller cannot or does not separately state installation charges
+26 that are a part of the sales price of tangible personal property or certain digital property for a boat,
+27 an aircraft, or a qualified jet engine on the invoice or other documentation given to the purchaser
+28 at the time of the sale, tax is due on the total purchase price.
+29 The amount of the use tax exemption is the amount of the installation charges and the sales
+30 price of or gross receipts derived from the repair, maintenance, and installation services that
+31 exceed twenty-five thousand dollars ($25,000).
+32 …."
+33 SECTION 1.(p) G.S. 105-187.5 reads as rewritten:
+34 "§ 105-187.5. Alternate tax for a limited possession commitment.
+35 (a) Election. – A retailer may elect not to pay the tax imposed by this Article at the rate
+36 set in G.S. 105-187.3 when applying for a certificate of title for a motor vehicle purchased by the
+37 retailer for a limited possession commitment. A retailer who makes this election shall pay a tax
+38 on the gross receipts of the limited possession commitment of the vehicle. The portion of a
+39 limited possession commitment billing or payment that represents any amount applicable to the
+40 sales price of a service contract as defined in G.S. 105-164.3 should not be included in the gross
+41 receipts subject to the tax imposed by this Article. The charge must be separately stated on
+42 documentation given to the purchaser at the time the limited possession commitment goes into
+43 effect, or on the monthly billing statement or other documentation given to the purchaser. When
+44 a limited possession commitment is sold to another retailer, the seller of the limited possession
+45 commitment should provide to the purchaser of the limited possession commitment the
+46 documentation showing that the service contract and applicable sales taxes were separately stated
+47 at the time the limited possession commitment went into effect and the new retailer must retain
+48 the information to support an allocation for tax computed on the gross receipts subject to highway
+49 use tax. Like the tax imposed by G.S. 105-187.3, this alternate tax is a tax on the privilege of
+50 using the highways of this State. The tax is imposed on a retailer, but is to be added to the limited
+Page 8 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 possession commitment of a motor vehicle and thereby be paid by the person who enters into a
+2 limited possession commitment with a retailer.
+3 …."
+4 SECTION 1.(q) G.S. 105-237.1 reads as rewritten:
+5 "§ 105-237.1. Compromise of liability.
+6 (a) Authority. – The Secretary may compromise a taxpayer's liability for a tax that is
+7 collectible under G.S. 105-241.22 when the Secretary determines that the compromise is in the
+8 best interest of the State and makes one or more of the following findings:
+9 …
+10 (7) The assessment is for sales tax the taxpayer failed to collect or use tax the
+11 taxpayer failed to pay as a result of the change in the definition of retailer or
+12 the sales tax base expansion to (i) service contracts, (ii) repair, maintenance,
+13 and installation services, or (iii) sales transactions for a person in retail trade.
+14 The Secretary must determine that the taxpayer made a good-faith effort to
+15 comply with the sales and use tax laws. This subdivision applies to
+16 assessments for any reporting period beginning March 1, 2016, and ending
+17 December 31, 2022.
+18 (8) The assessment is for sales tax the taxpayer failed to collect or use tax the
+19 taxpayer failed to pay on repair, maintenance, and installation services
+20 provided by a real property manager under a property management contract.
+21 The Secretary must determine that the taxpayer made a good-faith effort to
+22 comply with the sales and use tax laws. Absent fraud or other egregious
+23 activities, a taxpayer that substantiated the time spent managing real property
+24 for a billing or invoice period as provided under G.S. 105-164.4K(c) will be
+25 determined to have made a good-faith effort to comply with the sales and use
+26 tax laws.
+27 …."
+28 SECTION 1.(r) G.S. 105-467(b) reads as rewritten:
+29 "(b) Exemptions and Refunds. – The State exemptions and exclusions contained in Article
+30 5 of Subchapter I of this Chapter, except for the exemption for food in G.S. 105-164.13B, apply
+31 to the local sales and use tax authorized to be levied and imposed under this Article. The State
+32 refund provisions contained in G.S. 105-164.14 and G.S. 105-164.14A apply to the local sales
+33 and use tax authorized to be levied and imposed under this Article. A refund of an excessive or
+34 erroneous State sales tax collection allowed under G.S. 105-164.11 and a refund of State sales
+35 tax paid on a rescinded sale or cancelled service contract under G.S. 105-164.11A apply applies
+36 to the local sales and use tax authorized to be levied and imposed under this Article. The
+37 aggregate annual local refund amount allowed an entity under G.S. 105-164.14(b) for the State's
+38 fiscal year may not exceed thirteen million three hundred thousand dollars ($13,300,000).
+39 …."
+40
+41 PART II. REPEAL OF SERVICE TAX EXEMPTIONS
+42 SECTION 2.(a) G.S. 105-164.13 reads as rewritten:
+43 "§ 105-164.13. Retail sales and use tax.
+44 The sale at retail and the use, storage, or consumption in this State of the following items are
+45 specifically exempted from the tax imposed by this Article:
+46 …
+47 (43b) Computer software or certain digital property that becomes a component part
+48 of other computer software or certain digital property that is offered for sale
+49 or of a service that is offered for sale.sale.
+50 …
+Senate Bill 303-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (59) Interior design services provided in conjunction with the sale of tangible
+2 personal property.
+3 …
+4 (61) A motor vehicle service contract.
+5 (61a) The sales price of or the gross receipts derived from the repair, maintenance,
+6 and installation services and service contracts listed in this subdivision are
+7 exempt from tax. Except as otherwise provided in this subdivision, an item
+8 used to fulfill either repair, maintenance, and installation services or service
+9 contracts exempt from tax under this subdivision is taxable. The list of repair,
+10 maintenance, and installation services and service contracts exempt from tax
+11 under this subdivision is as follows:
+12 a. A service and a service contract for an item exempt from tax under this
+13 Article, except as otherwise provided in this subdivision. Items used
+14 to fulfill a service or service contract exempt under this
+15 sub-subdivision are exempt from tax under this Article. This
+16 exemption does not apply to water for a pool, fish tank, or similar
+17 aquatic feature or to a motor vehicle, except as provided under
+18 subdivision (62a) of this section and fees under sub-subdivision b. of
+19 this subdivision.
+20 b. A motor vehicle emissions and safety inspection fee imposed pursuant
+21 to G.S. 20-183.7, provided the fee is separately stated on the invoice
+22 or other documentation provided to the purchaser at the time of the
+23 sale.
+24 c. A service performed for a person by a related member.
+25 d. Cleaning of real property, except where the service constitutes a part
+26 of the gross receipts derived from the rental of an accommodation
+27 subject to tax under G.S. 105-164.4 or for a pool, fish tank, or other
+28 similar aquatic feature. Examples of cleaning of real property include
+29 custodial services, window washing, mold remediation services,
+30 carpet cleaning, removal of debris from gutters, removal of dust and
+31 other pollutants from ductwork, and power washing other than for a
+32 pool.
+33 e. A service on roads, driveways, parking lots, and sidewalks.
+34 f. Removal of waste, trash, debris, grease, snow, and other similar
+35 tangible personal property from property, other than a motor vehicle.
+36 The exemption applies to a household or a commercial trash collection
+37 and removal service. The exemption applies to the removal of septage
+38 from property, including motor vehicles, but does not include removal
+39 of septage from portable toilets.
+40 g. The following inspections:
+41 1. An inspection performed where the results are included in a
+42 report for the sale or financing of real property.
+43 2. An inspection of the structural integrity of real property,
+44 provided the charge for the inspection is separately stated on
+45 the invoice or other documentation given to the purchaser at
+46 the time of the sale.
+47 3. An inspection to a system that is a capital improvement under
+48 G.S. 105-164.3(31)f., provided the inspection is to fulfill a
+49 safety requirement and provided the charge for the inspection
+50 is separately stated on the invoice or other documentation
+51 given to the purchaser at the time of the sale.
+Page 10 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 h. Alteration and repair of clothing, except where the service constitutes
+2 a part of the gross receipts derived from the rental of clothing subject
+3 to tax under G.S. 105-164.4 or for alteration and repair of belts and
+4 shoes.
+5 i. Pest control service. For purposes of this exemption, the term "pest
+6 control service" means the application of pesticides to real property.
+7 j. Moving service. For purposes of this exemption, the term "moving
+8 service" means a service for hire to transport or relocate a person's
+9 existing belongings to or from any destination.
+10 k. Self-service vehicle wash or vacuum and limited-service vehicle wash.
+11 For purposes of this sub-subdivision, the following definitions apply:
+12 1. Limited-service vehicle wash. – The cleaning of a vehicle by
+13 mechanical means where the only activities performed by an
+14 employee include one or more of the following: (i) receiving
+15 payment for the transaction, (ii) guiding the vehicle into the
+16 entrance or exit of a conveyor, (iii) applying low-pressure
+17 spray of chemicals to the vehicle prior to the cleaning of the
+18 vehicle, or (iv) placing protective tape or covers on the vehicle
+19 prior to cleaning. The term does not include any activity
+20 whereby an employee physically touches the vehicle for the
+21 purpose of cleaning or restoring the vehicle, enters or cleans
+22 any part of the interior of the vehicle, or performs an activity
+23 on the vehicle other than one of those listed in this
+24 sub-sub-subdivision.
+25 2. Self-service vehicle wash or vacuum. – The cleaning of a
+26 vehicle by a customer without any cleaning or restoring
+27 activity performed by an employee.
+28 l. Services performed on a transmission, distribution, or other network
+29 asset on land owned by a service provider or on a right-of-way or an
+30 easement in favor of a service provider. This exemption does not apply
+31 to charges billed to a customer for repair, maintenance, and installation
+32 services or a contribution in aid of construction and are included in the
+33 gross receipts derived from items subject to the combined general rate
+34 under G.S. 105-164.4. The terms "service provider" and
+35 "governmental entity" have the same meaning as defined in
+36 G.S. 105-164.3(31)c.
+37 m. Any of the following:
+38 1. A qualified aircraft.
+39 2. A qualified jet engine.
+40 3. An aircraft with a gross take-off weight of more than 2,000
+41 pounds.
+42 n. Funeral-related service, including a service for the burial of remains.
+43 This exemption does not apply to the sale of tangible personal
+44 property, such as caskets, headstones, and monuments.
+45 o. A service performed on an animal, such as hoof shoeing and
+46 microchipping a pet.
+47 p. A security or similar monitoring contract for real property. The
+48 exemption provided in this subdivision does not apply to charges for
+49 repair, maintenance, and installation services to repair security, alarm,
+50 and other similar monitoring systems for real property.
+51 q. A contract to provide a certified operator for a wastewater system.
+Senate Bill 303-First Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 …
+2 (61c) Installation charges that are a part of the sales price of tangible personal
+3 property purchased by a real property contractor to fulfill a real property
+4 contract for an item that is installed or applied to real property, provided the
+5 installation charges are separately stated and identified as such on the invoice
+6 or other documentation given to the real property contractor at the time of the
+7 sale. property. The exemption also applies to installation charges by a
+8 retailer-contractor when performing installation services for a real property
+9 contract. The exemption includes any labor costs provided by the real property
+10 contractor, including employees' wages, or labor purchased from a third party
+11 that would otherwise be included in the definition of "purchase price."
+12 (61d) Installation charges that are a part of the sales price of or gross receipts derived
+13 from repair, maintenance, and installation services or installation charges only
+14 purchased by a real property contractor to fulfill a real property contract,
+15 provided the installation charges are separately stated and identified as such
+16 on the invoice or other documentation given to the real property contractor at
+17 the time of the sale. The exemption also applies to installation charges by a
+18 retailer-contractor when performing a real property contract. The exemption
+19 includes any labor costs provided by the real property contractor, including
+20 employees' wages, or labor purchased from a third party that would otherwise
+21 be included in the definition of "purchase price."
+22 (62) An item, including repair, maintenance, and installation services, purchased
+23 or used to fulfill a service contract taxable under this Article if the purchaser
+24 of the contract is not charged for the item. This exemption does not apply to
+25 the purchase of tangible personal property or certain digital property used to
+26 fulfill a service contract for real property where the charge being covered
+27 would otherwise be subject to tax as a real property contract. For purposes of
+28 this exemption, the term "item" does not include a tool, equipment, supply, or
+29 similar tangible personal property that is not deemed to be a component or
+30 repair part of the tangible personal property, real property, or certain digital
+31 property for which a service contract is sold to a purchaser.
+32 (62a) A replacement item, a repair part, or repair, maintenance, and installation
+33 services item or repair part used to maintain or repair tangible personal
+34 property or a motor vehicle pursuant to a manufacturer's warranty or a dealer's
+35 warranty. For purposes of this subdivision, the following definitions apply:
+36 a. Dealer's warranty. – An explicit warranty the seller of an item extends
+37 to the purchaser of the item as part of the purchase price of the item.
+38 b. Manufacturer's warranty. – An explicit warranty the manufacturer of
+39 an item extends to the purchaser of the item as part of the purchase
+40 price of the item.
+41 (62b) The amount of repair, maintenance, and installation services for a boat, an
+42 aircraft, or a qualified jet engine for which the purchaser elects for the seller
+43 to collect and remit the tax due under G.S. 105-164.27A(a3).
+44 …
+45 (67) Towing services, provided the charge is separately stated on the invoice or
+46 other documentation provided to the purchaser at the time of the sale.
+47 …
+48 (73) Sales of a digital audio work or digital audiovisual work that consists of
+49 nontaxable service content when the electronic transfer of the digital audio
+50 work or digital audiovisual work occurs contemporaneously with the
+51 provision of the nontaxable service in real time.
+Page 12 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 …."
+2 SECTION 2.(b) G.S. 105-164.13E reads as rewritten:
+3 "§ 105-164.13E. Exemption for farmers.
+4 (a) Exemption. – A qualifying farmer is a person who has an annual income from farming
+5 operations for the preceding taxable year of ten thousand dollars ($10,000) or more or who has
+6 an average annual income from farming operations for the three preceding taxable years of ten
+7 thousand dollars ($10,000) or more. For purposes of this section, the term "income from farming
+8 operations" means sales plus any other amounts treated as gross income under the Code from
+9 farming operations. A qualifying farmer includes a dairy operator, a poultry farmer, an egg
+10 producer, and a livestock farmer, a farmer of crops, a farmer of an aquatic species, as defined in
+11 G.S. 106-758, and a person who boards horses. A qualifying farmer may apply to the Secretary
+12 for an exemption certificate number under G.S. 105-164.28A. The exemption certificate expires
+13 when a person fails to meet the income threshold for three consecutive taxable years or ceases to
+14 engage in farming operations, whichever comes first.
+15 Except as otherwise provided in this section, the items exempt under this section must be
+16 purchased by a qualifying farmer or conditional farmer and used by the qualifying or conditional
+17 farmer primarily in farming operations. For purposes of this section, an item is used by a farmer
+18 for farming operations if it is used for the planting, cultivating, harvesting, or curing of farm
+19 crops, in the production of dairy products, eggs, or animals, or by a person who boards horses.
+20 The items that may be exempt from sales and use tax under this section are:
+21 …
+22 (10) Repair, maintenance, and installation services.
+23 …
+24 (c1) Services for Farmer. – A qualifying item listed in subdivision (6) of subsection (a) of
+25 this section purchased to fulfill a service for a person who holds a qualifying farmer exemption
+26 certificate or a conditional farmer exemption certificate issued under G.S. 105-164.28A is
+27 exempt from sales and use tax to the same extent as if purchased directly by the person who holds
+28 the exemption certificate. A person that purchases one of the items allowed an exemption under
+29 this subsection must provide an exemption certificate to the retailer that includes the name of the
+30 qualifying farmer or conditional farmer and the exemption number issued to the qualifying
+31 farmer or conditional farmer by the Department pursuant to G.S. 105-164.28A. A person that
+32 purchases an item exempt from tax pursuant to this subsection must maintain records to
+33 substantiate that an item is used to provide a service for a person who holds a qualifying farmer
+34 exemption certificate or a conditional farmer exemption certificate.
+35 …."
+36 SECTION 2.(c) G.S. 105-164.13F reads as rewritten:
+37 "§ 105-164.13F. Exemption for wildlife managers.
+38 …
+39 (b) Exemption. – Certain items purchased by a wildlife manager and used primarily for
+40 wildlife management activities may be exempt from sales and use tax under this section. The
+41 items that may be exempt under this section are:
+42 …
+43 (8) Repair, maintenance, and installation services for items exempt under this
+44 subsection.
+45 …
+46 (e) Services for Wildlife Manager. – An item exempt under subsection (b) of this section
+47 purchased to perform a service for a person who holds a wildlife manager exemption certificate
+48 issued under G.S. 105-164.28A is exempt from sales and use tax to the same extent as if
+49 purchased directly by the person who holds the exemption certificate. A person that purchases
+50 one of the items allowed an exemption under this subsection must provide an exemption
+51 certificate to the retailer that includes the name of the wildlife manager certificate holder and the
+Senate Bill 303-First Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 exemption number issued to the wildlife manager by the Department pursuant to
+2 G.S. 105-164.28A. A person that purchases an item exempt from tax under this subsection must
+3 maintain records to substantiate that it is used to provide a service for a person who holds a
+4 wildlife manager exemption certificate. The records must be maintained for at least three years."
+5
+6 PART III. SALES TAX DEFINITION UPDATES
+7 SECTION 3. G.S. 105-164.3 reads as rewritten:
+8 "§ 105-164.3. Definitions.
+9 The following definitions apply in this Article:
+10 …
+11 (25) Bundled transaction. – A retail sale of two or more distinct and identifiable
+12 items, at least one of which is taxable and one of which is nontaxable, for one
+13 nonitemized price. The term does not apply to real property or services to real
+14 property. property. Items are not sold for one nonitemized price if an invoice
+15 or another sales document made available to the purchaser separately
+16 identifies the price of each item. A bundled transaction does not include the
+17 retail sale of any of the following:
+18 a. An item and any packaging that accompanies the item and is exempt
+19 under G.S. 105-164.13(23).
+20 b. A sale of two or more items whose combined price varies, or is
+21 negotiable, depending on the items the purchaser selects.
+22 c. A sale of an item accompanied by a transfer of another item with no
+23 additional consideration.
+24 d. An item and the delivery or installation of the item.
+25 e. An item and any service necessary to complete the sale.
+26 …
+27 (31) Capital improvement. – One or more of the following:
+28 …
+29 c. Installation of a transmission, distribution, or other network asset on
+30 land owned by a service provider or on a right-of-way or easement in
+31 favor of a service provider, notwithstanding that any separately stated
+32 charges billed to a customer for repair, maintenance, and installation
+33 services or a contribution in aid of construction are included in the
+34 gross receipts derived from services subject to the combined general
+35 rate under G.S. 105-164.4. For purposes of this sub-subdivision, the
+36 term "service provider" means a person, including a governmental
+37 entity, who provides any of the services listed in this sub-subdivision,
+38 and the term "governmental entity" means a State agency, the federal
+39 government, or a governmental entity listed in G.S. 105-164.14(c).
+40 The services are:
+41 1. Telecommunications service or ancillary service.
+42 2. Video programming.
+43 3. Electricity or piped natural gas.
+44 4. Water or sewer service.
+45 …
+46 e. Painting or wallpapering of real property, except where painting or
+47 wallpapering is incidental to the repair, maintenance, and installation
+48 services.property.
+49 f. Replacement or installation of a septic tank system, siding, roof,
+50 plumbing, electrical, commercial refrigeration, irrigation, sprinkler, or
+51 other similar system. The term does not include the repair,
+Page 14 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 replacement, or installation of electrical or plumbing components,
+2 water heaters, gutters, and similar individual items that are not part of
+3 new construction, reconstruction, or remodeling.
+4 g. Replacement or installation of a heating or air conditioning unit or a
+5 heating, ventilation, or air conditioning system. The term does not
+6 include the repair, replacement, or installation of gas logs, water
+7 heaters, pool heaters, and similar individual items that are not part of
+8 new construction, reconstruction, or remodeling.
+9 …
+10 k. An addition or alteration to real property that is permanently affixed
+11 or installed to real property and is not an activity listed in subdivision
+12 (225) of this section as repair, maintenance, and installation
+13 services.property.
+14 …
+15 (87) Facilitator. – An accommodation facilitator, an admission facilitator, or a
+16 service contract facilitator.facilitator or an admission facilitator.
+17 …
+18 (95) Gross sales. – The sum total of the sales price of all sales of tangible personal
+19 property, digital property, and services.property and digital property.
+20 …
+21 (113) Item. – Tangible personal property, digital property, or a service, property or
+22 digital property unless the context requires otherwise.
+23 …
+24 (137) Mixed transaction contract. – A contract that includes both a real property
+25 contract for a capital improvement and repair, maintenance, and installation
+26 services for real property that are not related to the capital improvement.
+27 …
+28 (159) Nonresident retail or wholesale merchant. – A person who does not have a
+29 place of business in this State, is registered for sales and use tax purposes in a
+30 taxing jurisdiction outside the State, and is engaged in the business of
+31 acquiring, by purchase, consignment, or otherwise, tangible personal property
+32 or certain digital property and selling the property outside the State or in the
+33 business of providing a service.State.
+34 …
+35 (211) Real property management services. – Any of the following activities:
+36 a. Hiring and supervising employees for the real property.
+37 b. Providing a person to manage the real property.
+38 c. Receiving and applying revenues received from property owners or
+39 tenants of the real property.
+40 d. Providing repair, maintenance, and installation services to comply
+41 with obligations of a homeowners' association or a landlord under a
+42 lease, rental, or management agreement.
+43 e. Arranging for a third party to provide repair, maintenance, and
+44 installation services.
+45 f. Incurring and paying expenses for the management, repair, and
+46 maintenance of the real property.
+47 g. Handling administrative affairs for the real property.
+48 …
+49 (219) Remodeling. – A transaction comprised of multiple services performed by one
+50 or more persons to restore, improve, alter, or update real property that may
+51 otherwise be subject to tax as repair, maintenance, and installation services if
+Senate Bill 303-First Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 separately performed. property. The term includes a transaction where the
+2 internal structure or design of one or more rooms or areas within a room or
+3 building are substantially changed. The term does not include a single service
+4 that is included in repair, maintenance, and installation services. The term
+5 does not include a transaction where the true purpose is repair, maintenance,
+6 and installation services no matter that another service included in repair,
+7 maintenance, and installation services is performed that is incidental to the
+8 true purpose of the transaction; examples Examples include repair of
+9 sheetrock that includes applying paint, replacement of cabinets that includes
+10 installation of caulk or molding, and the installation of hardwood floors that
+11 includes installation of shoe molding.
+12 (221) Remote sale. – A sale of an item ordered by mail, telephone, Internet, mobile
+13 phone application, or another method by a retailer who receives the order in
+14 another state and delivers the item or makes it accessible to a person in this
+15 State or causes the item to be delivered or made accessible to a person in this
+16 State or performs a service sourced to this State. It is presumed that a resident
+17 of this State who makes an order was in this State at the time the order was
+18 made.
+19 …
+20 (225) Repair, maintenance, and installation services. – The term includes the
+21 activities listed in this subdivision and applies to tangible personal property,
+22 motor vehicles, certain digital property, and real property. The term does not
+23 include a service used to fulfill a real property contract taxed in accordance
+24 with G.S. 105-164.4H. The included activities are:
+25 a. To keep or attempt to keep property or a motor vehicle in working
+26 order to avoid breakdown and prevent deterioration or repairs.
+27 Examples include to clean, wash, or polish property.
+28 b. To calibrate, refinish, restore, or attempt to calibrate, refinish, or
+29 restore property or a motor vehicle to proper working order or good
+30 condition. This activity may include replacing or putting together what
+31 is torn or broken.
+32 c. To troubleshoot, identify, or attempt to identify the source of a
+33 problem for the purpose of determining what is needed to restore
+34 property or a motor vehicle to proper working order or good condition.
+35 The term includes activities that may lead to the issuance of an
+36 inspection report.
+37 d. To install, apply, connect, adjust, or set into position tangible personal
+38 property or certain digital property. The term includes floor refinishing
+39 and the installation of carpet, flooring, floor coverings, windows,
+40 doors, cabinets, countertops, and other installations where the item
+41 being installed may replace a similar existing item. The replacement
+42 of more than one of a like-kind item, such as replacing one or more
+43 windows, is repair, maintenance, and installation services. The term
+44 does not include an installation defined as a capital improvement under
+45 subdivision (31)d. of this section and substantiated as a capital
+46 improvement under G.S. 105-164.4H(a1).
+47 e. To inspect or monitor property or install, apply, or connect tangible
+48 personal property or certain digital property on a motor vehicle or
+49 adjust a motor vehicle.
+50 …
+Page 16 Senate Bill 303-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (235) Sale or selling. – The transfer for consideration of title, license to use or
+2 consume, or possession of tangible personal property or certain digital
+3 property or the performance for consideration of a service. The transfer or
+4 performance may be conditional or in any manner or by any means. The term
+5 applies to the following:
+6 …
+7 g. A service contract.
+8 …
+9 (245) Service contract. – A contract where the obligor under the contract agrees to
+10 maintain, monitor, inspect, repair, or provide another service included in the
+11 definition of repair, maintenance, and installation services to certain digital
+12 property, tangible personal property, or real property for a period of time or
+13 some other defined measure. The term does not include a single service
+14 included in repair, maintenance, or installation services, but does include a
+15 contract where the obligor may provide a service included in the definition of
+16 repair, maintenance, and installation services as a condition of the contract.
+17 The term includes a service contract for a pool, fish tank, or similar aquatic
+18 feature and a home warranty. Examples include a warranty agreement other
+19 than a manufacturer's warranty or dealer's warranty provided at no charge to
+20 the purchaser, an extended warranty agreement, a maintenance agreement, a
+21 repair agreement, or a similar agreement or contract.
+22 (247) Service contract facilitator. – A person who contracts with the obligor of a
+23 service contract to market the service contract and accepts payment from the
+24 purchaser for the service contract.
+25 …."
+26
+27 PART IV. EFFECTIVE DATE
+28 SECTION 4. This act becomes effective July 1, 2025, and applies to services
+29 provided on or after that date.
+Senate Bill 303-First Edition Page 17
+
+[DELETED:  1 R ( S R A A C T  P S " ( A p t i i o a r e i b i t S a t p g ( T … c T a p r o w t t p p o c d p i t u a s i t s t i b e i G m a t t s R a f a t … ( T f a s c A s c i t i a w G … ( T r i a t p p o c d p t b c a a r p c a t i a w G w]
+[DELETED:  S  S … S " ( G t u t t … ( C s s s t r t a a w t p r t u p s p S " ( T o … ( A a r c e … ( D m u e t r p p o t r s p t d i t t ( p s i a s c t r o t c i d w t t S " ( A p f t i o G a W a r p c p t p p s G ( S r d f r m a i s a s t t i a t a s c]
+[DELETED:  S  P e t t i a r p c o b r o a a o c i a t s f s b c f t … ( M ( I s ( c p t t r m a i s a ( I s t g s f b b t c … S S " … ( L – T s d n a t a a f a a f o a s c f w c a r r o a a f w c a r r a s o i G … S " ( T o S u a P M C – R m m c ( R m i s p b t r p m ( T m a]
+[DELETED:  S  S ( M p a i s t u t A a n e b s r p d s a i t o c o b T c f t t r m o ( E m p ( T t p o w i n t r t r p t w ( T s ( S t a c w t b u b s b t p b r k i t o c o b T s m b c p f e b o i p a m ( R P M S – T s a w r m a p e r ( R m a w a … S " ( T – A e t a t a r a m t i a s i G i i o t f i i t i i s t t u G … ( S]
+[DELETED:  S  P … S " ( R c r a c o t m r o o m r a r o a o a p i G p r r ( S r r s ( R t r s ( R s t r o b t t a t S s b d o t t a o t s a a T o a S " … ( T c w u ( A s ( T c]
+[DELETED:  S  S ( T t a r … S S " ( I s a m a i s a a f a m v r c l t p t p o t w m q s o o w r t A a f r s f t f i a a p o t i ( A a s c a r m a i s d ( T p p o t t p p a s l t p … F t o t t a o t S d t r p S t S s d t a p s t a t … ( N r c n t c n a e i]
+[DELETED:  S  P r a u t s d n a t p o e t s a s p n g v p o a p a c o e h … ( C a o m s r d p b t g e f t p o t s T r a s a g A r r g T … ( A r t e … S " … ( A a r l i t s m r t g r i d f t t t m … ( A r w s o d g r f a s c a p S " F s … ( T o S " ( G w p (]
+[DELETED:  S  S i t s n a … ( B h a j p c d p o r m a i s p o c d i m p o s ( p I e p b t t a a T p e … S " ( E s r o l s r d e a c s p t t p o t l p c t d a t u u]
+[DELETED:  S  P p l … S " ( A c b … ( T t t a T c w t s a u t l T s a t a D ( T t f t p o r m a i s p T c w t s a u t l A f o o e a f d t … S " E 5 t r a e t t t l s a u t a t b l a i u t A T a f …  P S " T s … ( C o o …]
+[DELETED:  S  S ( I d s p i c w t s o t p … ( A ( T a e u c m u a A A t f a s o s c e u t s a e f t u t A T e a f o t a m v e a p u s t b A t o s c A d C o s s c s w w m r s c o p e A f R o w t d g s a o s t T a f o g T 1 A r 2 A i o t s i o r p p t t 3 A G p t i i t f a s i s s o t i o o d g]
+[DELETED:  S  P h A a t s i P c j M s e k S F 1 L m e p e o e o a c ( a l s v p t c T t d n i a a w p a o t v o t o o t l i t s 2 S v w o v – T c o a v b a c w a c o r a l S a e t s g u G T t " p a " e h t s m a d i G m A 1 A 2 A 3 A p n F T e d n a t t s o t p p o A s p o a a s a h s a m p A s o s m c f r p T e r a q A]
+[DELETED:  S  S … ( I c t a a p o t s p o t p p p b a r p c t f a r p c i o s p T e a a t i c b a r c c t ( I f p b a r p c t f a r p c p o t r i e b ( A o o t f w t s r p ( A s i o r p u t m o r t p p w a D t b M a p ( T a t … ( T o … ( S o a d a w o d a w t c o n w o d a w o c w t p]
+[DELETED:  S  P … S " ( E o a t o f f p G f w e E p f f c T … ( R … ( S t c o a c f e c i u G i e t t q f c f a t e n i t t q f p a i e f t p t t s m m r t s e … S " … ( E w i … ( R s … ( S p i u G i e f s a u t t t s e a i p o o t i a a e u t s m p a e c]
+[DELETED:  S  S e n i t t w m b t D p t G m w  P S " T … ( B i n p o a s d m a t t p s i r a A u b A s o t o m i w c p v o i n c A a d A e A … ( C … c I l f c s g r t " p m a p i a g e a g o g e l i T 1 T 2 V 3 E 4 W … e P w s f R o i o a s t s s r p o s s T t d n i t r]
+[DELETED:  S  P r o i o e o p c w n g R h T i t r r o i o g l w h n … k A o ( o t s a r m a i s … ( F – A a f a a f o a s … ( G p … ( I d … ( M c s … ( N p t j o t S a i e i t b o a o b … ( R a H b P c R t d P r m a i s t c w l e A f a t p t p r m a i f I a p e f t m r a m g H … ( R o o]
+[DELETED:  S  S s i b t d a m t p o t t e E i r o s i i ( R p a S S o m … ( R m a i s – T t i t a m i w a T o t a b a p d o r E b T c r r o a t c r o r c i c T t i o a t i t s o a p f t p o d w i n t r p T t i a t m l t t i o a i d T p a t i o c f f c w d b o w d s ( o t s a s a a c i e T p a …]
+[DELETED:  S  P ( S o – T t o t u c o p o t p p o c d p p a … g A … ( S m d p s o d m T t d n i a s s i c r T f t t r ( S s p …  P S 4  T a b e J 1 2 a a t s p]

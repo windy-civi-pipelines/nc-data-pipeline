@@ -1,0 +1,539 @@
+Title: HOUSE BILL DRH10415-STe-33
+Official Title: HOUSE BILL DRH10415-STe-33
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+H.B. 958
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 10, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+Short Title: Election Law Changes. (Public)
+Sponsors: Representative Blackwell.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO ELECTION ADMINISTRATION LAWS
+3 AND CAMPAIGN FINANCE LAWS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 163-22 is amended by adding a new subsection to read:
+6 "(u) In educating voters, the State Board shall not use its role to recruit or encourage voters
+7 to associate with any political party over another or to influence voter turnout for a particular
+8 political party."
+9 SECTION 2. G.S. 163-90.2(a) reads as rewritten:
+10 "(a) When any challenge is sustained for any cause listed under G.S. 163-85(c), the board
+11 shall cancel or correct the voter registration of the voter. The county board shall maintain such
+12 record for at least six months and during the pendency of any appeal. The Except for challenges
+13 sustained for cause listed under G.S. 163-85(c)(6), the challenged ballot shall be counted for any
+14 ballot items for which the challenged voter is eligible to vote, as if it were a provisional official
+15 ballot under the provisions of G.S. 163-166.11(4). For any challenge sustained for death of the
+16 voter under G.S. 163-85(c)(6), the challenged ballot shall not be counted if the voter died between
+17 the time the ballot was cast and 6:30 A.M. on election day."
+18 SECTION 3.(a) G.S. 163-165.5(a)(4) reads as rewritten:
+19 "(4) Party designations in partisan ballot items. Party designations shall be printed
+20 in the same font type and size as the name of the candidate."
+21 SECTION 3.(b) This section becomes effective January 1, 2026, and applies to
+22 elections held on or after that date.
+23 SECTION 4. G.S. 163-166.35(a) reads as rewritten:
+24 "(a) A county board of elections by unanimous vote of all its members may provide for
+25 one or more sites in that county for ballots to be applied for and cast under this Part. Each county
+26 board shall open at least one early voting site for every 30,000 registered voters, or any portion
+27 thereof, registered in that county as of July 1 of the previous calendar year. The county board
+28 shall seek to provide geographic diversity when selecting locations for early voting sites. Except
+29 for individuals appointed to early voting sites pursuant to subsection (b) of this section, every
+30 individual staffing any of those sites shall be a member or full-time employee of the county board
+31 of elections or an employee of the county board of elections whom the board has given training
+32 equivalent to that given a full-time employee. Those sites must be approved by the State Board
+33 as part of a Plan for Implementation approved by both the county board of elections and by the
+34 State Board which shall also provide adequate security of the ballots and provisions to avoid
+35 allowing persons to vote who have already voted. A county board of elections may propose in its
+36 Plan for Implementation not to offer early voting at the county board of elections office; the State
+*DRH10415-STe-33*
+General Assembly Of North Carolina Session 2025
+1 Board may approve that proposal in a Plan for Implementation only if the Plan for
+2 Implementation includes at least one site reasonably proximate to the county board of elections
+3 office and the State Board finds that the sites in the Plan for Implementation as a whole provide
+4 adequate coverage of the county's electorate. If a county board of elections has considered a
+5 proposed Plan or Plans for Implementation and has been unable to reach unanimity in favor of a
+6 Plan for Implementation, a member or members of that county board of elections may petition
+7 the State Board to adopt a plan for it. If petitioned, the State Board may also receive and consider
+8 alternative petitions from another member or members of that county board. The State Board
+9 may adopt a Plan for Implementation for that county. The State Board, in that plan, shall take
+10 into consideration whether the Plan for Implementation disproportionately favors any party,
+11 racial or ethnic group, or candidate."
+12 SECTION 5. G.S. 163-182.1(b)(1) reads as rewritten:
+13 "(1) Provide for a sample hand-to-eye count of the paper ballots of a statewide
+14 ballot item in every county. The presidential ballot item shall be the subject of
+15 the sampling in a presidential election. If there is no statewide ballot item, the
+16 State Board Auditor shall provide a process for selecting district or local ballot
+17 items to adequately sample the electorate. The State Board shall approve in an
+18 open meeting the procedure for randomly selecting the sample precincts for
+19 each election. The random selection of precincts for any county shall be done
+20 publicly after the initial count of election returns for that county is publicly
+21 released or 24 hours after the polls close on election day, whichever is earlier.
+22 The sample chosen by the State Board Auditor shall be of one or more full
+23 precincts, full counts of mailed absentee ballots, full counts of one or more
+24 early voting sites, or a combination. The size of the sample of each category
+25 shall be chosen to produce a statistically significant result and shall be chosen
+26 after consultation with a statistician. The actual units shall be chosen at
+27 random. In the event of a material discrepancy between the electronic or
+28 mechanical count and a hand-to-eye count, the hand-to-eye count shall
+29 control, except where paper ballots have been lost or destroyed or where there
+30 is another reasonable basis to conclude that the hand-to-eye count is not the
+31 true count. If the discrepancy between the hand-to-eye count and the
+32 mechanical or electronic count is significant, a complete hand-to-eye count
+33 shall be conducted."
+34 SECTION 6.(a) G.S. 163-182.2(a), as amended by Section 3A.4(e) of S.L. 2024-57,
+35 reads as rewritten:
+36 "(a) The initial counting of official ballots cast on election day and under Part 5 of Article
+37 14A of this Chapter shall be conducted according to the following principles:
+38 …
+39 (4) If the county board finds that an individual voting a provisional official ballot
+40 (i) was registered in the county as provided in 163-82.1, (ii) voted in the proper
+41 precinct under G.S. 163-55 and G.S. 163-57, and (iii) was otherwise eligible
+42 to vote, the provisional official ballots shall be counted by the county board
+43 no later than 5:00 P.M. on the third business day after the election. election;
+44 provided, however, for counties with over 250,000 registered voters in that
+45 election, the provisional official ballots shall be counted by the county board
+46 no later than 5:00 P.M. on the fifth business day after the election. Except as
+47 provided in G.S. 163-82.15(e), if the county board finds that an individual
+48 voting a provisional official ballot (i) did not vote in the proper precinct under
+49 G.S. 163-55 and G.S. 163-57, (ii) is not registered in the county as provided
+50 in G.S. 163-82.1, or (iii) is otherwise not eligible to vote, the ballot shall not
+51 be counted. If a voter was properly registered to vote in the election by the
+Page 2 DRH10415-STe-33
+General Assembly Of North Carolina Session 2025
+1 county board, no mistake of an election official in giving the voter a ballot or
+2 in failing to comply with G.S. 163-82.15 or G.S. 163-166.11 shall serve to
+3 prevent the counting of the vote on any ballot item the voter was eligible by
+4 registration and qualified by residency to vote.
+5 (5) Precinct officials shall provide a preliminary report of the vote counting on
+6 election day to the county board of elections as quickly as possible. The
+7 preliminary report shall be unofficial, has shall:
+8 a. Be unofficial.
+9 b. Have no binding effect upon the official county canvass to follow, and
+10 shall include follow.
+11 c. Include the number of provisional ballots cast in that precinct and the
+12 number of outstanding provisional ballots cast in that precinct.
+13 …."
+14 SECTION 6.(b) G.S. 163-234, as amended by Section 3A.4(g) of S.L. 2024-57,
+15 reads as rewritten:
+16 "§ 163-234. Counting absentee ballots by county board.
+17 All absentee ballots returned to the county board in the container-return envelopes shall be
+18 retained by the county board to be counted by the county board as follows:
+19 …
+20 (2) The county board shall meet at 5:00 P.M. on election day in the county board
+21 office or other public location in the county courthouse for the purpose of
+22 counting all absentee ballots except those which have been challenged before
+23 5:00 P.M. on election day day, those described in subdivision (13) of this
+24 section, and those received pursuant to G.S. 163-231(b)(2). Any elector of the
+25 county shall be permitted to attend the meeting and allowed to observe the
+26 counting process, so long as the elector does not in any manner interfere with
+27 the election officials in the discharge of their duties. The count of these
+28 absentee ballots shall be continuous until completed, and the members shall
+29 not separate or leave the counting place except for unavoidable necessity.
+30 The county board may begin counting absentee ballots issued under
+31 Article 21A of this Chapter between the hours of 9:00 A.M. and 5:00 P.M.
+32 and may begin counting all absentee ballots between the hours of 2:00 P.M.
+33 and 5:00 P.M. upon the adoption of a resolution at least two weeks prior to the
+34 election in which the hour and place of counting absentee ballots shall be
+35 stated. A copy of the resolution shall be published once a week for two weeks
+36 prior to the election, in a newspaper having general circulation in the county.
+37 Notice may additionally be made on a radio or television station or both, but
+38 the notice shall be in addition to the newspaper and other required notice. The
+39 count shall be continuous until completed and the members shall not separate
+40 or leave the counting place except for unavoidable necessity, except that if the
+41 count has been completed prior to the time the polls close, it shall be
+42 suspended until that time pending receipt of any additional ballots. Nothing in
+43 this section prohibits a county board from taking preparatory steps for the
+44 count earlier than the times specified in this section, as long as the preparatory
+45 steps do not reveal to any individual not engaged in the actual count election
+46 results before the times specified in this subdivision for the count to begin. By
+47 way of illustration and not limitation, a preparatory step for the count would
+48 be the entry of tally cards from direct record electronic voting units into a
+49 computer for processing. The county board shall not announce the result of
+50 the count before 7:30 P.M.
+51 …
+DRH10415-STe-33 Page 3
+General Assembly Of North Carolina Session 2025
+1 (12) No later than 5:00 P.M. on the third business day after the election, the county
+2 board shall announce the tally of all absentee ballots, except those subject to
+3 a challenge challenge, those subject to subdivision (13) of this section, or
+4 those cast in accordance with Article 21A of this Chapter.
+5 (13) For counties with over 250,000 registered voters in that election, the following
+6 shall apply:
+7 a. All absentee ballots received by the county board on the Monday
+8 before election day shall be processed no later than 7:30 P.M. the day
+9 before election day.
+10 b. The county board shall count and report the results of all absentee
+11 ballots received before election day no later than 7:30 P.M. on election
+12 day.
+13 c. The county board shall report the number of absentee ballots received
+14 on election day no later than 7:30 P.M. on election day.
+15 d. For absentee ballots received on election day, the county board shall
+16 count and report the results of those absentee ballots no later than 5:00
+17 P.M. on the fifth business day after the election."
+18 SECTION 7. G.S. 163-230.1(e1), as amended by Section 3A.4(f) of S.L. 2024-57,
+19 reads as rewritten:
+20 "(e1) Curable Deficiencies. – If a container-return envelope contains a curable deficiency,
+21 the county board shall promptly notify the voter of the deficiency and the manner in which the
+22 voter may cure the deficiency. Curable deficiencies are deficiencies that can be cured with
+23 supplemental documentation or attestation provided by the voter, including when any of the
+24 following occurs:
+25 (1) The voter did not sign the voter certification as required by
+26 G.S. 163-231(a)(4).
+27 (2) The voter signed the application in the wrong place on the application.
+28 (3) The voter failed to include with the container-return envelope a photocopy of
+29 identification described in G.S. 163-166.16(a) or an affidavit as described in
+30 G.S. 163-166.16(d)(1), (d)(2), or (d)(3), as required by subsection (f1) of this
+31 section.
+32 The identification of the two persons witnessing the casting of the absentee ballot in
+33 accordance with G.S. 163-231(a) is not a curable deficiency. Any container-return envelope with
+34 a curable deficiency that is transmitted to the county board shall be considered timely if cure
+35 documentation is received no later than 12:00 5:00 P.M. on the third fifth business day after the
+36 election. Cure documentation may be transmitted via email to the county board if the deficiency
+37 is one described in subdivision (3) of this subsection. The notification of voters regarding curable
+38 deficiencies is an administrative task that may be performed by county board staff and is not
+39 required to be performed at an absentee meeting as provided for in subsection (f) of this section.
+40 The voter shall be notified of curable deficiencies by mail, and by telephone or email if the
+41 telephone number or email address was provided by the voter on the request form for absentee
+42 ballots."
+43 SECTION 8.(a) G.S. 163-278.9 reads as rewritten:
+44 "§ 163-278.9. Statements filed with State Board.
+45 (a) Except as provided in G.S. 163-278.10A, the treasurer of each candidate and of each
+46 political committee shall file with the State Board under certification of the treasurer as true and
+47 correct to the best of the knowledge of that officer the following reports:
+48 …
+49 (2) 48-Hour Report. – A political committee, political party or affiliated party
+50 committee that receives a contribution or transfer of funds shall disclose
+51 within 48 hours of receipt a contribution or transfer of one two thousand
+Page 4 DRH10415-STe-33
+General Assembly Of North Carolina Session 2025
+1 dollars ($1,000) ($2,000) or more received before an election but after the
+2 period covered by the last report due before that election. The disclosure shall
+3 be by report to the State Board identifying the source and amount of the funds.
+4 The State Board shall specify the form and manner of making the report,
+5 including the reporting of in-kind contributions. The State Board shall
+6 increase the dollar amount of the reporting threshold effective each election
+7 cycle beginning the period from January 1 of an odd-numbered year through
+8 December 31 of the next even-numbered year based on the Consumer Price
+9 Index as provided in G.S. 163-278.13(b). The State Board shall set the revised
+10 threshold in October of the even-numbered year, publish the revised threshold
+11 in the North Carolina Register, and notify the Revisor of Statutes who shall
+12 adjust the dollar amount in this subdivision.
+13 …
+14 (a1) Subdivision (a)(2) of this section shall not apply to any candidate campaign
+15 committee, as defined by G.S. 163-278.38Z, in a primary election in which the candidate is
+16 unopposed on that ballot.
+17 …."
+18 SECTION 8.(b) G.S. 163-278.9A reads as rewritten:
+19 "§ 163-278.9A. Statements filed by referendum committees.
+20 (a) The treasurer of each referendum committee shall file under verification with the
+21 Board the following reports:
+22 …
+23 (3) 48-Hour Report. – A referendum committee that receives a contribution or
+24 transfer of funds shall disclose within 48 hours of receipt a contribution or
+25 transfer of one two thousand dollars ($1,000) ($2,000) or more received before
+26 a referendum but after the period covered by the last report due before that
+27 referendum. The disclosure shall be by report to the State Board of Elections
+28 identifying the source and amount of such funds. The State Board of Elections
+29 shall specify the form and manner of making the report, including the
+30 reporting of in-kind contributions. The State Board shall increase the dollar
+31 amount of the reporting threshold effective each election cycle beginning the
+32 period from January 1 of an odd-numbered year through December 31 of the
+33 next even-numbered year based on the Consumer Price Index as provided in
+34 G.S. 163-278.13(b). The State Board shall set the revised threshold in October
+35 of the even-numbered year, publish the revised threshold in the North Carolina
+36 Register, and notify the Revisor of Statutes who shall adjust the dollar amount
+37 in this subdivision.
+38 …
+39 (a1) Subdivision (a)(3) of this section shall not apply to any candidate campaign
+40 committee, as defined by G.S. 163-278.38Z, in a primary election in which the candidate is
+41 unopposed on that ballot.
+42 …."
+43 SECTION 8.(c) No earlier than October 1, 2025, the State Board of Elections shall
+44 adjust the thresholds imposed by G.S. 163-278.9(a)(2) and G.S. 163-278.9A(a)(3), as enacted by
+45 this section, effective for the election cycle beginning January 1, 2027.
+46 SECTION 9. Except as otherwise provided, this act is effective when it becomes law
+47 and applies to elections held on or after that date.
+DRH10415-STe-33 Page 5
+[DELETED:  D E ( R  A T M V C T E A L I W P A]
+[DELETED:  S  D m a t p i a P f I o i t P f c w t P f I d f a p P c w a s T a u s b c a I t e o a m d b t e o c a a h c t h c s c I t d b t h c a t T I]
+[DELETED:  S  P P d t t c b o e a q a p T B H I T e o i t d o t d T c o t c b m b c a b i u h b c p t t t t p c i s b]
+[DELETED:  S  D N F A a b r b t c b o t M T T F C m c t d C d a d t c b c w T v d n s t v c a r b T T i o t t p w t c o t a b i E 4 t r a c o t o f s d o]
+[DELETED:  S  P t r o i c T S B s S ( o t s s n a t a c c T 4 s t f a m o m t r i t S ( o t s s n a t a c c]
+
+
+================================================================================
+
+Raw Text:
+H.B. 958
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Apr 10, 2025
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10415-STe-33
+Short Title: Election Law Changes. (Public)
+Sponsors: Representative Blackwell.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO ELECTION ADMINISTRATION LAWS
+3 AND CAMPAIGN FINANCE LAWS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. G.S. 163-22 is amended by adding a new subsection to read:
+6 "(u) In educating voters, the State Board shall not use its role to recruit or encourage voters
+7 to associate with any political party over another or to influence voter turnout for a particular
+8 political party."
+9 SECTION 2. G.S. 163-90.2(a) reads as rewritten:
+10 "(a) When any challenge is sustained for any cause listed under G.S. 163-85(c), the board
+11 shall cancel or correct the voter registration of the voter. The county board shall maintain such
+12 record for at least six months and during the pendency of any appeal. The Except for challenges
+13 sustained for cause listed under G.S. 163-85(c)(6), the challenged ballot shall be counted for any
+14 ballot items for which the challenged voter is eligible to vote, as if it were a provisional official
+15 ballot under the provisions of G.S. 163-166.11(4). For any challenge sustained for death of the
+16 voter under G.S. 163-85(c)(6), the challenged ballot shall not be counted if the voter died between
+17 the time the ballot was cast and 6:30 A.M. on election day."
+18 SECTION 3.(a) G.S. 163-165.5(a)(4) reads as rewritten:
+19 "(4) Party designations in partisan ballot items. Party designations shall be printed
+20 in the same font type and size as the name of the candidate."
+21 SECTION 3.(b) This section becomes effective January 1, 2026, and applies to
+22 elections held on or after that date.
+23 SECTION 4. G.S. 163-166.35(a) reads as rewritten:
+24 "(a) A county board of elections by unanimous vote of all its members may provide for
+25 one or more sites in that county for ballots to be applied for and cast under this Part. Each county
+26 board shall open at least one early voting site for every 30,000 registered voters, or any portion
+27 thereof, registered in that county as of July 1 of the previous calendar year. The county board
+28 shall seek to provide geographic diversity when selecting locations for early voting sites. Except
+29 for individuals appointed to early voting sites pursuant to subsection (b) of this section, every
+30 individual staffing any of those sites shall be a member or full-time employee of the county board
+31 of elections or an employee of the county board of elections whom the board has given training
+32 equivalent to that given a full-time employee. Those sites must be approved by the State Board
+33 as part of a Plan for Implementation approved by both the county board of elections and by the
+34 State Board which shall also provide adequate security of the ballots and provisions to avoid
+35 allowing persons to vote who have already voted. A county board of elections may propose in its
+36 Plan for Implementation not to offer early voting at the county board of elections office; the State
+*DRH10415-STe-33*
+
+General Assembly Of North Carolina Session 2025
+1 Board may approve that proposal in a Plan for Implementation only if the Plan for
+2 Implementation includes at least one site reasonably proximate to the county board of elections
+3 office and the State Board finds that the sites in the Plan for Implementation as a whole provide
+4 adequate coverage of the county's electorate. If a county board of elections has considered a
+5 proposed Plan or Plans for Implementation and has been unable to reach unanimity in favor of a
+6 Plan for Implementation, a member or members of that county board of elections may petition
+7 the State Board to adopt a plan for it. If petitioned, the State Board may also receive and consider
+8 alternative petitions from another member or members of that county board. The State Board
+9 may adopt a Plan for Implementation for that county. The State Board, in that plan, shall take
+10 into consideration whether the Plan for Implementation disproportionately favors any party,
+11 racial or ethnic group, or candidate."
+12 SECTION 5. G.S. 163-182.1(b)(1) reads as rewritten:
+13 "(1) Provide for a sample hand-to-eye count of the paper ballots of a statewide
+14 ballot item in every county. The presidential ballot item shall be the subject of
+15 the sampling in a presidential election. If there is no statewide ballot item, the
+16 State Board Auditor shall provide a process for selecting district or local ballot
+17 items to adequately sample the electorate. The State Board shall approve in an
+18 open meeting the procedure for randomly selecting the sample precincts for
+19 each election. The random selection of precincts for any county shall be done
+20 publicly after the initial count of election returns for that county is publicly
+21 released or 24 hours after the polls close on election day, whichever is earlier.
+22 The sample chosen by the State Board Auditor shall be of one or more full
+23 precincts, full counts of mailed absentee ballots, full counts of one or more
+24 early voting sites, or a combination. The size of the sample of each category
+25 shall be chosen to produce a statistically significant result and shall be chosen
+26 after consultation with a statistician. The actual units shall be chosen at
+27 random. In the event of a material discrepancy between the electronic or
+28 mechanical count and a hand-to-eye count, the hand-to-eye count shall
+29 control, except where paper ballots have been lost or destroyed or where there
+30 is another reasonable basis to conclude that the hand-to-eye count is not the
+31 true count. If the discrepancy between the hand-to-eye count and the
+32 mechanical or electronic count is significant, a complete hand-to-eye count
+33 shall be conducted."
+34 SECTION 6.(a) G.S. 163-182.2(a), as amended by Section 3A.4(e) of S.L. 2024-57,
+35 reads as rewritten:
+36 "(a) The initial counting of official ballots cast on election day and under Part 5 of Article
+37 14A of this Chapter shall be conducted according to the following principles:
+38 …
+39 (4) If the county board finds that an individual voting a provisional official ballot
+40 (i) was registered in the county as provided in 163-82.1, (ii) voted in the proper
+41 precinct under G.S. 163-55 and G.S. 163-57, and (iii) was otherwise eligible
+42 to vote, the provisional official ballots shall be counted by the county board
+43 no later than 5:00 P.M. on the third business day after the election. election;
+44 provided, however, for counties with over 250,000 registered voters in that
+45 election, the provisional official ballots shall be counted by the county board
+46 no later than 5:00 P.M. on the fifth business day after the election. Except as
+47 provided in G.S. 163-82.15(e), if the county board finds that an individual
+48 voting a provisional official ballot (i) did not vote in the proper precinct under
+49 G.S. 163-55 and G.S. 163-57, (ii) is not registered in the county as provided
+50 in G.S. 163-82.1, or (iii) is otherwise not eligible to vote, the ballot shall not
+51 be counted. If a voter was properly registered to vote in the election by the
+Page 2 DRH10415-STe-33
+
+General Assembly Of North Carolina Session 2025
+1 county board, no mistake of an election official in giving the voter a ballot or
+2 in failing to comply with G.S. 163-82.15 or G.S. 163-166.11 shall serve to
+3 prevent the counting of the vote on any ballot item the voter was eligible by
+4 registration and qualified by residency to vote.
+5 (5) Precinct officials shall provide a preliminary report of the vote counting on
+6 election day to the county board of elections as quickly as possible. The
+7 preliminary report shall be unofficial, has shall:
+8 a. Be unofficial.
+9 b. Have no binding effect upon the official county canvass to follow, and
+10 shall include follow.
+11 c. Include the number of provisional ballots cast in that precinct and the
+12 number of outstanding provisional ballots cast in that precinct.
+13 …."
+14 SECTION 6.(b) G.S. 163-234, as amended by Section 3A.4(g) of S.L. 2024-57,
+15 reads as rewritten:
+16 "§ 163-234. Counting absentee ballots by county board.
+17 All absentee ballots returned to the county board in the container-return envelopes shall be
+18 retained by the county board to be counted by the county board as follows:
+19 …
+20 (2) The county board shall meet at 5:00 P.M. on election day in the county board
+21 office or other public location in the county courthouse for the purpose of
+22 counting all absentee ballots except those which have been challenged before
+23 5:00 P.M. on election day day, those described in subdivision (13) of this
+24 section, and those received pursuant to G.S. 163-231(b)(2). Any elector of the
+25 county shall be permitted to attend the meeting and allowed to observe the
+26 counting process, so long as the elector does not in any manner interfere with
+27 the election officials in the discharge of their duties. The count of these
+28 absentee ballots shall be continuous until completed, and the members shall
+29 not separate or leave the counting place except for unavoidable necessity.
+30 The county board may begin counting absentee ballots issued under
+31 Article 21A of this Chapter between the hours of 9:00 A.M. and 5:00 P.M.
+32 and may begin counting all absentee ballots between the hours of 2:00 P.M.
+33 and 5:00 P.M. upon the adoption of a resolution at least two weeks prior to the
+34 election in which the hour and place of counting absentee ballots shall be
+35 stated. A copy of the resolution shall be published once a week for two weeks
+36 prior to the election, in a newspaper having general circulation in the county.
+37 Notice may additionally be made on a radio or television station or both, but
+38 the notice shall be in addition to the newspaper and other required notice. The
+39 count shall be continuous until completed and the members shall not separate
+40 or leave the counting place except for unavoidable necessity, except that if the
+41 count has been completed prior to the time the polls close, it shall be
+42 suspended until that time pending receipt of any additional ballots. Nothing in
+43 this section prohibits a county board from taking preparatory steps for the
+44 count earlier than the times specified in this section, as long as the preparatory
+45 steps do not reveal to any individual not engaged in the actual count election
+46 results before the times specified in this subdivision for the count to begin. By
+47 way of illustration and not limitation, a preparatory step for the count would
+48 be the entry of tally cards from direct record electronic voting units into a
+49 computer for processing. The county board shall not announce the result of
+50 the count before 7:30 P.M.
+51 …
+DRH10415-STe-33 Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (12) No later than 5:00 P.M. on the third business day after the election, the county
+2 board shall announce the tally of all absentee ballots, except those subject to
+3 a challenge challenge, those subject to subdivision (13) of this section, or
+4 those cast in accordance with Article 21A of this Chapter.
+5 (13) For counties with over 250,000 registered voters in that election, the following
+6 shall apply:
+7 a. All absentee ballots received by the county board on the Monday
+8 before election day shall be processed no later than 7:30 P.M. the day
+9 before election day.
+10 b. The county board shall count and report the results of all absentee
+11 ballots received before election day no later than 7:30 P.M. on election
+12 day.
+13 c. The county board shall report the number of absentee ballots received
+14 on election day no later than 7:30 P.M. on election day.
+15 d. For absentee ballots received on election day, the county board shall
+16 count and report the results of those absentee ballots no later than 5:00
+17 P.M. on the fifth business day after the election."
+18 SECTION 7. G.S. 163-230.1(e1), as amended by Section 3A.4(f) of S.L. 2024-57,
+19 reads as rewritten:
+20 "(e1) Curable Deficiencies. – If a container-return envelope contains a curable deficiency,
+21 the county board shall promptly notify the voter of the deficiency and the manner in which the
+22 voter may cure the deficiency. Curable deficiencies are deficiencies that can be cured with
+23 supplemental documentation or attestation provided by the voter, including when any of the
+24 following occurs:
+25 (1) The voter did not sign the voter certification as required by
+26 G.S. 163-231(a)(4).
+27 (2) The voter signed the application in the wrong place on the application.
+28 (3) The voter failed to include with the container-return envelope a photocopy of
+29 identification described in G.S. 163-166.16(a) or an affidavit as described in
+30 G.S. 163-166.16(d)(1), (d)(2), or (d)(3), as required by subsection (f1) of this
+31 section.
+32 The identification of the two persons witnessing the casting of the absentee ballot in
+33 accordance with G.S. 163-231(a) is not a curable deficiency. Any container-return envelope with
+34 a curable deficiency that is transmitted to the county board shall be considered timely if cure
+35 documentation is received no later than 12:00 5:00 P.M. on the third fifth business day after the
+36 election. Cure documentation may be transmitted via email to the county board if the deficiency
+37 is one described in subdivision (3) of this subsection. The notification of voters regarding curable
+38 deficiencies is an administrative task that may be performed by county board staff and is not
+39 required to be performed at an absentee meeting as provided for in subsection (f) of this section.
+40 The voter shall be notified of curable deficiencies by mail, and by telephone or email if the
+41 telephone number or email address was provided by the voter on the request form for absentee
+42 ballots."
+43 SECTION 8.(a) G.S. 163-278.9 reads as rewritten:
+44 "§ 163-278.9. Statements filed with State Board.
+45 (a) Except as provided in G.S. 163-278.10A, the treasurer of each candidate and of each
+46 political committee shall file with the State Board under certification of the treasurer as true and
+47 correct to the best of the knowledge of that officer the following reports:
+48 …
+49 (2) 48-Hour Report. – A political committee, political party or affiliated party
+50 committee that receives a contribution or transfer of funds shall disclose
+51 within 48 hours of receipt a contribution or transfer of one two thousand
+Page 4 DRH10415-STe-33
+
+General Assembly Of North Carolina Session 2025
+1 dollars ($1,000) ($2,000) or more received before an election but after the
+2 period covered by the last report due before that election. The disclosure shall
+3 be by report to the State Board identifying the source and amount of the funds.
+4 The State Board shall specify the form and manner of making the report,
+5 including the reporting of in-kind contributions. The State Board shall
+6 increase the dollar amount of the reporting threshold effective each election
+7 cycle beginning the period from January 1 of an odd-numbered year through
+8 December 31 of the next even-numbered year based on the Consumer Price
+9 Index as provided in G.S. 163-278.13(b). The State Board shall set the revised
+10 threshold in October of the even-numbered year, publish the revised threshold
+11 in the North Carolina Register, and notify the Revisor of Statutes who shall
+12 adjust the dollar amount in this subdivision.
+13 …
+14 (a1) Subdivision (a)(2) of this section shall not apply to any candidate campaign
+15 committee, as defined by G.S. 163-278.38Z, in a primary election in which the candidate is
+16 unopposed on that ballot.
+17 …."
+18 SECTION 8.(b) G.S. 163-278.9A reads as rewritten:
+19 "§ 163-278.9A. Statements filed by referendum committees.
+20 (a) The treasurer of each referendum committee shall file under verification with the
+21 Board the following reports:
+22 …
+23 (3) 48-Hour Report. – A referendum committee that receives a contribution or
+24 transfer of funds shall disclose within 48 hours of receipt a contribution or
+25 transfer of one two thousand dollars ($1,000) ($2,000) or more received before
+26 a referendum but after the period covered by the last report due before that
+27 referendum. The disclosure shall be by report to the State Board of Elections
+28 identifying the source and amount of such funds. The State Board of Elections
+29 shall specify the form and manner of making the report, including the
+30 reporting of in-kind contributions. The State Board shall increase the dollar
+31 amount of the reporting threshold effective each election cycle beginning the
+32 period from January 1 of an odd-numbered year through December 31 of the
+33 next even-numbered year based on the Consumer Price Index as provided in
+34 G.S. 163-278.13(b). The State Board shall set the revised threshold in October
+35 of the even-numbered year, publish the revised threshold in the North Carolina
+36 Register, and notify the Revisor of Statutes who shall adjust the dollar amount
+37 in this subdivision.
+38 …
+39 (a1) Subdivision (a)(3) of this section shall not apply to any candidate campaign
+40 committee, as defined by G.S. 163-278.38Z, in a primary election in which the candidate is
+41 unopposed on that ballot.
+42 …."
+43 SECTION 8.(c) No earlier than October 1, 2025, the State Board of Elections shall
+44 adjust the thresholds imposed by G.S. 163-278.9(a)(2) and G.S. 163-278.9A(a)(3), as enacted by
+45 this section, effective for the election cycle beginning January 1, 2027.
+46 SECTION 9. Except as otherwise provided, this act is effective when it becomes law
+47 and applies to elections held on or after that date.
+DRH10415-STe-33 Page 5
+
+[DELETED:  D E ( R  A T M V C T E A L I W P A]
+[DELETED:  S  D m a t p i a P f I o i t P f c w t P f I d f a p P c w a s T a u s b c a I t e o a m d b t e o c a a h c t h c s c I t d b t h c a t T I]
+[DELETED:  S  P P d t t c b o e a q a p T B H I T e o i t d o t d T c o t c b m b c a b i u h b c p t t t t p c i s b]
+[DELETED:  S  D N F A a b r b t c b o t M T T F C m c t d C d a d t c b c w T v d n s t v c a r b T T i o t t p w t c o t a b i E 4 t r a c o t o f s d o]
+[DELETED:  S  P t r o i c T S B s S ( o t s s n a t a c c T 4 s t f a m o m t r i t S ( o t s s n a t a c c]

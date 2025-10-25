@@ -1,0 +1,644 @@
+Title: HOUSE BILL 936
+Official Title: HOUSE BILL 936
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Robocall Solicitation Modifications. (Public)
+Sponsors: Representative Greene.
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Commerce and Economic Development, if favorable, Judiciary 3, if favorable,
+Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY THE LAWS GOVERNING TELEPHONE SOLICITATIONS TO
+3 ADDRESS ROBOCALLS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 4 of Chapter 75 of the General Statutes reads as rewritten:
+6 "Article 4.
+7 "Telephone Solicitations.
+8 "§ 75-100. Findings.
+9 …
+10 "§ 75-101. Definitions.
+11 The following definitions apply in this Article:
+12 (1) Affiliate. – A business establishment, business, or other legal entity that
+13 wholly or substantially owns, is wholly or substantially owned by, or is under
+14 common ownership with a telephone solicitor.
+15 (2) Automatic dialing and recorded message player. – Any automatic equipment
+16 that incorporates a storage capability of telephone numbers to be called or a
+17 random or a sequential number generator capable of producing numbers to be
+18 called that, working alone or in conjunction with other equipment,
+19 disseminates a prerecorded message to the telephone number called.
+20 (3) "Do Not Call" Registry. – The registry created and maintained by the Federal
+21 Trade Commission pursuant to the Telemarketing Sales Rule. It also means
+22 any other telemarketing registry created by the federal government, including
+23 the Federal Communications Commission. It also means any registry created
+24 by the Attorney General pursuant to G.S. 75-102(n).
+25 (4) Doing business in this State. – To make or cause to be made any telephone
+26 solicitation to North Carolina telephone subscribers, whether the telephone
+27 solicitations are made from a location inside North Carolina or outside North
+28 Carolina.
+29 (5) Established business relationship. – A relationship between a seller and a
+30 consumer based on:
+31 a. The consumer's purchase, rental, or lease of the seller's goods or
+32 services or a financial transaction between the consumer and the seller
+33 or one or more of its affiliates within the 18 months immediately
+34 preceding the date of a telephone solicitation; or
+*H936-v-1*
+General Assembly Of North Carolina Session 2025
+1 b. The consumer's inquiry or application regarding a product or service
+2 offered by the seller within the three months immediately preceding
+3 the date of a telephone solicitation.
+4 (6) Express invitation or permission. – Any invitation or permission that is
+5 registered by the telephone subscriber on an independent form and that
+6 contains the telephone number to which calls can be placed and the signature
+7 of the telephone subscriber. The form may be completed and signed
+8 electronically.
+9 (7) Person. – Any individual, business establishment, business, or other legal
+10 entity.
+11 (7a) Prior express written consent. – An agreement, in writing, bearing the
+12 signature of the telephone subscriber that clearly authorizes the telephone
+13 solicitor to deliver or cause to be delivered to the telephone subscriber
+14 telephone solicitations, and the telephone number to which the signatory
+15 authorizes such telephone solicitations to be delivered. Prior express written
+16 consent for a call or text (i) shall be to a single person; (ii) may be obtained
+17 only after clear and conspicuous disclosure that the telephone subscriber will
+18 receive future calls on behalf of a specific seller; (iii) is effective if the form
+19 of signature is recognized as a valid signature under applicable federal or State
+20 law; and (iv) is nontransferrable.
+21 (7b) Robocall. – A voice communication that delivers artificial, artificially
+22 generated, or prerecorded voice messages, in whole or in part, including, but
+23 not limited to, telephone calls utilizing soundboard technology and ringless
+24 voicemail messages. "Robocall" also includes spam and scam text messages
+25 received by a telephone subscriber through a messaging application.
+26 (7c) Robocaller. – Any person doing business in this State that, directly or through
+27 others, makes, attempts to make, causes to be made, or otherwise provides
+28 substantial assistance or support for making robocalls.
+29 (8) Telemarketing Sales Rule. – The federal regulation promulgated by the
+30 Federal Trade Commission, 16 C.F.R. Part 310 (January 29, 2003 Edition), as
+31 amended, to implement the Telemarketing and Consumer Fraud and Abuse
+32 Prevention Act, 15 U.S.C. §§ 6101-6108, as amended.
+33 (9) Telephone solicitation. – A voice or text communication, whether
+34 prerecorded, live, or a facsimile, over a telephone line or wireless telephone
+35 network or via a commercial mobile radio service that is made by a telephone
+36 solicitor to a telephone subscriber for the purpose of soliciting or encouraging
+37 the purchase or rental of, or investment in, property, goods, or services;
+38 obtaining or providing information that will or may be used for that purpose;
+39 soliciting or encouraging a telephone subscriber's participation in any contest,
+40 sweepstakes, raffle, or lottery, whether legal or illegal; or obtaining a
+41 charitable donation. "Telephone solicitation" also includes those transactions
+42 that are defined as "telemarketing" under the Telemarketing Sales Rule.
+43 (10) Telephone solicitor. – Any individual, business establishment, business, or
+44 other legal entity person doing business in this State that, directly or through
+45 salespersons or agents, makes or makes, attempts to make make, causes to be
+46 made, or otherwise provides substantial assistance or support for making
+47 telephone solicitations or causes telephone solicitations to be made.
+48 solicitations. "Telephone solicitor" also includes any party defined as a
+49 "telemarketer" under the Telemarketing Sales Rule.
+50 (11) Telephone subscriber. – An individual who subscribes to a residential
+51 telephone service from a local exchange company, a competing local provider
+Page 2 House Bill 936-First Edition
+General Assembly Of North Carolina Session 2025
+1 certified to do business in North Carolina, or a wireless telephone company;
+2 or the individuals living or residing with that individual.
+3 (12) Unsolicited telephone call. – A voice or text communication, whether
+4 prerecorded, live, or a facsimile, over a telephone line or wireless telephone
+5 network or via a commercial mobile radio service that is made by a person to
+6 a telephone subscriber without prior express invitation or permission.
+7 "§ 75-102. Restrictions on telephone solicitations.
+8 …
+9 (f) No telephone solicitor shall make a telephone solicitation solicitation, and no robocall
+10 may be made, before 8:00 A.M. or after 9:00 P.M.
+11 …
+12 (h) No telephone solicitor or robocaller shall engage in threats, intimidation, or the use
+13 of profane or obscene language.
+14 (i) No telephone solicitor shall cause misleading information to be transmitted to users
+15 of caller identification technologies or otherwise block or misrepresent the origin of the telephone
+16 solicitation. No provider of telephone caller identification services shall be held liable for
+17 violations of this subsection committed by other individuals or entities. It is not a violation of
+18 this subsection for a telephone solicitor to utilize the name and number of the entity the
+19 solicitation is being made on behalf of rather than the name and number of the telephone solicitor.
+20 …
+21 (k) Nothing in this section prohibits a telephone solicitor from contacting by
+22 nontelephonic notice a telephone subscriber whose telephone number appears in the "Do Not
+23 Call" Registry to obtain the telephone subscriber's express invitation or permission prior express
+24 written consent allowing the telephone solicitor to make telephone solicitations to the telephone
+25 subscriber. A telephone solicitor shall not contact a telephone subscriber by telephone to obtain
+26 this express invitation or permission.prior express written consent.
+27 (l) Nothing in this section prohibits a telephone solicitor from advertising in a general
+28 medium or contacting by nontelephonic notice a telephone subscriber whose telephone number
+29 appears in the "Do Not Call" Registry to encourage the telephone subscriber to initiate telephone
+30 calls to the telephone solicitor. A telephone solicitor shall not contact a telephone subscriber by
+31 telephone to obtain this express invitation or permission.prior express written consent.
+32 …
+33 "§ 75-103. Limited exceptions.
+34 (a) G.S. 75-102(a) does not apply to any of the following telephone solicitations that are
+35 made:
+36 (1) To any telephone subscriber with the telephone subscriber's prior express
+37 invitation or permission.prior express written consent.
+38 …
+39 (e) In any dispute regarding whether a telephone subscriber has provided an express
+40 invitation or permission prior express written consent under subsection (a) of this section, the
+41 telephone solicitor has the burden of proving that the telephone subscriber has provided this
+42 permission consent by producing the original document, a facsimile document, or an electronic
+43 form, signed by the telephone subscriber, or other authentication that evidences permission.
+44 consent. A telephone subscriber may subsequently retract express invitation or permission prior
+45 express written consent by indicating a desire not to receive further telephone solicitations under
+46 G.S. 75-102(b).
+47 "§ 75-104. Restrictions on use of automatic dialing and recorded message players.robocalls.
+48 (a) Except as provided in this section, no person may use an automatic dialing and
+49 recorded message player to make an unsolicited telephone call.make a robocall to a telephone
+50 number.
+House Bill 936-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (b) Notwithstanding subsection (a) of this section, a person may use an automatic dialing
+2 and recorded message player to make an unsolicited telephone call make a robocall only under
+3 one or more of the following circumstances:
+4 (1) All of the following are satisfied:
+5 a. The person making the call robocall is any of the following:
+6 1. A tax-exempt charitable or civic organization.
+7 2. A political party or political candidate.
+8 3. A governmental official.
+9 4. An opinion polling organization, radio station, television
+10 station, cable television company, or broadcast rating service
+11 conducting a public opinion poll.
+12 b. No part of the call robocall is used to make a telephone solicitation.
+13 c. The person making the call robocall clearly identifies the person's
+14 name and contact information and the nature of the unsolicited
+15 telephone call.robocall.
+16 (2) Prior to the playing of the recorded message, robocall, a live operator complies
+17 with G.S. 75-102(c), states the nature and length in minutes of the recorded
+18 message, and asks for and receives prior approval to play the recorded
+19 message from the person receiving the call.
+20 (3) The unsolicited telephone call robocall is in connection with an existing debt
+21 or contract for which payment or performance has not been completed at the
+22 time of the unsolicited telephone call, robocall, and both of the following are
+23 satisfied:
+24 a. No part of the call robocall is used to make a telephone solicitation.
+25 b. The person making the call robocall clearly identifies the person's
+26 name and contact information and the nature of the unsolicited
+27 telephone call.robocall.
+28 (4) The unsolicited telephone call robocall is placed by a person with whom the
+29 telephone subscriber has made an appointment, provided that the call robocall
+30 is conveying information only about the appointment, or by a utility, telephone
+31 company, cable television company, satellite television company, or similar
+32 entity for the sole purpose of conveying information or news about network
+33 outages, repairs or service interruptions, and confirmation calls robocalls
+34 related to restoration of service, and both of the following are satisfied:
+35 a. No part of the call robocall is used to make a telephone solicitation.
+36 b. The person making the call robocall clearly identifies the person's
+37 name and contact information and the nature of the unsolicited
+38 telephone call.robocall.
+39 (5) The person plays the recorded message robocall in order to comply with
+40 section 16 C.F.R. Part 310.4(b)(4) of the Telemarketing Sales Rule.
+41 (6) The unsolicited telephone call robocall is placed by, or on behalf of, a health
+42 insurer as defined in G.S. 58-51-115(a)(2) from whom the telephone
+43 subscriber or other covered family member of the health insurer receives
+44 health care coverage or the administration of such coverage, provided that the
+45 call robocall is conveying information related to the telephone subscriber or
+46 family member's health care, preventive services, medication or other covered
+47 benefits, and both of the following are satisfied:
+48 a. No part of the call robocall is used to make a telephone solicitation.
+49 b. The person making the call robocall clearly identifies the person's
+50 name and contact information and the nature of the unsolicited
+51 telephone call.robocall.
+Page 4 House Bill 936-First Edition
+General Assembly Of North Carolina Session 2025
+1 (7) No part of the call robocall is used to make a telephone solicitation, the person
+2 making the call robocall clearly identifies the person's contact information and
+3 the nature of the unsolicited telephone call, robocall, and the sole purpose of
+4 the unsolicited telephone call robocall is to protect the public health, safety,
+5 or welfare, by informing the telephone subscriber of any of the following:
+6 a. That the telephone subscriber has purchased a product that is subject
+7 to a recall by the product's manufacturer, distributor or retailer, or by
+8 the federal Consumer Product Safety Commission or another
+9 government agency or department with legal authority to recall the
+10 product which is the subject of the call, robocall, due to safety or health
+11 concerns, provided that (i) there is a reasonable basis to believe that
+12 the telephone subscriber has purchased the product, and (ii) the
+13 message complies with any requirements imposed by any government
+14 agency instituting the recall.
+15 b. That the telephone subscriber may have received a prescription or
+16 over-the-counter medication that is subject to a recall by the product's
+17 manufacturer, distributor or retailer, or by the federal Food and Drug
+18 Administration or another government agency or department with
+19 legal authority to recall the product which is the subject of the call,
+20 robocall, due to safety or health concerns, provided that (i) the call
+21 robocall and its message comply with the requirements of the Health
+22 Insurance Portability and Accountability Act (P.L. 104-191) (HIPAA)
+23 and any corresponding regulations pertaining to privacy, (ii) there is a
+24 reasonable basis to believe that the telephone subscriber has purchased
+25 or received the medication, and (iii) the message complies with any
+26 requirements imposed by the government agency or product
+27 manufacturer, distributor, or retailer instituting the recall.
+28 c. That the telephone subscriber has not picked up a filled prescription
+29 drug for which a valid prescription is on file with a pharmacy licensed
+30 pursuant to G.S. 90-85.21 and the telephone subscriber requested that
+31 the prescription be filled, provided that the call robocall and its
+32 message comply with the requirements of the Health Insurance
+33 Portability and Accountability Act (P.L. 104-191) (HIPAA) and any
+34 corresponding regulations pertaining to privacy.
+35 (8) The call robocall is generated from a court proceeding notification system
+36 established by the Administrative Office of the Courts.
+37 "§ 75-104A. Restrictions on spoofing and impersonating government officials.
+38 (a) No telephone solicitor or robocaller shall cause misleading information to be
+39 transmitted to users of caller identification technologies or otherwise block or misrepresent the
+40 origin of a telephone solicitation or robocall. No provider of telephone caller identification
+41 services shall be held liable for violations of this subsection committed by other individuals or
+42 entities. It is not a violation of this subsection for a telephone solicitor to utilize the name and
+43 number of the entity the solicitation is being made on behalf of rather than the name and number
+44 of the telephone solicitor.
+45 (b) No telephone solicitor or robocaller shall impersonate any federal, State, or local
+46 government official, law enforcement professional, or government agency in order to defraud,
+47 confuse, or financially or otherwise injure the telephone subscriber or in order to obtain personal
+48 information from the telephone subscriber that may be used in a fraudulent or unlawful manner.
+49 "§ 75-105. Enforcement.
+50 (a) The Attorney General may investigate any complaints received alleging violation of
+51 this Article. If the Attorney General finds that there has been a violation of this Article, the
+House Bill 936-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 Attorney General may bring an action to impose civil penalties and to seek any other appropriate
+2 relief pursuant to this Chapter, including equitable relief to restrain the violation. If the Attorney
+3 General brings an action on behalf of telephone subscribers pursuant to subsection (b) of this
+4 section, the Attorney General may not seek treble damages on behalf of telephone subscribers
+5 pursuant to G.S. 75-16. Actions for civil penalties under this section shall be consistent with the
+6 provisions of this Chapter except that the penalty imposed for a violation of this Article shall be
+7 either of the following:
+8 (1) Five hundred dollars ($500.00) for the first violation, one thousand dollars
+9 ($1,000) for the second violation, and five thousand dollars ($5,000) for the
+10 third and any other violation that occurs within two years of the first violation.
+11 (2) One hundred dollars ($100.00) for each violation within two years of the first
+12 violation, if the solicitor or robocaller can show that the violations are the
+13 result of a mistake and the telephone solicitor or robocaller either made the
+14 telephone solicitation or robocall under G.S. 75-103(a)(1), (2), (3), (4), and
+15 (5), or can show that the telephone solicitor complied with G.S. 75-102(d).
+16 This subsection does not apply if the telephone solicitor or robocaller violated
+17 G.S. 75-104A.
+18 If a single call violates multiple provisions of this Article, penalties shall be assessed for each
+19 violation of the provisions of this Article caused by that call.
+20 (a1) There is a rebuttable presumption that a telephone subscriber with a North Carolina
+21 area code is a North Carolina resident or in North Carolina at the time a telephone solicitation or
+22 robocall is made.
+23 (b) A telephone subscriber who has received a robocall or a telephone solicitation from
+24 or on behalf of a telephone solicitor or robocaller in violation of this Article may bring any of the
+25 following actions in civil court:
+26 (1) An action to enjoin further violations of this Article by the telephone
+27 solicitor.solicitor or robocaller.
+28 (2) An action to recover five hundred dollars ($500.00) for the first violation, one
+29 thousand dollars ($1,000) for the second violation, and five thousand dollars
+30 ($5,000) for the third and any other violation that occurs within two years of
+31 the first violation.
+32 If a single call violates multiple provisions of this Article, penalties shall be assessed for each
+33 violation of the provisions of this Article caused by that call.
+34 (c) No action may be brought under subsection (b) of this section if the violations are a
+35 result of mistake and the telephone solicitor either made the telephone solicitation under
+36 G.S. 75-103(a)(1), (2), (3), (4), and (5), or can show that the telephone solicitor complied with
+37 G.S. 75-102(d). An action may be brought under subsection (b) of this section if the telephone
+38 solicitor or robocaller violated G.S. 75-104A.
+39 …."
+40 SECTION 2. G.S. 75-115(3) reads as rewritten:
+41 "(3) Unsolicited advertisement. – Any material advertising the commercial availability or
+42 quality of any property, goods, or services that is transmitted to any person or entity without that
+43 person's or entity's prior express invitation or permission. prior express written consent. Prior
+44 express invitation or permission may be obtained for a specific or unlimited number of
+45 advertisements and may be obtained for a specific or unlimited period of time.written consent
+46 may be obtained in accordance with G.S. 75-101."
+47 SECTION 3. This act becomes effective October 1, 2025, and applies, for causes of
+48 action, to telephone solicitations in violation of this act occurring on or after that date.
+Page 6 House Bill 936-First Edition
+[DELETED:  1 R ( R C A A A T M T L G T S T A T S " " " … " T ( A – A b e b o o l e t w c ( A t r c t w a o i c w o e d ( " T a t b ( D s s C ( E b r – A r b a s a c a T c p r o l o t s g o s o o o m o i a w t 1 m i p]
+[DELETED:  S  H b T o t ( E i o p – A i o p t i r b t t s o a i f a t c o t t s T f m b c a s e ( P – A i b e b o l e ( P e w c – A a i w b t s o t s t c a t t s t d o c t b d t t t s t s a t t n t w t s a c o r o l ( R – A v c t d a a g n v r ( R o s ( T S R – T f r p b t F a P ( T s – A v o t c w p n s t p o r o o i i p g o s o s s r o l w l o i o o a c t ( T o s m o o p s a o s f m t s o c t s t b m s " s a i a p d a a " ( T s – A i w s t a r t]
+[DELETED:  S  P c o ( U t c – A v o t c w p n a " … ( N m … ( N o ( N o s N p o t c i s s b h l f v t s f a t s t u t n a n o t e t s … ( N i t s p a t s f c b n C w s t ( N m a c t … " ( G m ( T a t s w t t s p e i … ( I h i t p f p c e G " ( E a p i t s n p m u a a d a r n]
+[DELETED:  S  H ( N a o ( A a T 1 A 2 A 3 A 4 A o p o r s t s c b N c T p m t c r c i t p n a c i a t n o t u t ( P w m a a f a r p a t p t r m ( T o t s a N b T p m t c r c i t p n a c i a t n o t u t ( T t i c e o r o s i a c c r r a N b T p m t c r c i t p n a c i a t n o t u t ( T p p t r m r i o t c w s ( T i a d i G f w t t s o o c f m o t h i r h c f b a N b T p m t c r c i t p n a c i a t n o t u t]
+[DELETED:  S  P ( N m t t o a T t t f C P S C o a g p c t t s h p t p a ( t m a b T t t s h r a p o o m A o a g a o d w l r r I a r o r i b t g a o p m c T d p t p b f p t t c r a i m c w t r o t H I P c ( T e " ( N t s o r s c m i t b t o o a t s o r N p o t c i s e n o ( N S g c i " ( T t]
+[DELETED:  S  H A r G s p p e ( F ( t ( O v r t ( T G I v ( T a r ( A o f ( A a t e f v o t A b t t s ( A t ( t I v ( N r o m a t t s e m t t s u G G s … S " U q p e i o p m b o f a s o u n o a m S a]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 936
+Short Title: Robocall Solicitation Modifications. (Public)
+Sponsors: Representative Greene.
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Commerce and Economic Development, if favorable, Judiciary 3, if favorable,
+Rules, Calendar, and Operations of the House
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MODIFY THE LAWS GOVERNING TELEPHONE SOLICITATIONS TO
+3 ADDRESS ROBOCALLS.
+4 The General Assembly of North Carolina enacts:
+5 SECTION 1. Article 4 of Chapter 75 of the General Statutes reads as rewritten:
+6 "Article 4.
+7 "Telephone Solicitations.
+8 "§ 75-100. Findings.
+9 …
+10 "§ 75-101. Definitions.
+11 The following definitions apply in this Article:
+12 (1) Affiliate. – A business establishment, business, or other legal entity that
+13 wholly or substantially owns, is wholly or substantially owned by, or is under
+14 common ownership with a telephone solicitor.
+15 (2) Automatic dialing and recorded message player. – Any automatic equipment
+16 that incorporates a storage capability of telephone numbers to be called or a
+17 random or a sequential number generator capable of producing numbers to be
+18 called that, working alone or in conjunction with other equipment,
+19 disseminates a prerecorded message to the telephone number called.
+20 (3) "Do Not Call" Registry. – The registry created and maintained by the Federal
+21 Trade Commission pursuant to the Telemarketing Sales Rule. It also means
+22 any other telemarketing registry created by the federal government, including
+23 the Federal Communications Commission. It also means any registry created
+24 by the Attorney General pursuant to G.S. 75-102(n).
+25 (4) Doing business in this State. – To make or cause to be made any telephone
+26 solicitation to North Carolina telephone subscribers, whether the telephone
+27 solicitations are made from a location inside North Carolina or outside North
+28 Carolina.
+29 (5) Established business relationship. – A relationship between a seller and a
+30 consumer based on:
+31 a. The consumer's purchase, rental, or lease of the seller's goods or
+32 services or a financial transaction between the consumer and the seller
+33 or one or more of its affiliates within the 18 months immediately
+34 preceding the date of a telephone solicitation; or
+*H936-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 b. The consumer's inquiry or application regarding a product or service
+2 offered by the seller within the three months immediately preceding
+3 the date of a telephone solicitation.
+4 (6) Express invitation or permission. – Any invitation or permission that is
+5 registered by the telephone subscriber on an independent form and that
+6 contains the telephone number to which calls can be placed and the signature
+7 of the telephone subscriber. The form may be completed and signed
+8 electronically.
+9 (7) Person. – Any individual, business establishment, business, or other legal
+10 entity.
+11 (7a) Prior express written consent. – An agreement, in writing, bearing the
+12 signature of the telephone subscriber that clearly authorizes the telephone
+13 solicitor to deliver or cause to be delivered to the telephone subscriber
+14 telephone solicitations, and the telephone number to which the signatory
+15 authorizes such telephone solicitations to be delivered. Prior express written
+16 consent for a call or text (i) shall be to a single person; (ii) may be obtained
+17 only after clear and conspicuous disclosure that the telephone subscriber will
+18 receive future calls on behalf of a specific seller; (iii) is effective if the form
+19 of signature is recognized as a valid signature under applicable federal or State
+20 law; and (iv) is nontransferrable.
+21 (7b) Robocall. – A voice communication that delivers artificial, artificially
+22 generated, or prerecorded voice messages, in whole or in part, including, but
+23 not limited to, telephone calls utilizing soundboard technology and ringless
+24 voicemail messages. "Robocall" also includes spam and scam text messages
+25 received by a telephone subscriber through a messaging application.
+26 (7c) Robocaller. – Any person doing business in this State that, directly or through
+27 others, makes, attempts to make, causes to be made, or otherwise provides
+28 substantial assistance or support for making robocalls.
+29 (8) Telemarketing Sales Rule. – The federal regulation promulgated by the
+30 Federal Trade Commission, 16 C.F.R. Part 310 (January 29, 2003 Edition), as
+31 amended, to implement the Telemarketing and Consumer Fraud and Abuse
+32 Prevention Act, 15 U.S.C. §§ 6101-6108, as amended.
+33 (9) Telephone solicitation. – A voice or text communication, whether
+34 prerecorded, live, or a facsimile, over a telephone line or wireless telephone
+35 network or via a commercial mobile radio service that is made by a telephone
+36 solicitor to a telephone subscriber for the purpose of soliciting or encouraging
+37 the purchase or rental of, or investment in, property, goods, or services;
+38 obtaining or providing information that will or may be used for that purpose;
+39 soliciting or encouraging a telephone subscriber's participation in any contest,
+40 sweepstakes, raffle, or lottery, whether legal or illegal; or obtaining a
+41 charitable donation. "Telephone solicitation" also includes those transactions
+42 that are defined as "telemarketing" under the Telemarketing Sales Rule.
+43 (10) Telephone solicitor. – Any individual, business establishment, business, or
+44 other legal entity person doing business in this State that, directly or through
+45 salespersons or agents, makes or makes, attempts to make make, causes to be
+46 made, or otherwise provides substantial assistance or support for making
+47 telephone solicitations or causes telephone solicitations to be made.
+48 solicitations. "Telephone solicitor" also includes any party defined as a
+49 "telemarketer" under the Telemarketing Sales Rule.
+50 (11) Telephone subscriber. – An individual who subscribes to a residential
+51 telephone service from a local exchange company, a competing local provider
+Page 2 House Bill 936-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 certified to do business in North Carolina, or a wireless telephone company;
+2 or the individuals living or residing with that individual.
+3 (12) Unsolicited telephone call. – A voice or text communication, whether
+4 prerecorded, live, or a facsimile, over a telephone line or wireless telephone
+5 network or via a commercial mobile radio service that is made by a person to
+6 a telephone subscriber without prior express invitation or permission.
+7 "§ 75-102. Restrictions on telephone solicitations.
+8 …
+9 (f) No telephone solicitor shall make a telephone solicitation solicitation, and no robocall
+10 may be made, before 8:00 A.M. or after 9:00 P.M.
+11 …
+12 (h) No telephone solicitor or robocaller shall engage in threats, intimidation, or the use
+13 of profane or obscene language.
+14 (i) No telephone solicitor shall cause misleading information to be transmitted to users
+15 of caller identification technologies or otherwise block or misrepresent the origin of the telephone
+16 solicitation. No provider of telephone caller identification services shall be held liable for
+17 violations of this subsection committed by other individuals or entities. It is not a violation of
+18 this subsection for a telephone solicitor to utilize the name and number of the entity the
+19 solicitation is being made on behalf of rather than the name and number of the telephone solicitor.
+20 …
+21 (k) Nothing in this section prohibits a telephone solicitor from contacting by
+22 nontelephonic notice a telephone subscriber whose telephone number appears in the "Do Not
+23 Call" Registry to obtain the telephone subscriber's express invitation or permission prior express
+24 written consent allowing the telephone solicitor to make telephone solicitations to the telephone
+25 subscriber. A telephone solicitor shall not contact a telephone subscriber by telephone to obtain
+26 this express invitation or permission.prior express written consent.
+27 (l) Nothing in this section prohibits a telephone solicitor from advertising in a general
+28 medium or contacting by nontelephonic notice a telephone subscriber whose telephone number
+29 appears in the "Do Not Call" Registry to encourage the telephone subscriber to initiate telephone
+30 calls to the telephone solicitor. A telephone solicitor shall not contact a telephone subscriber by
+31 telephone to obtain this express invitation or permission.prior express written consent.
+32 …
+33 "§ 75-103. Limited exceptions.
+34 (a) G.S. 75-102(a) does not apply to any of the following telephone solicitations that are
+35 made:
+36 (1) To any telephone subscriber with the telephone subscriber's prior express
+37 invitation or permission.prior express written consent.
+38 …
+39 (e) In any dispute regarding whether a telephone subscriber has provided an express
+40 invitation or permission prior express written consent under subsection (a) of this section, the
+41 telephone solicitor has the burden of proving that the telephone subscriber has provided this
+42 permission consent by producing the original document, a facsimile document, or an electronic
+43 form, signed by the telephone subscriber, or other authentication that evidences permission.
+44 consent. A telephone subscriber may subsequently retract express invitation or permission prior
+45 express written consent by indicating a desire not to receive further telephone solicitations under
+46 G.S. 75-102(b).
+47 "§ 75-104. Restrictions on use of automatic dialing and recorded message players.robocalls.
+48 (a) Except as provided in this section, no person may use an automatic dialing and
+49 recorded message player to make an unsolicited telephone call.make a robocall to a telephone
+50 number.
+House Bill 936-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (b) Notwithstanding subsection (a) of this section, a person may use an automatic dialing
+2 and recorded message player to make an unsolicited telephone call make a robocall only under
+3 one or more of the following circumstances:
+4 (1) All of the following are satisfied:
+5 a. The person making the call robocall is any of the following:
+6 1. A tax-exempt charitable or civic organization.
+7 2. A political party or political candidate.
+8 3. A governmental official.
+9 4. An opinion polling organization, radio station, television
+10 station, cable television company, or broadcast rating service
+11 conducting a public opinion poll.
+12 b. No part of the call robocall is used to make a telephone solicitation.
+13 c. The person making the call robocall clearly identifies the person's
+14 name and contact information and the nature of the unsolicited
+15 telephone call.robocall.
+16 (2) Prior to the playing of the recorded message, robocall, a live operator complies
+17 with G.S. 75-102(c), states the nature and length in minutes of the recorded
+18 message, and asks for and receives prior approval to play the recorded
+19 message from the person receiving the call.
+20 (3) The unsolicited telephone call robocall is in connection with an existing debt
+21 or contract for which payment or performance has not been completed at the
+22 time of the unsolicited telephone call, robocall, and both of the following are
+23 satisfied:
+24 a. No part of the call robocall is used to make a telephone solicitation.
+25 b. The person making the call robocall clearly identifies the person's
+26 name and contact information and the nature of the unsolicited
+27 telephone call.robocall.
+28 (4) The unsolicited telephone call robocall is placed by a person with whom the
+29 telephone subscriber has made an appointment, provided that the call robocall
+30 is conveying information only about the appointment, or by a utility, telephone
+31 company, cable television company, satellite television company, or similar
+32 entity for the sole purpose of conveying information or news about network
+33 outages, repairs or service interruptions, and confirmation calls robocalls
+34 related to restoration of service, and both of the following are satisfied:
+35 a. No part of the call robocall is used to make a telephone solicitation.
+36 b. The person making the call robocall clearly identifies the person's
+37 name and contact information and the nature of the unsolicited
+38 telephone call.robocall.
+39 (5) The person plays the recorded message robocall in order to comply with
+40 section 16 C.F.R. Part 310.4(b)(4) of the Telemarketing Sales Rule.
+41 (6) The unsolicited telephone call robocall is placed by, or on behalf of, a health
+42 insurer as defined in G.S. 58-51-115(a)(2) from whom the telephone
+43 subscriber or other covered family member of the health insurer receives
+44 health care coverage or the administration of such coverage, provided that the
+45 call robocall is conveying information related to the telephone subscriber or
+46 family member's health care, preventive services, medication or other covered
+47 benefits, and both of the following are satisfied:
+48 a. No part of the call robocall is used to make a telephone solicitation.
+49 b. The person making the call robocall clearly identifies the person's
+50 name and contact information and the nature of the unsolicited
+51 telephone call.robocall.
+Page 4 House Bill 936-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7) No part of the call robocall is used to make a telephone solicitation, the person
+2 making the call robocall clearly identifies the person's contact information and
+3 the nature of the unsolicited telephone call, robocall, and the sole purpose of
+4 the unsolicited telephone call robocall is to protect the public health, safety,
+5 or welfare, by informing the telephone subscriber of any of the following:
+6 a. That the telephone subscriber has purchased a product that is subject
+7 to a recall by the product's manufacturer, distributor or retailer, or by
+8 the federal Consumer Product Safety Commission or another
+9 government agency or department with legal authority to recall the
+10 product which is the subject of the call, robocall, due to safety or health
+11 concerns, provided that (i) there is a reasonable basis to believe that
+12 the telephone subscriber has purchased the product, and (ii) the
+13 message complies with any requirements imposed by any government
+14 agency instituting the recall.
+15 b. That the telephone subscriber may have received a prescription or
+16 over-the-counter medication that is subject to a recall by the product's
+17 manufacturer, distributor or retailer, or by the federal Food and Drug
+18 Administration or another government agency or department with
+19 legal authority to recall the product which is the subject of the call,
+20 robocall, due to safety or health concerns, provided that (i) the call
+21 robocall and its message comply with the requirements of the Health
+22 Insurance Portability and Accountability Act (P.L. 104-191) (HIPAA)
+23 and any corresponding regulations pertaining to privacy, (ii) there is a
+24 reasonable basis to believe that the telephone subscriber has purchased
+25 or received the medication, and (iii) the message complies with any
+26 requirements imposed by the government agency or product
+27 manufacturer, distributor, or retailer instituting the recall.
+28 c. That the telephone subscriber has not picked up a filled prescription
+29 drug for which a valid prescription is on file with a pharmacy licensed
+30 pursuant to G.S. 90-85.21 and the telephone subscriber requested that
+31 the prescription be filled, provided that the call robocall and its
+32 message comply with the requirements of the Health Insurance
+33 Portability and Accountability Act (P.L. 104-191) (HIPAA) and any
+34 corresponding regulations pertaining to privacy.
+35 (8) The call robocall is generated from a court proceeding notification system
+36 established by the Administrative Office of the Courts.
+37 "§ 75-104A. Restrictions on spoofing and impersonating government officials.
+38 (a) No telephone solicitor or robocaller shall cause misleading information to be
+39 transmitted to users of caller identification technologies or otherwise block or misrepresent the
+40 origin of a telephone solicitation or robocall. No provider of telephone caller identification
+41 services shall be held liable for violations of this subsection committed by other individuals or
+42 entities. It is not a violation of this subsection for a telephone solicitor to utilize the name and
+43 number of the entity the solicitation is being made on behalf of rather than the name and number
+44 of the telephone solicitor.
+45 (b) No telephone solicitor or robocaller shall impersonate any federal, State, or local
+46 government official, law enforcement professional, or government agency in order to defraud,
+47 confuse, or financially or otherwise injure the telephone subscriber or in order to obtain personal
+48 information from the telephone subscriber that may be used in a fraudulent or unlawful manner.
+49 "§ 75-105. Enforcement.
+50 (a) The Attorney General may investigate any complaints received alleging violation of
+51 this Article. If the Attorney General finds that there has been a violation of this Article, the
+House Bill 936-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 Attorney General may bring an action to impose civil penalties and to seek any other appropriate
+2 relief pursuant to this Chapter, including equitable relief to restrain the violation. If the Attorney
+3 General brings an action on behalf of telephone subscribers pursuant to subsection (b) of this
+4 section, the Attorney General may not seek treble damages on behalf of telephone subscribers
+5 pursuant to G.S. 75-16. Actions for civil penalties under this section shall be consistent with the
+6 provisions of this Chapter except that the penalty imposed for a violation of this Article shall be
+7 either of the following:
+8 (1) Five hundred dollars ($500.00) for the first violation, one thousand dollars
+9 ($1,000) for the second violation, and five thousand dollars ($5,000) for the
+10 third and any other violation that occurs within two years of the first violation.
+11 (2) One hundred dollars ($100.00) for each violation within two years of the first
+12 violation, if the solicitor or robocaller can show that the violations are the
+13 result of a mistake and the telephone solicitor or robocaller either made the
+14 telephone solicitation or robocall under G.S. 75-103(a)(1), (2), (3), (4), and
+15 (5), or can show that the telephone solicitor complied with G.S. 75-102(d).
+16 This subsection does not apply if the telephone solicitor or robocaller violated
+17 G.S. 75-104A.
+18 If a single call violates multiple provisions of this Article, penalties shall be assessed for each
+19 violation of the provisions of this Article caused by that call.
+20 (a1) There is a rebuttable presumption that a telephone subscriber with a North Carolina
+21 area code is a North Carolina resident or in North Carolina at the time a telephone solicitation or
+22 robocall is made.
+23 (b) A telephone subscriber who has received a robocall or a telephone solicitation from
+24 or on behalf of a telephone solicitor or robocaller in violation of this Article may bring any of the
+25 following actions in civil court:
+26 (1) An action to enjoin further violations of this Article by the telephone
+27 solicitor.solicitor or robocaller.
+28 (2) An action to recover five hundred dollars ($500.00) for the first violation, one
+29 thousand dollars ($1,000) for the second violation, and five thousand dollars
+30 ($5,000) for the third and any other violation that occurs within two years of
+31 the first violation.
+32 If a single call violates multiple provisions of this Article, penalties shall be assessed for each
+33 violation of the provisions of this Article caused by that call.
+34 (c) No action may be brought under subsection (b) of this section if the violations are a
+35 result of mistake and the telephone solicitor either made the telephone solicitation under
+36 G.S. 75-103(a)(1), (2), (3), (4), and (5), or can show that the telephone solicitor complied with
+37 G.S. 75-102(d). An action may be brought under subsection (b) of this section if the telephone
+38 solicitor or robocaller violated G.S. 75-104A.
+39 …."
+40 SECTION 2. G.S. 75-115(3) reads as rewritten:
+41 "(3) Unsolicited advertisement. – Any material advertising the commercial availability or
+42 quality of any property, goods, or services that is transmitted to any person or entity without that
+43 person's or entity's prior express invitation or permission. prior express written consent. Prior
+44 express invitation or permission may be obtained for a specific or unlimited number of
+45 advertisements and may be obtained for a specific or unlimited period of time.written consent
+46 may be obtained in accordance with G.S. 75-101."
+47 SECTION 3. This act becomes effective October 1, 2025, and applies, for causes of
+48 action, to telephone solicitations in violation of this act occurring on or after that date.
+Page 6 House Bill 936-First Edition
+
+[DELETED:  1 R ( R C A A A T M T L G T S T A T S " " " … " T ( A – A b e b o o l e t w c ( A t r c t w a o i c w o e d ( " T a t b ( D s s C ( E b r – A r b a s a c a T c p r o l o t s g o s o o o m o i a w t 1 m i p]
+[DELETED:  S  H b T o t ( E i o p – A i o p t i r b t t s o a i f a t c o t t s T f m b c a s e ( P – A i b e b o l e ( P e w c – A a i w b t s o t s t c a t t s t d o c t b d t t t s t s a t t n t w t s a c o r o l ( R – A v c t d a a g n v r ( R o s ( T S R – T f r p b t F a P ( T s – A v o t c w p n s t p o r o o i i p g o s o s s r o l w l o i o o a c t ( T o s m o o p s a o s f m t s o c t s t b m s " s a i a p d a a " ( T s – A i w s t a r t]
+[DELETED:  S  P c o ( U t c – A v o t c w p n a " … ( N m … ( N o ( N o s N p o t c i s s b h l f v t s f a t s t u t n a n o t e t s … ( N i t s p a t s f c b n C w s t ( N m a c t … " ( G m ( T a t s w t t s p e i … ( I h i t p f p c e G " ( E a p i t s n p m u a a d a r n]
+[DELETED:  S  H ( N a o ( A a T 1 A 2 A 3 A 4 A o p o r s t s c b N c T p m t c r c i t p n a c i a t n o t u t ( P w m a a f a r p a t p t r m ( T o t s a N b T p m t c r c i t p n a c i a t n o t u t ( T t i c e o r o s i a c c r r a N b T p m t c r c i t p n a c i a t n o t u t ( T p p t r m r i o t c w s ( T i a d i G f w t t s o o c f m o t h i r h c f b a N b T p m t c r c i t p n a c i a t n o t u t]
+[DELETED:  S  P ( N m t t o a T t t f C P S C o a g p c t t s h p t p a ( t m a b T t t s h r a p o o m A o a g a o d w l r r I a r o r i b t g a o p m c T d p t p b f p t t c r a i m c w t r o t H I P c ( T e " ( N t s o r s c m i t b t o o a t s o r N p o t c i s e n o ( N S g c i " ( T t]
+[DELETED:  S  H A r G s p p e ( F ( t ( O v r t ( T G I v ( T a r ( A o f ( A a t e f v o t A b t t s ( A t ( t I v ( N r o m a t t s e m t t s u G G s … S " U q p e i o p m b o f a s o u n o a m S a]

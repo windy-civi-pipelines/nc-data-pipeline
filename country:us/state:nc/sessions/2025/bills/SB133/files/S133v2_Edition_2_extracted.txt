@@ -1,0 +1,550 @@
+Title: SENATE BILL 133
+Official Title: SENATE BILL 133
+Number of Sections: 1
+Source: versions - Edition 2
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+House Committee Substitute Favorable 6/10/25
+Short Title: NCCCS LMS/NCLDS. (Public)
+Sponsors:
+Referred to:
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE FOR THE STATE BOARD OF COMMUNITY COLLEGES TO
+3 SOLICIT A LEARNING MANAGEMENT SYSTEM FOR ALL COMMUNITY
+4 COLLEGES, TO PROVIDE AN EXEMPTION FROM THE DEPARTMENT OF
+5 INFORMATION TECHNOLOGY FOR THE COMMUNITY COLLEGES SYSTEM
+6 OFFICE, AND TO MAKE VARIOUS CHANGES TO THE GENERAL STATUTES
+7 RELATED TO THE NORTH CAROLINA LONGITUDINAL DATA SYSTEM.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. COMMUNITY COLLEGE LEARNING MANAGEMENT SYSTEMS
+11 SECTION 1.(a) The State Board of Community Colleges shall conduct a
+12 competitive solicitation, including a request for information or a request for proposals, to provide
+13 a learning management system to all community colleges. The competitive solicitation shall be
+14 completed by December 31, 2025, and the transition to the new learning management system
+15 shall be completed by December 31, 2027. Answers to the competitive solicitation shall include
+16 information on how the learning management system would align with the learning management
+17 systems (i) offered by the Department of Public Instruction to local school administrative units
+18 and (ii) used by the constituent institutions of The University of North Carolina.
+19 SECTION 1.(b) By December 31, 2025, the State Board shall report to the Senate
+20 Appropriations Committee on Education/Higher Education, the House Appropriations
+21 Committee on Education, and the Fiscal Research Division on the information received.
+22
+23 PART II. DEPARTMENT OF INFORMATION TECHNOLOGY EXEMPTION
+24 SECTION 2. G.S. 143B-1320 reads as rewritten:
+25 "§ 143B-1320. Definitions; scope; exemptions.
+26 (a) Definitions. – The following definitions apply in this Article:
+27 (1) CGIA. – Center for Geographic Information and Analysis.
+28 …
+29 (17) State agency or agency. – Any agency, department, institution, commission,
+30 committee, board, division, bureau, office, unit, officer, or official of the State.
+31 The term does not include the legislative or judicial branches of government
+32 government, the Community Colleges System Office, or The University of
+33 North Carolina.
+34 …
+35 (b) Exemptions. – Except as otherwise specifically provided by law, the provisions of
+36 this Chapter do not apply to the following entities: the General Assembly, the Judicial
+*S133-v-2*
+General Assembly Of North Carolina Session 2025
+1 Department, the Community Colleges System Office, and The University of North Carolina and
+2 its constituent institutions. These entities may elect to participate in the information technology
+3 programs, services, or contracts offered by the Department, including information technology
+4 procurement, in accordance with the statutes, policies, and rules of the Department. The election
+5 must be made in writing, as follows:
+6 (1) For the General Assembly, by the Legislative Services Commission.
+7 (2) For the Judicial Department, by the Chief Justice.
+8 (2a) For the Community Colleges System Office, by the State Board of
+9 Community Colleges.
+10 (3) For The University of North Carolina, by the Board of Governors.
+11 (4) For the constituent institutions of The University of North Carolina, by the
+12 respective boards of trustees.
+13 …."
+14
+15 PART III. NORTH CAROLINA LONGITUDINAL DATA SYSTEM
+16 SECTION 3.(a) Chapter 116E of the General Statutes reads as rewritten:
+17 "Chapter 116E.
+18 "Education North Carolina Longitudinal Data System.
+19 "§ 116E-1. Definitions.
+20 (1) "Center" means the Center. – The Governmental Data Analytics Center as
+21 established in Part 8 of Article 15 of Chapter 143B of the General Statutes.
+22 (1a) CJIS. – The federal Criminal Justice Information Systems in 28 C.F.R. Part
+23 20.
+24 (2) "De-identified data" means a De-identified data. – A data set in which parent
+25 and student identity information, including the unique student identifier and
+26 student social security number, has been removed.
+27 (3) "FERPA" means the FERPA. – The federal Family Educational Rights and
+28 Privacy Act, 20 U.S.C. § 1232g.
+29 (3a) HIPAA. – The federal Health Insurance Portability and Accountability Act of
+30 1996.
+31 (3c) IDEA. – The federal Individuals with Disabilities Education Act, 20 U.S.C. §
+32 1400, et seq.
+33 (3h) Public school unit. – As defined in G.S. 115C-5.
+34 (4) "Student data" means data Student data. – Data relating to student
+35 performance. Student data includes State and national assessments, course
+36 enrollment and completion, grade point average, remediation, retention,
+37 degree, diploma or credential attainment, enrollment, discipline records, and
+38 demographic data. Student data does not include juvenile delinquency records,
+39 criminal records, and medical and health records.
+40 (5) "System" means the System. – The North Carolina Longitudinal Data
+41 System.System, including components referred to as the North Carolina
+42 Longitudinal Data Service.
+43 (6) "Unique Student Identifier" or "UID" means the Unique Student Identifier or
+44 UID. – The identifier assigned to each student by one of the following:
+45 a. A local school administrative unit public school unit based on the
+46 identifier system developed by the Department of Public Instruction.
+47 b. An institution of higher education, nonpublic school, or other State
+48 agency operating or overseeing an educational program, if the student
+49 has not been assigned an identifier by a local school administrative
+50 unit.public school unit.
+Page 2 Senate Bill 133-Second Edition
+General Assembly Of North Carolina Session 2025
+1 (7) "Workforce data" means data Workforce data. – Data relating to employment
+2 status, wage information, geographic location of employment, and employer
+3 information.
+4 "§ 116E-2. Purpose of the North Carolina Longitudinal Data System.
+5 (a) The North Carolina Longitudinal Data System is a statewide data system that contains
+6 individual-level student data and workforce data from all levels of education and the State's
+7 workforce. The purpose of the System is to do the following:
+8 (1) Facilitate and enable the exchange of student data among agencies and
+9 institutions within the State.
+10 (2) Generate timely and accurate information about student performance that can
+11 be used to improve the State's education system and guide decision makers at
+12 all levels.
+13 (3) Facilitate and enable the linkage of student data and workforce data.
+14 (b) The linkage of student data and workforce data for the purposes of the System shall
+15 be limited to no longer than five years from the later of the date of the student's completion of
+16 secondary education or the date of the student's latest attendance at an institution of higher
+17 education in the State.
+18 "§ 116E-4. Powers and duties of the Center.
+19 (a) The Center shall have the following powers and duties with respect to the System:
+20 …
+21 (4) Before the use of any individual data in the System, the Center shall do the
+22 following:
+23 a. Create and publish an inventory of the individual student data
+24 proposed to be accessible in the System and required to be reported by
+25 State and federal education mandates.System.
+26 b. Develop and implement policies to comply with FERPA FERPA,
+27 IDEA, HIPAA, CJIS, the Internal Revenue Code, and any other
+28 privacy measures, measures relevant to data available to the System,
+29 as required by law or the Center.
+30 c. Develop a detailed data security and safeguarding plan that includes
+31 the following:
+32 1. Authorized access and authentication for authorized access.
+33 2. Privacy compliance standards.
+34 3. Privacy and security audits.
+35 4. Breach notification and procedures.
+36 5. Data retention and disposition policies.
+37 (5) Oversee routine and ongoing compliance with FERPA FERPA, IDEA,
+38 HIPAA, CJIS, the Internal Revenue Code, and other relevant privacy laws and
+39 policies.
+40 (6) Ensure that any contracts that govern databases that are outsourced to private
+41 vendors include express provisions that safeguard privacy and security and
+42 include penalties for noncompliance.
+43 (7) Designate a standard and compliance time line for electronic transcripts that
+44 includes the use of UID to ensure the uniform and efficient transfer of student
+45 data between local school administrative units and institutions of higher
+46 education.
+47 (8) Review research requirements and set policies for the approval of data
+48 requests from State and local agencies, the General Assembly, and the public.
+49 (9) Establish an advisory committee on data quality to advise the Center on issues
+50 related to data auditing and tracking to ensure data validity.
+Senate Bill 133-Second Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (b) The Center shall adopt rules according to Chapter 150B of the General Statutes as
+2 provided in G.S. 116E-6 to implement the provisions of this Article.
+3 (c) The Center shall report annually to the Joint Legislative Education Oversight
+4 Committee, the Joint Legislative Commission on Governmental Operations, and the Joint
+5 Legislative Oversight Committee on Information Technology beginning July 1, 2019. The report
+6 shall include the following:
+7 (1) An update on the implementation of the System's activities.
+8 (2) Any proposed or planned expansion of System data.
+9 (3) Any other recommendations made by the Center, including the most effective
+10 and efficient configuration for the System.
+11 "§ 116E-5. North Carolina Longitudinal Data System.
+12 (a) There is created the North Carolina Longitudinal Data System. The System shall be
+13 located administratively within the Department of Public Instruction but shall exercise its powers
+14 and duties independently of the Department of Public Instruction and the State Board of
+15 Education.Information Technology.
+16 (b) The System shall allow users to do the following:
+17 (1) Effectively organize, manage, disaggregate, and analyze individual student
+18 and workforce data.
+19 (2) Examine student progress and outcomes over time, including preparation for
+20 postsecondary education and the workforce.
+21 (c) The System shall be considered an authorized representative of the Department of
+22 Public Instruction, The University of North Carolina, and the North Carolina System of
+23 Community Colleges under applicable federal and State statutes for purposes of accessing and
+24 compiling student record data for research purposes.
+25 (d) The System shall perform the following functions and duties:
+26 (1) Serve as a data broker for the System, including data maintained by the
+27 following:
+28 a. The Department of Public Instruction.
+29 b. Local boards of education, local school administrative units, and
+30 charter schools.Governing bodies of public school units, as defined in
+31 G.S. 115C-5, and public school units.
+32 c. The University of North Carolina and its constituent institutions.
+33 d. The Community Colleges System Office and local community
+34 colleges.
+35 e. The North Carolina Independent College and Universities, Inc., and
+36 private colleges or universities.
+37 f. Nonpublic schools serving elementary and secondary students.
+38 g. The Department of Commerce, Division of Employment
+39 Security.Commerce.
+40 h. The Department of Revenue.
+41 i. The Department of Health and Human Services.
+42 j. The Department of Labor.
+43 (2) Ensure routine and ongoing compliance with FERPA, IDEA, HIPAA, CJIS,
+44 the Internal Revenue Code, and other relevant privacy laws and policies,
+45 including the following:
+46 a. The required Requiring use of de-identified data in data research and
+47 reporting.
+48 b. The required Requiring disposition of information that is no longer
+49 needed.
+50 c. Providing data security, including the capacity for audit trails.
+Page 4 Senate Bill 133-Second Edition
+General Assembly Of North Carolina Session 2025
+1 d. Providing for performance of regular audits for compliance with data
+2 privacy and security standards.
+3 e. Implementing guidelines and policies that prevent the reporting of
+4 other potentially identifying data.
+5 (3) Facilitate information and data requests for State and federal education
+6 reporting with existing State agencies as appropriate.
+7 (4) Facilitate approved public information requests.
+8 (5) Develop a process for obtaining information and data requested by the General
+9 Assembly and Governor of current de-identified data and research.
+10 (e) Use of data accessible through the System shall be regulated in the following ways:
+11 (1) Direct access to data shall be restricted to authorized staff of the System.
+12 (2) Only de-identified data shall be used in the analysis, research, and reporting
+13 conducted by the System.
+14 (3) The System and recipients of data in fulfillment of approved data requests
+15 shall only use aggregate aggregated data in the release of data in reports and
+16 in response to data requests.public reports.
+17 (4) Data that may be identifiable based on the size or uniqueness of the population
+18 under consideration shall not be reported in any form by the System.
+19 (5) The System shall not release information that may not be disclosed under
+20 FERPA, IDEA, HIPAA, CJIS, the Internal Revenue Code, and other relevant
+21 privacy laws and policies.
+22 (6) Individual or personally identifiable data accessed through the System shall
+23 not be a public record under G.S. 132-1.
+24 (f) The System may receive funding from the following sources:
+25 (1) State appropriations.
+26 (2) Grants or other assistance from local school administrative units, public
+27 school units, community colleges, constituent institutions of The University
+28 of North Carolina, or private colleges and universities.
+29 (3) Federal grants.
+30 (4) Any other grants or contributions from public or private entities received by
+31 the System.
+32 (g) Ownership of all data collected and maintained by the System remains with the
+33 contributors to the System. Management and disclosure of data by the System does not change
+34 ownership of the data.
+35 "§ 116E-6. Data sharing.
+36 (a) Local school administrative units, charter schools, Public school units, community
+37 colleges, constituent institutions of The University of North Carolina, and State agencies shall
+38 do all of the following:
+39 (1) Comply with the data requirements and implementation schedule for the
+40 System as set forth by the Center.
+41 (2) Transfer student data and workforce data to the System in accordance with the
+42 data security and safeguarding plan developed by the Center under
+43 G.S. 116E-5.
+44 (b) Private colleges and universities, the North Carolina Independent Colleges and
+45 Universities, Inc., and nonpublic schools may transfer student data and workforce data to the
+46 System in accordance with the data security and safeguarding plan developed under G.S. 116E-5.
+47 (c) All data sharing supported by the System shall comply with all applicable federal and
+48 State data and data privacy laws and regulations."
+49 SECTION 3.(b) This section becomes effective July 1, 2025.
+50
+51 PART IV. EFFECTIVE DATE
+Senate Bill 133-Second Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+2 law.
+Page 6 Senate Bill 133-Second Edition
+[DELETED:  2 N (   A A A T P F T S B O C C T S A L M S F A C C T P A E F T D O I T F T C C S O A T M V C T T G S R T  P S 1  T S B o C C s c a c a c s i s a S A C o E E t H A C  P S " ( D ( C … ( S c T g N … ( E t C d n a t t f e t G A t J]
+[DELETED:  S  S D i p p m ( F ( F ( F t C C S O b t S B o C ( F ( F r …  P S " " " ( " e ( C 2 ( " a s ( " P ( H 1 ( I 1 ( P ( " d m d S d – D r t s p e a c g p a r r d d c ( " m t S – T N C L D S i c r t a t N C L ( " U a A l s a u p s u b o t i b A a h u]
+[DELETED:  S  P ( " s i " ( T i w ( F a e t e o s d a a a i ( G b a ( F ( T b s e a i e " ( T … ( B f a C a p a i o t i s d p S b D a i p t c w F F I H C t I R C a a o p a c D t 1 A 2 P 3 P 4 B 5 D ( O r a o c w F F I H p ( E v i ( D i d b l s a u a i o h e ( R r r a s p f t a o d r ( E r]
+[DELETED:  S  S ( T p ( T C s r a t t J L E O C t J L C o G O a t J L s ( A ( A ( A a " ( T l a d i o t D o P I a t S B o E ( T ( E a ( E p ( T P I T U o N C a t N C S o C c ( T ( S a a d b f t S i d m b t f a T b L b o e l s a u a c G c T d T C C S O a l c c e T p f N g T D o C D o E S h T i T j T ( E t I R C a o r p l a p i a T r b T n c P]
+[DELETED:  S  P d P p e I g a p t p t r o o ( F i a d r f S a f e r ( F ( D A ( U ( D ( O c ( T s i ( D u ( T F p ( I n ( T ( S ( G o o a f l s a u p s o ( F ( A t ( O o a d c a m b t S r w t c o " ( L c d ( C w t d r a i s f t S ( T d s a s p d b t C u G ( P c a u t N C I C a U S ( A S S  P]
+[DELETED:  S  S S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+S 2
+SENATE BILL 133
+House Committee Substitute Favorable 6/10/25
+Short Title: NCCCS LMS/NCLDS. (Public)
+Sponsors:
+Referred to:
+February 24, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO PROVIDE FOR THE STATE BOARD OF COMMUNITY COLLEGES TO
+3 SOLICIT A LEARNING MANAGEMENT SYSTEM FOR ALL COMMUNITY
+4 COLLEGES, TO PROVIDE AN EXEMPTION FROM THE DEPARTMENT OF
+5 INFORMATION TECHNOLOGY FOR THE COMMUNITY COLLEGES SYSTEM
+6 OFFICE, AND TO MAKE VARIOUS CHANGES TO THE GENERAL STATUTES
+7 RELATED TO THE NORTH CAROLINA LONGITUDINAL DATA SYSTEM.
+8 The General Assembly of North Carolina enacts:
+9
+10 PART I. COMMUNITY COLLEGE LEARNING MANAGEMENT SYSTEMS
+11 SECTION 1.(a) The State Board of Community Colleges shall conduct a
+12 competitive solicitation, including a request for information or a request for proposals, to provide
+13 a learning management system to all community colleges. The competitive solicitation shall be
+14 completed by December 31, 2025, and the transition to the new learning management system
+15 shall be completed by December 31, 2027. Answers to the competitive solicitation shall include
+16 information on how the learning management system would align with the learning management
+17 systems (i) offered by the Department of Public Instruction to local school administrative units
+18 and (ii) used by the constituent institutions of The University of North Carolina.
+19 SECTION 1.(b) By December 31, 2025, the State Board shall report to the Senate
+20 Appropriations Committee on Education/Higher Education, the House Appropriations
+21 Committee on Education, and the Fiscal Research Division on the information received.
+22
+23 PART II. DEPARTMENT OF INFORMATION TECHNOLOGY EXEMPTION
+24 SECTION 2. G.S. 143B-1320 reads as rewritten:
+25 "§ 143B-1320. Definitions; scope; exemptions.
+26 (a) Definitions. – The following definitions apply in this Article:
+27 (1) CGIA. – Center for Geographic Information and Analysis.
+28 …
+29 (17) State agency or agency. – Any agency, department, institution, commission,
+30 committee, board, division, bureau, office, unit, officer, or official of the State.
+31 The term does not include the legislative or judicial branches of government
+32 government, the Community Colleges System Office, or The University of
+33 North Carolina.
+34 …
+35 (b) Exemptions. – Except as otherwise specifically provided by law, the provisions of
+36 this Chapter do not apply to the following entities: the General Assembly, the Judicial
+*S133-v-2*
+
+General Assembly Of North Carolina Session 2025
+1 Department, the Community Colleges System Office, and The University of North Carolina and
+2 its constituent institutions. These entities may elect to participate in the information technology
+3 programs, services, or contracts offered by the Department, including information technology
+4 procurement, in accordance with the statutes, policies, and rules of the Department. The election
+5 must be made in writing, as follows:
+6 (1) For the General Assembly, by the Legislative Services Commission.
+7 (2) For the Judicial Department, by the Chief Justice.
+8 (2a) For the Community Colleges System Office, by the State Board of
+9 Community Colleges.
+10 (3) For The University of North Carolina, by the Board of Governors.
+11 (4) For the constituent institutions of The University of North Carolina, by the
+12 respective boards of trustees.
+13 …."
+14
+15 PART III. NORTH CAROLINA LONGITUDINAL DATA SYSTEM
+16 SECTION 3.(a) Chapter 116E of the General Statutes reads as rewritten:
+17 "Chapter 116E.
+18 "Education North Carolina Longitudinal Data System.
+19 "§ 116E-1. Definitions.
+20 (1) "Center" means the Center. – The Governmental Data Analytics Center as
+21 established in Part 8 of Article 15 of Chapter 143B of the General Statutes.
+22 (1a) CJIS. – The federal Criminal Justice Information Systems in 28 C.F.R. Part
+23 20.
+24 (2) "De-identified data" means a De-identified data. – A data set in which parent
+25 and student identity information, including the unique student identifier and
+26 student social security number, has been removed.
+27 (3) "FERPA" means the FERPA. – The federal Family Educational Rights and
+28 Privacy Act, 20 U.S.C. § 1232g.
+29 (3a) HIPAA. – The federal Health Insurance Portability and Accountability Act of
+30 1996.
+31 (3c) IDEA. – The federal Individuals with Disabilities Education Act, 20 U.S.C. §
+32 1400, et seq.
+33 (3h) Public school unit. – As defined in G.S. 115C-5.
+34 (4) "Student data" means data Student data. – Data relating to student
+35 performance. Student data includes State and national assessments, course
+36 enrollment and completion, grade point average, remediation, retention,
+37 degree, diploma or credential attainment, enrollment, discipline records, and
+38 demographic data. Student data does not include juvenile delinquency records,
+39 criminal records, and medical and health records.
+40 (5) "System" means the System. – The North Carolina Longitudinal Data
+41 System.System, including components referred to as the North Carolina
+42 Longitudinal Data Service.
+43 (6) "Unique Student Identifier" or "UID" means the Unique Student Identifier or
+44 UID. – The identifier assigned to each student by one of the following:
+45 a. A local school administrative unit public school unit based on the
+46 identifier system developed by the Department of Public Instruction.
+47 b. An institution of higher education, nonpublic school, or other State
+48 agency operating or overseeing an educational program, if the student
+49 has not been assigned an identifier by a local school administrative
+50 unit.public school unit.
+Page 2 Senate Bill 133-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7) "Workforce data" means data Workforce data. – Data relating to employment
+2 status, wage information, geographic location of employment, and employer
+3 information.
+4 "§ 116E-2. Purpose of the North Carolina Longitudinal Data System.
+5 (a) The North Carolina Longitudinal Data System is a statewide data system that contains
+6 individual-level student data and workforce data from all levels of education and the State's
+7 workforce. The purpose of the System is to do the following:
+8 (1) Facilitate and enable the exchange of student data among agencies and
+9 institutions within the State.
+10 (2) Generate timely and accurate information about student performance that can
+11 be used to improve the State's education system and guide decision makers at
+12 all levels.
+13 (3) Facilitate and enable the linkage of student data and workforce data.
+14 (b) The linkage of student data and workforce data for the purposes of the System shall
+15 be limited to no longer than five years from the later of the date of the student's completion of
+16 secondary education or the date of the student's latest attendance at an institution of higher
+17 education in the State.
+18 "§ 116E-4. Powers and duties of the Center.
+19 (a) The Center shall have the following powers and duties with respect to the System:
+20 …
+21 (4) Before the use of any individual data in the System, the Center shall do the
+22 following:
+23 a. Create and publish an inventory of the individual student data
+24 proposed to be accessible in the System and required to be reported by
+25 State and federal education mandates.System.
+26 b. Develop and implement policies to comply with FERPA FERPA,
+27 IDEA, HIPAA, CJIS, the Internal Revenue Code, and any other
+28 privacy measures, measures relevant to data available to the System,
+29 as required by law or the Center.
+30 c. Develop a detailed data security and safeguarding plan that includes
+31 the following:
+32 1. Authorized access and authentication for authorized access.
+33 2. Privacy compliance standards.
+34 3. Privacy and security audits.
+35 4. Breach notification and procedures.
+36 5. Data retention and disposition policies.
+37 (5) Oversee routine and ongoing compliance with FERPA FERPA, IDEA,
+38 HIPAA, CJIS, the Internal Revenue Code, and other relevant privacy laws and
+39 policies.
+40 (6) Ensure that any contracts that govern databases that are outsourced to private
+41 vendors include express provisions that safeguard privacy and security and
+42 include penalties for noncompliance.
+43 (7) Designate a standard and compliance time line for electronic transcripts that
+44 includes the use of UID to ensure the uniform and efficient transfer of student
+45 data between local school administrative units and institutions of higher
+46 education.
+47 (8) Review research requirements and set policies for the approval of data
+48 requests from State and local agencies, the General Assembly, and the public.
+49 (9) Establish an advisory committee on data quality to advise the Center on issues
+50 related to data auditing and tracking to ensure data validity.
+Senate Bill 133-Second Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (b) The Center shall adopt rules according to Chapter 150B of the General Statutes as
+2 provided in G.S. 116E-6 to implement the provisions of this Article.
+3 (c) The Center shall report annually to the Joint Legislative Education Oversight
+4 Committee, the Joint Legislative Commission on Governmental Operations, and the Joint
+5 Legislative Oversight Committee on Information Technology beginning July 1, 2019. The report
+6 shall include the following:
+7 (1) An update on the implementation of the System's activities.
+8 (2) Any proposed or planned expansion of System data.
+9 (3) Any other recommendations made by the Center, including the most effective
+10 and efficient configuration for the System.
+11 "§ 116E-5. North Carolina Longitudinal Data System.
+12 (a) There is created the North Carolina Longitudinal Data System. The System shall be
+13 located administratively within the Department of Public Instruction but shall exercise its powers
+14 and duties independently of the Department of Public Instruction and the State Board of
+15 Education.Information Technology.
+16 (b) The System shall allow users to do the following:
+17 (1) Effectively organize, manage, disaggregate, and analyze individual student
+18 and workforce data.
+19 (2) Examine student progress and outcomes over time, including preparation for
+20 postsecondary education and the workforce.
+21 (c) The System shall be considered an authorized representative of the Department of
+22 Public Instruction, The University of North Carolina, and the North Carolina System of
+23 Community Colleges under applicable federal and State statutes for purposes of accessing and
+24 compiling student record data for research purposes.
+25 (d) The System shall perform the following functions and duties:
+26 (1) Serve as a data broker for the System, including data maintained by the
+27 following:
+28 a. The Department of Public Instruction.
+29 b. Local boards of education, local school administrative units, and
+30 charter schools.Governing bodies of public school units, as defined in
+31 G.S. 115C-5, and public school units.
+32 c. The University of North Carolina and its constituent institutions.
+33 d. The Community Colleges System Office and local community
+34 colleges.
+35 e. The North Carolina Independent College and Universities, Inc., and
+36 private colleges or universities.
+37 f. Nonpublic schools serving elementary and secondary students.
+38 g. The Department of Commerce, Division of Employment
+39 Security.Commerce.
+40 h. The Department of Revenue.
+41 i. The Department of Health and Human Services.
+42 j. The Department of Labor.
+43 (2) Ensure routine and ongoing compliance with FERPA, IDEA, HIPAA, CJIS,
+44 the Internal Revenue Code, and other relevant privacy laws and policies,
+45 including the following:
+46 a. The required Requiring use of de-identified data in data research and
+47 reporting.
+48 b. The required Requiring disposition of information that is no longer
+49 needed.
+50 c. Providing data security, including the capacity for audit trails.
+Page 4 Senate Bill 133-Second Edition
+
+General Assembly Of North Carolina Session 2025
+1 d. Providing for performance of regular audits for compliance with data
+2 privacy and security standards.
+3 e. Implementing guidelines and policies that prevent the reporting of
+4 other potentially identifying data.
+5 (3) Facilitate information and data requests for State and federal education
+6 reporting with existing State agencies as appropriate.
+7 (4) Facilitate approved public information requests.
+8 (5) Develop a process for obtaining information and data requested by the General
+9 Assembly and Governor of current de-identified data and research.
+10 (e) Use of data accessible through the System shall be regulated in the following ways:
+11 (1) Direct access to data shall be restricted to authorized staff of the System.
+12 (2) Only de-identified data shall be used in the analysis, research, and reporting
+13 conducted by the System.
+14 (3) The System and recipients of data in fulfillment of approved data requests
+15 shall only use aggregate aggregated data in the release of data in reports and
+16 in response to data requests.public reports.
+17 (4) Data that may be identifiable based on the size or uniqueness of the population
+18 under consideration shall not be reported in any form by the System.
+19 (5) The System shall not release information that may not be disclosed under
+20 FERPA, IDEA, HIPAA, CJIS, the Internal Revenue Code, and other relevant
+21 privacy laws and policies.
+22 (6) Individual or personally identifiable data accessed through the System shall
+23 not be a public record under G.S. 132-1.
+24 (f) The System may receive funding from the following sources:
+25 (1) State appropriations.
+26 (2) Grants or other assistance from local school administrative units, public
+27 school units, community colleges, constituent institutions of The University
+28 of North Carolina, or private colleges and universities.
+29 (3) Federal grants.
+30 (4) Any other grants or contributions from public or private entities received by
+31 the System.
+32 (g) Ownership of all data collected and maintained by the System remains with the
+33 contributors to the System. Management and disclosure of data by the System does not change
+34 ownership of the data.
+35 "§ 116E-6. Data sharing.
+36 (a) Local school administrative units, charter schools, Public school units, community
+37 colleges, constituent institutions of The University of North Carolina, and State agencies shall
+38 do all of the following:
+39 (1) Comply with the data requirements and implementation schedule for the
+40 System as set forth by the Center.
+41 (2) Transfer student data and workforce data to the System in accordance with the
+42 data security and safeguarding plan developed by the Center under
+43 G.S. 116E-5.
+44 (b) Private colleges and universities, the North Carolina Independent Colleges and
+45 Universities, Inc., and nonpublic schools may transfer student data and workforce data to the
+46 System in accordance with the data security and safeguarding plan developed under G.S. 116E-5.
+47 (c) All data sharing supported by the System shall comply with all applicable federal and
+48 State data and data privacy laws and regulations."
+49 SECTION 3.(b) This section becomes effective July 1, 2025.
+50
+51 PART IV. EFFECTIVE DATE
+Senate Bill 133-Second Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+2 law.
+Page 6 Senate Bill 133-Second Edition
+
+[DELETED:  2 N (   A A A T P F T S B O C C T S A L M S F A C C T P A E F T D O I T F T C C S O A T M V C T T G S R T  P S 1  T S B o C C s c a c a c s i s a S A C o E E t H A C  P S " ( D ( C … ( S c T g N … ( E t C d n a t t f e t G A t J]
+[DELETED:  S  S D i p p m ( F ( F ( F t C C S O b t S B o C ( F ( F r …  P S " " " ( " e ( C 2 ( " a s ( " P ( H 1 ( I 1 ( P ( " d m d S d – D r t s p e a c g p a r r d d c ( " m t S – T N C L D S i c r t a t N C L ( " U a A l s a u p s u b o t i b A a h u]
+[DELETED:  S  P ( " s i " ( T i w ( F a e t e o s d a a a i ( G b a ( F ( T b s e a i e " ( T … ( B f a C a p a i o t i s d p S b D a i p t c w F F I H C t I R C a a o p a c D t 1 A 2 P 3 P 4 B 5 D ( O r a o c w F F I H p ( E v i ( D i d b l s a u a i o h e ( R r r a s p f t a o d r ( E r]
+[DELETED:  S  S ( T p ( T C s r a t t J L E O C t J L C o G O a t J L s ( A ( A ( A a " ( T l a d i o t D o P I a t S B o E ( T ( E a ( E p ( T P I T U o N C a t N C S o C c ( T ( S a a d b f t S i d m b t f a T b L b o e l s a u a c G c T d T C C S O a l c c e T p f N g T D o C D o E S h T i T j T ( E t I R C a o r p l a p i a T r b T n c P]
+[DELETED:  S  P d P p e I g a p t p t r o o ( F i a d r f S a f e r ( F ( D A ( U ( D ( O c ( T s i ( D u ( T F p ( I n ( T ( S ( G o o a f l s a u p s o ( F ( A t ( O o a d c a m b t S r w t c o " ( L c d ( C w t d r a i s f t S ( T d s a s p d b t C u G ( P c a u t N C I C a U S ( A S S  P]
+[DELETED:  S  S S l]

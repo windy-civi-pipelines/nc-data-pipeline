@@ -1,0 +1,2017 @@
+Title: SENATE BILL DRS45301-SVxf-3C
+Official Title: SENATE BILL DRS45301-SVxf-3C
+Number of Sections: 1
+Source: versions - Filed
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 595
+SESSION 2025
+PRINCIPAL CLERK
+S D
+Short Title: Rev Laws Tech Chngs/BBA Chngs/P2P Tax Parity. (Public)
+Sponsors: Senators McInnis and Craven (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS TECHNICAL, CLARIFYING, AND ADMINISTRATIVE
+3 CHANGES TO THE REVENUE LAWS; TO CONFORM TO THE FEDERAL SYSTEM
+4 FOR AUDITING PARTNERSHIPS BY IMPOSING TAX AT THE PARTNERSHIP
+5 LEVEL FOR FEDERAL CHANGES AND BY AUTHORIZING REFUNDS FOR
+6 FEDERAL CHANGES; AND TO PROVIDE TAX PARITY FOR SHORT-TERM CAR
+7 RENTALS BY EXPANDING ALTERNATE HIGHWAY USE TAX TO INCLUDE
+8 PEER-TO-PEER RENTALS.
+9 The General Assembly of North Carolina enacts:
+10
+11 PART I. PERSONAL INCOME TAX CHANGES
+12 SECTION 1.1.(a) G.S. 105-153.5 reads as rewritten:
+13 "§ 105-153.5. Modifications to adjusted gross income.
+14 …
+15 (b) Other Deductions. – In calculating North Carolina taxable income, a taxpayer may
+16 deduct from the taxpayer's adjusted gross income any of the following items that are included in
+17 the taxpayer's adjusted gross income:
+18 …
+19 (17) The amount by which the aggregate amount of losses or deductions of an S
+20 Corporation taken into account by a shareholder under G.S. 105-131.1(b) do
+21 not exceed the combined adjusted bases, determined in accordance with
+22 G.S. 105-131.3, of the shareholder in the stock and indebtedness of the S
+23 Corporation.
+24 (c) Additions. – In calculating North Carolina taxable income, a taxpayer must add to the
+25 taxpayer's adjusted gross income any of the following items that are not included in the taxpayer's
+26 adjusted gross income:
+27 …
+28 (8) The amount by which the aggregate amount of losses or deductions of an S
+29 Corporation taken into account by a shareholder under G.S. 105-131.1(b)
+30 exceed the combined adjusted bases, determined in accordance with
+31 G.S. 105-131.3, of the shareholder in the stock and indebtedness of the S
+32 Corporation.
+33 …."
+34 SECTION 1.1.(b) This section is effective for taxable years beginning on or after
+35 January 1, 2025.
+36 SECTION 1.2.(a) G.S. 105-153.5A reads as rewritten:
+*DRS45301-SVxf-3C*
+General Assembly Of North Carolina Session 2025
+1 "§ 105-153.5A. Net operating loss provisions.
+2 …
+3 (g) Limitation. – The provisions of this section apply only to individuals, estates, and
+4 trusts."
+5 SECTION 1.2.(b) G.S. 105-153.5A(a) reads as rewritten:
+6 "(a) State Net Operating Loss. – A taxpayer's State net operating loss for a taxable year is
+7 the amount by which business deductions for the year exceed gross income for the year as
+8 determined under the Code adjusted as provided in G.S. 105-153.5 and G.S. 105-153.6. The
+9 amount of a taxpayer's State net operating loss must also be determined in accordance with the
+10 following modifications:
+11 (1) No State net operating loss deduction shall be allowed.
+12 (2) The amount deductible on account of losses from sales or exchanges of capital
+13 assets shall not exceed the amount includable on account of gains from sales
+14 or exchanges of capital assets.
+15 (3) The exclusion provided by Code section 1202 shall not be allowed.
+16 (4) No deduction shall be allowed under G.S. 105-153.5(a1) for the child
+17 deduction.
+18 (5) The deductions which are not attributable to a taxpayer's trade or business
+19 shall be allowed only to the extent of the amount of the gross income not
+20 derived from such trade or business.
+21 (6) Any deduction under Code section 199A shall not be allowed.
+22 (7) The amount of the taxpayer's excess business loss, as defined under the
+23 provisions of section 461(l) of the Code, shall be fully allowed as a State net
+24 operating loss."
+25 SECTION 1.2.(c) Subsection (a) of this section is effective when the Part becomes
+26 law and applies retroactively to taxable years beginning on or after January 1, 2022. Subsection
+27 (b) of this section is effective for taxable years beginning on or after January 1, 2025. The
+28 remainder of this section is effective when the Part becomes law.
+29 SECTION 1.3.(a) G.S. 105-160.2 reads as rewritten:
+30 "§ 105-160.2. Imposition of tax.
+31 (a) Scope. – The tax imposed by this Part applies to the taxable income of estates and
+32 trusts as determined under the provisions of the Code except as otherwise provided in this Part.
+33 The taxable income of an estate or trust is the same as taxable income for such an estate or trust
+34 under the provisions of the Code, adjusted as provided in G.S. 105-153.5 and G.S. 105-153.6,
+35 except that the adjustments provided in G.S. 105-153.5 and G.S. 105-153.6 are apportioned
+36 between the estate or trust and the beneficiaries based on the distributions made during the
+37 taxable year. G.S. 105-153.6.
+38 (b) Tax Base. – The tax is computed on the amount of the taxable income of the estate or
+39 trust that is for the benefit of a resident of this State, or for the benefit of a nonresident to the
+40 extent that the income (i) is derived from North Carolina sources and is attributable to the
+41 ownership of any interest in real or tangible personal property in this State or (ii) is derived from
+42 a business, trade, profession, or occupation carried on in this State. For purposes of the preceding
+43 sentence, taxable income and gross income is computed subject to the adjustments provided in
+44 G.S. 105-153.5 and G.S. 105-153.6. G.S. 105-153.6 and is apportioned and allocated to this State
+45 under G.S. 105-130.4.
+46 (c) Tax Rate. – The tax on the amount computed above is at the rate levied in
+47 G.S. 105-153.7. The fiduciary responsible for administering the estate or trust shall pay the tax
+48 computed under the provisions of this Part.
+49 (d) Adjustments. – For the purposes of this section, the adjustments provided in
+50 G.S. 105-153.5 and G.S. 105-153.6 are apportioned between the estate or trust and the
+51 beneficiaries based on the distributions made during the taxable year."
+Page 2 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.3.(b) This section is effective for taxable years beginning on or after
+2 January 1, 2025.
+3 SECTION 1.4. G.S. 105-153.3(15) reads as rewritten:
+4 "(15) Resident. – Either of the individuals listed below. A resident who removes
+5 from the State during a taxable year is considered a resident until the resident
+6 has both established a definite domicile elsewhere and abandoned any
+7 domicile in this State. The fact of marriage does not raise any presumption as
+8 to domicile or residence. A resident individual is either of the following:
+9 a. An individual who is domiciled in this State at any time during the
+10 taxable year or who resides in this State during the taxable year for
+11 other than a temporary or transitory purpose. In the absence of
+12 convincing proof to the contrary, an individual who is present within
+13 the State for more than 183 days during the taxable year is presumed
+14 to be a resident, but the
+15 b. An individual who maintains a place of abode within the State and
+16 spends more than 183 days, including partial days, of the taxable year
+17 within the State. The absence of an individual from the State for more
+18 than 183 days raises no presumption that the individual is not a
+19 resident. A resident who removes from the State during a taxable year
+20 is considered a resident until he has both established a definite
+21 domicile elsewhere and abandoned any domicile in this State. The fact
+22 of marriage does not raise any presumption as to domicile or
+23 residence."
+24 SECTION 1.5. G.S. 105-163.6 reads as rewritten:
+25 "§ 105-163.6. When employer must file returns and pay withheld taxes.
+26 …
+27 (c) Monthly. – An employer who withholds an average of at least two hundred fifty
+28 dollars ($250.00) but less than two thousand dollars ($2,000) of State income taxes from wages
+29 each month must file a return and pay the withheld taxes on a monthly basis. A return for the
+30 months of January through November is due by the 15th day of the month following the end of
+31 the month covered by the return. A return for the month of December is due the following January
+32 31.
+33 (d) Semiweekly. – An employer who withholds an average of at least two thousand
+34 dollars ($2,000) of State income taxes from wages each month shall must file a return by the date
+35 set under the Code for filing a return for federal employment taxes attributable to the same wages
+36 and shall on a quarterly basis. A quarterly return covers a calendar quarter and is due by the last
+37 day of the month following the end of the quarter. The employer also must pay the withheld State
+38 income taxes by the date set under the Code for depositing or paying federal employment taxes
+39 attributable to the same wages. The date set by the Code for depositing or paying federal
+40 employment taxes shall be determined without regard to § 6302(g) of the Code.
+41 An extension of time granted to file a return for federal employment taxes attributable to
+42 wages is an automatic extension of time for filing a return for State income taxes withheld from
+43 the same wages, and an extension of time granted to pay federal employment taxes attributable
+44 to wages is an automatic extension of time for paying State income taxes withheld from the same
+45 wages. An employer who pays withheld State income taxes under this subsection is not subject
+46 to interest on or penalties for a shortfall in the amount due if the employer would not be subject
+47 to a failure-to-deposit penalty had the shortfall occurred in a deposit of federal employment taxes
+48 attributable to the same wages and the employer pays the shortfall by the date the employer would
+49 have to deposit a shortfall in the federal employment taxes.forth below:
+50 (1) If an employer's payday falls on a Wednesday, Thursday, or Friday, the
+51 withheld taxes must be paid on or before the following Wednesday.
+DRS45301-SVxf-3C Page 3
+General Assembly Of North Carolina Session 2025
+1 (2) If an employer's payday falls on a Saturday, Sunday, Monday, or Tuesday, the
+2 withheld taxes must be paid on or before the following Friday.
+3 (3) If any of the three weekdays following the close of a semiweekly period is a
+4 legal holiday, the employer has an additional day for each day that is a legal
+5 holiday by which to pay the withheld taxes.
+6 …
+7 (f) The Secretary may close a taxpayer's withholding account if the taxpayer files no
+8 withholding returns or files returns showing no withholding of State income taxes for a period of
+9 18 months."
+10 SECTION 1.6. Except as otherwise provided, this Part is effective when this act
+11 becomes law.
+12
+13 PART II. CONFORM TO FEDERAL SYSTEM FOR AUDITING PARTNERSHIPS
+14 SECTION 2.(a) Part 2 of Article 4 of Chapter 105 of the General Statutes is amended
+15 by adding a new section to read:
+16 "§ 105-154.2. Federal partnership adjustments.
+17 (a) Definitions. – The following definitions apply in this Part:
+18 (1) Administrative adjustment request. – An administrative adjustment request
+19 filed by a partnership under section 6227 of the Code.
+20 (2) Audited partnership. – A partnership subject to a partnership level audit
+21 resulting in a federal partnership adjustment.
+22 (3) Corporate partner. – A partner that is subject to tax under Part 1 of this Article.
+23 (4) Direct partner. – A partner that holds a direct interest in a partnership subject
+24 to a federal partnership adjustment.
+25 (5) Exempt partner. – A partner that is not subject to State income tax under this
+26 Article that holds a direct interest in a partnership subject to a federal
+27 partnership adjustment.
+28 (6) Federal partnership adjustment. – A change or correction arising from a
+29 partnership level audit or an administrative adjustment request that affects the
+30 calculation of a taxpayer's State tax.
+31 (7) Federal partnership representative. – The person the partnership designates for
+32 the taxable year as the partnership's representative, or the person the Internal
+33 Revenue Service has appointed to act as the federal partnership representative,
+34 pursuant to section 6223(a) of the Code.
+35 (8) Final federal partnership adjustment. – A federal partnership adjustment that
+36 is final. A federal partnership adjustment is final when the federal partnership
+37 adjustment is not subject to administrative or judicial review. If the federal
+38 partnership adjustment results from filing an administrative adjustment
+39 request, the federal partnership adjustment is final when the administrative
+40 adjustment request is filed. Additionally, a federal partnership adjustment
+41 relating to a partnership level audit is deemed final in the following
+42 circumstances:
+43 a. The taxpayer has received a partnership level audit from the Internal
+44 Revenue Service for the tax period and the taxpayer does not timely
+45 file an administrative appeal with the Internal Revenue Service.
+46 b. The taxpayer consented to any of the partnership level audit findings
+47 for the tax period and through a final decision or other written
+48 agreement with the Internal Revenue Service all rights of appeal have
+49 been waived or exhausted.
+50 (9) Indirect partner. – A beneficiary of an estate or trust or an owner in a
+51 partnership or pass-through entity, where the estate, partnership, pass-through
+Page 4 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 entity, or trust holds, either itself or through another indirect partner, a direct
+2 interest, in a partnership or pass-through entity subject to a final federal
+3 partnership adjustment.
+4 (10) Partnership level audit. – An audit of a partnership by the Internal Revenue
+5 Service pursuant to Subchapter C of Title 26, Subtitle F, Chapter 63 of the
+6 Code, as enacted by the Bipartisan Budget Act of 2015, Public Law 114-74,
+7 which results in federal partnership adjustments.
+8 (11) Reviewed year. – The taxable year of a partnership that is subject to a
+9 partnership level audit from which federal partnership adjustments arise.
+10 (12) State partnership representative. – The federal partnership representative
+11 unless the partnership designates another person as its State partnership
+12 representative. The Secretary is authorized to establish procedures for
+13 designating a person, other than the federal partnership representative, to be a
+14 State partnership representative.
+15 (13) Tiered partner. – An estate, partnership, S Corporation, or trust that is a partner
+16 in a partnership subject to a federal partnership adjustment.
+17 (b) General Rule. – Except in the case of a final federal partnership adjustment that is
+18 required to be reported to the Secretary using the procedures in subsection (c) of this section, a
+19 partner must report and pay any State income tax due in accordance with the provisions of
+20 G.S. 105-130.20 or G.S. 105-159.
+21 (c) Reporting a Final Federal Partnership Adjustment. – Except for the distributive share
+22 of adjustments that have been reported as required by subsection (b) of this section and an audited
+23 partnership that has made a timely election under subsection (d) of this section, a partnership and
+24 a partner must report a final federal partnership adjustment as follows:
+25 (1) No later than 90 days after the final federal partnership adjustment, a
+26 partnership doing business in this State must do both of the following:
+27 a. File an income tax return reflecting the partnership's final federal
+28 partnership adjustments, as modified by G.S. 105-153.5 and
+29 G.S. 105-153.6, and any other information required by the Secretary,
+30 and pay the additional amount due under G.S. 105-154(d) and
+31 G.S. 105-154.1.
+32 b. Notify each of its direct partners of the direct partner's distributive
+33 share of the final federal partnership adjustments, including any
+34 information necessary for the direct partner to properly file a State
+35 income tax return. The information must be in the form prescribed by
+36 the Secretary.
+37 (2) No later than six months after the final federal partnership adjustment, each
+38 direct partner subject to tax under this Article must file a State income tax
+39 return reporting the direct partner's distributive share of the adjustments
+40 reported to the direct partner under sub-subdivision b. of subdivision (1) of
+41 this subsection, as modified by G.S. 105-153.5 and G.S. 105-153.6, and any
+42 other information required by the Secretary, and pay any additional amount of
+43 tax due as if the final federal partnership adjustments had been properly
+44 reported.
+45 (d) Election for Partnership to Pay; Exceptions. – Except as otherwise provided in
+46 subdivision (2) of this subsection, an audited partnership may elect to report a final federal
+47 partnership adjustment arising from a partnership level audit in the manner prescribed by the
+48 Secretary. An election made under this subsection is irrevocable and cannot be made if the
+49 required income tax return is not filed within the period required by this subsection. The
+50 following provisions apply to an audited partnership that makes an election under this subsection:
+DRS45301-SVxf-3C Page 5
+General Assembly Of North Carolina Session 2025
+1 (1) Reporting and payment of tax. – The reporting and payment requirements are
+2 as follows:
+3 a. No later than six months after the final federal partnership adjustment,
+4 the audited partnership must file an income tax return reflecting the
+5 partnership's final federal partnership adjustment, as modified by
+6 G.S. 105-153.5 and G.S. 105-153.6, and provide any other
+7 information required by the Secretary.
+8 b. No later than six months after the final federal partnership adjustment,
+9 the audited partnership must pay the amount determined under this
+10 subdivision. If properly reported and paid by the audited partnership,
+11 the amount shall be treated as paid in lieu of taxes owed by the direct
+12 and indirect partners, to the extent applicable, on the same final federal
+13 adjustment. The direct partners or indirect partners may not take a
+14 deduction or credit for this amount on the State income tax return or
+15 claim a refund of the amount paid on the State income tax return. The
+16 amount in lieu of taxes is calculated as follows:
+17 1. Exclude from the final federal adjustment the distributive share
+18 of all adjustments reported to an exempt partner not subject to
+19 tax under this Article.
+20 2. For the total distributive shares of the final federal adjustment,
+21 as modified by G.S. 105-153.5 and G.S. 105-153.6, reported to
+22 direct corporate partners subject to tax under this Article,
+23 apportion and allocate the adjustments as provided under
+24 G.S. 105-130.4 and multiply the resulting amount by the tax
+25 rate under G.S. 105-130.3.
+26 3. For the total distributive shares of the final federal adjustment,
+27 as modified by G.S. 105-153.5 and G.S. 105-153.6, reported to
+28 nonresident individual direct partners and estate and trust
+29 direct partners subject to tax under this Article, apportion and
+30 allocate such adjustments as provided under G.S. 105-130.4
+31 and multiply the resulting amount by the tax rate under
+32 G.S. 105-153.7.
+33 4. For the total distributive shares of the final federal adjustment,
+34 as modified by G.S. 105-153.5 and G.S. 105-153.6, reported to
+35 resident direct partners subject to tax under this Article,
+36 multiply that amount by the tax rate under G.S. 105-153.7. For
+37 purposes of this sub-sub-subdivision, an audited partnership
+38 may deduct from each resident direct partner's distributive
+39 share the amount of the resident direct partner's share of
+40 distributive income not attributable to the State from the
+41 partnership to the extent the resident direct partner's share of
+42 distributive income not attributable to the State was included
+43 in the partnership's taxable income in another state or the
+44 District of Columbia and was subject to an entity-level tax
+45 levied on the aggregate distributive share of the partnership's
+46 income allocable to one or more of its partners. A partnership
+47 is taxable in another state or the District of Columbia if the
+48 partnership's business activity in that state or the District of
+49 Columbia subjects the partnership to a net income tax or a tax
+50 measured by net income.
+Page 6 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 5. Add the amounts determined in sub-sub-subdivisions 1.
+2 through 4. of this sub-subdivision.
+3 (2) Exceptions. – A partnership may not elect to pay tax under this subsection if
+4 any of the following apply:
+5 a. The partnership made the election to be a taxed partnership under
+6 G.S. 105-154.1(a) for the reviewed year.
+7 b. The partnership's final federal partnership adjustment resulted from an
+8 administrative adjustment request.
+9 c. The partnership was not required to file an information return under
+10 the provisions of G.S. 105-154(c) for the reviewed year because the
+11 partnership was not doing business in this State for the reviewed year.
+12 (e) Collection of Tax for Failure to Pay. – If an audited partnership makes an election
+13 under subsection (d) of this section but does not pay the amount due, the Department may collect
+14 the tax from the audited partnership pursuant to G.S. 105-241.22(1). The Secretary must issue a
+15 notice of collection for the amount of the tax debt to the audited partnership. If the tax debt is not
+16 paid to the Secretary within 60 days of the date the notice of collection is mailed to the audited
+17 partnership, the Secretary may assess the partners of the audited partnership for the partners'
+18 distributive share of the tax debt by sending the partners a notice of proposed assessment in
+19 accordance with G.S. 105-241.9. For purposes of this subsection, the term "tax debt" has the
+20 same meaning as defined in G.S. 105-243.1(a).
+21 (f) Tiered Partners. – The direct and indirect partners of an audited partnership that are
+22 tiered partners, and all of the owners or beneficiaries of those tiered partners that are subject to
+23 tax under this Article, are subject to the reporting and payment requirements of subsection (c) of
+24 this section, and the tiered partners are entitled to make the election provided in subsection (d)
+25 of this section. The tiered partners or their owners must make required reports and payments no
+26 later than 90 days after the time for filing and furnishing statements to tiered partners and their
+27 owners or beneficiaries as established under section 6226 of the Code and the regulations
+28 thereunder. The Secretary is authorized to establish procedures and interim time periods for the
+29 reports and payments required by tiered partners and their owners or beneficiaries and for making
+30 the election under this subsection.
+31 (g) Failure of Audited Partnership or Tiered Partner to Report or Pay. – Nothing in this
+32 section prevents the Secretary from proposing an assessment against a direct partner or indirect
+33 partner pursuant to G.S. 105-241.9 for tax due, if a partnership or tiered partner fails to timely
+34 make any report or payment required by this section for any reason.
+35 (h) State Partnership Representative. – The partnership's direct partners and indirect
+36 partners are bound by the actions of the State partnership representative. In addition, with respect
+37 to any action required or permitted to be taken by a partnership under this section, the State
+38 partnership representative has the sole authority to:
+39 (1) Act on behalf of the partnership.
+40 (2) Bring a contested case hearing in accordance with G.S. 105-241.15.
+41 (3) Request a judicial review in accordance with G.S. 105-241.16.
+42 (i) Assessments of Additional State Tax Arising from a Final Federal Partnership
+43 Adjustment. – The Secretary must assess additional State tax arising from a final federal
+44 partnership adjustment in accordance with G.S. 105-241.9."
+45 SECTION 2.(b) G.S. 105-228.90(b) reads as rewritten:
+46 "(b) Definitions. – The following definitions apply in this Article:
+47 …
+48 (15) Federal determination. – A change or correction arising from an audit by the
+49 Commissioner of Internal Revenue or an agreement of the U.S. competent
+50 authority, and the change or correction has become final. final, but does not
+51 include a final federal partnership adjustment as defined in G.S. 105-154.2(a).
+DRS45301-SVxf-3C Page 7
+General Assembly Of North Carolina Session 2025
+1 A federal determination is final when the determination is not subject to
+2 administrative or judicial review. Additionally, audit findings made by the
+3 Internal Revenue Service are deemed final in the following circumstances:
+4 a. The taxpayer has received audit findings from the Internal Revenue
+5 Service for the tax period and the taxpayer does not timely file an
+6 administrative appeal with the Internal Revenue Service.
+7 b. The taxpayer consented to any of the audit findings for the tax period
+8 through a form or other written agreement with the Internal Revenue
+9 Service.
+10 (16) Final federal partnership adjustment. – As defined in G.S. 105-154.2(a).
+11 …."
+12 SECTION 2.(c) G.S. 105-153.5 reads as rewritten:
+13 "§ 105-153.5. Modifications to adjusted gross income.
+14 …
+15 (c2) Decoupling Adjustments. – In calculating North Carolina taxable income, a taxpayer
+16 must make the following adjustments to the taxpayer's adjusted gross income:
+17 …
+18 (24) A taxpayer must add the amount by which the taxpayer's distributive share of
+19 partnership income, subject to the adjustments provided in this section and
+20 G.S. 105-153.6, is increased as a result of a final federal partnership
+21 adjustment, as defined in G.S. 105-154.2(a), reported to this State under
+22 G.S. 105-154.2(c)(2).
+23 (25) A taxpayer may deduct the amount by which the taxpayer's distributive share
+24 of partnership income, as modified by this section and G.S. 105-153.6, is
+25 decreased as a result of a final federal partnership adjustment, as defined in
+26 G.S. 105-154.2(a), reported to this State under G.S. 105-154.2(c)(2).
+27 …."
+28 SECTION 2.(d) G.S. 105-130.5 reads as rewritten:
+29 "§ 105-130.5. Adjustments to federal taxable income in determining State net income.
+30 (a) The following additions to federal taxable income shall be made in determining State
+31 net income:
+32 …
+33 (33) The amount by which the taxpayer's distributive share of partnership income,
+34 subject to the adjustments provided in this section and G.S. 105-130.5B, is
+35 increased as a result of a final federal partnership adjustment, as defined in
+36 G.S. 105-154.2(a), reported to this State under G.S. 105-154.2(c)(2).
+37 (b) The following deductions from federal taxable income shall be made in determining
+38 State net income:
+39 …
+40 (33) The amount by which the taxpayer's distributive share of partnership income,
+41 subject to the adjustments provided in this section and G.S. 105-130.5B, is
+42 decreased as a result of a final federal partnership adjustment, as defined in
+43 G.S. 105-154.2(a), reported to this State under G.S. 105-154.2(c)(2).
+44 …."
+45 SECTION 2.(e) G.S. 105-241.6 reads as rewritten:
+46 "§ 105-241.6. Statute of limitations for refunds.
+47 …
+48 (b) Exceptions. – The exceptions to the general statute of limitations for obtaining a
+49 refund of an overpayment are as follows:
+50 …
+Page 8 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 (7) Final Federal Partnership Adjustment. – If a taxpayer files a return reflecting
+2 a final federal partnership adjustment and the return is filed within the time
+3 required by this Subchapter, the period for requesting a refund is one year after
+4 the return reflecting the final federal partnership adjustment is filed or three
+5 years after the original return was filed or due to be filed, whichever is later."
+6 SECTION 2.(f) G.S. 105-241.8 reads as rewritten:
+7 "§ 105-241.8. Statute of limitations for assessments.
+8 (a) General. – The general statute of limitations for proposing an assessment applies
+9 unless a different period applies under subsection (b) of this section. The general statute of
+10 limitations for proposing an assessment is the later of the following:
+11 (1) Three years after the due date of the return.
+12 (2) Three years after the taxpayer filed the return.
+13 (b) Exceptions. – The exceptions to the general statute of limitations for proposing an
+14 assessment are as follows:
+15 …
+16 (6) Final federal partnership adjustment. – If a taxpayer files a return reflecting a
+17 final federal partnership adjustment and the return is filed within the time
+18 required by this Subchapter, the period for proposing an assessment of any tax
+19 due is one year after the return is filed or three years after the original return
+20 was filed or due to be filed, whichever is later. If there is a final federal
+21 partnership adjustment and the taxpayer does not file the return within the
+22 required time, the period for proposing an assessment of any tax due is six
+23 years after the date the Secretary received the final report of the final federal
+24 partnership adjustment."
+25 SECTION 2.(g) This Part is effective for taxable years beginning on or after January
+26 1, 2025, and applies to federal partnership adjustments that become final on or after that date.
+27
+28 PART III. SALES TAX CHANGES
+29 SECTION 3.1.(a) G.S. 105-164.8(b) reads as rewritten:
+30 "(b) Remote Sales. – A retailer who makes a remote sale is engaged in business in this
+31 State and is subject to the tax levied under this Article if at least one of the following conditions
+32 is met:
+33 …
+34 (9) The retailer makes gross sales in excess of one hundred thousand dollars
+35 ($100,000) from remote sales sourced to this State, including sales as a
+36 marketplace seller, for the previous or the current calendar year. A retailer that
+37 solely meets this condition, or both this condition and the condition in
+38 subdivision (10) of this subsection, is engaged in business on the first day of
+39 the first calendar month occurring at least 60 days after the retailer's gross
+40 sales exceed the threshold.
+41 (10) The retailer is a marketplace facilitator that makes gross sales in excess of one
+42 hundred thousand dollars ($100,000), including all marketplace-facilitated
+43 sales for all marketplace sellers, from sales sourced to this State for the
+44 previous or the current calendar year. A retailer that solely meets this
+45 condition, or both this condition and the condition in subdivision (9) of this
+46 subsection, is engaged in business on the first day of the first calendar month
+47 occurring at least 60 days after the retailer's gross sales exceed the threshold."
+48 SECTION 3.1.(b) This section is effective when it becomes law and applies to
+49 retailers that exceed the threshold on or after that date.
+50 SECTION 3.2. G.S. 105-164.3(259) reads as rewritten:
+DRS45301-SVxf-3C Page 9
+General Assembly Of North Carolina Session 2025
+1 "(259) Streamlined Agreement. – The Streamlined Sales and Use Tax Agreement as
+2 amended as of November 7, 2023.October 9, 2024."
+3 SECTION 3.3.(a) G.S. 105-187.90(9) reads as rewritten:
+4 "(9) Shared for-hire ground transport Shared-ride service. – A for-hire ground
+5 transport service for which an individual has been matched with another
+6 individual by a for-hire ground transport service provider."
+7 SECTION 3.3.(b) G.S. 105-187.95 reads as rewritten:
+8 "§ 105-187.95. Use of tax proceeds.
+9 Each quarter, the The Secretary shall credit the net tax proceeds of the taxes collected under
+10 this Article to the Highway Fund. The Secretary may retain the cost of administering this Article
+11 as reimbursement to the Department."
+12 SECTION 3.3.(c) This section becomes effective July 1, 2025.
+13 SECTION 3.4. Except as otherwise provided, this Part is effective when this act
+14 becomes law.
+15
+16 PART IV. EXCISE TAX CHANGES
+17 SECTION 4.1. G.S. 105-113.39A(a2) reads as rewritten:
+18 "(a2) Vapor Products License. – A wholesale dealer or a retail dealer must obtain a vapor
+19 products license for all of the following locations:
+20 (1) Each location where a wholesale dealer makes vapor products.
+21 (2) Each location where a wholesale dealer or a retail dealer receives or stores
+22 non-tax-paid vapor products.
+23 (3) Each location from where a retail dealer that is a delivery seller or a remote
+24 seller receives or stores non-tax-paid vapor products for delivery sales if the
+25 location is a location other than the location described in subdivision (2) of
+26 this subsection."
+27 SECTION 4.2. G.S. 105-113.83A(a) reads as rewritten:
+28 "(a) Registration Required. – A person who holds a wine shipper permit issued under
+29 G.S. 18B-1001.1 or one or more of the following ABC permits issued under Article 11 of Chapter
+30 18B of the General Statutes must register with the Secretary:
+31 (1) Unfortified winery.
+32 (2) Fortified winery.
+33 (3) Brewery.
+34 (4) Distillery.
+35 (5) Wine importer.
+36 (6) Wine wholesaler.
+37 (7) Malt beverages importer.
+38 (8) Malt beverages wholesaler.
+39 (9) Nonresident malt beverage vendor.
+40 (10) Nonresident wine vendor.
+41 (11) Wine Producer.
+42 (12) Nonresident spirituous liquor vendor."
+43 SECTION 4.3.(a) G.S. 105-449.42 reads as rewritten:
+44 "§ 105-449.42. Payment of tax.
+45 The tax levied by this Article is due when a quarterly return is due under G.S. 105-449.45.
+46 The amount of tax due is calculated on the amount of motor fuel or alternative fuel used by the
+47 motor carrier in its operations within this State during the quarter covered by the return. If a
+48 motor carrier is exempt from filing a return under G.S. 105-449.45(b)(2), the tax levied by this
+49 Article is due when the tax becomes collectible under G.S. 105-241.22.by the last day of the
+50 month following the quarter in which the motor fuel or alternative fuel was used by the motor
+51 carrier."
+Page 10 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.3.(b) This section becomes effective July 1, 2025, and applies to taxes
+2 due on or after that date.
+3 SECTION 4.4.(a) G.S. 105-449.60 reads as rewritten:
+4 "§ 105-449.60. Definitions.
+5 The following definitions apply in this Article:
+6 …
+7 (43a) Renewable diesel. – A motor fuel chemically equivalent to petroleum diesel
+8 that is manufactured from organic feedstocks using a hydrogenation process.
+9 Renewable diesel meets ASTM D975 specifications for diesel fuel.
+10 …."
+11 SECTION 4.4.(b) G.S. 105-449.60(12) reads as rewritten:
+12 "(12) Diesel fuel. – Any liquid, other than gasoline, that is suitable for use as a fuel
+13 in a diesel-powered highway vehicle. The term includes biodiesel, fuel oil,
+14 heating oil, high-sulfur dyed diesel fuel, and kerosene. kerosene, and
+15 renewable diesel. The term does not include jet fuel."
+16 SECTION 4.5.(a) G.S. 105-449.60(46) reads as rewritten:
+17 "(46) Supplier. – Any of the following:
+18 a. A position holder or a person who receives motor fuel pursuant to a
+19 two-party exchange.
+20 b. A fuel alcohol provider.
+21 c. A biodiesel provider.
+22 d. Repealed by Session Laws 2017-39, s. 12, effective June 21, 2017.
+23 e. A purchaser of tax-paid motor fuel who introduces the respective
+24 tax-paid motor fuel into the terminal transfer system at a location other
+25 than an IRS-registered terminal.
+26 f. A person who owns tax-paid motor fuel at the time it is placed in the
+27 terminal transfer system at a location other than an IRS-registered
+28 terminal."
+29 SECTION 4.5.(b) G.S. 105-449.97(e) reads as rewritten:
+30 "(e) Credit for Motor Fuel in Terminal. Terminal Transfer System. – When filing a return,
+31 a licensed supplier who is the position holder may take a credit for tax-paid motor fuel in the
+32 terminal system.transfer system if any of the following apply:
+33 (1) The supplier is a position holder.
+34 (2) The supplier is the original purchaser of tax-paid motor fuel that is placed in
+35 the terminal transfer system at a location other than an IRS-registered
+36 terminal.
+37 (3) The supplier owns tax-paid motor fuel at the time it is placed in the terminal
+38 transfer system at a location other than an IRS-registered terminal."
+39 SECTION 4.5.(c) This section is effective July 1, 2025.
+40 SECTION 4.6.(a) G.S. 105-449.69 reads as rewritten:
+41 "§ 105-449.69. How to apply for a license.
+42 …
+43 (e) Export Activity. – An applicant for a license as an exporter or as a distributor must
+44 list on the application each state to which the applicant intends to export motor fuel received in
+45 this State by means of a transfer that is outside the terminal transfer system and, if required by a
+46 state listed, must be licensed or registered for motor fuel tax purposes in that state. If a state listed
+47 requires the applicant to be licensed or registered, the applicant must give the applicant's license
+48 or registration number in that state. If the Secretary determines that an exporter is no longer
+49 operating in this State, and the exporter has failed to comply with G.S. 105-449.75, the Secretary
+50 may cancel the exporter license and send notice of the cancellation in accordance with
+51 G.S. 105-449.76(b1)."
+DRS45301-SVxf-3C Page 11
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.6.(b) G.S. 105-449.76(a) reads as rewritten:
+2 "(a) Cancellation. – The Secretary may cancel a license issued under this Article upon the
+3 written request of the licensee. licensee or as permitted under G.S. 105-449.69(e). The licensee's
+4 request must include a proposed effective date of cancellation and must return the license to the
+5 Secretary on or before the proposed effective date. If the licensee's request does not include a
+6 proposed effective date of cancellation, the license is cancelled 15 days after the Department
+7 receives the written request. If the license is unable to be returned, the licensee must include a
+8 written statement of the reasons, satisfactory to the Secretary, why the license cannot be returned.
+9 The Secretary shall notify the licensee when the license is cancelled."
+10 SECTION 4.7. G.S. 105-449.87(a)(3) reads as rewritten:
+11 "(3) Motor fuel that is used to operate a highway vehicle after an application for a
+12 refund of tax paid on the motor fuel is made or allowed under G.S.
+13 105-449.107(a) G.S. 105-449.106(d) on the basis that the motor fuel was used
+14 for an off-highway purpose."
+15 SECTION 4.8. G.S. 105-449.139 reads as rewritten:
+16 "§ 105-449.139. Miscellaneous provisions.
+17 (a) Records. – A person required to be licensed under this Article must keep a record of
+18 all documents used to determine the information provided in a return filed under this Article. The
+19 records must be kept for the applicable period of statute of limitations as set forth under Article
+20 9 of this Chapter. If the records apply to a transaction not required to be reported in a return, the
+21 records must be kept for three years from the date of the transaction. The Secretary or a person
+22 designated by the Secretary shall have the right at any reasonable time to inspect the records.
+23 (b) Violations. – The offenses listed in subdivisions (1) through (9) of G.S. 105-449.120
+24 apply to this Article. In applying those offenses to this Article, references to "this Article" are to
+25 be construed as references to Article 36D and references to "motor fuel" are to be construed as
+26 references to alternative fuel.
+27 (c) Lists. – The Secretary must make available a list of licensed alternative fuel providers
+28 to each licensed bulk end-user and licensed retailer. The Secretary must also make available a
+29 list of licensed bulk end-users and licensed retailers to each licensed alternative fuel provider. A
+30 list must state the name, account number, and business address of each licensee on the list. The
+31 Secretary must update the lists required under this section annually.
+32 (d) Inspection. – The Secretary, or the Secretary's designee, shall have the right at any
+33 reasonable time to inspect the records subject to audit under this section and may do any of the
+34 following to determine tax liability under this Article:
+35 (1) Audit a person who is required to have or elects to have a license under this
+36 Article.
+37 (2) Audit a retailer, bulk-end user, or a provider that is not licensed under this
+38 Article.
+39 (3) Examine a tank or other equipment used to make, store, or transport
+40 alternative fuel."
+41 SECTION 4.9. G.S. 150B-2(3) reads as rewritten:
+42 "(3) License. – Any certificate, permit, or other evidence, by whatever name
+43 called, of a right or privilege to engage in any activity, except licenses issued
+44 under Chapter 20 and Subchapter I and Subchapter V of Chapter 105 of the
+45 General Statutes, occupational licenses, and certifications of electronic poll
+46 books, ballot duplication systems, or voting systems under G.S. 163-165.7."
+47 SECTION 4.10. G.S. 18C-901(7) reads as rewritten:
+48 "(7) Gross wagering revenue. – The total of amounts received by an interactive
+49 sports wagering operator from sports wagers as authorized under this Article
+50 less the amounts paid as winnings before any deductions for expenses, fees,
+51 or taxes. Gross wagering revenue includes the cash value of any bonuses or
+Page 12 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 promotional credits when returned to an interactive sports wagering operator
+2 in the form of a deposit or sports wager."
+3 SECTION 4.11. Except as otherwise provided, this Part is effective when this act
+4 becomes law.
+5
+6 PART V. ADMINISTRATIVE CHANGES
+7 SECTION 5.1. G.S. 105-228.90 reads as rewritten:
+8 "§ 105-228.90. Scope and definitions.
+9 (a) Scope. – This Article applies to all of the following:
+10 …
+11 (3) The primary forest product assessment levied under Article 81 84 of Chapter
+12 106 of the General Statutes.
+13 …
+14 (b) Definitions. – The following definitions apply in this Article:
+15 …
+16 (7) Code. – The Internal Revenue Code as enacted as of January 1, 2023, January
+17 1, 2025, including any provisions enacted as of that date that become effective
+18 either before or after that date.
+19 …
+20 (23) Person. – An individual, a fiduciary, a firm, an association, a partnership, a
+21 limited liability company, a corporation, a unit of government, or another
+22 group acting as a unit. The term includes an officer or employee of a
+23 corporation, a member, a manager, or an employee of a limited liability
+24 company, and a member or employee of a partnership who, as officer,
+25 employee, member, or manager, is under a duty to perform an act in meeting
+26 the requirements of Subchapter I, V, or VIII of this Chapter, of G.S. 55-16-22,
+27 of Article 81 84 of Chapter 106 of the General Statutes, or of Article 3 of
+28 Chapter 119 of the General Statutes.
+29 …
+30 (27) Tax. – A tax levied under Subchapter I, V, or VIII of this Chapter, the primary
+31 forest product assessment levied under Article 81 84 of Chapter 106 of the
+32 General Statutes, or an inspection tax levied under Article 3 of Chapter 119 of
+33 the General Statutes. Unless the context clearly requires otherwise, the term
+34 "tax" includes penalties and interest as well as the principal amount.
+35 (29) Taxpayer. – A person subject to the tax or reporting requirements of
+36 Subchapter I, V, or VIII of this Chapter, of Article 81 84 of Chapter 106 of
+37 the General Statutes, or of Article 3 of Chapter 119 of the General Statutes.
+38 …."
+39 SECTION 5.2. G.S. 105-236(a) reads as rewritten:
+40 "(a) Penalties. – The following civil penalties and criminal offenses apply:
+41 …
+42 (1b) Making Payment in Wrong Form. – For making a payment of tax in a form
+43 other than the form required by the Secretary pursuant to G.S. 105-241(a), the
+44 Secretary shall assess a penalty equal to five percent (5%) of the amount of
+45 the tax, subject to a minimum of one dollar ($1.00) and a maximum of one
+46 thousand dollars ($1,000). This penalty may be waived by the Secretary in
+47 accordance with G.S. 105-237.
+48 …
+49 (10a) Filing a Frivolous Return. – If a taxpayer files a frivolous return under Part 2
+50 of Article 4 of this Chapter, the Secretary shall assess a penalty in the amount
+DRS45301-SVxf-3C Page 13
+General Assembly Of North Carolina Session 2025
+1 of up to five hundred dollars ($500.00). two thousand dollars ($2,000). A
+2 frivolous return is a return that meets both of the following requirements:
+3 a. It fails to provide sufficient information to permit a determination that
+4 the return is correct or contains information which positively indicates
+5 the return is incorrect, and
+6 b. It evidences an intention to delay, impede or negate the revenue laws
+7 of this State or purports to adopt a position that is lacking in
+8 seriousness.
+9 …."
+10 SECTION 5.3. G.S. 105-249.2 reads as rewritten:
+11 "§ 105-249.2. Due date extended and penalties waived Relief for certain military personnel
+12 or persons affected by a presidentially declared disaster.
+13 (a) Combat. – The Secretary may not assess interest or a penalty against a taxpayer for
+14 any period that is disregarded under section 7508 of the Code in determining the taxpayer's
+15 liability for a federal tax. A taxpayer is granted an extension of time to file a return or take another
+16 action concerning a State tax for any period during which the Secretary may not assess interest
+17 or a penalty under this section.
+18 (b) Disaster. – The penalties in G.S. 105-236(a)(2), (3), (4), and (10)c. may not be
+19 assessed for any period in which the time for filing a federal return or report or for paying a
+20 federal tax is extended disregarded under section 7508A of the Code because of a presidentially
+21 declared disaster. The extension of time granted period of time disregarded by the Internal
+22 Revenue Service under section 7508A of the Code only applies to the corresponding State tax
+23 return or payment. For State returns and payments without a corresponding federal return and
+24 payment, the extension granted period of time disregarded for individual income tax returns and
+25 payments by the Internal Revenue Service under section 7508A of the Code applies. For the
+26 purpose of this section, "presidentially declared disaster" has the same meaning as in section
+27 1033(h)(3) of the Code."
+28 SECTION 5.4. Except as otherwise provided, this Part is effective when this act
+29 becomes law.
+30
+31 PART VI. PROPERTY TAX CHANGES
+32 SECTION 6.(a) G.S. 105-278.2 reads as rewritten:
+33 "§ 105-278.2. Burial property.
+34 (a) Commercial Property. – Real property set apart for human burial purposes that is
+35 owned and held for purposes of (i) sale or rental or (ii) sale of burial rights therein is exempt from
+36 taxation. A single application is required under G.S. 105-282.1 for property exempt under this
+37 subsection.
+38 (b) Other Property. – Real property set apart for human burial purposes not owned and
+39 held for a purpose listed in subsection (a) of this section is exempt from taxation. No application
+40 is required under G.S. 105-282.1 for property exempt under this subsection. A local government
+41 cannot deny the exemption provided under this subsection to a taxpayer that lacks a survey or
+42 plat detailing the exempt property.
+43 (c) Terms. – For purposes of this section, the term "real property" includes land, tombs,
+44 vaults, monuments, and mausoleums, and the term "burial" includes entombment."
+45 SECTION 6.(b) Except as otherwise provided, this Part is effective when this act
+46 becomes law.
+47
+48 PART VII. PROVIDE TAX PARITY FOR SHORT-TERM CAR RENTALS TO
+49 INCLUDE PEER-TO-PEER RENTALS
+50 SECTION 7.1.(a) G.S. 105-187.1(a) reads as rewritten:
+51 "(a) The following definitions and the definitions in G.S. 105-164.3 apply to this Article:
+Page 14 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 …
+2 (3b) Peer-to-peer vehicle sharing provider. – As defined in G.S. 20-280.15.
+3 …
+4 (6) Retailer. – A retailer as defined in G.S. 105-164.3 who is engaged in the
+5 business of selling, leasing, renting, offering short-term leases or rentals,
+6 long-term leases or rentals, or offering vehicle subscriptions for motor
+7 vehicles.
+8 (7) Short-term lease or rental. – A lease or rental of a motor vehicle or motor
+9 vehicles, vehicles by a person, including a vehicle sharing service, service or
+10 a peer-to-peer vehicle sharing provider, that is not a long-term lease or rental
+11 or a vehicle subscription.
+12 …."
+13 SECTION 7.1.(b) G.S. 105-187.3(a) reads as rewritten:
+14 "(a) Tax Base. – The Except as otherwise provided in G.S. 105-187.5, the tax imposed by
+15 this Article is applied to the sum of the retail value of a motor vehicle for which a certificate of
+16 title is issued and any fee regulated by G.S. 20-101.1. The tax does not apply to the sales price
+17 of a service contract, provided the charge is separately stated on the bill of sale or other similar
+18 document given to the purchaser at the time of the sale."
+19 SECTION 7.1.(c) G.S. 105-187.4(a) reads as rewritten:
+20 "(a) Method. – The Except as otherwise provided in G.S. 105-187.5, the tax imposed by
+21 this Article must be paid to the Commissioner when applying for a certificate of title for a motor
+22 vehicle. The Commissioner may not issue a certificate of title for a vehicle until the tax imposed
+23 by this Article has been paid. The tax may be paid in cash or by check."
+24 SECTION 7.1.(d) G.S. 105-187.5 reads as rewritten:
+25 "§ 105-187.5. Alternate tax for Tax on a limited possession commitment.
+26 (a) Applicability. – A retailer listed in this section shall pay a tax on the gross receipts of
+27 a limited possession commitment in accordance with this section. The tax is for the privilege of
+28 using the highways of this State and is imposed on a retailer but is to be added to a limited
+29 possession commitment and paid by the person who enters into a limited possession commitment
+30 with the retailer. The retailers are:
+31 (1) A retailer that purchases a motor vehicle for use as a limited possession
+32 commitment and makes an election under this section.
+33 (2) A peer-to-peer vehicle sharing provider.
+34 (a1) Election. – A retailer that has purchased a motor vehicle for a limited possession
+35 commitment may elect not to pay to pay the tax imposed by this section instead of the tax imposed
+36 by this Article at the rate set in G.S. 105-187.3 when applying for a certificate of title for a motor
+37 vehicle purchased by the retailer for a limited possession commitment. A retailer who makes this
+38 election shall pay a tax on the gross receipts of the limited possession commitment of the vehicle.
+39 title. To make the election, the retailer shall complete a form provided by the Division providing
+40 the information needed to collect the alternate tax based on gross receipts. Once made, an election
+41 is irrevocable. The Division shall notify the Secretary of Revenue of a retailer who makes the
+42 election under this subsection.
+43 (a2) Gross Receipts. – Gross receipts do not include the amount of any allowance given
+44 for a motor vehicle taken in trade as a partial payment on the limited possession commitment.
+45 The portion of a limited possession commitment billing or payment that represents any amount
+46 applicable to the sales price of a service contract as defined in G.S. 105-164.3 should not be
+47 included in the gross receipts subject to the tax imposed by this Article. section. The charge must
+48 be separately stated on documentation given to the purchaser at the time the limited possession
+49 commitment goes into effect, or on the monthly billing statement or other documentation given
+50 to the purchaser. When a limited possession commitment is sold to another retailer, the seller of
+51 the limited possession commitment should provide to the purchaser of the limited possession
+DRS45301-SVxf-3C Page 15
+General Assembly Of North Carolina Session 2025
+1 commitment the documentation showing that the service contract and applicable sales taxes were
+2 separately stated at the time the limited possession commitment went into effect effect, and the
+3 new retailer must retain the information to support an allocation for tax computed on the gross
+4 receipts subject to highway use tax. Like the tax imposed by G.S. 105-187.3, this alternate tax is
+5 a tax on the privilege of using the highways of this State. The tax is imposed on a retailer, but is
+6 to be added to the limited possession commitment of a motor vehicle and thereby be paid by the
+7 person who enters into a limited possession commitment with a retailer.
+8 (b) Rate. – The applicable tax rates on the gross receipts from a limited possession
+9 commitment are as listed in this subsection. Gross receipts does not include the amount of any
+10 allowance given for a motor vehicle taken in trade as a partial payment on the limited possession
+11 commitment. The maximum tax in G.S. 105-187.3(a1) on certain motor vehicles applies to a
+12 continuous limited possession commitment of such a motor vehicle to the same person. The
+13 applicable tax rates are as follows:
+14 Type of Limited Possession Commitment Tax Rate
+15 Short-term lease or rental 8%
+16 Vehicle subscription 5%
+17 Long-term lease or rental 3%
+18 (c) Method. – A retailer who elects to pay tax on the gross receipts of the limited
+19 possession commitment of a motor vehicle shall make this election when applying for a
+20 certificate of title for the vehicle. To make the election, the retailer shall complete a form provided
+21 by the Division giving information needed to collect the alternate tax based on gross receipts.
+22 Once made, an election is irrevocable.
+23 (d) Administration. – The Division shall notify the Secretary of Revenue of a retailer who
+24 makes the election under this section. A retailer who makes this election pays the tax under this
+25 section shall report and remit to the Secretary the tax on the gross receipts of the limited
+26 possession commitment of the motor vehicle. The Secretary shall administer the tax imposed by
+27 this section on gross receipts in the same manner as the tax levied under G.S. 105-164.4(a)(2).
+28 The administrative provisions and powers of the Secretary that apply to the tax levied under
+29 G.S. 105-164.4(a)(2) apply to the tax imposed by this section. In addition, the Division may
+30 request the Secretary to audit a retailer who elects to pay tax on gross receipts under this section.
+31 When the Secretary conducts an audit at the request of the Division, the Division shall reimburse
+32 the Secretary for the cost of the audit, as determined by the Secretary. In conducting an audit of
+33 a retailer under this section, the Secretary may audit any sales of motor vehicles made by the
+34 retailer."
+35 SECTION 7.2.(a) G.S. 153A-156 reads as rewritten:
+36 "§ 153A-156. Gross receipts tax on short-term leases or rentals.
+37 (a) As a substitute for and in replacement of the ad valorem tax, which is excluded by
+38 G.S. 105-275(42), a A county may levy a gross receipts tax on the gross receipts from the
+39 short-term lease or rental of vehicles at retail to the general public. The tax rate shall not exceed
+40 one and one-half percent (1.5%) of the gross receipts from such the short-term leases or rentals.
+41 (b) If a county enacts the substitute and replacement a gross receipts tax pursuant to this
+42 section, any an entity required to collect the tax shall include a provision in each retail short-term
+43 lease or rental agreement noting that the percentage amount enacted by the county of the total
+44 lease or rental price, excluding highway use tax, is being charged as a tax on gross receipts. For
+45 purposes of this section, the transaction giving rise to the tax shall be deemed to have occurred
+46 occurs at the location of the entity from which where the customer takes delivery of the vehicle.
+47 The tax shall be collected at the time of lease or rental and placed in a segregated account until
+48 remitted to the county.
+49 …
+50 (e) The following definitions in G.S. 105-187.1 apply in this section:section.
+51 (1) Short-term lease or rental. – Defined in G.S. 105-187.1.
+Page 16 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 (2) Vehicle. – Any of the following:
+2 a. A motor vehicle of the passenger type, including a passenger van,
+3 minivan, or sport utility vehicle.
+4 b. A motor vehicle of the cargo type, including cargo van, pickup truck,
+5 or truck with a gross vehicle weight of 26,000 pounds or less used
+6 predominantly in the transportation of property for other than
+7 commercial freight and that does not require the operator to possess a
+8 commercial drivers license.
+9 c. A trailer or semitrailer with a gross vehicle weight of 6,000 pounds or
+10 less.
+11 …."
+12 SECTION 7.2.(b) G.S. 160A-215.1 reads as rewritten:
+13 "§ 160A-215.1. Gross receipts tax on short-term leases or rentals.
+14 (a) As a substitute for and in replacement of the ad valorem tax, which is excluded by
+15 G.S. 105-275(42), a A city may levy a gross receipts tax on the gross receipts from the short-term
+16 lease or rental of vehicles at retail to the general public. The tax rate shall not exceed one and
+17 one-half percent (1.5%) of the gross receipts from such the short-term leases or rentals.
+18 (b) If a city enacts the substitute and replacement a gross receipts tax pursuant to this
+19 section, any an entity required to collect the tax shall include a provision in each retail short-term
+20 lease or rental agreement noting that the percentage amount enacted by the city of the total lease
+21 or rental price, excluding highway use tax, is being charged as a tax on gross receipts. For
+22 purposes of this section, the transaction giving rise to the tax shall be deemed to have occurred
+23 occurs at the location of the entity from which where the customer takes delivery of the vehicle.
+24 The tax shall be collected at the time of lease or rental and placed in a segregated account until
+25 remitted to the city.
+26 …
+27 (e) The following definitions in G.S. 105-187.1 apply in this section:section.
+28 (1) Short-term lease or rental. – Defined in G.S. 105-187.1.
+29 (2) Vehicle. – Any of the following:
+30 a. A motor vehicle of the passenger type, including a passenger van,
+31 minivan, or sport utility vehicle.
+32 b. A motor vehicle of the cargo type, including cargo van, pickup truck,
+33 or truck with a gross vehicle weight rating of 26,000 pounds or less
+34 used predominantly in the transportation of property for other than
+35 commercial freight and that does not require the operator to posses a
+36 commercial drivers license.
+37 c. A trailer or semitrailer with a gross vehicle weight of 6,000 pounds or
+38 less.
+39 …."
+40 SECTION 7.2.(c) G.S. 105-550 reads as rewritten:
+41 "§ 105-550. Definitions.
+42 The definitions in G.S. 105-164.3 G.S. 105-164.3, G.S. 105-187.1, and the following
+43 definitions apply in this Article:
+44 (1) Authority. – A regional public transportation authority or a regional
+45 transportation authority created pursuant to Article 26 or Article 27 of Chapter
+46 160A of the General Statutes.
+47 (2) Long-term lease or rental. – Defined in G.S. 105-187.1.
+48 (3) Motorcycle. – Defined in G.S. 20-4.01.
+49 (4) Repealed by Session Laws 1998-98, s. 33, effective August 14, 1998.
+50 (5) Public transportation system. – Any combination of real and personal property
+51 established for purposes of public transportation. The systems may include
+DRS45301-SVxf-3C Page 17
+General Assembly Of North Carolina Session 2025
+1 one or more of the following: structures, improvements, buildings, equipment,
+2 vehicle parking or passenger transfer facilities, railroads and railroad
+3 rights-of-way, rights-of-way, bus services, shared-ride services,
+4 high-occupancy vehicle facilities, car-pool and vanpool programs, voucher
+5 programs, telecommunications and information systems, integrated fare
+6 systems, bus lanes, and busways. The term does not include, however, streets,
+7 roads, or highways except to the extent they are dedicated to public
+8 transportation vehicles or to the extent they are necessary for access to vehicle
+9 parking or passenger transfer facilities.
+10 (6) Short-term lease or rental. – Defined in G.S. 105-187.1.
+11 (7) U-drive-it vehicle. – Defined in G.S. 20-4.01."
+12 SECTION 7.2.(d) G.S. 105-551 reads as rewritten:
+13 "§ 105-551. Tax on gross receipts authorized.
+14 (a) Tax. – The board of trustees of an Authority may levy a privilege tax on a retailer
+15 who is engaged in the business of leasing or renting U-drive-it vehicles or motorcycles described
+16 in this subsection based on the gross receipts derived by the retailer from the short-term lease or
+17 rental of these vehicles. The tax rate must be a percentage and may not exceed five percent (5%).
+18 A tax levied under this section applies to short-term leases or rentals made by a retailer whose
+19 place of business or inventory is located within the territorial jurisdiction of the Authority. This
+20 tax is in addition to all other taxes. The retailers subject to this section are:
+21 (1) A retailer engaged in the business of leasing or renting U-drive-it vehicles or
+22 motorcycles and whose place of business or inventory is located within the
+23 territorial jurisdiction of the Authority.
+24 (2) A peer-to-peer vehicle sharing provider if the customer takes delivery of the
+25 vehicle within the territorial jurisdiction of the Authority.
+26 …."
+27 SECTION 7.2.(e) G.S. 105-552 reads as rewritten:
+28 "§ 105-552. Collection and administration of gross receipts tax.
+29 …
+30 (b) Collection. – A tax levied by an Authority under this Article shall be collected by the
+31 Authority but shall otherwise be administered in the same manner as the optional gross receipts
+32 tax levied by under G.S. 105-187.5. Like the optional gross receipts tax, a tax levied under this
+33 Article is to be added to the lease or rental price of a U-drive-it vehicle or motorcycle the vehicle
+34 and thereby be paid by the person to whom it is leased or rented.
+35 A tax levied under this Article applies regardless of whether the a retailer who leases or rents
+36 the U-drive-it vehicle or motorcycle has the option of paying the gross receipts tax under
+37 G.S. 105-187.5 has elected to pay the optional gross receipts tax on the lease or rental receipts
+38 from the vehicle. A tax levied under this Article must be paid to the Authority that levied the tax
+39 by the date an optional the gross receipts tax levied under G.S. 105-187.5 is payable or would be
+40 payable to the Secretary of Revenue under G.S. 105-187.5 if the retailer who leases or rents the
+41 U-drive-it vehicle or motorcycle had elected to pay the optional gross receipts tax.
+42 (c) Penalties and Remedies. – The penalties and remedies that apply to local sales and
+43 use taxes levied under Subchapter VIII of this Chapter apply to a tax levied under this Article.
+44 The board of trustees of an Authority may exercise any power the Secretary of Revenue or a
+45 board of county commissioners may exercise in collecting local sales and use taxes."
+46 SECTION 7.3.(a) G.S. 20-280.15 reads as rewritten:
+47 "§ 20-280.15. Definitions.
+48 The following definitions apply in this Article:
+49 (1) Airport operator. – As defined in G.S. 20-280.1.
+Page 18 DRS45301-SVxf-3C
+General Assembly Of North Carolina Session 2025
+1 (2) Peer-to-peer vehicle sharing. – The authorized use of a shared vehicle by an
+2 individual other than the shared vehicle owner through a peer-to-peer vehicle
+3 sharing program.
+4 (3) Peer-to-peer vehicle sharing program. – A business platform that connects
+5 shared registered vehicle owners that have not made an election under
+6 G.S. 105-187.5 with drivers to enable the sharing of vehicles for financial
+7 consideration.
+8 (4) Shared vehicle. – A vehicle that is available for sharing through a peer-to-peer
+9 vehicle sharing program.
+10 (5) Shared vehicle owner. – The registered owner of a shared vehicle that is made
+11 available for sharing through a peer-to-peer vehicle sharing program.
+12 (6) Vehicle Peer-to-peer vehicle sharing provider. – The A person or entity that
+13 operates, facilitates, or administers the provision of personal vehicle sharing
+14 through a peer-to-peer vehicle sharing program."
+15 SECTION 7.3.(b) G.S. 20-280.17 reads as rewritten:
+16 "§ 20-280.17. Airport operators.
+17 An airport operator may (i) charge peer-to-peer vehicle sharing programs providers a
+18 reasonable fee for the use of the airport's facility, (ii) require an identifying decal be displayed
+19 on all shared vehicles that operate on airport property, (iii) require the purchase and use of
+20 equipment or establish other appropriate mechanisms for monitoring and auditing compliance,
+21 including having a peer-to-peer vehicle sharing program provider provide data for purposes of
+22 monitoring and auditing compliance, and (iv) designate a location where shared vehicles may
+23 stage on the airport operator's facility."
+24 SECTION 7.4. This Part becomes effective October 1, 2025, and applies to gross
+25 receipts derived from rentals or leases billed on or after that date.
+26
+27 PART VIII. EFFECTIVE DATE
+28 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+29 law.
+DRS45301-SVxf-3C Page 19
+[DELETED:  D R ( S  A A A C F A P B I T A T P L F F C A B A R F F R B E A H U T T I P T  P S " … ( O d t … ( T C n e t c a b d i a w G C ( A t a … ( T C t i a b a s u G e t c a b d i a w G C … S J S]
+[DELETED:  S  D " … ( L t S " S t d a f ( N ( T a o ( T ( N d s b a u G f t c d ( T s d ( A ( T a o t t e b l a d u t p o S l ( r S " ( S t T u e t t a p i G a G a a b t ( T t e t t i ( i d f N C s a i a t t o a s G u ( T R – T t o t a c a i a t r l i G c ( A – F t p o t s t a p i G a G a a b t e o t a t b]
+[DELETED:  S  P S J S " R f h b e a d d e a a a d t a A t o t a t o t p I t a o c t t b A s w t 1 d r n p t t i i n a r i c a r u h h b e a d d o m d n r a p a t d o r S " … ( M d e m t 3 ( S – A e w a o l t t d s a d i a t t s w T d s b t C f d o p f e A w t t w t t a h ( I a e p f o a W T o F t w]
+[DELETED:  S  D ( I w ( I l h … ( T w 1 S b  P S b " ( D ( A f ( A p – A p s t a p l a r ( C ( D t ( E A t h a d i i a p s t a f p ( F p a – A c o c a f a p c ( F t R p ( F i a p a r f f a a a r a r i f A a f p a r t a p l a i d f i t f c a T R f b T f t t p a t a f d o o w a b ( I p – A b o a e o t o a o i a p]
+[DELETED:  S  P e i i a p o p e s t a f f p ( P S C w ( R y – T t y o a p t i s t a p ( S p r – T f p r u t p d a p a i S p r T S i a t e p f d S ( T i ( G r p G ( R o p a ( N l t 9 d a t f f p a a p a F a i t r r t p f f p a a m b G a G a p t a a d u G a G b N s o t f f p a i a i i t ( N d r r t d p d s o t a r t o t d a i t f f p a h b p r ( E f P t P E – E a o p i s p S a r i t r i n f w t p r b t s T f]
+[DELETED:  S  D ( R a a N t p f f p a a m b G a G a p a o i b N t s t a a d c a 1 E o t 2 F a d c p s t t u t A a a a t a a p u G r 3 F a n i d p a e a t d a a m t r a b t t r u G 4 F a r d p s t t u t A m p m d f e r d p d s t a o t r d p s o d i n a t t S f t p d i t p t i i a s o t D o a w s t a e t l i i p C m]
+[DELETED:  S  P 5 A t a d i s 1 t ( E a a T p m t e t b a t p u G b T a c T t p ( C u t n p p d a s ( T t t t o l o o b a e u s 6 o t C a t r t r t ( F s p m ( S P R – T p d p a i p t p ( A ( B ( R ( A o A S T A f a F F P A – T S m a a S t a f a f f p S " D … ( F C a i]
+[DELETED:  S  D A f d i f w t d i n s t a I a T S a b T t S ( F … S " … ( D m … ( A p G i i a a r o a f f p a a d i G r t t S u G ( A o i a m b t s a G i d G … S " ( T n … ( T s i G ( T S … ( T s d G … S " … ( E r …]
+[DELETED:  S  P ( F a r t y S " ( G u l ( T ( T ( E a … ( F f r d w f I a f p r y p S 1  P S " R S i … ( T r g s i e o h t d ( f r s s t t S i s a a m s m t c o b t c a t c i s t s ( T h t d ( i a m s f a m s f s s t t S f t p o t c c y A r t s m t c s o S r S]
+[DELETED:  S  D " S a S " S f g t S s – A f g t s f w a i h b m w a i S " E t a S S b  P S " V p ( E ( E n ( E s l t S " R G 1 ( U ( F ( B ( D ( W ( W ( M ( M ( N ( N ( W ( N S " T T m m A m c]
+[DELETED:  S  P S d S " T … ( R t R … S " D i h o h d d f a k k a r S " S a A t b A c A d R e A p o t m f w i t r t t f A t t a a l o t a I t S " C a t ( T ( T t t t s a a l o t a I t ( T t S S " … ( E l t s r o o m c t e l a s n o t c i a w G]
+[DELETED:  S  D S " C w r S p r w T S " M r o t p o t m f i m o a u G 1 f S " ( R a r 9 r d ( V a b r ( L t l l S ( I r f ( A A ( A A ( E a t o o e u t m s o t a S " L – A c p o o e b w n c u G b S " G s l o]
+[DELETED:  S  P p i S b  P S " ( S … ( T 1 … ( D … ( C 1 e … ( P l g a a a u T t i a o o e o a c a m a m o a e o a l l c a a m o e o a p w a o e t o C … ( T f G t " ( T – A p s t t t o r r o S t … S " P … ( M o S t t a … ( F o]
+[DELETED:  S  D o f a I t t b I o t S o p t a a p t i l i s … S " o ( C a l a o ( D – T p i G ( ( a ( m n b a f d d T e o t g p o t d b t I R r p p p 1 S b  P S " ( C o t s ( O h i c p ( T v S b  P V P T P F S C R T I S " T]
+[DELETED:  S  P … ( P … ( R – A r a d i G w i e i t b o s l r o s l o r l l o r o o v s f m v ( S v a o … S " T t t o d S " M t v b S " ( A a u p w ( A r t p a m v f u a a l p c ( A ( E c b v e t t i e ( G f T a i b c t t]
+[DELETED:  S  D c s n r a t p ( R – T a t r o t g r f a l p c a c c a T T S 8 V 5 L 3 ( M – A r w e t p t o t g r o t l p c o a m v s m t e w a f a c b O ( A m s s r a r t t S t t o t g r o t l p t T G r W t a r S " ( A G A c m l a g r t o t g r f t s o ( I s l l p o T r … ( T ( S]
+[DELETED:  S  P ( V a A m b A o p i t t o p f o t c c c A l … S " ( A G l o ( I s l o p o T r … ( T ( S ( V a A m b A o u c c c A l … S " T d i G G G a t f d ( A – A r p t a o a r t 1 ( L ( M ( R ( P e]
+[DELETED:  S  D o v p o p t f r a r r r b s s s h p t a i s i f s r o h e t t e t a d t p t p ( S ( U S " ( T w i r A p t ( A m t ( A v … S " … ( C A t A a A t U v o m h t o o p t g r t u G f b p U ( P u T b S " T ( A]
+[DELETED:  S  P ( P i s ( P s r v o t h n m a e u G c ( S v ( S a ( V o t S " A a o m ( c p v s p p a r o p e i m s S r  P S l]
+
+
+================================================================================
+
+Raw Text:
+FILED SENATE
+Mar 25, 2025
+GENERAL ASSEMBLY OF NORTH CAROLINA
+S.B. 595
+SESSION 2025
+PRINCIPAL CLERK
+S D
+SENATE BILL DRS45301-SVxf-3C
+Short Title: Rev Laws Tech Chngs/BBA Chngs/P2P Tax Parity. (Public)
+Sponsors: Senators McInnis and Craven (Primary Sponsors).
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS TECHNICAL, CLARIFYING, AND ADMINISTRATIVE
+3 CHANGES TO THE REVENUE LAWS; TO CONFORM TO THE FEDERAL SYSTEM
+4 FOR AUDITING PARTNERSHIPS BY IMPOSING TAX AT THE PARTNERSHIP
+5 LEVEL FOR FEDERAL CHANGES AND BY AUTHORIZING REFUNDS FOR
+6 FEDERAL CHANGES; AND TO PROVIDE TAX PARITY FOR SHORT-TERM CAR
+7 RENTALS BY EXPANDING ALTERNATE HIGHWAY USE TAX TO INCLUDE
+8 PEER-TO-PEER RENTALS.
+9 The General Assembly of North Carolina enacts:
+10
+11 PART I. PERSONAL INCOME TAX CHANGES
+12 SECTION 1.1.(a) G.S. 105-153.5 reads as rewritten:
+13 "§ 105-153.5. Modifications to adjusted gross income.
+14 …
+15 (b) Other Deductions. – In calculating North Carolina taxable income, a taxpayer may
+16 deduct from the taxpayer's adjusted gross income any of the following items that are included in
+17 the taxpayer's adjusted gross income:
+18 …
+19 (17) The amount by which the aggregate amount of losses or deductions of an S
+20 Corporation taken into account by a shareholder under G.S. 105-131.1(b) do
+21 not exceed the combined adjusted bases, determined in accordance with
+22 G.S. 105-131.3, of the shareholder in the stock and indebtedness of the S
+23 Corporation.
+24 (c) Additions. – In calculating North Carolina taxable income, a taxpayer must add to the
+25 taxpayer's adjusted gross income any of the following items that are not included in the taxpayer's
+26 adjusted gross income:
+27 …
+28 (8) The amount by which the aggregate amount of losses or deductions of an S
+29 Corporation taken into account by a shareholder under G.S. 105-131.1(b)
+30 exceed the combined adjusted bases, determined in accordance with
+31 G.S. 105-131.3, of the shareholder in the stock and indebtedness of the S
+32 Corporation.
+33 …."
+34 SECTION 1.1.(b) This section is effective for taxable years beginning on or after
+35 January 1, 2025.
+36 SECTION 1.2.(a) G.S. 105-153.5A reads as rewritten:
+*DRS45301-SVxf-3C*
+
+General Assembly Of North Carolina Session 2025
+1 "§ 105-153.5A. Net operating loss provisions.
+2 …
+3 (g) Limitation. – The provisions of this section apply only to individuals, estates, and
+4 trusts."
+5 SECTION 1.2.(b) G.S. 105-153.5A(a) reads as rewritten:
+6 "(a) State Net Operating Loss. – A taxpayer's State net operating loss for a taxable year is
+7 the amount by which business deductions for the year exceed gross income for the year as
+8 determined under the Code adjusted as provided in G.S. 105-153.5 and G.S. 105-153.6. The
+9 amount of a taxpayer's State net operating loss must also be determined in accordance with the
+10 following modifications:
+11 (1) No State net operating loss deduction shall be allowed.
+12 (2) The amount deductible on account of losses from sales or exchanges of capital
+13 assets shall not exceed the amount includable on account of gains from sales
+14 or exchanges of capital assets.
+15 (3) The exclusion provided by Code section 1202 shall not be allowed.
+16 (4) No deduction shall be allowed under G.S. 105-153.5(a1) for the child
+17 deduction.
+18 (5) The deductions which are not attributable to a taxpayer's trade or business
+19 shall be allowed only to the extent of the amount of the gross income not
+20 derived from such trade or business.
+21 (6) Any deduction under Code section 199A shall not be allowed.
+22 (7) The amount of the taxpayer's excess business loss, as defined under the
+23 provisions of section 461(l) of the Code, shall be fully allowed as a State net
+24 operating loss."
+25 SECTION 1.2.(c) Subsection (a) of this section is effective when the Part becomes
+26 law and applies retroactively to taxable years beginning on or after January 1, 2022. Subsection
+27 (b) of this section is effective for taxable years beginning on or after January 1, 2025. The
+28 remainder of this section is effective when the Part becomes law.
+29 SECTION 1.3.(a) G.S. 105-160.2 reads as rewritten:
+30 "§ 105-160.2. Imposition of tax.
+31 (a) Scope. – The tax imposed by this Part applies to the taxable income of estates and
+32 trusts as determined under the provisions of the Code except as otherwise provided in this Part.
+33 The taxable income of an estate or trust is the same as taxable income for such an estate or trust
+34 under the provisions of the Code, adjusted as provided in G.S. 105-153.5 and G.S. 105-153.6,
+35 except that the adjustments provided in G.S. 105-153.5 and G.S. 105-153.6 are apportioned
+36 between the estate or trust and the beneficiaries based on the distributions made during the
+37 taxable year. G.S. 105-153.6.
+38 (b) Tax Base. – The tax is computed on the amount of the taxable income of the estate or
+39 trust that is for the benefit of a resident of this State, or for the benefit of a nonresident to the
+40 extent that the income (i) is derived from North Carolina sources and is attributable to the
+41 ownership of any interest in real or tangible personal property in this State or (ii) is derived from
+42 a business, trade, profession, or occupation carried on in this State. For purposes of the preceding
+43 sentence, taxable income and gross income is computed subject to the adjustments provided in
+44 G.S. 105-153.5 and G.S. 105-153.6. G.S. 105-153.6 and is apportioned and allocated to this State
+45 under G.S. 105-130.4.
+46 (c) Tax Rate. – The tax on the amount computed above is at the rate levied in
+47 G.S. 105-153.7. The fiduciary responsible for administering the estate or trust shall pay the tax
+48 computed under the provisions of this Part.
+49 (d) Adjustments. – For the purposes of this section, the adjustments provided in
+50 G.S. 105-153.5 and G.S. 105-153.6 are apportioned between the estate or trust and the
+51 beneficiaries based on the distributions made during the taxable year."
+Page 2 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.3.(b) This section is effective for taxable years beginning on or after
+2 January 1, 2025.
+3 SECTION 1.4. G.S. 105-153.3(15) reads as rewritten:
+4 "(15) Resident. – Either of the individuals listed below. A resident who removes
+5 from the State during a taxable year is considered a resident until the resident
+6 has both established a definite domicile elsewhere and abandoned any
+7 domicile in this State. The fact of marriage does not raise any presumption as
+8 to domicile or residence. A resident individual is either of the following:
+9 a. An individual who is domiciled in this State at any time during the
+10 taxable year or who resides in this State during the taxable year for
+11 other than a temporary or transitory purpose. In the absence of
+12 convincing proof to the contrary, an individual who is present within
+13 the State for more than 183 days during the taxable year is presumed
+14 to be a resident, but the
+15 b. An individual who maintains a place of abode within the State and
+16 spends more than 183 days, including partial days, of the taxable year
+17 within the State. The absence of an individual from the State for more
+18 than 183 days raises no presumption that the individual is not a
+19 resident. A resident who removes from the State during a taxable year
+20 is considered a resident until he has both established a definite
+21 domicile elsewhere and abandoned any domicile in this State. The fact
+22 of marriage does not raise any presumption as to domicile or
+23 residence."
+24 SECTION 1.5. G.S. 105-163.6 reads as rewritten:
+25 "§ 105-163.6. When employer must file returns and pay withheld taxes.
+26 …
+27 (c) Monthly. – An employer who withholds an average of at least two hundred fifty
+28 dollars ($250.00) but less than two thousand dollars ($2,000) of State income taxes from wages
+29 each month must file a return and pay the withheld taxes on a monthly basis. A return for the
+30 months of January through November is due by the 15th day of the month following the end of
+31 the month covered by the return. A return for the month of December is due the following January
+32 31.
+33 (d) Semiweekly. – An employer who withholds an average of at least two thousand
+34 dollars ($2,000) of State income taxes from wages each month shall must file a return by the date
+35 set under the Code for filing a return for federal employment taxes attributable to the same wages
+36 and shall on a quarterly basis. A quarterly return covers a calendar quarter and is due by the last
+37 day of the month following the end of the quarter. The employer also must pay the withheld State
+38 income taxes by the date set under the Code for depositing or paying federal employment taxes
+39 attributable to the same wages. The date set by the Code for depositing or paying federal
+40 employment taxes shall be determined without regard to § 6302(g) of the Code.
+41 An extension of time granted to file a return for federal employment taxes attributable to
+42 wages is an automatic extension of time for filing a return for State income taxes withheld from
+43 the same wages, and an extension of time granted to pay federal employment taxes attributable
+44 to wages is an automatic extension of time for paying State income taxes withheld from the same
+45 wages. An employer who pays withheld State income taxes under this subsection is not subject
+46 to interest on or penalties for a shortfall in the amount due if the employer would not be subject
+47 to a failure-to-deposit penalty had the shortfall occurred in a deposit of federal employment taxes
+48 attributable to the same wages and the employer pays the shortfall by the date the employer would
+49 have to deposit a shortfall in the federal employment taxes.forth below:
+50 (1) If an employer's payday falls on a Wednesday, Thursday, or Friday, the
+51 withheld taxes must be paid on or before the following Wednesday.
+DRS45301-SVxf-3C Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) If an employer's payday falls on a Saturday, Sunday, Monday, or Tuesday, the
+2 withheld taxes must be paid on or before the following Friday.
+3 (3) If any of the three weekdays following the close of a semiweekly period is a
+4 legal holiday, the employer has an additional day for each day that is a legal
+5 holiday by which to pay the withheld taxes.
+6 …
+7 (f) The Secretary may close a taxpayer's withholding account if the taxpayer files no
+8 withholding returns or files returns showing no withholding of State income taxes for a period of
+9 18 months."
+10 SECTION 1.6. Except as otherwise provided, this Part is effective when this act
+11 becomes law.
+12
+13 PART II. CONFORM TO FEDERAL SYSTEM FOR AUDITING PARTNERSHIPS
+14 SECTION 2.(a) Part 2 of Article 4 of Chapter 105 of the General Statutes is amended
+15 by adding a new section to read:
+16 "§ 105-154.2. Federal partnership adjustments.
+17 (a) Definitions. – The following definitions apply in this Part:
+18 (1) Administrative adjustment request. – An administrative adjustment request
+19 filed by a partnership under section 6227 of the Code.
+20 (2) Audited partnership. – A partnership subject to a partnership level audit
+21 resulting in a federal partnership adjustment.
+22 (3) Corporate partner. – A partner that is subject to tax under Part 1 of this Article.
+23 (4) Direct partner. – A partner that holds a direct interest in a partnership subject
+24 to a federal partnership adjustment.
+25 (5) Exempt partner. – A partner that is not subject to State income tax under this
+26 Article that holds a direct interest in a partnership subject to a federal
+27 partnership adjustment.
+28 (6) Federal partnership adjustment. – A change or correction arising from a
+29 partnership level audit or an administrative adjustment request that affects the
+30 calculation of a taxpayer's State tax.
+31 (7) Federal partnership representative. – The person the partnership designates for
+32 the taxable year as the partnership's representative, or the person the Internal
+33 Revenue Service has appointed to act as the federal partnership representative,
+34 pursuant to section 6223(a) of the Code.
+35 (8) Final federal partnership adjustment. – A federal partnership adjustment that
+36 is final. A federal partnership adjustment is final when the federal partnership
+37 adjustment is not subject to administrative or judicial review. If the federal
+38 partnership adjustment results from filing an administrative adjustment
+39 request, the federal partnership adjustment is final when the administrative
+40 adjustment request is filed. Additionally, a federal partnership adjustment
+41 relating to a partnership level audit is deemed final in the following
+42 circumstances:
+43 a. The taxpayer has received a partnership level audit from the Internal
+44 Revenue Service for the tax period and the taxpayer does not timely
+45 file an administrative appeal with the Internal Revenue Service.
+46 b. The taxpayer consented to any of the partnership level audit findings
+47 for the tax period and through a final decision or other written
+48 agreement with the Internal Revenue Service all rights of appeal have
+49 been waived or exhausted.
+50 (9) Indirect partner. – A beneficiary of an estate or trust or an owner in a
+51 partnership or pass-through entity, where the estate, partnership, pass-through
+Page 4 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 entity, or trust holds, either itself or through another indirect partner, a direct
+2 interest, in a partnership or pass-through entity subject to a final federal
+3 partnership adjustment.
+4 (10) Partnership level audit. – An audit of a partnership by the Internal Revenue
+5 Service pursuant to Subchapter C of Title 26, Subtitle F, Chapter 63 of the
+6 Code, as enacted by the Bipartisan Budget Act of 2015, Public Law 114-74,
+7 which results in federal partnership adjustments.
+8 (11) Reviewed year. – The taxable year of a partnership that is subject to a
+9 partnership level audit from which federal partnership adjustments arise.
+10 (12) State partnership representative. – The federal partnership representative
+11 unless the partnership designates another person as its State partnership
+12 representative. The Secretary is authorized to establish procedures for
+13 designating a person, other than the federal partnership representative, to be a
+14 State partnership representative.
+15 (13) Tiered partner. – An estate, partnership, S Corporation, or trust that is a partner
+16 in a partnership subject to a federal partnership adjustment.
+17 (b) General Rule. – Except in the case of a final federal partnership adjustment that is
+18 required to be reported to the Secretary using the procedures in subsection (c) of this section, a
+19 partner must report and pay any State income tax due in accordance with the provisions of
+20 G.S. 105-130.20 or G.S. 105-159.
+21 (c) Reporting a Final Federal Partnership Adjustment. – Except for the distributive share
+22 of adjustments that have been reported as required by subsection (b) of this section and an audited
+23 partnership that has made a timely election under subsection (d) of this section, a partnership and
+24 a partner must report a final federal partnership adjustment as follows:
+25 (1) No later than 90 days after the final federal partnership adjustment, a
+26 partnership doing business in this State must do both of the following:
+27 a. File an income tax return reflecting the partnership's final federal
+28 partnership adjustments, as modified by G.S. 105-153.5 and
+29 G.S. 105-153.6, and any other information required by the Secretary,
+30 and pay the additional amount due under G.S. 105-154(d) and
+31 G.S. 105-154.1.
+32 b. Notify each of its direct partners of the direct partner's distributive
+33 share of the final federal partnership adjustments, including any
+34 information necessary for the direct partner to properly file a State
+35 income tax return. The information must be in the form prescribed by
+36 the Secretary.
+37 (2) No later than six months after the final federal partnership adjustment, each
+38 direct partner subject to tax under this Article must file a State income tax
+39 return reporting the direct partner's distributive share of the adjustments
+40 reported to the direct partner under sub-subdivision b. of subdivision (1) of
+41 this subsection, as modified by G.S. 105-153.5 and G.S. 105-153.6, and any
+42 other information required by the Secretary, and pay any additional amount of
+43 tax due as if the final federal partnership adjustments had been properly
+44 reported.
+45 (d) Election for Partnership to Pay; Exceptions. – Except as otherwise provided in
+46 subdivision (2) of this subsection, an audited partnership may elect to report a final federal
+47 partnership adjustment arising from a partnership level audit in the manner prescribed by the
+48 Secretary. An election made under this subsection is irrevocable and cannot be made if the
+49 required income tax return is not filed within the period required by this subsection. The
+50 following provisions apply to an audited partnership that makes an election under this subsection:
+DRS45301-SVxf-3C Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (1) Reporting and payment of tax. – The reporting and payment requirements are
+2 as follows:
+3 a. No later than six months after the final federal partnership adjustment,
+4 the audited partnership must file an income tax return reflecting the
+5 partnership's final federal partnership adjustment, as modified by
+6 G.S. 105-153.5 and G.S. 105-153.6, and provide any other
+7 information required by the Secretary.
+8 b. No later than six months after the final federal partnership adjustment,
+9 the audited partnership must pay the amount determined under this
+10 subdivision. If properly reported and paid by the audited partnership,
+11 the amount shall be treated as paid in lieu of taxes owed by the direct
+12 and indirect partners, to the extent applicable, on the same final federal
+13 adjustment. The direct partners or indirect partners may not take a
+14 deduction or credit for this amount on the State income tax return or
+15 claim a refund of the amount paid on the State income tax return. The
+16 amount in lieu of taxes is calculated as follows:
+17 1. Exclude from the final federal adjustment the distributive share
+18 of all adjustments reported to an exempt partner not subject to
+19 tax under this Article.
+20 2. For the total distributive shares of the final federal adjustment,
+21 as modified by G.S. 105-153.5 and G.S. 105-153.6, reported to
+22 direct corporate partners subject to tax under this Article,
+23 apportion and allocate the adjustments as provided under
+24 G.S. 105-130.4 and multiply the resulting amount by the tax
+25 rate under G.S. 105-130.3.
+26 3. For the total distributive shares of the final federal adjustment,
+27 as modified by G.S. 105-153.5 and G.S. 105-153.6, reported to
+28 nonresident individual direct partners and estate and trust
+29 direct partners subject to tax under this Article, apportion and
+30 allocate such adjustments as provided under G.S. 105-130.4
+31 and multiply the resulting amount by the tax rate under
+32 G.S. 105-153.7.
+33 4. For the total distributive shares of the final federal adjustment,
+34 as modified by G.S. 105-153.5 and G.S. 105-153.6, reported to
+35 resident direct partners subject to tax under this Article,
+36 multiply that amount by the tax rate under G.S. 105-153.7. For
+37 purposes of this sub-sub-subdivision, an audited partnership
+38 may deduct from each resident direct partner's distributive
+39 share the amount of the resident direct partner's share of
+40 distributive income not attributable to the State from the
+41 partnership to the extent the resident direct partner's share of
+42 distributive income not attributable to the State was included
+43 in the partnership's taxable income in another state or the
+44 District of Columbia and was subject to an entity-level tax
+45 levied on the aggregate distributive share of the partnership's
+46 income allocable to one or more of its partners. A partnership
+47 is taxable in another state or the District of Columbia if the
+48 partnership's business activity in that state or the District of
+49 Columbia subjects the partnership to a net income tax or a tax
+50 measured by net income.
+Page 6 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 5. Add the amounts determined in sub-sub-subdivisions 1.
+2 through 4. of this sub-subdivision.
+3 (2) Exceptions. – A partnership may not elect to pay tax under this subsection if
+4 any of the following apply:
+5 a. The partnership made the election to be a taxed partnership under
+6 G.S. 105-154.1(a) for the reviewed year.
+7 b. The partnership's final federal partnership adjustment resulted from an
+8 administrative adjustment request.
+9 c. The partnership was not required to file an information return under
+10 the provisions of G.S. 105-154(c) for the reviewed year because the
+11 partnership was not doing business in this State for the reviewed year.
+12 (e) Collection of Tax for Failure to Pay. – If an audited partnership makes an election
+13 under subsection (d) of this section but does not pay the amount due, the Department may collect
+14 the tax from the audited partnership pursuant to G.S. 105-241.22(1). The Secretary must issue a
+15 notice of collection for the amount of the tax debt to the audited partnership. If the tax debt is not
+16 paid to the Secretary within 60 days of the date the notice of collection is mailed to the audited
+17 partnership, the Secretary may assess the partners of the audited partnership for the partners'
+18 distributive share of the tax debt by sending the partners a notice of proposed assessment in
+19 accordance with G.S. 105-241.9. For purposes of this subsection, the term "tax debt" has the
+20 same meaning as defined in G.S. 105-243.1(a).
+21 (f) Tiered Partners. – The direct and indirect partners of an audited partnership that are
+22 tiered partners, and all of the owners or beneficiaries of those tiered partners that are subject to
+23 tax under this Article, are subject to the reporting and payment requirements of subsection (c) of
+24 this section, and the tiered partners are entitled to make the election provided in subsection (d)
+25 of this section. The tiered partners or their owners must make required reports and payments no
+26 later than 90 days after the time for filing and furnishing statements to tiered partners and their
+27 owners or beneficiaries as established under section 6226 of the Code and the regulations
+28 thereunder. The Secretary is authorized to establish procedures and interim time periods for the
+29 reports and payments required by tiered partners and their owners or beneficiaries and for making
+30 the election under this subsection.
+31 (g) Failure of Audited Partnership or Tiered Partner to Report or Pay. – Nothing in this
+32 section prevents the Secretary from proposing an assessment against a direct partner or indirect
+33 partner pursuant to G.S. 105-241.9 for tax due, if a partnership or tiered partner fails to timely
+34 make any report or payment required by this section for any reason.
+35 (h) State Partnership Representative. – The partnership's direct partners and indirect
+36 partners are bound by the actions of the State partnership representative. In addition, with respect
+37 to any action required or permitted to be taken by a partnership under this section, the State
+38 partnership representative has the sole authority to:
+39 (1) Act on behalf of the partnership.
+40 (2) Bring a contested case hearing in accordance with G.S. 105-241.15.
+41 (3) Request a judicial review in accordance with G.S. 105-241.16.
+42 (i) Assessments of Additional State Tax Arising from a Final Federal Partnership
+43 Adjustment. – The Secretary must assess additional State tax arising from a final federal
+44 partnership adjustment in accordance with G.S. 105-241.9."
+45 SECTION 2.(b) G.S. 105-228.90(b) reads as rewritten:
+46 "(b) Definitions. – The following definitions apply in this Article:
+47 …
+48 (15) Federal determination. – A change or correction arising from an audit by the
+49 Commissioner of Internal Revenue or an agreement of the U.S. competent
+50 authority, and the change or correction has become final. final, but does not
+51 include a final federal partnership adjustment as defined in G.S. 105-154.2(a).
+DRS45301-SVxf-3C Page 7
+
+General Assembly Of North Carolina Session 2025
+1 A federal determination is final when the determination is not subject to
+2 administrative or judicial review. Additionally, audit findings made by the
+3 Internal Revenue Service are deemed final in the following circumstances:
+4 a. The taxpayer has received audit findings from the Internal Revenue
+5 Service for the tax period and the taxpayer does not timely file an
+6 administrative appeal with the Internal Revenue Service.
+7 b. The taxpayer consented to any of the audit findings for the tax period
+8 through a form or other written agreement with the Internal Revenue
+9 Service.
+10 (16) Final federal partnership adjustment. – As defined in G.S. 105-154.2(a).
+11 …."
+12 SECTION 2.(c) G.S. 105-153.5 reads as rewritten:
+13 "§ 105-153.5. Modifications to adjusted gross income.
+14 …
+15 (c2) Decoupling Adjustments. – In calculating North Carolina taxable income, a taxpayer
+16 must make the following adjustments to the taxpayer's adjusted gross income:
+17 …
+18 (24) A taxpayer must add the amount by which the taxpayer's distributive share of
+19 partnership income, subject to the adjustments provided in this section and
+20 G.S. 105-153.6, is increased as a result of a final federal partnership
+21 adjustment, as defined in G.S. 105-154.2(a), reported to this State under
+22 G.S. 105-154.2(c)(2).
+23 (25) A taxpayer may deduct the amount by which the taxpayer's distributive share
+24 of partnership income, as modified by this section and G.S. 105-153.6, is
+25 decreased as a result of a final federal partnership adjustment, as defined in
+26 G.S. 105-154.2(a), reported to this State under G.S. 105-154.2(c)(2).
+27 …."
+28 SECTION 2.(d) G.S. 105-130.5 reads as rewritten:
+29 "§ 105-130.5. Adjustments to federal taxable income in determining State net income.
+30 (a) The following additions to federal taxable income shall be made in determining State
+31 net income:
+32 …
+33 (33) The amount by which the taxpayer's distributive share of partnership income,
+34 subject to the adjustments provided in this section and G.S. 105-130.5B, is
+35 increased as a result of a final federal partnership adjustment, as defined in
+36 G.S. 105-154.2(a), reported to this State under G.S. 105-154.2(c)(2).
+37 (b) The following deductions from federal taxable income shall be made in determining
+38 State net income:
+39 …
+40 (33) The amount by which the taxpayer's distributive share of partnership income,
+41 subject to the adjustments provided in this section and G.S. 105-130.5B, is
+42 decreased as a result of a final federal partnership adjustment, as defined in
+43 G.S. 105-154.2(a), reported to this State under G.S. 105-154.2(c)(2).
+44 …."
+45 SECTION 2.(e) G.S. 105-241.6 reads as rewritten:
+46 "§ 105-241.6. Statute of limitations for refunds.
+47 …
+48 (b) Exceptions. – The exceptions to the general statute of limitations for obtaining a
+49 refund of an overpayment are as follows:
+50 …
+Page 8 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 (7) Final Federal Partnership Adjustment. – If a taxpayer files a return reflecting
+2 a final federal partnership adjustment and the return is filed within the time
+3 required by this Subchapter, the period for requesting a refund is one year after
+4 the return reflecting the final federal partnership adjustment is filed or three
+5 years after the original return was filed or due to be filed, whichever is later."
+6 SECTION 2.(f) G.S. 105-241.8 reads as rewritten:
+7 "§ 105-241.8. Statute of limitations for assessments.
+8 (a) General. – The general statute of limitations for proposing an assessment applies
+9 unless a different period applies under subsection (b) of this section. The general statute of
+10 limitations for proposing an assessment is the later of the following:
+11 (1) Three years after the due date of the return.
+12 (2) Three years after the taxpayer filed the return.
+13 (b) Exceptions. – The exceptions to the general statute of limitations for proposing an
+14 assessment are as follows:
+15 …
+16 (6) Final federal partnership adjustment. – If a taxpayer files a return reflecting a
+17 final federal partnership adjustment and the return is filed within the time
+18 required by this Subchapter, the period for proposing an assessment of any tax
+19 due is one year after the return is filed or three years after the original return
+20 was filed or due to be filed, whichever is later. If there is a final federal
+21 partnership adjustment and the taxpayer does not file the return within the
+22 required time, the period for proposing an assessment of any tax due is six
+23 years after the date the Secretary received the final report of the final federal
+24 partnership adjustment."
+25 SECTION 2.(g) This Part is effective for taxable years beginning on or after January
+26 1, 2025, and applies to federal partnership adjustments that become final on or after that date.
+27
+28 PART III. SALES TAX CHANGES
+29 SECTION 3.1.(a) G.S. 105-164.8(b) reads as rewritten:
+30 "(b) Remote Sales. – A retailer who makes a remote sale is engaged in business in this
+31 State and is subject to the tax levied under this Article if at least one of the following conditions
+32 is met:
+33 …
+34 (9) The retailer makes gross sales in excess of one hundred thousand dollars
+35 ($100,000) from remote sales sourced to this State, including sales as a
+36 marketplace seller, for the previous or the current calendar year. A retailer that
+37 solely meets this condition, or both this condition and the condition in
+38 subdivision (10) of this subsection, is engaged in business on the first day of
+39 the first calendar month occurring at least 60 days after the retailer's gross
+40 sales exceed the threshold.
+41 (10) The retailer is a marketplace facilitator that makes gross sales in excess of one
+42 hundred thousand dollars ($100,000), including all marketplace-facilitated
+43 sales for all marketplace sellers, from sales sourced to this State for the
+44 previous or the current calendar year. A retailer that solely meets this
+45 condition, or both this condition and the condition in subdivision (9) of this
+46 subsection, is engaged in business on the first day of the first calendar month
+47 occurring at least 60 days after the retailer's gross sales exceed the threshold."
+48 SECTION 3.1.(b) This section is effective when it becomes law and applies to
+49 retailers that exceed the threshold on or after that date.
+50 SECTION 3.2. G.S. 105-164.3(259) reads as rewritten:
+DRS45301-SVxf-3C Page 9
+
+General Assembly Of North Carolina Session 2025
+1 "(259) Streamlined Agreement. – The Streamlined Sales and Use Tax Agreement as
+2 amended as of November 7, 2023.October 9, 2024."
+3 SECTION 3.3.(a) G.S. 105-187.90(9) reads as rewritten:
+4 "(9) Shared for-hire ground transport Shared-ride service. – A for-hire ground
+5 transport service for which an individual has been matched with another
+6 individual by a for-hire ground transport service provider."
+7 SECTION 3.3.(b) G.S. 105-187.95 reads as rewritten:
+8 "§ 105-187.95. Use of tax proceeds.
+9 Each quarter, the The Secretary shall credit the net tax proceeds of the taxes collected under
+10 this Article to the Highway Fund. The Secretary may retain the cost of administering this Article
+11 as reimbursement to the Department."
+12 SECTION 3.3.(c) This section becomes effective July 1, 2025.
+13 SECTION 3.4. Except as otherwise provided, this Part is effective when this act
+14 becomes law.
+15
+16 PART IV. EXCISE TAX CHANGES
+17 SECTION 4.1. G.S. 105-113.39A(a2) reads as rewritten:
+18 "(a2) Vapor Products License. – A wholesale dealer or a retail dealer must obtain a vapor
+19 products license for all of the following locations:
+20 (1) Each location where a wholesale dealer makes vapor products.
+21 (2) Each location where a wholesale dealer or a retail dealer receives or stores
+22 non-tax-paid vapor products.
+23 (3) Each location from where a retail dealer that is a delivery seller or a remote
+24 seller receives or stores non-tax-paid vapor products for delivery sales if the
+25 location is a location other than the location described in subdivision (2) of
+26 this subsection."
+27 SECTION 4.2. G.S. 105-113.83A(a) reads as rewritten:
+28 "(a) Registration Required. – A person who holds a wine shipper permit issued under
+29 G.S. 18B-1001.1 or one or more of the following ABC permits issued under Article 11 of Chapter
+30 18B of the General Statutes must register with the Secretary:
+31 (1) Unfortified winery.
+32 (2) Fortified winery.
+33 (3) Brewery.
+34 (4) Distillery.
+35 (5) Wine importer.
+36 (6) Wine wholesaler.
+37 (7) Malt beverages importer.
+38 (8) Malt beverages wholesaler.
+39 (9) Nonresident malt beverage vendor.
+40 (10) Nonresident wine vendor.
+41 (11) Wine Producer.
+42 (12) Nonresident spirituous liquor vendor."
+43 SECTION 4.3.(a) G.S. 105-449.42 reads as rewritten:
+44 "§ 105-449.42. Payment of tax.
+45 The tax levied by this Article is due when a quarterly return is due under G.S. 105-449.45.
+46 The amount of tax due is calculated on the amount of motor fuel or alternative fuel used by the
+47 motor carrier in its operations within this State during the quarter covered by the return. If a
+48 motor carrier is exempt from filing a return under G.S. 105-449.45(b)(2), the tax levied by this
+49 Article is due when the tax becomes collectible under G.S. 105-241.22.by the last day of the
+50 month following the quarter in which the motor fuel or alternative fuel was used by the motor
+51 carrier."
+Page 10 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.3.(b) This section becomes effective July 1, 2025, and applies to taxes
+2 due on or after that date.
+3 SECTION 4.4.(a) G.S. 105-449.60 reads as rewritten:
+4 "§ 105-449.60. Definitions.
+5 The following definitions apply in this Article:
+6 …
+7 (43a) Renewable diesel. – A motor fuel chemically equivalent to petroleum diesel
+8 that is manufactured from organic feedstocks using a hydrogenation process.
+9 Renewable diesel meets ASTM D975 specifications for diesel fuel.
+10 …."
+11 SECTION 4.4.(b) G.S. 105-449.60(12) reads as rewritten:
+12 "(12) Diesel fuel. – Any liquid, other than gasoline, that is suitable for use as a fuel
+13 in a diesel-powered highway vehicle. The term includes biodiesel, fuel oil,
+14 heating oil, high-sulfur dyed diesel fuel, and kerosene. kerosene, and
+15 renewable diesel. The term does not include jet fuel."
+16 SECTION 4.5.(a) G.S. 105-449.60(46) reads as rewritten:
+17 "(46) Supplier. – Any of the following:
+18 a. A position holder or a person who receives motor fuel pursuant to a
+19 two-party exchange.
+20 b. A fuel alcohol provider.
+21 c. A biodiesel provider.
+22 d. Repealed by Session Laws 2017-39, s. 12, effective June 21, 2017.
+23 e. A purchaser of tax-paid motor fuel who introduces the respective
+24 tax-paid motor fuel into the terminal transfer system at a location other
+25 than an IRS-registered terminal.
+26 f. A person who owns tax-paid motor fuel at the time it is placed in the
+27 terminal transfer system at a location other than an IRS-registered
+28 terminal."
+29 SECTION 4.5.(b) G.S. 105-449.97(e) reads as rewritten:
+30 "(e) Credit for Motor Fuel in Terminal. Terminal Transfer System. – When filing a return,
+31 a licensed supplier who is the position holder may take a credit for tax-paid motor fuel in the
+32 terminal system.transfer system if any of the following apply:
+33 (1) The supplier is a position holder.
+34 (2) The supplier is the original purchaser of tax-paid motor fuel that is placed in
+35 the terminal transfer system at a location other than an IRS-registered
+36 terminal.
+37 (3) The supplier owns tax-paid motor fuel at the time it is placed in the terminal
+38 transfer system at a location other than an IRS-registered terminal."
+39 SECTION 4.5.(c) This section is effective July 1, 2025.
+40 SECTION 4.6.(a) G.S. 105-449.69 reads as rewritten:
+41 "§ 105-449.69. How to apply for a license.
+42 …
+43 (e) Export Activity. – An applicant for a license as an exporter or as a distributor must
+44 list on the application each state to which the applicant intends to export motor fuel received in
+45 this State by means of a transfer that is outside the terminal transfer system and, if required by a
+46 state listed, must be licensed or registered for motor fuel tax purposes in that state. If a state listed
+47 requires the applicant to be licensed or registered, the applicant must give the applicant's license
+48 or registration number in that state. If the Secretary determines that an exporter is no longer
+49 operating in this State, and the exporter has failed to comply with G.S. 105-449.75, the Secretary
+50 may cancel the exporter license and send notice of the cancellation in accordance with
+51 G.S. 105-449.76(b1)."
+DRS45301-SVxf-3C Page 11
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.6.(b) G.S. 105-449.76(a) reads as rewritten:
+2 "(a) Cancellation. – The Secretary may cancel a license issued under this Article upon the
+3 written request of the licensee. licensee or as permitted under G.S. 105-449.69(e). The licensee's
+4 request must include a proposed effective date of cancellation and must return the license to the
+5 Secretary on or before the proposed effective date. If the licensee's request does not include a
+6 proposed effective date of cancellation, the license is cancelled 15 days after the Department
+7 receives the written request. If the license is unable to be returned, the licensee must include a
+8 written statement of the reasons, satisfactory to the Secretary, why the license cannot be returned.
+9 The Secretary shall notify the licensee when the license is cancelled."
+10 SECTION 4.7. G.S. 105-449.87(a)(3) reads as rewritten:
+11 "(3) Motor fuel that is used to operate a highway vehicle after an application for a
+12 refund of tax paid on the motor fuel is made or allowed under G.S.
+13 105-449.107(a) G.S. 105-449.106(d) on the basis that the motor fuel was used
+14 for an off-highway purpose."
+15 SECTION 4.8. G.S. 105-449.139 reads as rewritten:
+16 "§ 105-449.139. Miscellaneous provisions.
+17 (a) Records. – A person required to be licensed under this Article must keep a record of
+18 all documents used to determine the information provided in a return filed under this Article. The
+19 records must be kept for the applicable period of statute of limitations as set forth under Article
+20 9 of this Chapter. If the records apply to a transaction not required to be reported in a return, the
+21 records must be kept for three years from the date of the transaction. The Secretary or a person
+22 designated by the Secretary shall have the right at any reasonable time to inspect the records.
+23 (b) Violations. – The offenses listed in subdivisions (1) through (9) of G.S. 105-449.120
+24 apply to this Article. In applying those offenses to this Article, references to "this Article" are to
+25 be construed as references to Article 36D and references to "motor fuel" are to be construed as
+26 references to alternative fuel.
+27 (c) Lists. – The Secretary must make available a list of licensed alternative fuel providers
+28 to each licensed bulk end-user and licensed retailer. The Secretary must also make available a
+29 list of licensed bulk end-users and licensed retailers to each licensed alternative fuel provider. A
+30 list must state the name, account number, and business address of each licensee on the list. The
+31 Secretary must update the lists required under this section annually.
+32 (d) Inspection. – The Secretary, or the Secretary's designee, shall have the right at any
+33 reasonable time to inspect the records subject to audit under this section and may do any of the
+34 following to determine tax liability under this Article:
+35 (1) Audit a person who is required to have or elects to have a license under this
+36 Article.
+37 (2) Audit a retailer, bulk-end user, or a provider that is not licensed under this
+38 Article.
+39 (3) Examine a tank or other equipment used to make, store, or transport
+40 alternative fuel."
+41 SECTION 4.9. G.S. 150B-2(3) reads as rewritten:
+42 "(3) License. – Any certificate, permit, or other evidence, by whatever name
+43 called, of a right or privilege to engage in any activity, except licenses issued
+44 under Chapter 20 and Subchapter I and Subchapter V of Chapter 105 of the
+45 General Statutes, occupational licenses, and certifications of electronic poll
+46 books, ballot duplication systems, or voting systems under G.S. 163-165.7."
+47 SECTION 4.10. G.S. 18C-901(7) reads as rewritten:
+48 "(7) Gross wagering revenue. – The total of amounts received by an interactive
+49 sports wagering operator from sports wagers as authorized under this Article
+50 less the amounts paid as winnings before any deductions for expenses, fees,
+51 or taxes. Gross wagering revenue includes the cash value of any bonuses or
+Page 12 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 promotional credits when returned to an interactive sports wagering operator
+2 in the form of a deposit or sports wager."
+3 SECTION 4.11. Except as otherwise provided, this Part is effective when this act
+4 becomes law.
+5
+6 PART V. ADMINISTRATIVE CHANGES
+7 SECTION 5.1. G.S. 105-228.90 reads as rewritten:
+8 "§ 105-228.90. Scope and definitions.
+9 (a) Scope. – This Article applies to all of the following:
+10 …
+11 (3) The primary forest product assessment levied under Article 81 84 of Chapter
+12 106 of the General Statutes.
+13 …
+14 (b) Definitions. – The following definitions apply in this Article:
+15 …
+16 (7) Code. – The Internal Revenue Code as enacted as of January 1, 2023, January
+17 1, 2025, including any provisions enacted as of that date that become effective
+18 either before or after that date.
+19 …
+20 (23) Person. – An individual, a fiduciary, a firm, an association, a partnership, a
+21 limited liability company, a corporation, a unit of government, or another
+22 group acting as a unit. The term includes an officer or employee of a
+23 corporation, a member, a manager, or an employee of a limited liability
+24 company, and a member or employee of a partnership who, as officer,
+25 employee, member, or manager, is under a duty to perform an act in meeting
+26 the requirements of Subchapter I, V, or VIII of this Chapter, of G.S. 55-16-22,
+27 of Article 81 84 of Chapter 106 of the General Statutes, or of Article 3 of
+28 Chapter 119 of the General Statutes.
+29 …
+30 (27) Tax. – A tax levied under Subchapter I, V, or VIII of this Chapter, the primary
+31 forest product assessment levied under Article 81 84 of Chapter 106 of the
+32 General Statutes, or an inspection tax levied under Article 3 of Chapter 119 of
+33 the General Statutes. Unless the context clearly requires otherwise, the term
+34 "tax" includes penalties and interest as well as the principal amount.
+35 (29) Taxpayer. – A person subject to the tax or reporting requirements of
+36 Subchapter I, V, or VIII of this Chapter, of Article 81 84 of Chapter 106 of
+37 the General Statutes, or of Article 3 of Chapter 119 of the General Statutes.
+38 …."
+39 SECTION 5.2. G.S. 105-236(a) reads as rewritten:
+40 "(a) Penalties. – The following civil penalties and criminal offenses apply:
+41 …
+42 (1b) Making Payment in Wrong Form. – For making a payment of tax in a form
+43 other than the form required by the Secretary pursuant to G.S. 105-241(a), the
+44 Secretary shall assess a penalty equal to five percent (5%) of the amount of
+45 the tax, subject to a minimum of one dollar ($1.00) and a maximum of one
+46 thousand dollars ($1,000). This penalty may be waived by the Secretary in
+47 accordance with G.S. 105-237.
+48 …
+49 (10a) Filing a Frivolous Return. – If a taxpayer files a frivolous return under Part 2
+50 of Article 4 of this Chapter, the Secretary shall assess a penalty in the amount
+DRS45301-SVxf-3C Page 13
+
+General Assembly Of North Carolina Session 2025
+1 of up to five hundred dollars ($500.00). two thousand dollars ($2,000). A
+2 frivolous return is a return that meets both of the following requirements:
+3 a. It fails to provide sufficient information to permit a determination that
+4 the return is correct or contains information which positively indicates
+5 the return is incorrect, and
+6 b. It evidences an intention to delay, impede or negate the revenue laws
+7 of this State or purports to adopt a position that is lacking in
+8 seriousness.
+9 …."
+10 SECTION 5.3. G.S. 105-249.2 reads as rewritten:
+11 "§ 105-249.2. Due date extended and penalties waived Relief for certain military personnel
+12 or persons affected by a presidentially declared disaster.
+13 (a) Combat. – The Secretary may not assess interest or a penalty against a taxpayer for
+14 any period that is disregarded under section 7508 of the Code in determining the taxpayer's
+15 liability for a federal tax. A taxpayer is granted an extension of time to file a return or take another
+16 action concerning a State tax for any period during which the Secretary may not assess interest
+17 or a penalty under this section.
+18 (b) Disaster. – The penalties in G.S. 105-236(a)(2), (3), (4), and (10)c. may not be
+19 assessed for any period in which the time for filing a federal return or report or for paying a
+20 federal tax is extended disregarded under section 7508A of the Code because of a presidentially
+21 declared disaster. The extension of time granted period of time disregarded by the Internal
+22 Revenue Service under section 7508A of the Code only applies to the corresponding State tax
+23 return or payment. For State returns and payments without a corresponding federal return and
+24 payment, the extension granted period of time disregarded for individual income tax returns and
+25 payments by the Internal Revenue Service under section 7508A of the Code applies. For the
+26 purpose of this section, "presidentially declared disaster" has the same meaning as in section
+27 1033(h)(3) of the Code."
+28 SECTION 5.4. Except as otherwise provided, this Part is effective when this act
+29 becomes law.
+30
+31 PART VI. PROPERTY TAX CHANGES
+32 SECTION 6.(a) G.S. 105-278.2 reads as rewritten:
+33 "§ 105-278.2. Burial property.
+34 (a) Commercial Property. – Real property set apart for human burial purposes that is
+35 owned and held for purposes of (i) sale or rental or (ii) sale of burial rights therein is exempt from
+36 taxation. A single application is required under G.S. 105-282.1 for property exempt under this
+37 subsection.
+38 (b) Other Property. – Real property set apart for human burial purposes not owned and
+39 held for a purpose listed in subsection (a) of this section is exempt from taxation. No application
+40 is required under G.S. 105-282.1 for property exempt under this subsection. A local government
+41 cannot deny the exemption provided under this subsection to a taxpayer that lacks a survey or
+42 plat detailing the exempt property.
+43 (c) Terms. – For purposes of this section, the term "real property" includes land, tombs,
+44 vaults, monuments, and mausoleums, and the term "burial" includes entombment."
+45 SECTION 6.(b) Except as otherwise provided, this Part is effective when this act
+46 becomes law.
+47
+48 PART VII. PROVIDE TAX PARITY FOR SHORT-TERM CAR RENTALS TO
+49 INCLUDE PEER-TO-PEER RENTALS
+50 SECTION 7.1.(a) G.S. 105-187.1(a) reads as rewritten:
+51 "(a) The following definitions and the definitions in G.S. 105-164.3 apply to this Article:
+Page 14 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 …
+2 (3b) Peer-to-peer vehicle sharing provider. – As defined in G.S. 20-280.15.
+3 …
+4 (6) Retailer. – A retailer as defined in G.S. 105-164.3 who is engaged in the
+5 business of selling, leasing, renting, offering short-term leases or rentals,
+6 long-term leases or rentals, or offering vehicle subscriptions for motor
+7 vehicles.
+8 (7) Short-term lease or rental. – A lease or rental of a motor vehicle or motor
+9 vehicles, vehicles by a person, including a vehicle sharing service, service or
+10 a peer-to-peer vehicle sharing provider, that is not a long-term lease or rental
+11 or a vehicle subscription.
+12 …."
+13 SECTION 7.1.(b) G.S. 105-187.3(a) reads as rewritten:
+14 "(a) Tax Base. – The Except as otherwise provided in G.S. 105-187.5, the tax imposed by
+15 this Article is applied to the sum of the retail value of a motor vehicle for which a certificate of
+16 title is issued and any fee regulated by G.S. 20-101.1. The tax does not apply to the sales price
+17 of a service contract, provided the charge is separately stated on the bill of sale or other similar
+18 document given to the purchaser at the time of the sale."
+19 SECTION 7.1.(c) G.S. 105-187.4(a) reads as rewritten:
+20 "(a) Method. – The Except as otherwise provided in G.S. 105-187.5, the tax imposed by
+21 this Article must be paid to the Commissioner when applying for a certificate of title for a motor
+22 vehicle. The Commissioner may not issue a certificate of title for a vehicle until the tax imposed
+23 by this Article has been paid. The tax may be paid in cash or by check."
+24 SECTION 7.1.(d) G.S. 105-187.5 reads as rewritten:
+25 "§ 105-187.5. Alternate tax for Tax on a limited possession commitment.
+26 (a) Applicability. – A retailer listed in this section shall pay a tax on the gross receipts of
+27 a limited possession commitment in accordance with this section. The tax is for the privilege of
+28 using the highways of this State and is imposed on a retailer but is to be added to a limited
+29 possession commitment and paid by the person who enters into a limited possession commitment
+30 with the retailer. The retailers are:
+31 (1) A retailer that purchases a motor vehicle for use as a limited possession
+32 commitment and makes an election under this section.
+33 (2) A peer-to-peer vehicle sharing provider.
+34 (a1) Election. – A retailer that has purchased a motor vehicle for a limited possession
+35 commitment may elect not to pay to pay the tax imposed by this section instead of the tax imposed
+36 by this Article at the rate set in G.S. 105-187.3 when applying for a certificate of title for a motor
+37 vehicle purchased by the retailer for a limited possession commitment. A retailer who makes this
+38 election shall pay a tax on the gross receipts of the limited possession commitment of the vehicle.
+39 title. To make the election, the retailer shall complete a form provided by the Division providing
+40 the information needed to collect the alternate tax based on gross receipts. Once made, an election
+41 is irrevocable. The Division shall notify the Secretary of Revenue of a retailer who makes the
+42 election under this subsection.
+43 (a2) Gross Receipts. – Gross receipts do not include the amount of any allowance given
+44 for a motor vehicle taken in trade as a partial payment on the limited possession commitment.
+45 The portion of a limited possession commitment billing or payment that represents any amount
+46 applicable to the sales price of a service contract as defined in G.S. 105-164.3 should not be
+47 included in the gross receipts subject to the tax imposed by this Article. section. The charge must
+48 be separately stated on documentation given to the purchaser at the time the limited possession
+49 commitment goes into effect, or on the monthly billing statement or other documentation given
+50 to the purchaser. When a limited possession commitment is sold to another retailer, the seller of
+51 the limited possession commitment should provide to the purchaser of the limited possession
+DRS45301-SVxf-3C Page 15
+
+General Assembly Of North Carolina Session 2025
+1 commitment the documentation showing that the service contract and applicable sales taxes were
+2 separately stated at the time the limited possession commitment went into effect effect, and the
+3 new retailer must retain the information to support an allocation for tax computed on the gross
+4 receipts subject to highway use tax. Like the tax imposed by G.S. 105-187.3, this alternate tax is
+5 a tax on the privilege of using the highways of this State. The tax is imposed on a retailer, but is
+6 to be added to the limited possession commitment of a motor vehicle and thereby be paid by the
+7 person who enters into a limited possession commitment with a retailer.
+8 (b) Rate. – The applicable tax rates on the gross receipts from a limited possession
+9 commitment are as listed in this subsection. Gross receipts does not include the amount of any
+10 allowance given for a motor vehicle taken in trade as a partial payment on the limited possession
+11 commitment. The maximum tax in G.S. 105-187.3(a1) on certain motor vehicles applies to a
+12 continuous limited possession commitment of such a motor vehicle to the same person. The
+13 applicable tax rates are as follows:
+14 Type of Limited Possession Commitment Tax Rate
+15 Short-term lease or rental 8%
+16 Vehicle subscription 5%
+17 Long-term lease or rental 3%
+18 (c) Method. – A retailer who elects to pay tax on the gross receipts of the limited
+19 possession commitment of a motor vehicle shall make this election when applying for a
+20 certificate of title for the vehicle. To make the election, the retailer shall complete a form provided
+21 by the Division giving information needed to collect the alternate tax based on gross receipts.
+22 Once made, an election is irrevocable.
+23 (d) Administration. – The Division shall notify the Secretary of Revenue of a retailer who
+24 makes the election under this section. A retailer who makes this election pays the tax under this
+25 section shall report and remit to the Secretary the tax on the gross receipts of the limited
+26 possession commitment of the motor vehicle. The Secretary shall administer the tax imposed by
+27 this section on gross receipts in the same manner as the tax levied under G.S. 105-164.4(a)(2).
+28 The administrative provisions and powers of the Secretary that apply to the tax levied under
+29 G.S. 105-164.4(a)(2) apply to the tax imposed by this section. In addition, the Division may
+30 request the Secretary to audit a retailer who elects to pay tax on gross receipts under this section.
+31 When the Secretary conducts an audit at the request of the Division, the Division shall reimburse
+32 the Secretary for the cost of the audit, as determined by the Secretary. In conducting an audit of
+33 a retailer under this section, the Secretary may audit any sales of motor vehicles made by the
+34 retailer."
+35 SECTION 7.2.(a) G.S. 153A-156 reads as rewritten:
+36 "§ 153A-156. Gross receipts tax on short-term leases or rentals.
+37 (a) As a substitute for and in replacement of the ad valorem tax, which is excluded by
+38 G.S. 105-275(42), a A county may levy a gross receipts tax on the gross receipts from the
+39 short-term lease or rental of vehicles at retail to the general public. The tax rate shall not exceed
+40 one and one-half percent (1.5%) of the gross receipts from such the short-term leases or rentals.
+41 (b) If a county enacts the substitute and replacement a gross receipts tax pursuant to this
+42 section, any an entity required to collect the tax shall include a provision in each retail short-term
+43 lease or rental agreement noting that the percentage amount enacted by the county of the total
+44 lease or rental price, excluding highway use tax, is being charged as a tax on gross receipts. For
+45 purposes of this section, the transaction giving rise to the tax shall be deemed to have occurred
+46 occurs at the location of the entity from which where the customer takes delivery of the vehicle.
+47 The tax shall be collected at the time of lease or rental and placed in a segregated account until
+48 remitted to the county.
+49 …
+50 (e) The following definitions in G.S. 105-187.1 apply in this section:section.
+51 (1) Short-term lease or rental. – Defined in G.S. 105-187.1.
+Page 16 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 (2) Vehicle. – Any of the following:
+2 a. A motor vehicle of the passenger type, including a passenger van,
+3 minivan, or sport utility vehicle.
+4 b. A motor vehicle of the cargo type, including cargo van, pickup truck,
+5 or truck with a gross vehicle weight of 26,000 pounds or less used
+6 predominantly in the transportation of property for other than
+7 commercial freight and that does not require the operator to possess a
+8 commercial drivers license.
+9 c. A trailer or semitrailer with a gross vehicle weight of 6,000 pounds or
+10 less.
+11 …."
+12 SECTION 7.2.(b) G.S. 160A-215.1 reads as rewritten:
+13 "§ 160A-215.1. Gross receipts tax on short-term leases or rentals.
+14 (a) As a substitute for and in replacement of the ad valorem tax, which is excluded by
+15 G.S. 105-275(42), a A city may levy a gross receipts tax on the gross receipts from the short-term
+16 lease or rental of vehicles at retail to the general public. The tax rate shall not exceed one and
+17 one-half percent (1.5%) of the gross receipts from such the short-term leases or rentals.
+18 (b) If a city enacts the substitute and replacement a gross receipts tax pursuant to this
+19 section, any an entity required to collect the tax shall include a provision in each retail short-term
+20 lease or rental agreement noting that the percentage amount enacted by the city of the total lease
+21 or rental price, excluding highway use tax, is being charged as a tax on gross receipts. For
+22 purposes of this section, the transaction giving rise to the tax shall be deemed to have occurred
+23 occurs at the location of the entity from which where the customer takes delivery of the vehicle.
+24 The tax shall be collected at the time of lease or rental and placed in a segregated account until
+25 remitted to the city.
+26 …
+27 (e) The following definitions in G.S. 105-187.1 apply in this section:section.
+28 (1) Short-term lease or rental. – Defined in G.S. 105-187.1.
+29 (2) Vehicle. – Any of the following:
+30 a. A motor vehicle of the passenger type, including a passenger van,
+31 minivan, or sport utility vehicle.
+32 b. A motor vehicle of the cargo type, including cargo van, pickup truck,
+33 or truck with a gross vehicle weight rating of 26,000 pounds or less
+34 used predominantly in the transportation of property for other than
+35 commercial freight and that does not require the operator to posses a
+36 commercial drivers license.
+37 c. A trailer or semitrailer with a gross vehicle weight of 6,000 pounds or
+38 less.
+39 …."
+40 SECTION 7.2.(c) G.S. 105-550 reads as rewritten:
+41 "§ 105-550. Definitions.
+42 The definitions in G.S. 105-164.3 G.S. 105-164.3, G.S. 105-187.1, and the following
+43 definitions apply in this Article:
+44 (1) Authority. – A regional public transportation authority or a regional
+45 transportation authority created pursuant to Article 26 or Article 27 of Chapter
+46 160A of the General Statutes.
+47 (2) Long-term lease or rental. – Defined in G.S. 105-187.1.
+48 (3) Motorcycle. – Defined in G.S. 20-4.01.
+49 (4) Repealed by Session Laws 1998-98, s. 33, effective August 14, 1998.
+50 (5) Public transportation system. – Any combination of real and personal property
+51 established for purposes of public transportation. The systems may include
+DRS45301-SVxf-3C Page 17
+
+General Assembly Of North Carolina Session 2025
+1 one or more of the following: structures, improvements, buildings, equipment,
+2 vehicle parking or passenger transfer facilities, railroads and railroad
+3 rights-of-way, rights-of-way, bus services, shared-ride services,
+4 high-occupancy vehicle facilities, car-pool and vanpool programs, voucher
+5 programs, telecommunications and information systems, integrated fare
+6 systems, bus lanes, and busways. The term does not include, however, streets,
+7 roads, or highways except to the extent they are dedicated to public
+8 transportation vehicles or to the extent they are necessary for access to vehicle
+9 parking or passenger transfer facilities.
+10 (6) Short-term lease or rental. – Defined in G.S. 105-187.1.
+11 (7) U-drive-it vehicle. – Defined in G.S. 20-4.01."
+12 SECTION 7.2.(d) G.S. 105-551 reads as rewritten:
+13 "§ 105-551. Tax on gross receipts authorized.
+14 (a) Tax. – The board of trustees of an Authority may levy a privilege tax on a retailer
+15 who is engaged in the business of leasing or renting U-drive-it vehicles or motorcycles described
+16 in this subsection based on the gross receipts derived by the retailer from the short-term lease or
+17 rental of these vehicles. The tax rate must be a percentage and may not exceed five percent (5%).
+18 A tax levied under this section applies to short-term leases or rentals made by a retailer whose
+19 place of business or inventory is located within the territorial jurisdiction of the Authority. This
+20 tax is in addition to all other taxes. The retailers subject to this section are:
+21 (1) A retailer engaged in the business of leasing or renting U-drive-it vehicles or
+22 motorcycles and whose place of business or inventory is located within the
+23 territorial jurisdiction of the Authority.
+24 (2) A peer-to-peer vehicle sharing provider if the customer takes delivery of the
+25 vehicle within the territorial jurisdiction of the Authority.
+26 …."
+27 SECTION 7.2.(e) G.S. 105-552 reads as rewritten:
+28 "§ 105-552. Collection and administration of gross receipts tax.
+29 …
+30 (b) Collection. – A tax levied by an Authority under this Article shall be collected by the
+31 Authority but shall otherwise be administered in the same manner as the optional gross receipts
+32 tax levied by under G.S. 105-187.5. Like the optional gross receipts tax, a tax levied under this
+33 Article is to be added to the lease or rental price of a U-drive-it vehicle or motorcycle the vehicle
+34 and thereby be paid by the person to whom it is leased or rented.
+35 A tax levied under this Article applies regardless of whether the a retailer who leases or rents
+36 the U-drive-it vehicle or motorcycle has the option of paying the gross receipts tax under
+37 G.S. 105-187.5 has elected to pay the optional gross receipts tax on the lease or rental receipts
+38 from the vehicle. A tax levied under this Article must be paid to the Authority that levied the tax
+39 by the date an optional the gross receipts tax levied under G.S. 105-187.5 is payable or would be
+40 payable to the Secretary of Revenue under G.S. 105-187.5 if the retailer who leases or rents the
+41 U-drive-it vehicle or motorcycle had elected to pay the optional gross receipts tax.
+42 (c) Penalties and Remedies. – The penalties and remedies that apply to local sales and
+43 use taxes levied under Subchapter VIII of this Chapter apply to a tax levied under this Article.
+44 The board of trustees of an Authority may exercise any power the Secretary of Revenue or a
+45 board of county commissioners may exercise in collecting local sales and use taxes."
+46 SECTION 7.3.(a) G.S. 20-280.15 reads as rewritten:
+47 "§ 20-280.15. Definitions.
+48 The following definitions apply in this Article:
+49 (1) Airport operator. – As defined in G.S. 20-280.1.
+Page 18 DRS45301-SVxf-3C
+
+General Assembly Of North Carolina Session 2025
+1 (2) Peer-to-peer vehicle sharing. – The authorized use of a shared vehicle by an
+2 individual other than the shared vehicle owner through a peer-to-peer vehicle
+3 sharing program.
+4 (3) Peer-to-peer vehicle sharing program. – A business platform that connects
+5 shared registered vehicle owners that have not made an election under
+6 G.S. 105-187.5 with drivers to enable the sharing of vehicles for financial
+7 consideration.
+8 (4) Shared vehicle. – A vehicle that is available for sharing through a peer-to-peer
+9 vehicle sharing program.
+10 (5) Shared vehicle owner. – The registered owner of a shared vehicle that is made
+11 available for sharing through a peer-to-peer vehicle sharing program.
+12 (6) Vehicle Peer-to-peer vehicle sharing provider. – The A person or entity that
+13 operates, facilitates, or administers the provision of personal vehicle sharing
+14 through a peer-to-peer vehicle sharing program."
+15 SECTION 7.3.(b) G.S. 20-280.17 reads as rewritten:
+16 "§ 20-280.17. Airport operators.
+17 An airport operator may (i) charge peer-to-peer vehicle sharing programs providers a
+18 reasonable fee for the use of the airport's facility, (ii) require an identifying decal be displayed
+19 on all shared vehicles that operate on airport property, (iii) require the purchase and use of
+20 equipment or establish other appropriate mechanisms for monitoring and auditing compliance,
+21 including having a peer-to-peer vehicle sharing program provider provide data for purposes of
+22 monitoring and auditing compliance, and (iv) designate a location where shared vehicles may
+23 stage on the airport operator's facility."
+24 SECTION 7.4. This Part becomes effective October 1, 2025, and applies to gross
+25 receipts derived from rentals or leases billed on or after that date.
+26
+27 PART VIII. EFFECTIVE DATE
+28 SECTION 8. Except as otherwise provided, this act is effective when it becomes
+29 law.
+DRS45301-SVxf-3C Page 19
+
+[DELETED:  D R ( S  A A A C F A P B I T A T P L F F C A B A R F F R B E A H U T T I P T  P S " … ( O d t … ( T C n e t c a b d i a w G C ( A t a … ( T C t i a b a s u G e t c a b d i a w G C … S J S]
+[DELETED:  S  D " … ( L t S " S t d a f ( N ( T a o ( T ( N d s b a u G f t c d ( T s d ( A ( T a o t t e b l a d u t p o S l ( r S " ( S t T u e t t a p i G a G a a b t ( T t e t t i ( i d f N C s a i a t t o a s G u ( T R – T t o t a c a i a t r l i G c ( A – F t p o t s t a p i G a G a a b t e o t a t b]
+[DELETED:  S  P S J S " R f h b e a d d e a a a d t a A t o t a t o t p I t a o c t t b A s w t 1 d r n p t t i i n a r i c a r u h h b e a d d o m d n r a p a t d o r S " … ( M d e m t 3 ( S – A e w a o l t t d s a d i a t t s w T d s b t C f d o p f e A w t t w t t a h ( I a e p f o a W T o F t w]
+[DELETED:  S  D ( I w ( I l h … ( T w 1 S b  P S b " ( D ( A f ( A p – A p s t a p l a r ( C ( D t ( E A t h a d i i a p s t a f p ( F p a – A c o c a f a p c ( F t R p ( F i a p a r f f a a a r a r i f A a f p a r t a p l a i d f i t f c a T R f b T f t t p a t a f d o o w a b ( I p – A b o a e o t o a o i a p]
+[DELETED:  S  P e i i a p o p e s t a f f p ( P S C w ( R y – T t y o a p t i s t a p ( S p r – T f p r u t p d a p a i S p r T S i a t e p f d S ( T i ( G r p G ( R o p a ( N l t 9 d a t f f p a a p a F a i t r r t p f f p a a m b G a G a p t a a d u G a G b N s o t f f p a i a i i t ( N d r r t d p d s o t a r t o t d a i t f f p a h b p r ( E f P t P E – E a o p i s p S a r i t r i n f w t p r b t s T f]
+[DELETED:  S  D ( R a a N t p f f p a a m b G a G a p a o i b N t s t a a d c a 1 E o t 2 F a d c p s t t u t A a a a t a a p u G r 3 F a n i d p a e a t d a a m t r a b t t r u G 4 F a r d p s t t u t A m p m d f e r d p d s t a o t r d p s o d i n a t t S f t p d i t p t i i a s o t D o a w s t a e t l i i p C m]
+[DELETED:  S  P 5 A t a d i s 1 t ( E a a T p m t e t b a t p u G b T a c T t p ( C u t n p p d a s ( T t t t o l o o b a e u s 6 o t C a t r t r t ( F s p m ( S P R – T p d p a i p t p ( A ( B ( R ( A o A S T A f a F F P A – T S m a a S t a f a f f p S " D … ( F C a i]
+[DELETED:  S  D A f d i f w t d i n s t a I a T S a b T t S ( F … S " … ( D m … ( A p G i i a a r o a f f p a a d i G r t t S u G ( A o i a m b t s a G i d G … S " ( T n … ( T s i G ( T S … ( T s d G … S " … ( E r …]
+[DELETED:  S  P ( F a r t y S " ( G u l ( T ( T ( E a … ( F f r d w f I a f p r y p S 1  P S " R S i … ( T r g s i e o h t d ( f r s s t t S i s a a m s m t c o b t c a t c i s t s ( T h t d ( i a m s f a m s f s s t t S f t p o t c c y A r t s m t c s o S r S]
+[DELETED:  S  D " S a S " S f g t S s – A f g t s f w a i h b m w a i S " E t a S S b  P S " V p ( E ( E n ( E s l t S " R G 1 ( U ( F ( B ( D ( W ( W ( M ( M ( N ( N ( W ( N S " T T m m A m c]
+[DELETED:  S  P S d S " T … ( R t R … S " D i h o h d d f a k k a r S " S a A t b A c A d R e A p o t m f w i t r t t f A t t a a l o t a I t S " C a t ( T ( T t t t s a a l o t a I t ( T t S S " … ( E l t s r o o m c t e l a s n o t c i a w G]
+[DELETED:  S  D S " C w r S p r w T S " M r o t p o t m f i m o a u G 1 f S " ( R a r 9 r d ( V a b r ( L t l l S ( I r f ( A A ( A A ( E a t o o e u t m s o t a S " L – A c p o o e b w n c u G b S " G s l o]
+[DELETED:  S  P p i S b  P S " ( S … ( T 1 … ( D … ( C 1 e … ( P l g a a a u T t i a o o e o a c a m a m o a e o a l l c a a m o e o a p w a o e t o C … ( T f G t " ( T – A p s t t t o r r o S t … S " P … ( M o S t t a … ( F o]
+[DELETED:  S  D o f a I t t b I o t S o p t a a p t i l i s … S " o ( C a l a o ( D – T p i G ( ( a ( m n b a f d d T e o t g p o t d b t I R r p p p 1 S b  P S " ( C o t s ( O h i c p ( T v S b  P V P T P F S C R T I S " T]
+[DELETED:  S  P … ( P … ( R – A r a d i G w i e i t b o s l r o s l o r l l o r o o v s f m v ( S v a o … S " T t t o d S " M t v b S " ( A a u p w ( A r t p a m v f u a a l p c ( A ( E c b v e t t i e ( G f T a i b c t t]
+[DELETED:  S  D c s n r a t p ( R – T a t r o t g r f a l p c a c c a T T S 8 V 5 L 3 ( M – A r w e t p t o t g r o t l p c o a m v s m t e w a f a c b O ( A m s s r a r t t S t t o t g r o t l p t T G r W t a r S " ( A G A c m l a g r t o t g r f t s o ( I s l l p o T r … ( T ( S]
+[DELETED:  S  P ( V a A m b A o p i t t o p f o t c c c A l … S " ( A G l o ( I s l o p o T r … ( T ( S ( V a A m b A o u c c c A l … S " T d i G G G a t f d ( A – A r p t a o a r t 1 ( L ( M ( R ( P e]
+[DELETED:  S  D o v p o p t f r a r r r b s s s h p t a i s i f s r o h e t t e t a d t p t p ( S ( U S " ( T w i r A p t ( A m t ( A v … S " … ( C A t A a A t U v o m h t o o p t g r t u G f b p U ( P u T b S " T ( A]
+[DELETED:  S  P ( P i s ( P s r v o t h n m a e u G c ( S v ( S a ( V o t S " A a o m ( c p v s p p a r o p e i m s S r  P S l]

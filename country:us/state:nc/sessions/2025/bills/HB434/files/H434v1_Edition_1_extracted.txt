@@ -1,0 +1,1684 @@
+Title: HOUSE BILL 434
+Official Title: HOUSE BILL 434
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: The CARE FIRST Act. (Public)
+Sponsors: Representatives Bell, Reeder, Cotham, and Campbell (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Insurance, if favorable, Rules, Calendar, and Operations of
+the House
+March 19, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE CUT AUTHORIZATION RED TAPE EFFICIENTLY AND
+3 FACILITATE INTERVENTIONS RAPIDLY, START TREATMENT ACT.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. UPDATES TO HEALTH INSURANCE UTILIZATION REVIEW
+7 SECTION 1.(a) G.S. 58-50-61 reads as rewritten:
+8 "§ 58-50-61. Utilization review.
+9 (a) Definitions. – As used in this section, in G.S. 58-50-62, and in Part 4 of this Article,
+10 the term:The following definitions apply in this section:
+11 (1) "Certificate of coverage" includes a Certificate of coverage. – A policy of
+12 insurance issued to an individual person or a franchise policy issued pursuant
+13 to G.S. 58-51-90.
+14 (1a) Chronic or long-term condition. – A condition that has an expected duration
+15 of one year or more and that (i) requires ongoing medical attention, (ii) limits
+16 activities of daily living, or (iii) both.
+17 (1b) "Clinical peer" means a health care Clinical peer. – A healthcare professional
+18 who holds an unrestricted license in a state of the United States, in the same
+19 or similar specialty, specialty as those subject to utilization review and who
+20 also routinely provides the health care healthcare services subject to utilization
+21 review.
+22 (2) "Clinical Clinical review criteria" means the criteria. – The written screening
+23 procedures, decision abstracts, clinical protocols, and practice guidelines used
+24 by an insurer to determine medically necessary services and supplies.
+25 (2a) Closely related service. – A healthcare service subject to utilization review
+26 that is closely related in purpose, diagnostic utility, or designated healthcare
+27 billing code; that was provided on the same date of service as another
+28 healthcare service that was authorized to be performed by a previous
+29 utilization review determination; and for which a provider, acting within the
+30 scope of the provider's license and expertise, may reasonably be expected to
+31 perform in conjunction with, or in lieu of, the originally authorized service
+32 due to differences in the observed patient characteristics or needs for
+33 diagnostic information that were not readily identifiable until the provider was
+34 performing the originally authorized service. The term does not include an
+*H434-v-1*
+General Assembly Of North Carolina Session 2025
+1 order for, or administration of, a prescription drug or any part of a series or
+2 course of treatments.
+3 (2b) Course of treatment. – Any prescribed order or all ordered treatments,
+4 including all prescription drugs and medical therapies, for a specific covered
+5 person with a specific condition that is outlined and decided upon ahead of
+6 time with the covered person and healthcare provider.
+7 (3) "Covered person" means a Covered person. – A policyholder, subscriber,
+8 enrollee, or other individual covered by a health benefit plan. "Covered
+9 person" This term includes another person, other than the covered person's
+10 provider, who is authorized to act on behalf of a covered person.
+11 (4) "Emergency Emergency medical condition" means a condition. – A medical
+12 condition manifesting itself by acute symptoms of sufficient severity
+13 including, but not limited to, severe pain, or by acute symptoms developing
+14 from a chronic medical condition that would lead a prudent layperson,
+15 possessing an average knowledge of health and medicine, to reasonably
+16 expect the absence of immediate medical attention to result in any of the
+17 following:
+18 …
+19 (5) "Emergency services" means health care Emergency services. – Healthcare
+20 items and services furnished or required to screen for or treat an emergency
+21 medical condition until the condition is stabilized, including prehospital care
+22 transportation services, including ambulance services and ancillary services
+23 routinely available to the emergency department.
+24 (6) "Grievance" means a Grievance. – A written complaint submitted by a
+25 covered person about any of the following:
+26 a. An insurer's decisions, policies, or actions related to availability,
+27 delivery, or quality of health care healthcare services. A written
+28 complaint submitted by a covered person about a decision rendered
+29 solely on the basis that the health benefit plan contains a benefits
+30 exclusion for the health care service in question is not a grievance if
+31 the exclusion of the specific service requested is clearly stated in the
+32 certificate of coverage.
+33 b. Claims payment or handling; handling or the reimbursement for
+34 services.
+35 …
+36 (8) "Health care provider" means any Healthcare provider. – Any person who is
+37 licensed, registered, or certified under Chapter 90 of the General Statutes or
+38 the laws of another state to provide health care healthcare services in the
+39 ordinary care of business or practice or a profession business, practice, or
+40 profession, or in an approved education or training program; in a health care
+41 facility facility, as defined in G.S. 131E-176(9b) or the laws of another state
+42 to operate as a health care facility; or in a pharmacy.
+43 (9) "Health care services" means services Healthcare services. – Services
+44 provided for the diagnosis, prevention, treatment, cure, or relief of a health
+45 condition, illness, injury, or disease.
+46 (10) "Insurer" means an Insurer. – An entity that writes a health benefit plan and
+47 that is an insurance company subject to this Chapter, a service corporation
+48 under Article 65 of this Chapter, a health maintenance organization under
+49 Article 67 of this Chapter, or a multiple employer welfare arrangement under
+50 Article 50A of this Chapter.
+Page 2 House Bill 434-First Edition
+General Assembly Of North Carolina Session 2025
+1 (11) "Managed care plan" means a Managed care plan. – A health benefit plan in
+2 which an insurer either (i) requires a covered person to use or (ii) creates
+3 incentives, including financial incentives, for a covered person to use
+4 providers that are under contract with or managed, owned, or employed by the
+5 insurer.
+6 (12) "Medically Medically necessary services or supplies" means those supplies. –
+7 Those covered services or supplies that are:meet any of the following criteria:
+8 a. Provided Are provided for the diagnosis, treatment, cure, or relief of a
+9 health condition, illness, injury, or disease.
+10 b. Except as allowed under G.S. 58-3-255, are not for experimental,
+11 investigational, or cosmetic purposes.
+12 c. Necessary Are necessary for and appropriate to the diagnosis,
+13 treatment, cure, or relief of a health condition, illness, injury, disease,
+14 or its symptoms.
+15 d. Within Provision of the services or supplies is within generally
+16 accepted standards of medical care in the community.
+17 e. Not Are not provided solely for the convenience of the insured, the
+18 insured's family, or the provider.
+19 …
+20 (13) "Noncertification" means a Noncertification. – A determination by an insurer
+21 or its designated utilization review organization that an admission, availability
+22 of care, continued stay, or other health care healthcare service has been
+23 reviewed and, based upon the information provided, does not meet the
+24 insurer's requirements for medical necessity, appropriateness, health care
+25 healthcare setting, level of care care, or effectiveness, or does not meet the
+26 prudent layperson standard for coverage of emergency services in
+27 G.S. 58-3-190, and the requested service is therefore denied, reduced, or
+28 terminated. A "noncertification" noncertification is not a decision rendered
+29 solely on the basis that the health benefit plan does not provide benefits for
+30 the health care healthcare service in question, if the exclusion of the specific
+31 service requested is clearly stated in the certificate of coverage. A
+32 "noncertification" noncertification includes any situation in which an insurer
+33 or its designated agent makes a decision about a covered person's condition to
+34 determine whether a requested treatment is experimental, investigational, or
+35 cosmetic, and the extent of coverage under the health benefit plan is affected
+36 by that decision.
+37 (14) "Participating provider" means a Participating provider. – A provider who,
+38 under a contract with an insurer or with an insurer's contractor or
+39 subcontractor, has agreed to provide health care healthcare services to covered
+40 persons in return for direct or indirect payment from the insurer, other than
+41 cost-sharing by the covered person, such as coinsurance, copayments, or
+42 deductibles.
+43 (14a) Prior authorization. – The process by which insurers and utilization review
+44 organizations determine the medical necessity or medical appropriateness of
+45 otherwise covered healthcare services prior to the rendering of those
+46 healthcare services. Prior authorization includes any insurer's or utilization
+47 review organization's requirement that a covered person or healthcare
+48 provider notify the insurer or utilization review organization prior to providing
+49 a healthcare service.
+50 (15) "Provider" means a health care Provider. – A healthcare provider.
+House Bill 434-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 (16) "Stabilize" means to Stabilize. – To provide medical care that is appropriate
+2 to prevent a material deterioration of the person's condition, within reasonable
+3 medical probability, in accordance with the HCFA (Health Care Financing
+4 Administration) Centers for Medicare and Medicaid Services interpretative
+5 guidelines, policies, and regulations pertaining to responsibilities of hospitals
+6 in emergency cases (as provided cases under the Emergency Medical
+7 Treatment and Labor Act, section 1867 of the Social Security Act, 42 U.S.C.S.
+8 § 1395dd), 42 U.S.C.S. § 1395dd, and including any medically necessary
+9 services and supplies to maintain stabilization until the person is transferred.
+10 (16a) Urgent healthcare service. – A healthcare service with respect to which the
+11 application of the time periods for making a non-expedited utilization review
+12 that, in the opinion of a medical doctor with knowledge of the covered person's
+13 medical condition, could either (i) seriously jeopardize the life or health of the
+14 covered person or the ability of the covered person to regain maximum
+15 function or (ii) subject the covered person to severe pain that cannot be
+16 adequately managed without the care or treatment that is the subject of the
+17 utilization review. The term urgent healthcare service includes mental and
+18 behavioral healthcare services.
+19 (17) "Utilization review" means a Utilization review. – A set of formal techniques
+20 designed to monitor the use of or evaluate the clinical necessity,
+21 appropriateness, efficacy efficacy, or efficiency of health care healthcare
+22 services, procedures, providers, or facilities. These techniques may
+23 include:include any of the following:
+24 …
+25 c. Certification. – A determination by an insurer or its designated URO
+26 that an admission, availability of care, continued stay, or other service
+27 has been reviewed and, based on the information provided, satisfies
+28 the insurer's requirements for medically necessary services and
+29 supplies, appropriateness, health care healthcare setting, level of care,
+30 and effectiveness.
+31 d. Concurrent review. – Utilization review conducted during a patient's
+32 hospital stay or course of treatment.treatment and for which payment
+33 will be made for that service.
+34 …
+35 e1. Prior authorization.
+36 …
+37 (18) "Utilization Utilization review organization" or "URO" means an organization
+38 or URO. – An entity that conducts utilization review under a managed care
+39 plan, but does not mean an insurer performing utilization review for its own
+40 health benefit plan.
+41 …
+42 (c) Scope and Content of Program. – Every insurer shall prepare and maintain a
+43 utilization review program document that describes all delegated and nondelegated review
+44 functions for covered services including:including all of the following:
+45 (1) Procedures to evaluate the clinical necessity, appropriateness, efficacy, or
+46 efficiency of health healthcare services.
+47 …
+48 (5) Data collection processes and analytical methods used in assessing utilization
+49 of health care healthcare services.
+50 …
+Page 4 House Bill 434-First Edition
+General Assembly Of North Carolina Session 2025
+1 (7) The organizational structure (e.g., structure, such as a utilization review
+2 committee, quality assurance, or other committee) committees, that
+3 periodically assesses utilization review activities and reports to the insurer's
+4 governing body.
+5 …
+6 (9) The methods of collection and assessment of data about underutilization and
+7 overutilization of health care healthcare services and how the assessment is
+8 used to evaluate and improve procedures and criteria for utilization review.
+9 (d) Program Operations. Clinical Review Criteria, Generally. – In every utilization
+10 review program, an insurer or URO shall use documented clinical review criteria that are based
+11 on sound clinical evidence and that are periodically evaluated at least annually to assure ongoing
+12 efficacy. An insurer may develop its own clinical review criteria or purchase or license clinical
+13 review criteria. criteria, provided that the clinical review meets, at a minimum, all of the
+14 following standards:
+15 (1) The criteria used is based on applicable nationally recognized medical
+16 standards.
+17 (2) The clinical review and standards used are consistent with applicable
+18 government guidelines.
+19 (3) The clinical review provides for the delivery of a healthcare service in a
+20 clinically appropriate type, frequency, and setting and for a clinically
+21 appropriate duration.
+22 (4) The criteria used in the clinical review reflects the current medical and
+23 scientific evidence regarding emerging procedures, clinical guidelines, and
+24 best practices, as articulated in independent, peer-reviewed medical literature.
+25 (5) The clinical review is sufficiently flexible to allow deviations from the norm
+26 when justified on a case-by-case basis to ensure access to care.
+27 (d1) Clinical Review Criteria, Substance Use Treatment. – Criteria for determining when
+28 a patient needs to be placed in a substance abuse treatment program shall be either (i) the
+29 diagnostic criteria contained in the most recent revision of the American Society of Addiction
+30 Medicine Patient Placement Criteria for the Treatment of Substance-Related Disorders or (ii)
+31 criteria adopted by the insurer or its URO. Disorders. The Department, in consultation with the
+32 Department of Health and Human Services, may require proof of compliance with this subsection
+33 by a plan or URO.
+34 (d2) Administration of Program. – All of the following shall apply in the administration of
+35 a utilization review program under this section:
+36 (1) Qualified health care professionals shall administer the utilization review
+37 program and oversee review decisions under the direction of a medical doctor.
+38 A medical doctor licensed to practice medicine in this State shall evaluate the
+39 clinical appropriateness of noncertifications. An insurer and its URO shall
+40 ensure that all noncertifications are made by a medical doctor possessing a
+41 current and valid license to practice medicine in this State who (i) is of the
+42 same specialty as the healthcare provider who typically manages the medical
+43 condition or disease or provides the healthcare service involved in the request
+44 and (ii) has experience treating patients with the condition or disease for which
+45 the healthcare service is being requested. Medical doctors shall issue
+46 noncertifications under the clinical direction of one of the insurer's medical
+47 directors responsible for the provision of healthcare services provided to
+48 covered persons.
+49 (2) Compensation to persons involved in utilization review shall not contain any
+50 direct or indirect incentives for them to make any particular review decisions.
+House Bill 434-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 (3) Compensation to utilization reviewers shall not be directly or indirectly based
+2 on the number or type of noncertifications they render.
+3 (4) In issuing a utilization review decision, an insurer shall: obtain or its URO
+4 shall do all of the following:
+5 a. Obtain all information required to make the decision, including
+6 pertinent clinical information; employ information.
+7 b. Employ a process to ensure that utilization reviewers apply clinical
+8 review criteria consistently; and issue consistently.
+9 c. Apply the decision in a timely manner pursuant to this section.
+10 (d3) Consultation Prior to Issuing Noncertifications. – If an insurer or its URO is
+11 questioning the medical necessity of a healthcare service, then the covered person's relevant
+12 provider shall be notified that medical necessity is being questioned within five business days of
+13 the date the insurer or its URO received the utilization review request for the healthcare service
+14 in question. Prior to issuing a noncertification, the covered person's provider shall be given the
+15 opportunity to discuss the medical necessity of the healthcare service by telephonic or tele-video
+16 means with the medical doctor who will be responsible for making the utilization review
+17 determination of the healthcare service under review. The insurer or its URO is required to make
+18 documented personal contact with the covered person's provider, or with the medical staff of that
+19 provider, via telephone before the five business days otherwise required under this section for
+20 notification.
+21 (e) Insurer Responsibilities. – Every insurer shall:shall do all of the following regarding
+22 its utilization review process under this section:
+23 …
+24 (7) Maintain a complete, publicly available list of healthcare services for which
+25 utilization review is required, including for all healthcare services where
+26 utilization review is to be performed by an entity under contract with the
+27 insurer.
+28 (8) Ensure that its URO is in compliance with this section.
+29 (f) Time Lines for Prospective and Concurrent Utilization Reviews Based Upon Type of
+30 Healthcare Service. – As used in this subsection, the term "necessary information" includes the
+31 results of any patient examination, clinical evaluation, or second opinion that may be required.
+32 Prospective and concurrent determinations shall be communicated to the covered person's
+33 provider within three business days after the insurer obtains all necessary information about the
+34 admission, procedure, or health care service. The time line for completion of a prospective or
+35 current utilization review is as follows:
+36 (1) Non-urgent healthcare services. – An insurer or its URO shall both render a
+37 utilization review determination or noncertification concerning non-urgent
+38 healthcare services and notify the covered person and the covered person's
+39 provider of that determination or noncertification within 48 hours of obtaining
+40 all necessary information to make the utilization review determination or
+41 noncertification.
+42 (2) Urgent healthcare services. – An insurer or its URO shall both render a
+43 utilization review determination or noncertification concerning urgent
+44 healthcare services and notify the covered person and the covered person's
+45 provider of that determination or noncertification not later than 24 hours after
+46 receiving all necessary information needed to complete the review of the
+47 requested healthcare services.
+48 (3) Emergency services. – All of the following shall apply to utilization review
+49 for emergency services:
+50 a. Utilization review shall not be required for prehospital transportation
+51 or the provision of emergency services.
+Page 6 House Bill 434-First Edition
+General Assembly Of North Carolina Session 2025
+1 b. A minimum period of 24 hours following the provision of emergency
+2 services to or an emergency admission of a covered person shall be
+3 allowed for a covered person or the relevant provider to notify an
+4 insurer or its URO of the admission or provision of emergency
+5 services. If the admission or emergency service occurs on a State or
+6 federal holiday or on a weekend, then notification shall not be required
+7 until the next business day after the admission or provision of the
+8 emergency services.
+9 c. An insurer shall cover emergency services necessary to screen and
+10 stabilize a covered person. If a provider attests in writing to an insurer
+11 within 72 hours of a covered person's admission that the covered
+12 person's condition required emergency services, then that attestation
+13 creates a presumption that the emergency services were medically
+14 necessary and that presumption may be rebutted only if the insurer is
+15 able to establish, with clear and convincing evidence, that the
+16 emergency services were not medically necessary.
+17 d. The medical necessity or appropriateness of emergency services shall
+18 not be based on whether those services were provided by participating
+19 or nonparticipating providers. Restrictions on coverage of emergency
+20 services provided by nonparticipating providers cannot be greater than
+21 restrictions that apply when those same services are provided by
+22 participating providers.
+23 e. If a covered person receives an emergency service that requires one or
+24 more immediate post-evaluation or post-stabilization services, then an
+25 insurer or its URO shall make a utilization review determination for
+26 those services within 60 minutes of receiving a request. If the
+27 authorization determination is not made within 60 minutes, then the
+28 services for which the utilization review was requested are deemed
+29 approved.
+30 (f1) Utilization Review Requests for Additional Information. – If an insurer or its URO
+31 requests additional information to process a claim subject to utilization review, then an insurer
+32 shall notify the provider of the specific information necessary to complete the utilization review
+33 and the specific purpose of the request. The notification shall reference all relevant clinical and
+34 administrative criteria and be written in easily understandable language. The notification shall be
+35 sent to the provider as soon as possible but not later than 48 hours after receipt of the initial
+36 utilization review request. The requesting provider or a member of the requesting provider's
+37 clinical or administrative staff may submit the specified additional information within 14 business
+38 days of the notification that clinical information is missing. Any claim subject to a request for
+39 additional information shall be processed within the time periods for prompt payment of claims
+40 pursuant to G.S. 58-3-225.
+41 (f2) Utilization Review Determination Notifications. – If an insurer certifies a health care
+42 healthcare service, the insurer shall notify notification shall be sent to the covered person's
+43 provider. For If an insurer issues a noncertification, the insurer shall notify the covered person's
+44 provider and send then written or electronic confirmation of the noncertification shall be sent to
+45 the covered person's provider and covered person. In person that is in compliance with subsection
+46 (h) of this section.
+47 (f3) Concurrent Review Liability. – For concurrent reviews, the insurer shall remain liable
+48 for health care healthcare services until the covered person has been notified of the
+49 noncertification.
+50 (g) Retrospective Reviews. – As used in this subsection, the term "necessary information"
+51 includes the results of any patient examination, clinical evaluation, or second opinion that may
+House Bill 434-First Edition Page 7
+General Assembly Of North Carolina Session 2025
+1 be required. For retrospective review determinations, an insurer or its URO shall make the
+2 determination within 30 days after receiving all necessary information. For a certification, the
+3 insurer may give written notification to the covered person's provider. For a noncertification, If
+4 a noncertification is issued, then the insurer or its URO shall give written notification to the
+5 covered person and the covered person's provider within five business days after making issuing
+6 the noncertification. The notice of the noncertification shall meet all requirements under
+7 subsection (h) of this section.
+8 (g1) Retrospective Denial. – Subject to subsection (n1) of this section, an insurer may not
+9 revoke, limit, condition, or restrict a utilization review determination if care that has been
+10 previously certified by the insurer or its URO is provided within 45 business days from the date
+11 the provider received the utilization review determination. An insurer is required to pay a
+12 provider at the contracted payment rate for a healthcare service provided by the provider per a
+13 utilization review determination unless any of the following apply:
+14 (1) The provider knowingly and materially misrepresented the healthcare service
+15 in the utilization review request with the specific intent to deceive and obtain
+16 an unlawful payment from the insurer.
+17 (2) The healthcare service was no longer a covered benefit on the day it was
+18 provided.
+19 (3) The provider was no longer contracted with the covered person's health benefit
+20 plan on the date the care was provided.
+21 (4) The provider failed to meet the insurer's timely filing requirements.
+22 (5) The insurer does not have liability for the claim.
+23 (6) The covered person was no longer eligible for healthcare coverage on the day
+24 the care was provided.
+25 (h) Requirements for Notice of Noncertification. – A written notification of a
+26 noncertification made in accordance with this section shall include all reasons for the
+27 noncertification, including the clinical rationale, the name and medical specialty of all medical
+28 doctors that were involved in the noncertification, the instructions for initiating a voluntary appeal
+29 or reconsideration of the noncertification, and the instructions for requesting a written statement
+30 of the clinical review criteria used to make the noncertification. An insurer shall provide the
+31 clinical review criteria used to make the noncertification to any person who received the
+32 notification of the noncertification and who follows the procedures for a request. An insurer shall
+33 also inform the covered person in writing about the availability of assistance from the
+34 Department's Health Insurance Smart NC, including the telephone number and address of the
+35 Program.program.
+36 (h1) Failure to Make a Timely Utilization Review Determination. – An insurer or its URO
+37 failing to approve, deny, or request additional information for a requested utilization review
+38 within the applicable time frames under this section is deemed to have approved the request.
+39 (i) Requests for Informal Reconsideration. – An insurer may establish procedures for
+40 informal reconsideration of noncertifications and, if established, the procedures shall be in
+41 writing. After a written notice of noncertification has been issued in accordance with subsection
+42 (h) of this section, the reconsideration shall be conducted between the covered person's provider
+43 and a medical doctor licensed to practice medicine in this State designated by the insurer. An
+44 insurer shall not require a covered person to participate in an informal reconsideration before the
+45 covered person may appeal a noncertification under subsection (j) of this section. If, after
+46 informal reconsideration, the insurer upholds the noncertification decision, then the insurer shall
+47 issue a new notice in accordance with subsection (h) that meets the requirements of this section.
+48 If the insurer is unable to render an informal reconsideration decision within 10 business days
+49 after the date of receipt of the request for an informal reconsideration, it then the insurer shall
+50 treat the request for informal reconsideration as a request for an appeal; provided that appeal and
+51 the requirements of subsection (k) of this section for acknowledging the request shall apply
+Page 8 House Bill 434-First Edition
+General Assembly Of North Carolina Session 2025
+1 beginning on the day the insurer determines an informal reconsideration decision cannot be made
+2 before the tenth business day after receipt of the request for an informal reconsideration.
+3 (j) Appeals of Noncertifications. – Every insurer shall have written procedures for
+4 appeals of noncertifications by covered persons or their providers acting on their behalves,
+5 including expedited review to address a situation where the time frames for the standard review
+6 procedures set forth in this section would reasonably appear to seriously jeopardize the life or
+7 health of a covered person or jeopardize the covered person's ability to regain maximum function.
+8 Each appeal shall be evaluated by a medical doctor licensed to practice medicine in this State
+9 who was not involved in the noncertification.
+10 (j1) Requirements Applicable to Appeals Reviews. – All appeals shall be reviewed by a
+11 medical doctor who meets all of the following criteria:
+12 (1) Possesses a current and valid non-restricted license to practice medicine in
+13 this State.
+14 (2) Is currently in active practice for a period of at least five consecutive years in
+15 the same or similar specialty as a medical doctor who typically manages the
+16 medical condition or disease for which utilization review is required.
+17 (3) Is knowledgeable of, and has experience providing, the healthcare services
+18 under appeal.
+19 (4) Has not been directly involved in making the adverse determination.
+20 As part of the appeals review, the medical doctor shall consider all known clinical aspects of
+21 the healthcare service under review, including all pertinent medical records and any medical
+22 literature that have been provided by the covered person's provider or by a health care facility.
+23 (k) Nonexpedited Appeals. – Within three business days after receiving a request for a
+24 standard, nonexpedited appeal, the insurer or its URO shall provide the covered person with the
+25 name, address, and telephone number of the coordinator and information on how to submit
+26 written material. For standard, nonexpedited appeals, the insurer or its URO shall give written
+27 notification of the decision, in clear terms, to the covered person and the covered person's
+28 provider within 30 days after the insurer receives the request for an appeal. If the decision is not
+29 in favor of the covered person, then the written decision shall contain:contain all of the following
+30 information:
+31 (1) The professional qualifications and licensure of the person or persons
+32 reviewing the appeal.
+33 (2) A statement of the reviewers' understanding of the reason for the covered
+34 person's appeal.
+35 (3) The reviewers' decision in clear terms and the medical rationale in sufficient
+36 detail for the covered person to respond further to the insurer's position.
+37 (4) A reference to the evidence or documentation that is the basis for the decision,
+38 including the clinical review criteria used to make the determination, and
+39 instructions for requesting the clinical review criteria.
+40 (5) A statement advising the covered person of the covered person's right to
+41 request a second-level grievance review and a description of the procedure for
+42 submitting a second-level grievance under G.S. 58-50-62.
+43 (6) Notice of the availability of assistance from the Department's Health
+44 Insurance Smart NC, including the telephone number and address of the
+45 Program.program.
+46 (l) Expedited Appeals. – An expedited appeal of a noncertification may be requested by
+47 a covered person or his or her the provider acting on the covered person's behalf only when a
+48 nonexpedited appeal would reasonably appear to seriously jeopardize the life or health of a
+49 covered person or jeopardize the covered person's ability to regain maximum function. The
+50 insurer may require documentation of the medical justification for the expedited appeal. The
+51 insurer shall, in consultation with a medical doctor licensed to practice medicine in this State,
+House Bill 434-First Edition Page 9
+General Assembly Of North Carolina Session 2025
+1 provide expedited review, and the insurer or its URO shall communicate its decision in writing
+2 to the covered person and his or her provider as soon as possible, but not later than four days
+3 after receiving the information justifying expedited review. The written decision shall contain
+4 the provisions specified in subsection (k) of this section. If the expedited review is a concurrent
+5 review determination, then the insurer shall remain liable for the coverage of health care
+6 healthcare services until the covered person has been notified of the determination. An insurer is
+7 not required to provide an expedited review for retrospective noncertifications.
+8 (m) Disclosure of Utilization Review Requirements. – Information required to be
+9 provided under this section shall be described in detail and in easily understandable language.
+10 All of the following apply to an insurer's responsibility to disclose any utilization review
+11 procedures:
+12 (1) Coverage and member handbook. – In the certificate of coverage and member
+13 handbook provided to covered persons, an insurer shall include a clear and
+14 comprehensive description of its utilization review procedures, including the
+15 procedures for appealing noncertifications and a statement of the rights and
+16 responsibilities of covered persons, including the voluntary nature of the
+17 appeal process, with respect to those procedures. An insurer shall also include
+18 in the certificate of coverage and the member handbook information about the
+19 availability of assistance from the Department's Health Insurance Smart NC,
+20 including the telephone number and address of the Program. program.
+21 (2) Prospective materials. – An insurer shall include a summary of its utilization
+22 review procedures in materials intended for prospective covered persons.
+23 (3) Membership cards. – An insurer shall print on its membership cards a toll-free
+24 telephone number to call for utilization review purposes.
+25 (4) Website. – An insurer shall make any current utilization review requirements
+26 and restrictions readily accessible on its website.
+27 (m1) Changes to Utilization Review. – If an insurer intends either to implement a new
+28 utilization review requirement or restriction or to amend an existing requirement or restriction,
+29 then all of the following apply:
+30 (1) The new or amended requirement or restriction shall not be in effect unless
+31 and until the insurer's website has been updated to reflect the new or amended
+32 requirement or restriction. A claim shall not be denied for failure to obtain a
+33 prior authorization if the new or amended requirement or restriction was not
+34 in effect on the date of service of the claim.
+35 (2) The insurer shall provide participating providers written notice of the new or
+36 amended requirement or restriction no less than 60 calendar days before the
+37 requirement or restriction is implemented.
+38 This subsection does not apply if an insurer removes a utilization review requirement or
+39 restriction or amends a requirement or restriction to be less restrictive.
+40 (n) Maintenance of Records. – Every insurer and URO shall maintain records of each
+41 review performed and each appeal received or reviewed, as well as documentation sufficient to
+42 demonstrate compliance with this section. The maintenance of these records, including electronic
+43 reproduction and storage, shall be governed by rules adopted by the Commissioner that apply to
+44 insurers. These records shall be retained by the insurer and URO for a period of five years or, for
+45 domestic companies, until the Commissioner has adopted a final report of a general examination
+46 that contains a review of these records for that calendar year, whichever is later.
+47 (n1) Utilization Review Statistics. – An insurer using utilization review shall make
+48 statistics available regarding utilization review approvals and noncertifications on its website in
+49 a readily accessible format and shall update the information available, at a minimum, on a
+50 monthly basis. These statistics shall include the most recent 12-month rolling data reported
+51 separately for medications and procedural codes for all of the following:
+Page 10 House Bill 434-First Edition
+General Assembly Of North Carolina Session 2025
+1 (1) The total number of medications and procedural codes subject to utilization
+2 review, and specifically prior authorization.
+3 (2) The percentage of medications and procedural codes requiring prior
+4 authorization.
+5 (3) The reasons for any noncertifications issued.
+6 (4) The number and percentage of utilization review determinations that are
+7 appealed and the number and percentage of appeals that are approved or
+8 denied at each stage of the appeal process.
+9 (5) The average time and distribution by percentile of number of days between
+10 submission and response of each stage of the appeal process.
+11 (6) The number and percentage of providers who qualify for an exemption from
+12 the utilization review process under this section.
+13 (n2) Utilization Review Determination Validity. – A utilization review determination shall
+14 be valid for the entire duration of the approved course of treatment and shall be effective
+15 regardless of any changes in dosage for a prescription drug prescribed by a provider. If an insurer
+16 requires a utilization review determination for a healthcare service for the treatment of a chronic
+17 or long-term care condition, then the utilization review determination shall remain valid for the
+18 length of the treatment and the insurer may not require the covered person to obtain a utilization
+19 review determination again for the healthcare service.
+20 (o) Violation. – A violation of this section subjects an insurer to G.S. 58-2-70.
+21 (p) Continuity of Care. – The following requirements shall apply to ensure continuity of
+22 care for covered persons:
+23 (1) On receipt from a covered person or the covered person's provider of
+24 information documenting a prior utilization review determination, an insurer
+25 shall honor a utilization review determination granted to the covered person
+26 from a previous insurer for at least 90 calendar days of a covered person's
+27 coverage under a new health benefit plan. During this 90-day time period, an
+28 insurer may perform its own utilization review.
+29 (2) If the insurer makes a change in coverage of, or approval criteria for, a
+30 previously authorized healthcare service, then the change in coverage or
+31 approval criteria shall not affect a covered person who received a utilization
+32 review determination before the effective date of the change for the remainder
+33 of that covered person's health benefit plan year.
+34 (3) An insurer shall continue to honor a utilization review determination that the
+35 insurer or its URO certified for a covered person when that covered person
+36 changes products or health benefit plans under the same insurer, provided that
+37 the medically necessary services or supplies subject to the utilization review
+38 determination do not change.
+39 (4) If a provider performs a healthcare service that is closely related to the service
+40 for which certification has already been granted by an insurer or its URO, then
+41 that insurer or its URO shall not deny a claim for the closely related service
+42 for failure of the provider to seek or obtain a utilization review so long as the
+43 provider had notified the insurer or its URO of the performance of the closely
+44 related service both no later than three business days following the completion
+45 of the closely related service and prior to the submission of a claim for
+46 payment for that service. The submission of the notification shall include the
+47 submission of all relevant clinical information necessary for the insurer to
+48 evaluate the medical necessity of the service. Nothing in this subsection shall
+49 be construed to limit an insurer's retrospective review of medical necessity of
+50 the closely related service nor limit the need for verification of the covered
+51 person's eligibility for coverage under the health benefit plan.
+House Bill 434-First Edition Page 11
+General Assembly Of North Carolina Session 2025
+1 (5) An insurer shall not restrict benefits for any hospital stay of a covered person
+2 in connection with childbirth for the mother or newborn child (i) following a
+3 normal vaginal delivery to less than 48 hours or (ii) following a cesarean
+4 section to less than 96 hours. An insurer shall not require that a provider obtain
+5 a utilization review determination from an insurer for prescribing the length
+6 of stay required under this subdivision.
+7 (q) Exemptions. – This subsection shall not apply to utilization review requests that are
+8 pending review by an insurer or its URO. An insurer may not require a provider to request a
+9 utilization review for a healthcare service in order for the covered person to whom the healthcare
+10 service is being provided to receive coverage for the service if, within the most recent 12-month
+11 period, the insurer or its URO has issued certifications, or would have issued certifications, for
+12 not less than eighty percent (80%) of the utilization review requests submitted by the provider
+13 for that healthcare service. An insurer may evaluate whether a provider continues to qualify for
+14 this exemption not more than once every 12 months. All of the following apply to an exemption
+15 under this subsection:
+16 (1) A provider is not required to request an exemption in order to qualify for the
+17 exemption.
+18 (2) No more than once per year per healthcare service, a provider who does not
+19 receive an exemption under this subsection may request from the insurer
+20 evidence to support the insurer's decision. A healthcare provider may appeal
+21 an insurer's decision to deny the exemption.
+22 (3) An insurer may only revoke an exemption at the end of the applicable
+23 12-month period if the insurer does all of the following:
+24 a. Makes a determination that the provider would not have met the eighty
+25 percent (80%) approval criteria based on a retrospective review of the
+26 claims for the particular service for which the exemption applies for
+27 the previous three months or for a longer period if needed to reach a
+28 minimum of 10 claims for review.
+29 b. Provides the provider with the information the insurer relied upon in
+30 making the determination to revoke the exemption.
+31 c. Provides the provider a plain language explanation of how to appeal
+32 the decision.
+33 (4) If an insurer revokes an exemption, then that exemption will remain in effect
+34 until the thirtieth calendar day after the date the insurer notifies the provider
+35 of its revocation of the exemption unless the provider appeals the revocation.
+36 If the provider appeals the revocation, then the exemption shall remain in
+37 effect until the fifth calendar day after the revocation is upheld on appeal.
+38 (5) An insurer shall provide a healthcare provider that receives an exemption all
+39 of the following:
+40 a. A statement that the provider qualifies for an exemption from
+41 preauthorization requirements.
+42 b. A list of services for which the exemption applies.
+43 c. A statement of the duration of the exemption.
+44 (6) An insurer shall not deny or reduce payment for a healthcare service exempted
+45 from a utilization review requirement under this subsection, including a
+46 healthcare service performed or supervised by another provider when the
+47 provider who ordered the service received an exemption, unless the rendering
+48 provider meets one of the following criteria:
+49 a. Knowingly and materially misrepresented the healthcare service as a
+50 part of the request for payment submitted to the insurer with the
+Page 12 House Bill 434-First Edition
+General Assembly Of North Carolina Session 2025
+1 specific intent to deceive and obtain an unlawful payment from the
+2 insurer.
+3 b. Failed to substantially perform the healthcare service.
+4 Nothing in this subsection requires an insurer to evaluate an existing exemption or prevents
+5 an insurer from establishing a longer exemption period.
+6 (r) Deemed Approval. – Any failure by an insurer or its URO to comply with the
+7 deadlines and other requirements specified in this section will result in any healthcare services
+8 subject to review to be automatically deemed authorized by the insurer."
+9 SECTION 1.(b) Article 3 of Chapter 58 of the General Statutes is amended by
+10 adding a new section to read:
+11 "§ 58-3-500. Reports due regarding health benefit plans.
+12 (a) Health Benefit Plan Reporting Requirements. – All insurers offering health benefits
+13 shall be required to provide the following information to the Commissioner no later than March
+14 1 of each year:
+15 (1) Utilization review. – At a minimum, and subject to any rules adopted by the
+16 Commissioner, insurers shall provide information regarding utilization review
+17 approvals and noncertifications for the previous calendar year, reported
+18 separately for medications and procedural codes, for all of the following:
+19 a. The total number of medications and procedural codes subject to
+20 utilization review, and specifically prior authorization.
+21 b. The percentage of medications and procedural codes requiring prior
+22 authorization.
+23 c. The reasons for any noncertifications issued.
+24 d. The number and percentage of utilization review determinations that
+25 are appealed and the number and percentage of appeals that are
+26 approved or denied at each stage of the appeal process.
+27 e. The average time and distribution by percentile of number of days
+28 between submission and response of each stage of the appeal process.
+29 f. The number and percentage of providers who qualify for an exemption
+30 from the utilization review process under this section.
+31 (2) Reserved for future codification purposes.
+32 (b) Commissioner Authority Over Required Information. – The Commissioner is
+33 authorized to adopt rules related to this section. By rule, the Commissioner is authorized to
+34 require additional information related to the subject of the required report. By rule, the
+35 Commissioner is authorized to clarify or define further any information required under this
+36 section to be the subject of a report.
+37 (c) Commissioner Reporting Requirements. – No later than April 1 of each year, the
+38 Commissioner shall compile the information received under subsection (a) of this section and
+39 submit a report containing that compiled information to the Joint Legislative Commission on
+40 Governmental Operations.
+41 (d) Notwithstanding the penalty limits under G.S. 58-2-70, the failure of an insurer to
+42 provide information required under this section is a violation subject to a fine of five thousand
+43 dollars ($5,000) per day that the information is not provided."
+44 SECTION 1.(c) In accordance with G.S. 135-48.24(b) and G.S. 135-48.30(a)(7),
+45 which require the State Treasurer to implement procedures that are substantially similar to the
+46 provisions of G.S. 58-50-61 for the North Carolina State Health Plan for Teachers and State
+47 Employees (State Health Plan), the State Treasurer and the Executive Administrator of the State
+48 Health Plan shall review all practices of the State Health Plan and all contracts with, and practices
+49 of, any third party conducting any utilization review on behalf of the State Health Plan to ensure
+50 compliance with subsection (a) of this section no later than the start of the next plan year.
+House Bill 434-First Edition Page 13
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(d) Subsections (a) and (b) of this section become effective October 1,
+2 2025, and apply to insurance contracts issued, renewed, or amended on or after that date.
+3
+4 PART II. ENFORCEMENT OF LICENSING REQUIREMENTS FOR HEALTH
+5 INSURANCE UTILIZATION REVIEW
+6 SECTION 2.(a) G.S. 90-1.1(5) reads as rewritten:
+7 "(5) The practice of medicine or surgery. – Except as otherwise provided by this
+8 subdivision, the practice of medicine or surgery, for purposes of this Article,
+9 includes any of the following acts:
+10 …
+11 g. Performing any portion of the utilization review process under
+12 G.S. 58-50-51 that is required under that section to be performed by a
+13 physician licensed to practice medicine, including making a final
+14 utilization review decision, issuing a noncertification, and
+15 participating on behalf of an insurer in the utilization reconsideration
+16 and appeal process.
+17 …."
+18 SECTION 2.(b) Part 2 of Article 50 of Chapter 58 of the General Statues is amended
+19 by adding a new section to read:
+20 "§ 58-50-64. Utilization review disciplinary actions; North Carolina Medical Board.
+21 (a) Performing any portion of the utilization review process under G.S. 58-50-61 that is
+22 required to be performed by a licensed physician, including making a final utilization review
+23 decision, issuing a noncertification, and participating on behalf of the insurer in the utilization
+24 reconsideration and appeal process, is the practice of medicine under G.S. 90-1.1(5).
+25 (b) The North Carolina Medical Board has the authority to subpoena an insurer, or a
+26 utilization review organization acting on behalf of an insurer, for any records, documents, or
+27 other materials pertaining to the involvement of any physician licensed in this State in the
+28 utilization review process under G.S. 58-50-61.
+29 (c) If an insurer, or a utilization review organization acting on behalf of an insurer, fails
+30 to comply with a subpoena issued in accordance with this section, the North Carolina Medical
+31 Board shall report the failure to comply and any information supporting the failure to the
+32 Commissioner.
+33 (d) Notwithstanding the penalty minimum limit under G.S. 58-2-70, the failure of an
+34 insurer, or a utilization review organization acting on behalf of an insurer, to provide information
+35 required by a subpoena issued in accordance with this section is a violation subjecting the insurer
+36 to a fine of no less than five hundred dollars ($500.00) for each 90-day period in which the
+37 information is not produced.
+38 (e) If the North Carolina Medical Board takes any disciplinary action under G.S. 90-14(a)
+39 against a licensed physician as a result of that physician's involvement in the utilization review
+40 process under G.S. 58-50-61, then any noncertifications that were issued that are related, in whole
+41 or in part, to the disciplinary action shall be subject to reconsideration or appeal under
+42 G.S. 58-50-61 so long as the noncertification had not been reversed prior to the disciplinary
+43 action. The North Carolina Medical Board shall notify the insurer of the disciplinary action and
+44 the utilization determinations involved."
+45 SECTION 2.(c) G.S. 135-48.10 reads as rewritten:
+46 "§ 135-48.10. Confidentiality of information and medical records; provider contracts.
+47 (a) Any information described in this section that is in the possession of the State Health
+48 Plan for Teachers and State Employees or its Claims Processor under the Plan or the Predecessor
+49 Plan shall be confidential and shall be exempt from the provisions of Chapter 132 of the General
+50 Statutes or any other provision requiring information and records held by State agencies to be
+51 made public or accessible to the public. This section shall apply to all information concerning
+Page 14 House Bill 434-First Edition
+General Assembly Of North Carolina Session 2025
+1 individuals, including the fact of coverage or noncoverage, whether or not a claim has been filed,
+2 medical information, whether or not a claim has been paid, and any other information or materials
+3 concerning a plan participant, including Claim Payment Data and any documents or other
+4 materials derived from the Claim Payment Data. This information may, however, be released to
+5 the State Auditor or to the Auditor, the Attorney General General, or the North Carolina Medical
+6 Board in furtherance of their the respective statutory duties and responsibilities, responsibilities
+7 of each party or to such persons or organizations as may be designated and approved by the State
+8 Treasurer. Any information so that is released shall remain confidential as stated above and any
+9 as stipulated by this section. Any party obtaining such information under this section shall assume
+10 the same level of responsibility for maintaining such confidentiality as that of the State Health
+11 Plan for Teachers and State Employees.
+12 (b) The terms of a contract between the Plan and its third party administrator or between
+13 the Plan and its pharmacy benefit manager are a public record under Chapter 132 of the General
+14 Statutes. No provision of law, however, shall be construed to prevent or restrict the release of
+15 any information in a Plan contract to the State Treasurer, the State Auditor, the Attorney General,
+16 the North Carolina Medical Board, the Director of the State Budget, the Plan's Board of Trustees,
+17 and the Plan's Executive Administrator solely and exclusively for their use in the furtherance of
+18 their duties and responsibilities.
+19 (c) Performing any portion of the utilization review process under G.S. 58-50-61 that is
+20 required to be performed by a licensed physician, including making a final utilization review
+21 decision, issuing a noncertification, and participating on behalf of the insurer in the utilization
+22 reconsideration and appeal process, is the practice of medicine under G.S. 90-1.1(5). Subject to
+23 this section, all of the following shall apply:
+24 (1) The North Carolina Medical Board has the authority to subpoena the Plan, or
+25 a utilization review organization acting on behalf of the Plan, for any records,
+26 documents, or other materials pertaining to the involvement of any physician
+27 licensed in this State in the utilization review process under the Plan.
+28 (2) If the North Carolina Medical Board takes any disciplinary action under
+29 G.S. 90-14(a) against a licensed physician as a result of that physician's
+30 involvement in the Plan's utilization review process, then any
+31 noncertifications that were issued that are related, in whole or in part, to the
+32 disciplinary action shall be subject to reconsideration or appeal so long as the
+33 noncertification had not been reversed prior to the disciplinary action. The
+34 North Carolina Medical Board shall notify the Plan of the disciplinary action
+35 and the utilization determinations involved."
+36
+37 PART III. TECHNICAL AND CONFORMING CHANGES
+38 SECTION 3.(a) G.S. 58-50-62 is amended by adding a new subsection to read:
+39 "(a1) The definitions under G.S. 58-50-61(a) apply in this section."
+40 SECTION 3.(b) G.S. 58-50-61(a)(7) is repealed.
+41 SECTION 3.(c) G.S. 58-50-75 reads as rewritten:
+42 "§ 58-50-75. Purpose, scope, and definitions.
+43 …
+44 (b) This Part applies to all insurers that offer a health benefit plan and that provide or
+45 perform utilization review pursuant to G.S. 58-50-61, the State Health Plan for Teachers and
+46 State Employees, G.S. 58-50-61 and any optional plans or programs operating under Part 2 of
+47 Article 3A of Chapter 135 of the General Statutes. With respect to second-level grievance review
+48 decisions, this Part applies only to second-level grievance review decisions involving
+49 noncertification decisions.
+50 (c) In addition to the The definitions in G.S. 58-50-61(a), as used in this Part:under
+51 G.S. 58-50-61(a) and the following definitions apply in this Part:
+House Bill 434-First Edition Page 15
+General Assembly Of North Carolina Session 2025
+1 (1) "Covered benefits" or "benefits" means those Covered benefits or benefits. –
+2 Those benefits consisting of medical care, provided directly through insurance
+3 or otherwise otherwise, and including items and services paid for as medical
+4 care, under care under the terms of a health benefit plan.
+5 (2) "Covered person" means a policyholder, subscriber, enrollee, or other
+6 individual covered by a health benefit plan. "Covered person" includes
+7 another person, including the covered person's health care provider, acting on
+8 behalf of the covered person. Nothing in this subdivision shall require the
+9 covered person's health care provider to act on behalf of the covered person.
+10 (3) "Independent Independent review organization" or "organization" means an
+11 organization or organization. – An entity that conducts independent external
+12 reviews of appeals of noncertifications and second-level grievance review
+13 decisions."
+14 SECTION 3.(d) G.S. 90-21.52(c)(1) reads as rewritten:
+15 "(1) The liability of the managed care entity is based on an administrative decision
+16 to approve or disapprove payment or reimbursement for, or denial, reduction,
+17 or termination of coverage, for a health care service and the physician
+18 organizations, health care providers, or entities wholly owned by physicians
+19 or health care providers or any combination thereof, which have made the
+20 decision at issue, have agreed explicitly, in a written addendum or agreement
+21 separate from the managed care organization's standard professional service
+22 agreement, to assume responsibility for making noncertification decisions
+23 decisions, as defined under G.S. 58-50-61(13) G.S. 58-50-61, with respect to
+24 certain insureds or enrollees; and"
+25
+26 PART IV. EFFECTIVE DATE
+27 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+28 law.
+Page 16 House Bill 434-First Edition
+[DELETED:  1 T ( R H A A A T E T C A R T E A F T  P S " ( D t ( " i t ( C o a ( " w o a r ( " p b ( C t b c t w p o t s d o s a a h s t w a t b p b a p u s p d t d i t o p c o n f d p]
+[DELETED:  S  H o c ( C o t – A p o o a o t i p t ( " p m a C p – A p s e o o i c b a h b p " p p ( " c m i b a s o s s i f a c m c t w l a p l p a a k o h a m t r e f … ( " i m t r ( " m a G – A w c s b a c a A i d p o a r t a d o q o h c h s A w c s o t b t t h b p c a b e t c b C p o h h o t r f s … ( " l t h o p f t ( " c s m s H s – S p c ( " t u A A]
+[DELETED:  S  P ( " w i i f i f a c p t u p i ( " T a P h b E a a u G a n f e i c N A n f a a t t d t o d W P o t s o s i w g a e N i … ( " o o c c s o o h c h s h b r a b u t i p d n m t i r f m n a h c h p l s f c o e s i G a t r s i t d r o t s t s r i c s i t c o c A " o d c b ( " u a c w a i o w a i c o s p c b t c p s a c c o d ( P o o c h s p t t r o t h r o r t a c p o h p a ( "]
+[DELETED:  S  H ( " t m A g i e c ( p c u t E M T § s ( U a t m c p o t a o t c p t r m f o ( s t c p t s p t c b a u b ( " d t m t u o o e t c n a e e o e o h c h s p p o f T t m i … c C t h t i r f m n s a s a d C h w … e P … ( " o p h … ( S a C o P – E i s p a m a u r p d t d a d a n r f ( P t e t c n a e o e … ( D o …]
+[DELETED:  S  P ( T o s ( s s a a u r c q a o o c c t p g … ( T o u ( P O C R C G – I e u r o e r c c p t t c r m a a m a o t f ( T c u i b o a n r m s ( T c r a s u a c w a g ( T c r p f t d o a h s i a c a t f a s a f a c a ( T c u i t c r r t c m a s b ( T w ( C a p n t b p i a s a t p s b e ( t d M c D b ( A a ( Q h c p s a t u r p A c e c s c a t h s i b r M d s i n d r f t p o h s p t c ( C d]
+[DELETED:  S  H ( C o ( I s a O a i r t m t d i p b E r c A ( C P t I N – I a i o i U i q p t i o m w t m d w w b r f m t u r d d p n ( I i … ( M u r i r i f a h s w u i ( E ( T H r P a c d s b c t t c p p a c ( N u r d o n c n h p a n i t m t u r d o n ( U h s – A i o i U s b r a u r d o n c u h p r a n i n t c t r o t r ( E f a U o]
+[DELETED:  S  P b A s a a r a i o i U o t a o p o e s f u a o e c A s w 7 h o a c p a t t c p c a p t t e s w m n a t e w c a c e t t e d T n o s r t a w t s s a p b p e I m i t s w 6 m o r a r I t a s a ( U r s a a s u r T r p a r p c d a p ( U h s t i n n s b s t t c p p p t ( ( C f h c h s u t c p h b n o t n ( R i]
+[DELETED:  S  H b r F r r d a i o U s m t d i a c t n T n o t n s m a r u s ( R r l c o r a u r d i c t h b p t p r t u r d A i i r t p a p u ( T i a ( T l c b o d i p ( T p ( T ( T ( T t ( R f N o N – A w n o a n m i a w t s s i a r f t n d o o c r c u t m t n t a p w r t n a i t c p i w a t a o a f t D P ( F f w ( R i r o n a i e t p s b i w ( a i c p m a a n u s ( o t s I a i i I a t t]
+[DELETED:  S  P b b ( A o N – E i s h w p f a o n b c p o t p a o t b i p h E w ( R m ( P t ( I t m ( I u ( H A t l ( N s n w n o t d i c t t t c p a t c p p i i ( T p q a l o t p o p r ( A p ( T d ( A i t c r c u t m t d a i ( A s a t c p o t c p r t r s ( N o t a o a f t D H I S N i t t n a a o t P ( E a n c i i]
+[DELETED:  S  H p t a t r d t t i s r l f t c o h c h n ( D o U R R – I r t b p A o t f a t a i r t d a u r p ( C h c p r o c p i t v n o t a i a i ( P r ( M t ( W a ( C u t ( T a r p i ( T a r T r ( M r d r i d t ( U R S – A i u u r s m s a r a f a s u t i a a a m o a m b T s s i t m r 1 d r s]
+[DELETED:  S  P ( T r ( T p o m a p c r p a ( T ( T n a p o u r d t a a a t n a p o a t a a o d ( T s ( T t ( U b v f t e d o t a c o t a s b e r r o l r ( V ( C c ( O r f a c p o t c p p o i s f c i ( I t i m a c i c o o a c f a p a h s t t c i c o a r o ( A i c t d ( I f t f p r o t c r s a p t t s o a c f p s e b t p]
+[DELETED:  S  H ( A i n s a o ( E p u s p n f t u ( A e ( N r a e u t s m r f t i e a ( A i m o r a e a t e o t a 1 a M p c t m b P m c P t ( I u o I e ( A o a A s t t p q f a e f p b A c A ( A f a u r r u t s i a h s p o s b a p w t p p a K p o t r f p s t t i w t]
+[DELETED:  S  P s i b F N a ( D A – A f b a i o i U t c w t d s S a " ( H s 1 ( U C a a n f t p c y r s a T t n o m a p c s t u b T a c T d T a a a t n a p o a t a a e T b f T f ( R ( C A O R I – T C i a r a i r t t s o t r r B r t C i a t c o f a i r u s ( C C s G ( N p d S w p E H o c]
+[DELETED:  S  H S 2  P I E O L R F H I S " T s i … g P a p o t u r p u G p l t p m i m a f u r d i a n a p a … S b " ( P r d r ( T u o m p t t i o a p l i t S i t u ( I t B s r t f t c a a i s t f t t C ( N i r t i ( I a p o i p t t d a s b s t r o a u G a t S " ( A P P S m]
+[DELETED:  S  P i m c a p p i C P D a a d o o m t B o T a t P ( T t S a t a t ( P r d r t ( T a d l ( I t N C M B t a d a u G a a l p a a r o t p i i t P u r p t a n d n N a  P S " T S S " … ( T p S A d t P a o t s g r d i n ( I a G]
+[DELETED:  S  H ( " T o c ( " p m a p s e o o i c b a h b p " p i a b c ( " o r g d S " T t o t o c f a h c s a t p o o d s a t a r f m n d d c  P S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 434
+Short Title: The CARE FIRST Act. (Public)
+Sponsors: Representatives Bell, Reeder, Cotham, and Campbell (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Health, if favorable, Insurance, if favorable, Rules, Calendar, and Operations of
+the House
+March 19, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO ENACT THE CUT AUTHORIZATION RED TAPE EFFICIENTLY AND
+3 FACILITATE INTERVENTIONS RAPIDLY, START TREATMENT ACT.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. UPDATES TO HEALTH INSURANCE UTILIZATION REVIEW
+7 SECTION 1.(a) G.S. 58-50-61 reads as rewritten:
+8 "§ 58-50-61. Utilization review.
+9 (a) Definitions. – As used in this section, in G.S. 58-50-62, and in Part 4 of this Article,
+10 the term:The following definitions apply in this section:
+11 (1) "Certificate of coverage" includes a Certificate of coverage. – A policy of
+12 insurance issued to an individual person or a franchise policy issued pursuant
+13 to G.S. 58-51-90.
+14 (1a) Chronic or long-term condition. – A condition that has an expected duration
+15 of one year or more and that (i) requires ongoing medical attention, (ii) limits
+16 activities of daily living, or (iii) both.
+17 (1b) "Clinical peer" means a health care Clinical peer. – A healthcare professional
+18 who holds an unrestricted license in a state of the United States, in the same
+19 or similar specialty, specialty as those subject to utilization review and who
+20 also routinely provides the health care healthcare services subject to utilization
+21 review.
+22 (2) "Clinical Clinical review criteria" means the criteria. – The written screening
+23 procedures, decision abstracts, clinical protocols, and practice guidelines used
+24 by an insurer to determine medically necessary services and supplies.
+25 (2a) Closely related service. – A healthcare service subject to utilization review
+26 that is closely related in purpose, diagnostic utility, or designated healthcare
+27 billing code; that was provided on the same date of service as another
+28 healthcare service that was authorized to be performed by a previous
+29 utilization review determination; and for which a provider, acting within the
+30 scope of the provider's license and expertise, may reasonably be expected to
+31 perform in conjunction with, or in lieu of, the originally authorized service
+32 due to differences in the observed patient characteristics or needs for
+33 diagnostic information that were not readily identifiable until the provider was
+34 performing the originally authorized service. The term does not include an
+*H434-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 order for, or administration of, a prescription drug or any part of a series or
+2 course of treatments.
+3 (2b) Course of treatment. – Any prescribed order or all ordered treatments,
+4 including all prescription drugs and medical therapies, for a specific covered
+5 person with a specific condition that is outlined and decided upon ahead of
+6 time with the covered person and healthcare provider.
+7 (3) "Covered person" means a Covered person. – A policyholder, subscriber,
+8 enrollee, or other individual covered by a health benefit plan. "Covered
+9 person" This term includes another person, other than the covered person's
+10 provider, who is authorized to act on behalf of a covered person.
+11 (4) "Emergency Emergency medical condition" means a condition. – A medical
+12 condition manifesting itself by acute symptoms of sufficient severity
+13 including, but not limited to, severe pain, or by acute symptoms developing
+14 from a chronic medical condition that would lead a prudent layperson,
+15 possessing an average knowledge of health and medicine, to reasonably
+16 expect the absence of immediate medical attention to result in any of the
+17 following:
+18 …
+19 (5) "Emergency services" means health care Emergency services. – Healthcare
+20 items and services furnished or required to screen for or treat an emergency
+21 medical condition until the condition is stabilized, including prehospital care
+22 transportation services, including ambulance services and ancillary services
+23 routinely available to the emergency department.
+24 (6) "Grievance" means a Grievance. – A written complaint submitted by a
+25 covered person about any of the following:
+26 a. An insurer's decisions, policies, or actions related to availability,
+27 delivery, or quality of health care healthcare services. A written
+28 complaint submitted by a covered person about a decision rendered
+29 solely on the basis that the health benefit plan contains a benefits
+30 exclusion for the health care service in question is not a grievance if
+31 the exclusion of the specific service requested is clearly stated in the
+32 certificate of coverage.
+33 b. Claims payment or handling; handling or the reimbursement for
+34 services.
+35 …
+36 (8) "Health care provider" means any Healthcare provider. – Any person who is
+37 licensed, registered, or certified under Chapter 90 of the General Statutes or
+38 the laws of another state to provide health care healthcare services in the
+39 ordinary care of business or practice or a profession business, practice, or
+40 profession, or in an approved education or training program; in a health care
+41 facility facility, as defined in G.S. 131E-176(9b) or the laws of another state
+42 to operate as a health care facility; or in a pharmacy.
+43 (9) "Health care services" means services Healthcare services. – Services
+44 provided for the diagnosis, prevention, treatment, cure, or relief of a health
+45 condition, illness, injury, or disease.
+46 (10) "Insurer" means an Insurer. – An entity that writes a health benefit plan and
+47 that is an insurance company subject to this Chapter, a service corporation
+48 under Article 65 of this Chapter, a health maintenance organization under
+49 Article 67 of this Chapter, or a multiple employer welfare arrangement under
+50 Article 50A of this Chapter.
+Page 2 House Bill 434-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (11) "Managed care plan" means a Managed care plan. – A health benefit plan in
+2 which an insurer either (i) requires a covered person to use or (ii) creates
+3 incentives, including financial incentives, for a covered person to use
+4 providers that are under contract with or managed, owned, or employed by the
+5 insurer.
+6 (12) "Medically Medically necessary services or supplies" means those supplies. –
+7 Those covered services or supplies that are:meet any of the following criteria:
+8 a. Provided Are provided for the diagnosis, treatment, cure, or relief of a
+9 health condition, illness, injury, or disease.
+10 b. Except as allowed under G.S. 58-3-255, are not for experimental,
+11 investigational, or cosmetic purposes.
+12 c. Necessary Are necessary for and appropriate to the diagnosis,
+13 treatment, cure, or relief of a health condition, illness, injury, disease,
+14 or its symptoms.
+15 d. Within Provision of the services or supplies is within generally
+16 accepted standards of medical care in the community.
+17 e. Not Are not provided solely for the convenience of the insured, the
+18 insured's family, or the provider.
+19 …
+20 (13) "Noncertification" means a Noncertification. – A determination by an insurer
+21 or its designated utilization review organization that an admission, availability
+22 of care, continued stay, or other health care healthcare service has been
+23 reviewed and, based upon the information provided, does not meet the
+24 insurer's requirements for medical necessity, appropriateness, health care
+25 healthcare setting, level of care care, or effectiveness, or does not meet the
+26 prudent layperson standard for coverage of emergency services in
+27 G.S. 58-3-190, and the requested service is therefore denied, reduced, or
+28 terminated. A "noncertification" noncertification is not a decision rendered
+29 solely on the basis that the health benefit plan does not provide benefits for
+30 the health care healthcare service in question, if the exclusion of the specific
+31 service requested is clearly stated in the certificate of coverage. A
+32 "noncertification" noncertification includes any situation in which an insurer
+33 or its designated agent makes a decision about a covered person's condition to
+34 determine whether a requested treatment is experimental, investigational, or
+35 cosmetic, and the extent of coverage under the health benefit plan is affected
+36 by that decision.
+37 (14) "Participating provider" means a Participating provider. – A provider who,
+38 under a contract with an insurer or with an insurer's contractor or
+39 subcontractor, has agreed to provide health care healthcare services to covered
+40 persons in return for direct or indirect payment from the insurer, other than
+41 cost-sharing by the covered person, such as coinsurance, copayments, or
+42 deductibles.
+43 (14a) Prior authorization. – The process by which insurers and utilization review
+44 organizations determine the medical necessity or medical appropriateness of
+45 otherwise covered healthcare services prior to the rendering of those
+46 healthcare services. Prior authorization includes any insurer's or utilization
+47 review organization's requirement that a covered person or healthcare
+48 provider notify the insurer or utilization review organization prior to providing
+49 a healthcare service.
+50 (15) "Provider" means a health care Provider. – A healthcare provider.
+House Bill 434-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (16) "Stabilize" means to Stabilize. – To provide medical care that is appropriate
+2 to prevent a material deterioration of the person's condition, within reasonable
+3 medical probability, in accordance with the HCFA (Health Care Financing
+4 Administration) Centers for Medicare and Medicaid Services interpretative
+5 guidelines, policies, and regulations pertaining to responsibilities of hospitals
+6 in emergency cases (as provided cases under the Emergency Medical
+7 Treatment and Labor Act, section 1867 of the Social Security Act, 42 U.S.C.S.
+8 § 1395dd), 42 U.S.C.S. § 1395dd, and including any medically necessary
+9 services and supplies to maintain stabilization until the person is transferred.
+10 (16a) Urgent healthcare service. – A healthcare service with respect to which the
+11 application of the time periods for making a non-expedited utilization review
+12 that, in the opinion of a medical doctor with knowledge of the covered person's
+13 medical condition, could either (i) seriously jeopardize the life or health of the
+14 covered person or the ability of the covered person to regain maximum
+15 function or (ii) subject the covered person to severe pain that cannot be
+16 adequately managed without the care or treatment that is the subject of the
+17 utilization review. The term urgent healthcare service includes mental and
+18 behavioral healthcare services.
+19 (17) "Utilization review" means a Utilization review. – A set of formal techniques
+20 designed to monitor the use of or evaluate the clinical necessity,
+21 appropriateness, efficacy efficacy, or efficiency of health care healthcare
+22 services, procedures, providers, or facilities. These techniques may
+23 include:include any of the following:
+24 …
+25 c. Certification. – A determination by an insurer or its designated URO
+26 that an admission, availability of care, continued stay, or other service
+27 has been reviewed and, based on the information provided, satisfies
+28 the insurer's requirements for medically necessary services and
+29 supplies, appropriateness, health care healthcare setting, level of care,
+30 and effectiveness.
+31 d. Concurrent review. – Utilization review conducted during a patient's
+32 hospital stay or course of treatment.treatment and for which payment
+33 will be made for that service.
+34 …
+35 e1. Prior authorization.
+36 …
+37 (18) "Utilization Utilization review organization" or "URO" means an organization
+38 or URO. – An entity that conducts utilization review under a managed care
+39 plan, but does not mean an insurer performing utilization review for its own
+40 health benefit plan.
+41 …
+42 (c) Scope and Content of Program. – Every insurer shall prepare and maintain a
+43 utilization review program document that describes all delegated and nondelegated review
+44 functions for covered services including:including all of the following:
+45 (1) Procedures to evaluate the clinical necessity, appropriateness, efficacy, or
+46 efficiency of health healthcare services.
+47 …
+48 (5) Data collection processes and analytical methods used in assessing utilization
+49 of health care healthcare services.
+50 …
+Page 4 House Bill 434-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (7) The organizational structure (e.g., structure, such as a utilization review
+2 committee, quality assurance, or other committee) committees, that
+3 periodically assesses utilization review activities and reports to the insurer's
+4 governing body.
+5 …
+6 (9) The methods of collection and assessment of data about underutilization and
+7 overutilization of health care healthcare services and how the assessment is
+8 used to evaluate and improve procedures and criteria for utilization review.
+9 (d) Program Operations. Clinical Review Criteria, Generally. – In every utilization
+10 review program, an insurer or URO shall use documented clinical review criteria that are based
+11 on sound clinical evidence and that are periodically evaluated at least annually to assure ongoing
+12 efficacy. An insurer may develop its own clinical review criteria or purchase or license clinical
+13 review criteria. criteria, provided that the clinical review meets, at a minimum, all of the
+14 following standards:
+15 (1) The criteria used is based on applicable nationally recognized medical
+16 standards.
+17 (2) The clinical review and standards used are consistent with applicable
+18 government guidelines.
+19 (3) The clinical review provides for the delivery of a healthcare service in a
+20 clinically appropriate type, frequency, and setting and for a clinically
+21 appropriate duration.
+22 (4) The criteria used in the clinical review reflects the current medical and
+23 scientific evidence regarding emerging procedures, clinical guidelines, and
+24 best practices, as articulated in independent, peer-reviewed medical literature.
+25 (5) The clinical review is sufficiently flexible to allow deviations from the norm
+26 when justified on a case-by-case basis to ensure access to care.
+27 (d1) Clinical Review Criteria, Substance Use Treatment. – Criteria for determining when
+28 a patient needs to be placed in a substance abuse treatment program shall be either (i) the
+29 diagnostic criteria contained in the most recent revision of the American Society of Addiction
+30 Medicine Patient Placement Criteria for the Treatment of Substance-Related Disorders or (ii)
+31 criteria adopted by the insurer or its URO. Disorders. The Department, in consultation with the
+32 Department of Health and Human Services, may require proof of compliance with this subsection
+33 by a plan or URO.
+34 (d2) Administration of Program. – All of the following shall apply in the administration of
+35 a utilization review program under this section:
+36 (1) Qualified health care professionals shall administer the utilization review
+37 program and oversee review decisions under the direction of a medical doctor.
+38 A medical doctor licensed to practice medicine in this State shall evaluate the
+39 clinical appropriateness of noncertifications. An insurer and its URO shall
+40 ensure that all noncertifications are made by a medical doctor possessing a
+41 current and valid license to practice medicine in this State who (i) is of the
+42 same specialty as the healthcare provider who typically manages the medical
+43 condition or disease or provides the healthcare service involved in the request
+44 and (ii) has experience treating patients with the condition or disease for which
+45 the healthcare service is being requested. Medical doctors shall issue
+46 noncertifications under the clinical direction of one of the insurer's medical
+47 directors responsible for the provision of healthcare services provided to
+48 covered persons.
+49 (2) Compensation to persons involved in utilization review shall not contain any
+50 direct or indirect incentives for them to make any particular review decisions.
+House Bill 434-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (3) Compensation to utilization reviewers shall not be directly or indirectly based
+2 on the number or type of noncertifications they render.
+3 (4) In issuing a utilization review decision, an insurer shall: obtain or its URO
+4 shall do all of the following:
+5 a. Obtain all information required to make the decision, including
+6 pertinent clinical information; employ information.
+7 b. Employ a process to ensure that utilization reviewers apply clinical
+8 review criteria consistently; and issue consistently.
+9 c. Apply the decision in a timely manner pursuant to this section.
+10 (d3) Consultation Prior to Issuing Noncertifications. – If an insurer or its URO is
+11 questioning the medical necessity of a healthcare service, then the covered person's relevant
+12 provider shall be notified that medical necessity is being questioned within five business days of
+13 the date the insurer or its URO received the utilization review request for the healthcare service
+14 in question. Prior to issuing a noncertification, the covered person's provider shall be given the
+15 opportunity to discuss the medical necessity of the healthcare service by telephonic or tele-video
+16 means with the medical doctor who will be responsible for making the utilization review
+17 determination of the healthcare service under review. The insurer or its URO is required to make
+18 documented personal contact with the covered person's provider, or with the medical staff of that
+19 provider, via telephone before the five business days otherwise required under this section for
+20 notification.
+21 (e) Insurer Responsibilities. – Every insurer shall:shall do all of the following regarding
+22 its utilization review process under this section:
+23 …
+24 (7) Maintain a complete, publicly available list of healthcare services for which
+25 utilization review is required, including for all healthcare services where
+26 utilization review is to be performed by an entity under contract with the
+27 insurer.
+28 (8) Ensure that its URO is in compliance with this section.
+29 (f) Time Lines for Prospective and Concurrent Utilization Reviews Based Upon Type of
+30 Healthcare Service. – As used in this subsection, the term "necessary information" includes the
+31 results of any patient examination, clinical evaluation, or second opinion that may be required.
+32 Prospective and concurrent determinations shall be communicated to the covered person's
+33 provider within three business days after the insurer obtains all necessary information about the
+34 admission, procedure, or health care service. The time line for completion of a prospective or
+35 current utilization review is as follows:
+36 (1) Non-urgent healthcare services. – An insurer or its URO shall both render a
+37 utilization review determination or noncertification concerning non-urgent
+38 healthcare services and notify the covered person and the covered person's
+39 provider of that determination or noncertification within 48 hours of obtaining
+40 all necessary information to make the utilization review determination or
+41 noncertification.
+42 (2) Urgent healthcare services. – An insurer or its URO shall both render a
+43 utilization review determination or noncertification concerning urgent
+44 healthcare services and notify the covered person and the covered person's
+45 provider of that determination or noncertification not later than 24 hours after
+46 receiving all necessary information needed to complete the review of the
+47 requested healthcare services.
+48 (3) Emergency services. – All of the following shall apply to utilization review
+49 for emergency services:
+50 a. Utilization review shall not be required for prehospital transportation
+51 or the provision of emergency services.
+Page 6 House Bill 434-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 b. A minimum period of 24 hours following the provision of emergency
+2 services to or an emergency admission of a covered person shall be
+3 allowed for a covered person or the relevant provider to notify an
+4 insurer or its URO of the admission or provision of emergency
+5 services. If the admission or emergency service occurs on a State or
+6 federal holiday or on a weekend, then notification shall not be required
+7 until the next business day after the admission or provision of the
+8 emergency services.
+9 c. An insurer shall cover emergency services necessary to screen and
+10 stabilize a covered person. If a provider attests in writing to an insurer
+11 within 72 hours of a covered person's admission that the covered
+12 person's condition required emergency services, then that attestation
+13 creates a presumption that the emergency services were medically
+14 necessary and that presumption may be rebutted only if the insurer is
+15 able to establish, with clear and convincing evidence, that the
+16 emergency services were not medically necessary.
+17 d. The medical necessity or appropriateness of emergency services shall
+18 not be based on whether those services were provided by participating
+19 or nonparticipating providers. Restrictions on coverage of emergency
+20 services provided by nonparticipating providers cannot be greater than
+21 restrictions that apply when those same services are provided by
+22 participating providers.
+23 e. If a covered person receives an emergency service that requires one or
+24 more immediate post-evaluation or post-stabilization services, then an
+25 insurer or its URO shall make a utilization review determination for
+26 those services within 60 minutes of receiving a request. If the
+27 authorization determination is not made within 60 minutes, then the
+28 services for which the utilization review was requested are deemed
+29 approved.
+30 (f1) Utilization Review Requests for Additional Information. – If an insurer or its URO
+31 requests additional information to process a claim subject to utilization review, then an insurer
+32 shall notify the provider of the specific information necessary to complete the utilization review
+33 and the specific purpose of the request. The notification shall reference all relevant clinical and
+34 administrative criteria and be written in easily understandable language. The notification shall be
+35 sent to the provider as soon as possible but not later than 48 hours after receipt of the initial
+36 utilization review request. The requesting provider or a member of the requesting provider's
+37 clinical or administrative staff may submit the specified additional information within 14 business
+38 days of the notification that clinical information is missing. Any claim subject to a request for
+39 additional information shall be processed within the time periods for prompt payment of claims
+40 pursuant to G.S. 58-3-225.
+41 (f2) Utilization Review Determination Notifications. – If an insurer certifies a health care
+42 healthcare service, the insurer shall notify notification shall be sent to the covered person's
+43 provider. For If an insurer issues a noncertification, the insurer shall notify the covered person's
+44 provider and send then written or electronic confirmation of the noncertification shall be sent to
+45 the covered person's provider and covered person. In person that is in compliance with subsection
+46 (h) of this section.
+47 (f3) Concurrent Review Liability. – For concurrent reviews, the insurer shall remain liable
+48 for health care healthcare services until the covered person has been notified of the
+49 noncertification.
+50 (g) Retrospective Reviews. – As used in this subsection, the term "necessary information"
+51 includes the results of any patient examination, clinical evaluation, or second opinion that may
+House Bill 434-First Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 be required. For retrospective review determinations, an insurer or its URO shall make the
+2 determination within 30 days after receiving all necessary information. For a certification, the
+3 insurer may give written notification to the covered person's provider. For a noncertification, If
+4 a noncertification is issued, then the insurer or its URO shall give written notification to the
+5 covered person and the covered person's provider within five business days after making issuing
+6 the noncertification. The notice of the noncertification shall meet all requirements under
+7 subsection (h) of this section.
+8 (g1) Retrospective Denial. – Subject to subsection (n1) of this section, an insurer may not
+9 revoke, limit, condition, or restrict a utilization review determination if care that has been
+10 previously certified by the insurer or its URO is provided within 45 business days from the date
+11 the provider received the utilization review determination. An insurer is required to pay a
+12 provider at the contracted payment rate for a healthcare service provided by the provider per a
+13 utilization review determination unless any of the following apply:
+14 (1) The provider knowingly and materially misrepresented the healthcare service
+15 in the utilization review request with the specific intent to deceive and obtain
+16 an unlawful payment from the insurer.
+17 (2) The healthcare service was no longer a covered benefit on the day it was
+18 provided.
+19 (3) The provider was no longer contracted with the covered person's health benefit
+20 plan on the date the care was provided.
+21 (4) The provider failed to meet the insurer's timely filing requirements.
+22 (5) The insurer does not have liability for the claim.
+23 (6) The covered person was no longer eligible for healthcare coverage on the day
+24 the care was provided.
+25 (h) Requirements for Notice of Noncertification. – A written notification of a
+26 noncertification made in accordance with this section shall include all reasons for the
+27 noncertification, including the clinical rationale, the name and medical specialty of all medical
+28 doctors that were involved in the noncertification, the instructions for initiating a voluntary appeal
+29 or reconsideration of the noncertification, and the instructions for requesting a written statement
+30 of the clinical review criteria used to make the noncertification. An insurer shall provide the
+31 clinical review criteria used to make the noncertification to any person who received the
+32 notification of the noncertification and who follows the procedures for a request. An insurer shall
+33 also inform the covered person in writing about the availability of assistance from the
+34 Department's Health Insurance Smart NC, including the telephone number and address of the
+35 Program.program.
+36 (h1) Failure to Make a Timely Utilization Review Determination. – An insurer or its URO
+37 failing to approve, deny, or request additional information for a requested utilization review
+38 within the applicable time frames under this section is deemed to have approved the request.
+39 (i) Requests for Informal Reconsideration. – An insurer may establish procedures for
+40 informal reconsideration of noncertifications and, if established, the procedures shall be in
+41 writing. After a written notice of noncertification has been issued in accordance with subsection
+42 (h) of this section, the reconsideration shall be conducted between the covered person's provider
+43 and a medical doctor licensed to practice medicine in this State designated by the insurer. An
+44 insurer shall not require a covered person to participate in an informal reconsideration before the
+45 covered person may appeal a noncertification under subsection (j) of this section. If, after
+46 informal reconsideration, the insurer upholds the noncertification decision, then the insurer shall
+47 issue a new notice in accordance with subsection (h) that meets the requirements of this section.
+48 If the insurer is unable to render an informal reconsideration decision within 10 business days
+49 after the date of receipt of the request for an informal reconsideration, it then the insurer shall
+50 treat the request for informal reconsideration as a request for an appeal; provided that appeal and
+51 the requirements of subsection (k) of this section for acknowledging the request shall apply
+Page 8 House Bill 434-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 beginning on the day the insurer determines an informal reconsideration decision cannot be made
+2 before the tenth business day after receipt of the request for an informal reconsideration.
+3 (j) Appeals of Noncertifications. – Every insurer shall have written procedures for
+4 appeals of noncertifications by covered persons or their providers acting on their behalves,
+5 including expedited review to address a situation where the time frames for the standard review
+6 procedures set forth in this section would reasonably appear to seriously jeopardize the life or
+7 health of a covered person or jeopardize the covered person's ability to regain maximum function.
+8 Each appeal shall be evaluated by a medical doctor licensed to practice medicine in this State
+9 who was not involved in the noncertification.
+10 (j1) Requirements Applicable to Appeals Reviews. – All appeals shall be reviewed by a
+11 medical doctor who meets all of the following criteria:
+12 (1) Possesses a current and valid non-restricted license to practice medicine in
+13 this State.
+14 (2) Is currently in active practice for a period of at least five consecutive years in
+15 the same or similar specialty as a medical doctor who typically manages the
+16 medical condition or disease for which utilization review is required.
+17 (3) Is knowledgeable of, and has experience providing, the healthcare services
+18 under appeal.
+19 (4) Has not been directly involved in making the adverse determination.
+20 As part of the appeals review, the medical doctor shall consider all known clinical aspects of
+21 the healthcare service under review, including all pertinent medical records and any medical
+22 literature that have been provided by the covered person's provider or by a health care facility.
+23 (k) Nonexpedited Appeals. – Within three business days after receiving a request for a
+24 standard, nonexpedited appeal, the insurer or its URO shall provide the covered person with the
+25 name, address, and telephone number of the coordinator and information on how to submit
+26 written material. For standard, nonexpedited appeals, the insurer or its URO shall give written
+27 notification of the decision, in clear terms, to the covered person and the covered person's
+28 provider within 30 days after the insurer receives the request for an appeal. If the decision is not
+29 in favor of the covered person, then the written decision shall contain:contain all of the following
+30 information:
+31 (1) The professional qualifications and licensure of the person or persons
+32 reviewing the appeal.
+33 (2) A statement of the reviewers' understanding of the reason for the covered
+34 person's appeal.
+35 (3) The reviewers' decision in clear terms and the medical rationale in sufficient
+36 detail for the covered person to respond further to the insurer's position.
+37 (4) A reference to the evidence or documentation that is the basis for the decision,
+38 including the clinical review criteria used to make the determination, and
+39 instructions for requesting the clinical review criteria.
+40 (5) A statement advising the covered person of the covered person's right to
+41 request a second-level grievance review and a description of the procedure for
+42 submitting a second-level grievance under G.S. 58-50-62.
+43 (6) Notice of the availability of assistance from the Department's Health
+44 Insurance Smart NC, including the telephone number and address of the
+45 Program.program.
+46 (l) Expedited Appeals. – An expedited appeal of a noncertification may be requested by
+47 a covered person or his or her the provider acting on the covered person's behalf only when a
+48 nonexpedited appeal would reasonably appear to seriously jeopardize the life or health of a
+49 covered person or jeopardize the covered person's ability to regain maximum function. The
+50 insurer may require documentation of the medical justification for the expedited appeal. The
+51 insurer shall, in consultation with a medical doctor licensed to practice medicine in this State,
+House Bill 434-First Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 provide expedited review, and the insurer or its URO shall communicate its decision in writing
+2 to the covered person and his or her provider as soon as possible, but not later than four days
+3 after receiving the information justifying expedited review. The written decision shall contain
+4 the provisions specified in subsection (k) of this section. If the expedited review is a concurrent
+5 review determination, then the insurer shall remain liable for the coverage of health care
+6 healthcare services until the covered person has been notified of the determination. An insurer is
+7 not required to provide an expedited review for retrospective noncertifications.
+8 (m) Disclosure of Utilization Review Requirements. – Information required to be
+9 provided under this section shall be described in detail and in easily understandable language.
+10 All of the following apply to an insurer's responsibility to disclose any utilization review
+11 procedures:
+12 (1) Coverage and member handbook. – In the certificate of coverage and member
+13 handbook provided to covered persons, an insurer shall include a clear and
+14 comprehensive description of its utilization review procedures, including the
+15 procedures for appealing noncertifications and a statement of the rights and
+16 responsibilities of covered persons, including the voluntary nature of the
+17 appeal process, with respect to those procedures. An insurer shall also include
+18 in the certificate of coverage and the member handbook information about the
+19 availability of assistance from the Department's Health Insurance Smart NC,
+20 including the telephone number and address of the Program. program.
+21 (2) Prospective materials. – An insurer shall include a summary of its utilization
+22 review procedures in materials intended for prospective covered persons.
+23 (3) Membership cards. – An insurer shall print on its membership cards a toll-free
+24 telephone number to call for utilization review purposes.
+25 (4) Website. – An insurer shall make any current utilization review requirements
+26 and restrictions readily accessible on its website.
+27 (m1) Changes to Utilization Review. – If an insurer intends either to implement a new
+28 utilization review requirement or restriction or to amend an existing requirement or restriction,
+29 then all of the following apply:
+30 (1) The new or amended requirement or restriction shall not be in effect unless
+31 and until the insurer's website has been updated to reflect the new or amended
+32 requirement or restriction. A claim shall not be denied for failure to obtain a
+33 prior authorization if the new or amended requirement or restriction was not
+34 in effect on the date of service of the claim.
+35 (2) The insurer shall provide participating providers written notice of the new or
+36 amended requirement or restriction no less than 60 calendar days before the
+37 requirement or restriction is implemented.
+38 This subsection does not apply if an insurer removes a utilization review requirement or
+39 restriction or amends a requirement or restriction to be less restrictive.
+40 (n) Maintenance of Records. – Every insurer and URO shall maintain records of each
+41 review performed and each appeal received or reviewed, as well as documentation sufficient to
+42 demonstrate compliance with this section. The maintenance of these records, including electronic
+43 reproduction and storage, shall be governed by rules adopted by the Commissioner that apply to
+44 insurers. These records shall be retained by the insurer and URO for a period of five years or, for
+45 domestic companies, until the Commissioner has adopted a final report of a general examination
+46 that contains a review of these records for that calendar year, whichever is later.
+47 (n1) Utilization Review Statistics. – An insurer using utilization review shall make
+48 statistics available regarding utilization review approvals and noncertifications on its website in
+49 a readily accessible format and shall update the information available, at a minimum, on a
+50 monthly basis. These statistics shall include the most recent 12-month rolling data reported
+51 separately for medications and procedural codes for all of the following:
+Page 10 House Bill 434-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 (1) The total number of medications and procedural codes subject to utilization
+2 review, and specifically prior authorization.
+3 (2) The percentage of medications and procedural codes requiring prior
+4 authorization.
+5 (3) The reasons for any noncertifications issued.
+6 (4) The number and percentage of utilization review determinations that are
+7 appealed and the number and percentage of appeals that are approved or
+8 denied at each stage of the appeal process.
+9 (5) The average time and distribution by percentile of number of days between
+10 submission and response of each stage of the appeal process.
+11 (6) The number and percentage of providers who qualify for an exemption from
+12 the utilization review process under this section.
+13 (n2) Utilization Review Determination Validity. – A utilization review determination shall
+14 be valid for the entire duration of the approved course of treatment and shall be effective
+15 regardless of any changes in dosage for a prescription drug prescribed by a provider. If an insurer
+16 requires a utilization review determination for a healthcare service for the treatment of a chronic
+17 or long-term care condition, then the utilization review determination shall remain valid for the
+18 length of the treatment and the insurer may not require the covered person to obtain a utilization
+19 review determination again for the healthcare service.
+20 (o) Violation. – A violation of this section subjects an insurer to G.S. 58-2-70.
+21 (p) Continuity of Care. – The following requirements shall apply to ensure continuity of
+22 care for covered persons:
+23 (1) On receipt from a covered person or the covered person's provider of
+24 information documenting a prior utilization review determination, an insurer
+25 shall honor a utilization review determination granted to the covered person
+26 from a previous insurer for at least 90 calendar days of a covered person's
+27 coverage under a new health benefit plan. During this 90-day time period, an
+28 insurer may perform its own utilization review.
+29 (2) If the insurer makes a change in coverage of, or approval criteria for, a
+30 previously authorized healthcare service, then the change in coverage or
+31 approval criteria shall not affect a covered person who received a utilization
+32 review determination before the effective date of the change for the remainder
+33 of that covered person's health benefit plan year.
+34 (3) An insurer shall continue to honor a utilization review determination that the
+35 insurer or its URO certified for a covered person when that covered person
+36 changes products or health benefit plans under the same insurer, provided that
+37 the medically necessary services or supplies subject to the utilization review
+38 determination do not change.
+39 (4) If a provider performs a healthcare service that is closely related to the service
+40 for which certification has already been granted by an insurer or its URO, then
+41 that insurer or its URO shall not deny a claim for the closely related service
+42 for failure of the provider to seek or obtain a utilization review so long as the
+43 provider had notified the insurer or its URO of the performance of the closely
+44 related service both no later than three business days following the completion
+45 of the closely related service and prior to the submission of a claim for
+46 payment for that service. The submission of the notification shall include the
+47 submission of all relevant clinical information necessary for the insurer to
+48 evaluate the medical necessity of the service. Nothing in this subsection shall
+49 be construed to limit an insurer's retrospective review of medical necessity of
+50 the closely related service nor limit the need for verification of the covered
+51 person's eligibility for coverage under the health benefit plan.
+House Bill 434-First Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 (5) An insurer shall not restrict benefits for any hospital stay of a covered person
+2 in connection with childbirth for the mother or newborn child (i) following a
+3 normal vaginal delivery to less than 48 hours or (ii) following a cesarean
+4 section to less than 96 hours. An insurer shall not require that a provider obtain
+5 a utilization review determination from an insurer for prescribing the length
+6 of stay required under this subdivision.
+7 (q) Exemptions. – This subsection shall not apply to utilization review requests that are
+8 pending review by an insurer or its URO. An insurer may not require a provider to request a
+9 utilization review for a healthcare service in order for the covered person to whom the healthcare
+10 service is being provided to receive coverage for the service if, within the most recent 12-month
+11 period, the insurer or its URO has issued certifications, or would have issued certifications, for
+12 not less than eighty percent (80%) of the utilization review requests submitted by the provider
+13 for that healthcare service. An insurer may evaluate whether a provider continues to qualify for
+14 this exemption not more than once every 12 months. All of the following apply to an exemption
+15 under this subsection:
+16 (1) A provider is not required to request an exemption in order to qualify for the
+17 exemption.
+18 (2) No more than once per year per healthcare service, a provider who does not
+19 receive an exemption under this subsection may request from the insurer
+20 evidence to support the insurer's decision. A healthcare provider may appeal
+21 an insurer's decision to deny the exemption.
+22 (3) An insurer may only revoke an exemption at the end of the applicable
+23 12-month period if the insurer does all of the following:
+24 a. Makes a determination that the provider would not have met the eighty
+25 percent (80%) approval criteria based on a retrospective review of the
+26 claims for the particular service for which the exemption applies for
+27 the previous three months or for a longer period if needed to reach a
+28 minimum of 10 claims for review.
+29 b. Provides the provider with the information the insurer relied upon in
+30 making the determination to revoke the exemption.
+31 c. Provides the provider a plain language explanation of how to appeal
+32 the decision.
+33 (4) If an insurer revokes an exemption, then that exemption will remain in effect
+34 until the thirtieth calendar day after the date the insurer notifies the provider
+35 of its revocation of the exemption unless the provider appeals the revocation.
+36 If the provider appeals the revocation, then the exemption shall remain in
+37 effect until the fifth calendar day after the revocation is upheld on appeal.
+38 (5) An insurer shall provide a healthcare provider that receives an exemption all
+39 of the following:
+40 a. A statement that the provider qualifies for an exemption from
+41 preauthorization requirements.
+42 b. A list of services for which the exemption applies.
+43 c. A statement of the duration of the exemption.
+44 (6) An insurer shall not deny or reduce payment for a healthcare service exempted
+45 from a utilization review requirement under this subsection, including a
+46 healthcare service performed or supervised by another provider when the
+47 provider who ordered the service received an exemption, unless the rendering
+48 provider meets one of the following criteria:
+49 a. Knowingly and materially misrepresented the healthcare service as a
+50 part of the request for payment submitted to the insurer with the
+Page 12 House Bill 434-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 specific intent to deceive and obtain an unlawful payment from the
+2 insurer.
+3 b. Failed to substantially perform the healthcare service.
+4 Nothing in this subsection requires an insurer to evaluate an existing exemption or prevents
+5 an insurer from establishing a longer exemption period.
+6 (r) Deemed Approval. – Any failure by an insurer or its URO to comply with the
+7 deadlines and other requirements specified in this section will result in any healthcare services
+8 subject to review to be automatically deemed authorized by the insurer."
+9 SECTION 1.(b) Article 3 of Chapter 58 of the General Statutes is amended by
+10 adding a new section to read:
+11 "§ 58-3-500. Reports due regarding health benefit plans.
+12 (a) Health Benefit Plan Reporting Requirements. – All insurers offering health benefits
+13 shall be required to provide the following information to the Commissioner no later than March
+14 1 of each year:
+15 (1) Utilization review. – At a minimum, and subject to any rules adopted by the
+16 Commissioner, insurers shall provide information regarding utilization review
+17 approvals and noncertifications for the previous calendar year, reported
+18 separately for medications and procedural codes, for all of the following:
+19 a. The total number of medications and procedural codes subject to
+20 utilization review, and specifically prior authorization.
+21 b. The percentage of medications and procedural codes requiring prior
+22 authorization.
+23 c. The reasons for any noncertifications issued.
+24 d. The number and percentage of utilization review determinations that
+25 are appealed and the number and percentage of appeals that are
+26 approved or denied at each stage of the appeal process.
+27 e. The average time and distribution by percentile of number of days
+28 between submission and response of each stage of the appeal process.
+29 f. The number and percentage of providers who qualify for an exemption
+30 from the utilization review process under this section.
+31 (2) Reserved for future codification purposes.
+32 (b) Commissioner Authority Over Required Information. – The Commissioner is
+33 authorized to adopt rules related to this section. By rule, the Commissioner is authorized to
+34 require additional information related to the subject of the required report. By rule, the
+35 Commissioner is authorized to clarify or define further any information required under this
+36 section to be the subject of a report.
+37 (c) Commissioner Reporting Requirements. – No later than April 1 of each year, the
+38 Commissioner shall compile the information received under subsection (a) of this section and
+39 submit a report containing that compiled information to the Joint Legislative Commission on
+40 Governmental Operations.
+41 (d) Notwithstanding the penalty limits under G.S. 58-2-70, the failure of an insurer to
+42 provide information required under this section is a violation subject to a fine of five thousand
+43 dollars ($5,000) per day that the information is not provided."
+44 SECTION 1.(c) In accordance with G.S. 135-48.24(b) and G.S. 135-48.30(a)(7),
+45 which require the State Treasurer to implement procedures that are substantially similar to the
+46 provisions of G.S. 58-50-61 for the North Carolina State Health Plan for Teachers and State
+47 Employees (State Health Plan), the State Treasurer and the Executive Administrator of the State
+48 Health Plan shall review all practices of the State Health Plan and all contracts with, and practices
+49 of, any third party conducting any utilization review on behalf of the State Health Plan to ensure
+50 compliance with subsection (a) of this section no later than the start of the next plan year.
+House Bill 434-First Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.(d) Subsections (a) and (b) of this section become effective October 1,
+2 2025, and apply to insurance contracts issued, renewed, or amended on or after that date.
+3
+4 PART II. ENFORCEMENT OF LICENSING REQUIREMENTS FOR HEALTH
+5 INSURANCE UTILIZATION REVIEW
+6 SECTION 2.(a) G.S. 90-1.1(5) reads as rewritten:
+7 "(5) The practice of medicine or surgery. – Except as otherwise provided by this
+8 subdivision, the practice of medicine or surgery, for purposes of this Article,
+9 includes any of the following acts:
+10 …
+11 g. Performing any portion of the utilization review process under
+12 G.S. 58-50-51 that is required under that section to be performed by a
+13 physician licensed to practice medicine, including making a final
+14 utilization review decision, issuing a noncertification, and
+15 participating on behalf of an insurer in the utilization reconsideration
+16 and appeal process.
+17 …."
+18 SECTION 2.(b) Part 2 of Article 50 of Chapter 58 of the General Statues is amended
+19 by adding a new section to read:
+20 "§ 58-50-64. Utilization review disciplinary actions; North Carolina Medical Board.
+21 (a) Performing any portion of the utilization review process under G.S. 58-50-61 that is
+22 required to be performed by a licensed physician, including making a final utilization review
+23 decision, issuing a noncertification, and participating on behalf of the insurer in the utilization
+24 reconsideration and appeal process, is the practice of medicine under G.S. 90-1.1(5).
+25 (b) The North Carolina Medical Board has the authority to subpoena an insurer, or a
+26 utilization review organization acting on behalf of an insurer, for any records, documents, or
+27 other materials pertaining to the involvement of any physician licensed in this State in the
+28 utilization review process under G.S. 58-50-61.
+29 (c) If an insurer, or a utilization review organization acting on behalf of an insurer, fails
+30 to comply with a subpoena issued in accordance with this section, the North Carolina Medical
+31 Board shall report the failure to comply and any information supporting the failure to the
+32 Commissioner.
+33 (d) Notwithstanding the penalty minimum limit under G.S. 58-2-70, the failure of an
+34 insurer, or a utilization review organization acting on behalf of an insurer, to provide information
+35 required by a subpoena issued in accordance with this section is a violation subjecting the insurer
+36 to a fine of no less than five hundred dollars ($500.00) for each 90-day period in which the
+37 information is not produced.
+38 (e) If the North Carolina Medical Board takes any disciplinary action under G.S. 90-14(a)
+39 against a licensed physician as a result of that physician's involvement in the utilization review
+40 process under G.S. 58-50-61, then any noncertifications that were issued that are related, in whole
+41 or in part, to the disciplinary action shall be subject to reconsideration or appeal under
+42 G.S. 58-50-61 so long as the noncertification had not been reversed prior to the disciplinary
+43 action. The North Carolina Medical Board shall notify the insurer of the disciplinary action and
+44 the utilization determinations involved."
+45 SECTION 2.(c) G.S. 135-48.10 reads as rewritten:
+46 "§ 135-48.10. Confidentiality of information and medical records; provider contracts.
+47 (a) Any information described in this section that is in the possession of the State Health
+48 Plan for Teachers and State Employees or its Claims Processor under the Plan or the Predecessor
+49 Plan shall be confidential and shall be exempt from the provisions of Chapter 132 of the General
+50 Statutes or any other provision requiring information and records held by State agencies to be
+51 made public or accessible to the public. This section shall apply to all information concerning
+Page 14 House Bill 434-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 individuals, including the fact of coverage or noncoverage, whether or not a claim has been filed,
+2 medical information, whether or not a claim has been paid, and any other information or materials
+3 concerning a plan participant, including Claim Payment Data and any documents or other
+4 materials derived from the Claim Payment Data. This information may, however, be released to
+5 the State Auditor or to the Auditor, the Attorney General General, or the North Carolina Medical
+6 Board in furtherance of their the respective statutory duties and responsibilities, responsibilities
+7 of each party or to such persons or organizations as may be designated and approved by the State
+8 Treasurer. Any information so that is released shall remain confidential as stated above and any
+9 as stipulated by this section. Any party obtaining such information under this section shall assume
+10 the same level of responsibility for maintaining such confidentiality as that of the State Health
+11 Plan for Teachers and State Employees.
+12 (b) The terms of a contract between the Plan and its third party administrator or between
+13 the Plan and its pharmacy benefit manager are a public record under Chapter 132 of the General
+14 Statutes. No provision of law, however, shall be construed to prevent or restrict the release of
+15 any information in a Plan contract to the State Treasurer, the State Auditor, the Attorney General,
+16 the North Carolina Medical Board, the Director of the State Budget, the Plan's Board of Trustees,
+17 and the Plan's Executive Administrator solely and exclusively for their use in the furtherance of
+18 their duties and responsibilities.
+19 (c) Performing any portion of the utilization review process under G.S. 58-50-61 that is
+20 required to be performed by a licensed physician, including making a final utilization review
+21 decision, issuing a noncertification, and participating on behalf of the insurer in the utilization
+22 reconsideration and appeal process, is the practice of medicine under G.S. 90-1.1(5). Subject to
+23 this section, all of the following shall apply:
+24 (1) The North Carolina Medical Board has the authority to subpoena the Plan, or
+25 a utilization review organization acting on behalf of the Plan, for any records,
+26 documents, or other materials pertaining to the involvement of any physician
+27 licensed in this State in the utilization review process under the Plan.
+28 (2) If the North Carolina Medical Board takes any disciplinary action under
+29 G.S. 90-14(a) against a licensed physician as a result of that physician's
+30 involvement in the Plan's utilization review process, then any
+31 noncertifications that were issued that are related, in whole or in part, to the
+32 disciplinary action shall be subject to reconsideration or appeal so long as the
+33 noncertification had not been reversed prior to the disciplinary action. The
+34 North Carolina Medical Board shall notify the Plan of the disciplinary action
+35 and the utilization determinations involved."
+36
+37 PART III. TECHNICAL AND CONFORMING CHANGES
+38 SECTION 3.(a) G.S. 58-50-62 is amended by adding a new subsection to read:
+39 "(a1) The definitions under G.S. 58-50-61(a) apply in this section."
+40 SECTION 3.(b) G.S. 58-50-61(a)(7) is repealed.
+41 SECTION 3.(c) G.S. 58-50-75 reads as rewritten:
+42 "§ 58-50-75. Purpose, scope, and definitions.
+43 …
+44 (b) This Part applies to all insurers that offer a health benefit plan and that provide or
+45 perform utilization review pursuant to G.S. 58-50-61, the State Health Plan for Teachers and
+46 State Employees, G.S. 58-50-61 and any optional plans or programs operating under Part 2 of
+47 Article 3A of Chapter 135 of the General Statutes. With respect to second-level grievance review
+48 decisions, this Part applies only to second-level grievance review decisions involving
+49 noncertification decisions.
+50 (c) In addition to the The definitions in G.S. 58-50-61(a), as used in this Part:under
+51 G.S. 58-50-61(a) and the following definitions apply in this Part:
+House Bill 434-First Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 (1) "Covered benefits" or "benefits" means those Covered benefits or benefits. –
+2 Those benefits consisting of medical care, provided directly through insurance
+3 or otherwise otherwise, and including items and services paid for as medical
+4 care, under care under the terms of a health benefit plan.
+5 (2) "Covered person" means a policyholder, subscriber, enrollee, or other
+6 individual covered by a health benefit plan. "Covered person" includes
+7 another person, including the covered person's health care provider, acting on
+8 behalf of the covered person. Nothing in this subdivision shall require the
+9 covered person's health care provider to act on behalf of the covered person.
+10 (3) "Independent Independent review organization" or "organization" means an
+11 organization or organization. – An entity that conducts independent external
+12 reviews of appeals of noncertifications and second-level grievance review
+13 decisions."
+14 SECTION 3.(d) G.S. 90-21.52(c)(1) reads as rewritten:
+15 "(1) The liability of the managed care entity is based on an administrative decision
+16 to approve or disapprove payment or reimbursement for, or denial, reduction,
+17 or termination of coverage, for a health care service and the physician
+18 organizations, health care providers, or entities wholly owned by physicians
+19 or health care providers or any combination thereof, which have made the
+20 decision at issue, have agreed explicitly, in a written addendum or agreement
+21 separate from the managed care organization's standard professional service
+22 agreement, to assume responsibility for making noncertification decisions
+23 decisions, as defined under G.S. 58-50-61(13) G.S. 58-50-61, with respect to
+24 certain insureds or enrollees; and"
+25
+26 PART IV. EFFECTIVE DATE
+27 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+28 law.
+Page 16 House Bill 434-First Edition
+
+[DELETED:  1 T ( R H A A A T E T C A R T E A F T  P S " ( D t ( " i t ( C o a ( " w o a r ( " p b ( C t b c t w p o t s d o s a a h s t w a t b p b a p u s p d t d i t o p c o n f d p]
+[DELETED:  S  H o c ( C o t – A p o o a o t i p t ( " p m a C p – A p s e o o i c b a h b p " p p ( " c m i b a s o s s i f a c m c t w l a p l p a a k o h a m t r e f … ( " i m t r ( " m a G – A w c s b a c a A i d p o a r t a d o q o h c h s A w c s o t b t t h b p c a b e t c b C p o h h o t r f s … ( " l t h o p f t ( " c s m s H s – S p c ( " t u A A]
+[DELETED:  S  P ( " w i i f i f a c p t u p i ( " T a P h b E a a u G a n f e i c N A n f a a t t d t o d W P o t s o s i w g a e N i … ( " o o c c s o o h c h s h b r a b u t i p d n m t i r f m n a h c h p l s f c o e s i G a t r s i t d r o t s t s r i c s i t c o c A " o d c b ( " u a c w a i o w a i c o s p c b t c p s a c c o d ( P o o c h s p t t r o t h r o r t a c p o h p a ( "]
+[DELETED:  S  H ( " t m A g i e c ( p c u t E M T § s ( U a t m c p o t a o t c p t r m f o ( s t c p t s p t c b a u b ( " d t m t u o o e t c n a e e o e o h c h s p p o f T t m i … c C t h t i r f m n s a s a d C h w … e P … ( " o p h … ( S a C o P – E i s p a m a u r p d t d a d a n r f ( P t e t c n a e o e … ( D o …]
+[DELETED:  S  P ( T o s ( s s a a u r c q a o o c c t p g … ( T o u ( P O C R C G – I e u r o e r c c p t t c r m a a m a o t f ( T c u i b o a n r m s ( T c r a s u a c w a g ( T c r p f t d o a h s i a c a t f a s a f a c a ( T c u i t c r r t c m a s b ( T w ( C a p n t b p i a s a t p s b e ( t d M c D b ( A a ( Q h c p s a t u r p A c e c s c a t h s i b r M d s i n d r f t p o h s p t c ( C d]
+[DELETED:  S  H ( C o ( I s a O a i r t m t d i p b E r c A ( C P t I N – I a i o i U i q p t i o m w t m d w w b r f m t u r d d p n ( I i … ( M u r i r i f a h s w u i ( E ( T H r P a c d s b c t t c p p a c ( N u r d o n c n h p a n i t m t u r d o n ( U h s – A i o i U s b r a u r d o n c u h p r a n i n t c t r o t r ( E f a U o]
+[DELETED:  S  P b A s a a r a i o i U o t a o p o e s f u a o e c A s w 7 h o a c p a t t c p c a p t t e s w m n a t e w c a c e t t e d T n o s r t a w t s s a p b p e I m i t s w 6 m o r a r I t a s a ( U r s a a s u r T r p a r p c d a p ( U h s t i n n s b s t t c p p p t ( ( C f h c h s u t c p h b n o t n ( R i]
+[DELETED:  S  H b r F r r d a i o U s m t d i a c t n T n o t n s m a r u s ( R r l c o r a u r d i c t h b p t p r t u r d A i i r t p a p u ( T i a ( T l c b o d i p ( T p ( T ( T ( T t ( R f N o N – A w n o a n m i a w t s s i a r f t n d o o c r c u t m t n t a p w r t n a i t c p i w a t a o a f t D P ( F f w ( R i r o n a i e t p s b i w ( a i c p m a a n u s ( o t s I a i i I a t t]
+[DELETED:  S  P b b ( A o N – E i s h w p f a o n b c p o t p a o t b i p h E w ( R m ( P t ( I t m ( I u ( H A t l ( N s n w n o t d i c t t t c p a t c p p i i ( T p q a l o t p o p r ( A p ( T d ( A i t c r c u t m t d a i ( A s a t c p o t c p r t r s ( N o t a o a f t D H I S N i t t n a a o t P ( E a n c i i]
+[DELETED:  S  H p t a t r d t t i s r l f t c o h c h n ( D o U R R – I r t b p A o t f a t a i r t d a u r p ( C h c p r o c p i t v n o t a i a i ( P r ( M t ( W a ( C u t ( T a r p i ( T a r T r ( M r d r i d t ( U R S – A i u u r s m s a r a f a s u t i a a a m o a m b T s s i t m r 1 d r s]
+[DELETED:  S  P ( T r ( T p o m a p c r p a ( T ( T n a p o u r d t a a a t n a p o a t a a o d ( T s ( T t ( U b v f t e d o t a c o t a s b e r r o l r ( V ( C c ( O r f a c p o t c p p o i s f c i ( I t i m a c i c o o a c f a p a h s t t c i c o a r o ( A i c t d ( I f t f p r o t c r s a p t t s o a c f p s e b t p]
+[DELETED:  S  H ( A i n s a o ( E p u s p n f t u ( A e ( N r a e u t s m r f t i e a ( A i m o r a e a t e o t a 1 a M p c t m b P m c P t ( I u o I e ( A o a A s t t p q f a e f p b A c A ( A f a u r r u t s i a h s p o s b a p w t p p a K p o t r f p s t t i w t]
+[DELETED:  S  P s i b F N a ( D A – A f b a i o i U t c w t d s S a " ( H s 1 ( U C a a n f t p c y r s a T t n o m a p c s t u b T a c T d T a a a t n a p o a t a a e T b f T f ( R ( C A O R I – T C i a r a i r t t s o t r r B r t C i a t c o f a i r u s ( C C s G ( N p d S w p E H o c]
+[DELETED:  S  H S 2  P I E O L R F H I S " T s i … g P a p o t u r p u G p l t p m i m a f u r d i a n a p a … S b " ( P r d r ( T u o m p t t i o a p l i t S i t u ( I t B s r t f t c a a i s t f t t C ( N i r t i ( I a p o i p t t d a s b s t r o a u G a t S " ( A P P S m]
+[DELETED:  S  P i m c a p p i C P D a a d o o m t B o T a t P ( T t S a t a t ( P r d r t ( T a d l ( I t N C M B t a d a u G a a l p a a r o t p i i t P u r p t a n d n N a  P S " T S S " … ( T p S A d t P a o t s g r d i n ( I a G]
+[DELETED:  S  H ( " T o c ( " p m a p s e o o i c b a h b p " p i a b c ( " o r g d S " T t o t o c f a h c s a t p o o d s a t a r f m n d d c  P S l]

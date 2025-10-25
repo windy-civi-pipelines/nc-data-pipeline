@@ -1,0 +1,725 @@
+Title: HOUSE BILL 376
+Official Title: HOUSE BILL 376
+Number of Sections: 1
+Source: versions - Edition 1
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+Short Title: Various On-Site Wastewater & Well Provisions. (Public)
+Sponsors: Representatives Brody, Zenger, and Riddell (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Housing and Development, if favorable, Agriculture and Environment, if
+favorable, Rules, Calendar, and Operations of the House
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO ON-SITE WASTEWATER PROVISIONS,
+3 TO ESTABLISH THE PRIVATE DRINKING WATER WELL TASK FORCE, AND TO
+4 ALLOW CERTAIN CERTIFIED WELL CONTRACTORS TO PERFORM WELL SITE
+5 EVALUATIONS.
+6 The General Assembly of North Carolina enacts:
+7
+8 ON-SITE WASTEWATER BOARD CHANGES
+9 SECTION 1.(a) G.S. 90A-73 reads as rewritten:
+10 "§ 90A-73. Creation and membership of the Board.
+11 (a) Creation and Appointments. – There is created the North Carolina On-Site
+12 Wastewater Contractors and Inspectors Certification Board. The Board shall consist of nine
+13 members appointed to three-year terms as follows:
+14 …
+15 (j) Term Limits. – No member of the Board may serve more than two consecutive
+16 three-year terms."
+17 SECTION 1.(b) This section is effective when it becomes law and applies to Board
+18 terms beginning on or after July 1, 2026.
+19 SECTION 2.(a) G.S. 90A-77, as amended by S.L. 2024-49, reads as rewritten:
+20 "§ 90A-77. Certification requirements.
+21 (a) Certification. – The Board shall issue a certificate to an applicant who satisfies all of
+22 the following conditions:
+23 (1) Is at least 18 years of age.
+24 (2) Submits a properly completed application with all required supporting
+25 documents for the certification being applied for to the Board.
+26 (3) For grade level II contractor certification, applicant shall satisfy the following
+27 conditions:
+28 a. Complete the basic on-site wastewater education approved by the
+29 Board for any level.
+30 b. Complete any additional class hours required for grade level II.
+31 (3a) For grade level IV contractor certification, applicant shall satisfy the following
+32 conditions:
+33 a. Hold current and satisfactory certification of grade level II for a
+34 minimum of two years prior to application for grade level IV.
+*H376-v-1*
+General Assembly Of North Carolina Session 2025
+1 b. Complete any additional class hours required for grade level IV.
+2 (3b) For inspector certification, applicant shall satisfy the following conditions:
+3 a. Complete the point-of-sale inspector education approved by the
+4 Board.
+5 b. Complete any additional class hours required for point-of-sale
+6 inspector certification.
+7 c. Hold current and satisfactory certification of grade level IV contractor,
+8 or Authorized On-Site Wastewater Evaluator or subsurface operator
+9 certification for a minimum of two years.
+10 d. In lieu of the experience requirements in this subdivision, an applicant
+11 may instead complete the approved education requirements for the
+12 grade IV contractor certification as required by the Board. This
+13 sub-subdivision shall not apply to a person certified as a grade II
+14 contractor.
+15 (3c) For Authorized On-Site Wastewater Evaluator, applicant shall complete the
+16 Authorized On-Site Wastewater Evaluator education approved by the Board.
+17 (3d) For Private Compliance Inspector, applicant shall satisfy the following
+18 conditions:
+19 a. Complete the Private Compliance Inspector education approved by the
+20 Board.
+21 b. Complete any additional class hours required by the Board for
+22 compliance inspector certification.
+23 c. Have a minimum of 5 years of experience as a certified contractor,
+24 Authorized On-Site Wastewater Evaluator, subsurface operator, or a
+25 registered environmental health specialist with experience in on-site
+26 wastewater matters.
+27 d. Not be employed by a local health department.
+28 (4) Repealed by Session Laws 2010-31, s. 13.2(l), effective July 1, 2010.
+29 (5) Completes any additional training program designed by the Board specific to
+30 the grade level for which the applicant is applying.
+31 (6) Pays the applicable fees set by the Board for the particular application.
+32 (7) Passes a written or oral examination that tests the applicant's proficiency in all
+33 of the following areas:
+34 a. Principles of public and environmental health associated with on-site
+35 wastewater systems.
+36 b. Principles of construction and safety.
+37 c. Technical and practical knowledge of on-site wastewater systems.
+38 d. Laws and rules related to the installation, construction, repair,
+39 point-of-sale inspection, evaluation, or private compliance inspection
+40 of on-site wastewater systems.
+41 (8) Holds sufficient general liability coverage and professional liability coverage
+42 for the project as well as errors and omissions coverage, where applicable.
+43 …."
+44 SECTION 2.(b) G.S. 90A-78 reads as rewritten:
+45 "§ 90A-78. Certification renewal.
+46 (a) Renewal. – All certifications shall expire on December 31 of each year unless they
+47 are renewed. To renew a certification, a contractor, inspector, Authorized On-Site Wastewater
+48 Evaluator, or Private Compliance Inspector must meet all of the following conditions:
+49 (1) Submit an application for renewal on the form prescribed by the Board, which
+50 includes all supporting documents requested on the renewal form.form, and
+Page 2 House Bill 376-First Edition
+General Assembly Of North Carolina Session 2025
+1 proof that the applicant holds sufficient liability coverage pursuant to
+2 G.S. 90A-77(a)(8).
+3 (2) Meet the following continuing education requirements:
+4 a. Grade level II contractor: 3 hours per year.
+5 b. Grade level IV contractor: 6 hours per year.
+6 c. Point-of-sale inspector: 6 hours per year.
+7 d. Authorized on-site wastewater evaluator: 12 hours per year.
+8 e. Private compliance inspector: 12 hours per year.
+9 f. For persons holding more than one certification issued by the Board,
+10 the higher annual hours continuing education requirement of all
+11 certificates held.
+12 (3) Pay the certification renewal fee.
+13 (4) Submit the renewal completed renewal package by November 15 annually.
+14 …."
+15
+16 ON-SITE WASTEWATER SYSTEM CHANGES
+17 SECTION 3.(a) G.S. 130A-335 reads as rewritten:
+18 "§ 130A-335. Wastewater collection, treatment and disposal; rules.
+19 …
+20 (c) A wastewater system subject to approval under rules of the Commission shall be
+21 reviewed and approved under rules of a local board of health in the following circumstances:
+22 (1) The local board of health, on its own motion, has requested the Department to
+23 review its proposed rules concerning wastewater systems; and
+24 (2) The local board of health has adopted by reference the wastewater system
+25 rules adopted by the Commission, with any more stringent modifications or
+26 additions deemed necessary by the local board of health to protect the public
+27 health. Local boards of health shall use historical experience to establish
+28 modifications or additions to rules established by the Commission; andA local
+29 board of health may not adopt any more stringent modifications or additions
+30 unless the local board of health has entered into an agreement with the
+31 Department pursuant to G.S. 143-300.8, and the Department has reviewed and
+32 approved the modification or addition; and
+33 (3) The Department has has, consistent with subsection (c3) of this section, found
+34 that the rules, including modifications or additions to the Commission's rules,
+35 of the local board of health concerning wastewater collection, treatment and
+36 disposal systems are at least as stringent as rules adopted by the Commission
+37 and are sufficient and necessary to safeguard the public health.
+38 …
+39 (c3) The Department shall adopt rules of evidence to determine the validity of proposals
+40 from local boards of health seeking modifications or additions to rules established by the
+41 Commission based solely on the necessity to protect the public health. In evaluating the validity
+42 of a local health department's proposed modifications or additions pursuant to subdivision (3) of
+43 subsection (c) of this section, the Department shall hold public hearings and notice those hearings
+44 the Department's webpage upon application for modification or addition of Commission rules by
+45 the local health department. The Department shall make its findings available to the public before
+46 approving or denying a proposed modification or addition.
+47 (d) The Department may, upon its own motion, upon the request of a local board of health
+48 or upon the request of a citizen of an affected county, review its findings under subsection (c) of
+49 this section.
+50 The Department shall review its findings under subsection (c) of this section upon
+51 modification by the Commission of the rules applicable to wastewater systems. The Department
+House Bill 376-First Edition Page 3
+General Assembly Of North Carolina Session 2025
+1 may deny, suspend, or revoke the approval of local board of health wastewater system rules upon
+2 a finding that the local wastewater rules are not as stringent as rules adopted by the Commission,
+3 are not sufficient and necessary to safeguard the public health, or are not being enforced.
+4 Suspension and revocation of approval shall be in accordance with G.S. 130A-23. The
+5 Department shall review all approved rules adopted by a local health department pursuant to
+6 subsection (c) of this section every four years and shall rescind approval for any rule the
+7 Department finds is unnecessary to protect the public health.
+8 …
+9 (f) The rules of the Commission and the rules of the local board of health shall classify
+10 systems of wastewater collection, treatment and disposal according to size, type of treatment and
+11 any other appropriate factors. The rules shall provide construction requirements, including
+12 pretreatment and system control requirements, standards for operation, maintenance, monitoring,
+13 reporting, and ownership requirements for each classification of systems of wastewater
+14 collection, treatment and disposal in order to prevent, as far as reasonably possible, any
+15 contamination of the land, groundwater and surface waters. The Department and local health
+16 departments may impose conditions on the issuance of permits and may revoke the permits for
+17 failure of the system to satisfy the conditions, the rules, or this Article. Permits other than
+18 improvement permits shall be valid for a period prescribed by rule. Improvement permits shall
+19 be valid upon a showing satisfactory to the Department or the local health department that the
+20 site and soil conditions are unaltered, that the facility, design wastewater flow, and wastewater
+21 characteristics are not increased, and that a wastewater system can be installed that meets the
+22 permitting requirements in effect on the date the Improvement Permit was issued. Improvement
+23 permits for which a plat or site plan is provided shall be valid without expiration. Improvement
+24 permits for which a site plan is provided shall be valid for five years. The period of time for
+25 which the permit is valid and a A statement that the permit an Improvement Permit or a
+26 Construction Authorization is subject to revocation if the site plan or plat, whichever is
+27 applicable, or the intended use changes revocation or amendment if the intended use, design daily
+28 flow, or site conditions change shall be displayed prominently on both the application form for
+29 the permit and the permit.
+30 …."
+31 SECTION 3.(b) G.S. 130A-336 reads as rewritten:
+32 "§ 130A-336. Improvement permit and construction authorization required.
+33 (a) Any proposed site for a residence, place of business, or place of public assembly in
+34 an area not served by an approved wastewater system shall be evaluated by either (i) the local
+35 health department in accordance with rules adopted pursuant to this Article or (ii) by a
+36 professional engineer, licensed soil scientist, or licensed geologist acting within the engineer's,
+37 soil scientist's, or geologist's scope of work, as applicable, and pursuant to the conditions of the
+38 engineered option permit in G.S. 130A-336.1 or the Authorized On-Site Wastewater Evaluator
+39 permit option in G.S. 130A-336.2. An improvement permit issued by a local health department
+40 shall include:
+41 (1) For permits that are valid without expiration, a plat, or, for permits that are
+42 valid for five years, A plat or a site plan.
+43 (2) A description of the facility the proposed site is to serve.
+44 (3) The proposed wastewater system and its location.
+45 (4) The design wastewater flow and characteristics.
+46 (5) The conditions for any site modifications.
+47 (6) Any other information required by the rules of the Commission.
+48 Neither the improvement permit nor the construction authorization shall be affected by change
+49 of ownership of the site for the wastewater system provided both the site for the wastewater
+50 system and the facility the system serves are unchanged and remain under the ownership or
+51 control of the person owning the facility. No person shall commence or assist in the construction,
+Page 4 House Bill 376-First Edition
+General Assembly Of North Carolina Session 2025
+1 location, or relocation of a residence, place of business, or place of public assembly in an area
+2 not served by an approved wastewater system unless an improvement permit and a construction
+3 authorization are obtained from the local health department unless that person is acting in
+4 accordance with the conditions and criteria of an engineered option permit pursuant to
+5 G.S. 130A-336.1 or the Authorized On-Site Wastewater Evaluator permit option pursuant to
+6 G.S. 130A-336.2. This requirement shall not apply to a manufactured residence exhibited for sale
+7 or stored for later sale and intended to be located at another site after sale.
+8 (b) The local health department shall issue a construction authorization authorizing work
+9 to proceed and the installation or repair of a wastewater system when it has determined after a
+10 field investigation that the system can be installed and operated in compliance with this Article
+11 and rules adopted pursuant to this Article. This construction authorization shall be valid for a
+12 period equal to the period of validity of the improvement permit and may be issued at the same
+13 time the improvement permit is issued. No person shall commence or assist in the installation,
+14 construction, or repair of a wastewater system unless an improvement permit and a construction
+15 authorization have been obtained from the Department or the local health department unless that
+16 person is acting in accordance with the conditions and criteria of an engineered option permit
+17 pursuant to G.S. 130A-336.1 or the Authorized On-Site Wastewater Evaluator permit option
+18 pursuant to G.S. 130A-336.2. No improvement permit or construction authorization shall be
+19 required for maintenance of a wastewater system. The Department and the local health
+20 department may impose conditions on the issuance of an improvement permit and a construction
+21 authorization. The Department or the local health department may delay the start of construction
+22 of any system until a verification shows that site conditions are unchanged from the issuance of
+23 the improvement permit, except that the verification shall not include a geological soil
+24 assessment. The owner of the proposed wastewater system may accept or decline the findings of
+25 a reassessment of the soils on the site.
+26 …."
+27 SECTION 3.(c) G.S. 130A-337 reads as rewritten:
+28 "§ 130A-337. Inspection; operation permit required.
+29 (a) No system of wastewater collection, treatment and disposal shall be covered or placed
+30 into use by any person until an inspection by the local health department has determined that the
+31 system has been installed or repaired in accordance with any conditions of the Improvement
+32 Permit, the rules, and this Article.
+33 (a1) Notwithstanding subsection (a) of this section, an applicant may contract with an
+34 Authorized On-Site Wastewater Evaluator certified pursuant to Article 5 of Chapter 90A of the
+35 General Statutes or an engineer licensed pursuant to Chapter 89C of the General Statutes to
+36 conduct any required verifications or inspections. The evaluator or engineer shall provide the
+37 applicant with written verification that all conditions of the Improvement Permit and
+38 Construction Authorization have been met, including an as-built drawing meeting the standards
+39 and scale of the local health department issuing the Construction Authorization as certified by
+40 the evaluator. evaluator or engineer. The applicant may cover the system and place it into
+41 operation upon receipt of the evaluator's written verification and shall submit the verification to
+42 the local health department within two business days of receipt of the verification. The
+43 Department, the Department's authorized agents, and the local health department shall be
+44 discharged and released from any liabilities, duties, and responsibilities imposed by statute or
+45 common law from any claim arising out of or attributed to the on-site wastewater system
+46 installation.
+47 …
+48 (b) Upon determining that the system is properly installed or repaired and that the system
+49 is capable of being operated in installation or repair of a wastewater system in accordance with
+50 the conditions of the Improvement Permit, the rules, this Article and any conditions to be imposed
+51 in the operation permit, Permit and the Construction Authorization, including any site
+House Bill 376-First Edition Page 5
+General Assembly Of North Carolina Session 2025
+1 modification conditions noted in the Improvement Permit or Construction Authorization, as
+2 applicable, applicable, or upon receipt of written verification submitted pursuant to subsection
+3 (a1) or (a2) of this section, the local health department shall issue an operation permit authorizing
+4 the residence, place of business or place of public assembly to be occupied and for the system to
+5 be placed into use or reuse. A local health department may not withhold issuance of an operation
+6 permit if the wastewater system was installed or repaired pursuant to the Improvement Permit,
+7 Construction Authorization, and any conditions noted in either permit at the time of issuance
+8 unless the wastewater system owner agrees, in writing, to additional conditions in the operation
+9 permit. Any additional conditions in the operation permit agreed to by the wastewater system
+10 owner shall be recorded in the operation permit.
+11 …."
+12
+13 PRIVATE DRINKING WATER WELL TASK FORCE
+14 SECTION 4.(a) There is established the Private Drinking Water Well Task Force
+15 (Task Force). The Task Force shall consist of seven members, as follows:
+16 (1) A representative of the North Carolina Department of Health and Human
+17 Services, Division of Public Health, Environmental Health Section.
+18 (2) A representative of the Department of Environmental Quality, Division of
+19 Water Resources, Groundwater Resources Section.
+20 (3) A representative of the North Carolina Environmental Health Supervisors
+21 Association.
+22 (4) A person recommended by the North Carolina On-Site Wastewater
+23 Contractors and Inspectors Certification Board.
+24 (5) A person recommended by the Well Contractors Certification Commission
+25 and actively conducting business constructing private wells.
+26 (6) A representative of the North Carolina Groundwater Association who
+27 currently holds a Level A certification.
+28 (7) A representative of the North Carolina Groundwater Association who
+29 currently holds a Level C certification.
+30 SECTION 4.(b) The first meeting of the Task Force shall be held no later than June
+31 1, 2025. The Task Force member from the Department of Health and Human Services shall chair
+32 the first meeting of the Task Force. The permanent chair of the Task Force shall be elected by a
+33 majority of the members of the Task Force present and voting at the first meeting. A majority of
+34 the Task Force members shall constitute a quorum for the transaction of business. No action may
+35 be taken except by a majority vote at a meeting at which a quorum is present.
+36 SECTION 4.(c) The Task Force shall conduct a study and issue a report to
+37 recommend streamlining private drinking water well rules to the Environmental Management
+38 Commission. In conducting this study, the Task Force may collaborate with any stakeholders it
+39 deems appropriate. The report must make recommendations for all of the following:
+40 (1) Streamlining existing regulations for the installation, construction,
+41 maintenance, and repair of private drinking water wells.
+42 (2) Whether to eliminate local drinking water well programs, in favor of a uniform
+43 statewide program.
+44 (3) Whether to consolidate authority and oversight of drinking water wells within
+45 one rulemaking body or agency.
+46 (4) Whether to allow certified well contractors to install interior well filtration
+47 units when also constructing a private water well on site, providing that
+48 certified well contractors shall not hold themselves out as licensed plumbers
+49 when conducting this installation.
+50 (5) Any other recommendations the Task Force considers relevant to this section.
+Page 6 House Bill 376-First Edition
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.(d) The Task Force shall transmit its report to the Joint Legislative
+2 Oversight Committee on Agriculture and Natural and Economic Resources, the Environmental
+3 Review Commission, the Joint Legislative Oversight Committee on Health and Human Services,
+4 and the Environmental Management Commission no later than December 31, 2025. The Task
+5 Force will terminate on the earlier of the date it transmits its report or December 31, 2025.
+6
+7 PRIVATE DRINKING WATER WELL PROGRAM
+8 SECTION 5. G.S. 87-97 reads as rewritten:
+9 "§ 87-97. Permitting and testing of private drinking water wells.
+10 …
+11 (d) Well Site Evaluation. – The local health department or a person certified both as a
+12 well contractor pursuant to Article 7A of this Chapter and as either a Level IV contractor,
+13 inspector, or Authorized On-Site Wastewater Evaluator pursuant to Article 5 of Chapter 90A of
+14 the General Statutes shall conduct a field investigation to evaluate the site on which a private
+15 drinking water well is proposed to be located before issuing a permit pursuant to this section. The
+16 well contractor of record for a proposed well site cannot perform the field investigation required
+17 by this subsection. The field investigation shall determine whether there is any abandoned well
+18 located on the site, and if so, the construction permit shall be conditioned upon the proper closure
+19 of all abandoned wells located on the site in accordance with the requirements of this Article and
+20 rules adopted pursuant to this Article. If a private drinking water well is proposed to be located
+21 on a site on which a wastewater system subject to the requirements of Article 11 of Chapter 130A
+22 of the General Statutes is located or proposed to be located, the application for a construction
+23 permit shall be accompanied by a plat or site plan, as defined in G.S. 130A-334.
+24 If the well location marked on the map submitted with an application to a local well program
+25 is also marked with a stake or similar marker on the property, then the local well program may
+26 not require the contractor to be on site during the on-site predrill inspection, as long as the
+27 contractor is available by telephone to answer questions.
+28 The Department, the Department's authorized agents, or local health departments shall have
+29 no liability for site evaluations performed by a certified well contractor pursuant to this
+30 subsection.
+31 …."
+32
+33 EFFECTIVE DATE
+34 SECTION 6. Except as otherwise provided, this act is effective when it becomes
+35 law.
+House Bill 376-First Edition Page 7
+[DELETED:  1 V ( R H a D i f A a E i A A T A E T  O S " ( C a A – T i c t N C O W a I B m … ( T L – N m o t B m s m t t c t S t S " ( C t ( I ( S a p c a w a r s d ( F c a C t b o w e a b t B b C ( F c a H c a s c o g l I f a m]
+[DELETED:  S  H b C ( F a C t p i e a b t B b C a a c h r f p i c H o c d I m g I c c a r b t B T s s n a t a p c a a g I c ( F A ( F P C I a s s t f c a C B b C a a c h r b t B f c c H A r w d N ( R ( C t ( P ( P o a P w b P c T d L a r r t t i c r p o ( H f … S " ( R a E ( S i]
+[DELETED:  S  P p t t a h s l c p t G ( M a G 3 b G 6 c P 6 d A 1 e P 1 f F t h a h c e r o a c ( P ( S …  O S " … ( A r ( T r ( T r a h L b o h s u h e t e m b u t l b o h h e i a a w t D a ( T t o d a … ( T f l b o h s m o a t r e b t C o s t t a ( T o t T D s r i f u s ( o t s u m]
+[DELETED:  S  H m a a n s a n t s t p h o a n b e S a r o a s b i a w G T D s ( o t s e f y a s r a f a r t D … ( T s a o a f T r s p c r i p r a o r f e c o s o w c t a d i o t p a f a r p a c d f o t s t s t c t r o t A P o t i b s c p p p w t p i v a a A s t t p a I P o a C A i s t r i t s p o p w i a f t … S " ( A a h d i a w r a p t t A o ( b a p s e p s ( F v ( A ( T ( T ( T ( A N o s c]
+[DELETED:  S  P l n a a o f t l h d u t p i a i a w t c a c o a e o p p t G G o ( T t f a p t c a p p p r f m o a w s T D a t l h d a o t i p e t t v s n i a g s a a … S " ( N i s P ( N A G c a w w v t a c o t I P a C a t e e o e T a m c t s a p i i o t l h d w t b d o r o t v T D t D a a a t l h d s b d c l f a c a o o o a t t o w s i … ( U i t i t o p P a t C A i a s]
+[DELETED:  S  H m c n i t I P o A a a ( t b p C u p o …  P S ( ( A N D S ( A W ( A r o t N C E H S A ( A p r b t N C O W C ( A a ( A r o t N C G A w c ( A r o t N C G A w c S 1 t m t b S 4  T T F s c a s a i a r t r C d ( S e r f t i c m ( W s ( W o ( W u w a c a p w w o s p t c w ( A]
+[DELETED:  S  P S O R a F  P S " … ( W w c p t A 7 o C a a e a L I c i t d w b l o r o o p I i n c T n l f s e p b a c w c p t t s …  E S l]
+
+
+================================================================================
+
+Raw Text:
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 1
+HOUSE BILL 376
+Short Title: Various On-Site Wastewater & Well Provisions. (Public)
+Sponsors: Representatives Brody, Zenger, and Riddell (Primary Sponsors).
+For a complete list of sponsors, refer to the North Carolina General Assembly web site.
+Referred to: Housing and Development, if favorable, Agriculture and Environment, if
+favorable, Rules, Calendar, and Operations of the House
+March 13, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO ON-SITE WASTEWATER PROVISIONS,
+3 TO ESTABLISH THE PRIVATE DRINKING WATER WELL TASK FORCE, AND TO
+4 ALLOW CERTAIN CERTIFIED WELL CONTRACTORS TO PERFORM WELL SITE
+5 EVALUATIONS.
+6 The General Assembly of North Carolina enacts:
+7
+8 ON-SITE WASTEWATER BOARD CHANGES
+9 SECTION 1.(a) G.S. 90A-73 reads as rewritten:
+10 "§ 90A-73. Creation and membership of the Board.
+11 (a) Creation and Appointments. – There is created the North Carolina On-Site
+12 Wastewater Contractors and Inspectors Certification Board. The Board shall consist of nine
+13 members appointed to three-year terms as follows:
+14 …
+15 (j) Term Limits. – No member of the Board may serve more than two consecutive
+16 three-year terms."
+17 SECTION 1.(b) This section is effective when it becomes law and applies to Board
+18 terms beginning on or after July 1, 2026.
+19 SECTION 2.(a) G.S. 90A-77, as amended by S.L. 2024-49, reads as rewritten:
+20 "§ 90A-77. Certification requirements.
+21 (a) Certification. – The Board shall issue a certificate to an applicant who satisfies all of
+22 the following conditions:
+23 (1) Is at least 18 years of age.
+24 (2) Submits a properly completed application with all required supporting
+25 documents for the certification being applied for to the Board.
+26 (3) For grade level II contractor certification, applicant shall satisfy the following
+27 conditions:
+28 a. Complete the basic on-site wastewater education approved by the
+29 Board for any level.
+30 b. Complete any additional class hours required for grade level II.
+31 (3a) For grade level IV contractor certification, applicant shall satisfy the following
+32 conditions:
+33 a. Hold current and satisfactory certification of grade level II for a
+34 minimum of two years prior to application for grade level IV.
+*H376-v-1*
+
+General Assembly Of North Carolina Session 2025
+1 b. Complete any additional class hours required for grade level IV.
+2 (3b) For inspector certification, applicant shall satisfy the following conditions:
+3 a. Complete the point-of-sale inspector education approved by the
+4 Board.
+5 b. Complete any additional class hours required for point-of-sale
+6 inspector certification.
+7 c. Hold current and satisfactory certification of grade level IV contractor,
+8 or Authorized On-Site Wastewater Evaluator or subsurface operator
+9 certification for a minimum of two years.
+10 d. In lieu of the experience requirements in this subdivision, an applicant
+11 may instead complete the approved education requirements for the
+12 grade IV contractor certification as required by the Board. This
+13 sub-subdivision shall not apply to a person certified as a grade II
+14 contractor.
+15 (3c) For Authorized On-Site Wastewater Evaluator, applicant shall complete the
+16 Authorized On-Site Wastewater Evaluator education approved by the Board.
+17 (3d) For Private Compliance Inspector, applicant shall satisfy the following
+18 conditions:
+19 a. Complete the Private Compliance Inspector education approved by the
+20 Board.
+21 b. Complete any additional class hours required by the Board for
+22 compliance inspector certification.
+23 c. Have a minimum of 5 years of experience as a certified contractor,
+24 Authorized On-Site Wastewater Evaluator, subsurface operator, or a
+25 registered environmental health specialist with experience in on-site
+26 wastewater matters.
+27 d. Not be employed by a local health department.
+28 (4) Repealed by Session Laws 2010-31, s. 13.2(l), effective July 1, 2010.
+29 (5) Completes any additional training program designed by the Board specific to
+30 the grade level for which the applicant is applying.
+31 (6) Pays the applicable fees set by the Board for the particular application.
+32 (7) Passes a written or oral examination that tests the applicant's proficiency in all
+33 of the following areas:
+34 a. Principles of public and environmental health associated with on-site
+35 wastewater systems.
+36 b. Principles of construction and safety.
+37 c. Technical and practical knowledge of on-site wastewater systems.
+38 d. Laws and rules related to the installation, construction, repair,
+39 point-of-sale inspection, evaluation, or private compliance inspection
+40 of on-site wastewater systems.
+41 (8) Holds sufficient general liability coverage and professional liability coverage
+42 for the project as well as errors and omissions coverage, where applicable.
+43 …."
+44 SECTION 2.(b) G.S. 90A-78 reads as rewritten:
+45 "§ 90A-78. Certification renewal.
+46 (a) Renewal. – All certifications shall expire on December 31 of each year unless they
+47 are renewed. To renew a certification, a contractor, inspector, Authorized On-Site Wastewater
+48 Evaluator, or Private Compliance Inspector must meet all of the following conditions:
+49 (1) Submit an application for renewal on the form prescribed by the Board, which
+50 includes all supporting documents requested on the renewal form.form, and
+Page 2 House Bill 376-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 proof that the applicant holds sufficient liability coverage pursuant to
+2 G.S. 90A-77(a)(8).
+3 (2) Meet the following continuing education requirements:
+4 a. Grade level II contractor: 3 hours per year.
+5 b. Grade level IV contractor: 6 hours per year.
+6 c. Point-of-sale inspector: 6 hours per year.
+7 d. Authorized on-site wastewater evaluator: 12 hours per year.
+8 e. Private compliance inspector: 12 hours per year.
+9 f. For persons holding more than one certification issued by the Board,
+10 the higher annual hours continuing education requirement of all
+11 certificates held.
+12 (3) Pay the certification renewal fee.
+13 (4) Submit the renewal completed renewal package by November 15 annually.
+14 …."
+15
+16 ON-SITE WASTEWATER SYSTEM CHANGES
+17 SECTION 3.(a) G.S. 130A-335 reads as rewritten:
+18 "§ 130A-335. Wastewater collection, treatment and disposal; rules.
+19 …
+20 (c) A wastewater system subject to approval under rules of the Commission shall be
+21 reviewed and approved under rules of a local board of health in the following circumstances:
+22 (1) The local board of health, on its own motion, has requested the Department to
+23 review its proposed rules concerning wastewater systems; and
+24 (2) The local board of health has adopted by reference the wastewater system
+25 rules adopted by the Commission, with any more stringent modifications or
+26 additions deemed necessary by the local board of health to protect the public
+27 health. Local boards of health shall use historical experience to establish
+28 modifications or additions to rules established by the Commission; andA local
+29 board of health may not adopt any more stringent modifications or additions
+30 unless the local board of health has entered into an agreement with the
+31 Department pursuant to G.S. 143-300.8, and the Department has reviewed and
+32 approved the modification or addition; and
+33 (3) The Department has has, consistent with subsection (c3) of this section, found
+34 that the rules, including modifications or additions to the Commission's rules,
+35 of the local board of health concerning wastewater collection, treatment and
+36 disposal systems are at least as stringent as rules adopted by the Commission
+37 and are sufficient and necessary to safeguard the public health.
+38 …
+39 (c3) The Department shall adopt rules of evidence to determine the validity of proposals
+40 from local boards of health seeking modifications or additions to rules established by the
+41 Commission based solely on the necessity to protect the public health. In evaluating the validity
+42 of a local health department's proposed modifications or additions pursuant to subdivision (3) of
+43 subsection (c) of this section, the Department shall hold public hearings and notice those hearings
+44 the Department's webpage upon application for modification or addition of Commission rules by
+45 the local health department. The Department shall make its findings available to the public before
+46 approving or denying a proposed modification or addition.
+47 (d) The Department may, upon its own motion, upon the request of a local board of health
+48 or upon the request of a citizen of an affected county, review its findings under subsection (c) of
+49 this section.
+50 The Department shall review its findings under subsection (c) of this section upon
+51 modification by the Commission of the rules applicable to wastewater systems. The Department
+House Bill 376-First Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 may deny, suspend, or revoke the approval of local board of health wastewater system rules upon
+2 a finding that the local wastewater rules are not as stringent as rules adopted by the Commission,
+3 are not sufficient and necessary to safeguard the public health, or are not being enforced.
+4 Suspension and revocation of approval shall be in accordance with G.S. 130A-23. The
+5 Department shall review all approved rules adopted by a local health department pursuant to
+6 subsection (c) of this section every four years and shall rescind approval for any rule the
+7 Department finds is unnecessary to protect the public health.
+8 …
+9 (f) The rules of the Commission and the rules of the local board of health shall classify
+10 systems of wastewater collection, treatment and disposal according to size, type of treatment and
+11 any other appropriate factors. The rules shall provide construction requirements, including
+12 pretreatment and system control requirements, standards for operation, maintenance, monitoring,
+13 reporting, and ownership requirements for each classification of systems of wastewater
+14 collection, treatment and disposal in order to prevent, as far as reasonably possible, any
+15 contamination of the land, groundwater and surface waters. The Department and local health
+16 departments may impose conditions on the issuance of permits and may revoke the permits for
+17 failure of the system to satisfy the conditions, the rules, or this Article. Permits other than
+18 improvement permits shall be valid for a period prescribed by rule. Improvement permits shall
+19 be valid upon a showing satisfactory to the Department or the local health department that the
+20 site and soil conditions are unaltered, that the facility, design wastewater flow, and wastewater
+21 characteristics are not increased, and that a wastewater system can be installed that meets the
+22 permitting requirements in effect on the date the Improvement Permit was issued. Improvement
+23 permits for which a plat or site plan is provided shall be valid without expiration. Improvement
+24 permits for which a site plan is provided shall be valid for five years. The period of time for
+25 which the permit is valid and a A statement that the permit an Improvement Permit or a
+26 Construction Authorization is subject to revocation if the site plan or plat, whichever is
+27 applicable, or the intended use changes revocation or amendment if the intended use, design daily
+28 flow, or site conditions change shall be displayed prominently on both the application form for
+29 the permit and the permit.
+30 …."
+31 SECTION 3.(b) G.S. 130A-336 reads as rewritten:
+32 "§ 130A-336. Improvement permit and construction authorization required.
+33 (a) Any proposed site for a residence, place of business, or place of public assembly in
+34 an area not served by an approved wastewater system shall be evaluated by either (i) the local
+35 health department in accordance with rules adopted pursuant to this Article or (ii) by a
+36 professional engineer, licensed soil scientist, or licensed geologist acting within the engineer's,
+37 soil scientist's, or geologist's scope of work, as applicable, and pursuant to the conditions of the
+38 engineered option permit in G.S. 130A-336.1 or the Authorized On-Site Wastewater Evaluator
+39 permit option in G.S. 130A-336.2. An improvement permit issued by a local health department
+40 shall include:
+41 (1) For permits that are valid without expiration, a plat, or, for permits that are
+42 valid for five years, A plat or a site plan.
+43 (2) A description of the facility the proposed site is to serve.
+44 (3) The proposed wastewater system and its location.
+45 (4) The design wastewater flow and characteristics.
+46 (5) The conditions for any site modifications.
+47 (6) Any other information required by the rules of the Commission.
+48 Neither the improvement permit nor the construction authorization shall be affected by change
+49 of ownership of the site for the wastewater system provided both the site for the wastewater
+50 system and the facility the system serves are unchanged and remain under the ownership or
+51 control of the person owning the facility. No person shall commence or assist in the construction,
+Page 4 House Bill 376-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 location, or relocation of a residence, place of business, or place of public assembly in an area
+2 not served by an approved wastewater system unless an improvement permit and a construction
+3 authorization are obtained from the local health department unless that person is acting in
+4 accordance with the conditions and criteria of an engineered option permit pursuant to
+5 G.S. 130A-336.1 or the Authorized On-Site Wastewater Evaluator permit option pursuant to
+6 G.S. 130A-336.2. This requirement shall not apply to a manufactured residence exhibited for sale
+7 or stored for later sale and intended to be located at another site after sale.
+8 (b) The local health department shall issue a construction authorization authorizing work
+9 to proceed and the installation or repair of a wastewater system when it has determined after a
+10 field investigation that the system can be installed and operated in compliance with this Article
+11 and rules adopted pursuant to this Article. This construction authorization shall be valid for a
+12 period equal to the period of validity of the improvement permit and may be issued at the same
+13 time the improvement permit is issued. No person shall commence or assist in the installation,
+14 construction, or repair of a wastewater system unless an improvement permit and a construction
+15 authorization have been obtained from the Department or the local health department unless that
+16 person is acting in accordance with the conditions and criteria of an engineered option permit
+17 pursuant to G.S. 130A-336.1 or the Authorized On-Site Wastewater Evaluator permit option
+18 pursuant to G.S. 130A-336.2. No improvement permit or construction authorization shall be
+19 required for maintenance of a wastewater system. The Department and the local health
+20 department may impose conditions on the issuance of an improvement permit and a construction
+21 authorization. The Department or the local health department may delay the start of construction
+22 of any system until a verification shows that site conditions are unchanged from the issuance of
+23 the improvement permit, except that the verification shall not include a geological soil
+24 assessment. The owner of the proposed wastewater system may accept or decline the findings of
+25 a reassessment of the soils on the site.
+26 …."
+27 SECTION 3.(c) G.S. 130A-337 reads as rewritten:
+28 "§ 130A-337. Inspection; operation permit required.
+29 (a) No system of wastewater collection, treatment and disposal shall be covered or placed
+30 into use by any person until an inspection by the local health department has determined that the
+31 system has been installed or repaired in accordance with any conditions of the Improvement
+32 Permit, the rules, and this Article.
+33 (a1) Notwithstanding subsection (a) of this section, an applicant may contract with an
+34 Authorized On-Site Wastewater Evaluator certified pursuant to Article 5 of Chapter 90A of the
+35 General Statutes or an engineer licensed pursuant to Chapter 89C of the General Statutes to
+36 conduct any required verifications or inspections. The evaluator or engineer shall provide the
+37 applicant with written verification that all conditions of the Improvement Permit and
+38 Construction Authorization have been met, including an as-built drawing meeting the standards
+39 and scale of the local health department issuing the Construction Authorization as certified by
+40 the evaluator. evaluator or engineer. The applicant may cover the system and place it into
+41 operation upon receipt of the evaluator's written verification and shall submit the verification to
+42 the local health department within two business days of receipt of the verification. The
+43 Department, the Department's authorized agents, and the local health department shall be
+44 discharged and released from any liabilities, duties, and responsibilities imposed by statute or
+45 common law from any claim arising out of or attributed to the on-site wastewater system
+46 installation.
+47 …
+48 (b) Upon determining that the system is properly installed or repaired and that the system
+49 is capable of being operated in installation or repair of a wastewater system in accordance with
+50 the conditions of the Improvement Permit, the rules, this Article and any conditions to be imposed
+51 in the operation permit, Permit and the Construction Authorization, including any site
+House Bill 376-First Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 modification conditions noted in the Improvement Permit or Construction Authorization, as
+2 applicable, applicable, or upon receipt of written verification submitted pursuant to subsection
+3 (a1) or (a2) of this section, the local health department shall issue an operation permit authorizing
+4 the residence, place of business or place of public assembly to be occupied and for the system to
+5 be placed into use or reuse. A local health department may not withhold issuance of an operation
+6 permit if the wastewater system was installed or repaired pursuant to the Improvement Permit,
+7 Construction Authorization, and any conditions noted in either permit at the time of issuance
+8 unless the wastewater system owner agrees, in writing, to additional conditions in the operation
+9 permit. Any additional conditions in the operation permit agreed to by the wastewater system
+10 owner shall be recorded in the operation permit.
+11 …."
+12
+13 PRIVATE DRINKING WATER WELL TASK FORCE
+14 SECTION 4.(a) There is established the Private Drinking Water Well Task Force
+15 (Task Force). The Task Force shall consist of seven members, as follows:
+16 (1) A representative of the North Carolina Department of Health and Human
+17 Services, Division of Public Health, Environmental Health Section.
+18 (2) A representative of the Department of Environmental Quality, Division of
+19 Water Resources, Groundwater Resources Section.
+20 (3) A representative of the North Carolina Environmental Health Supervisors
+21 Association.
+22 (4) A person recommended by the North Carolina On-Site Wastewater
+23 Contractors and Inspectors Certification Board.
+24 (5) A person recommended by the Well Contractors Certification Commission
+25 and actively conducting business constructing private wells.
+26 (6) A representative of the North Carolina Groundwater Association who
+27 currently holds a Level A certification.
+28 (7) A representative of the North Carolina Groundwater Association who
+29 currently holds a Level C certification.
+30 SECTION 4.(b) The first meeting of the Task Force shall be held no later than June
+31 1, 2025. The Task Force member from the Department of Health and Human Services shall chair
+32 the first meeting of the Task Force. The permanent chair of the Task Force shall be elected by a
+33 majority of the members of the Task Force present and voting at the first meeting. A majority of
+34 the Task Force members shall constitute a quorum for the transaction of business. No action may
+35 be taken except by a majority vote at a meeting at which a quorum is present.
+36 SECTION 4.(c) The Task Force shall conduct a study and issue a report to
+37 recommend streamlining private drinking water well rules to the Environmental Management
+38 Commission. In conducting this study, the Task Force may collaborate with any stakeholders it
+39 deems appropriate. The report must make recommendations for all of the following:
+40 (1) Streamlining existing regulations for the installation, construction,
+41 maintenance, and repair of private drinking water wells.
+42 (2) Whether to eliminate local drinking water well programs, in favor of a uniform
+43 statewide program.
+44 (3) Whether to consolidate authority and oversight of drinking water wells within
+45 one rulemaking body or agency.
+46 (4) Whether to allow certified well contractors to install interior well filtration
+47 units when also constructing a private water well on site, providing that
+48 certified well contractors shall not hold themselves out as licensed plumbers
+49 when conducting this installation.
+50 (5) Any other recommendations the Task Force considers relevant to this section.
+Page 6 House Bill 376-First Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 4.(d) The Task Force shall transmit its report to the Joint Legislative
+2 Oversight Committee on Agriculture and Natural and Economic Resources, the Environmental
+3 Review Commission, the Joint Legislative Oversight Committee on Health and Human Services,
+4 and the Environmental Management Commission no later than December 31, 2025. The Task
+5 Force will terminate on the earlier of the date it transmits its report or December 31, 2025.
+6
+7 PRIVATE DRINKING WATER WELL PROGRAM
+8 SECTION 5. G.S. 87-97 reads as rewritten:
+9 "§ 87-97. Permitting and testing of private drinking water wells.
+10 …
+11 (d) Well Site Evaluation. – The local health department or a person certified both as a
+12 well contractor pursuant to Article 7A of this Chapter and as either a Level IV contractor,
+13 inspector, or Authorized On-Site Wastewater Evaluator pursuant to Article 5 of Chapter 90A of
+14 the General Statutes shall conduct a field investigation to evaluate the site on which a private
+15 drinking water well is proposed to be located before issuing a permit pursuant to this section. The
+16 well contractor of record for a proposed well site cannot perform the field investigation required
+17 by this subsection. The field investigation shall determine whether there is any abandoned well
+18 located on the site, and if so, the construction permit shall be conditioned upon the proper closure
+19 of all abandoned wells located on the site in accordance with the requirements of this Article and
+20 rules adopted pursuant to this Article. If a private drinking water well is proposed to be located
+21 on a site on which a wastewater system subject to the requirements of Article 11 of Chapter 130A
+22 of the General Statutes is located or proposed to be located, the application for a construction
+23 permit shall be accompanied by a plat or site plan, as defined in G.S. 130A-334.
+24 If the well location marked on the map submitted with an application to a local well program
+25 is also marked with a stake or similar marker on the property, then the local well program may
+26 not require the contractor to be on site during the on-site predrill inspection, as long as the
+27 contractor is available by telephone to answer questions.
+28 The Department, the Department's authorized agents, or local health departments shall have
+29 no liability for site evaluations performed by a certified well contractor pursuant to this
+30 subsection.
+31 …."
+32
+33 EFFECTIVE DATE
+34 SECTION 6. Except as otherwise provided, this act is effective when it becomes
+35 law.
+House Bill 376-First Edition Page 7
+
+[DELETED:  1 V ( R H a D i f A a E i A A T A E T  O S " ( C a A – T i c t N C O W a I B m … ( T L – N m o t B m s m t t c t S t S " ( C t ( I ( S a p c a w a r s d ( F c a C t b o w e a b t B b C ( F c a H c a s c o g l I f a m]
+[DELETED:  S  H b C ( F a C t p i e a b t B b C a a c h r f p i c H o c d I m g I c c a r b t B T s s n a t a p c a a g I c ( F A ( F P C I a s s t f c a C B b C a a c h r b t B f c c H A r w d N ( R ( C t ( P ( P o a P w b P c T d L a r r t t i c r p o ( H f … S " ( R a E ( S i]
+[DELETED:  S  P p t t a h s l c p t G ( M a G 3 b G 6 c P 6 d A 1 e P 1 f F t h a h c e r o a c ( P ( S …  O S " … ( A r ( T r ( T r a h L b o h s u h e t e m b u t l b o h h e i a a w t D a ( T t o d a … ( T f l b o h s m o a t r e b t C o s t t a ( T o t T D s r i f u s ( o t s u m]
+[DELETED:  S  H m a a n s a n t s t p h o a n b e S a r o a s b i a w G T D s ( o t s e f y a s r a f a r t D … ( T s a o a f T r s p c r i p r a o r f e c o s o w c t a d i o t p a f a r p a c d f o t s t s t c t r o t A P o t i b s c p p p w t p i v a a A s t t p a I P o a C A i s t r i t s p o p w i a f t … S " ( A a h d i a w r a p t t A o ( b a p s e p s ( F v ( A ( T ( T ( T ( A N o s c]
+[DELETED:  S  P l n a a o f t l h d u t p i a i a w t c a c o a e o p p t G G o ( T t f a p t c a p p p r f m o a w s T D a t l h d a o t i p e t t v s n i a g s a a … S " ( N i s P ( N A G c a w w v t a c o t I P a C a t e e o e T a m c t s a p i i o t l h d w t b d o r o t v T D t D a a a t l h d s b d c l f a c a o o o a t t o w s i … ( U i t i t o p P a t C A i a s]
+[DELETED:  S  H m c n i t I P o A a a ( t b p C u p o …  P S ( ( A N D S ( A W ( A r o t N C E H S A ( A p r b t N C O W C ( A a ( A r o t N C G A w c ( A r o t N C G A w c S 1 t m t b S 4  T T F s c a s a i a r t r C d ( S e r f t i c m ( W s ( W o ( W u w a c a p w w o s p t c w ( A]
+[DELETED:  S  P S O R a F  P S " … ( W w c p t A 7 o C a a e a L I c i t d w b l o r o o p I i n c T n l f s e p b a c w c p t t s …  E S l]
